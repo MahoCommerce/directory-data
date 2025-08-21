@@ -1,0 +1,87 @@
+name: Update ISO Locale Data
+
+on:
+  schedule:
+    # Run every Sunday at 02:00 UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 'latest'
+          extensions: intl, mbstring, json
+          coverage: none
+      
+      - name: Validate composer.json
+        run: composer validate --strict
+      
+      - name: Install dependencies
+        run: composer install --no-dev --optimize-autoloader
+      
+      - name: Generate locale data
+        run: php generate.php
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            # Get current date for branch name
+            echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Create Pull Request
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update ISO locale data - ${{ steps.changes.outputs.date }}"
+          title: "🌍 Update ISO locale data - ${{ steps.changes.outputs.date }}"
+          body: |
+            ## Automated ISO Locale Data Update
+            
+            This PR contains updated country and region locale data generated from the latest upstream sources.
+            
+            ### Changes
+            - Updated `countries.json` with latest country translations
+            - Updated region files in `regions/` directory with latest subdivision translations
+            
+            ### Data Sources
+            - Debian's iso-codes project: https://salsa.debian.org/iso-codes-team/iso-codes
+            - PHP ISO Codes libraries for data processing
+            
+            ### Generated Files
+            - `countries.json` - Country names in all available locales
+            - `regions/*.json` - Regional subdivision names by country
+            
+            This update was automatically generated on ${{ steps.changes.outputs.date }}.
+          branch: "update-locale-data-${{ steps.changes.outputs.date }}"
+          branch-suffix: timestamp
+          delete-branch: true
+          labels: |
+            automated
+            data-update
+            locale
+      
+      - name: Output result
+        run: |
+          if [ "${{ steps.changes.outputs.has_changes }}" == "true" ]; then
+            echo "✅ Pull request created with updated locale data"
+          else
+            echo "ℹ️ No changes detected - data is up to date"
+          fi
