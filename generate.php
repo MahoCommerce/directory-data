@@ -34,8 +34,31 @@ echo "Total locales to process (including @ variants): " . count($allIntlLocales
 
 $countriesData = [];
 
-// Process each intl locale
+// First, process en_US to establish the base names
+echo "Processing base locale: en_US\n";
+try {
+    $translationDriver = new SymfonyTranslationDriver(null);
+    $translationDriver->setLocale('en_US');
+    $factory = new IsoCodesFactory(null, $translationDriver);
+    $countries = $factory->getCountries();
+    
+    foreach ($countries as $country) {
+        $alpha2 = $country->getAlpha2();
+        $countriesData[$alpha2] = [];
+        $countriesData[$alpha2]['en_US'] = $country->getLocalName() ?: $country->getName();
+    }
+    echo "Processed " . count($countriesData) . " countries for en_US\n";
+} catch (Exception $e) {
+    echo "  ✗ Error processing en_US: " . $e->getMessage() . "\n";
+    exit(1);
+}
+
+// Process all other locales
 foreach ($allIntlLocales as $locale) {
+    if ($locale === 'en_US') {
+        continue; // Skip, already processed
+    }
+    
     echo "Processing locale: $locale\n";
     
     try {
@@ -50,20 +73,21 @@ foreach ($allIntlLocales as $locale) {
         $countries = $factory->getCountries();
         
         // Get all countries and their translations
-        $hasTranslations = false;
         foreach ($countries as $country) {
             $alpha2 = $country->getAlpha2();
             
-            // Initialize country entry if not exists
+            // Skip if country not in our base data
             if (!isset($countriesData[$alpha2])) {
-                $countriesData[$alpha2] = [];
+                continue;
             }
             
             // Get the localized name
             $localizedName = $country->getLocalName();
-            if ($localizedName) {
+            $enUsName = $countriesData[$alpha2]['en_US'];
+            
+            // Only add if translation is different from en_US
+            if ($localizedName && $localizedName !== $enUsName) {
                 $countriesData[$alpha2][$locale] = $localizedName;
-                $hasTranslations = true;
             }
         }
         
@@ -100,8 +124,47 @@ if (!is_dir('regions')) {
 $processedCountries = array_keys($countriesData);
 $regionsData = [];
 
-// Process each intl locale for subdivisions
+// First, process en_US subdivisions to establish the base names
+echo "Processing base subdivisions for locale: en_US\n";
+try {
+    $translationDriver = new SymfonyTranslationDriver(null);
+    $translationDriver->setLocale('en_US');
+    $factory = new IsoCodesFactory(null, $translationDriver);
+    $subdivisions = $factory->getSubdivisions();
+    
+    foreach ($subdivisions as $subdivision) {
+        $code = $subdivision->getCode();
+        $countryCode = substr($code, 0, 2); // First 2 characters are country code
+        $regionCode = substr($code, 3); // After the hyphen
+        
+        // Only process countries that we have in our countries data
+        if (!in_array($countryCode, $processedCountries)) {
+            continue;
+        }
+        
+        // Initialize country regions if not exists
+        if (!isset($regionsData[$countryCode])) {
+            $regionsData[$countryCode] = [];
+        }
+        
+        // Initialize region entry if not exists
+        if (!isset($regionsData[$countryCode][$regionCode])) {
+            $regionsData[$countryCode][$regionCode] = [];
+        }
+        
+        $regionsData[$countryCode][$regionCode]['en_US'] = $subdivision->getLocalName() ?: $subdivision->getName();
+    }
+    echo "Processed subdivisions for en_US\n";
+} catch (Exception $e) {
+    echo "  ✗ Error processing en_US subdivisions: " . $e->getMessage() . "\n";
+}
+
+// Process all other locales for subdivisions
 foreach ($allIntlLocales as $locale) {
+    if ($locale === 'en_US') {
+        continue; // Skip, already processed
+    }
+    
     echo "Processing subdivisions for locale: $locale\n";
     
     try {
@@ -116,31 +179,22 @@ foreach ($allIntlLocales as $locale) {
         $subdivisions = $factory->getSubdivisions();
         
         // Get all subdivisions and their translations
-        $hasTranslations = false;
         foreach ($subdivisions as $subdivision) {
             $code = $subdivision->getCode();
             $countryCode = substr($code, 0, 2); // First 2 characters are country code
             $regionCode = substr($code, 3); // After the hyphen
             
-            // Only process countries that we have in our countries data
-            if (!in_array($countryCode, $processedCountries)) {
-                continue;
-            }
-            
-            // Initialize country regions if not exists
-            if (!isset($regionsData[$countryCode])) {
-                $regionsData[$countryCode] = [];
-            }
-            
-            // Initialize region entry if not exists
+            // Skip if region not in our base data
             if (!isset($regionsData[$countryCode][$regionCode])) {
-                $regionsData[$countryCode][$regionCode] = [];
+                continue;
             }
 
             $localizedName = $subdivision->getLocalName();
-            if ($localizedName) {
+            $enUsName = $regionsData[$countryCode][$regionCode]['en_US'];
+            
+            // Only add if translation is different from en_US
+            if ($localizedName && $localizedName !== $enUsName) {
                 $regionsData[$countryCode][$regionCode][$locale] = $localizedName;
-                $hasTranslations = true;
             }
         }
         
