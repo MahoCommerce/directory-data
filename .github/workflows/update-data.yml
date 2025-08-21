@@ -23,9 +23,6 @@ jobs:
           extensions: intl, mbstring, json
           coverage: none
       
-      - name: Validate composer.json
-        run: composer validate --strict
-      
       - name: Install dependencies
         run: composer install --no-dev --optimize-autoloader
       
@@ -57,26 +54,10 @@ jobs:
             
             This PR contains updated country and region locale data generated from the latest upstream sources.
             
-            ### Changes
-            - Updated `countries.json` with latest country translations
-            - Updated region files in `regions/` directory with latest subdivision translations
-            
-            ### Data Sources
-            - Debian's iso-codes project: https://salsa.debian.org/iso-codes-team/iso-codes
-            - PHP ISO Codes libraries for data processing
-            
-            ### Generated Files
-            - `countries.json` - Country names in all available locales
-            - `regions/*.json` - Regional subdivision names by country
-            
             This update was automatically generated on ${{ steps.changes.outputs.date }}.
           branch: "update-locale-data-${{ steps.changes.outputs.date }}"
           branch-suffix: timestamp
           delete-branch: true
-          labels: |
-            automated
-            data-update
-            locale
       
       - name: Output result
         run: |
