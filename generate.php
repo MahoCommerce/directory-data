@@ -34,29 +34,34 @@ echo "Total locales to process (including @ variants): " . count($allIntlLocales
 
 $countriesData = [];
 
-// First, process en_US to establish the base names
-echo "Processing base locale: en_US\n";
+// First, process en to establish the base names
+echo "Processing base locale: en\n";
 try {
     $translationDriver = new SymfonyTranslationDriver(null);
-    $translationDriver->setLocale('en_US');
+    $translationDriver->setLocale('en');
     $factory = new IsoCodesFactory(null, $translationDriver);
     $countries = $factory->getCountries();
     
     foreach ($countries as $country) {
         $alpha2 = $country->getAlpha2();
         $countriesData[$alpha2] = [];
-        $countriesData[$alpha2]['en_US'] = $country->getLocalName() ?: $country->getName();
+        $countriesData[$alpha2]['en'] = $country->getLocalName() ?: $country->getName();
     }
-    echo "Processed " . count($countriesData) . " countries for en_US\n";
+    echo "Processed " . count($countriesData) . " countries for en\n";
 } catch (Exception $e) {
-    echo "  ✗ Error processing en_US: " . $e->getMessage() . "\n";
+    echo "  ✗ Error processing en: " . $e->getMessage() . "\n";
     exit(1);
 }
 
 // Process all other locales
 foreach ($allIntlLocales as $locale) {
-    if ($locale === 'en_US') {
+    if ($locale === 'en') {
         continue; // Skip, already processed
+    }
+    
+    // Skip locales with @ suffix (script variants like sr@latin, tt@iqtelif)
+    if (strpos($locale, '@') !== false) {
+        continue;
     }
     
     echo "Processing locale: $locale\n";
@@ -83,12 +88,25 @@ foreach ($allIntlLocales as $locale) {
             
             // Get the localized name
             $localizedName = $country->getLocalName();
-            $enUsName = $countriesData[$alpha2]['en_US'];
+            $enName = $countriesData[$alpha2]['en'];
             
-            // Only add if translation is different from en_US
-            if ($localizedName && $localizedName !== $enUsName) {
-                $countriesData[$alpha2][$locale] = $localizedName;
+            // Skip if translation is same as en (no point in storing duplicate)
+            if (!$localizedName || $localizedName === $enName) {
+                continue;
             }
+            
+            // Check if this is a variant locale (e.g., de_AT, de_CH)
+            $languageCode = strstr($locale, '_', true); // Get language part (e.g., 'de' from 'de_AT')
+            
+            // If it's a variant locale, check if base language already exists with same translation
+            if ($languageCode && isset($countriesData[$alpha2][$languageCode])) {
+                // Skip if the variant has the same translation as the base language
+                if ($localizedName === $countriesData[$alpha2][$languageCode]) {
+                    continue; // Skip this variant
+                }
+            }
+            
+            $countriesData[$alpha2][$locale] = $localizedName;
         }
         
     } catch (Exception $e) {
@@ -124,45 +142,188 @@ if (!is_dir('regions')) {
 $processedCountries = array_keys($countriesData);
 $regionsData = [];
 
-// First, process en_US subdivisions to establish the base names
-echo "Processing base subdivisions for locale: en_US\n";
+// First, process en subdivisions to establish the base names
+echo "Processing base subdivisions for locale: en\n";
 try {
     $translationDriver = new SymfonyTranslationDriver(null);
-    $translationDriver->setLocale('en_US');
+    $translationDriver->setLocale('en');
     $factory = new IsoCodesFactory(null, $translationDriver);
     $subdivisions = $factory->getSubdivisions();
     
+    // Define type hierarchy from most general to most specific (based on Maho's approach)
+    $typeHierarchy = [
+        // Most general
+        'Country', 'Nation',
+        'Region', 'Autonomous region',
+        'State', 'Territory', 'Union territory', 'Federal territory',
+        'Autonomous community', 'Autonomous province',
+        'Governorate', 'Prefecture', 'Federal district',
+        'Province', 'Department', 'County',
+        'District', 'Canton', 'Division',
+        'Municipality', 'Metropolitan city', 'City',
+        'Free municipal consortium', 'Decentralized regional entity',
+        'Commune', 'Parish', 'Borough',
+        // Most specific
+    ];
+    
+    // Create a map of type to hierarchy level
+    $typeScore = array_flip($typeHierarchy);
+    
+    // Group subdivisions by country and analyze types
+    $subdivisionsByCountry = [];
     foreach ($subdivisions as $subdivision) {
-        $code = $subdivision->getCode();
-        $countryCode = substr($code, 0, 2); // First 2 characters are country code
-        $regionCode = substr($code, 3); // After the hyphen
-        
-        // Only process countries that we have in our countries data
+        $countryCode = substr($subdivision->getCode(), 0, 2);
         if (!in_array($countryCode, $processedCountries)) {
             continue;
         }
-        
-        // Initialize country regions if not exists
-        if (!isset($regionsData[$countryCode])) {
-            $regionsData[$countryCode] = [];
+        if (!isset($subdivisionsByCountry[$countryCode])) {
+            $subdivisionsByCountry[$countryCode] = [];
         }
-        
-        // Initialize region entry if not exists
-        if (!isset($regionsData[$countryCode][$regionCode])) {
-            $regionsData[$countryCode][$regionCode] = [];
-        }
-        
-        $regionsData[$countryCode][$regionCode]['en_US'] = $subdivision->getLocalName() ?: $subdivision->getName();
+        $subdivisionsByCountry[$countryCode][] = $subdivision;
     }
-    echo "Processed subdivisions for en_US\n";
+    
+    // For each country, select the most appropriate subdivision level
+    foreach ($subdivisionsByCountry as $countryCode => $countrySubdivisions) {
+        // Count subdivisions by type
+        $typeCounts = [];
+        foreach ($countrySubdivisions as $subdivision) {
+            $type = $subdivision->getType();
+            if (!isset($typeCounts[$type])) {
+                $typeCounts[$type] = 0;
+            }
+            $typeCounts[$type]++;
+        }
+        
+        // Find the most specific type with significant coverage (>10 subdivisions or >40% of total)
+        $totalCount = count($countrySubdivisions);
+        $selectedTypes = [];
+        
+        // Sort types by specificity (highest score first)
+        $scoredTypes = [];
+        foreach ($typeCounts as $type => $count) {
+            $score = isset($typeScore[$type]) ? $typeScore[$type] : 999;
+            $scoredTypes[] = ['type' => $type, 'count' => $count, 'score' => $score];
+        }
+        usort($scoredTypes, function($a, $b) {
+            return $b['score'] - $a['score']; // Higher score = more specific
+        });
+        
+        // Define shipping-relevant subdivision types by country
+        // Based on: UPU addressing standards, ISO 19160, e-commerce platforms (Magento/PrestaShop), and postal services
+        // These are the administrative levels typically used for shipping/postal addresses
+        $shippingTypes = [
+            // European countries - typically use provinces/regions for shipping
+            'IT' => ['Province', 'Metropolitan city', 'Free municipal consortium', 'Decentralized regional entity', 'Autonomous province'],
+            'DE' => ['District', 'Urban district'], // Germany uses Kreise (districts) for postal codes
+            'FR' => ['Department'], // France uses departments
+            'ES' => ['Province'], // Spain uses provinces
+            'GB' => ['Country'], // UK uses constituent countries (England, Scotland, Wales, N.Ireland)
+            'NL' => ['Province'], // Netherlands uses provinces
+            'BE' => ['Province'], // Belgium uses provinces
+            'CH' => ['Canton'], // Switzerland uses cantons
+            'AT' => ['State'], // Austria uses states (Bundesländer)
+            'PL' => ['Voivodeship'], // Poland uses voivodeships
+            'SE' => ['County'], // Sweden uses counties
+            'DK' => ['Region'], // Denmark uses regions
+            'NO' => ['County'], // Norway uses counties
+            'FI' => ['Region'], // Finland uses regions
+            
+            // North America - typically use states/provinces
+            'US' => ['State'], // USA uses states for shipping
+            'CA' => ['Province', 'Territory'], // Canada uses provinces and territories
+            'MX' => ['State'], // Mexico uses states
+            
+            // Other major countries
+            'AU' => ['State', 'Territory'], // Australia uses states and territories
+            'IN' => ['State', 'Union territory'], // India uses states
+            'CN' => ['Province', 'Autonomous region', 'Municipality', 'Special administrative region'], // China
+            'JP' => ['Prefecture'], // Japan uses prefectures
+            'KR' => ['Province', 'Metropolitan city', 'Special city'], // South Korea
+            'BR' => ['State'], // Brazil uses states
+            'AR' => ['Province'], // Argentina uses provinces
+            'ZA' => ['Province'], // South Africa uses provinces
+            'RU' => ['Federal subject'], // Russia - complex but federal subjects are main level
+        ];
+        
+        if (isset($shippingTypes[$countryCode])) {
+            // Use predefined shipping-relevant types for this country
+            $allowedTypes = $shippingTypes[$countryCode];
+            foreach ($typeCounts as $type => $count) {
+                if (in_array($type, $allowedTypes) && $count > 0) {
+                    $selectedTypes[] = $type;
+                }
+            }
+            // Log if we have unexpected types not in our predefined list
+            $unexpectedTypes = array_diff(array_keys($typeCounts), $allowedTypes);
+            if (!empty($unexpectedTypes)) {
+                echo "  Note: $countryCode has additional types: " . implode(', ', $unexpectedTypes) . "\n";
+            }
+        }
+        
+        // If no predefined types found, fall back to smart selection
+        if (empty($selectedTypes)) {
+            echo "  Unknown country $countryCode - types available: " . implode(', ', array_keys($typeCounts)) . "\n";
+            // For unknown countries, select the middle administrative level
+            // Skip very general (regions/states with <20 subdivisions) and very specific (municipalities)
+            $skipGeneral = ['Region', 'Autonomous region', 'Country', 'Nation'];
+            $skipSpecific = ['Municipality', 'City', 'Commune', 'Parish', 'Borough', 'Town'];
+            
+            foreach ($scoredTypes as $typeInfo) {
+                if (!in_array($typeInfo['type'], $skipGeneral) && 
+                    !in_array($typeInfo['type'], $skipSpecific) &&
+                    $typeInfo['count'] >= 3) {
+                    $selectedTypes[] = $typeInfo['type'];
+                }
+            }
+            
+            // If still nothing, take the most common type
+            if (empty($selectedTypes)) {
+                $maxCount = max($typeCounts);
+                foreach ($typeCounts as $type => $count) {
+                    if ($count === $maxCount) {
+                        $selectedTypes[] = $type;
+                        break;
+                    }
+                }
+            }
+        }
+        
+        // Process subdivisions of selected types
+        foreach ($countrySubdivisions as $subdivision) {
+            if (!in_array($subdivision->getType(), $selectedTypes)) {
+                continue;
+            }
+            
+            $code = $subdivision->getCode();
+            $regionCode = substr($code, 3); // After the hyphen
+            
+            // Initialize country regions if not exists
+            if (!isset($regionsData[$countryCode])) {
+                $regionsData[$countryCode] = [];
+            }
+            
+            // Initialize region entry if not exists
+            if (!isset($regionsData[$countryCode][$regionCode])) {
+                $regionsData[$countryCode][$regionCode] = [];
+            }
+            
+            $regionsData[$countryCode][$regionCode]['en'] = $subdivision->getLocalName() ?: $subdivision->getName();
+        }
+    }
+    echo "Processed subdivisions for en\n";
 } catch (Exception $e) {
-    echo "  ✗ Error processing en_US subdivisions: " . $e->getMessage() . "\n";
+    echo "  ✗ Error processing en subdivisions: " . $e->getMessage() . "\n";
 }
 
 // Process all other locales for subdivisions
 foreach ($allIntlLocales as $locale) {
-    if ($locale === 'en_US') {
+    if ($locale === 'en') {
         continue; // Skip, already processed
+    }
+    
+    // Skip locales with @ suffix (script variants like sr@latin, tt@iqtelif)
+    if (strpos($locale, '@') !== false) {
+        continue;
     }
     
     echo "Processing subdivisions for locale: $locale\n";
@@ -190,12 +351,25 @@ foreach ($allIntlLocales as $locale) {
             }
 
             $localizedName = $subdivision->getLocalName();
-            $enUsName = $regionsData[$countryCode][$regionCode]['en_US'];
+            $enName = $regionsData[$countryCode][$regionCode]['en'];
             
-            // Only add if translation is different from en_US
-            if ($localizedName && $localizedName !== $enUsName) {
-                $regionsData[$countryCode][$regionCode][$locale] = $localizedName;
+            // Skip if translation is same as en (no point in storing duplicate)
+            if (!$localizedName || $localizedName === $enName) {
+                continue;
             }
+            
+            // Check if this is a variant locale (e.g., de_AT, de_CH)
+            $languageCode = strstr($locale, '_', true); // Get language part (e.g., 'de' from 'de_AT')
+            
+            // If it's a variant locale, check if base language already exists with same translation
+            if ($languageCode && isset($regionsData[$countryCode][$regionCode][$languageCode])) {
+                // Skip if the variant has the same translation as the base language
+                if ($localizedName === $regionsData[$countryCode][$regionCode][$languageCode]) {
+                    continue; // Skip this variant
+                }
+            }
+            
+            $regionsData[$countryCode][$regionCode][$locale] = $localizedName;
         }
         
     } catch (Exception $e) {
