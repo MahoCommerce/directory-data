@@ -58,6 +58,21 @@ When using these files, follow this fallback pattern to find the best translatio
 
 This approach ensures you always get the most appropriate translation while keeping file sizes minimal by eliminating redundant entries.
 
+```php
+// Example: Get Italy's name for locale it_IT
+$countries = json_decode(file_get_contents('countries.json'), true);
+
+if ($countries['IT']['it_IT']) {
+    return $countries['IT']['it_IT'];
+} else if ($countries['IT']['it']) {
+    return $countries['IT']['it'];
+} else {
+    return $countries['IT']['en'];
+}
+```
+
+Apply the same logic to the regions.
+
 ## 🔄 Automated Updates
 
 This repository is updated automatically every week.
