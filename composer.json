@@ -1,0 +1,9 @@
+{
+    "require": {
+        "php": ">=8.3",
+        "ext-intl": "*",
+        "sokil/php-isocodes": "^4.3",
+        "sokil/php-isocodes-db-i18n": "^4.0",
+        "symfony/translation": "^7.3"
+    }
+}
