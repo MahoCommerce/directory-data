@@ -69,7 +69,6 @@ jobs:
             
             This update was automatically generated on ${{ steps.changes.outputs.date }}.
           branch: "update-locale-data-${{ steps.changes.outputs.date }}"
-          branch-suffix: timestamp
           delete-branch: true
       
       - name: Output result
