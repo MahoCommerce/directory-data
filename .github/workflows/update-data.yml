@@ -6,15 +6,19 @@ on:
     - cron: '0 2 * * 0'
   workflow_dispatch: # Allow manual trigger
 
-permissions:
-  contents: write
-  pull-requests: write
-
 jobs:
   update-data:
     runs-on: ubuntu-latest
     
     steps:
+      - name: Generate token
+        id: generate_token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.SYNC_L10N_APP_ID }}
+          private-key: ${{ secrets.SYNC_L10N_APP_PRIVATE_KEY }}
+          owner: MahoCommerce
+      
       - name: Checkout repository
         uses: actions/checkout@v5
       
@@ -34,7 +38,9 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet; then
+          # Check both staged and unstaged changes
+          git add -A
+          if git diff --cached --quiet; then
             echo "No changes detected"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
@@ -42,12 +48,16 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
             # Get current date for branch name
             echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+            # Show what changed for debugging
+            echo "Files changed:"
+            git diff --cached --name-status
           fi
       
       - name: Create Pull Request
         if: steps.changes.outputs.has_changes == 'true'
         uses: peter-evans/create-pull-request@v5
         with:
+          token: ${{ steps.generate_token.outputs.token }}
           commit-message: "Update ISO locale data - ${{ steps.changes.outputs.date }}"
           title: "🌍 Update ISO locale data - ${{ steps.changes.outputs.date }}"
           body: |
