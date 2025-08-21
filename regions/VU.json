@@ -743,6 +743,7 @@
         "sq_MK": "Malampa",
         "sq_XK": "Malampa",
         "sr": "Малампа",
+        "sr@latin": "Malampa",
         "sr_Cyrl": "Малампа",
         "sr_Cyrl_BA": "Малампа",
         "sr_Cyrl_ME": "Малампа",
@@ -803,6 +804,7 @@
         "tr_CY": "Malampa",
         "tr_TR": "Malampa",
         "tt": "Malampa",
+        "tt@iqtelif": "Malampa",
         "tt_RU": "Malampa",
         "twq": "Malampa",
         "twq_NE": "Malampa",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Malampa",
         "zh_Hant_TW": "Malampa",
         "zu": "Malampa",
-        "zu_ZA": "Malampa",
-        "sr@latin": "Malampa",
-        "tt@iqtelif": "Malampa"
+        "zu_ZA": "Malampa"
     },
     "PAM": {
         "af": "Pénama",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Pénama",
         "sq_XK": "Pénama",
         "sr": "Пенама",
+        "sr@latin": "Penama",
         "sr_Cyrl": "Пенама",
         "sr_Cyrl_BA": "Пенама",
         "sr_Cyrl_ME": "Пенама",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Penama",
         "tr_TR": "Penama",
         "tt": "Pénama",
+        "tt@iqtelif": "Pénama",
         "tt_RU": "Pénama",
         "twq": "Pénama",
         "twq_NE": "Pénama",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Pénama",
         "zh_Hant_TW": "Pénama",
         "zu": "Pénama",
-        "zu_ZA": "Pénama",
-        "sr@latin": "Penama",
-        "tt@iqtelif": "Pénama"
+        "zu_ZA": "Pénama"
     },
     "SAM": {
         "af": "Sanma",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Sanma",
         "sq_XK": "Sanma",
         "sr": "Санма",
+        "sr@latin": "Sanma",
         "sr_Cyrl": "Санма",
         "sr_Cyrl_BA": "Санма",
         "sr_Cyrl_ME": "Санма",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Sanma",
         "tr_TR": "Sanma",
         "tt": "Sanma",
+        "tt@iqtelif": "Sanma",
         "tt_RU": "Sanma",
         "twq": "Sanma",
         "twq_NE": "Sanma",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Sanma",
         "zh_Hant_TW": "Sanma",
         "zu": "Sanma",
-        "zu_ZA": "Sanma",
-        "sr@latin": "Sanma",
-        "tt@iqtelif": "Sanma"
+        "zu_ZA": "Sanma"
     },
     "SEE": {
         "af": "Shéfa",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Shéfa",
         "sq_XK": "Shéfa",
         "sr": "Шефа",
+        "sr@latin": "Šefa",
         "sr_Cyrl": "Шефа",
         "sr_Cyrl_BA": "Шефа",
         "sr_Cyrl_ME": "Шефа",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Shefa",
         "tr_TR": "Shefa",
         "tt": "Shéfa",
+        "tt@iqtelif": "Shéfa",
         "tt_RU": "Shéfa",
         "twq": "Shéfa",
         "twq_NE": "Shéfa",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Shéfa",
         "zh_Hant_TW": "Shéfa",
         "zu": "Shéfa",
-        "zu_ZA": "Shéfa",
-        "sr@latin": "Šefa",
-        "tt@iqtelif": "Shéfa"
+        "zu_ZA": "Shéfa"
     },
     "TAE": {
         "af": "Taféa",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Taféa",
         "sq_XK": "Taféa",
         "sr": "Taféa",
+        "sr@latin": "Taféa",
         "sr_Cyrl": "Taféa",
         "sr_Cyrl_BA": "Taféa",
         "sr_Cyrl_ME": "Taféa",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Tafea",
         "tr_TR": "Tafea",
         "tt": "Taféa",
+        "tt@iqtelif": "Taféa",
         "tt_RU": "Taféa",
         "twq": "Taféa",
         "twq_NE": "Taféa",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Taféa",
         "zh_Hant_TW": "Taféa",
         "zu": "Taféa",
-        "zu_ZA": "Taféa",
-        "sr@latin": "Taféa",
-        "tt@iqtelif": "Taféa"
+        "zu_ZA": "Taféa"
     },
     "TOB": {
         "af": "Torba",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Torba",
         "sq_XK": "Torba",
         "sr": "Торба",
+        "sr@latin": "Torba",
         "sr_Cyrl": "Торба",
         "sr_Cyrl_BA": "Торба",
         "sr_Cyrl_ME": "Торба",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Torba",
         "tr_TR": "Torba",
         "tt": "Torba",
+        "tt@iqtelif": "Torba",
         "tt_RU": "Torba",
         "twq": "Torba",
         "twq_NE": "Torba",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Torba",
         "zh_Hant_TW": "Torba",
         "zu": "Torba",
-        "zu_ZA": "Torba",
-        "sr@latin": "Torba",
-        "tt@iqtelif": "Torba"
+        "zu_ZA": "Torba"
     }
 }

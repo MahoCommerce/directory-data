@@ -743,6 +743,7 @@
         "sq_MK": "P'yǒngyang",
         "sq_XK": "P'yǒngyang",
         "sr": "P'yǒngyang",
+        "sr@latin": "P'yǒngyang",
         "sr_Cyrl": "P'yǒngyang",
         "sr_Cyrl_BA": "P'yǒngyang",
         "sr_Cyrl_ME": "P'yǒngyang",
@@ -803,6 +804,7 @@
         "tr_CY": "P'yǒngyang",
         "tr_TR": "P'yǒngyang",
         "tt": "P'yǒngyang",
+        "tt@iqtelif": "P'yǒngyang",
         "tt_RU": "P'yǒngyang",
         "twq": "P'yǒngyang",
         "twq_NE": "P'yǒngyang",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "P'yǒngyang",
         "zh_Hant_TW": "P'yǒngyang",
         "zu": "P'yǒngyang",
-        "zu_ZA": "P'yǒngyang",
-        "sr@latin": "P'yǒngyang",
-        "tt@iqtelif": "P'yǒngyang"
+        "zu_ZA": "P'yǒngyang"
     },
     "02": {
         "af": "P'yǒngan-namdo",
@@ -1628,6 +1628,7 @@
         "sq_MK": "P'yǒngan-namdo",
         "sq_XK": "P'yǒngan-namdo",
         "sr": "P'yǒngan-namdo",
+        "sr@latin": "P'yǒngan-namdo",
         "sr_Cyrl": "P'yǒngan-namdo",
         "sr_Cyrl_BA": "P'yǒngan-namdo",
         "sr_Cyrl_ME": "P'yǒngan-namdo",
@@ -1688,6 +1689,7 @@
         "tr_CY": "P'yǒngan-namdo",
         "tr_TR": "P'yǒngan-namdo",
         "tt": "P'yǒngan-namdo",
+        "tt@iqtelif": "P'yǒngan-namdo",
         "tt_RU": "P'yǒngan-namdo",
         "twq": "P'yǒngan-namdo",
         "twq_NE": "P'yǒngan-namdo",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "P'yǒngan-namdo",
         "zh_Hant_TW": "P'yǒngan-namdo",
         "zu": "P'yǒngan-namdo",
-        "zu_ZA": "P'yǒngan-namdo",
-        "sr@latin": "P'yǒngan-namdo",
-        "tt@iqtelif": "P'yǒngan-namdo"
+        "zu_ZA": "P'yǒngan-namdo"
     },
     "03": {
         "af": "P'yǒngan-bukto",
@@ -2513,6 +2513,7 @@
         "sq_MK": "P'yǒngan-bukto",
         "sq_XK": "P'yǒngan-bukto",
         "sr": "P'yǒngan-bukto",
+        "sr@latin": "P'yǒngan-bukto",
         "sr_Cyrl": "P'yǒngan-bukto",
         "sr_Cyrl_BA": "P'yǒngan-bukto",
         "sr_Cyrl_ME": "P'yǒngan-bukto",
@@ -2573,6 +2574,7 @@
         "tr_CY": "P'yǒngan-bukto",
         "tr_TR": "P'yǒngan-bukto",
         "tt": "P'yǒngan-bukto",
+        "tt@iqtelif": "P'yǒngan-bukto",
         "tt_RU": "P'yǒngan-bukto",
         "twq": "P'yǒngan-bukto",
         "twq_NE": "P'yǒngan-bukto",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "P'yǒngan-bukto",
         "zh_Hant_TW": "P'yǒngan-bukto",
         "zu": "P'yǒngan-bukto",
-        "zu_ZA": "P'yǒngan-bukto",
-        "sr@latin": "P'yǒngan-bukto",
-        "tt@iqtelif": "P'yǒngan-bukto"
+        "zu_ZA": "P'yǒngan-bukto"
     },
     "04": {
         "af": "Chagang-do",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Chagang-do",
         "sq_XK": "Chagang-do",
         "sr": "Чаганг-до",
+        "sr@latin": "Čagang-do",
         "sr_Cyrl": "Чаганг-до",
         "sr_Cyrl_BA": "Чаганг-до",
         "sr_Cyrl_ME": "Чаганг-до",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Chagang-do",
         "tr_TR": "Chagang-do",
         "tt": "Chagang-do",
+        "tt@iqtelif": "Chagang-do",
         "tt_RU": "Chagang-do",
         "twq": "Chagang-do",
         "twq_NE": "Chagang-do",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Chagang-do",
         "zh_Hant_TW": "Chagang-do",
         "zu": "Chagang-do",
-        "zu_ZA": "Chagang-do",
-        "sr@latin": "Čagang-do",
-        "tt@iqtelif": "Chagang-do"
+        "zu_ZA": "Chagang-do"
     },
     "05": {
         "af": "Hwanghae-namdo",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Hwanghae-namdo",
         "sq_XK": "Hwanghae-namdo",
         "sr": "Hwanghae-namdo",
+        "sr@latin": "Hwanghae-namdo",
         "sr_Cyrl": "Hwanghae-namdo",
         "sr_Cyrl_BA": "Hwanghae-namdo",
         "sr_Cyrl_ME": "Hwanghae-namdo",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Hwanghae-namdo",
         "tr_TR": "Hwanghae-namdo",
         "tt": "Hwanghae-namdo",
+        "tt@iqtelif": "Hwanghae-namdo",
         "tt_RU": "Hwanghae-namdo",
         "twq": "Hwanghae-namdo",
         "twq_NE": "Hwanghae-namdo",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Hwanghae-namdo",
         "zh_Hant_TW": "Hwanghae-namdo",
         "zu": "Hwanghae-namdo",
-        "zu_ZA": "Hwanghae-namdo",
-        "sr@latin": "Hwanghae-namdo",
-        "tt@iqtelif": "Hwanghae-namdo"
+        "zu_ZA": "Hwanghae-namdo"
     },
     "06": {
         "af": "Hwanghae-bukto",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Hwanghae-bukto",
         "sq_XK": "Hwanghae-bukto",
         "sr": "Hwanghae-bukto",
+        "sr@latin": "Hwanghae-bukto",
         "sr_Cyrl": "Hwanghae-bukto",
         "sr_Cyrl_BA": "Hwanghae-bukto",
         "sr_Cyrl_ME": "Hwanghae-bukto",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Hwanghae-bukto",
         "tr_TR": "Hwanghae-bukto",
         "tt": "Hwanghae-bukto",
+        "tt@iqtelif": "Hwanghae-bukto",
         "tt_RU": "Hwanghae-bukto",
         "twq": "Hwanghae-bukto",
         "twq_NE": "Hwanghae-bukto",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Hwanghae-bukto",
         "zh_Hant_TW": "Hwanghae-bukto",
         "zu": "Hwanghae-bukto",
-        "zu_ZA": "Hwanghae-bukto",
-        "sr@latin": "Hwanghae-bukto",
-        "tt@iqtelif": "Hwanghae-bukto"
+        "zu_ZA": "Hwanghae-bukto"
     },
     "07": {
         "af": "Kangweonto",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Kangweonto",
         "sq_XK": "Kangweonto",
         "sr": "Kangweonto",
+        "sr@latin": "Kangweonto",
         "sr_Cyrl": "Kangweonto",
         "sr_Cyrl_BA": "Kangweonto",
         "sr_Cyrl_ME": "Kangweonto",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Kangweonto",
         "tr_TR": "Kangweonto",
         "tt": "Kangweonto",
+        "tt@iqtelif": "Kangweonto",
         "tt_RU": "Kangweonto",
         "twq": "Kangweonto",
         "twq_NE": "Kangweonto",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Kangweonto",
         "zh_Hant_TW": "Kangweonto",
         "zu": "Kangweonto",
-        "zu_ZA": "Kangweonto",
-        "sr@latin": "Kangweonto",
-        "tt@iqtelif": "Kangweonto"
+        "zu_ZA": "Kangweonto"
     },
     "08": {
         "af": "Hamgyǒng-namdo",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Hamgyǒng-namdo",
         "sq_XK": "Hamgyǒng-namdo",
         "sr": "Hamgyǒng-namdo",
+        "sr@latin": "Hamgyǒng-namdo",
         "sr_Cyrl": "Hamgyǒng-namdo",
         "sr_Cyrl_BA": "Hamgyǒng-namdo",
         "sr_Cyrl_ME": "Hamgyǒng-namdo",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Hamgyǒng-namdo",
         "tr_TR": "Hamgyǒng-namdo",
         "tt": "Hamgyǒng-namdo",
+        "tt@iqtelif": "Hamgyǒng-namdo",
         "tt_RU": "Hamgyǒng-namdo",
         "twq": "Hamgyǒng-namdo",
         "twq_NE": "Hamgyǒng-namdo",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Hamgyǒng-namdo",
         "zh_Hant_TW": "Hamgyǒng-namdo",
         "zu": "Hamgyǒng-namdo",
-        "zu_ZA": "Hamgyǒng-namdo",
-        "sr@latin": "Hamgyǒng-namdo",
-        "tt@iqtelif": "Hamgyǒng-namdo"
+        "zu_ZA": "Hamgyǒng-namdo"
     },
     "09": {
         "af": "Hamgyǒng-bukto",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Hamgyǒng-bukto",
         "sq_XK": "Hamgyǒng-bukto",
         "sr": "Hamgyǒng-bukto",
+        "sr@latin": "Hamgyǒng-bukto",
         "sr_Cyrl": "Hamgyǒng-bukto",
         "sr_Cyrl_BA": "Hamgyǒng-bukto",
         "sr_Cyrl_ME": "Hamgyǒng-bukto",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Hamgyǒng-bukto",
         "tr_TR": "Hamgyǒng-bukto",
         "tt": "Hamgyǒng-bukto",
+        "tt@iqtelif": "Hamgyǒng-bukto",
         "tt_RU": "Hamgyǒng-bukto",
         "twq": "Hamgyǒng-bukto",
         "twq_NE": "Hamgyǒng-bukto",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Hamgyǒng-bukto",
         "zh_Hant_TW": "Hamgyǒng-bukto",
         "zu": "Hamgyǒng-bukto",
-        "zu_ZA": "Hamgyǒng-bukto",
-        "sr@latin": "Hamgyǒng-bukto",
-        "tt@iqtelif": "Hamgyǒng-bukto"
+        "zu_ZA": "Hamgyǒng-bukto"
     },
     "10": {
         "af": "Ryanggang-do",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Ryanggang-do",
         "sq_XK": "Ryanggang-do",
         "sr": "Ryanggang-do",
+        "sr@latin": "Ryanggang-do",
         "sr_Cyrl": "Ryanggang-do",
         "sr_Cyrl_BA": "Ryanggang-do",
         "sr_Cyrl_ME": "Ryanggang-do",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Ryanggang-do",
         "tr_TR": "Ryanggang-do",
         "tt": "Ryanggang-do",
+        "tt@iqtelif": "Ryanggang-do",
         "tt_RU": "Ryanggang-do",
         "twq": "Ryanggang-do",
         "twq_NE": "Ryanggang-do",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Ryanggang-do",
         "zh_Hant_TW": "Ryanggang-do",
         "zu": "Ryanggang-do",
-        "zu_ZA": "Ryanggang-do",
-        "sr@latin": "Ryanggang-do",
-        "tt@iqtelif": "Ryanggang-do"
+        "zu_ZA": "Ryanggang-do"
     },
     "13": {
         "af": "Raseon",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Raseon",
         "sq_XK": "Raseon",
         "sr": "Raseon",
+        "sr@latin": "Raseon",
         "sr_Cyrl": "Raseon",
         "sr_Cyrl_BA": "Raseon",
         "sr_Cyrl_ME": "Raseon",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Raseon",
         "tr_TR": "Raseon",
         "tt": "Raseon",
+        "tt@iqtelif": "Raseon",
         "tt_RU": "Raseon",
         "twq": "Raseon",
         "twq_NE": "Raseon",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Raseon",
         "zh_Hant_TW": "Raseon",
         "zu": "Raseon",
-        "zu_ZA": "Raseon",
-        "sr@latin": "Raseon",
-        "tt@iqtelif": "Raseon"
+        "zu_ZA": "Raseon"
     },
     "14": {
         "af": "Nampho",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Nampho",
         "sq_XK": "Nampho",
         "sr": "Nampho",
+        "sr@latin": "Nampho",
         "sr_Cyrl": "Nampho",
         "sr_Cyrl_BA": "Nampho",
         "sr_Cyrl_ME": "Nampho",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Nampho",
         "tr_TR": "Nampho",
         "tt": "Nampho",
+        "tt@iqtelif": "Nampho",
         "tt_RU": "Nampho",
         "twq": "Nampho",
         "twq_NE": "Nampho",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Nampho",
         "zh_Hant_TW": "Nampho",
         "zu": "Nampho",
-        "zu_ZA": "Nampho",
-        "sr@latin": "Nampho",
-        "tt@iqtelif": "Nampho"
+        "zu_ZA": "Nampho"
     },
     "15": {
         "af": "Kaeseong",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Kaeseong",
         "sq_XK": "Kaeseong",
         "sr": "Kaeseong",
+        "sr@latin": "Kaeseong",
         "sr_Cyrl": "Kaeseong",
         "sr_Cyrl_BA": "Kaeseong",
         "sr_Cyrl_ME": "Kaeseong",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Kaeseong",
         "tr_TR": "Kaeseong",
         "tt": "Kaeseong",
+        "tt@iqtelif": "Kaeseong",
         "tt_RU": "Kaeseong",
         "twq": "Kaeseong",
         "twq_NE": "Kaeseong",
@@ -11500,8 +11502,6 @@
         "zh_Hant_MY": "Kaeseong",
         "zh_Hant_TW": "Kaeseong",
         "zu": "Kaeseong",
-        "zu_ZA": "Kaeseong",
-        "sr@latin": "Kaeseong",
-        "tt@iqtelif": "Kaeseong"
+        "zu_ZA": "Kaeseong"
     }
 }

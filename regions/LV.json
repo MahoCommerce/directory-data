@@ -743,6 +743,7 @@
         "sq_MK": "Aizkraukles novads",
         "sq_XK": "Aizkraukles novads",
         "sr": "Aizkraukles novads",
+        "sr@latin": "Aizkraukles novads",
         "sr_Cyrl": "Aizkraukles novads",
         "sr_Cyrl_BA": "Aizkraukles novads",
         "sr_Cyrl_ME": "Aizkraukles novads",
@@ -803,6 +804,7 @@
         "tr_CY": "Aizkraukles novads",
         "tr_TR": "Aizkraukles novads",
         "tt": "Aizkraukles novads",
+        "tt@iqtelif": "Aizkraukles novads",
         "tt_RU": "Aizkraukles novads",
         "twq": "Aizkraukles novads",
         "twq_NE": "Aizkraukles novads",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aizkraukles novads",
         "zh_Hant_TW": "Aizkraukles novads",
         "zu": "Aizkraukles novads",
-        "zu_ZA": "Aizkraukles novads",
-        "sr@latin": "Aizkraukles novads",
-        "tt@iqtelif": "Aizkraukles novads"
+        "zu_ZA": "Aizkraukles novads"
     },
     "007": {
         "af": "Alūksnes novads",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Alūksnes novads",
         "sq_XK": "Alūksnes novads",
         "sr": "Alūksnes novads",
+        "sr@latin": "Alūksnes novads",
         "sr_Cyrl": "Alūksnes novads",
         "sr_Cyrl_BA": "Alūksnes novads",
         "sr_Cyrl_ME": "Alūksnes novads",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Alūksnes novads",
         "tr_TR": "Alūksnes novads",
         "tt": "Alūksnes novads",
+        "tt@iqtelif": "Alūksnes novads",
         "tt_RU": "Alūksnes novads",
         "twq": "Alūksnes novads",
         "twq_NE": "Alūksnes novads",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Alūksnes novads",
         "zh_Hant_TW": "Alūksnes novads",
         "zu": "Alūksnes novads",
-        "zu_ZA": "Alūksnes novads",
-        "sr@latin": "Alūksnes novads",
-        "tt@iqtelif": "Alūksnes novads"
+        "zu_ZA": "Alūksnes novads"
     },
     "011": {
         "af": "Ādažu novads",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Ādažu novads",
         "sq_XK": "Ādažu novads",
         "sr": "Адажу нова",
+        "sr@latin": "Adažu nova",
         "sr_Cyrl": "Адажу нова",
         "sr_Cyrl_BA": "Адажу нова",
         "sr_Cyrl_ME": "Адажу нова",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Ādažu novads",
         "tr_TR": "Ādažu novads",
         "tt": "Ādažu novads",
+        "tt@iqtelif": "Ādažu novads",
         "tt_RU": "Ādažu novads",
         "twq": "Ādažu novads",
         "twq_NE": "Ādažu novads",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Ādažu novads",
         "zh_Hant_TW": "Ādažu novads",
         "zu": "Ādažu novads",
-        "zu_ZA": "Ādažu novads",
-        "sr@latin": "Adažu nova",
-        "tt@iqtelif": "Ādažu novads"
+        "zu_ZA": "Ādažu novads"
     },
     "015": {
         "af": "Balvu novads",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Balvu novads",
         "sq_XK": "Balvu novads",
         "sr": "Balvu novads",
+        "sr@latin": "Balvu novads",
         "sr_Cyrl": "Balvu novads",
         "sr_Cyrl_BA": "Balvu novads",
         "sr_Cyrl_ME": "Balvu novads",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Balvu novads",
         "tr_TR": "Balvu novads",
         "tt": "Balvu novads",
+        "tt@iqtelif": "Balvu novads",
         "tt_RU": "Balvu novads",
         "twq": "Balvu novads",
         "twq_NE": "Balvu novads",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Balvu novads",
         "zh_Hant_TW": "Balvu novads",
         "zu": "Balvu novads",
-        "zu_ZA": "Balvu novads",
-        "sr@latin": "Balvu novads",
-        "tt@iqtelif": "Balvu novads"
+        "zu_ZA": "Balvu novads"
     },
     "016": {
         "af": "Bauskas novads",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bauskas novads",
         "sq_XK": "Bauskas novads",
         "sr": "Bauskas novads",
+        "sr@latin": "Bauskas novads",
         "sr_Cyrl": "Bauskas novads",
         "sr_Cyrl_BA": "Bauskas novads",
         "sr_Cyrl_ME": "Bauskas novads",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bauskas novads",
         "tr_TR": "Bauskas novads",
         "tt": "Bauskas novads",
+        "tt@iqtelif": "Bauskas novads",
         "tt_RU": "Bauskas novads",
         "twq": "Bauskas novads",
         "twq_NE": "Bauskas novads",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bauskas novads",
         "zh_Hant_TW": "Bauskas novads",
         "zu": "Bauskas novads",
-        "zu_ZA": "Bauskas novads",
-        "sr@latin": "Bauskas novads",
-        "tt@iqtelif": "Bauskas novads"
+        "zu_ZA": "Bauskas novads"
     },
     "022": {
         "af": "Cēsu novads",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Cēsu novads",
         "sq_XK": "Cēsu novads",
         "sr": "Cēsu novads",
+        "sr@latin": "Cēsu novads",
         "sr_Cyrl": "Cēsu novads",
         "sr_Cyrl_BA": "Cēsu novads",
         "sr_Cyrl_ME": "Cēsu novads",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Cēsu novads",
         "tr_TR": "Cēsu novads",
         "tt": "Cēsu novads",
+        "tt@iqtelif": "Cēsu novads",
         "tt_RU": "Cēsu novads",
         "twq": "Cēsu novads",
         "twq_NE": "Cēsu novads",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Cēsu novads",
         "zh_Hant_TW": "Cēsu novads",
         "zu": "Cēsu novads",
-        "zu_ZA": "Cēsu novads",
-        "sr@latin": "Cēsu novads",
-        "tt@iqtelif": "Cēsu novads"
+        "zu_ZA": "Cēsu novads"
     },
     "026": {
         "af": "Dobeles novads",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Dobeles novads",
         "sq_XK": "Dobeles novads",
         "sr": "Dobeles novads",
+        "sr@latin": "Dobeles novads",
         "sr_Cyrl": "Dobeles novads",
         "sr_Cyrl_BA": "Dobeles novads",
         "sr_Cyrl_ME": "Dobeles novads",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Dobeles novads",
         "tr_TR": "Dobeles novads",
         "tt": "Dobeles novads",
+        "tt@iqtelif": "Dobeles novads",
         "tt_RU": "Dobeles novads",
         "twq": "Dobeles novads",
         "twq_NE": "Dobeles novads",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Dobeles novads",
         "zh_Hant_TW": "Dobeles novads",
         "zu": "Dobeles novads",
-        "zu_ZA": "Dobeles novads",
-        "sr@latin": "Dobeles novads",
-        "tt@iqtelif": "Dobeles novads"
+        "zu_ZA": "Dobeles novads"
     },
     "033": {
         "af": "Gulbenes novads",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Gulbenes novads",
         "sq_XK": "Gulbenes novads",
         "sr": "Gulbenes novads",
+        "sr@latin": "Gulbenes novads",
         "sr_Cyrl": "Gulbenes novads",
         "sr_Cyrl_BA": "Gulbenes novads",
         "sr_Cyrl_ME": "Gulbenes novads",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Gulbenes novads",
         "tr_TR": "Gulbenes novads",
         "tt": "Gulbenes novads",
+        "tt@iqtelif": "Gulbenes novads",
         "tt_RU": "Gulbenes novads",
         "twq": "Gulbenes novads",
         "twq_NE": "Gulbenes novads",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Gulbenes novads",
         "zh_Hant_TW": "Gulbenes novads",
         "zu": "Gulbenes novads",
-        "zu_ZA": "Gulbenes novads",
-        "sr@latin": "Gulbenes novads",
-        "tt@iqtelif": "Gulbenes novads"
+        "zu_ZA": "Gulbenes novads"
     },
     "041": {
         "af": "Jelgavas novads",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Jelgavas novads",
         "sq_XK": "Jelgavas novads",
         "sr": "Jelgavas novads",
+        "sr@latin": "Jelgavas novads",
         "sr_Cyrl": "Jelgavas novads",
         "sr_Cyrl_BA": "Jelgavas novads",
         "sr_Cyrl_ME": "Jelgavas novads",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Jelgavas novads",
         "tr_TR": "Jelgavas novads",
         "tt": "Jelgavas novads",
+        "tt@iqtelif": "Jelgavas novads",
         "tt_RU": "Jelgavas novads",
         "twq": "Jelgavas novads",
         "twq_NE": "Jelgavas novads",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Jelgavas novads",
         "zh_Hant_TW": "Jelgavas novads",
         "zu": "Jelgavas novads",
-        "zu_ZA": "Jelgavas novads",
-        "sr@latin": "Jelgavas novads",
-        "tt@iqtelif": "Jelgavas novads"
+        "zu_ZA": "Jelgavas novads"
     },
     "042": {
         "af": "Jēkabpils novads",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Jēkabpils novads",
         "sq_XK": "Jēkabpils novads",
         "sr": "Jēkabpils novads",
+        "sr@latin": "Jēkabpils novads",
         "sr_Cyrl": "Jēkabpils novads",
         "sr_Cyrl_BA": "Jēkabpils novads",
         "sr_Cyrl_ME": "Jēkabpils novads",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Jēkabpils novads",
         "tr_TR": "Jēkabpils novads",
         "tt": "Jēkabpils novads",
+        "tt@iqtelif": "Jēkabpils novads",
         "tt_RU": "Jēkabpils novads",
         "twq": "Jēkabpils novads",
         "twq_NE": "Jēkabpils novads",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Jēkabpils novads",
         "zh_Hant_TW": "Jēkabpils novads",
         "zu": "Jēkabpils novads",
-        "zu_ZA": "Jēkabpils novads",
-        "sr@latin": "Jēkabpils novads",
-        "tt@iqtelif": "Jēkabpils novads"
+        "zu_ZA": "Jēkabpils novads"
     },
     "047": {
         "af": "Krāslavas novads",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Krāslavas novads",
         "sq_XK": "Krāslavas novads",
         "sr": "Krāslavas novads",
+        "sr@latin": "Krāslavas novads",
         "sr_Cyrl": "Krāslavas novads",
         "sr_Cyrl_BA": "Krāslavas novads",
         "sr_Cyrl_ME": "Krāslavas novads",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Krāslavas novads",
         "tr_TR": "Krāslavas novads",
         "tt": "Krāslavas novads",
+        "tt@iqtelif": "Krāslavas novads",
         "tt_RU": "Krāslavas novads",
         "twq": "Krāslavas novads",
         "twq_NE": "Krāslavas novads",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Krāslavas novads",
         "zh_Hant_TW": "Krāslavas novads",
         "zu": "Krāslavas novads",
-        "zu_ZA": "Krāslavas novads",
-        "sr@latin": "Krāslavas novads",
-        "tt@iqtelif": "Krāslavas novads"
+        "zu_ZA": "Krāslavas novads"
     },
     "050": {
         "af": "Kuldīgas novads",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Kuldīgas novads",
         "sq_XK": "Kuldīgas novads",
         "sr": "Kuldīgas novads",
+        "sr@latin": "Kuldīgas novads",
         "sr_Cyrl": "Kuldīgas novads",
         "sr_Cyrl_BA": "Kuldīgas novads",
         "sr_Cyrl_ME": "Kuldīgas novads",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Kuldīgas novads",
         "tr_TR": "Kuldīgas novads",
         "tt": "Kuldīgas novads",
+        "tt@iqtelif": "Kuldīgas novads",
         "tt_RU": "Kuldīgas novads",
         "twq": "Kuldīgas novads",
         "twq_NE": "Kuldīgas novads",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Kuldīgas novads",
         "zh_Hant_TW": "Kuldīgas novads",
         "zu": "Kuldīgas novads",
-        "zu_ZA": "Kuldīgas novads",
-        "sr@latin": "Kuldīgas novads",
-        "tt@iqtelif": "Kuldīgas novads"
+        "zu_ZA": "Kuldīgas novads"
     },
     "052": {
         "af": "Ķekavas novads",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Ķekavas novads",
         "sq_XK": "Ķekavas novads",
         "sr": "Ķekavas novads",
+        "sr@latin": "Ķekavas novads",
         "sr_Cyrl": "Ķekavas novads",
         "sr_Cyrl_BA": "Ķekavas novads",
         "sr_Cyrl_ME": "Ķekavas novads",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Ķekavas novads",
         "tr_TR": "Ķekavas novads",
         "tt": "Ķekavas novads",
+        "tt@iqtelif": "Ķekavas novads",
         "tt_RU": "Ķekavas novads",
         "twq": "Ķekavas novads",
         "twq_NE": "Ķekavas novads",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Ķekavas novads",
         "zh_Hant_TW": "Ķekavas novads",
         "zu": "Ķekavas novads",
-        "zu_ZA": "Ķekavas novads",
-        "sr@latin": "Ķekavas novads",
-        "tt@iqtelif": "Ķekavas novads"
+        "zu_ZA": "Ķekavas novads"
     },
     "054": {
         "af": "Limbažu novads",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Limbažu novads",
         "sq_XK": "Limbažu novads",
         "sr": "Limbažu novads",
+        "sr@latin": "Limbažu novads",
         "sr_Cyrl": "Limbažu novads",
         "sr_Cyrl_BA": "Limbažu novads",
         "sr_Cyrl_ME": "Limbažu novads",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Limbažu novads",
         "tr_TR": "Limbažu novads",
         "tt": "Limbažu novads",
+        "tt@iqtelif": "Limbažu novads",
         "tt_RU": "Limbažu novads",
         "twq": "Limbažu novads",
         "twq_NE": "Limbažu novads",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Limbažu novads",
         "zh_Hant_TW": "Limbažu novads",
         "zu": "Limbažu novads",
-        "zu_ZA": "Limbažu novads",
-        "sr@latin": "Limbažu novads",
-        "tt@iqtelif": "Limbažu novads"
+        "zu_ZA": "Limbažu novads"
     },
     "056": {
         "af": "Līvānu novads",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Līvānu novads",
         "sq_XK": "Līvānu novads",
         "sr": "Līvānu novads",
+        "sr@latin": "Līvānu novads",
         "sr_Cyrl": "Līvānu novads",
         "sr_Cyrl_BA": "Līvānu novads",
         "sr_Cyrl_ME": "Līvānu novads",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Līvānu novads",
         "tr_TR": "Līvānu novads",
         "tt": "Līvānu novads",
+        "tt@iqtelif": "Līvānu novads",
         "tt_RU": "Līvānu novads",
         "twq": "Līvānu novads",
         "twq_NE": "Līvānu novads",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Līvānu novads",
         "zh_Hant_TW": "Līvānu novads",
         "zu": "Līvānu novads",
-        "zu_ZA": "Līvānu novads",
-        "sr@latin": "Līvānu novads",
-        "tt@iqtelif": "Līvānu novads"
+        "zu_ZA": "Līvānu novads"
     },
     "058": {
         "af": "Ludzas novads",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Ludzas novads",
         "sq_XK": "Ludzas novads",
         "sr": "Ludzas novads",
+        "sr@latin": "Ludzas novads",
         "sr_Cyrl": "Ludzas novads",
         "sr_Cyrl_BA": "Ludzas novads",
         "sr_Cyrl_ME": "Ludzas novads",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Ludzas novads",
         "tr_TR": "Ludzas novads",
         "tt": "Ludzas novads",
+        "tt@iqtelif": "Ludzas novads",
         "tt_RU": "Ludzas novads",
         "twq": "Ludzas novads",
         "twq_NE": "Ludzas novads",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Ludzas novads",
         "zh_Hant_TW": "Ludzas novads",
         "zu": "Ludzas novads",
-        "zu_ZA": "Ludzas novads",
-        "sr@latin": "Ludzas novads",
-        "tt@iqtelif": "Ludzas novads"
+        "zu_ZA": "Ludzas novads"
     },
     "059": {
         "af": "Madonas novads",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Madonas novads",
         "sq_XK": "Madonas novads",
         "sr": "Madonas novads",
+        "sr@latin": "Madonas novads",
         "sr_Cyrl": "Madonas novads",
         "sr_Cyrl_BA": "Madonas novads",
         "sr_Cyrl_ME": "Madonas novads",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Madonas novads",
         "tr_TR": "Madonas novads",
         "tt": "Madonas novads",
+        "tt@iqtelif": "Madonas novads",
         "tt_RU": "Madonas novads",
         "twq": "Madonas novads",
         "twq_NE": "Madonas novads",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Madonas novads",
         "zh_Hant_TW": "Madonas novads",
         "zu": "Madonas novads",
-        "zu_ZA": "Madonas novads",
-        "sr@latin": "Madonas novads",
-        "tt@iqtelif": "Madonas novads"
+        "zu_ZA": "Madonas novads"
     },
     "062": {
         "af": "Mārupes novads",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Mārupes novads",
         "sq_XK": "Mārupes novads",
         "sr": "Mārupes novads",
+        "sr@latin": "Mārupes novads",
         "sr_Cyrl": "Mārupes novads",
         "sr_Cyrl_BA": "Mārupes novads",
         "sr_Cyrl_ME": "Mārupes novads",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Mārupes novads",
         "tr_TR": "Mārupes novads",
         "tt": "Mārupes novads",
+        "tt@iqtelif": "Mārupes novads",
         "tt_RU": "Mārupes novads",
         "twq": "Mārupes novads",
         "twq_NE": "Mārupes novads",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Mārupes novads",
         "zh_Hant_TW": "Mārupes novads",
         "zu": "Mārupes novads",
-        "zu_ZA": "Mārupes novads",
-        "sr@latin": "Mārupes novads",
-        "tt@iqtelif": "Mārupes novads"
+        "zu_ZA": "Mārupes novads"
     },
     "067": {
         "af": "Ogres novads",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Ogres novads",
         "sq_XK": "Ogres novads",
         "sr": "Ogres novads",
+        "sr@latin": "Ogres novads",
         "sr_Cyrl": "Ogres novads",
         "sr_Cyrl_BA": "Ogres novads",
         "sr_Cyrl_ME": "Ogres novads",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Ogres novads",
         "tr_TR": "Ogres novads",
         "tt": "Ogres novads",
+        "tt@iqtelif": "Ogres novads",
         "tt_RU": "Ogres novads",
         "twq": "Ogres novads",
         "twq_NE": "Ogres novads",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Ogres novads",
         "zh_Hant_TW": "Ogres novads",
         "zu": "Ogres novads",
-        "zu_ZA": "Ogres novads",
-        "sr@latin": "Ogres novads",
-        "tt@iqtelif": "Ogres novads"
+        "zu_ZA": "Ogres novads"
     },
     "068": {
         "af": "Olaines novads",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Olaines novads",
         "sq_XK": "Olaines novads",
         "sr": "Olaines novads",
+        "sr@latin": "Olaines novads",
         "sr_Cyrl": "Olaines novads",
         "sr_Cyrl_BA": "Olaines novads",
         "sr_Cyrl_ME": "Olaines novads",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Olaines novads",
         "tr_TR": "Olaines novads",
         "tt": "Olaines novads",
+        "tt@iqtelif": "Olaines novads",
         "tt_RU": "Olaines novads",
         "twq": "Olaines novads",
         "twq_NE": "Olaines novads",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Olaines novads",
         "zh_Hant_TW": "Olaines novads",
         "zu": "Olaines novads",
-        "zu_ZA": "Olaines novads",
-        "sr@latin": "Olaines novads",
-        "tt@iqtelif": "Olaines novads"
+        "zu_ZA": "Olaines novads"
     },
     "073": {
         "af": "Preiļu novads",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Preiļu novads",
         "sq_XK": "Preiļu novads",
         "sr": "Preiļu novads",
+        "sr@latin": "Preiļu novads",
         "sr_Cyrl": "Preiļu novads",
         "sr_Cyrl_BA": "Preiļu novads",
         "sr_Cyrl_ME": "Preiļu novads",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Preiļu novads",
         "tr_TR": "Preiļu novads",
         "tt": "Preiļu novads",
+        "tt@iqtelif": "Preiļu novads",
         "tt_RU": "Preiļu novads",
         "twq": "Preiļu novads",
         "twq_NE": "Preiļu novads",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Preiļu novads",
         "zh_Hant_TW": "Preiļu novads",
         "zu": "Preiļu novads",
-        "zu_ZA": "Preiļu novads",
-        "sr@latin": "Preiļu novads",
-        "tt@iqtelif": "Preiļu novads"
+        "zu_ZA": "Preiļu novads"
     },
     "077": {
         "af": "Rēzeknes novads",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Rēzeknes novads",
         "sq_XK": "Rēzeknes novads",
         "sr": "Rēzeknes novads",
+        "sr@latin": "Rēzeknes novads",
         "sr_Cyrl": "Rēzeknes novads",
         "sr_Cyrl_BA": "Rēzeknes novads",
         "sr_Cyrl_ME": "Rēzeknes novads",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Rēzeknes novads",
         "tr_TR": "Rēzeknes novads",
         "tt": "Rēzeknes novads",
+        "tt@iqtelif": "Rēzeknes novads",
         "tt_RU": "Rēzeknes novads",
         "twq": "Rēzeknes novads",
         "twq_NE": "Rēzeknes novads",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Rēzeknes novads",
         "zh_Hant_TW": "Rēzeknes novads",
         "zu": "Rēzeknes novads",
-        "zu_ZA": "Rēzeknes novads",
-        "sr@latin": "Rēzeknes novads",
-        "tt@iqtelif": "Rēzeknes novads"
+        "zu_ZA": "Rēzeknes novads"
     },
     "080": {
         "af": "Ropažu novads",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Ropažu novads",
         "sq_XK": "Ropažu novads",
         "sr": "Ropažu novads",
+        "sr@latin": "Ropažu novads",
         "sr_Cyrl": "Ropažu novads",
         "sr_Cyrl_BA": "Ropažu novads",
         "sr_Cyrl_ME": "Ropažu novads",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Ropažu novads",
         "tr_TR": "Ropažu novads",
         "tt": "Ropažu novads",
+        "tt@iqtelif": "Ropažu novads",
         "tt_RU": "Ropažu novads",
         "twq": "Ropažu novads",
         "twq_NE": "Ropažu novads",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Ropažu novads",
         "zh_Hant_TW": "Ropažu novads",
         "zu": "Ropažu novads",
-        "zu_ZA": "Ropažu novads",
-        "sr@latin": "Ropažu novads",
-        "tt@iqtelif": "Ropažu novads"
+        "zu_ZA": "Ropažu novads"
     },
     "087": {
         "af": "Salaspils novads",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Salaspils novads",
         "sq_XK": "Salaspils novads",
         "sr": "Salaspils novads",
+        "sr@latin": "Salaspils novads",
         "sr_Cyrl": "Salaspils novads",
         "sr_Cyrl_BA": "Salaspils novads",
         "sr_Cyrl_ME": "Salaspils novads",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Salaspils novads",
         "tr_TR": "Salaspils novads",
         "tt": "Salaspils novads",
+        "tt@iqtelif": "Salaspils novads",
         "tt_RU": "Salaspils novads",
         "twq": "Salaspils novads",
         "twq_NE": "Salaspils novads",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Salaspils novads",
         "zh_Hant_TW": "Salaspils novads",
         "zu": "Salaspils novads",
-        "zu_ZA": "Salaspils novads",
-        "sr@latin": "Salaspils novads",
-        "tt@iqtelif": "Salaspils novads"
+        "zu_ZA": "Salaspils novads"
     },
     "088": {
         "af": "Saldus novads",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Saldus novads",
         "sq_XK": "Saldus novads",
         "sr": "Saldus novads",
+        "sr@latin": "Saldus novads",
         "sr_Cyrl": "Saldus novads",
         "sr_Cyrl_BA": "Saldus novads",
         "sr_Cyrl_ME": "Saldus novads",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Saldus novads",
         "tr_TR": "Saldus novads",
         "tt": "Saldus novads",
+        "tt@iqtelif": "Saldus novads",
         "tt_RU": "Saldus novads",
         "twq": "Saldus novads",
         "twq_NE": "Saldus novads",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Saldus novads",
         "zh_Hant_TW": "Saldus novads",
         "zu": "Saldus novads",
-        "zu_ZA": "Saldus novads",
-        "sr@latin": "Saldus novads",
-        "tt@iqtelif": "Saldus novads"
+        "zu_ZA": "Saldus novads"
     },
     "089": {
         "af": "Saulkrastu novads",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Saulkrastu novads",
         "sq_XK": "Saulkrastu novads",
         "sr": "Saulkrastu novads",
+        "sr@latin": "Saulkrastu novads",
         "sr_Cyrl": "Saulkrastu novads",
         "sr_Cyrl_BA": "Saulkrastu novads",
         "sr_Cyrl_ME": "Saulkrastu novads",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Saulkrastu novads",
         "tr_TR": "Saulkrastu novads",
         "tt": "Saulkrastu novads",
+        "tt@iqtelif": "Saulkrastu novads",
         "tt_RU": "Saulkrastu novads",
         "twq": "Saulkrastu novads",
         "twq_NE": "Saulkrastu novads",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Saulkrastu novads",
         "zh_Hant_TW": "Saulkrastu novads",
         "zu": "Saulkrastu novads",
-        "zu_ZA": "Saulkrastu novads",
-        "sr@latin": "Saulkrastu novads",
-        "tt@iqtelif": "Saulkrastu novads"
+        "zu_ZA": "Saulkrastu novads"
     },
     "091": {
         "af": "Siguldas novads",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Siguldas novads",
         "sq_XK": "Siguldas novads",
         "sr": "Siguldas novads",
+        "sr@latin": "Siguldas novads",
         "sr_Cyrl": "Siguldas novads",
         "sr_Cyrl_BA": "Siguldas novads",
         "sr_Cyrl_ME": "Siguldas novads",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Siguldas novads",
         "tr_TR": "Siguldas novads",
         "tt": "Siguldas novads",
+        "tt@iqtelif": "Siguldas novads",
         "tt_RU": "Siguldas novads",
         "twq": "Siguldas novads",
         "twq_NE": "Siguldas novads",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Siguldas novads",
         "zh_Hant_TW": "Siguldas novads",
         "zu": "Siguldas novads",
-        "zu_ZA": "Siguldas novads",
-        "sr@latin": "Siguldas novads",
-        "tt@iqtelif": "Siguldas novads"
+        "zu_ZA": "Siguldas novads"
     },
     "094": {
         "af": "Smiltenes novads",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Smiltenes novads",
         "sq_XK": "Smiltenes novads",
         "sr": "Smiltenes novads",
+        "sr@latin": "Smiltenes novads",
         "sr_Cyrl": "Smiltenes novads",
         "sr_Cyrl_BA": "Smiltenes novads",
         "sr_Cyrl_ME": "Smiltenes novads",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Smiltenes novads",
         "tr_TR": "Smiltenes novads",
         "tt": "Smiltenes novads",
+        "tt@iqtelif": "Smiltenes novads",
         "tt_RU": "Smiltenes novads",
         "twq": "Smiltenes novads",
         "twq_NE": "Smiltenes novads",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Smiltenes novads",
         "zh_Hant_TW": "Smiltenes novads",
         "zu": "Smiltenes novads",
-        "zu_ZA": "Smiltenes novads",
-        "sr@latin": "Smiltenes novads",
-        "tt@iqtelif": "Smiltenes novads"
+        "zu_ZA": "Smiltenes novads"
     },
     "097": {
         "af": "Talsu novads",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Talsu novads",
         "sq_XK": "Talsu novads",
         "sr": "Talsu novads",
+        "sr@latin": "Talsu novads",
         "sr_Cyrl": "Talsu novads",
         "sr_Cyrl_BA": "Talsu novads",
         "sr_Cyrl_ME": "Talsu novads",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Talsu novads",
         "tr_TR": "Talsu novads",
         "tt": "Talsu novads",
+        "tt@iqtelif": "Talsu novads",
         "tt_RU": "Talsu novads",
         "twq": "Talsu novads",
         "twq_NE": "Talsu novads",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Talsu novads",
         "zh_Hant_TW": "Talsu novads",
         "zu": "Talsu novads",
-        "zu_ZA": "Talsu novads",
-        "sr@latin": "Talsu novads",
-        "tt@iqtelif": "Talsu novads"
+        "zu_ZA": "Talsu novads"
     },
     "099": {
         "af": "Tukuma novads",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Tukuma novads",
         "sq_XK": "Tukuma novads",
         "sr": "Tukuma novads",
+        "sr@latin": "Tukuma novads",
         "sr_Cyrl": "Tukuma novads",
         "sr_Cyrl_BA": "Tukuma novads",
         "sr_Cyrl_ME": "Tukuma novads",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Tukuma novads",
         "tr_TR": "Tukuma novads",
         "tt": "Tukuma novads",
+        "tt@iqtelif": "Tukuma novads",
         "tt_RU": "Tukuma novads",
         "twq": "Tukuma novads",
         "twq_NE": "Tukuma novads",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Tukuma novads",
         "zh_Hant_TW": "Tukuma novads",
         "zu": "Tukuma novads",
-        "zu_ZA": "Tukuma novads",
-        "sr@latin": "Tukuma novads",
-        "tt@iqtelif": "Tukuma novads"
+        "zu_ZA": "Tukuma novads"
     },
     "101": {
         "af": "Valkas novads",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Valkas novads",
         "sq_XK": "Valkas novads",
         "sr": "Valkas novads",
+        "sr@latin": "Valkas novads",
         "sr_Cyrl": "Valkas novads",
         "sr_Cyrl_BA": "Valkas novads",
         "sr_Cyrl_ME": "Valkas novads",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Valkas novads",
         "tr_TR": "Valkas novads",
         "tt": "Valkas novads",
+        "tt@iqtelif": "Valkas novads",
         "tt_RU": "Valkas novads",
         "twq": "Valkas novads",
         "twq_NE": "Valkas novads",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Valkas novads",
         "zh_Hant_TW": "Valkas novads",
         "zu": "Valkas novads",
-        "zu_ZA": "Valkas novads",
-        "sr@latin": "Valkas novads",
-        "tt@iqtelif": "Valkas novads"
+        "zu_ZA": "Valkas novads"
     },
     "102": {
         "af": "Varakļānu novads",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Varakļānu novads",
         "sq_XK": "Varakļānu novads",
         "sr": "Varakļānu novads",
+        "sr@latin": "Varakļānu novads",
         "sr_Cyrl": "Varakļānu novads",
         "sr_Cyrl_BA": "Varakļānu novads",
         "sr_Cyrl_ME": "Varakļānu novads",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Varakļānu novads",
         "tr_TR": "Varakļānu novads",
         "tt": "Varakļānu novads",
+        "tt@iqtelif": "Varakļānu novads",
         "tt_RU": "Varakļānu novads",
         "twq": "Varakļānu novads",
         "twq_NE": "Varakļānu novads",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Varakļānu novads",
         "zh_Hant_TW": "Varakļānu novads",
         "zu": "Varakļānu novads",
-        "zu_ZA": "Varakļānu novads",
-        "sr@latin": "Varakļānu novads",
-        "tt@iqtelif": "Varakļānu novads"
+        "zu_ZA": "Varakļānu novads"
     },
     "106": {
         "af": "Ventspils novads",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Ventspils novads",
         "sq_XK": "Ventspils novads",
         "sr": "Ventspils novads",
+        "sr@latin": "Ventspils novads",
         "sr_Cyrl": "Ventspils novads",
         "sr_Cyrl_BA": "Ventspils novads",
         "sr_Cyrl_ME": "Ventspils novads",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Ventspils novads",
         "tr_TR": "Ventspils novads",
         "tt": "Ventspils novads",
+        "tt@iqtelif": "Ventspils novads",
         "tt_RU": "Ventspils novads",
         "twq": "Ventspils novads",
         "twq_NE": "Ventspils novads",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Ventspils novads",
         "zh_Hant_TW": "Ventspils novads",
         "zu": "Ventspils novads",
-        "zu_ZA": "Ventspils novads",
-        "sr@latin": "Ventspils novads",
-        "tt@iqtelif": "Ventspils novads"
+        "zu_ZA": "Ventspils novads"
     },
     "111": {
         "af": "Augšdaugavas novads",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Augšdaugavas novads",
         "sq_XK": "Augšdaugavas novads",
         "sr": "Augšdaugavas novads",
+        "sr@latin": "Augšdaugavas novads",
         "sr_Cyrl": "Augšdaugavas novads",
         "sr_Cyrl_BA": "Augšdaugavas novads",
         "sr_Cyrl_ME": "Augšdaugavas novads",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Augšdaugavas novads",
         "tr_TR": "Augšdaugavas novads",
         "tt": "Augšdaugavas novads",
+        "tt@iqtelif": "Augšdaugavas novads",
         "tt_RU": "Augšdaugavas novads",
         "twq": "Augšdaugavas novads",
         "twq_NE": "Augšdaugavas novads",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Augšdaugavas novads",
         "zh_Hant_TW": "Augšdaugavas novads",
         "zu": "Augšdaugavas novads",
-        "zu_ZA": "Augšdaugavas novads",
-        "sr@latin": "Augšdaugavas novads",
-        "tt@iqtelif": "Augšdaugavas novads"
+        "zu_ZA": "Augšdaugavas novads"
     },
     "112": {
         "af": "Dienvidkurzemes Novads",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Dienvidkurzemes Novads",
         "sq_XK": "Dienvidkurzemes Novads",
         "sr": "Dienvidkurzemes Novads",
+        "sr@latin": "Dienvidkurzemes Novads",
         "sr_Cyrl": "Dienvidkurzemes Novads",
         "sr_Cyrl_BA": "Dienvidkurzemes Novads",
         "sr_Cyrl_ME": "Dienvidkurzemes Novads",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Dienvidkurzemes Novads",
         "tr_TR": "Dienvidkurzemes Novads",
         "tt": "Dienvidkurzemes Novads",
+        "tt@iqtelif": "Dienvidkurzemes Novads",
         "tt_RU": "Dienvidkurzemes Novads",
         "twq": "Dienvidkurzemes Novads",
         "twq_NE": "Dienvidkurzemes Novads",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Dienvidkurzemes Novads",
         "zh_Hant_TW": "Dienvidkurzemes Novads",
         "zu": "Dienvidkurzemes Novads",
-        "zu_ZA": "Dienvidkurzemes Novads",
-        "sr@latin": "Dienvidkurzemes Novads",
-        "tt@iqtelif": "Dienvidkurzemes Novads"
+        "zu_ZA": "Dienvidkurzemes Novads"
     },
     "113": {
         "af": "Valmieras Novads",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Valmieras Novads",
         "sq_XK": "Valmieras Novads",
         "sr": "Valmieras Novads",
+        "sr@latin": "Valmieras Novads",
         "sr_Cyrl": "Valmieras Novads",
         "sr_Cyrl_BA": "Valmieras Novads",
         "sr_Cyrl_ME": "Valmieras Novads",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Valmieras Novads",
         "tr_TR": "Valmieras Novads",
         "tt": "Valmieras Novads",
+        "tt@iqtelif": "Valmieras Novads",
         "tt_RU": "Valmieras Novads",
         "twq": "Valmieras Novads",
         "twq_NE": "Valmieras Novads",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Valmieras Novads",
         "zh_Hant_TW": "Valmieras Novads",
         "zu": "Valmieras Novads",
-        "zu_ZA": "Valmieras Novads",
-        "sr@latin": "Valmieras Novads",
-        "tt@iqtelif": "Valmieras Novads"
+        "zu_ZA": "Valmieras Novads"
     },
     "DGV": {
         "af": "Daugavpils",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Daugavpils",
         "sq_XK": "Daugavpils",
         "sr": "Даугавпилс",
+        "sr@latin": "Daugavpils",
         "sr_Cyrl": "Даугавпилс",
         "sr_Cyrl_BA": "Даугавпилс",
         "sr_Cyrl_ME": "Даугавпилс",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Daugavpils",
         "tr_TR": "Daugavpils",
         "tt": "Daugavpils",
+        "tt@iqtelif": "Daugavpils",
         "tt_RU": "Daugavpils",
         "twq": "Daugavpils",
         "twq_NE": "Daugavpils",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Daugavpils",
         "zh_Hant_TW": "Daugavpils",
         "zu": "Daugavpils",
-        "zu_ZA": "Daugavpils",
-        "sr@latin": "Daugavpils",
-        "tt@iqtelif": "Daugavpils"
+        "zu_ZA": "Daugavpils"
     },
     "JEL": {
         "af": "Jelgava",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Jelgava",
         "sq_XK": "Jelgava",
         "sr": "Јелгава",
+        "sr@latin": "Jelgava",
         "sr_Cyrl": "Јелгава",
         "sr_Cyrl_BA": "Јелгава",
         "sr_Cyrl_ME": "Јелгава",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Jelgava",
         "tr_TR": "Jelgava",
         "tt": "Jelgava",
+        "tt@iqtelif": "Jelgava",
         "tt_RU": "Jelgava",
         "twq": "Jelgava",
         "twq_NE": "Jelgava",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Jelgava",
         "zh_Hant_TW": "Jelgava",
         "zu": "Jelgava",
-        "zu_ZA": "Jelgava",
-        "sr@latin": "Jelgava",
-        "tt@iqtelif": "Jelgava"
+        "zu_ZA": "Jelgava"
     },
     "JUR": {
         "af": "Jūrmala",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Jūrmala",
         "sq_XK": "Jūrmala",
         "sr": "Jūrmala",
+        "sr@latin": "Jūrmala",
         "sr_Cyrl": "Jūrmala",
         "sr_Cyrl_BA": "Jūrmala",
         "sr_Cyrl_ME": "Jūrmala",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Jurmala",
         "tr_TR": "Jurmala",
         "tt": "Jūrmala",
+        "tt@iqtelif": "Jūrmala",
         "tt_RU": "Jūrmala",
         "twq": "Jūrmala",
         "twq_NE": "Jūrmala",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Jūrmala",
         "zh_Hant_TW": "Jūrmala",
         "zu": "Jūrmala",
-        "zu_ZA": "Jūrmala",
-        "sr@latin": "Jūrmala",
-        "tt@iqtelif": "Jūrmala"
+        "zu_ZA": "Jūrmala"
     },
     "LPX": {
         "af": "Liepāja",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Liepāja",
         "sq_XK": "Liepāja",
         "sr": "Лиепаја",
+        "sr@latin": "Liepaja",
         "sr_Cyrl": "Лиепаја",
         "sr_Cyrl_BA": "Лиепаја",
         "sr_Cyrl_ME": "Лиепаја",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Liepāja",
         "tr_TR": "Liepāja",
         "tt": "Liepāja",
+        "tt@iqtelif": "Liepāja",
         "tt_RU": "Liepāja",
         "twq": "Liepāja",
         "twq_NE": "Liepāja",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Liepāja",
         "zh_Hant_TW": "Liepāja",
         "zu": "Liepāja",
-        "zu_ZA": "Liepāja",
-        "sr@latin": "Liepaja",
-        "tt@iqtelif": "Liepāja"
+        "zu_ZA": "Liepāja"
     },
     "REZ": {
         "af": "Rēzekne",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Rēzekne",
         "sq_XK": "Rēzekne",
         "sr": "Rēzekne",
+        "sr@latin": "Rēzekne",
         "sr_Cyrl": "Rēzekne",
         "sr_Cyrl_BA": "Rēzekne",
         "sr_Cyrl_ME": "Rēzekne",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Rēzekne",
         "tr_TR": "Rēzekne",
         "tt": "Rēzekne",
+        "tt@iqtelif": "Rēzekne",
         "tt_RU": "Rēzekne",
         "twq": "Rēzekne",
         "twq_NE": "Rēzekne",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Rēzekne",
         "zh_Hant_TW": "Rēzekne",
         "zu": "Rēzekne",
-        "zu_ZA": "Rēzekne",
-        "sr@latin": "Rēzekne",
-        "tt@iqtelif": "Rēzekne"
+        "zu_ZA": "Rēzekne"
     },
     "RIX": {
         "af": "Rīga",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Rīga",
         "sq_XK": "Rīga",
         "sr": "Рига",
+        "sr@latin": "Riga",
         "sr_Cyrl": "Рига",
         "sr_Cyrl_BA": "Рига",
         "sr_Cyrl_ME": "Рига",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Rīga",
         "tr_TR": "Rīga",
         "tt": "Rīga",
+        "tt@iqtelif": "Rīga",
         "tt_RU": "Rīga",
         "twq": "Rīga",
         "twq_NE": "Rīga",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Rīga",
         "zh_Hant_TW": "Rīga",
         "zu": "Rīga",
-        "zu_ZA": "Rīga",
-        "sr@latin": "Riga",
-        "tt@iqtelif": "Rīga"
+        "zu_ZA": "Rīga"
     },
     "VEN": {
         "af": "Ventspils",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Ventspils",
         "sq_XK": "Ventspils",
         "sr": "Вентспилс",
+        "sr@latin": "Ventspils",
         "sr_Cyrl": "Вентспилс",
         "sr_Cyrl_BA": "Вентспилс",
         "sr_Cyrl_ME": "Вентспилс",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Ventspils",
         "tr_TR": "Ventspils",
         "tt": "Ventspils",
+        "tt@iqtelif": "Ventspils",
         "tt_RU": "Ventspils",
         "twq": "Ventspils",
         "twq_NE": "Ventspils",
@@ -38050,8 +38052,6 @@
         "zh_Hant_MY": "Ventspils",
         "zh_Hant_TW": "Ventspils",
         "zu": "Ventspils",
-        "zu_ZA": "Ventspils",
-        "sr@latin": "Ventspils",
-        "tt@iqtelif": "Ventspils"
+        "zu_ZA": "Ventspils"
     }
 }

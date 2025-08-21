@@ -743,6 +743,7 @@
         "sq_MK": "Brokopondo",
         "sq_XK": "Brokopondo",
         "sr": "Брокопондо",
+        "sr@latin": "Brokopondo",
         "sr_Cyrl": "Брокопондо",
         "sr_Cyrl_BA": "Брокопондо",
         "sr_Cyrl_ME": "Брокопондо",
@@ -803,6 +804,7 @@
         "tr_CY": "Brokopondo",
         "tr_TR": "Brokopondo",
         "tt": "Brokopondo",
+        "tt@iqtelif": "Brokopondo",
         "tt_RU": "Brokopondo",
         "twq": "Brokopondo",
         "twq_NE": "Brokopondo",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Brokopondo",
         "zh_Hant_TW": "Brokopondo",
         "zu": "Brokopondo",
-        "zu_ZA": "Brokopondo",
-        "sr@latin": "Brokopondo",
-        "tt@iqtelif": "Brokopondo"
+        "zu_ZA": "Brokopondo"
     },
     "CM": {
         "af": "Commewijne",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Commewijne",
         "sq_XK": "Commewijne",
         "sr": "Комевијне",
+        "sr@latin": "Komevijne",
         "sr_Cyrl": "Комевијне",
         "sr_Cyrl_BA": "Комевијне",
         "sr_Cyrl_ME": "Комевијне",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Commewijne",
         "tr_TR": "Commewijne",
         "tt": "Commewijne",
+        "tt@iqtelif": "Commewijne",
         "tt_RU": "Commewijne",
         "twq": "Commewijne",
         "twq_NE": "Commewijne",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Commewijne",
         "zh_Hant_TW": "Commewijne",
         "zu": "Commewijne",
-        "zu_ZA": "Commewijne",
-        "sr@latin": "Komevijne",
-        "tt@iqtelif": "Commewijne"
+        "zu_ZA": "Commewijne"
     },
     "CR": {
         "af": "Coronie",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Coronie",
         "sq_XK": "Coronie",
         "sr": "Корони",
+        "sr@latin": "Koroni",
         "sr_Cyrl": "Корони",
         "sr_Cyrl_BA": "Корони",
         "sr_Cyrl_ME": "Корони",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Coronie",
         "tr_TR": "Coronie",
         "tt": "Coronie",
+        "tt@iqtelif": "Coronie",
         "tt_RU": "Coronie",
         "twq": "Coronie",
         "twq_NE": "Coronie",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Coronie",
         "zh_Hant_TW": "Coronie",
         "zu": "Coronie",
-        "zu_ZA": "Coronie",
-        "sr@latin": "Koroni",
-        "tt@iqtelif": "Coronie"
+        "zu_ZA": "Coronie"
     },
     "MA": {
         "af": "Marowijne",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Marowijne",
         "sq_XK": "Marowijne",
         "sr": "Marowijne",
+        "sr@latin": "Marowijne",
         "sr_Cyrl": "Marowijne",
         "sr_Cyrl_BA": "Marowijne",
         "sr_Cyrl_ME": "Marowijne",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Marowijne",
         "tr_TR": "Marowijne",
         "tt": "Marowijne",
+        "tt@iqtelif": "Marowijne",
         "tt_RU": "Marowijne",
         "twq": "Marowijne",
         "twq_NE": "Marowijne",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Marowijne",
         "zh_Hant_TW": "Marowijne",
         "zu": "Marowijne",
-        "zu_ZA": "Marowijne",
-        "sr@latin": "Marowijne",
-        "tt@iqtelif": "Marowijne"
+        "zu_ZA": "Marowijne"
     },
     "NI": {
         "af": "Nickerie",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Nickerie",
         "sq_XK": "Nickerie",
         "sr": "Никери",
+        "sr@latin": "Nikeri",
         "sr_Cyrl": "Никери",
         "sr_Cyrl_BA": "Никери",
         "sr_Cyrl_ME": "Никери",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Nickerie",
         "tr_TR": "Nickerie",
         "tt": "Nickerie",
+        "tt@iqtelif": "Nickerie",
         "tt_RU": "Nickerie",
         "twq": "Nickerie",
         "twq_NE": "Nickerie",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Nickerie",
         "zh_Hant_TW": "Nickerie",
         "zu": "Nickerie",
-        "zu_ZA": "Nickerie",
-        "sr@latin": "Nikeri",
-        "tt@iqtelif": "Nickerie"
+        "zu_ZA": "Nickerie"
     },
     "PM": {
         "af": "Paramaribo",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Paramaribo",
         "sq_XK": "Paramaribo",
         "sr": "Парамарибо",
+        "sr@latin": "Paramaribo",
         "sr_Cyrl": "Парамарибо",
         "sr_Cyrl_BA": "Парамарибо",
         "sr_Cyrl_ME": "Парамарибо",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Paramaribo",
         "tr_TR": "Paramaribo",
         "tt": "Paramaribo",
+        "tt@iqtelif": "Paramaribo",
         "tt_RU": "Paramaribo",
         "twq": "Paramaribo",
         "twq_NE": "Paramaribo",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Paramaribo",
         "zh_Hant_TW": "Paramaribo",
         "zu": "Paramaribo",
-        "zu_ZA": "Paramaribo",
-        "sr@latin": "Paramaribo",
-        "tt@iqtelif": "Paramaribo"
+        "zu_ZA": "Paramaribo"
     },
     "PR": {
         "af": "Para",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Para",
         "sq_XK": "Para",
         "sr": "Пара",
+        "sr@latin": "Para",
         "sr_Cyrl": "Пара",
         "sr_Cyrl_BA": "Пара",
         "sr_Cyrl_ME": "Пара",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Para",
         "tr_TR": "Para",
         "tt": "Para",
+        "tt@iqtelif": "Para",
         "tt_RU": "Para",
         "twq": "Para",
         "twq_NE": "Para",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Para",
         "zh_Hant_TW": "Para",
         "zu": "Para",
-        "zu_ZA": "Para",
-        "sr@latin": "Para",
-        "tt@iqtelif": "Para"
+        "zu_ZA": "Para"
     },
     "SA": {
         "af": "Saramacca",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Saramacca",
         "sq_XK": "Saramacca",
         "sr": "Сарамака",
+        "sr@latin": "Saramaka",
         "sr_Cyrl": "Сарамака",
         "sr_Cyrl_BA": "Сарамака",
         "sr_Cyrl_ME": "Сарамака",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Saramacca",
         "tr_TR": "Saramacca",
         "tt": "Saramacca",
+        "tt@iqtelif": "Saramacca",
         "tt_RU": "Saramacca",
         "twq": "Saramacca",
         "twq_NE": "Saramacca",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Saramacca",
         "zh_Hant_TW": "Saramacca",
         "zu": "Saramacca",
-        "zu_ZA": "Saramacca",
-        "sr@latin": "Saramaka",
-        "tt@iqtelif": "Saramacca"
+        "zu_ZA": "Saramacca"
     },
     "SI": {
         "af": "Sipaliwini",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Sipaliwini",
         "sq_XK": "Sipaliwini",
         "sr": "Sipaliwini",
+        "sr@latin": "Sipaliwini",
         "sr_Cyrl": "Sipaliwini",
         "sr_Cyrl_BA": "Sipaliwini",
         "sr_Cyrl_ME": "Sipaliwini",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Sipaliwini",
         "tr_TR": "Sipaliwini",
         "tt": "Sipaliwini",
+        "tt@iqtelif": "Sipaliwini",
         "tt_RU": "Sipaliwini",
         "twq": "Sipaliwini",
         "twq_NE": "Sipaliwini",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Sipaliwini",
         "zh_Hant_TW": "Sipaliwini",
         "zu": "Sipaliwini",
-        "zu_ZA": "Sipaliwini",
-        "sr@latin": "Sipaliwini",
-        "tt@iqtelif": "Sipaliwini"
+        "zu_ZA": "Sipaliwini"
     },
     "WA": {
         "af": "Wanica",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Wanica",
         "sq_XK": "Wanica",
         "sr": "Wanica",
+        "sr@latin": "Wanica",
         "sr_Cyrl": "Wanica",
         "sr_Cyrl_BA": "Wanica",
         "sr_Cyrl_ME": "Wanica",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Wanica",
         "tr_TR": "Wanica",
         "tt": "Wanica",
+        "tt@iqtelif": "Wanica",
         "tt_RU": "Wanica",
         "twq": "Wanica",
         "twq_NE": "Wanica",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Wanica",
         "zh_Hant_TW": "Wanica",
         "zu": "Wanica",
-        "zu_ZA": "Wanica",
-        "sr@latin": "Wanica",
-        "tt@iqtelif": "Wanica"
+        "zu_ZA": "Wanica"
     }
 }

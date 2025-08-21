@@ -743,6 +743,7 @@
         "sq_MK": "Arima",
         "sq_XK": "Arima",
         "sr": "Арима",
+        "sr@latin": "Arima",
         "sr_Cyrl": "Арима",
         "sr_Cyrl_BA": "Арима",
         "sr_Cyrl_ME": "Арима",
@@ -803,6 +804,7 @@
         "tr_CY": "Arima",
         "tr_TR": "Arima",
         "tt": "Arima",
+        "tt@iqtelif": "Arima",
         "tt_RU": "Arima",
         "twq": "Arima",
         "twq_NE": "Arima",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Arima",
         "zh_Hant_TW": "Arima",
         "zu": "Arima",
-        "zu_ZA": "Arima",
-        "sr@latin": "Arima",
-        "tt@iqtelif": "Arima"
+        "zu_ZA": "Arima"
     },
     "CHA": {
         "af": "Chaguanas",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Chaguanas",
         "sq_XK": "Chaguanas",
         "sr": "Чагуанас",
+        "sr@latin": "Čaguanas",
         "sr_Cyrl": "Чагуанас",
         "sr_Cyrl_BA": "Чагуанас",
         "sr_Cyrl_ME": "Чагуанас",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Chaguanas",
         "tr_TR": "Chaguanas",
         "tt": "Chaguanas",
+        "tt@iqtelif": "Chaguanas",
         "tt_RU": "Chaguanas",
         "twq": "Chaguanas",
         "twq_NE": "Chaguanas",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Chaguanas",
         "zh_Hant_TW": "Chaguanas",
         "zu": "Chaguanas",
-        "zu_ZA": "Chaguanas",
-        "sr@latin": "Čaguanas",
-        "tt@iqtelif": "Chaguanas"
+        "zu_ZA": "Chaguanas"
     },
     "CTT": {
         "af": "Couva-Tabaquite-Talparo",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Couva-Tabaquite-Talparo",
         "sq_XK": "Couva-Tabaquite-Talparo",
         "sr": "Коува-Табаквите-Талпаро",
+        "sr@latin": "Kouva-Tabakvite-Talparo",
         "sr_Cyrl": "Коува-Табаквите-Талпаро",
         "sr_Cyrl_BA": "Коува-Табаквите-Талпаро",
         "sr_Cyrl_ME": "Коува-Табаквите-Талпаро",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Couva-Tabaquite-Talparo",
         "tr_TR": "Couva-Tabaquite-Talparo",
         "tt": "Couva-Tabaquite-Talparo",
+        "tt@iqtelif": "Couva-Tabaquite-Talparo",
         "tt_RU": "Couva-Tabaquite-Talparo",
         "twq": "Couva-Tabaquite-Talparo",
         "twq_NE": "Couva-Tabaquite-Talparo",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Couva-Tabaquite-Talparo",
         "zh_Hant_TW": "Couva-Tabaquite-Talparo",
         "zu": "Couva-Tabaquite-Talparo",
-        "zu_ZA": "Couva-Tabaquite-Talparo",
-        "sr@latin": "Kouva-Tabakvite-Talparo",
-        "tt@iqtelif": "Couva-Tabaquite-Talparo"
+        "zu_ZA": "Couva-Tabaquite-Talparo"
     },
     "DMN": {
         "af": "Diego Martin",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Diego Martin",
         "sq_XK": "Diego Martin",
         "sr": "Диего Мартин",
+        "sr@latin": "Diego Martin",
         "sr_Cyrl": "Диего Мартин",
         "sr_Cyrl_BA": "Диего Мартин",
         "sr_Cyrl_ME": "Диего Мартин",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Diego Martin",
         "tr_TR": "Diego Martin",
         "tt": "Diego Martin",
+        "tt@iqtelif": "Diego Martin",
         "tt_RU": "Diego Martin",
         "twq": "Diego Martin",
         "twq_NE": "Diego Martin",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Diego Martin",
         "zh_Hant_TW": "Diego Martin",
         "zu": "Diego Martin",
-        "zu_ZA": "Diego Martin",
-        "sr@latin": "Diego Martin",
-        "tt@iqtelif": "Diego Martin"
+        "zu_ZA": "Diego Martin"
     },
     "MRC": {
         "af": "Mayaro-Rio Claro",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Mayaro-Rio Claro",
         "sq_XK": "Mayaro-Rio Claro",
         "sr": "Mayaro-Rio Claro",
+        "sr@latin": "Mayaro-Rio Claro",
         "sr_Cyrl": "Mayaro-Rio Claro",
         "sr_Cyrl_BA": "Mayaro-Rio Claro",
         "sr_Cyrl_ME": "Mayaro-Rio Claro",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Mayaro-Rio Claro",
         "tr_TR": "Mayaro-Rio Claro",
         "tt": "Mayaro-Rio Claro",
+        "tt@iqtelif": "Mayaro-Rio Claro",
         "tt_RU": "Mayaro-Rio Claro",
         "twq": "Mayaro-Rio Claro",
         "twq_NE": "Mayaro-Rio Claro",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Mayaro-Rio Claro",
         "zh_Hant_TW": "Mayaro-Rio Claro",
         "zu": "Mayaro-Rio Claro",
-        "zu_ZA": "Mayaro-Rio Claro",
-        "sr@latin": "Mayaro-Rio Claro",
-        "tt@iqtelif": "Mayaro-Rio Claro"
+        "zu_ZA": "Mayaro-Rio Claro"
     },
     "PED": {
         "af": "Penal-Debe",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Penal-Debe",
         "sq_XK": "Penal-Debe",
         "sr": "Пенал Дебе",
+        "sr@latin": "Penal Debe",
         "sr_Cyrl": "Пенал Дебе",
         "sr_Cyrl_BA": "Пенал Дебе",
         "sr_Cyrl_ME": "Пенал Дебе",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Penal-Debe",
         "tr_TR": "Penal-Debe",
         "tt": "Penal-Debe",
+        "tt@iqtelif": "Penal-Debe",
         "tt_RU": "Penal-Debe",
         "twq": "Penal-Debe",
         "twq_NE": "Penal-Debe",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Penal-Debe",
         "zh_Hant_TW": "Penal-Debe",
         "zu": "Penal-Debe",
-        "zu_ZA": "Penal-Debe",
-        "sr@latin": "Penal Debe",
-        "tt@iqtelif": "Penal-Debe"
+        "zu_ZA": "Penal-Debe"
     },
     "POS": {
         "af": "Port of Spain",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Port of Spain",
         "sq_XK": "Port of Spain",
         "sr": "Порт ов Спејн",
+        "sr@latin": "Port ov Spejn",
         "sr_Cyrl": "Порт ов Спејн",
         "sr_Cyrl_BA": "Порт ов Спејн",
         "sr_Cyrl_ME": "Порт ов Спејн",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Port of Spain",
         "tr_TR": "Port of Spain",
         "tt": "Port of Spain",
+        "tt@iqtelif": "Port of Spain",
         "tt_RU": "Port of Spain",
         "twq": "Port of Spain",
         "twq_NE": "Port of Spain",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Port of Spain",
         "zh_Hant_TW": "Port of Spain",
         "zu": "Port of Spain",
-        "zu_ZA": "Port of Spain",
-        "sr@latin": "Port ov Spejn",
-        "tt@iqtelif": "Port of Spain"
+        "zu_ZA": "Port of Spain"
     },
     "PRT": {
         "af": "Princes Town",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Princes Town",
         "sq_XK": "Princes Town",
         "sr": "Принстон",
+        "sr@latin": "Prinston",
         "sr_Cyrl": "Принстон",
         "sr_Cyrl_BA": "Принстон",
         "sr_Cyrl_ME": "Принстон",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Princes Town",
         "tr_TR": "Princes Town",
         "tt": "Princes Town",
+        "tt@iqtelif": "Princes Town",
         "tt_RU": "Princes Town",
         "twq": "Princes Town",
         "twq_NE": "Princes Town",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Princes Town",
         "zh_Hant_TW": "Princes Town",
         "zu": "Princes Town",
-        "zu_ZA": "Princes Town",
-        "sr@latin": "Prinston",
-        "tt@iqtelif": "Princes Town"
+        "zu_ZA": "Princes Town"
     },
     "PTF": {
         "af": "Point Fortin",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Point Fortin",
         "sq_XK": "Point Fortin",
         "sr": "Пуант Фортин",
+        "sr@latin": "Puant Fortin",
         "sr_Cyrl": "Пуант Фортин",
         "sr_Cyrl_BA": "Пуант Фортин",
         "sr_Cyrl_ME": "Пуант Фортин",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Point Fortin",
         "tr_TR": "Point Fortin",
         "tt": "Point Fortin",
+        "tt@iqtelif": "Point Fortin",
         "tt_RU": "Point Fortin",
         "twq": "Point Fortin",
         "twq_NE": "Point Fortin",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Point Fortin",
         "zh_Hant_TW": "Point Fortin",
         "zu": "Point Fortin",
-        "zu_ZA": "Point Fortin",
-        "sr@latin": "Puant Fortin",
-        "tt@iqtelif": "Point Fortin"
+        "zu_ZA": "Point Fortin"
     },
     "SFO": {
         "af": "San Fernando",
@@ -8708,6 +8708,7 @@
         "sq_MK": "San Fernando",
         "sq_XK": "San Fernando",
         "sr": "Сан Фернандо",
+        "sr@latin": "San Fernando",
         "sr_Cyrl": "Сан Фернандо",
         "sr_Cyrl_BA": "Сан Фернандо",
         "sr_Cyrl_ME": "Сан Фернандо",
@@ -8768,6 +8769,7 @@
         "tr_CY": "San Fernando",
         "tr_TR": "San Fernando",
         "tt": "San Fernando",
+        "tt@iqtelif": "San Fernando",
         "tt_RU": "San Fernando",
         "twq": "San Fernando",
         "twq_NE": "San Fernando",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "San Fernando",
         "zh_Hant_TW": "San Fernando",
         "zu": "San Fernando",
-        "zu_ZA": "San Fernando",
-        "sr@latin": "San Fernando",
-        "tt@iqtelif": "San Fernando"
+        "zu_ZA": "San Fernando"
     },
     "SGE": {
         "af": "Sangre Grande",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Sangre Grande",
         "sq_XK": "Sangre Grande",
         "sr": "Сангре Гранде",
+        "sr@latin": "Sangre Grande",
         "sr_Cyrl": "Сангре Гранде",
         "sr_Cyrl_BA": "Сангре Гранде",
         "sr_Cyrl_ME": "Сангре Гранде",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Sangre Grande",
         "tr_TR": "Sangre Grande",
         "tt": "Sangre Grande",
+        "tt@iqtelif": "Sangre Grande",
         "tt_RU": "Sangre Grande",
         "twq": "Sangre Grande",
         "twq_NE": "Sangre Grande",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Sangre Grande",
         "zh_Hant_TW": "Sangre Grande",
         "zu": "Sangre Grande",
-        "zu_ZA": "Sangre Grande",
-        "sr@latin": "Sangre Grande",
-        "tt@iqtelif": "Sangre Grande"
+        "zu_ZA": "Sangre Grande"
     },
     "SIP": {
         "af": "Siparia",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Siparia",
         "sq_XK": "Siparia",
         "sr": "Siparia",
+        "sr@latin": "Siparia",
         "sr_Cyrl": "Siparia",
         "sr_Cyrl_BA": "Siparia",
         "sr_Cyrl_ME": "Siparia",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Siparia",
         "tr_TR": "Siparia",
         "tt": "Siparia",
+        "tt@iqtelif": "Siparia",
         "tt_RU": "Siparia",
         "twq": "Siparia",
         "twq_NE": "Siparia",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Siparia",
         "zh_Hant_TW": "Siparia",
         "zu": "Siparia",
-        "zu_ZA": "Siparia",
-        "sr@latin": "Siparia",
-        "tt@iqtelif": "Siparia"
+        "zu_ZA": "Siparia"
     },
     "SJL": {
         "af": "San Juan-Laventille",
@@ -11363,6 +11363,7 @@
         "sq_MK": "San Juan-Laventille",
         "sq_XK": "San Juan-Laventille",
         "sr": "Сан Хуан-Лавентиј",
+        "sr@latin": "San Huan-Laventij",
         "sr_Cyrl": "Сан Хуан-Лавентиј",
         "sr_Cyrl_BA": "Сан Хуан-Лавентиј",
         "sr_Cyrl_ME": "Сан Хуан-Лавентиј",
@@ -11423,6 +11424,7 @@
         "tr_CY": "San Juan-Laventille",
         "tr_TR": "San Juan-Laventille",
         "tt": "San Juan-Laventille",
+        "tt@iqtelif": "San Juan-Laventille",
         "tt_RU": "San Juan-Laventille",
         "twq": "San Juan-Laventille",
         "twq_NE": "San Juan-Laventille",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "San Juan-Laventille",
         "zh_Hant_TW": "San Juan-Laventille",
         "zu": "San Juan-Laventille",
-        "zu_ZA": "San Juan-Laventille",
-        "sr@latin": "San Huan-Laventij",
-        "tt@iqtelif": "San Juan-Laventille"
+        "zu_ZA": "San Juan-Laventille"
     },
     "TOB": {
         "af": "Tobago",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Tobago",
         "sq_XK": "Tobago",
         "sr": "Tobago",
+        "sr@latin": "Tobago",
         "sr_Cyrl": "Tobago",
         "sr_Cyrl_BA": "Tobago",
         "sr_Cyrl_ME": "Tobago",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Tobago",
         "tr_TR": "Tobago",
         "tt": "Tobago",
+        "tt@iqtelif": "Tobago",
         "tt_RU": "Tobago",
         "twq": "Tobago",
         "twq_NE": "Tobago",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Tobago",
         "zh_Hant_TW": "Tobago",
         "zu": "Tobago",
-        "zu_ZA": "Tobago",
-        "sr@latin": "Tobago",
-        "tt@iqtelif": "Tobago"
+        "zu_ZA": "Tobago"
     },
     "TUP": {
         "af": "Tunapuna-Piarco",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Tunapuna-Piarco",
         "sq_XK": "Tunapuna-Piarco",
         "sr": "Tunapuna-Piarco",
+        "sr@latin": "Tunapuna-Piarco",
         "sr_Cyrl": "Tunapuna-Piarco",
         "sr_Cyrl_BA": "Tunapuna-Piarco",
         "sr_Cyrl_ME": "Tunapuna-Piarco",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Tunapuna-Piarco",
         "tr_TR": "Tunapuna-Piarco",
         "tt": "Tunapuna-Piarco",
+        "tt@iqtelif": "Tunapuna-Piarco",
         "tt_RU": "Tunapuna-Piarco",
         "twq": "Tunapuna-Piarco",
         "twq_NE": "Tunapuna-Piarco",
@@ -13270,8 +13272,6 @@
         "zh_Hant_MY": "Tunapuna-Piarco",
         "zh_Hant_TW": "Tunapuna-Piarco",
         "zu": "Tunapuna-Piarco",
-        "zu_ZA": "Tunapuna-Piarco",
-        "sr@latin": "Tunapuna-Piarco",
-        "tt@iqtelif": "Tunapuna-Piarco"
+        "zu_ZA": "Tunapuna-Piarco"
     }
 }

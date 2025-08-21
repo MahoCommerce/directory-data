@@ -743,6 +743,7 @@
         "sq_MK": "Höfuðborgarsvæði",
         "sq_XK": "Höfuðborgarsvæði",
         "sr": "Höfuðborgarsvæði",
+        "sr@latin": "Höfuðborgarsvæði",
         "sr_Cyrl": "Höfuðborgarsvæði",
         "sr_Cyrl_BA": "Höfuðborgarsvæði",
         "sr_Cyrl_ME": "Höfuðborgarsvæði",
@@ -803,6 +804,7 @@
         "tr_CY": "Höfuðborgarsvæði",
         "tr_TR": "Höfuðborgarsvæði",
         "tt": "Höfuðborgarsvæði",
+        "tt@iqtelif": "Höfuðborgarsvæði",
         "tt_RU": "Höfuðborgarsvæði",
         "twq": "Höfuðborgarsvæði",
         "twq_NE": "Höfuðborgarsvæði",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Höfuðborgarsvæði",
         "zh_Hant_TW": "Höfuðborgarsvæði",
         "zu": "Höfuðborgarsvæði",
-        "zu_ZA": "Höfuðborgarsvæði",
-        "sr@latin": "Höfuðborgarsvæði",
-        "tt@iqtelif": "Höfuðborgarsvæði"
+        "zu_ZA": "Höfuðborgarsvæði"
     },
     "2": {
         "af": "Suðurnes",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Suðurnes",
         "sq_XK": "Suðurnes",
         "sr": "Судурнес",
+        "sr@latin": "Sudurnes",
         "sr_Cyrl": "Судурнес",
         "sr_Cyrl_BA": "Судурнес",
         "sr_Cyrl_ME": "Судурнес",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Suðurnes",
         "tr_TR": "Suðurnes",
         "tt": "Suðurnes",
+        "tt@iqtelif": "Suðurnes",
         "tt_RU": "Suðurnes",
         "twq": "Suðurnes",
         "twq_NE": "Suðurnes",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Suðurnes",
         "zh_Hant_TW": "Suðurnes",
         "zu": "Suðurnes",
-        "zu_ZA": "Suðurnes",
-        "sr@latin": "Sudurnes",
-        "tt@iqtelif": "Suðurnes"
+        "zu_ZA": "Suðurnes"
     },
     "3": {
         "af": "Vesturland",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Vesturland",
         "sq_XK": "Vesturland",
         "sr": "Вестурланд",
+        "sr@latin": "Vesturland",
         "sr_Cyrl": "Вестурланд",
         "sr_Cyrl_BA": "Вестурланд",
         "sr_Cyrl_ME": "Вестурланд",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Vesturland",
         "tr_TR": "Vesturland",
         "tt": "Vesturland",
+        "tt@iqtelif": "Vesturland",
         "tt_RU": "Vesturland",
         "twq": "Vesturland",
         "twq_NE": "Vesturland",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Vesturland",
         "zh_Hant_TW": "Vesturland",
         "zu": "Vesturland",
-        "zu_ZA": "Vesturland",
-        "sr@latin": "Vesturland",
-        "tt@iqtelif": "Vesturland"
+        "zu_ZA": "Vesturland"
     },
     "4": {
         "af": "Vestfirðir",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Vestfirðir",
         "sq_XK": "Vestfirðir",
         "sr": "Вестфирдир",
+        "sr@latin": "Vestfirdir",
         "sr_Cyrl": "Вестфирдир",
         "sr_Cyrl_BA": "Вестфирдир",
         "sr_Cyrl_ME": "Вестфирдир",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Vestfirðir",
         "tr_TR": "Vestfirðir",
         "tt": "Vestfirðir",
+        "tt@iqtelif": "Vestfirðir",
         "tt_RU": "Vestfirðir",
         "twq": "Vestfirðir",
         "twq_NE": "Vestfirðir",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Vestfirðir",
         "zh_Hant_TW": "Vestfirðir",
         "zu": "Vestfirðir",
-        "zu_ZA": "Vestfirðir",
-        "sr@latin": "Vestfirdir",
-        "tt@iqtelif": "Vestfirðir"
+        "zu_ZA": "Vestfirðir"
     },
     "5": {
         "af": "Norðurland vestra",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Norðurland vestra",
         "sq_XK": "Norðurland vestra",
         "sr": "Norðurland vestra",
+        "sr@latin": "Norðurland vestra",
         "sr_Cyrl": "Norðurland vestra",
         "sr_Cyrl_BA": "Norðurland vestra",
         "sr_Cyrl_ME": "Norðurland vestra",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Norðurland vestra",
         "tr_TR": "Norðurland vestra",
         "tt": "Norðurland vestra",
+        "tt@iqtelif": "Norðurland vestra",
         "tt_RU": "Norðurland vestra",
         "twq": "Norðurland vestra",
         "twq_NE": "Norðurland vestra",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Norðurland vestra",
         "zh_Hant_TW": "Norðurland vestra",
         "zu": "Norðurland vestra",
-        "zu_ZA": "Norðurland vestra",
-        "sr@latin": "Norðurland vestra",
-        "tt@iqtelif": "Norðurland vestra"
+        "zu_ZA": "Norðurland vestra"
     },
     "6": {
         "af": "Norðurland eystra",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Norðurland eystra",
         "sq_XK": "Norðurland eystra",
         "sr": "Norðurland eystra",
+        "sr@latin": "Norðurland eystra",
         "sr_Cyrl": "Norðurland eystra",
         "sr_Cyrl_BA": "Norðurland eystra",
         "sr_Cyrl_ME": "Norðurland eystra",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Norðurland eystra",
         "tr_TR": "Norðurland eystra",
         "tt": "Norðurland eystra",
+        "tt@iqtelif": "Norðurland eystra",
         "tt_RU": "Norðurland eystra",
         "twq": "Norðurland eystra",
         "twq_NE": "Norðurland eystra",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Norðurland eystra",
         "zh_Hant_TW": "Norðurland eystra",
         "zu": "Norðurland eystra",
-        "zu_ZA": "Norðurland eystra",
-        "sr@latin": "Norðurland eystra",
-        "tt@iqtelif": "Norðurland eystra"
+        "zu_ZA": "Norðurland eystra"
     },
     "7": {
         "af": "Austurland",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Austurland",
         "sq_XK": "Austurland",
         "sr": "Аустурланд",
+        "sr@latin": "Austurland",
         "sr_Cyrl": "Аустурланд",
         "sr_Cyrl_BA": "Аустурланд",
         "sr_Cyrl_ME": "Аустурланд",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Austurland",
         "tr_TR": "Austurland",
         "tt": "Austurland",
+        "tt@iqtelif": "Austurland",
         "tt_RU": "Austurland",
         "twq": "Austurland",
         "twq_NE": "Austurland",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Austurland",
         "zh_Hant_TW": "Austurland",
         "zu": "Austurland",
-        "zu_ZA": "Austurland",
-        "sr@latin": "Austurland",
-        "tt@iqtelif": "Austurland"
+        "zu_ZA": "Austurland"
     },
     "8": {
         "af": "Suðurland",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Suðurland",
         "sq_XK": "Suðurland",
         "sr": "Suðurland",
+        "sr@latin": "Suðurland",
         "sr_Cyrl": "Suðurland",
         "sr_Cyrl_BA": "Suðurland",
         "sr_Cyrl_ME": "Suðurland",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Suðurland",
         "tr_TR": "Suðurland",
         "tt": "Suðurland",
+        "tt@iqtelif": "Suðurland",
         "tt_RU": "Suðurland",
         "twq": "Suðurland",
         "twq_NE": "Suðurland",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Suðurland",
         "zh_Hant_TW": "Suðurland",
         "zu": "Suðurland",
-        "zu_ZA": "Suðurland",
-        "sr@latin": "Suðurland",
-        "tt@iqtelif": "Suðurland"
+        "zu_ZA": "Suðurland"
     },
     "AKN": {
         "af": "Akraneskaupstaður",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Akraneskaupstaður",
         "sq_XK": "Akraneskaupstaður",
         "sr": "Akraneskaupstaður",
+        "sr@latin": "Akraneskaupstaður",
         "sr_Cyrl": "Akraneskaupstaður",
         "sr_Cyrl_BA": "Akraneskaupstaður",
         "sr_Cyrl_ME": "Akraneskaupstaður",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Akraneskaupstaður",
         "tr_TR": "Akraneskaupstaður",
         "tt": "Akraneskaupstaður",
+        "tt@iqtelif": "Akraneskaupstaður",
         "tt_RU": "Akraneskaupstaður",
         "twq": "Akraneskaupstaður",
         "twq_NE": "Akraneskaupstaður",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Akraneskaupstaður",
         "zh_Hant_TW": "Akraneskaupstaður",
         "zu": "Akraneskaupstaður",
-        "zu_ZA": "Akraneskaupstaður",
-        "sr@latin": "Akraneskaupstaður",
-        "tt@iqtelif": "Akraneskaupstaður"
+        "zu_ZA": "Akraneskaupstaður"
     },
     "AKU": {
         "af": "Akureyrarbær",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Akureyrarbær",
         "sq_XK": "Akureyrarbær",
         "sr": "Akureyrarbær",
+        "sr@latin": "Akureyrarbær",
         "sr_Cyrl": "Akureyrarbær",
         "sr_Cyrl_BA": "Akureyrarbær",
         "sr_Cyrl_ME": "Akureyrarbær",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Akureyrarbær",
         "tr_TR": "Akureyrarbær",
         "tt": "Akureyrarbær",
+        "tt@iqtelif": "Akureyrarbær",
         "tt_RU": "Akureyrarbær",
         "twq": "Akureyrarbær",
         "twq_NE": "Akureyrarbær",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Akureyrarbær",
         "zh_Hant_TW": "Akureyrarbær",
         "zu": "Akureyrarbær",
-        "zu_ZA": "Akureyrarbær",
-        "sr@latin": "Akureyrarbær",
-        "tt@iqtelif": "Akureyrarbær"
+        "zu_ZA": "Akureyrarbær"
     },
     "ARN": {
         "af": "Árneshreppur",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Árneshreppur",
         "sq_XK": "Árneshreppur",
         "sr": "Árneshreppur",
+        "sr@latin": "Árneshreppur",
         "sr_Cyrl": "Árneshreppur",
         "sr_Cyrl_BA": "Árneshreppur",
         "sr_Cyrl_ME": "Árneshreppur",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Árneshreppur",
         "tr_TR": "Árneshreppur",
         "tt": "Árneshreppur",
+        "tt@iqtelif": "Árneshreppur",
         "tt_RU": "Árneshreppur",
         "twq": "Árneshreppur",
         "twq_NE": "Árneshreppur",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Árneshreppur",
         "zh_Hant_TW": "Árneshreppur",
         "zu": "Árneshreppur",
-        "zu_ZA": "Árneshreppur",
-        "sr@latin": "Árneshreppur",
-        "tt@iqtelif": "Árneshreppur"
+        "zu_ZA": "Árneshreppur"
     },
     "ASA": {
         "af": "Ásahreppur",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Ásahreppur",
         "sq_XK": "Ásahreppur",
         "sr": "Ásahreppur",
+        "sr@latin": "Ásahreppur",
         "sr_Cyrl": "Ásahreppur",
         "sr_Cyrl_BA": "Ásahreppur",
         "sr_Cyrl_ME": "Ásahreppur",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Ásahreppur",
         "tr_TR": "Ásahreppur",
         "tt": "Ásahreppur",
+        "tt@iqtelif": "Ásahreppur",
         "tt_RU": "Ásahreppur",
         "twq": "Ásahreppur",
         "twq_NE": "Ásahreppur",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Ásahreppur",
         "zh_Hant_TW": "Ásahreppur",
         "zu": "Ásahreppur",
-        "zu_ZA": "Ásahreppur",
-        "sr@latin": "Ásahreppur",
-        "tt@iqtelif": "Ásahreppur"
+        "zu_ZA": "Ásahreppur"
     },
     "BLA": {
         "af": "Bláskógabyggð",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Bláskógabyggð",
         "sq_XK": "Bláskógabyggð",
         "sr": "Bláskógabyggð",
+        "sr@latin": "Bláskógabyggð",
         "sr_Cyrl": "Bláskógabyggð",
         "sr_Cyrl_BA": "Bláskógabyggð",
         "sr_Cyrl_ME": "Bláskógabyggð",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Bláskógabyggð",
         "tr_TR": "Bláskógabyggð",
         "tt": "Bláskógabyggð",
+        "tt@iqtelif": "Bláskógabyggð",
         "tt_RU": "Bláskógabyggð",
         "twq": "Bláskógabyggð",
         "twq_NE": "Bláskógabyggð",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Bláskógabyggð",
         "zh_Hant_TW": "Bláskógabyggð",
         "zu": "Bláskógabyggð",
-        "zu_ZA": "Bláskógabyggð",
-        "sr@latin": "Bláskógabyggð",
-        "tt@iqtelif": "Bláskógabyggð"
+        "zu_ZA": "Bláskógabyggð"
     },
     "BOG": {
         "af": "Borgarbyggð",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Borgarbyggð",
         "sq_XK": "Borgarbyggð",
         "sr": "Borgarbyggð",
+        "sr@latin": "Borgarbyggð",
         "sr_Cyrl": "Borgarbyggð",
         "sr_Cyrl_BA": "Borgarbyggð",
         "sr_Cyrl_ME": "Borgarbyggð",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Borgarbyggð",
         "tr_TR": "Borgarbyggð",
         "tt": "Borgarbyggð",
+        "tt@iqtelif": "Borgarbyggð",
         "tt_RU": "Borgarbyggð",
         "twq": "Borgarbyggð",
         "twq_NE": "Borgarbyggð",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Borgarbyggð",
         "zh_Hant_TW": "Borgarbyggð",
         "zu": "Borgarbyggð",
-        "zu_ZA": "Borgarbyggð",
-        "sr@latin": "Borgarbyggð",
-        "tt@iqtelif": "Borgarbyggð"
+        "zu_ZA": "Borgarbyggð"
     },
     "BOL": {
         "af": "Bolungarvíkurkaupstaður",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Bolungarvíkurkaupstaður",
         "sq_XK": "Bolungarvíkurkaupstaður",
         "sr": "Bolungarvíkurkaupstaður",
+        "sr@latin": "Bolungarvíkurkaupstaður",
         "sr_Cyrl": "Bolungarvíkurkaupstaður",
         "sr_Cyrl_BA": "Bolungarvíkurkaupstaður",
         "sr_Cyrl_ME": "Bolungarvíkurkaupstaður",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Bolungarvíkurkaupstaður",
         "tr_TR": "Bolungarvíkurkaupstaður",
         "tt": "Bolungarvíkurkaupstaður",
+        "tt@iqtelif": "Bolungarvíkurkaupstaður",
         "tt_RU": "Bolungarvíkurkaupstaður",
         "twq": "Bolungarvíkurkaupstaður",
         "twq_NE": "Bolungarvíkurkaupstaður",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Bolungarvíkurkaupstaður",
         "zh_Hant_TW": "Bolungarvíkurkaupstaður",
         "zu": "Bolungarvíkurkaupstaður",
-        "zu_ZA": "Bolungarvíkurkaupstaður",
-        "sr@latin": "Bolungarvíkurkaupstaður",
-        "tt@iqtelif": "Bolungarvíkurkaupstaður"
+        "zu_ZA": "Bolungarvíkurkaupstaður"
     },
     "DAB": {
         "af": "Dalabyggð",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Dalabyggð",
         "sq_XK": "Dalabyggð",
         "sr": "Dalabyggð",
+        "sr@latin": "Dalabyggð",
         "sr_Cyrl": "Dalabyggð",
         "sr_Cyrl_BA": "Dalabyggð",
         "sr_Cyrl_ME": "Dalabyggð",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Dalabyggð",
         "tr_TR": "Dalabyggð",
         "tt": "Dalabyggð",
+        "tt@iqtelif": "Dalabyggð",
         "tt_RU": "Dalabyggð",
         "twq": "Dalabyggð",
         "twq_NE": "Dalabyggð",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Dalabyggð",
         "zh_Hant_TW": "Dalabyggð",
         "zu": "Dalabyggð",
-        "zu_ZA": "Dalabyggð",
-        "sr@latin": "Dalabyggð",
-        "tt@iqtelif": "Dalabyggð"
+        "zu_ZA": "Dalabyggð"
     },
     "DAV": {
         "af": "Dalvíkurbyggð",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Dalvíkurbyggð",
         "sq_XK": "Dalvíkurbyggð",
         "sr": "Dalvíkurbyggð",
+        "sr@latin": "Dalvíkurbyggð",
         "sr_Cyrl": "Dalvíkurbyggð",
         "sr_Cyrl_BA": "Dalvíkurbyggð",
         "sr_Cyrl_ME": "Dalvíkurbyggð",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Dalvíkurbyggð",
         "tr_TR": "Dalvíkurbyggð",
         "tt": "Dalvíkurbyggð",
+        "tt@iqtelif": "Dalvíkurbyggð",
         "tt_RU": "Dalvíkurbyggð",
         "twq": "Dalvíkurbyggð",
         "twq_NE": "Dalvíkurbyggð",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Dalvíkurbyggð",
         "zh_Hant_TW": "Dalvíkurbyggð",
         "zu": "Dalvíkurbyggð",
-        "zu_ZA": "Dalvíkurbyggð",
-        "sr@latin": "Dalvíkurbyggð",
-        "tt@iqtelif": "Dalvíkurbyggð"
+        "zu_ZA": "Dalvíkurbyggð"
     },
     "EOM": {
         "af": "Eyja- og Miklaholtshreppur",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Eyja- og Miklaholtshreppur",
         "sq_XK": "Eyja- og Miklaholtshreppur",
         "sr": "Eyja- og Miklaholtshreppur",
+        "sr@latin": "Eyja- og Miklaholtshreppur",
         "sr_Cyrl": "Eyja- og Miklaholtshreppur",
         "sr_Cyrl_BA": "Eyja- og Miklaholtshreppur",
         "sr_Cyrl_ME": "Eyja- og Miklaholtshreppur",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Eyja- og Miklaholtshreppur",
         "tr_TR": "Eyja- og Miklaholtshreppur",
         "tt": "Eyja- og Miklaholtshreppur",
+        "tt@iqtelif": "Eyja- og Miklaholtshreppur",
         "tt_RU": "Eyja- og Miklaholtshreppur",
         "twq": "Eyja- og Miklaholtshreppur",
         "twq_NE": "Eyja- og Miklaholtshreppur",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Eyja- og Miklaholtshreppur",
         "zh_Hant_TW": "Eyja- og Miklaholtshreppur",
         "zu": "Eyja- og Miklaholtshreppur",
-        "zu_ZA": "Eyja- og Miklaholtshreppur",
-        "sr@latin": "Eyja- og Miklaholtshreppur",
-        "tt@iqtelif": "Eyja- og Miklaholtshreppur"
+        "zu_ZA": "Eyja- og Miklaholtshreppur"
     },
     "EYF": {
         "af": "Eyjafjarðarsveit",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Eyjafjarðarsveit",
         "sq_XK": "Eyjafjarðarsveit",
         "sr": "Eyjafjarðarsveit",
+        "sr@latin": "Eyjafjarðarsveit",
         "sr_Cyrl": "Eyjafjarðarsveit",
         "sr_Cyrl_BA": "Eyjafjarðarsveit",
         "sr_Cyrl_ME": "Eyjafjarðarsveit",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Eyjafjarðarsveit",
         "tr_TR": "Eyjafjarðarsveit",
         "tt": "Eyjafjarðarsveit",
+        "tt@iqtelif": "Eyjafjarðarsveit",
         "tt_RU": "Eyjafjarðarsveit",
         "twq": "Eyjafjarðarsveit",
         "twq_NE": "Eyjafjarðarsveit",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Eyjafjarðarsveit",
         "zh_Hant_TW": "Eyjafjarðarsveit",
         "zu": "Eyjafjarðarsveit",
-        "zu_ZA": "Eyjafjarðarsveit",
-        "sr@latin": "Eyjafjarðarsveit",
-        "tt@iqtelif": "Eyjafjarðarsveit"
+        "zu_ZA": "Eyjafjarðarsveit"
     },
     "FJD": {
         "af": "Fjarðabyggð",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Fjarðabyggð",
         "sq_XK": "Fjarðabyggð",
         "sr": "Fjarðabyggð",
+        "sr@latin": "Fjarðabyggð",
         "sr_Cyrl": "Fjarðabyggð",
         "sr_Cyrl_BA": "Fjarðabyggð",
         "sr_Cyrl_ME": "Fjarðabyggð",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Fjarðabyggð",
         "tr_TR": "Fjarðabyggð",
         "tt": "Fjarðabyggð",
+        "tt@iqtelif": "Fjarðabyggð",
         "tt_RU": "Fjarðabyggð",
         "twq": "Fjarðabyggð",
         "twq_NE": "Fjarðabyggð",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Fjarðabyggð",
         "zh_Hant_TW": "Fjarðabyggð",
         "zu": "Fjarðabyggð",
-        "zu_ZA": "Fjarðabyggð",
-        "sr@latin": "Fjarðabyggð",
-        "tt@iqtelif": "Fjarðabyggð"
+        "zu_ZA": "Fjarðabyggð"
     },
     "FJL": {
         "af": "Fjallabyggð",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Fjallabyggð",
         "sq_XK": "Fjallabyggð",
         "sr": "Fjallabyggð",
+        "sr@latin": "Fjallabyggð",
         "sr_Cyrl": "Fjallabyggð",
         "sr_Cyrl_BA": "Fjallabyggð",
         "sr_Cyrl_ME": "Fjallabyggð",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Fjallabyggð",
         "tr_TR": "Fjallabyggð",
         "tt": "Fjallabyggð",
+        "tt@iqtelif": "Fjallabyggð",
         "tt_RU": "Fjallabyggð",
         "twq": "Fjallabyggð",
         "twq_NE": "Fjallabyggð",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Fjallabyggð",
         "zh_Hant_TW": "Fjallabyggð",
         "zu": "Fjallabyggð",
-        "zu_ZA": "Fjallabyggð",
-        "sr@latin": "Fjallabyggð",
-        "tt@iqtelif": "Fjallabyggð"
+        "zu_ZA": "Fjallabyggð"
     },
     "FLA": {
         "af": "Flóahreppur",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Flóahreppur",
         "sq_XK": "Flóahreppur",
         "sr": "Flóahreppur",
+        "sr@latin": "Flóahreppur",
         "sr_Cyrl": "Flóahreppur",
         "sr_Cyrl_BA": "Flóahreppur",
         "sr_Cyrl_ME": "Flóahreppur",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Flóahreppur",
         "tr_TR": "Flóahreppur",
         "tt": "Flóahreppur",
+        "tt@iqtelif": "Flóahreppur",
         "tt_RU": "Flóahreppur",
         "twq": "Flóahreppur",
         "twq_NE": "Flóahreppur",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Flóahreppur",
         "zh_Hant_TW": "Flóahreppur",
         "zu": "Flóahreppur",
-        "zu_ZA": "Flóahreppur",
-        "sr@latin": "Flóahreppur",
-        "tt@iqtelif": "Flóahreppur"
+        "zu_ZA": "Flóahreppur"
     },
     "FLR": {
         "af": "Fljótsdalshreppur",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Fljótsdalshreppur",
         "sq_XK": "Fljótsdalshreppur",
         "sr": "Fljótsdalshreppur",
+        "sr@latin": "Fljótsdalshreppur",
         "sr_Cyrl": "Fljótsdalshreppur",
         "sr_Cyrl_BA": "Fljótsdalshreppur",
         "sr_Cyrl_ME": "Fljótsdalshreppur",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Fljótsdalshreppur",
         "tr_TR": "Fljótsdalshreppur",
         "tt": "Fljótsdalshreppur",
+        "tt@iqtelif": "Fljótsdalshreppur",
         "tt_RU": "Fljótsdalshreppur",
         "twq": "Fljótsdalshreppur",
         "twq_NE": "Fljótsdalshreppur",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Fljótsdalshreppur",
         "zh_Hant_TW": "Fljótsdalshreppur",
         "zu": "Fljótsdalshreppur",
-        "zu_ZA": "Fljótsdalshreppur",
-        "sr@latin": "Fljótsdalshreppur",
-        "tt@iqtelif": "Fljótsdalshreppur"
+        "zu_ZA": "Fljótsdalshreppur"
     },
     "GAR": {
         "af": "Garðabær",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Garðabær",
         "sq_XK": "Garðabær",
         "sr": "Garðabær",
+        "sr@latin": "Garðabær",
         "sr_Cyrl": "Garðabær",
         "sr_Cyrl_BA": "Garðabær",
         "sr_Cyrl_ME": "Garðabær",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Garðabær",
         "tr_TR": "Garðabær",
         "tt": "Garðabær",
+        "tt@iqtelif": "Garðabær",
         "tt_RU": "Garðabær",
         "twq": "Garðabær",
         "twq_NE": "Garðabær",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Garðabær",
         "zh_Hant_TW": "Garðabær",
         "zu": "Garðabær",
-        "zu_ZA": "Garðabær",
-        "sr@latin": "Garðabær",
-        "tt@iqtelif": "Garðabær"
+        "zu_ZA": "Garðabær"
     },
     "GOG": {
         "af": "Grímsnes- og Grafningshreppur",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Grímsnes- og Grafningshreppur",
         "sq_XK": "Grímsnes- og Grafningshreppur",
         "sr": "Grímsnes- og Grafningshreppur",
+        "sr@latin": "Grímsnes- og Grafningshreppur",
         "sr_Cyrl": "Grímsnes- og Grafningshreppur",
         "sr_Cyrl_BA": "Grímsnes- og Grafningshreppur",
         "sr_Cyrl_ME": "Grímsnes- og Grafningshreppur",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Grímsnes- og Grafningshreppur",
         "tr_TR": "Grímsnes- og Grafningshreppur",
         "tt": "Grímsnes- og Grafningshreppur",
+        "tt@iqtelif": "Grímsnes- og Grafningshreppur",
         "tt_RU": "Grímsnes- og Grafningshreppur",
         "twq": "Grímsnes- og Grafningshreppur",
         "twq_NE": "Grímsnes- og Grafningshreppur",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Grímsnes- og Grafningshreppur",
         "zh_Hant_TW": "Grímsnes- og Grafningshreppur",
         "zu": "Grímsnes- og Grafningshreppur",
-        "zu_ZA": "Grímsnes- og Grafningshreppur",
-        "sr@latin": "Grímsnes- og Grafningshreppur",
-        "tt@iqtelif": "Grímsnes- og Grafningshreppur"
+        "zu_ZA": "Grímsnes- og Grafningshreppur"
     },
     "GRN": {
         "af": "Grindavíkurbær",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Grindavíkurbær",
         "sq_XK": "Grindavíkurbær",
         "sr": "Grindavíkurbær",
+        "sr@latin": "Grindavíkurbær",
         "sr_Cyrl": "Grindavíkurbær",
         "sr_Cyrl_BA": "Grindavíkurbær",
         "sr_Cyrl_ME": "Grindavíkurbær",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Grindavíkurbær",
         "tr_TR": "Grindavíkurbær",
         "tt": "Grindavíkurbær",
+        "tt@iqtelif": "Grindavíkurbær",
         "tt_RU": "Grindavíkurbær",
         "twq": "Grindavíkurbær",
         "twq_NE": "Grindavíkurbær",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Grindavíkurbær",
         "zh_Hant_TW": "Grindavíkurbær",
         "zu": "Grindavíkurbær",
-        "zu_ZA": "Grindavíkurbær",
-        "sr@latin": "Grindavíkurbær",
-        "tt@iqtelif": "Grindavíkurbær"
+        "zu_ZA": "Grindavíkurbær"
     },
     "GRU": {
         "af": "Grundarfjarðarbær",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Grundarfjarðarbær",
         "sq_XK": "Grundarfjarðarbær",
         "sr": "Grundarfjarðarbær",
+        "sr@latin": "Grundarfjarðarbær",
         "sr_Cyrl": "Grundarfjarðarbær",
         "sr_Cyrl_BA": "Grundarfjarðarbær",
         "sr_Cyrl_ME": "Grundarfjarðarbær",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Grundarfjarðarbær",
         "tr_TR": "Grundarfjarðarbær",
         "tt": "Grundarfjarðarbær",
+        "tt@iqtelif": "Grundarfjarðarbær",
         "tt_RU": "Grundarfjarðarbær",
         "twq": "Grundarfjarðarbær",
         "twq_NE": "Grundarfjarðarbær",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Grundarfjarðarbær",
         "zh_Hant_TW": "Grundarfjarðarbær",
         "zu": "Grundarfjarðarbær",
-        "zu_ZA": "Grundarfjarðarbær",
-        "sr@latin": "Grundarfjarðarbær",
-        "tt@iqtelif": "Grundarfjarðarbær"
+        "zu_ZA": "Grundarfjarðarbær"
     },
     "GRY": {
         "af": "Grýtubakkahreppur",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Grýtubakkahreppur",
         "sq_XK": "Grýtubakkahreppur",
         "sr": "Grýtubakkahreppur",
+        "sr@latin": "Grýtubakkahreppur",
         "sr_Cyrl": "Grýtubakkahreppur",
         "sr_Cyrl_BA": "Grýtubakkahreppur",
         "sr_Cyrl_ME": "Grýtubakkahreppur",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Grýtubakkahreppur",
         "tr_TR": "Grýtubakkahreppur",
         "tt": "Grýtubakkahreppur",
+        "tt@iqtelif": "Grýtubakkahreppur",
         "tt_RU": "Grýtubakkahreppur",
         "twq": "Grýtubakkahreppur",
         "twq_NE": "Grýtubakkahreppur",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Grýtubakkahreppur",
         "zh_Hant_TW": "Grýtubakkahreppur",
         "zu": "Grýtubakkahreppur",
-        "zu_ZA": "Grýtubakkahreppur",
-        "sr@latin": "Grýtubakkahreppur",
-        "tt@iqtelif": "Grýtubakkahreppur"
+        "zu_ZA": "Grýtubakkahreppur"
     },
     "HAF": {
         "af": "Hafnarfjarðarkaupstaður",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Hafnarfjarðarkaupstaður",
         "sq_XK": "Hafnarfjarðarkaupstaður",
         "sr": "Hafnarfjarðarkaupstaður",
+        "sr@latin": "Hafnarfjarðarkaupstaður",
         "sr_Cyrl": "Hafnarfjarðarkaupstaður",
         "sr_Cyrl_BA": "Hafnarfjarðarkaupstaður",
         "sr_Cyrl_ME": "Hafnarfjarðarkaupstaður",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Hafnarfjarðarkaupstaður",
         "tr_TR": "Hafnarfjarðarkaupstaður",
         "tt": "Hafnarfjarðarkaupstaður",
+        "tt@iqtelif": "Hafnarfjarðarkaupstaður",
         "tt_RU": "Hafnarfjarðarkaupstaður",
         "twq": "Hafnarfjarðarkaupstaður",
         "twq_NE": "Hafnarfjarðarkaupstaður",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Hafnarfjarðarkaupstaður",
         "zh_Hant_TW": "Hafnarfjarðarkaupstaður",
         "zu": "Hafnarfjarðarkaupstaður",
-        "zu_ZA": "Hafnarfjarðarkaupstaður",
-        "sr@latin": "Hafnarfjarðarkaupstaður",
-        "tt@iqtelif": "Hafnarfjarðarkaupstaður"
+        "zu_ZA": "Hafnarfjarðarkaupstaður"
     },
     "HRG": {
         "af": "Hörgársveit",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Hörgársveit",
         "sq_XK": "Hörgársveit",
         "sr": "Hörgársveit",
+        "sr@latin": "Hörgársveit",
         "sr_Cyrl": "Hörgársveit",
         "sr_Cyrl_BA": "Hörgársveit",
         "sr_Cyrl_ME": "Hörgársveit",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Hörgársveit",
         "tr_TR": "Hörgársveit",
         "tt": "Hörgársveit",
+        "tt@iqtelif": "Hörgársveit",
         "tt_RU": "Hörgársveit",
         "twq": "Hörgársveit",
         "twq_NE": "Hörgársveit",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Hörgársveit",
         "zh_Hant_TW": "Hörgársveit",
         "zu": "Hörgársveit",
-        "zu_ZA": "Hörgársveit",
-        "sr@latin": "Hörgársveit",
-        "tt@iqtelif": "Hörgársveit"
+        "zu_ZA": "Hörgársveit"
     },
     "HRU": {
         "af": "Hrunamannahreppur",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Hrunamannahreppur",
         "sq_XK": "Hrunamannahreppur",
         "sr": "Hrunamannahreppur",
+        "sr@latin": "Hrunamannahreppur",
         "sr_Cyrl": "Hrunamannahreppur",
         "sr_Cyrl_BA": "Hrunamannahreppur",
         "sr_Cyrl_ME": "Hrunamannahreppur",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Hrunamannahreppur",
         "tr_TR": "Hrunamannahreppur",
         "tt": "Hrunamannahreppur",
+        "tt@iqtelif": "Hrunamannahreppur",
         "tt_RU": "Hrunamannahreppur",
         "twq": "Hrunamannahreppur",
         "twq_NE": "Hrunamannahreppur",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Hrunamannahreppur",
         "zh_Hant_TW": "Hrunamannahreppur",
         "zu": "Hrunamannahreppur",
-        "zu_ZA": "Hrunamannahreppur",
-        "sr@latin": "Hrunamannahreppur",
-        "tt@iqtelif": "Hrunamannahreppur"
+        "zu_ZA": "Hrunamannahreppur"
     },
     "HUG": {
         "af": "Húnabyggð",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Húnabyggð",
         "sq_XK": "Húnabyggð",
         "sr": "Húnabyggð",
+        "sr@latin": "Húnabyggð",
         "sr_Cyrl": "Húnabyggð",
         "sr_Cyrl_BA": "Húnabyggð",
         "sr_Cyrl_ME": "Húnabyggð",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Húnabyggð",
         "tr_TR": "Húnabyggð",
         "tt": "Húnabyggð",
+        "tt@iqtelif": "Húnabyggð",
         "tt_RU": "Húnabyggð",
         "twq": "Húnabyggð",
         "twq_NE": "Húnabyggð",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Húnabyggð",
         "zh_Hant_TW": "Húnabyggð",
         "zu": "Húnabyggð",
-        "zu_ZA": "Húnabyggð",
-        "sr@latin": "Húnabyggð",
-        "tt@iqtelif": "Húnabyggð"
+        "zu_ZA": "Húnabyggð"
     },
     "HUV": {
         "af": "Húnaþing vestra",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Húnaþing vestra",
         "sq_XK": "Húnaþing vestra",
         "sr": "Húnaþing vestra",
+        "sr@latin": "Húnaþing vestra",
         "sr_Cyrl": "Húnaþing vestra",
         "sr_Cyrl_BA": "Húnaþing vestra",
         "sr_Cyrl_ME": "Húnaþing vestra",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Húnaþing vestra",
         "tr_TR": "Húnaþing vestra",
         "tt": "Húnaþing vestra",
+        "tt@iqtelif": "Húnaþing vestra",
         "tt_RU": "Húnaþing vestra",
         "twq": "Húnaþing vestra",
         "twq_NE": "Húnaþing vestra",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Húnaþing vestra",
         "zh_Hant_TW": "Húnaþing vestra",
         "zu": "Húnaþing vestra",
-        "zu_ZA": "Húnaþing vestra",
-        "sr@latin": "Húnaþing vestra",
-        "tt@iqtelif": "Húnaþing vestra"
+        "zu_ZA": "Húnaþing vestra"
     },
     "HVA": {
         "af": "Hvalfjarðarsveit",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Hvalfjarðarsveit",
         "sq_XK": "Hvalfjarðarsveit",
         "sr": "Hvalfjarðarsveit",
+        "sr@latin": "Hvalfjarðarsveit",
         "sr_Cyrl": "Hvalfjarðarsveit",
         "sr_Cyrl_BA": "Hvalfjarðarsveit",
         "sr_Cyrl_ME": "Hvalfjarðarsveit",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Hvalfjarðarsveit",
         "tr_TR": "Hvalfjarðarsveit",
         "tt": "Hvalfjarðarsveit",
+        "tt@iqtelif": "Hvalfjarðarsveit",
         "tt_RU": "Hvalfjarðarsveit",
         "twq": "Hvalfjarðarsveit",
         "twq_NE": "Hvalfjarðarsveit",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Hvalfjarðarsveit",
         "zh_Hant_TW": "Hvalfjarðarsveit",
         "zu": "Hvalfjarðarsveit",
-        "zu_ZA": "Hvalfjarðarsveit",
-        "sr@latin": "Hvalfjarðarsveit",
-        "tt@iqtelif": "Hvalfjarðarsveit"
+        "zu_ZA": "Hvalfjarðarsveit"
     },
     "HVE": {
         "af": "Hveragerðisbær",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Hveragerðisbær",
         "sq_XK": "Hveragerðisbær",
         "sr": "Hveragerðisbær",
+        "sr@latin": "Hveragerðisbær",
         "sr_Cyrl": "Hveragerðisbær",
         "sr_Cyrl_BA": "Hveragerðisbær",
         "sr_Cyrl_ME": "Hveragerðisbær",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Hveragerðisbær",
         "tr_TR": "Hveragerðisbær",
         "tt": "Hveragerðisbær",
+        "tt@iqtelif": "Hveragerðisbær",
         "tt_RU": "Hveragerðisbær",
         "twq": "Hveragerðisbær",
         "twq_NE": "Hveragerðisbær",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Hveragerðisbær",
         "zh_Hant_TW": "Hveragerðisbær",
         "zu": "Hveragerðisbær",
-        "zu_ZA": "Hveragerðisbær",
-        "sr@latin": "Hveragerðisbær",
-        "tt@iqtelif": "Hveragerðisbær"
+        "zu_ZA": "Hveragerðisbær"
     },
     "ISA": {
         "af": "Ísafjarðarbær",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Ísafjarðarbær",
         "sq_XK": "Ísafjarðarbær",
         "sr": "Ísafjarðarbær",
+        "sr@latin": "Ísafjarðarbær",
         "sr_Cyrl": "Ísafjarðarbær",
         "sr_Cyrl_BA": "Ísafjarðarbær",
         "sr_Cyrl_ME": "Ísafjarðarbær",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Ísafjarðarbær",
         "tr_TR": "Ísafjarðarbær",
         "tt": "Ísafjarðarbær",
+        "tt@iqtelif": "Ísafjarðarbær",
         "tt_RU": "Ísafjarðarbær",
         "twq": "Ísafjarðarbær",
         "twq_NE": "Ísafjarðarbær",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Ísafjarðarbær",
         "zh_Hant_TW": "Ísafjarðarbær",
         "zu": "Ísafjarðarbær",
-        "zu_ZA": "Ísafjarðarbær",
-        "sr@latin": "Ísafjarðarbær",
-        "tt@iqtelif": "Ísafjarðarbær"
+        "zu_ZA": "Ísafjarðarbær"
     },
     "KAL": {
         "af": "Kaldrananeshreppur",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Kaldrananeshreppur",
         "sq_XK": "Kaldrananeshreppur",
         "sr": "Kaldrananeshreppur",
+        "sr@latin": "Kaldrananeshreppur",
         "sr_Cyrl": "Kaldrananeshreppur",
         "sr_Cyrl_BA": "Kaldrananeshreppur",
         "sr_Cyrl_ME": "Kaldrananeshreppur",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Kaldrananeshreppur",
         "tr_TR": "Kaldrananeshreppur",
         "tt": "Kaldrananeshreppur",
+        "tt@iqtelif": "Kaldrananeshreppur",
         "tt_RU": "Kaldrananeshreppur",
         "twq": "Kaldrananeshreppur",
         "twq_NE": "Kaldrananeshreppur",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Kaldrananeshreppur",
         "zh_Hant_TW": "Kaldrananeshreppur",
         "zu": "Kaldrananeshreppur",
-        "zu_ZA": "Kaldrananeshreppur",
-        "sr@latin": "Kaldrananeshreppur",
-        "tt@iqtelif": "Kaldrananeshreppur"
+        "zu_ZA": "Kaldrananeshreppur"
     },
     "KJO": {
         "af": "Kjósarhreppur",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Kjósarhreppur",
         "sq_XK": "Kjósarhreppur",
         "sr": "Kjósarhreppur",
+        "sr@latin": "Kjósarhreppur",
         "sr_Cyrl": "Kjósarhreppur",
         "sr_Cyrl_BA": "Kjósarhreppur",
         "sr_Cyrl_ME": "Kjósarhreppur",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Kjósarhreppur",
         "tr_TR": "Kjósarhreppur",
         "tt": "Kjósarhreppur",
+        "tt@iqtelif": "Kjósarhreppur",
         "tt_RU": "Kjósarhreppur",
         "twq": "Kjósarhreppur",
         "twq_NE": "Kjósarhreppur",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Kjósarhreppur",
         "zh_Hant_TW": "Kjósarhreppur",
         "zu": "Kjósarhreppur",
-        "zu_ZA": "Kjósarhreppur",
-        "sr@latin": "Kjósarhreppur",
-        "tt@iqtelif": "Kjósarhreppur"
+        "zu_ZA": "Kjósarhreppur"
     },
     "KOP": {
         "af": "Kópavogsbær",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Kópavogsbær",
         "sq_XK": "Kópavogsbær",
         "sr": "Kópavogsbær",
+        "sr@latin": "Kópavogsbær",
         "sr_Cyrl": "Kópavogsbær",
         "sr_Cyrl_BA": "Kópavogsbær",
         "sr_Cyrl_ME": "Kópavogsbær",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Kópavogsbær",
         "tr_TR": "Kópavogsbær",
         "tt": "Kópavogsbær",
+        "tt@iqtelif": "Kópavogsbær",
         "tt_RU": "Kópavogsbær",
         "twq": "Kópavogsbær",
         "twq_NE": "Kópavogsbær",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Kópavogsbær",
         "zh_Hant_TW": "Kópavogsbær",
         "zu": "Kópavogsbær",
-        "zu_ZA": "Kópavogsbær",
-        "sr@latin": "Kópavogsbær",
-        "tt@iqtelif": "Kópavogsbær"
+        "zu_ZA": "Kópavogsbær"
     },
     "LAN": {
         "af": "Langanesbyggð",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Langanesbyggð",
         "sq_XK": "Langanesbyggð",
         "sr": "Langanesbyggð",
+        "sr@latin": "Langanesbyggð",
         "sr_Cyrl": "Langanesbyggð",
         "sr_Cyrl_BA": "Langanesbyggð",
         "sr_Cyrl_ME": "Langanesbyggð",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Langanesbyggð",
         "tr_TR": "Langanesbyggð",
         "tt": "Langanesbyggð",
+        "tt@iqtelif": "Langanesbyggð",
         "tt_RU": "Langanesbyggð",
         "twq": "Langanesbyggð",
         "twq_NE": "Langanesbyggð",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Langanesbyggð",
         "zh_Hant_TW": "Langanesbyggð",
         "zu": "Langanesbyggð",
-        "zu_ZA": "Langanesbyggð",
-        "sr@latin": "Langanesbyggð",
-        "tt@iqtelif": "Langanesbyggð"
+        "zu_ZA": "Langanesbyggð"
     },
     "MOS": {
         "af": "Mosfellsbær",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Mosfellsbær",
         "sq_XK": "Mosfellsbær",
         "sr": "Mosfellsbær",
+        "sr@latin": "Mosfellsbær",
         "sr_Cyrl": "Mosfellsbær",
         "sr_Cyrl_BA": "Mosfellsbær",
         "sr_Cyrl_ME": "Mosfellsbær",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Mosfellsbær",
         "tr_TR": "Mosfellsbær",
         "tt": "Mosfellsbær",
+        "tt@iqtelif": "Mosfellsbær",
         "tt_RU": "Mosfellsbær",
         "twq": "Mosfellsbær",
         "twq_NE": "Mosfellsbær",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Mosfellsbær",
         "zh_Hant_TW": "Mosfellsbær",
         "zu": "Mosfellsbær",
-        "zu_ZA": "Mosfellsbær",
-        "sr@latin": "Mosfellsbær",
-        "tt@iqtelif": "Mosfellsbær"
+        "zu_ZA": "Mosfellsbær"
     },
     "MUL": {
         "af": "Múlaþing",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Múlaþing",
         "sq_XK": "Múlaþing",
         "sr": "Múlaþing",
+        "sr@latin": "Múlaþing",
         "sr_Cyrl": "Múlaþing",
         "sr_Cyrl_BA": "Múlaþing",
         "sr_Cyrl_ME": "Múlaþing",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Múlaþing",
         "tr_TR": "Múlaþing",
         "tt": "Múlaþing",
+        "tt@iqtelif": "Múlaþing",
         "tt_RU": "Múlaþing",
         "twq": "Múlaþing",
         "twq_NE": "Múlaþing",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Múlaþing",
         "zh_Hant_TW": "Múlaþing",
         "zu": "Múlaþing",
-        "zu_ZA": "Múlaþing",
-        "sr@latin": "Múlaþing",
-        "tt@iqtelif": "Múlaþing"
+        "zu_ZA": "Múlaþing"
     },
     "MYR": {
         "af": "Mýrdalshreppur",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Mýrdalshreppur",
         "sq_XK": "Mýrdalshreppur",
         "sr": "Mýrdalshreppur",
+        "sr@latin": "Mýrdalshreppur",
         "sr_Cyrl": "Mýrdalshreppur",
         "sr_Cyrl_BA": "Mýrdalshreppur",
         "sr_Cyrl_ME": "Mýrdalshreppur",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Mýrdalshreppur",
         "tr_TR": "Mýrdalshreppur",
         "tt": "Mýrdalshreppur",
+        "tt@iqtelif": "Mýrdalshreppur",
         "tt_RU": "Mýrdalshreppur",
         "twq": "Mýrdalshreppur",
         "twq_NE": "Mýrdalshreppur",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Mýrdalshreppur",
         "zh_Hant_TW": "Mýrdalshreppur",
         "zu": "Mýrdalshreppur",
-        "zu_ZA": "Mýrdalshreppur",
-        "sr@latin": "Mýrdalshreppur",
-        "tt@iqtelif": "Mýrdalshreppur"
+        "zu_ZA": "Mýrdalshreppur"
     },
     "NOR": {
         "af": "Norðurþing",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Norðurþing",
         "sq_XK": "Norðurþing",
         "sr": "Norðurþing",
+        "sr@latin": "Norðurþing",
         "sr_Cyrl": "Norðurþing",
         "sr_Cyrl_BA": "Norðurþing",
         "sr_Cyrl_ME": "Norðurþing",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Norðurþing",
         "tr_TR": "Norðurþing",
         "tt": "Norðurþing",
+        "tt@iqtelif": "Norðurþing",
         "tt_RU": "Norðurþing",
         "twq": "Norðurþing",
         "twq_NE": "Norðurþing",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Norðurþing",
         "zh_Hant_TW": "Norðurþing",
         "zu": "Norðurþing",
-        "zu_ZA": "Norðurþing",
-        "sr@latin": "Norðurþing",
-        "tt@iqtelif": "Norðurþing"
+        "zu_ZA": "Norðurþing"
     },
     "RGE": {
         "af": "Rangárþing eystra",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Rangárþing eystra",
         "sq_XK": "Rangárþing eystra",
         "sr": "Rangárþing eystra",
+        "sr@latin": "Rangárþing eystra",
         "sr_Cyrl": "Rangárþing eystra",
         "sr_Cyrl_BA": "Rangárþing eystra",
         "sr_Cyrl_ME": "Rangárþing eystra",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Rangárþing eystra",
         "tr_TR": "Rangárþing eystra",
         "tt": "Rangárþing eystra",
+        "tt@iqtelif": "Rangárþing eystra",
         "tt_RU": "Rangárþing eystra",
         "twq": "Rangárþing eystra",
         "twq_NE": "Rangárþing eystra",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Rangárþing eystra",
         "zh_Hant_TW": "Rangárþing eystra",
         "zu": "Rangárþing eystra",
-        "zu_ZA": "Rangárþing eystra",
-        "sr@latin": "Rangárþing eystra",
-        "tt@iqtelif": "Rangárþing eystra"
+        "zu_ZA": "Rangárþing eystra"
     },
     "RGY": {
         "af": "Rangárþing ytra",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Rangárþing ytra",
         "sq_XK": "Rangárþing ytra",
         "sr": "Rangárþing ytra",
+        "sr@latin": "Rangárþing ytra",
         "sr_Cyrl": "Rangárþing ytra",
         "sr_Cyrl_BA": "Rangárþing ytra",
         "sr_Cyrl_ME": "Rangárþing ytra",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Rangárþing ytra",
         "tr_TR": "Rangárþing ytra",
         "tt": "Rangárþing ytra",
+        "tt@iqtelif": "Rangárþing ytra",
         "tt_RU": "Rangárþing ytra",
         "twq": "Rangárþing ytra",
         "twq_NE": "Rangárþing ytra",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Rangárþing ytra",
         "zh_Hant_TW": "Rangárþing ytra",
         "zu": "Rangárþing ytra",
-        "zu_ZA": "Rangárþing ytra",
-        "sr@latin": "Rangárþing ytra",
-        "tt@iqtelif": "Rangárþing ytra"
+        "zu_ZA": "Rangárþing ytra"
     },
     "RHH": {
         "af": "Reykhólahreppur",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Reykhólahreppur",
         "sq_XK": "Reykhólahreppur",
         "sr": "Reykhólahreppur",
+        "sr@latin": "Reykhólahreppur",
         "sr_Cyrl": "Reykhólahreppur",
         "sr_Cyrl_BA": "Reykhólahreppur",
         "sr_Cyrl_ME": "Reykhólahreppur",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Reykhólahreppur",
         "tr_TR": "Reykhólahreppur",
         "tt": "Reykhólahreppur",
+        "tt@iqtelif": "Reykhólahreppur",
         "tt_RU": "Reykhólahreppur",
         "twq": "Reykhólahreppur",
         "twq_NE": "Reykhólahreppur",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Reykhólahreppur",
         "zh_Hant_TW": "Reykhólahreppur",
         "zu": "Reykhólahreppur",
-        "zu_ZA": "Reykhólahreppur",
-        "sr@latin": "Reykhólahreppur",
-        "tt@iqtelif": "Reykhólahreppur"
+        "zu_ZA": "Reykhólahreppur"
     },
     "RKN": {
         "af": "Reykjanesbær",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Reykjanesbær",
         "sq_XK": "Reykjanesbær",
         "sr": "Reykjanesbær",
+        "sr@latin": "Reykjanesbær",
         "sr_Cyrl": "Reykjanesbær",
         "sr_Cyrl_BA": "Reykjanesbær",
         "sr_Cyrl_ME": "Reykjanesbær",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Reykjanesbær",
         "tr_TR": "Reykjanesbær",
         "tt": "Reykjanesbær",
+        "tt@iqtelif": "Reykjanesbær",
         "tt_RU": "Reykjanesbær",
         "twq": "Reykjanesbær",
         "twq_NE": "Reykjanesbær",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Reykjanesbær",
         "zh_Hant_TW": "Reykjanesbær",
         "zu": "Reykjanesbær",
-        "zu_ZA": "Reykjanesbær",
-        "sr@latin": "Reykjanesbær",
-        "tt@iqtelif": "Reykjanesbær"
+        "zu_ZA": "Reykjanesbær"
     },
     "RKV": {
         "af": "Reykjavíkurborg",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Reykjavíkurborg",
         "sq_XK": "Reykjavíkurborg",
         "sr": "Reykjavíkurborg",
+        "sr@latin": "Reykjavíkurborg",
         "sr_Cyrl": "Reykjavíkurborg",
         "sr_Cyrl_BA": "Reykjavíkurborg",
         "sr_Cyrl_ME": "Reykjavíkurborg",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Reykjavíkurborg",
         "tr_TR": "Reykjavíkurborg",
         "tt": "Reykjavíkurborg",
+        "tt@iqtelif": "Reykjavíkurborg",
         "tt_RU": "Reykjavíkurborg",
         "twq": "Reykjavíkurborg",
         "twq_NE": "Reykjavíkurborg",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Reykjavíkurborg",
         "zh_Hant_TW": "Reykjavíkurborg",
         "zu": "Reykjavíkurborg",
-        "zu_ZA": "Reykjavíkurborg",
-        "sr@latin": "Reykjavíkurborg",
-        "tt@iqtelif": "Reykjavíkurborg"
+        "zu_ZA": "Reykjavíkurborg"
     },
     "SBT": {
         "af": "Svalbarðsstrandarhreppur",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Svalbarðsstrandarhreppur",
         "sq_XK": "Svalbarðsstrandarhreppur",
         "sr": "Svalbarðsstrandarhreppur",
+        "sr@latin": "Svalbarðsstrandarhreppur",
         "sr_Cyrl": "Svalbarðsstrandarhreppur",
         "sr_Cyrl_BA": "Svalbarðsstrandarhreppur",
         "sr_Cyrl_ME": "Svalbarðsstrandarhreppur",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Svalbarðsstrandarhreppur",
         "tr_TR": "Svalbarðsstrandarhreppur",
         "tt": "Svalbarðsstrandarhreppur",
+        "tt@iqtelif": "Svalbarðsstrandarhreppur",
         "tt_RU": "Svalbarðsstrandarhreppur",
         "twq": "Svalbarðsstrandarhreppur",
         "twq_NE": "Svalbarðsstrandarhreppur",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Svalbarðsstrandarhreppur",
         "zh_Hant_TW": "Svalbarðsstrandarhreppur",
         "zu": "Svalbarðsstrandarhreppur",
-        "zu_ZA": "Svalbarðsstrandarhreppur",
-        "sr@latin": "Svalbarðsstrandarhreppur",
-        "tt@iqtelif": "Svalbarðsstrandarhreppur"
+        "zu_ZA": "Svalbarðsstrandarhreppur"
     },
     "SDN": {
         "af": "Suðurnesjabær",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Suðurnesjabær",
         "sq_XK": "Suðurnesjabær",
         "sr": "Suðurnesjabær",
+        "sr@latin": "Suðurnesjabær",
         "sr_Cyrl": "Suðurnesjabær",
         "sr_Cyrl_BA": "Suðurnesjabær",
         "sr_Cyrl_ME": "Suðurnesjabær",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Suðurnesjabær",
         "tr_TR": "Suðurnesjabær",
         "tt": "Suðurnesjabær",
+        "tt@iqtelif": "Suðurnesjabær",
         "tt_RU": "Suðurnesjabær",
         "twq": "Suðurnesjabær",
         "twq_NE": "Suðurnesjabær",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Suðurnesjabær",
         "zh_Hant_TW": "Suðurnesjabær",
         "zu": "Suðurnesjabær",
-        "zu_ZA": "Suðurnesjabær",
-        "sr@latin": "Suðurnesjabær",
-        "tt@iqtelif": "Suðurnesjabær"
+        "zu_ZA": "Suðurnesjabær"
     },
     "SDV": {
         "af": "Súðavíkurhreppur",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Súðavíkurhreppur",
         "sq_XK": "Súðavíkurhreppur",
         "sr": "Súðavíkurhreppur",
+        "sr@latin": "Súðavíkurhreppur",
         "sr_Cyrl": "Súðavíkurhreppur",
         "sr_Cyrl_BA": "Súðavíkurhreppur",
         "sr_Cyrl_ME": "Súðavíkurhreppur",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Súðavíkurhreppur",
         "tr_TR": "Súðavíkurhreppur",
         "tt": "Súðavíkurhreppur",
+        "tt@iqtelif": "Súðavíkurhreppur",
         "tt_RU": "Súðavíkurhreppur",
         "twq": "Súðavíkurhreppur",
         "twq_NE": "Súðavíkurhreppur",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Súðavíkurhreppur",
         "zh_Hant_TW": "Súðavíkurhreppur",
         "zu": "Súðavíkurhreppur",
-        "zu_ZA": "Súðavíkurhreppur",
-        "sr@latin": "Súðavíkurhreppur",
-        "tt@iqtelif": "Súðavíkurhreppur"
+        "zu_ZA": "Súðavíkurhreppur"
     },
     "SEL": {
         "af": "Seltjarnarnesbær",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Seltjarnarnesbær",
         "sq_XK": "Seltjarnarnesbær",
         "sr": "Seltjarnarnesbær",
+        "sr@latin": "Seltjarnarnesbær",
         "sr_Cyrl": "Seltjarnarnesbær",
         "sr_Cyrl_BA": "Seltjarnarnesbær",
         "sr_Cyrl_ME": "Seltjarnarnesbær",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Seltjarnarnesbær",
         "tr_TR": "Seltjarnarnesbær",
         "tt": "Seltjarnarnesbær",
+        "tt@iqtelif": "Seltjarnarnesbær",
         "tt_RU": "Seltjarnarnesbær",
         "twq": "Seltjarnarnesbær",
         "twq_NE": "Seltjarnarnesbær",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Seltjarnarnesbær",
         "zh_Hant_TW": "Seltjarnarnesbær",
         "zu": "Seltjarnarnesbær",
-        "zu_ZA": "Seltjarnarnesbær",
-        "sr@latin": "Seltjarnarnesbær",
-        "tt@iqtelif": "Seltjarnarnesbær"
+        "zu_ZA": "Seltjarnarnesbær"
     },
     "SFA": {
         "af": "Sveitarfélagið Árborg",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Sveitarfélagið Árborg",
         "sq_XK": "Sveitarfélagið Árborg",
         "sr": "Sveitarfélagið Árborg",
+        "sr@latin": "Sveitarfélagið Árborg",
         "sr_Cyrl": "Sveitarfélagið Árborg",
         "sr_Cyrl_BA": "Sveitarfélagið Árborg",
         "sr_Cyrl_ME": "Sveitarfélagið Árborg",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Sveitarfélagið Árborg",
         "tr_TR": "Sveitarfélagið Árborg",
         "tt": "Sveitarfélagið Árborg",
+        "tt@iqtelif": "Sveitarfélagið Árborg",
         "tt_RU": "Sveitarfélagið Árborg",
         "twq": "Sveitarfélagið Árborg",
         "twq_NE": "Sveitarfélagið Árborg",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Sveitarfélagið Árborg",
         "zh_Hant_TW": "Sveitarfélagið Árborg",
         "zu": "Sveitarfélagið Árborg",
-        "zu_ZA": "Sveitarfélagið Árborg",
-        "sr@latin": "Sveitarfélagið Árborg",
-        "tt@iqtelif": "Sveitarfélagið Árborg"
+        "zu_ZA": "Sveitarfélagið Árborg"
     },
     "SHF": {
         "af": "Sveitarfélagið Hornafjörður",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Sveitarfélagið Hornafjörður",
         "sq_XK": "Sveitarfélagið Hornafjörður",
         "sr": "Sveitarfélagið Hornafjörður",
+        "sr@latin": "Sveitarfélagið Hornafjörður",
         "sr_Cyrl": "Sveitarfélagið Hornafjörður",
         "sr_Cyrl_BA": "Sveitarfélagið Hornafjörður",
         "sr_Cyrl_ME": "Sveitarfélagið Hornafjörður",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Sveitarfélagið Hornafjörður",
         "tr_TR": "Sveitarfélagið Hornafjörður",
         "tt": "Sveitarfélagið Hornafjörður",
+        "tt@iqtelif": "Sveitarfélagið Hornafjörður",
         "tt_RU": "Sveitarfélagið Hornafjörður",
         "twq": "Sveitarfélagið Hornafjörður",
         "twq_NE": "Sveitarfélagið Hornafjörður",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Sveitarfélagið Hornafjörður",
         "zh_Hant_TW": "Sveitarfélagið Hornafjörður",
         "zu": "Sveitarfélagið Hornafjörður",
-        "zu_ZA": "Sveitarfélagið Hornafjörður",
-        "sr@latin": "Sveitarfélagið Hornafjörður",
-        "tt@iqtelif": "Sveitarfélagið Hornafjörður"
+        "zu_ZA": "Sveitarfélagið Hornafjörður"
     },
     "SKF": {
         "af": "Skaftárhreppur",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Skaftárhreppur",
         "sq_XK": "Skaftárhreppur",
         "sr": "Skaftárhreppur",
+        "sr@latin": "Skaftárhreppur",
         "sr_Cyrl": "Skaftárhreppur",
         "sr_Cyrl_BA": "Skaftárhreppur",
         "sr_Cyrl_ME": "Skaftárhreppur",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Skaftárhreppur",
         "tr_TR": "Skaftárhreppur",
         "tt": "Skaftárhreppur",
+        "tt@iqtelif": "Skaftárhreppur",
         "tt_RU": "Skaftárhreppur",
         "twq": "Skaftárhreppur",
         "twq_NE": "Skaftárhreppur",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Skaftárhreppur",
         "zh_Hant_TW": "Skaftárhreppur",
         "zu": "Skaftárhreppur",
-        "zu_ZA": "Skaftárhreppur",
-        "sr@latin": "Skaftárhreppur",
-        "tt@iqtelif": "Skaftárhreppur"
+        "zu_ZA": "Skaftárhreppur"
     },
     "SKG": {
         "af": "Skagabyggð",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Skagabyggð",
         "sq_XK": "Skagabyggð",
         "sr": "Skagabyggð",
+        "sr@latin": "Skagabyggð",
         "sr_Cyrl": "Skagabyggð",
         "sr_Cyrl_BA": "Skagabyggð",
         "sr_Cyrl_ME": "Skagabyggð",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Skagabyggð",
         "tr_TR": "Skagabyggð",
         "tt": "Skagabyggð",
+        "tt@iqtelif": "Skagabyggð",
         "tt_RU": "Skagabyggð",
         "twq": "Skagabyggð",
         "twq_NE": "Skagabyggð",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Skagabyggð",
         "zh_Hant_TW": "Skagabyggð",
         "zu": "Skagabyggð",
-        "zu_ZA": "Skagabyggð",
-        "sr@latin": "Skagabyggð",
-        "tt@iqtelif": "Skagabyggð"
+        "zu_ZA": "Skagabyggð"
     },
     "SKO": {
         "af": "Skorradalshreppur",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Skorradalshreppur",
         "sq_XK": "Skorradalshreppur",
         "sr": "Skorradalshreppur",
+        "sr@latin": "Skorradalshreppur",
         "sr_Cyrl": "Skorradalshreppur",
         "sr_Cyrl_BA": "Skorradalshreppur",
         "sr_Cyrl_ME": "Skorradalshreppur",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Skorradalshreppur",
         "tr_TR": "Skorradalshreppur",
         "tt": "Skorradalshreppur",
+        "tt@iqtelif": "Skorradalshreppur",
         "tt_RU": "Skorradalshreppur",
         "twq": "Skorradalshreppur",
         "twq_NE": "Skorradalshreppur",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Skorradalshreppur",
         "zh_Hant_TW": "Skorradalshreppur",
         "zu": "Skorradalshreppur",
-        "zu_ZA": "Skorradalshreppur",
-        "sr@latin": "Skorradalshreppur",
-        "tt@iqtelif": "Skorradalshreppur"
+        "zu_ZA": "Skorradalshreppur"
     },
     "SKR": {
         "af": "Skagafjörður",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Skagafjörður",
         "sq_XK": "Skagafjörður",
         "sr": "Skagafjörður",
+        "sr@latin": "Skagafjörður",
         "sr_Cyrl": "Skagafjörður",
         "sr_Cyrl_BA": "Skagafjörður",
         "sr_Cyrl_ME": "Skagafjörður",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Skagafjörður",
         "tr_TR": "Skagafjörður",
         "tt": "Skagafjörður",
+        "tt@iqtelif": "Skagafjörður",
         "tt_RU": "Skagafjörður",
         "twq": "Skagafjörður",
         "twq_NE": "Skagafjörður",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Skagafjörður",
         "zh_Hant_TW": "Skagafjörður",
         "zu": "Skagafjörður",
-        "zu_ZA": "Skagafjörður",
-        "sr@latin": "Skagafjörður",
-        "tt@iqtelif": "Skagafjörður"
+        "zu_ZA": "Skagafjörður"
     },
     "SNF": {
         "af": "Snæfellsbær",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Snæfellsbær",
         "sq_XK": "Snæfellsbær",
         "sr": "Snæfellsbær",
+        "sr@latin": "Snæfellsbær",
         "sr_Cyrl": "Snæfellsbær",
         "sr_Cyrl_BA": "Snæfellsbær",
         "sr_Cyrl_ME": "Snæfellsbær",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Snæfellsbær",
         "tr_TR": "Snæfellsbær",
         "tt": "Snæfellsbær",
+        "tt@iqtelif": "Snæfellsbær",
         "tt_RU": "Snæfellsbær",
         "twq": "Snæfellsbær",
         "twq_NE": "Snæfellsbær",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Snæfellsbær",
         "zh_Hant_TW": "Snæfellsbær",
         "zu": "Snæfellsbær",
-        "zu_ZA": "Snæfellsbær",
-        "sr@latin": "Snæfellsbær",
-        "tt@iqtelif": "Snæfellsbær"
+        "zu_ZA": "Snæfellsbær"
     },
     "SOG": {
         "af": "Skeiða- og Gnúpverjahreppur",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Skeiða- og Gnúpverjahreppur",
         "sq_XK": "Skeiða- og Gnúpverjahreppur",
         "sr": "Skeiða- og Gnúpverjahreppur",
+        "sr@latin": "Skeiða- og Gnúpverjahreppur",
         "sr_Cyrl": "Skeiða- og Gnúpverjahreppur",
         "sr_Cyrl_BA": "Skeiða- og Gnúpverjahreppur",
         "sr_Cyrl_ME": "Skeiða- og Gnúpverjahreppur",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Skeiða- og Gnúpverjahreppur",
         "tr_TR": "Skeiða- og Gnúpverjahreppur",
         "tt": "Skeiða- og Gnúpverjahreppur",
+        "tt@iqtelif": "Skeiða- og Gnúpverjahreppur",
         "tt_RU": "Skeiða- og Gnúpverjahreppur",
         "twq": "Skeiða- og Gnúpverjahreppur",
         "twq_NE": "Skeiða- og Gnúpverjahreppur",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Skeiða- og Gnúpverjahreppur",
         "zh_Hant_TW": "Skeiða- og Gnúpverjahreppur",
         "zu": "Skeiða- og Gnúpverjahreppur",
-        "zu_ZA": "Skeiða- og Gnúpverjahreppur",
-        "sr@latin": "Skeiða- og Gnúpverjahreppur",
-        "tt@iqtelif": "Skeiða- og Gnúpverjahreppur"
+        "zu_ZA": "Skeiða- og Gnúpverjahreppur"
     },
     "SOL": {
         "af": "Sveitarfélagið Ölfus",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Sveitarfélagið Ölfus",
         "sq_XK": "Sveitarfélagið Ölfus",
         "sr": "Sveitarfélagið Ölfus",
+        "sr@latin": "Sveitarfélagið Ölfus",
         "sr_Cyrl": "Sveitarfélagið Ölfus",
         "sr_Cyrl_BA": "Sveitarfélagið Ölfus",
         "sr_Cyrl_ME": "Sveitarfélagið Ölfus",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Sveitarfélagið Ölfus",
         "tr_TR": "Sveitarfélagið Ölfus",
         "tt": "Sveitarfélagið Ölfus",
+        "tt@iqtelif": "Sveitarfélagið Ölfus",
         "tt_RU": "Sveitarfélagið Ölfus",
         "twq": "Sveitarfélagið Ölfus",
         "twq_NE": "Sveitarfélagið Ölfus",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Sveitarfélagið Ölfus",
         "zh_Hant_TW": "Sveitarfélagið Ölfus",
         "zu": "Sveitarfélagið Ölfus",
-        "zu_ZA": "Sveitarfélagið Ölfus",
-        "sr@latin": "Sveitarfélagið Ölfus",
-        "tt@iqtelif": "Sveitarfélagið Ölfus"
+        "zu_ZA": "Sveitarfélagið Ölfus"
     },
     "SSS": {
         "af": "Sveitarfélagið Skagaströnd",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Sveitarfélagið Skagaströnd",
         "sq_XK": "Sveitarfélagið Skagaströnd",
         "sr": "Sveitarfélagið Skagaströnd",
+        "sr@latin": "Sveitarfélagið Skagaströnd",
         "sr_Cyrl": "Sveitarfélagið Skagaströnd",
         "sr_Cyrl_BA": "Sveitarfélagið Skagaströnd",
         "sr_Cyrl_ME": "Sveitarfélagið Skagaströnd",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Sveitarfélagið Skagaströnd",
         "tr_TR": "Sveitarfélagið Skagaströnd",
         "tt": "Sveitarfélagið Skagaströnd",
+        "tt@iqtelif": "Sveitarfélagið Skagaströnd",
         "tt_RU": "Sveitarfélagið Skagaströnd",
         "twq": "Sveitarfélagið Skagaströnd",
         "twq_NE": "Sveitarfélagið Skagaströnd",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Sveitarfélagið Skagaströnd",
         "zh_Hant_TW": "Sveitarfélagið Skagaströnd",
         "zu": "Sveitarfélagið Skagaströnd",
-        "zu_ZA": "Sveitarfélagið Skagaströnd",
-        "sr@latin": "Sveitarfélagið Skagaströnd",
-        "tt@iqtelif": "Sveitarfélagið Skagaströnd"
+        "zu_ZA": "Sveitarfélagið Skagaströnd"
     },
     "STR": {
         "af": "Strandabyggð",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Strandabyggð",
         "sq_XK": "Strandabyggð",
         "sr": "Strandabyggð",
+        "sr@latin": "Strandabyggð",
         "sr_Cyrl": "Strandabyggð",
         "sr_Cyrl_BA": "Strandabyggð",
         "sr_Cyrl_ME": "Strandabyggð",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Strandabyggð",
         "tr_TR": "Strandabyggð",
         "tt": "Strandabyggð",
+        "tt@iqtelif": "Strandabyggð",
         "tt_RU": "Strandabyggð",
         "twq": "Strandabyggð",
         "twq_NE": "Strandabyggð",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Strandabyggð",
         "zh_Hant_TW": "Strandabyggð",
         "zu": "Strandabyggð",
-        "zu_ZA": "Strandabyggð",
-        "sr@latin": "Strandabyggð",
-        "tt@iqtelif": "Strandabyggð"
+        "zu_ZA": "Strandabyggð"
     },
     "STY": {
         "af": "Stykkishólmsbær",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Stykkishólmsbær",
         "sq_XK": "Stykkishólmsbær",
         "sr": "Stykkishólmsbær",
+        "sr@latin": "Stykkishólmsbær",
         "sr_Cyrl": "Stykkishólmsbær",
         "sr_Cyrl_BA": "Stykkishólmsbær",
         "sr_Cyrl_ME": "Stykkishólmsbær",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Stykkishólmsbær",
         "tr_TR": "Stykkishólmsbær",
         "tt": "Stykkishólmsbær",
+        "tt@iqtelif": "Stykkishólmsbær",
         "tt_RU": "Stykkishólmsbær",
         "twq": "Stykkishólmsbær",
         "twq_NE": "Stykkishólmsbær",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Stykkishólmsbær",
         "zh_Hant_TW": "Stykkishólmsbær",
         "zu": "Stykkishólmsbær",
-        "zu_ZA": "Stykkishólmsbær",
-        "sr@latin": "Stykkishólmsbær",
-        "tt@iqtelif": "Stykkishólmsbær"
+        "zu_ZA": "Stykkishólmsbær"
     },
     "SVG": {
         "af": "Sveitarfélagið Vogar",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Sveitarfélagið Vogar",
         "sq_XK": "Sveitarfélagið Vogar",
         "sr": "Sveitarfélagið Vogar",
+        "sr@latin": "Sveitarfélagið Vogar",
         "sr_Cyrl": "Sveitarfélagið Vogar",
         "sr_Cyrl_BA": "Sveitarfélagið Vogar",
         "sr_Cyrl_ME": "Sveitarfélagið Vogar",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Sveitarfélagið Vogar",
         "tr_TR": "Sveitarfélagið Vogar",
         "tt": "Sveitarfélagið Vogar",
+        "tt@iqtelif": "Sveitarfélagið Vogar",
         "tt_RU": "Sveitarfélagið Vogar",
         "twq": "Sveitarfélagið Vogar",
         "twq_NE": "Sveitarfélagið Vogar",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Sveitarfélagið Vogar",
         "zh_Hant_TW": "Sveitarfélagið Vogar",
         "zu": "Sveitarfélagið Vogar",
-        "zu_ZA": "Sveitarfélagið Vogar",
-        "sr@latin": "Sveitarfélagið Vogar",
-        "tt@iqtelif": "Sveitarfélagið Vogar"
+        "zu_ZA": "Sveitarfélagið Vogar"
     },
     "TAL": {
         "af": "Tálknafjarðarhreppur",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Tálknafjarðarhreppur",
         "sq_XK": "Tálknafjarðarhreppur",
         "sr": "Tálknafjarðarhreppur",
+        "sr@latin": "Tálknafjarðarhreppur",
         "sr_Cyrl": "Tálknafjarðarhreppur",
         "sr_Cyrl_BA": "Tálknafjarðarhreppur",
         "sr_Cyrl_ME": "Tálknafjarðarhreppur",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Tálknafjarðarhreppur",
         "tr_TR": "Tálknafjarðarhreppur",
         "tt": "Tálknafjarðarhreppur",
+        "tt@iqtelif": "Tálknafjarðarhreppur",
         "tt_RU": "Tálknafjarðarhreppur",
         "twq": "Tálknafjarðarhreppur",
         "twq_NE": "Tálknafjarðarhreppur",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Tálknafjarðarhreppur",
         "zh_Hant_TW": "Tálknafjarðarhreppur",
         "zu": "Tálknafjarðarhreppur",
-        "zu_ZA": "Tálknafjarðarhreppur",
-        "sr@latin": "Tálknafjarðarhreppur",
-        "tt@iqtelif": "Tálknafjarðarhreppur"
+        "zu_ZA": "Tálknafjarðarhreppur"
     },
     "THG": {
         "af": "Þingeyjarsveit",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Þingeyjarsveit",
         "sq_XK": "Þingeyjarsveit",
         "sr": "Þingeyjarsveit",
+        "sr@latin": "Þingeyjarsveit",
         "sr_Cyrl": "Þingeyjarsveit",
         "sr_Cyrl_BA": "Þingeyjarsveit",
         "sr_Cyrl_ME": "Þingeyjarsveit",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Þingeyjarsveit",
         "tr_TR": "Þingeyjarsveit",
         "tt": "Þingeyjarsveit",
+        "tt@iqtelif": "Þingeyjarsveit",
         "tt_RU": "Þingeyjarsveit",
         "twq": "Þingeyjarsveit",
         "twq_NE": "Þingeyjarsveit",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Þingeyjarsveit",
         "zh_Hant_TW": "Þingeyjarsveit",
         "zu": "Þingeyjarsveit",
-        "zu_ZA": "Þingeyjarsveit",
-        "sr@latin": "Þingeyjarsveit",
-        "tt@iqtelif": "Þingeyjarsveit"
+        "zu_ZA": "Þingeyjarsveit"
     },
     "TJO": {
         "af": "Tjörneshreppur",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Tjörneshreppur",
         "sq_XK": "Tjörneshreppur",
         "sr": "Tjörneshreppur",
+        "sr@latin": "Tjörneshreppur",
         "sr_Cyrl": "Tjörneshreppur",
         "sr_Cyrl_BA": "Tjörneshreppur",
         "sr_Cyrl_ME": "Tjörneshreppur",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Tjörneshreppur",
         "tr_TR": "Tjörneshreppur",
         "tt": "Tjörneshreppur",
+        "tt@iqtelif": "Tjörneshreppur",
         "tt_RU": "Tjörneshreppur",
         "twq": "Tjörneshreppur",
         "twq_NE": "Tjörneshreppur",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Tjörneshreppur",
         "zh_Hant_TW": "Tjörneshreppur",
         "zu": "Tjörneshreppur",
-        "zu_ZA": "Tjörneshreppur",
-        "sr@latin": "Tjörneshreppur",
-        "tt@iqtelif": "Tjörneshreppur"
+        "zu_ZA": "Tjörneshreppur"
     },
     "VEM": {
         "af": "Vestmannaeyjabær",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Vestmannaeyjabær",
         "sq_XK": "Vestmannaeyjabær",
         "sr": "Vestmannaeyjabær",
+        "sr@latin": "Vestmannaeyjabær",
         "sr_Cyrl": "Vestmannaeyjabær",
         "sr_Cyrl_BA": "Vestmannaeyjabær",
         "sr_Cyrl_ME": "Vestmannaeyjabær",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Vestmannaeyjabær",
         "tr_TR": "Vestmannaeyjabær",
         "tt": "Vestmannaeyjabær",
+        "tt@iqtelif": "Vestmannaeyjabær",
         "tt_RU": "Vestmannaeyjabær",
         "twq": "Vestmannaeyjabær",
         "twq_NE": "Vestmannaeyjabær",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Vestmannaeyjabær",
         "zh_Hant_TW": "Vestmannaeyjabær",
         "zu": "Vestmannaeyjabær",
-        "zu_ZA": "Vestmannaeyjabær",
-        "sr@latin": "Vestmannaeyjabær",
-        "tt@iqtelif": "Vestmannaeyjabær"
+        "zu_ZA": "Vestmannaeyjabær"
     },
     "VER": {
         "af": "Vesturbyggð",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Vesturbyggð",
         "sq_XK": "Vesturbyggð",
         "sr": "Vesturbyggð",
+        "sr@latin": "Vesturbyggð",
         "sr_Cyrl": "Vesturbyggð",
         "sr_Cyrl_BA": "Vesturbyggð",
         "sr_Cyrl_ME": "Vesturbyggð",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Vesturbyggð",
         "tr_TR": "Vesturbyggð",
         "tt": "Vesturbyggð",
+        "tt@iqtelif": "Vesturbyggð",
         "tt_RU": "Vesturbyggð",
         "twq": "Vesturbyggð",
         "twq_NE": "Vesturbyggð",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Vesturbyggð",
         "zh_Hant_TW": "Vesturbyggð",
         "zu": "Vesturbyggð",
-        "zu_ZA": "Vesturbyggð",
-        "sr@latin": "Vesturbyggð",
-        "tt@iqtelif": "Vesturbyggð"
+        "zu_ZA": "Vesturbyggð"
     },
     "VOP": {
         "af": "Vopnafjarðarhreppur",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Vopnafjarðarhreppur",
         "sq_XK": "Vopnafjarðarhreppur",
         "sr": "Vopnafjarðarhreppur",
+        "sr@latin": "Vopnafjarðarhreppur",
         "sr_Cyrl": "Vopnafjarðarhreppur",
         "sr_Cyrl_BA": "Vopnafjarðarhreppur",
         "sr_Cyrl_ME": "Vopnafjarðarhreppur",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Vopnafjarðarhreppur",
         "tr_TR": "Vopnafjarðarhreppur",
         "tt": "Vopnafjarðarhreppur",
+        "tt@iqtelif": "Vopnafjarðarhreppur",
         "tt_RU": "Vopnafjarðarhreppur",
         "twq": "Vopnafjarðarhreppur",
         "twq_NE": "Vopnafjarðarhreppur",
@@ -63715,8 +63717,6 @@
         "zh_Hant_MY": "Vopnafjarðarhreppur",
         "zh_Hant_TW": "Vopnafjarðarhreppur",
         "zu": "Vopnafjarðarhreppur",
-        "zu_ZA": "Vopnafjarðarhreppur",
-        "sr@latin": "Vopnafjarðarhreppur",
-        "tt@iqtelif": "Vopnafjarðarhreppur"
+        "zu_ZA": "Vopnafjarðarhreppur"
     }
 }

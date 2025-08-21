@@ -743,6 +743,7 @@
         "sq_MK": "Bonaire",
         "sq_XK": "Bonaire",
         "sr": "Бонер",
+        "sr@latin": "Boner",
         "sr_Cyrl": "Бонер",
         "sr_Cyrl_BA": "Бонер",
         "sr_Cyrl_ME": "Бонер",
@@ -803,6 +804,7 @@
         "tr_CY": "Bonaire",
         "tr_TR": "Bonaire",
         "tt": "Bonaire",
+        "tt@iqtelif": "Bonaire",
         "tt_RU": "Bonaire",
         "twq": "Bonaire",
         "twq_NE": "Bonaire",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Bonaire",
         "zh_Hant_TW": "Bonaire",
         "zu": "Bonaire",
-        "zu_ZA": "Bonaire",
-        "sr@latin": "Boner",
-        "tt@iqtelif": "Bonaire"
+        "zu_ZA": "Bonaire"
     },
     "SA": {
         "af": "Saba",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saba",
         "sq_XK": "Saba",
         "sr": "Саба",
+        "sr@latin": "Saba",
         "sr_Cyrl": "Саба",
         "sr_Cyrl_BA": "Саба",
         "sr_Cyrl_ME": "Саба",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saba",
         "tr_TR": "Saba",
         "tt": "Saba",
+        "tt@iqtelif": "Saba",
         "tt_RU": "Saba",
         "twq": "Saba",
         "twq_NE": "Saba",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saba",
         "zh_Hant_TW": "Saba",
         "zu": "Saba",
-        "zu_ZA": "Saba",
-        "sr@latin": "Saba",
-        "tt@iqtelif": "Saba"
+        "zu_ZA": "Saba"
     },
     "SE": {
         "af": "Sint Eustatius",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Sint Eustatius",
         "sq_XK": "Sint Eustatius",
         "sr": "Свети Еустахије",
+        "sr@latin": "Sveti Eustahije",
         "sr_Cyrl": "Свети Еустахије",
         "sr_Cyrl_BA": "Свети Еустахије",
         "sr_Cyrl_ME": "Свети Еустахије",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Sint Eustatius",
         "tr_TR": "Sint Eustatius",
         "tt": "Sint Eustatius",
+        "tt@iqtelif": "Sint Eustatius",
         "tt_RU": "Sint Eustatius",
         "twq": "Sint Eustatius",
         "twq_NE": "Sint Eustatius",
@@ -2650,8 +2652,6 @@
         "zh_Hant_MY": "Sint Eustatius",
         "zh_Hant_TW": "Sint Eustatius",
         "zu": "Sint Eustatius",
-        "zu_ZA": "Sint Eustatius",
-        "sr@latin": "Sveti Eustahije",
-        "tt@iqtelif": "Sint Eustatius"
+        "zu_ZA": "Sint Eustatius"
     }
 }

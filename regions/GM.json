@@ -743,6 +743,7 @@
         "sq_MK": "Banjul",
         "sq_XK": "Banjul",
         "sr": "Банџул",
+        "sr@latin": "Bandžul",
         "sr_Cyrl": "Банџул",
         "sr_Cyrl_BA": "Банџул",
         "sr_Cyrl_ME": "Банџул",
@@ -803,6 +804,7 @@
         "tr_CY": "Banjul",
         "tr_TR": "Banjul",
         "tt": "Banjul",
+        "tt@iqtelif": "Banjul",
         "tt_RU": "Banjul",
         "twq": "Banjul",
         "twq_NE": "Banjul",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Banjul",
         "zh_Hant_TW": "Banjul",
         "zu": "Banjul",
-        "zu_ZA": "Banjul",
-        "sr@latin": "Bandžul",
-        "tt@iqtelif": "Banjul"
+        "zu_ZA": "Banjul"
     },
     "L": {
         "af": "Lower River",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Lower River",
         "sq_XK": "Lower River",
         "sr": "Лоувер Ривер",
+        "sr@latin": "Louver River",
         "sr_Cyrl": "Лоувер Ривер",
         "sr_Cyrl_BA": "Лоувер Ривер",
         "sr_Cyrl_ME": "Лоувер Ривер",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Lower River",
         "tr_TR": "Lower River",
         "tt": "Lower River",
+        "tt@iqtelif": "Lower River",
         "tt_RU": "Lower River",
         "twq": "Lower River",
         "twq_NE": "Lower River",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Lower River",
         "zh_Hant_TW": "Lower River",
         "zu": "Lower River",
-        "zu_ZA": "Lower River",
-        "sr@latin": "Louver River",
-        "tt@iqtelif": "Lower River"
+        "zu_ZA": "Lower River"
     },
     "M": {
         "af": "Central River",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Central River",
         "sq_XK": "Central River",
         "sr": "Сентрал Ривер",
+        "sr@latin": "Sentral River",
         "sr_Cyrl": "Сентрал Ривер",
         "sr_Cyrl_BA": "Сентрал Ривер",
         "sr_Cyrl_ME": "Сентрал Ривер",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Central River",
         "tr_TR": "Central River",
         "tt": "Central River",
+        "tt@iqtelif": "Central River",
         "tt_RU": "Central River",
         "twq": "Central River",
         "twq_NE": "Central River",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Central River",
         "zh_Hant_TW": "Central River",
         "zu": "Central River",
-        "zu_ZA": "Central River",
-        "sr@latin": "Sentral River",
-        "tt@iqtelif": "Central River"
+        "zu_ZA": "Central River"
     },
     "N": {
         "af": "North Bank",
@@ -3398,6 +3398,7 @@
         "sq_MK": "North Bank",
         "sq_XK": "North Bank",
         "sr": "Норд Банк",
+        "sr@latin": "Nord Bank",
         "sr_Cyrl": "Норд Банк",
         "sr_Cyrl_BA": "Норд Банк",
         "sr_Cyrl_ME": "Норд Банк",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Kuzey Kıyısı",
         "tr_TR": "Kuzey Kıyısı",
         "tt": "North Bank",
+        "tt@iqtelif": "North Bank",
         "tt_RU": "North Bank",
         "twq": "North Bank",
         "twq_NE": "North Bank",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "North Bank",
         "zh_Hant_TW": "North Bank",
         "zu": "North Bank",
-        "zu_ZA": "North Bank",
-        "sr@latin": "Nord Bank",
-        "tt@iqtelif": "North Bank"
+        "zu_ZA": "North Bank"
     },
     "U": {
         "af": "Upper River",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Upper River",
         "sq_XK": "Upper River",
         "sr": "Upper River",
+        "sr@latin": "Upper River",
         "sr_Cyrl": "Upper River",
         "sr_Cyrl_BA": "Upper River",
         "sr_Cyrl_ME": "Upper River",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Upper River",
         "tr_TR": "Upper River",
         "tt": "Upper River",
+        "tt@iqtelif": "Upper River",
         "tt_RU": "Upper River",
         "twq": "Upper River",
         "twq_NE": "Upper River",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Upper River",
         "zh_Hant_TW": "Upper River",
         "zu": "Upper River",
-        "zu_ZA": "Upper River",
-        "sr@latin": "Upper River",
-        "tt@iqtelif": "Upper River"
+        "zu_ZA": "Upper River"
     },
     "W": {
         "af": "Western",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Western",
         "sq_XK": "Western",
         "sr": "Western",
+        "sr@latin": "Western",
         "sr_Cyrl": "Western",
         "sr_Cyrl_BA": "Western",
         "sr_Cyrl_ME": "Western",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Batı",
         "tr_TR": "Batı",
         "tt": "Western",
+        "tt@iqtelif": "Western",
         "tt_RU": "Western",
         "twq": "Western",
         "twq_NE": "Western",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western",
-        "sr@latin": "Western",
-        "tt@iqtelif": "Western"
+        "zu_ZA": "Western"
     }
 }

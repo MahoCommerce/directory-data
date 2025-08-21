@@ -743,6 +743,7 @@
         "sq_MK": "Arta",
         "sq_XK": "Arta",
         "sr": "Арта",
+        "sr@latin": "Arta",
         "sr_Cyrl": "Арта",
         "sr_Cyrl_BA": "Арта",
         "sr_Cyrl_ME": "Арта",
@@ -803,6 +804,7 @@
         "tr_CY": "Arta",
         "tr_TR": "Arta",
         "tt": "Arta",
+        "tt@iqtelif": "Arta",
         "tt_RU": "Arta",
         "twq": "Arta",
         "twq_NE": "Arta",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Arta",
         "zh_Hant_TW": "Arta",
         "zu": "Arta",
-        "zu_ZA": "Arta",
-        "sr@latin": "Arta",
-        "tt@iqtelif": "Arta"
+        "zu_ZA": "Arta"
     },
     "AS": {
         "af": "Ali Sabieh",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Ali Sabieh",
         "sq_XK": "Ali Sabieh",
         "sr": "Ali Sabieh",
+        "sr@latin": "Ali Sabieh",
         "sr_Cyrl": "Ali Sabieh",
         "sr_Cyrl_BA": "Ali Sabieh",
         "sr_Cyrl_ME": "Ali Sabieh",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Ali Sabieh",
         "tr_TR": "Ali Sabieh",
         "tt": "Ali Sabieh",
+        "tt@iqtelif": "Ali Sabieh",
         "tt_RU": "Ali Sabieh",
         "twq": "Ali Sabieh",
         "twq_NE": "Ali Sabieh",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Ali Sabieh",
         "zh_Hant_TW": "Ali Sabieh",
         "zu": "Ali Sabieh",
-        "zu_ZA": "Ali Sabieh",
-        "sr@latin": "Ali Sabieh",
-        "tt@iqtelif": "Ali Sabieh"
+        "zu_ZA": "Ali Sabieh"
     },
     "DI": {
         "af": "Dikhil",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Dikhil",
         "sq_XK": "Dikhil",
         "sr": "Дикил",
+        "sr@latin": "Dikil",
         "sr_Cyrl": "Дикил",
         "sr_Cyrl_BA": "Дикил",
         "sr_Cyrl_ME": "Дикил",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Dikhil",
         "tr_TR": "Dikhil",
         "tt": "Dikhil",
+        "tt@iqtelif": "Dikhil",
         "tt_RU": "Dikhil",
         "twq": "Dikhil",
         "twq_NE": "Dikhil",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Dikhil",
         "zh_Hant_TW": "Dikhil",
         "zu": "Dikhil",
-        "zu_ZA": "Dikhil",
-        "sr@latin": "Dikil",
-        "tt@iqtelif": "Dikhil"
+        "zu_ZA": "Dikhil"
     },
     "DJ": {
         "af": "Djibouti",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Djibouti",
         "sq_XK": "Djibouti",
         "sr": "Џибути",
+        "sr@latin": "Džibuti",
         "sr_Cyrl": "Џибути",
         "sr_Cyrl_BA": "Џибути",
         "sr_Cyrl_ME": "Џибути",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Cibuti",
         "tr_TR": "Cibuti",
         "tt": "Djibouti",
+        "tt@iqtelif": "Djibouti",
         "tt_RU": "Djibouti",
         "twq": "Djibouti",
         "twq_NE": "Djibouti",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Djibouti",
         "zh_Hant_TW": "Djibouti",
         "zu": "Djibouti",
-        "zu_ZA": "Djibouti",
-        "sr@latin": "Džibuti",
-        "tt@iqtelif": "Djibouti"
+        "zu_ZA": "Djibouti"
     },
     "OB": {
         "af": "Obock",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Obock",
         "sq_XK": "Obock",
         "sr": "Obock",
+        "sr@latin": "Obock",
         "sr_Cyrl": "Obock",
         "sr_Cyrl_BA": "Obock",
         "sr_Cyrl_ME": "Obock",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Obock",
         "tr_TR": "Obock",
         "tt": "Obock",
+        "tt@iqtelif": "Obock",
         "tt_RU": "Obock",
         "twq": "Obock",
         "twq_NE": "Obock",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Obock",
         "zh_Hant_TW": "Obock",
         "zu": "Obock",
-        "zu_ZA": "Obock",
-        "sr@latin": "Obock",
-        "tt@iqtelif": "Obock"
+        "zu_ZA": "Obock"
     },
     "TA": {
         "af": "Tadjourah",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Tadjourah",
         "sq_XK": "Tadjourah",
         "sr": "Tadjourah",
+        "sr@latin": "Tadjourah",
         "sr_Cyrl": "Tadjourah",
         "sr_Cyrl_BA": "Tadjourah",
         "sr_Cyrl_ME": "Tadjourah",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Tadjourah",
         "tr_TR": "Tadjourah",
         "tt": "Tadjourah",
+        "tt@iqtelif": "Tadjourah",
         "tt_RU": "Tadjourah",
         "twq": "Tadjourah",
         "twq_NE": "Tadjourah",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Tadjourah",
         "zh_Hant_TW": "Tadjourah",
         "zu": "Tadjourah",
-        "zu_ZA": "Tadjourah",
-        "sr@latin": "Tadjourah",
-        "tt@iqtelif": "Tadjourah"
+        "zu_ZA": "Tadjourah"
     }
 }

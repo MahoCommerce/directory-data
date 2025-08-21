@@ -743,6 +743,7 @@
         "sq_MK": "Addis Ababa",
         "sq_XK": "Addis Ababa",
         "sr": "Addis Ababa",
+        "sr@latin": "Addis Ababa",
         "sr_Cyrl": "Addis Ababa",
         "sr_Cyrl_BA": "Addis Ababa",
         "sr_Cyrl_ME": "Addis Ababa",
@@ -803,6 +804,7 @@
         "tr_CY": "Addis Ababa",
         "tr_TR": "Addis Ababa",
         "tt": "Addis Ababa",
+        "tt@iqtelif": "Addis Ababa",
         "tt_RU": "Addis Ababa",
         "twq": "Addis Ababa",
         "twq_NE": "Addis Ababa",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Addis Ababa",
         "zh_Hant_TW": "Addis Ababa",
         "zu": "Addis Ababa",
-        "zu_ZA": "Addis Ababa",
-        "sr@latin": "Addis Ababa",
-        "tt@iqtelif": "Addis Ababa"
+        "zu_ZA": "Addis Ababa"
     },
     "AF": {
         "af": "Afar",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Afar",
         "sq_XK": "Afar",
         "sr": "Afar",
+        "sr@latin": "Afar",
         "sr_Cyrl": "Afar",
         "sr_Cyrl_BA": "Afar",
         "sr_Cyrl_ME": "Afar",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Afar",
         "tr_TR": "Afar",
         "tt": "Afar",
+        "tt@iqtelif": "Afar",
         "tt_RU": "Afar",
         "twq": "Afar",
         "twq_NE": "Afar",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Afar",
         "zh_Hant_TW": "Afar",
         "zu": "Afar",
-        "zu_ZA": "Afar",
-        "sr@latin": "Afar",
-        "tt@iqtelif": "Afar"
+        "zu_ZA": "Afar"
     },
     "AM": {
         "af": "Amara",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Amara",
         "sq_XK": "Amara",
         "sr": "Amara",
+        "sr@latin": "Amara",
         "sr_Cyrl": "Amara",
         "sr_Cyrl_BA": "Amara",
         "sr_Cyrl_ME": "Amara",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Amara",
         "tr_TR": "Amara",
         "tt": "Amara",
+        "tt@iqtelif": "Amara",
         "tt_RU": "Amara",
         "twq": "Amara",
         "twq_NE": "Amara",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Amara",
         "zh_Hant_TW": "Amara",
         "zu": "Amara",
-        "zu_ZA": "Amara",
-        "sr@latin": "Amara",
-        "tt@iqtelif": "Amara"
+        "zu_ZA": "Amara"
     },
     "BE": {
         "af": "Benshangul-Gumaz",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Benshangul-Gumaz",
         "sq_XK": "Benshangul-Gumaz",
         "sr": "Benshangul-Gumaz",
+        "sr@latin": "Benshangul-Gumaz",
         "sr_Cyrl": "Benshangul-Gumaz",
         "sr_Cyrl_BA": "Benshangul-Gumaz",
         "sr_Cyrl_ME": "Benshangul-Gumaz",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Benshangul-Gumaz",
         "tr_TR": "Benshangul-Gumaz",
         "tt": "Benshangul-Gumaz",
+        "tt@iqtelif": "Benshangul-Gumaz",
         "tt_RU": "Benshangul-Gumaz",
         "twq": "Benshangul-Gumaz",
         "twq_NE": "Benshangul-Gumaz",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Benshangul-Gumaz",
         "zh_Hant_TW": "Benshangul-Gumaz",
         "zu": "Benshangul-Gumaz",
-        "zu_ZA": "Benshangul-Gumaz",
-        "sr@latin": "Benshangul-Gumaz",
-        "tt@iqtelif": "Benshangul-Gumaz"
+        "zu_ZA": "Benshangul-Gumaz"
     },
     "DD": {
         "af": "Dire Dawa",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Dire Dawa",
         "sq_XK": "Dire Dawa",
         "sr": "Dire Dawa",
+        "sr@latin": "Dire Dawa",
         "sr_Cyrl": "Dire Dawa",
         "sr_Cyrl_BA": "Dire Dawa",
         "sr_Cyrl_ME": "Dire Dawa",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Dire Dawa",
         "tr_TR": "Dire Dawa",
         "tt": "Dire Dawa",
+        "tt@iqtelif": "Dire Dawa",
         "tt_RU": "Dire Dawa",
         "twq": "Dire Dawa",
         "twq_NE": "Dire Dawa",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Dire Dawa",
         "zh_Hant_TW": "Dire Dawa",
         "zu": "Dire Dawa",
-        "zu_ZA": "Dire Dawa",
-        "sr@latin": "Dire Dawa",
-        "tt@iqtelif": "Dire Dawa"
+        "zu_ZA": "Dire Dawa"
     },
     "GA": {
         "af": "Gambela Peoples",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Gambela Peoples",
         "sq_XK": "Gambela Peoples",
         "sr": "Gambela Peoples",
+        "sr@latin": "Gambela Peoples",
         "sr_Cyrl": "Gambela Peoples",
         "sr_Cyrl_BA": "Gambela Peoples",
         "sr_Cyrl_ME": "Gambela Peoples",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Gambela Peoples",
         "tr_TR": "Gambela Peoples",
         "tt": "Gambela Peoples",
+        "tt@iqtelif": "Gambela Peoples",
         "tt_RU": "Gambela Peoples",
         "twq": "Gambela Peoples",
         "twq_NE": "Gambela Peoples",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Gambela Peoples",
         "zh_Hant_TW": "Gambela Peoples",
         "zu": "Gambela Peoples",
-        "zu_ZA": "Gambela Peoples",
-        "sr@latin": "Gambela Peoples",
-        "tt@iqtelif": "Gambela Peoples"
+        "zu_ZA": "Gambela Peoples"
     },
     "HA": {
         "af": "Harari People",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Harari People",
         "sq_XK": "Harari People",
         "sr": "Harari People",
+        "sr@latin": "Harari People",
         "sr_Cyrl": "Harari People",
         "sr_Cyrl_BA": "Harari People",
         "sr_Cyrl_ME": "Harari People",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Harari People",
         "tr_TR": "Harari People",
         "tt": "Harari People",
+        "tt@iqtelif": "Harari People",
         "tt_RU": "Harari People",
         "twq": "Harari People",
         "twq_NE": "Harari People",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Harari People",
         "zh_Hant_TW": "Harari People",
         "zu": "Harari People",
-        "zu_ZA": "Harari People",
-        "sr@latin": "Harari People",
-        "tt@iqtelif": "Harari People"
+        "zu_ZA": "Harari People"
     },
     "OR": {
         "af": "Oromia",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Oromia",
         "sq_XK": "Oromia",
         "sr": "Oromia",
+        "sr@latin": "Oromia",
         "sr_Cyrl": "Oromia",
         "sr_Cyrl_BA": "Oromia",
         "sr_Cyrl_ME": "Oromia",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Oromia",
         "tr_TR": "Oromia",
         "tt": "Oromia",
+        "tt@iqtelif": "Oromia",
         "tt_RU": "Oromia",
         "twq": "Oromia",
         "twq_NE": "Oromia",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Oromia",
         "zh_Hant_TW": "Oromia",
         "zu": "Oromia",
-        "zu_ZA": "Oromia",
-        "sr@latin": "Oromia",
-        "tt@iqtelif": "Oromia"
+        "zu_ZA": "Oromia"
     },
     "SI": {
         "af": "Sidama",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Sidama",
         "sq_XK": "Sidama",
         "sr": "Sidama",
+        "sr@latin": "Sidama",
         "sr_Cyrl": "Sidama",
         "sr_Cyrl_BA": "Sidama",
         "sr_Cyrl_ME": "Sidama",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Sidama",
         "tr_TR": "Sidama",
         "tt": "Sidama",
+        "tt@iqtelif": "Sidama",
         "tt_RU": "Sidama",
         "twq": "Sidama",
         "twq_NE": "Sidama",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Sidama",
         "zh_Hant_TW": "Sidama",
         "zu": "Sidama",
-        "zu_ZA": "Sidama",
-        "sr@latin": "Sidama",
-        "tt@iqtelif": "Sidama"
+        "zu_ZA": "Sidama"
     },
     "SN": {
         "af": "Southern Nations, Nationalities and Peoples",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Southern Nations, Nationalities and Peoples",
         "sq_XK": "Southern Nations, Nationalities and Peoples",
         "sr": "Southern Nations, Nationalities and Peoples",
+        "sr@latin": "Southern Nations, Nationalities and Peoples",
         "sr_Cyrl": "Southern Nations, Nationalities and Peoples",
         "sr_Cyrl_BA": "Southern Nations, Nationalities and Peoples",
         "sr_Cyrl_ME": "Southern Nations, Nationalities and Peoples",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Southern Nations, Nationalities and Peoples",
         "tr_TR": "Southern Nations, Nationalities and Peoples",
         "tt": "Southern Nations, Nationalities and Peoples",
+        "tt@iqtelif": "Southern Nations, Nationalities and Peoples",
         "tt_RU": "Southern Nations, Nationalities and Peoples",
         "twq": "Southern Nations, Nationalities and Peoples",
         "twq_NE": "Southern Nations, Nationalities and Peoples",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Southern Nations, Nationalities and Peoples",
         "zh_Hant_TW": "Southern Nations, Nationalities and Peoples",
         "zu": "Southern Nations, Nationalities and Peoples",
-        "zu_ZA": "Southern Nations, Nationalities and Peoples",
-        "sr@latin": "Southern Nations, Nationalities and Peoples",
-        "tt@iqtelif": "Southern Nations, Nationalities and Peoples"
+        "zu_ZA": "Southern Nations, Nationalities and Peoples"
     },
     "SO": {
         "af": "Somali",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Somali",
         "sq_XK": "Somali",
         "sr": "Somali",
+        "sr@latin": "Somali",
         "sr_Cyrl": "Somali",
         "sr_Cyrl_BA": "Somali",
         "sr_Cyrl_ME": "Somali",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Somali",
         "tr_TR": "Somali",
         "tt": "Somali",
+        "tt@iqtelif": "Somali",
         "tt_RU": "Somali",
         "twq": "Somali",
         "twq_NE": "Somali",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Somali",
         "zh_Hant_TW": "Somali",
         "zu": "Somali",
-        "zu_ZA": "Somali",
-        "sr@latin": "Somali",
-        "tt@iqtelif": "Somali"
+        "zu_ZA": "Somali"
     },
     "SW": {
         "af": "Southwest Ethiopia Peoples",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Southwest Ethiopia Peoples",
         "sq_XK": "Southwest Ethiopia Peoples",
         "sr": "Southwest Ethiopia Peoples",
+        "sr@latin": "Southwest Ethiopia Peoples",
         "sr_Cyrl": "Southwest Ethiopia Peoples",
         "sr_Cyrl_BA": "Southwest Ethiopia Peoples",
         "sr_Cyrl_ME": "Southwest Ethiopia Peoples",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Southwest Ethiopia Peoples",
         "tr_TR": "Southwest Ethiopia Peoples",
         "tt": "Southwest Ethiopia Peoples",
+        "tt@iqtelif": "Southwest Ethiopia Peoples",
         "tt_RU": "Southwest Ethiopia Peoples",
         "twq": "Southwest Ethiopia Peoples",
         "twq_NE": "Southwest Ethiopia Peoples",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Southwest Ethiopia Peoples",
         "zh_Hant_TW": "Southwest Ethiopia Peoples",
         "zu": "Southwest Ethiopia Peoples",
-        "zu_ZA": "Southwest Ethiopia Peoples",
-        "sr@latin": "Southwest Ethiopia Peoples",
-        "tt@iqtelif": "Southwest Ethiopia Peoples"
+        "zu_ZA": "Southwest Ethiopia Peoples"
     },
     "TI": {
         "af": "Tigrai",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Tigrai",
         "sq_XK": "Tigrai",
         "sr": "Tigrai",
+        "sr@latin": "Tigrai",
         "sr_Cyrl": "Tigrai",
         "sr_Cyrl_BA": "Tigrai",
         "sr_Cyrl_ME": "Tigrai",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Tigrai",
         "tr_TR": "Tigrai",
         "tt": "Tigrai",
+        "tt@iqtelif": "Tigrai",
         "tt_RU": "Tigrai",
         "twq": "Tigrai",
         "twq_NE": "Tigrai",
@@ -11500,8 +11502,6 @@
         "zh_Hant_MY": "Tigrai",
         "zh_Hant_TW": "Tigrai",
         "zu": "Tigrai",
-        "zu_ZA": "Tigrai",
-        "sr@latin": "Tigrai",
-        "tt@iqtelif": "Tigrai"
+        "zu_ZA": "Tigrai"
     }
 }

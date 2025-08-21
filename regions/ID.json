@@ -743,6 +743,7 @@
         "sq_MK": "Aceh",
         "sq_XK": "Aceh",
         "sr": "Акех",
+        "sr@latin": "Akeh",
         "sr_Cyrl": "Акех",
         "sr_Cyrl_BA": "Акех",
         "sr_Cyrl_ME": "Акех",
@@ -803,6 +804,7 @@
         "tr_CY": "Aceh",
         "tr_TR": "Aceh",
         "tt": "Aceh",
+        "tt@iqtelif": "Aceh",
         "tt_RU": "Aceh",
         "twq": "Aceh",
         "twq_NE": "Aceh",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aceh",
         "zh_Hant_TW": "Aceh",
         "zu": "Aceh",
-        "zu_ZA": "Aceh",
-        "sr@latin": "Akeh",
-        "tt@iqtelif": "Aceh"
+        "zu_ZA": "Aceh"
     },
     "BA": {
         "af": "Bali",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bali",
         "sq_XK": "Bali",
         "sr": "Бали",
+        "sr@latin": "Bali",
         "sr_Cyrl": "Бали",
         "sr_Cyrl_BA": "Бали",
         "sr_Cyrl_ME": "Бали",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bali",
         "tr_TR": "Bali",
         "tt": "Bali",
+        "tt@iqtelif": "Bali",
         "tt_RU": "Bali",
         "twq": "Bali",
         "twq_NE": "Bali",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bali",
         "zh_Hant_TW": "Bali",
         "zu": "Bali",
-        "zu_ZA": "Bali",
-        "sr@latin": "Bali",
-        "tt@iqtelif": "Bali"
+        "zu_ZA": "Bali"
     },
     "BB": {
         "af": "Kepulauan Bangka Belitung",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Kepulauan Bangka Belitung",
         "sq_XK": "Kepulauan Bangka Belitung",
         "sr": "Kepulauan Bangka Belitung",
+        "sr@latin": "Kepulauan Bangka Belitung",
         "sr_Cyrl": "Kepulauan Bangka Belitung",
         "sr_Cyrl_BA": "Kepulauan Bangka Belitung",
         "sr_Cyrl_ME": "Kepulauan Bangka Belitung",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Kepulauan Bangka Belitung",
         "tr_TR": "Kepulauan Bangka Belitung",
         "tt": "Kepulauan Bangka Belitung",
+        "tt@iqtelif": "Kepulauan Bangka Belitung",
         "tt_RU": "Kepulauan Bangka Belitung",
         "twq": "Kepulauan Bangka Belitung",
         "twq_NE": "Kepulauan Bangka Belitung",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Kepulauan Bangka Belitung",
         "zh_Hant_TW": "Kepulauan Bangka Belitung",
         "zu": "Kepulauan Bangka Belitung",
-        "zu_ZA": "Kepulauan Bangka Belitung",
-        "sr@latin": "Kepulauan Bangka Belitung",
-        "tt@iqtelif": "Kepulauan Bangka Belitung"
+        "zu_ZA": "Kepulauan Bangka Belitung"
     },
     "BE": {
         "af": "Bengkulu",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Bengkulu",
         "sq_XK": "Bengkulu",
         "sr": "Бенгкулу",
+        "sr@latin": "Bengkulu",
         "sr_Cyrl": "Бенгкулу",
         "sr_Cyrl_BA": "Бенгкулу",
         "sr_Cyrl_ME": "Бенгкулу",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Bengkulu",
         "tr_TR": "Bengkulu",
         "tt": "Bengkulu",
+        "tt@iqtelif": "Bengkulu",
         "tt_RU": "Bengkulu",
         "twq": "Bengkulu",
         "twq_NE": "Bengkulu",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Bengkulu",
         "zh_Hant_TW": "Bengkulu",
         "zu": "Bengkulu",
-        "zu_ZA": "Bengkulu",
-        "sr@latin": "Bengkulu",
-        "tt@iqtelif": "Bengkulu"
+        "zu_ZA": "Bengkulu"
     },
     "BT": {
         "af": "Banten",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Banten",
         "sq_XK": "Banten",
         "sr": "Бантен",
+        "sr@latin": "Banten",
         "sr_Cyrl": "Бантен",
         "sr_Cyrl_BA": "Бантен",
         "sr_Cyrl_ME": "Бантен",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Banten",
         "tr_TR": "Banten",
         "tt": "Banten",
+        "tt@iqtelif": "Banten",
         "tt_RU": "Banten",
         "twq": "Banten",
         "twq_NE": "Banten",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Banten",
         "zh_Hant_TW": "Banten",
         "zu": "Banten",
-        "zu_ZA": "Banten",
-        "sr@latin": "Banten",
-        "tt@iqtelif": "Banten"
+        "zu_ZA": "Banten"
     },
     "GO": {
         "af": "Gorontalo",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Gorontalo",
         "sq_XK": "Gorontalo",
         "sr": "Горонтало",
+        "sr@latin": "Gorontalo",
         "sr_Cyrl": "Горонтало",
         "sr_Cyrl_BA": "Горонтало",
         "sr_Cyrl_ME": "Горонтало",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Gorontalo",
         "tr_TR": "Gorontalo",
         "tt": "Gorontalo",
+        "tt@iqtelif": "Gorontalo",
         "tt_RU": "Gorontalo",
         "twq": "Gorontalo",
         "twq_NE": "Gorontalo",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Gorontalo",
         "zh_Hant_TW": "Gorontalo",
         "zu": "Gorontalo",
-        "zu_ZA": "Gorontalo",
-        "sr@latin": "Gorontalo",
-        "tt@iqtelif": "Gorontalo"
+        "zu_ZA": "Gorontalo"
     },
     "JA": {
         "af": "Jambi",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Jambi",
         "sq_XK": "Jambi",
         "sr": "Џамби",
+        "sr@latin": "Džambi",
         "sr_Cyrl": "Џамби",
         "sr_Cyrl_BA": "Џамби",
         "sr_Cyrl_ME": "Џамби",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Jambi",
         "tr_TR": "Jambi",
         "tt": "Jambi",
+        "tt@iqtelif": "Jambi",
         "tt_RU": "Jambi",
         "twq": "Jambi",
         "twq_NE": "Jambi",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Jambi",
         "zh_Hant_TW": "Jambi",
         "zu": "Jambi",
-        "zu_ZA": "Jambi",
-        "sr@latin": "Džambi",
-        "tt@iqtelif": "Jambi"
+        "zu_ZA": "Jambi"
     },
     "JB": {
         "af": "Jawa Barat",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Jawa Barat",
         "sq_XK": "Jawa Barat",
         "sr": "Јава Барат",
+        "sr@latin": "Java Barat",
         "sr_Cyrl": "Јава Барат",
         "sr_Cyrl_BA": "Јава Барат",
         "sr_Cyrl_ME": "Јава Барат",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Jawa Barat",
         "tr_TR": "Jawa Barat",
         "tt": "Jawa Barat",
+        "tt@iqtelif": "Jawa Barat",
         "tt_RU": "Jawa Barat",
         "twq": "Jawa Barat",
         "twq_NE": "Jawa Barat",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Jawa Barat",
         "zh_Hant_TW": "Jawa Barat",
         "zu": "Jawa Barat",
-        "zu_ZA": "Jawa Barat",
-        "sr@latin": "Java Barat",
-        "tt@iqtelif": "Jawa Barat"
+        "zu_ZA": "Jawa Barat"
     },
     "JI": {
         "af": "Jawa Timur",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Jawa Timur",
         "sq_XK": "Jawa Timur",
         "sr": "Јава Тимор",
+        "sr@latin": "Java Timor",
         "sr_Cyrl": "Јава Тимор",
         "sr_Cyrl_BA": "Јава Тимор",
         "sr_Cyrl_ME": "Јава Тимор",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Jawa Timur",
         "tr_TR": "Jawa Timur",
         "tt": "Jawa Timur",
+        "tt@iqtelif": "Jawa Timur",
         "tt_RU": "Jawa Timur",
         "twq": "Jawa Timur",
         "twq_NE": "Jawa Timur",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Jawa Timur",
         "zh_Hant_TW": "Jawa Timur",
         "zu": "Jawa Timur",
-        "zu_ZA": "Jawa Timur",
-        "sr@latin": "Java Timor",
-        "tt@iqtelif": "Jawa Timur"
+        "zu_ZA": "Jawa Timur"
     },
     "JK": {
         "af": "Jakarta Raya",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Jakarta Raya",
         "sq_XK": "Jakarta Raya",
         "sr": "Џакарта Раја",
+        "sr@latin": "Džakarta Raja",
         "sr_Cyrl": "Џакарта Раја",
         "sr_Cyrl_BA": "Џакарта Раја",
         "sr_Cyrl_ME": "Џакарта Раја",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Jakarta Raya",
         "tr_TR": "Jakarta Raya",
         "tt": "Jakarta Raya",
+        "tt@iqtelif": "Jakarta Raya",
         "tt_RU": "Jakarta Raya",
         "twq": "Jakarta Raya",
         "twq_NE": "Jakarta Raya",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Jakarta Raya",
         "zh_Hant_TW": "Jakarta Raya",
         "zu": "Jakarta Raya",
-        "zu_ZA": "Jakarta Raya",
-        "sr@latin": "Džakarta Raja",
-        "tt@iqtelif": "Jakarta Raya"
+        "zu_ZA": "Jakarta Raya"
     },
     "JT": {
         "af": "Jawa Tengah",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Jawa Tengah",
         "sq_XK": "Jawa Tengah",
         "sr": "Јава Тенга",
+        "sr@latin": "Java Tenga",
         "sr_Cyrl": "Јава Тенга",
         "sr_Cyrl_BA": "Јава Тенга",
         "sr_Cyrl_ME": "Јава Тенга",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Jawa Tengah",
         "tr_TR": "Jawa Tengah",
         "tt": "Jawa Tengah",
+        "tt@iqtelif": "Jawa Tengah",
         "tt_RU": "Jawa Tengah",
         "twq": "Jawa Tengah",
         "twq_NE": "Jawa Tengah",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Jawa Tengah",
         "zh_Hant_TW": "Jawa Tengah",
         "zu": "Jawa Tengah",
-        "zu_ZA": "Jawa Tengah",
-        "sr@latin": "Java Tenga",
-        "tt@iqtelif": "Jawa Tengah"
+        "zu_ZA": "Jawa Tengah"
     },
     "JW": {
         "af": "Jawa",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Jawa",
         "sq_XK": "Jawa",
         "sr": "Јава",
+        "sr@latin": "Java",
         "sr_Cyrl": "Јава",
         "sr_Cyrl_BA": "Јава",
         "sr_Cyrl_ME": "Јава",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Jawa",
         "tr_TR": "Jawa",
         "tt": "Jawa",
+        "tt@iqtelif": "Jawa",
         "tt_RU": "Jawa",
         "twq": "Jawa",
         "twq_NE": "Jawa",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Jawa",
         "zh_Hant_TW": "Jawa",
         "zu": "Jawa",
-        "zu_ZA": "Jawa",
-        "sr@latin": "Java",
-        "tt@iqtelif": "Jawa"
+        "zu_ZA": "Jawa"
     },
     "KA": {
         "af": "Kalimantan",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Kalimantan",
         "sq_XK": "Kalimantan",
         "sr": "Калимантан",
+        "sr@latin": "Kalimantan",
         "sr_Cyrl": "Калимантан",
         "sr_Cyrl_BA": "Калимантан",
         "sr_Cyrl_ME": "Калимантан",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Kalimantan",
         "tr_TR": "Kalimantan",
         "tt": "Kalimantan",
+        "tt@iqtelif": "Kalimantan",
         "tt_RU": "Kalimantan",
         "twq": "Kalimantan",
         "twq_NE": "Kalimantan",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Kalimantan",
         "zh_Hant_TW": "Kalimantan",
         "zu": "Kalimantan",
-        "zu_ZA": "Kalimantan",
-        "sr@latin": "Kalimantan",
-        "tt@iqtelif": "Kalimantan"
+        "zu_ZA": "Kalimantan"
     },
     "KB": {
         "af": "Kalimantan Barat",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Kalimantan Barat",
         "sq_XK": "Kalimantan Barat",
         "sr": "Калимантан Барат",
+        "sr@latin": "Kalimantan Barat",
         "sr_Cyrl": "Калимантан Барат",
         "sr_Cyrl_BA": "Калимантан Барат",
         "sr_Cyrl_ME": "Калимантан Барат",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Kalimantan Barat",
         "tr_TR": "Kalimantan Barat",
         "tt": "Kalimantan Barat",
+        "tt@iqtelif": "Kalimantan Barat",
         "tt_RU": "Kalimantan Barat",
         "twq": "Kalimantan Barat",
         "twq_NE": "Kalimantan Barat",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Kalimantan Barat",
         "zh_Hant_TW": "Kalimantan Barat",
         "zu": "Kalimantan Barat",
-        "zu_ZA": "Kalimantan Barat",
-        "sr@latin": "Kalimantan Barat",
-        "tt@iqtelif": "Kalimantan Barat"
+        "zu_ZA": "Kalimantan Barat"
     },
     "KI": {
         "af": "Kalimantan Timur",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Kalimantan Timur",
         "sq_XK": "Kalimantan Timur",
         "sr": "Калимантан Тимур",
+        "sr@latin": "Kalimantan Timur",
         "sr_Cyrl": "Калимантан Тимур",
         "sr_Cyrl_BA": "Калимантан Тимур",
         "sr_Cyrl_ME": "Калимантан Тимур",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Kalimantan Timur",
         "tr_TR": "Kalimantan Timur",
         "tt": "Kalimantan Timur",
+        "tt@iqtelif": "Kalimantan Timur",
         "tt_RU": "Kalimantan Timur",
         "twq": "Kalimantan Timur",
         "twq_NE": "Kalimantan Timur",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Kalimantan Timur",
         "zh_Hant_TW": "Kalimantan Timur",
         "zu": "Kalimantan Timur",
-        "zu_ZA": "Kalimantan Timur",
-        "sr@latin": "Kalimantan Timur",
-        "tt@iqtelif": "Kalimantan Timur"
+        "zu_ZA": "Kalimantan Timur"
     },
     "KR": {
         "af": "Kepulauan Riau",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Kepulauan Riau",
         "sq_XK": "Kepulauan Riau",
         "sr": "Kepulauan Riau",
+        "sr@latin": "Kepulauan Riau",
         "sr_Cyrl": "Kepulauan Riau",
         "sr_Cyrl_BA": "Kepulauan Riau",
         "sr_Cyrl_ME": "Kepulauan Riau",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Kepulauan Riau",
         "tr_TR": "Kepulauan Riau",
         "tt": "Kepulauan Riau",
+        "tt@iqtelif": "Kepulauan Riau",
         "tt_RU": "Kepulauan Riau",
         "twq": "Kepulauan Riau",
         "twq_NE": "Kepulauan Riau",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Kepulauan Riau",
         "zh_Hant_TW": "Kepulauan Riau",
         "zu": "Kepulauan Riau",
-        "zu_ZA": "Kepulauan Riau",
-        "sr@latin": "Kepulauan Riau",
-        "tt@iqtelif": "Kepulauan Riau"
+        "zu_ZA": "Kepulauan Riau"
     },
     "KS": {
         "af": "Kalimantan Selatan",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Kalimantan Selatan",
         "sq_XK": "Kalimantan Selatan",
         "sr": "Калимантан Селатан",
+        "sr@latin": "Kalimantan Selatan",
         "sr_Cyrl": "Калимантан Селатан",
         "sr_Cyrl_BA": "Калимантан Селатан",
         "sr_Cyrl_ME": "Калимантан Селатан",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Kalimantan Selatan",
         "tr_TR": "Kalimantan Selatan",
         "tt": "Kalimantan Selatan",
+        "tt@iqtelif": "Kalimantan Selatan",
         "tt_RU": "Kalimantan Selatan",
         "twq": "Kalimantan Selatan",
         "twq_NE": "Kalimantan Selatan",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Kalimantan Selatan",
         "zh_Hant_TW": "Kalimantan Selatan",
         "zu": "Kalimantan Selatan",
-        "zu_ZA": "Kalimantan Selatan",
-        "sr@latin": "Kalimantan Selatan",
-        "tt@iqtelif": "Kalimantan Selatan"
+        "zu_ZA": "Kalimantan Selatan"
     },
     "KT": {
         "af": "Kalimantan Tengah",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Kalimantan Tengah",
         "sq_XK": "Kalimantan Tengah",
         "sr": "Калимантан Тенга",
+        "sr@latin": "Kalimantan Tenga",
         "sr_Cyrl": "Калимантан Тенга",
         "sr_Cyrl_BA": "Калимантан Тенга",
         "sr_Cyrl_ME": "Калимантан Тенга",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Kalimantan Tengah",
         "tr_TR": "Kalimantan Tengah",
         "tt": "Kalimantan Tengah",
+        "tt@iqtelif": "Kalimantan Tengah",
         "tt_RU": "Kalimantan Tengah",
         "twq": "Kalimantan Tengah",
         "twq_NE": "Kalimantan Tengah",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Kalimantan Tengah",
         "zh_Hant_TW": "Kalimantan Tengah",
         "zu": "Kalimantan Tengah",
-        "zu_ZA": "Kalimantan Tengah",
-        "sr@latin": "Kalimantan Tenga",
-        "tt@iqtelif": "Kalimantan Tengah"
+        "zu_ZA": "Kalimantan Tengah"
     },
     "KU": {
         "af": "Kalimantan Utara",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Kalimantan Utara",
         "sq_XK": "Kalimantan Utara",
         "sr": "Kalimantan Utara",
+        "sr@latin": "Kalimantan Utara",
         "sr_Cyrl": "Kalimantan Utara",
         "sr_Cyrl_BA": "Kalimantan Utara",
         "sr_Cyrl_ME": "Kalimantan Utara",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Kalimantan Utara",
         "tr_TR": "Kalimantan Utara",
         "tt": "Kalimantan Utara",
+        "tt@iqtelif": "Kalimantan Utara",
         "tt_RU": "Kalimantan Utara",
         "twq": "Kalimantan Utara",
         "twq_NE": "Kalimantan Utara",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Kalimantan Utara",
         "zh_Hant_TW": "Kalimantan Utara",
         "zu": "Kalimantan Utara",
-        "zu_ZA": "Kalimantan Utara",
-        "sr@latin": "Kalimantan Utara",
-        "tt@iqtelif": "Kalimantan Utara"
+        "zu_ZA": "Kalimantan Utara"
     },
     "LA": {
         "af": "Lampung",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Lampung",
         "sq_XK": "Lampung",
         "sr": "Лампанг",
+        "sr@latin": "Lampang",
         "sr_Cyrl": "Лампанг",
         "sr_Cyrl_BA": "Лампанг",
         "sr_Cyrl_ME": "Лампанг",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Lampung",
         "tr_TR": "Lampung",
         "tt": "Lampung",
+        "tt@iqtelif": "Lampung",
         "tt_RU": "Lampung",
         "twq": "Lampung",
         "twq_NE": "Lampung",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Lampung",
         "zh_Hant_TW": "Lampung",
         "zu": "Lampung",
-        "zu_ZA": "Lampung",
-        "sr@latin": "Lampang",
-        "tt@iqtelif": "Lampung"
+        "zu_ZA": "Lampung"
     },
     "MA": {
         "af": "Maluku",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Maluku",
         "sq_XK": "Maluku",
         "sr": "Малуку",
+        "sr@latin": "Maluku",
         "sr_Cyrl": "Малуку",
         "sr_Cyrl_BA": "Малуку",
         "sr_Cyrl_ME": "Малуку",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Maluku",
         "tr_TR": "Maluku",
         "tt": "Maluku",
+        "tt@iqtelif": "Maluku",
         "tt_RU": "Maluku",
         "twq": "Maluku",
         "twq_NE": "Maluku",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Maluku",
         "zh_Hant_TW": "Maluku",
         "zu": "Maluku",
-        "zu_ZA": "Maluku",
-        "sr@latin": "Maluku",
-        "tt@iqtelif": "Maluku"
+        "zu_ZA": "Maluku"
     },
     "ML": {
         "af": "Maluku",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Maluku",
         "sq_XK": "Maluku",
         "sr": "Малуку",
+        "sr@latin": "Maluku",
         "sr_Cyrl": "Малуку",
         "sr_Cyrl_BA": "Малуку",
         "sr_Cyrl_ME": "Малуку",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Maluku",
         "tr_TR": "Maluku",
         "tt": "Maluku",
+        "tt@iqtelif": "Maluku",
         "tt_RU": "Maluku",
         "twq": "Maluku",
         "twq_NE": "Maluku",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Maluku",
         "zh_Hant_TW": "Maluku",
         "zu": "Maluku",
-        "zu_ZA": "Maluku",
-        "sr@latin": "Maluku",
-        "tt@iqtelif": "Maluku"
+        "zu_ZA": "Maluku"
     },
     "MU": {
         "af": "Maluku Utara",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Maluku Utara",
         "sq_XK": "Maluku Utara",
         "sr": "Малуку Утара",
+        "sr@latin": "Maluku Utara",
         "sr_Cyrl": "Малуку Утара",
         "sr_Cyrl_BA": "Малуку Утара",
         "sr_Cyrl_ME": "Малуку Утара",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Maluku Utara",
         "tr_TR": "Maluku Utara",
         "tt": "Maluku Utara",
+        "tt@iqtelif": "Maluku Utara",
         "tt_RU": "Maluku Utara",
         "twq": "Maluku Utara",
         "twq_NE": "Maluku Utara",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Maluku Utara",
         "zh_Hant_TW": "Maluku Utara",
         "zu": "Maluku Utara",
-        "zu_ZA": "Maluku Utara",
-        "sr@latin": "Maluku Utara",
-        "tt@iqtelif": "Maluku Utara"
+        "zu_ZA": "Maluku Utara"
     },
     "NB": {
         "af": "Nusa Tenggara Barat",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Nusa Tenggara Barat",
         "sq_XK": "Nusa Tenggara Barat",
         "sr": "Нуса Тенгара Барат",
+        "sr@latin": "Nusa Tengara Barat",
         "sr_Cyrl": "Нуса Тенгара Барат",
         "sr_Cyrl_BA": "Нуса Тенгара Барат",
         "sr_Cyrl_ME": "Нуса Тенгара Барат",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Nusa Tenggara Barat",
         "tr_TR": "Nusa Tenggara Barat",
         "tt": "Nusa Tenggara Barat",
+        "tt@iqtelif": "Nusa Tenggara Barat",
         "tt_RU": "Nusa Tenggara Barat",
         "twq": "Nusa Tenggara Barat",
         "twq_NE": "Nusa Tenggara Barat",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Nusa Tenggara Barat",
         "zh_Hant_TW": "Nusa Tenggara Barat",
         "zu": "Nusa Tenggara Barat",
-        "zu_ZA": "Nusa Tenggara Barat",
-        "sr@latin": "Nusa Tengara Barat",
-        "tt@iqtelif": "Nusa Tenggara Barat"
+        "zu_ZA": "Nusa Tenggara Barat"
     },
     "NT": {
         "af": "Nusa Tenggara Timur",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Nusa Tenggara Timur",
         "sq_XK": "Nusa Tenggara Timur",
         "sr": "Нуса Тенгара Тимур",
+        "sr@latin": "Nusa Tengara Timur",
         "sr_Cyrl": "Нуса Тенгара Тимур",
         "sr_Cyrl_BA": "Нуса Тенгара Тимур",
         "sr_Cyrl_ME": "Нуса Тенгара Тимур",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Nusa Tenggara Timur",
         "tr_TR": "Nusa Tenggara Timur",
         "tt": "Nusa Tenggara Timur",
+        "tt@iqtelif": "Nusa Tenggara Timur",
         "tt_RU": "Nusa Tenggara Timur",
         "twq": "Nusa Tenggara Timur",
         "twq_NE": "Nusa Tenggara Timur",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Nusa Tenggara Timur",
         "zh_Hant_TW": "Nusa Tenggara Timur",
         "zu": "Nusa Tenggara Timur",
-        "zu_ZA": "Nusa Tenggara Timur",
-        "sr@latin": "Nusa Tengara Timur",
-        "tt@iqtelif": "Nusa Tenggara Timur"
+        "zu_ZA": "Nusa Tenggara Timur"
     },
     "NU": {
         "af": "Nusa Tenggara",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Nusa Tenggara",
         "sq_XK": "Nusa Tenggara",
         "sr": "Нуса Тенгара",
+        "sr@latin": "Nusa Tengara",
         "sr_Cyrl": "Нуса Тенгара",
         "sr_Cyrl_BA": "Нуса Тенгара",
         "sr_Cyrl_ME": "Нуса Тенгара",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Nusa Tenggara",
         "tr_TR": "Nusa Tenggara",
         "tt": "Nusa Tenggara",
+        "tt@iqtelif": "Nusa Tenggara",
         "tt_RU": "Nusa Tenggara",
         "twq": "Nusa Tenggara",
         "twq_NE": "Nusa Tenggara",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Nusa Tenggara",
         "zh_Hant_TW": "Nusa Tenggara",
         "zu": "Nusa Tenggara",
-        "zu_ZA": "Nusa Tenggara",
-        "sr@latin": "Nusa Tengara",
-        "tt@iqtelif": "Nusa Tenggara"
+        "zu_ZA": "Nusa Tenggara"
     },
     "PA": {
         "af": "Papua",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Papua",
         "sq_XK": "Papua",
         "sr": "Папуа",
+        "sr@latin": "Papua",
         "sr_Cyrl": "Папуа",
         "sr_Cyrl_BA": "Папуа",
         "sr_Cyrl_ME": "Папуа",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Papua",
         "tr_TR": "Papua",
         "tt": "Papua",
+        "tt@iqtelif": "Papua",
         "tt_RU": "Papua",
         "twq": "Papua",
         "twq_NE": "Papua",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Papua",
         "zh_Hant_TW": "Papua",
         "zu": "Papua",
-        "zu_ZA": "Papua",
-        "sr@latin": "Papua",
-        "tt@iqtelif": "Papua"
+        "zu_ZA": "Papua"
     },
     "PB": {
         "af": "Papua Barat",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Papua Barat",
         "sq_XK": "Papua Barat",
         "sr": "Папуа Барат",
+        "sr@latin": "Papua Barat",
         "sr_Cyrl": "Папуа Барат",
         "sr_Cyrl_BA": "Папуа Барат",
         "sr_Cyrl_ME": "Папуа Барат",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Papua Barat",
         "tr_TR": "Papua Barat",
         "tt": "Papua Barat",
+        "tt@iqtelif": "Papua Barat",
         "tt_RU": "Papua Barat",
         "twq": "Papua Barat",
         "twq_NE": "Papua Barat",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Papua Barat",
         "zh_Hant_TW": "Papua Barat",
         "zu": "Papua Barat",
-        "zu_ZA": "Papua Barat",
-        "sr@latin": "Papua Barat",
-        "tt@iqtelif": "Papua Barat"
+        "zu_ZA": "Papua Barat"
     },
     "PD": {
         "af": "Papua Barat Daya",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Papua Barat Daya",
         "sq_XK": "Papua Barat Daya",
         "sr": "Papua Barat Daya",
+        "sr@latin": "Papua Barat Daya",
         "sr_Cyrl": "Papua Barat Daya",
         "sr_Cyrl_BA": "Papua Barat Daya",
         "sr_Cyrl_ME": "Papua Barat Daya",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Papua Barat Daya",
         "tr_TR": "Papua Barat Daya",
         "tt": "Papua Barat Daya",
+        "tt@iqtelif": "Papua Barat Daya",
         "tt_RU": "Papua Barat Daya",
         "twq": "Papua Barat Daya",
         "twq_NE": "Papua Barat Daya",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Papua Barat Daya",
         "zh_Hant_TW": "Papua Barat Daya",
         "zu": "Papua Barat Daya",
-        "zu_ZA": "Papua Barat Daya",
-        "sr@latin": "Papua Barat Daya",
-        "tt@iqtelif": "Papua Barat Daya"
+        "zu_ZA": "Papua Barat Daya"
     },
     "PE": {
         "af": "Papua Pengunungan",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Papua Pengunungan",
         "sq_XK": "Papua Pengunungan",
         "sr": "Papua Pengunungan",
+        "sr@latin": "Papua Pengunungan",
         "sr_Cyrl": "Papua Pengunungan",
         "sr_Cyrl_BA": "Papua Pengunungan",
         "sr_Cyrl_ME": "Papua Pengunungan",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Papua Pengunungan",
         "tr_TR": "Papua Pengunungan",
         "tt": "Papua Pengunungan",
+        "tt@iqtelif": "Papua Pengunungan",
         "tt_RU": "Papua Pengunungan",
         "twq": "Papua Pengunungan",
         "twq_NE": "Papua Pengunungan",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Papua Pengunungan",
         "zh_Hant_TW": "Papua Pengunungan",
         "zu": "Papua Pengunungan",
-        "zu_ZA": "Papua Pengunungan",
-        "sr@latin": "Papua Pengunungan",
-        "tt@iqtelif": "Papua Pengunungan"
+        "zu_ZA": "Papua Pengunungan"
     },
     "PP": {
         "af": "Papua",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Papua",
         "sq_XK": "Papua",
         "sr": "Папуа",
+        "sr@latin": "Papua",
         "sr_Cyrl": "Папуа",
         "sr_Cyrl_BA": "Папуа",
         "sr_Cyrl_ME": "Папуа",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Papua",
         "tr_TR": "Papua",
         "tt": "Papua",
+        "tt@iqtelif": "Papua",
         "tt_RU": "Papua",
         "twq": "Papua",
         "twq_NE": "Papua",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Papua",
         "zh_Hant_TW": "Papua",
         "zu": "Papua",
-        "zu_ZA": "Papua",
-        "sr@latin": "Papua",
-        "tt@iqtelif": "Papua"
+        "zu_ZA": "Papua"
     },
     "PS": {
         "af": "Papua Selatan",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Papua Selatan",
         "sq_XK": "Papua Selatan",
         "sr": "Papua Selatan",
+        "sr@latin": "Papua Selatan",
         "sr_Cyrl": "Papua Selatan",
         "sr_Cyrl_BA": "Papua Selatan",
         "sr_Cyrl_ME": "Papua Selatan",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Papua Selatan",
         "tr_TR": "Papua Selatan",
         "tt": "Papua Selatan",
+        "tt@iqtelif": "Papua Selatan",
         "tt_RU": "Papua Selatan",
         "twq": "Papua Selatan",
         "twq_NE": "Papua Selatan",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Papua Selatan",
         "zh_Hant_TW": "Papua Selatan",
         "zu": "Papua Selatan",
-        "zu_ZA": "Papua Selatan",
-        "sr@latin": "Papua Selatan",
-        "tt@iqtelif": "Papua Selatan"
+        "zu_ZA": "Papua Selatan"
     },
     "PT": {
         "af": "Papua Tengah",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Papua Tengah",
         "sq_XK": "Papua Tengah",
         "sr": "Papua Tengah",
+        "sr@latin": "Papua Tengah",
         "sr_Cyrl": "Papua Tengah",
         "sr_Cyrl_BA": "Papua Tengah",
         "sr_Cyrl_ME": "Papua Tengah",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Papua Tengah",
         "tr_TR": "Papua Tengah",
         "tt": "Papua Tengah",
+        "tt@iqtelif": "Papua Tengah",
         "tt_RU": "Papua Tengah",
         "twq": "Papua Tengah",
         "twq_NE": "Papua Tengah",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Papua Tengah",
         "zh_Hant_TW": "Papua Tengah",
         "zu": "Papua Tengah",
-        "zu_ZA": "Papua Tengah",
-        "sr@latin": "Papua Tengah",
-        "tt@iqtelif": "Papua Tengah"
+        "zu_ZA": "Papua Tengah"
     },
     "RI": {
         "af": "Riau",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Riau",
         "sq_XK": "Riau",
         "sr": "Riau",
+        "sr@latin": "Riau",
         "sr_Cyrl": "Riau",
         "sr_Cyrl_BA": "Riau",
         "sr_Cyrl_ME": "Riau",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Riau",
         "tr_TR": "Riau",
         "tt": "Riau",
+        "tt@iqtelif": "Riau",
         "tt_RU": "Riau",
         "twq": "Riau",
         "twq_NE": "Riau",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Riau",
         "zh_Hant_TW": "Riau",
         "zu": "Riau",
-        "zu_ZA": "Riau",
-        "sr@latin": "Riau",
-        "tt@iqtelif": "Riau"
+        "zu_ZA": "Riau"
     },
     "SA": {
         "af": "Sulawesi Utara",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Sulawesi Utara",
         "sq_XK": "Sulawesi Utara",
         "sr": "Sulawesi Utara",
+        "sr@latin": "Sulawesi Utara",
         "sr_Cyrl": "Sulawesi Utara",
         "sr_Cyrl_BA": "Sulawesi Utara",
         "sr_Cyrl_ME": "Sulawesi Utara",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Sulawesi Utara",
         "tr_TR": "Sulawesi Utara",
         "tt": "Sulawesi Utara",
+        "tt@iqtelif": "Sulawesi Utara",
         "tt_RU": "Sulawesi Utara",
         "twq": "Sulawesi Utara",
         "twq_NE": "Sulawesi Utara",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Sulawesi Utara",
         "zh_Hant_TW": "Sulawesi Utara",
         "zu": "Sulawesi Utara",
-        "zu_ZA": "Sulawesi Utara",
-        "sr@latin": "Sulawesi Utara",
-        "tt@iqtelif": "Sulawesi Utara"
+        "zu_ZA": "Sulawesi Utara"
     },
     "SB": {
         "af": "Sumatera Barat",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Sumatera Barat",
         "sq_XK": "Sumatera Barat",
         "sr": "Sumatera Barat",
+        "sr@latin": "Sumatera Barat",
         "sr_Cyrl": "Sumatera Barat",
         "sr_Cyrl_BA": "Sumatera Barat",
         "sr_Cyrl_ME": "Sumatera Barat",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Sumatera Barat",
         "tr_TR": "Sumatera Barat",
         "tt": "Sumatera Barat",
+        "tt@iqtelif": "Sumatera Barat",
         "tt_RU": "Sumatera Barat",
         "twq": "Sumatera Barat",
         "twq_NE": "Sumatera Barat",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Sumatera Barat",
         "zh_Hant_TW": "Sumatera Barat",
         "zu": "Sumatera Barat",
-        "zu_ZA": "Sumatera Barat",
-        "sr@latin": "Sumatera Barat",
-        "tt@iqtelif": "Sumatera Barat"
+        "zu_ZA": "Sumatera Barat"
     },
     "SG": {
         "af": "Sulawesi Tenggara",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Sulawesi Tenggara",
         "sq_XK": "Sulawesi Tenggara",
         "sr": "Sulawesi Tenggara",
+        "sr@latin": "Sulawesi Tenggara",
         "sr_Cyrl": "Sulawesi Tenggara",
         "sr_Cyrl_BA": "Sulawesi Tenggara",
         "sr_Cyrl_ME": "Sulawesi Tenggara",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Sulawesi Tenggara",
         "tr_TR": "Sulawesi Tenggara",
         "tt": "Sulawesi Tenggara",
+        "tt@iqtelif": "Sulawesi Tenggara",
         "tt_RU": "Sulawesi Tenggara",
         "twq": "Sulawesi Tenggara",
         "twq_NE": "Sulawesi Tenggara",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Sulawesi Tenggara",
         "zh_Hant_TW": "Sulawesi Tenggara",
         "zu": "Sulawesi Tenggara",
-        "zu_ZA": "Sulawesi Tenggara",
-        "sr@latin": "Sulawesi Tenggara",
-        "tt@iqtelif": "Sulawesi Tenggara"
+        "zu_ZA": "Sulawesi Tenggara"
     },
     "SL": {
         "af": "Sulawesi",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Sulawesi",
         "sq_XK": "Sulawesi",
         "sr": "Сулавези",
+        "sr@latin": "Sulavezi",
         "sr_Cyrl": "Сулавези",
         "sr_Cyrl_BA": "Сулавези",
         "sr_Cyrl_ME": "Сулавези",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Sulawesi",
         "tr_TR": "Sulawesi",
         "tt": "Sulawesi",
+        "tt@iqtelif": "Sulawesi",
         "tt_RU": "Sulawesi",
         "twq": "Sulawesi",
         "twq_NE": "Sulawesi",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Sulawesi",
         "zh_Hant_TW": "Sulawesi",
         "zu": "Sulawesi",
-        "zu_ZA": "Sulawesi",
-        "sr@latin": "Sulavezi",
-        "tt@iqtelif": "Sulawesi"
+        "zu_ZA": "Sulawesi"
     },
     "SM": {
         "af": "Sumatera",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Sumatera",
         "sq_XK": "Sumatera",
         "sr": "Суматера",
+        "sr@latin": "Sumatera",
         "sr_Cyrl": "Суматера",
         "sr_Cyrl_BA": "Суматера",
         "sr_Cyrl_ME": "Суматера",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Sumatera",
         "tr_TR": "Sumatera",
         "tt": "Sumatera",
+        "tt@iqtelif": "Sumatera",
         "tt_RU": "Sumatera",
         "twq": "Sumatera",
         "twq_NE": "Sumatera",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Sumatera",
         "zh_Hant_TW": "Sumatera",
         "zu": "Sumatera",
-        "zu_ZA": "Sumatera",
-        "sr@latin": "Sumatera",
-        "tt@iqtelif": "Sumatera"
+        "zu_ZA": "Sumatera"
     },
     "SN": {
         "af": "Sulawesi Selatan",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Sulawesi Selatan",
         "sq_XK": "Sulawesi Selatan",
         "sr": "Сулавези Селатан",
+        "sr@latin": "Sulavezi Selatan",
         "sr_Cyrl": "Сулавези Селатан",
         "sr_Cyrl_BA": "Сулавези Селатан",
         "sr_Cyrl_ME": "Сулавези Селатан",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Sulawesi Selatan",
         "tr_TR": "Sulawesi Selatan",
         "tt": "Sulawesi Selatan",
+        "tt@iqtelif": "Sulawesi Selatan",
         "tt_RU": "Sulawesi Selatan",
         "twq": "Sulawesi Selatan",
         "twq_NE": "Sulawesi Selatan",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Sulawesi Selatan",
         "zh_Hant_TW": "Sulawesi Selatan",
         "zu": "Sulawesi Selatan",
-        "zu_ZA": "Sulawesi Selatan",
-        "sr@latin": "Sulavezi Selatan",
-        "tt@iqtelif": "Sulawesi Selatan"
+        "zu_ZA": "Sulawesi Selatan"
     },
     "SR": {
         "af": "Sulawesi Barat",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Sulawesi Barat",
         "sq_XK": "Sulawesi Barat",
         "sr": "Сулавези Барат",
+        "sr@latin": "Sulavezi Barat",
         "sr_Cyrl": "Сулавези Барат",
         "sr_Cyrl_BA": "Сулавези Барат",
         "sr_Cyrl_ME": "Сулавези Барат",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Sulawesi Barat",
         "tr_TR": "Sulawesi Barat",
         "tt": "Sulawesi Barat",
+        "tt@iqtelif": "Sulawesi Barat",
         "tt_RU": "Sulawesi Barat",
         "twq": "Sulawesi Barat",
         "twq_NE": "Sulawesi Barat",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Sulawesi Barat",
         "zh_Hant_TW": "Sulawesi Barat",
         "zu": "Sulawesi Barat",
-        "zu_ZA": "Sulawesi Barat",
-        "sr@latin": "Sulavezi Barat",
-        "tt@iqtelif": "Sulawesi Barat"
+        "zu_ZA": "Sulawesi Barat"
     },
     "SS": {
         "af": "Sumatera Selatan",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Sumatera Selatan",
         "sq_XK": "Sumatera Selatan",
         "sr": "Sumatera Selatan",
+        "sr@latin": "Sumatera Selatan",
         "sr_Cyrl": "Sumatera Selatan",
         "sr_Cyrl_BA": "Sumatera Selatan",
         "sr_Cyrl_ME": "Sumatera Selatan",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Sumatera Selatan",
         "tr_TR": "Sumatera Selatan",
         "tt": "Sumatera Selatan",
+        "tt@iqtelif": "Sumatera Selatan",
         "tt_RU": "Sumatera Selatan",
         "twq": "Sumatera Selatan",
         "twq_NE": "Sumatera Selatan",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Sumatera Selatan",
         "zh_Hant_TW": "Sumatera Selatan",
         "zu": "Sumatera Selatan",
-        "zu_ZA": "Sumatera Selatan",
-        "sr@latin": "Sumatera Selatan",
-        "tt@iqtelif": "Sumatera Selatan"
+        "zu_ZA": "Sumatera Selatan"
     },
     "ST": {
         "af": "Sulawesi Tengah",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Sulawesi Tengah",
         "sq_XK": "Sulawesi Tengah",
         "sr": "Sulawesi Tengah",
+        "sr@latin": "Sulawesi Tengah",
         "sr_Cyrl": "Sulawesi Tengah",
         "sr_Cyrl_BA": "Sulawesi Tengah",
         "sr_Cyrl_ME": "Sulawesi Tengah",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Sulawesi Tengah",
         "tr_TR": "Sulawesi Tengah",
         "tt": "Sulawesi Tengah",
+        "tt@iqtelif": "Sulawesi Tengah",
         "tt_RU": "Sulawesi Tengah",
         "twq": "Sulawesi Tengah",
         "twq_NE": "Sulawesi Tengah",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Sulawesi Tengah",
         "zh_Hant_TW": "Sulawesi Tengah",
         "zu": "Sulawesi Tengah",
-        "zu_ZA": "Sulawesi Tengah",
-        "sr@latin": "Sulawesi Tengah",
-        "tt@iqtelif": "Sulawesi Tengah"
+        "zu_ZA": "Sulawesi Tengah"
     },
     "SU": {
         "af": "Sumatera Utara",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Sumatera Utara",
         "sq_XK": "Sumatera Utara",
         "sr": "Суматера Утара",
+        "sr@latin": "Sumatera Utara",
         "sr_Cyrl": "Суматера Утара",
         "sr_Cyrl_BA": "Суматера Утара",
         "sr_Cyrl_ME": "Суматера Утара",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Sumatera Utara",
         "tr_TR": "Sumatera Utara",
         "tt": "Sumatera Utara",
+        "tt@iqtelif": "Sumatera Utara",
         "tt_RU": "Sumatera Utara",
         "twq": "Sumatera Utara",
         "twq_NE": "Sumatera Utara",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Sumatera Utara",
         "zh_Hant_TW": "Sumatera Utara",
         "zu": "Sumatera Utara",
-        "zu_ZA": "Sumatera Utara",
-        "sr@latin": "Sumatera Utara",
-        "tt@iqtelif": "Sumatera Utara"
+        "zu_ZA": "Sumatera Utara"
     },
     "YO": {
         "af": "Yogyakarta",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Yogyakarta",
         "sq_XK": "Yogyakarta",
         "sr": "Yogyakarta",
+        "sr@latin": "Yogyakarta",
         "sr_Cyrl": "Yogyakarta",
         "sr_Cyrl_BA": "Yogyakarta",
         "sr_Cyrl_ME": "Yogyakarta",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Yogyakarta",
         "tr_TR": "Yogyakarta",
         "tt": "Yogyakarta",
+        "tt@iqtelif": "Yogyakarta",
         "tt_RU": "Yogyakarta",
         "twq": "Yogyakarta",
         "twq_NE": "Yogyakarta",
@@ -39820,8 +39822,6 @@
         "zh_Hant_MY": "Yogyakarta",
         "zh_Hant_TW": "Yogyakarta",
         "zu": "Yogyakarta",
-        "zu_ZA": "Yogyakarta",
-        "sr@latin": "Yogyakarta",
-        "tt@iqtelif": "Yogyakarta"
+        "zu_ZA": "Yogyakarta"
     }
 }

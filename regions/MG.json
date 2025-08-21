@@ -743,6 +743,7 @@
         "sq_MK": "Toamasina",
         "sq_XK": "Toamasina",
         "sr": "Тоамасина",
+        "sr@latin": "Toamasina",
         "sr_Cyrl": "Тоамасина",
         "sr_Cyrl_BA": "Тоамасина",
         "sr_Cyrl_ME": "Тоамасина",
@@ -803,6 +804,7 @@
         "tr_CY": "Toamasina",
         "tr_TR": "Toamasina",
         "tt": "Toamasina",
+        "tt@iqtelif": "Toamasina",
         "tt_RU": "Toamasina",
         "twq": "Toamasina",
         "twq_NE": "Toamasina",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Toamasina",
         "zh_Hant_TW": "Toamasina",
         "zu": "Toamasina",
-        "zu_ZA": "Toamasina",
-        "sr@latin": "Toamasina",
-        "tt@iqtelif": "Toamasina"
+        "zu_ZA": "Toamasina"
     },
     "D": {
         "af": "Antsiranana",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Antsiranana",
         "sq_XK": "Antsiranana",
         "sr": "Антсиранана",
+        "sr@latin": "Antsiranana",
         "sr_Cyrl": "Антсиранана",
         "sr_Cyrl_BA": "Антсиранана",
         "sr_Cyrl_ME": "Антсиранана",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Antsiranana",
         "tr_TR": "Antsiranana",
         "tt": "Antsiranana",
+        "tt@iqtelif": "Antsiranana",
         "tt_RU": "Antsiranana",
         "twq": "Antsiranana",
         "twq_NE": "Antsiranana",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Antsiranana",
         "zh_Hant_TW": "Antsiranana",
         "zu": "Antsiranana",
-        "zu_ZA": "Antsiranana",
-        "sr@latin": "Antsiranana",
-        "tt@iqtelif": "Antsiranana"
+        "zu_ZA": "Antsiranana"
     },
     "F": {
         "af": "Fianarantsoa",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Fianarantsoa",
         "sq_XK": "Fianarantsoa",
         "sr": "Fianarantsoa",
+        "sr@latin": "Fianarantsoa",
         "sr_Cyrl": "Fianarantsoa",
         "sr_Cyrl_BA": "Fianarantsoa",
         "sr_Cyrl_ME": "Fianarantsoa",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Fianarantsoa",
         "tr_TR": "Fianarantsoa",
         "tt": "Fianarantsoa",
+        "tt@iqtelif": "Fianarantsoa",
         "tt_RU": "Fianarantsoa",
         "twq": "Fianarantsoa",
         "twq_NE": "Fianarantsoa",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Fianarantsoa",
         "zh_Hant_TW": "Fianarantsoa",
         "zu": "Fianarantsoa",
-        "zu_ZA": "Fianarantsoa",
-        "sr@latin": "Fianarantsoa",
-        "tt@iqtelif": "Fianarantsoa"
+        "zu_ZA": "Fianarantsoa"
     },
     "M": {
         "af": "Mahajanga",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Mahajanga",
         "sq_XK": "Mahajanga",
         "sr": "Махаџанга",
+        "sr@latin": "Mahadžanga",
         "sr_Cyrl": "Махаџанга",
         "sr_Cyrl_BA": "Махаџанга",
         "sr_Cyrl_ME": "Махаџанга",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Mahajanga",
         "tr_TR": "Mahajanga",
         "tt": "Mahajanga",
+        "tt@iqtelif": "Mahajanga",
         "tt_RU": "Mahajanga",
         "twq": "Mahajanga",
         "twq_NE": "Mahajanga",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Mahajanga",
         "zh_Hant_TW": "Mahajanga",
         "zu": "Mahajanga",
-        "zu_ZA": "Mahajanga",
-        "sr@latin": "Mahadžanga",
-        "tt@iqtelif": "Mahajanga"
+        "zu_ZA": "Mahajanga"
     },
     "T": {
         "af": "Antananarivo",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Antananarivo",
         "sq_XK": "Antananarivo",
         "sr": "Антананариво",
+        "sr@latin": "Antananarivo",
         "sr_Cyrl": "Антананариво",
         "sr_Cyrl_BA": "Антананариво",
         "sr_Cyrl_ME": "Антананариво",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Antananarivo",
         "tr_TR": "Antananarivo",
         "tt": "Antananarivo",
+        "tt@iqtelif": "Antananarivo",
         "tt_RU": "Antananarivo",
         "twq": "Antananarivo",
         "twq_NE": "Antananarivo",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Antananarivo",
         "zh_Hant_TW": "Antananarivo",
         "zu": "Antananarivo",
-        "zu_ZA": "Antananarivo",
-        "sr@latin": "Antananarivo",
-        "tt@iqtelif": "Antananarivo"
+        "zu_ZA": "Antananarivo"
     },
     "U": {
         "af": "Toliara",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Toliara",
         "sq_XK": "Toliara",
         "sr": "Toliara",
+        "sr@latin": "Toliara",
         "sr_Cyrl": "Toliara",
         "sr_Cyrl_BA": "Toliara",
         "sr_Cyrl_ME": "Toliara",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Toliara",
         "tr_TR": "Toliara",
         "tt": "Toliara",
+        "tt@iqtelif": "Toliara",
         "tt_RU": "Toliara",
         "twq": "Toliara",
         "twq_NE": "Toliara",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Toliara",
         "zh_Hant_TW": "Toliara",
         "zu": "Toliara",
-        "zu_ZA": "Toliara",
-        "sr@latin": "Toliara",
-        "tt@iqtelif": "Toliara"
+        "zu_ZA": "Toliara"
     }
 }

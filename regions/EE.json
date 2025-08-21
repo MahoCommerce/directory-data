@@ -743,6 +743,7 @@
         "sq_MK": "Harjumaa",
         "sq_XK": "Harjumaa",
         "sr": "Харџума",
+        "sr@latin": "Hardžuma",
         "sr_Cyrl": "Харџума",
         "sr_Cyrl_BA": "Харџума",
         "sr_Cyrl_ME": "Харџума",
@@ -803,6 +804,7 @@
         "tr_CY": "Harjumaa",
         "tr_TR": "Harjumaa",
         "tt": "Harjumaa",
+        "tt@iqtelif": "Harjumaa",
         "tt_RU": "Harjumaa",
         "twq": "Harjumaa",
         "twq_NE": "Harjumaa",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Harjumaa",
         "zh_Hant_TW": "Harjumaa",
         "zu": "Harjumaa",
-        "zu_ZA": "Harjumaa",
-        "sr@latin": "Hardžuma",
-        "tt@iqtelif": "Harjumaa"
+        "zu_ZA": "Harjumaa"
     },
     "39": {
         "af": "Hiiumaa",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Hiiumaa",
         "sq_XK": "Hiiumaa",
         "sr": "Хјума",
+        "sr@latin": "Hjuma",
         "sr_Cyrl": "Хјума",
         "sr_Cyrl_BA": "Хјума",
         "sr_Cyrl_ME": "Хјума",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Hiiumaa",
         "tr_TR": "Hiiumaa",
         "tt": "Hiiumaa",
+        "tt@iqtelif": "Hiiumaa",
         "tt_RU": "Hiiumaa",
         "twq": "Hiiumaa",
         "twq_NE": "Hiiumaa",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Hiiumaa",
         "zh_Hant_TW": "Hiiumaa",
         "zu": "Hiiumaa",
-        "zu_ZA": "Hiiumaa",
-        "sr@latin": "Hjuma",
-        "tt@iqtelif": "Hiiumaa"
+        "zu_ZA": "Hiiumaa"
     },
     "45": {
         "af": "Ida-Virumaa",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Ida-Virumaa",
         "sq_XK": "Ida-Virumaa",
         "sr": "Ида-Вирума",
+        "sr@latin": "Ida-Viruma",
         "sr_Cyrl": "Ида-Вирума",
         "sr_Cyrl_BA": "Ида-Вирума",
         "sr_Cyrl_ME": "Ида-Вирума",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Ida-Virumaa",
         "tr_TR": "Ida-Virumaa",
         "tt": "Ida-Virumaa",
+        "tt@iqtelif": "Ida-Virumaa",
         "tt_RU": "Ida-Virumaa",
         "twq": "Ida-Virumaa",
         "twq_NE": "Ida-Virumaa",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Ida-Virumaa",
         "zh_Hant_TW": "Ida-Virumaa",
         "zu": "Ida-Virumaa",
-        "zu_ZA": "Ida-Virumaa",
-        "sr@latin": "Ida-Viruma",
-        "tt@iqtelif": "Ida-Virumaa"
+        "zu_ZA": "Ida-Virumaa"
     },
     "50": {
         "af": "Jõgevamaa",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Jõgevamaa",
         "sq_XK": "Jõgevamaa",
         "sr": "Jõgevamaa",
+        "sr@latin": "Jõgevamaa",
         "sr_Cyrl": "Jõgevamaa",
         "sr_Cyrl_BA": "Jõgevamaa",
         "sr_Cyrl_ME": "Jõgevamaa",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Jõgevamaa",
         "tr_TR": "Jõgevamaa",
         "tt": "Jõgevamaa",
+        "tt@iqtelif": "Jõgevamaa",
         "tt_RU": "Jõgevamaa",
         "twq": "Jõgevamaa",
         "twq_NE": "Jõgevamaa",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Jõgevamaa",
         "zh_Hant_TW": "Jõgevamaa",
         "zu": "Jõgevamaa",
-        "zu_ZA": "Jõgevamaa",
-        "sr@latin": "Jõgevamaa",
-        "tt@iqtelif": "Jõgevamaa"
+        "zu_ZA": "Jõgevamaa"
     },
     "52": {
         "af": "Järvamaa",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Järvamaa",
         "sq_XK": "Järvamaa",
         "sr": "Џарвама",
+        "sr@latin": "Džarvama",
         "sr_Cyrl": "Џарвама",
         "sr_Cyrl_BA": "Џарвама",
         "sr_Cyrl_ME": "Џарвама",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Jarvamaa",
         "tr_TR": "Jarvamaa",
         "tt": "Järvamaa",
+        "tt@iqtelif": "Järvamaa",
         "tt_RU": "Järvamaa",
         "twq": "Järvamaa",
         "twq_NE": "Järvamaa",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Järvamaa",
         "zh_Hant_TW": "Järvamaa",
         "zu": "Järvamaa",
-        "zu_ZA": "Järvamaa",
-        "sr@latin": "Džarvama",
-        "tt@iqtelif": "Järvamaa"
+        "zu_ZA": "Järvamaa"
     },
     "56": {
         "af": "Läänemaa",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Läänemaa",
         "sq_XK": "Läänemaa",
         "sr": "Läänemaa",
+        "sr@latin": "Läänemaa",
         "sr_Cyrl": "Läänemaa",
         "sr_Cyrl_BA": "Läänemaa",
         "sr_Cyrl_ME": "Läänemaa",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Läänemaa",
         "tr_TR": "Läänemaa",
         "tt": "Läänemaa",
+        "tt@iqtelif": "Läänemaa",
         "tt_RU": "Läänemaa",
         "twq": "Läänemaa",
         "twq_NE": "Läänemaa",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Läänemaa",
         "zh_Hant_TW": "Läänemaa",
         "zu": "Läänemaa",
-        "zu_ZA": "Läänemaa",
-        "sr@latin": "Läänemaa",
-        "tt@iqtelif": "Läänemaa"
+        "zu_ZA": "Läänemaa"
     },
     "60": {
         "af": "Lääne-Virumaa",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Lääne-Virumaa",
         "sq_XK": "Lääne-Virumaa",
         "sr": "Lääne-Virumaa",
+        "sr@latin": "Lääne-Virumaa",
         "sr_Cyrl": "Lääne-Virumaa",
         "sr_Cyrl_BA": "Lääne-Virumaa",
         "sr_Cyrl_ME": "Lääne-Virumaa",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Lääne-Virumaa",
         "tr_TR": "Lääne-Virumaa",
         "tt": "Lääne-Virumaa",
+        "tt@iqtelif": "Lääne-Virumaa",
         "tt_RU": "Lääne-Virumaa",
         "twq": "Lääne-Virumaa",
         "twq_NE": "Lääne-Virumaa",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Lääne-Virumaa",
         "zh_Hant_TW": "Lääne-Virumaa",
         "zu": "Lääne-Virumaa",
-        "zu_ZA": "Lääne-Virumaa",
-        "sr@latin": "Lääne-Virumaa",
-        "tt@iqtelif": "Lääne-Virumaa"
+        "zu_ZA": "Lääne-Virumaa"
     },
     "64": {
         "af": "Põlvamaa",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Põlvamaa",
         "sq_XK": "Põlvamaa",
         "sr": "Полвама",
+        "sr@latin": "Polvama",
         "sr_Cyrl": "Полвама",
         "sr_Cyrl_BA": "Полвама",
         "sr_Cyrl_ME": "Полвама",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Põlvamaa",
         "tr_TR": "Põlvamaa",
         "tt": "Põlvamaa",
+        "tt@iqtelif": "Põlvamaa",
         "tt_RU": "Põlvamaa",
         "twq": "Põlvamaa",
         "twq_NE": "Põlvamaa",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Põlvamaa",
         "zh_Hant_TW": "Põlvamaa",
         "zu": "Põlvamaa",
-        "zu_ZA": "Põlvamaa",
-        "sr@latin": "Polvama",
-        "tt@iqtelif": "Põlvamaa"
+        "zu_ZA": "Põlvamaa"
     },
     "68": {
         "af": "Pärnumaa",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Pärnumaa",
         "sq_XK": "Pärnumaa",
         "sr": "Парнума",
+        "sr@latin": "Parnuma",
         "sr_Cyrl": "Парнума",
         "sr_Cyrl_BA": "Парнума",
         "sr_Cyrl_ME": "Парнума",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Parnumaa",
         "tr_TR": "Parnumaa",
         "tt": "Pärnumaa",
+        "tt@iqtelif": "Pärnumaa",
         "tt_RU": "Pärnumaa",
         "twq": "Pärnumaa",
         "twq_NE": "Pärnumaa",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Pärnumaa",
         "zh_Hant_TW": "Pärnumaa",
         "zu": "Pärnumaa",
-        "zu_ZA": "Pärnumaa",
-        "sr@latin": "Parnuma",
-        "tt@iqtelif": "Pärnumaa"
+        "zu_ZA": "Pärnumaa"
     },
     "71": {
         "af": "Raplamaa",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Raplamaa",
         "sq_XK": "Raplamaa",
         "sr": "Раплама",
+        "sr@latin": "Raplama",
         "sr_Cyrl": "Раплама",
         "sr_Cyrl_BA": "Раплама",
         "sr_Cyrl_ME": "Раплама",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Raplamaa",
         "tr_TR": "Raplamaa",
         "tt": "Raplamaa",
+        "tt@iqtelif": "Raplamaa",
         "tt_RU": "Raplamaa",
         "twq": "Raplamaa",
         "twq_NE": "Raplamaa",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Raplamaa",
         "zh_Hant_TW": "Raplamaa",
         "zu": "Raplamaa",
-        "zu_ZA": "Raplamaa",
-        "sr@latin": "Raplama",
-        "tt@iqtelif": "Raplamaa"
+        "zu_ZA": "Raplamaa"
     },
     "74": {
         "af": "Saaremaa",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Saaremaa",
         "sq_XK": "Saaremaa",
         "sr": "Saaremaa",
+        "sr@latin": "Saaremaa",
         "sr_Cyrl": "Saaremaa",
         "sr_Cyrl_BA": "Saaremaa",
         "sr_Cyrl_ME": "Saaremaa",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Saaremaa",
         "tr_TR": "Saaremaa",
         "tt": "Saaremaa",
+        "tt@iqtelif": "Saaremaa",
         "tt_RU": "Saaremaa",
         "twq": "Saaremaa",
         "twq_NE": "Saaremaa",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Saaremaa",
         "zh_Hant_TW": "Saaremaa",
         "zu": "Saaremaa",
-        "zu_ZA": "Saaremaa",
-        "sr@latin": "Saaremaa",
-        "tt@iqtelif": "Saaremaa"
+        "zu_ZA": "Saaremaa"
     },
     "79": {
         "af": "Tartumaa",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Tartumaa",
         "sq_XK": "Tartumaa",
         "sr": "Тартума",
+        "sr@latin": "Tartuma",
         "sr_Cyrl": "Тартума",
         "sr_Cyrl_BA": "Тартума",
         "sr_Cyrl_ME": "Тартума",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Tartumaa",
         "tr_TR": "Tartumaa",
         "tt": "Tartumaa",
+        "tt@iqtelif": "Tartumaa",
         "tt_RU": "Tartumaa",
         "twq": "Tartumaa",
         "twq_NE": "Tartumaa",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Tartumaa",
         "zh_Hant_TW": "Tartumaa",
         "zu": "Tartumaa",
-        "zu_ZA": "Tartumaa",
-        "sr@latin": "Tartuma",
-        "tt@iqtelif": "Tartumaa"
+        "zu_ZA": "Tartumaa"
     },
     "81": {
         "af": "Valgamaa",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Valgamaa",
         "sq_XK": "Valgamaa",
         "sr": "Валгама",
+        "sr@latin": "Valgama",
         "sr_Cyrl": "Валгама",
         "sr_Cyrl_BA": "Валгама",
         "sr_Cyrl_ME": "Валгама",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Valgamaa",
         "tr_TR": "Valgamaa",
         "tt": "Valgamaa",
+        "tt@iqtelif": "Valgamaa",
         "tt_RU": "Valgamaa",
         "twq": "Valgamaa",
         "twq_NE": "Valgamaa",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Valgamaa",
         "zh_Hant_TW": "Valgamaa",
         "zu": "Valgamaa",
-        "zu_ZA": "Valgamaa",
-        "sr@latin": "Valgama",
-        "tt@iqtelif": "Valgamaa"
+        "zu_ZA": "Valgamaa"
     },
     "84": {
         "af": "Viljandimaa",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Viljandimaa",
         "sq_XK": "Viljandimaa",
         "sr": "Виљандима",
+        "sr@latin": "Viljandima",
         "sr_Cyrl": "Виљандима",
         "sr_Cyrl_BA": "Виљандима",
         "sr_Cyrl_ME": "Виљандима",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Viljandimaa",
         "tr_TR": "Viljandimaa",
         "tt": "Viljandimaa",
+        "tt@iqtelif": "Viljandimaa",
         "tt_RU": "Viljandimaa",
         "twq": "Viljandimaa",
         "twq_NE": "Viljandimaa",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Viljandimaa",
         "zh_Hant_TW": "Viljandimaa",
         "zu": "Viljandimaa",
-        "zu_ZA": "Viljandimaa",
-        "sr@latin": "Viljandima",
-        "tt@iqtelif": "Viljandimaa"
+        "zu_ZA": "Viljandimaa"
     },
     "87": {
         "af": "Võrumaa",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Võrumaa",
         "sq_XK": "Võrumaa",
         "sr": "Ворума",
+        "sr@latin": "Voruma",
         "sr_Cyrl": "Ворума",
         "sr_Cyrl_BA": "Ворума",
         "sr_Cyrl_ME": "Ворума",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Vorumaa",
         "tr_TR": "Vorumaa",
         "tt": "Võrumaa",
+        "tt@iqtelif": "Võrumaa",
         "tt_RU": "Võrumaa",
         "twq": "Võrumaa",
         "twq_NE": "Võrumaa",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Võrumaa",
         "zh_Hant_TW": "Võrumaa",
         "zu": "Võrumaa",
-        "zu_ZA": "Võrumaa",
-        "sr@latin": "Voruma",
-        "tt@iqtelif": "Võrumaa"
+        "zu_ZA": "Võrumaa"
     },
     "130": {
         "af": "Alutaguse",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Alutaguse",
         "sq_XK": "Alutaguse",
         "sr": "Alutaguse",
+        "sr@latin": "Alutaguse",
         "sr_Cyrl": "Alutaguse",
         "sr_Cyrl_BA": "Alutaguse",
         "sr_Cyrl_ME": "Alutaguse",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Alutaguse",
         "tr_TR": "Alutaguse",
         "tt": "Alutaguse",
+        "tt@iqtelif": "Alutaguse",
         "tt_RU": "Alutaguse",
         "twq": "Alutaguse",
         "twq_NE": "Alutaguse",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Alutaguse",
         "zh_Hant_TW": "Alutaguse",
         "zu": "Alutaguse",
-        "zu_ZA": "Alutaguse",
-        "sr@latin": "Alutaguse",
-        "tt@iqtelif": "Alutaguse"
+        "zu_ZA": "Alutaguse"
     },
     "141": {
         "af": "Anija",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Anija",
         "sq_XK": "Anija",
         "sr": "Anija",
+        "sr@latin": "Anija",
         "sr_Cyrl": "Anija",
         "sr_Cyrl_BA": "Anija",
         "sr_Cyrl_ME": "Anija",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Anija",
         "tr_TR": "Anija",
         "tt": "Anija",
+        "tt@iqtelif": "Anija",
         "tt_RU": "Anija",
         "twq": "Anija",
         "twq_NE": "Anija",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Anija",
         "zh_Hant_TW": "Anija",
         "zu": "Anija",
-        "zu_ZA": "Anija",
-        "sr@latin": "Anija",
-        "tt@iqtelif": "Anija"
+        "zu_ZA": "Anija"
     },
     "142": {
         "af": "Antsla",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Antsla",
         "sq_XK": "Antsla",
         "sr": "Antsla",
+        "sr@latin": "Antsla",
         "sr_Cyrl": "Antsla",
         "sr_Cyrl_BA": "Antsla",
         "sr_Cyrl_ME": "Antsla",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Antsla",
         "tr_TR": "Antsla",
         "tt": "Antsla",
+        "tt@iqtelif": "Antsla",
         "tt_RU": "Antsla",
         "twq": "Antsla",
         "twq_NE": "Antsla",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Antsla",
         "zh_Hant_TW": "Antsla",
         "zu": "Antsla",
-        "zu_ZA": "Antsla",
-        "sr@latin": "Antsla",
-        "tt@iqtelif": "Antsla"
+        "zu_ZA": "Antsla"
     },
     "171": {
         "af": "Elva",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Elva",
         "sq_XK": "Elva",
         "sr": "Elva",
+        "sr@latin": "Elva",
         "sr_Cyrl": "Elva",
         "sr_Cyrl_BA": "Elva",
         "sr_Cyrl_ME": "Elva",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Elva",
         "tr_TR": "Elva",
         "tt": "Elva",
+        "tt@iqtelif": "Elva",
         "tt_RU": "Elva",
         "twq": "Elva",
         "twq_NE": "Elva",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Elva",
         "zh_Hant_TW": "Elva",
         "zu": "Elva",
-        "zu_ZA": "Elva",
-        "sr@latin": "Elva",
-        "tt@iqtelif": "Elva"
+        "zu_ZA": "Elva"
     },
     "184": {
         "af": "Haapsalu",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Haapsalu",
         "sq_XK": "Haapsalu",
         "sr": "Haapsalu",
+        "sr@latin": "Haapsalu",
         "sr_Cyrl": "Haapsalu",
         "sr_Cyrl_BA": "Haapsalu",
         "sr_Cyrl_ME": "Haapsalu",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Haapsalu",
         "tr_TR": "Haapsalu",
         "tt": "Haapsalu",
+        "tt@iqtelif": "Haapsalu",
         "tt_RU": "Haapsalu",
         "twq": "Haapsalu",
         "twq_NE": "Haapsalu",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Haapsalu",
         "zh_Hant_TW": "Haapsalu",
         "zu": "Haapsalu",
-        "zu_ZA": "Haapsalu",
-        "sr@latin": "Haapsalu",
-        "tt@iqtelif": "Haapsalu"
+        "zu_ZA": "Haapsalu"
     },
     "191": {
         "af": "Haljala",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Haljala",
         "sq_XK": "Haljala",
         "sr": "Haljala",
+        "sr@latin": "Haljala",
         "sr_Cyrl": "Haljala",
         "sr_Cyrl_BA": "Haljala",
         "sr_Cyrl_ME": "Haljala",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Haljala",
         "tr_TR": "Haljala",
         "tt": "Haljala",
+        "tt@iqtelif": "Haljala",
         "tt_RU": "Haljala",
         "twq": "Haljala",
         "twq_NE": "Haljala",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Haljala",
         "zh_Hant_TW": "Haljala",
         "zu": "Haljala",
-        "zu_ZA": "Haljala",
-        "sr@latin": "Haljala",
-        "tt@iqtelif": "Haljala"
+        "zu_ZA": "Haljala"
     },
     "198": {
         "af": "Harku",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Harku",
         "sq_XK": "Harku",
         "sr": "Harku",
+        "sr@latin": "Harku",
         "sr_Cyrl": "Harku",
         "sr_Cyrl_BA": "Harku",
         "sr_Cyrl_ME": "Harku",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Harku",
         "tr_TR": "Harku",
         "tt": "Harku",
+        "tt@iqtelif": "Harku",
         "tt_RU": "Harku",
         "twq": "Harku",
         "twq_NE": "Harku",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Harku",
         "zh_Hant_TW": "Harku",
         "zu": "Harku",
-        "zu_ZA": "Harku",
-        "sr@latin": "Harku",
-        "tt@iqtelif": "Harku"
+        "zu_ZA": "Harku"
     },
     "205": {
         "af": "Hiiumaa",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Hiiumaa",
         "sq_XK": "Hiiumaa",
         "sr": "Хјума",
+        "sr@latin": "Hjuma",
         "sr_Cyrl": "Хјума",
         "sr_Cyrl_BA": "Хјума",
         "sr_Cyrl_ME": "Хјума",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Hiiumaa",
         "tr_TR": "Hiiumaa",
         "tt": "Hiiumaa",
+        "tt@iqtelif": "Hiiumaa",
         "tt_RU": "Hiiumaa",
         "twq": "Hiiumaa",
         "twq_NE": "Hiiumaa",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Hiiumaa",
         "zh_Hant_TW": "Hiiumaa",
         "zu": "Hiiumaa",
-        "zu_ZA": "Hiiumaa",
-        "sr@latin": "Hjuma",
-        "tt@iqtelif": "Hiiumaa"
+        "zu_ZA": "Hiiumaa"
     },
     "214": {
         "af": "Häädemeeste",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Häädemeeste",
         "sq_XK": "Häädemeeste",
         "sr": "Häädemeeste",
+        "sr@latin": "Häädemeeste",
         "sr_Cyrl": "Häädemeeste",
         "sr_Cyrl_BA": "Häädemeeste",
         "sr_Cyrl_ME": "Häädemeeste",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Häädemeeste",
         "tr_TR": "Häädemeeste",
         "tt": "Häädemeeste",
+        "tt@iqtelif": "Häädemeeste",
         "tt_RU": "Häädemeeste",
         "twq": "Häädemeeste",
         "twq_NE": "Häädemeeste",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Häädemeeste",
         "zh_Hant_TW": "Häädemeeste",
         "zu": "Häädemeeste",
-        "zu_ZA": "Häädemeeste",
-        "sr@latin": "Häädemeeste",
-        "tt@iqtelif": "Häädemeeste"
+        "zu_ZA": "Häädemeeste"
     },
     "245": {
         "af": "Jõelähtme",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Jõelähtme",
         "sq_XK": "Jõelähtme",
         "sr": "Jõelähtme",
+        "sr@latin": "Jõelähtme",
         "sr_Cyrl": "Jõelähtme",
         "sr_Cyrl_BA": "Jõelähtme",
         "sr_Cyrl_ME": "Jõelähtme",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Jõelähtme",
         "tr_TR": "Jõelähtme",
         "tt": "Jõelähtme",
+        "tt@iqtelif": "Jõelähtme",
         "tt_RU": "Jõelähtme",
         "twq": "Jõelähtme",
         "twq_NE": "Jõelähtme",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Jõelähtme",
         "zh_Hant_TW": "Jõelähtme",
         "zu": "Jõelähtme",
-        "zu_ZA": "Jõelähtme",
-        "sr@latin": "Jõelähtme",
-        "tt@iqtelif": "Jõelähtme"
+        "zu_ZA": "Jõelähtme"
     },
     "247": {
         "af": "Jõgeva",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Jõgeva",
         "sq_XK": "Jõgeva",
         "sr": "Jõgeva",
+        "sr@latin": "Jõgeva",
         "sr_Cyrl": "Jõgeva",
         "sr_Cyrl_BA": "Jõgeva",
         "sr_Cyrl_ME": "Jõgeva",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Jõgeva",
         "tr_TR": "Jõgeva",
         "tt": "Jõgeva",
+        "tt@iqtelif": "Jõgeva",
         "tt_RU": "Jõgeva",
         "twq": "Jõgeva",
         "twq_NE": "Jõgeva",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Jõgeva",
         "zh_Hant_TW": "Jõgeva",
         "zu": "Jõgeva",
-        "zu_ZA": "Jõgeva",
-        "sr@latin": "Jõgeva",
-        "tt@iqtelif": "Jõgeva"
+        "zu_ZA": "Jõgeva"
     },
     "251": {
         "af": "Jõhvi",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Jõhvi",
         "sq_XK": "Jõhvi",
         "sr": "Jõhvi",
+        "sr@latin": "Jõhvi",
         "sr_Cyrl": "Jõhvi",
         "sr_Cyrl_BA": "Jõhvi",
         "sr_Cyrl_ME": "Jõhvi",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Jõhvi",
         "tr_TR": "Jõhvi",
         "tt": "Jõhvi",
+        "tt@iqtelif": "Jõhvi",
         "tt_RU": "Jõhvi",
         "twq": "Jõhvi",
         "twq_NE": "Jõhvi",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Jõhvi",
         "zh_Hant_TW": "Jõhvi",
         "zu": "Jõhvi",
-        "zu_ZA": "Jõhvi",
-        "sr@latin": "Jõhvi",
-        "tt@iqtelif": "Jõhvi"
+        "zu_ZA": "Jõhvi"
     },
     "255": {
         "af": "Järva",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Järva",
         "sq_XK": "Järva",
         "sr": "Järva",
+        "sr@latin": "Järva",
         "sr_Cyrl": "Järva",
         "sr_Cyrl_BA": "Järva",
         "sr_Cyrl_ME": "Järva",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Järva",
         "tr_TR": "Järva",
         "tt": "Järva",
+        "tt@iqtelif": "Järva",
         "tt_RU": "Järva",
         "twq": "Järva",
         "twq_NE": "Järva",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Järva",
         "zh_Hant_TW": "Järva",
         "zu": "Järva",
-        "zu_ZA": "Järva",
-        "sr@latin": "Järva",
-        "tt@iqtelif": "Järva"
+        "zu_ZA": "Järva"
     },
     "272": {
         "af": "Kadrina",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Kadrina",
         "sq_XK": "Kadrina",
         "sr": "Kadrina",
+        "sr@latin": "Kadrina",
         "sr_Cyrl": "Kadrina",
         "sr_Cyrl_BA": "Kadrina",
         "sr_Cyrl_ME": "Kadrina",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Kadrina",
         "tr_TR": "Kadrina",
         "tt": "Kadrina",
+        "tt@iqtelif": "Kadrina",
         "tt_RU": "Kadrina",
         "twq": "Kadrina",
         "twq_NE": "Kadrina",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Kadrina",
         "zh_Hant_TW": "Kadrina",
         "zu": "Kadrina",
-        "zu_ZA": "Kadrina",
-        "sr@latin": "Kadrina",
-        "tt@iqtelif": "Kadrina"
+        "zu_ZA": "Kadrina"
     },
     "283": {
         "af": "Kambja",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Kambja",
         "sq_XK": "Kambja",
         "sr": "Kambja",
+        "sr@latin": "Kambja",
         "sr_Cyrl": "Kambja",
         "sr_Cyrl_BA": "Kambja",
         "sr_Cyrl_ME": "Kambja",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Kambja",
         "tr_TR": "Kambja",
         "tt": "Kambja",
+        "tt@iqtelif": "Kambja",
         "tt_RU": "Kambja",
         "twq": "Kambja",
         "twq_NE": "Kambja",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Kambja",
         "zh_Hant_TW": "Kambja",
         "zu": "Kambja",
-        "zu_ZA": "Kambja",
-        "sr@latin": "Kambja",
-        "tt@iqtelif": "Kambja"
+        "zu_ZA": "Kambja"
     },
     "284": {
         "af": "Kanepi",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Kanepi",
         "sq_XK": "Kanepi",
         "sr": "Kanepi",
+        "sr@latin": "Kanepi",
         "sr_Cyrl": "Kanepi",
         "sr_Cyrl_BA": "Kanepi",
         "sr_Cyrl_ME": "Kanepi",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Kanepi",
         "tr_TR": "Kanepi",
         "tt": "Kanepi",
+        "tt@iqtelif": "Kanepi",
         "tt_RU": "Kanepi",
         "twq": "Kanepi",
         "twq_NE": "Kanepi",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Kanepi",
         "zh_Hant_TW": "Kanepi",
         "zu": "Kanepi",
-        "zu_ZA": "Kanepi",
-        "sr@latin": "Kanepi",
-        "tt@iqtelif": "Kanepi"
+        "zu_ZA": "Kanepi"
     },
     "291": {
         "af": "Kastre",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Kastre",
         "sq_XK": "Kastre",
         "sr": "Kastre",
+        "sr@latin": "Kastre",
         "sr_Cyrl": "Kastre",
         "sr_Cyrl_BA": "Kastre",
         "sr_Cyrl_ME": "Kastre",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Kastre",
         "tr_TR": "Kastre",
         "tt": "Kastre",
+        "tt@iqtelif": "Kastre",
         "tt_RU": "Kastre",
         "twq": "Kastre",
         "twq_NE": "Kastre",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Kastre",
         "zh_Hant_TW": "Kastre",
         "zu": "Kastre",
-        "zu_ZA": "Kastre",
-        "sr@latin": "Kastre",
-        "tt@iqtelif": "Kastre"
+        "zu_ZA": "Kastre"
     },
     "293": {
         "af": "Kehtna",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Kehtna",
         "sq_XK": "Kehtna",
         "sr": "Kehtna",
+        "sr@latin": "Kehtna",
         "sr_Cyrl": "Kehtna",
         "sr_Cyrl_BA": "Kehtna",
         "sr_Cyrl_ME": "Kehtna",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Kehtna",
         "tr_TR": "Kehtna",
         "tt": "Kehtna",
+        "tt@iqtelif": "Kehtna",
         "tt_RU": "Kehtna",
         "twq": "Kehtna",
         "twq_NE": "Kehtna",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Kehtna",
         "zh_Hant_TW": "Kehtna",
         "zu": "Kehtna",
-        "zu_ZA": "Kehtna",
-        "sr@latin": "Kehtna",
-        "tt@iqtelif": "Kehtna"
+        "zu_ZA": "Kehtna"
     },
     "296": {
         "af": "Keila",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Keila",
         "sq_XK": "Keila",
         "sr": "Keila",
+        "sr@latin": "Keila",
         "sr_Cyrl": "Keila",
         "sr_Cyrl_BA": "Keila",
         "sr_Cyrl_ME": "Keila",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Keila",
         "tr_TR": "Keila",
         "tt": "Keila",
+        "tt@iqtelif": "Keila",
         "tt_RU": "Keila",
         "twq": "Keila",
         "twq_NE": "Keila",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Keila",
         "zh_Hant_TW": "Keila",
         "zu": "Keila",
-        "zu_ZA": "Keila",
-        "sr@latin": "Keila",
-        "tt@iqtelif": "Keila"
+        "zu_ZA": "Keila"
     },
     "303": {
         "af": "Kihnu",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Kihnu",
         "sq_XK": "Kihnu",
         "sr": "Kihnu",
+        "sr@latin": "Kihnu",
         "sr_Cyrl": "Kihnu",
         "sr_Cyrl_BA": "Kihnu",
         "sr_Cyrl_ME": "Kihnu",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Kihnu",
         "tr_TR": "Kihnu",
         "tt": "Kihnu",
+        "tt@iqtelif": "Kihnu",
         "tt_RU": "Kihnu",
         "twq": "Kihnu",
         "twq_NE": "Kihnu",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Kihnu",
         "zh_Hant_TW": "Kihnu",
         "zu": "Kihnu",
-        "zu_ZA": "Kihnu",
-        "sr@latin": "Kihnu",
-        "tt@iqtelif": "Kihnu"
+        "zu_ZA": "Kihnu"
     },
     "305": {
         "af": "Kiili",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Kiili",
         "sq_XK": "Kiili",
         "sr": "Kiili",
+        "sr@latin": "Kiili",
         "sr_Cyrl": "Kiili",
         "sr_Cyrl_BA": "Kiili",
         "sr_Cyrl_ME": "Kiili",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Kiili",
         "tr_TR": "Kiili",
         "tt": "Kiili",
+        "tt@iqtelif": "Kiili",
         "tt_RU": "Kiili",
         "twq": "Kiili",
         "twq_NE": "Kiili",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Kiili",
         "zh_Hant_TW": "Kiili",
         "zu": "Kiili",
-        "zu_ZA": "Kiili",
-        "sr@latin": "Kiili",
-        "tt@iqtelif": "Kiili"
+        "zu_ZA": "Kiili"
     },
     "317": {
         "af": "Kohila",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Kohila",
         "sq_XK": "Kohila",
         "sr": "Kohila",
+        "sr@latin": "Kohila",
         "sr_Cyrl": "Kohila",
         "sr_Cyrl_BA": "Kohila",
         "sr_Cyrl_ME": "Kohila",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Kohila",
         "tr_TR": "Kohila",
         "tt": "Kohila",
+        "tt@iqtelif": "Kohila",
         "tt_RU": "Kohila",
         "twq": "Kohila",
         "twq_NE": "Kohila",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Kohila",
         "zh_Hant_TW": "Kohila",
         "zu": "Kohila",
-        "zu_ZA": "Kohila",
-        "sr@latin": "Kohila",
-        "tt@iqtelif": "Kohila"
+        "zu_ZA": "Kohila"
     },
     "321": {
         "af": "Kohtla-Järve",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Kohtla-Järve",
         "sq_XK": "Kohtla-Järve",
         "sr": "Kohtla-Järve",
+        "sr@latin": "Kohtla-Järve",
         "sr_Cyrl": "Kohtla-Järve",
         "sr_Cyrl_BA": "Kohtla-Järve",
         "sr_Cyrl_ME": "Kohtla-Järve",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Kohtla-Järve",
         "tr_TR": "Kohtla-Järve",
         "tt": "Kohtla-Järve",
+        "tt@iqtelif": "Kohtla-Järve",
         "tt_RU": "Kohtla-Järve",
         "twq": "Kohtla-Järve",
         "twq_NE": "Kohtla-Järve",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Kohtla-Järve",
         "zh_Hant_TW": "Kohtla-Järve",
         "zu": "Kohtla-Järve",
-        "zu_ZA": "Kohtla-Järve",
-        "sr@latin": "Kohtla-Järve",
-        "tt@iqtelif": "Kohtla-Järve"
+        "zu_ZA": "Kohtla-Järve"
     },
     "338": {
         "af": "Kose",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Kose",
         "sq_XK": "Kose",
         "sr": "Kose",
+        "sr@latin": "Kose",
         "sr_Cyrl": "Kose",
         "sr_Cyrl_BA": "Kose",
         "sr_Cyrl_ME": "Kose",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Kose",
         "tr_TR": "Kose",
         "tt": "Kose",
+        "tt@iqtelif": "Kose",
         "tt_RU": "Kose",
         "twq": "Kose",
         "twq_NE": "Kose",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Kose",
         "zh_Hant_TW": "Kose",
         "zu": "Kose",
-        "zu_ZA": "Kose",
-        "sr@latin": "Kose",
-        "tt@iqtelif": "Kose"
+        "zu_ZA": "Kose"
     },
     "353": {
         "af": "Kuusalu",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Kuusalu",
         "sq_XK": "Kuusalu",
         "sr": "Kuusalu",
+        "sr@latin": "Kuusalu",
         "sr_Cyrl": "Kuusalu",
         "sr_Cyrl_BA": "Kuusalu",
         "sr_Cyrl_ME": "Kuusalu",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Kuusalu",
         "tr_TR": "Kuusalu",
         "tt": "Kuusalu",
+        "tt@iqtelif": "Kuusalu",
         "tt_RU": "Kuusalu",
         "twq": "Kuusalu",
         "twq_NE": "Kuusalu",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Kuusalu",
         "zh_Hant_TW": "Kuusalu",
         "zu": "Kuusalu",
-        "zu_ZA": "Kuusalu",
-        "sr@latin": "Kuusalu",
-        "tt@iqtelif": "Kuusalu"
+        "zu_ZA": "Kuusalu"
     },
     "424": {
         "af": "Loksa",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Loksa",
         "sq_XK": "Loksa",
         "sr": "Loksa",
+        "sr@latin": "Loksa",
         "sr_Cyrl": "Loksa",
         "sr_Cyrl_BA": "Loksa",
         "sr_Cyrl_ME": "Loksa",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Loksa",
         "tr_TR": "Loksa",
         "tt": "Loksa",
+        "tt@iqtelif": "Loksa",
         "tt_RU": "Loksa",
         "twq": "Loksa",
         "twq_NE": "Loksa",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Loksa",
         "zh_Hant_TW": "Loksa",
         "zu": "Loksa",
-        "zu_ZA": "Loksa",
-        "sr@latin": "Loksa",
-        "tt@iqtelif": "Loksa"
+        "zu_ZA": "Loksa"
     },
     "430": {
         "af": "Lääneranna",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Lääneranna",
         "sq_XK": "Lääneranna",
         "sr": "Lääneranna",
+        "sr@latin": "Lääneranna",
         "sr_Cyrl": "Lääneranna",
         "sr_Cyrl_BA": "Lääneranna",
         "sr_Cyrl_ME": "Lääneranna",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Lääneranna",
         "tr_TR": "Lääneranna",
         "tt": "Lääneranna",
+        "tt@iqtelif": "Lääneranna",
         "tt_RU": "Lääneranna",
         "twq": "Lääneranna",
         "twq_NE": "Lääneranna",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Lääneranna",
         "zh_Hant_TW": "Lääneranna",
         "zu": "Lääneranna",
-        "zu_ZA": "Lääneranna",
-        "sr@latin": "Lääneranna",
-        "tt@iqtelif": "Lääneranna"
+        "zu_ZA": "Lääneranna"
     },
     "431": {
         "af": "Lääne-Harju",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Lääne-Harju",
         "sq_XK": "Lääne-Harju",
         "sr": "Lääne-Harju",
+        "sr@latin": "Lääne-Harju",
         "sr_Cyrl": "Lääne-Harju",
         "sr_Cyrl_BA": "Lääne-Harju",
         "sr_Cyrl_ME": "Lääne-Harju",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Lääne-Harju",
         "tr_TR": "Lääne-Harju",
         "tt": "Lääne-Harju",
+        "tt@iqtelif": "Lääne-Harju",
         "tt_RU": "Lääne-Harju",
         "twq": "Lääne-Harju",
         "twq_NE": "Lääne-Harju",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Lääne-Harju",
         "zh_Hant_TW": "Lääne-Harju",
         "zu": "Lääne-Harju",
-        "zu_ZA": "Lääne-Harju",
-        "sr@latin": "Lääne-Harju",
-        "tt@iqtelif": "Lääne-Harju"
+        "zu_ZA": "Lääne-Harju"
     },
     "432": {
         "af": "Luunja",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Luunja",
         "sq_XK": "Luunja",
         "sr": "Luunja",
+        "sr@latin": "Luunja",
         "sr_Cyrl": "Luunja",
         "sr_Cyrl_BA": "Luunja",
         "sr_Cyrl_ME": "Luunja",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Luunja",
         "tr_TR": "Luunja",
         "tt": "Luunja",
+        "tt@iqtelif": "Luunja",
         "tt_RU": "Luunja",
         "twq": "Luunja",
         "twq_NE": "Luunja",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Luunja",
         "zh_Hant_TW": "Luunja",
         "zu": "Luunja",
-        "zu_ZA": "Luunja",
-        "sr@latin": "Luunja",
-        "tt@iqtelif": "Luunja"
+        "zu_ZA": "Luunja"
     },
     "441": {
         "af": "Lääne-Nigula",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Lääne-Nigula",
         "sq_XK": "Lääne-Nigula",
         "sr": "Lääne-Nigula",
+        "sr@latin": "Lääne-Nigula",
         "sr_Cyrl": "Lääne-Nigula",
         "sr_Cyrl_BA": "Lääne-Nigula",
         "sr_Cyrl_ME": "Lääne-Nigula",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Lääne-Nigula",
         "tr_TR": "Lääne-Nigula",
         "tt": "Lääne-Nigula",
+        "tt@iqtelif": "Lääne-Nigula",
         "tt_RU": "Lääne-Nigula",
         "twq": "Lääne-Nigula",
         "twq_NE": "Lääne-Nigula",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Lääne-Nigula",
         "zh_Hant_TW": "Lääne-Nigula",
         "zu": "Lääne-Nigula",
-        "zu_ZA": "Lääne-Nigula",
-        "sr@latin": "Lääne-Nigula",
-        "tt@iqtelif": "Lääne-Nigula"
+        "zu_ZA": "Lääne-Nigula"
     },
     "442": {
         "af": "Lüganuse",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Lüganuse",
         "sq_XK": "Lüganuse",
         "sr": "Lüganuse",
+        "sr@latin": "Lüganuse",
         "sr_Cyrl": "Lüganuse",
         "sr_Cyrl_BA": "Lüganuse",
         "sr_Cyrl_ME": "Lüganuse",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Lüganuse",
         "tr_TR": "Lüganuse",
         "tt": "Lüganuse",
+        "tt@iqtelif": "Lüganuse",
         "tt_RU": "Lüganuse",
         "twq": "Lüganuse",
         "twq_NE": "Lüganuse",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Lüganuse",
         "zh_Hant_TW": "Lüganuse",
         "zu": "Lüganuse",
-        "zu_ZA": "Lüganuse",
-        "sr@latin": "Lüganuse",
-        "tt@iqtelif": "Lüganuse"
+        "zu_ZA": "Lüganuse"
     },
     "446": {
         "af": "Maardu",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Maardu",
         "sq_XK": "Maardu",
         "sr": "Maardu",
+        "sr@latin": "Maardu",
         "sr_Cyrl": "Maardu",
         "sr_Cyrl_BA": "Maardu",
         "sr_Cyrl_ME": "Maardu",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Maardu",
         "tr_TR": "Maardu",
         "tt": "Maardu",
+        "tt@iqtelif": "Maardu",
         "tt_RU": "Maardu",
         "twq": "Maardu",
         "twq_NE": "Maardu",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Maardu",
         "zh_Hant_TW": "Maardu",
         "zu": "Maardu",
-        "zu_ZA": "Maardu",
-        "sr@latin": "Maardu",
-        "tt@iqtelif": "Maardu"
+        "zu_ZA": "Maardu"
     },
     "478": {
         "af": "Muhu",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Muhu",
         "sq_XK": "Muhu",
         "sr": "Muhu",
+        "sr@latin": "Muhu",
         "sr_Cyrl": "Muhu",
         "sr_Cyrl_BA": "Muhu",
         "sr_Cyrl_ME": "Muhu",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Muhu",
         "tr_TR": "Muhu",
         "tt": "Muhu",
+        "tt@iqtelif": "Muhu",
         "tt_RU": "Muhu",
         "twq": "Muhu",
         "twq_NE": "Muhu",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Muhu",
         "zh_Hant_TW": "Muhu",
         "zu": "Muhu",
-        "zu_ZA": "Muhu",
-        "sr@latin": "Muhu",
-        "tt@iqtelif": "Muhu"
+        "zu_ZA": "Muhu"
     },
     "480": {
         "af": "Mulgi",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Mulgi",
         "sq_XK": "Mulgi",
         "sr": "Mulgi",
+        "sr@latin": "Mulgi",
         "sr_Cyrl": "Mulgi",
         "sr_Cyrl_BA": "Mulgi",
         "sr_Cyrl_ME": "Mulgi",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Mulgi",
         "tr_TR": "Mulgi",
         "tt": "Mulgi",
+        "tt@iqtelif": "Mulgi",
         "tt_RU": "Mulgi",
         "twq": "Mulgi",
         "twq_NE": "Mulgi",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Mulgi",
         "zh_Hant_TW": "Mulgi",
         "zu": "Mulgi",
-        "zu_ZA": "Mulgi",
-        "sr@latin": "Mulgi",
-        "tt@iqtelif": "Mulgi"
+        "zu_ZA": "Mulgi"
     },
     "486": {
         "af": "Mustvee",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Mustvee",
         "sq_XK": "Mustvee",
         "sr": "Mustvee",
+        "sr@latin": "Mustvee",
         "sr_Cyrl": "Mustvee",
         "sr_Cyrl_BA": "Mustvee",
         "sr_Cyrl_ME": "Mustvee",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Mustvee",
         "tr_TR": "Mustvee",
         "tt": "Mustvee",
+        "tt@iqtelif": "Mustvee",
         "tt_RU": "Mustvee",
         "twq": "Mustvee",
         "twq_NE": "Mustvee",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Mustvee",
         "zh_Hant_TW": "Mustvee",
         "zu": "Mustvee",
-        "zu_ZA": "Mustvee",
-        "sr@latin": "Mustvee",
-        "tt@iqtelif": "Mustvee"
+        "zu_ZA": "Mustvee"
     },
     "503": {
         "af": "Märjamaa",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Märjamaa",
         "sq_XK": "Märjamaa",
         "sr": "Märjamaa",
+        "sr@latin": "Märjamaa",
         "sr_Cyrl": "Märjamaa",
         "sr_Cyrl_BA": "Märjamaa",
         "sr_Cyrl_ME": "Märjamaa",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Märjamaa",
         "tr_TR": "Märjamaa",
         "tt": "Märjamaa",
+        "tt@iqtelif": "Märjamaa",
         "tt_RU": "Märjamaa",
         "twq": "Märjamaa",
         "twq_NE": "Märjamaa",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Märjamaa",
         "zh_Hant_TW": "Märjamaa",
         "zu": "Märjamaa",
-        "zu_ZA": "Märjamaa",
-        "sr@latin": "Märjamaa",
-        "tt@iqtelif": "Märjamaa"
+        "zu_ZA": "Märjamaa"
     },
     "511": {
         "af": "Narva",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Narva",
         "sq_XK": "Narva",
         "sr": "Narva",
+        "sr@latin": "Narva",
         "sr_Cyrl": "Narva",
         "sr_Cyrl_BA": "Narva",
         "sr_Cyrl_ME": "Narva",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Narva",
         "tr_TR": "Narva",
         "tt": "Narva",
+        "tt@iqtelif": "Narva",
         "tt_RU": "Narva",
         "twq": "Narva",
         "twq_NE": "Narva",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Narva",
         "zh_Hant_TW": "Narva",
         "zu": "Narva",
-        "zu_ZA": "Narva",
-        "sr@latin": "Narva",
-        "tt@iqtelif": "Narva"
+        "zu_ZA": "Narva"
     },
     "514": {
         "af": "Narva-Jõesuu",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Narva-Jõesuu",
         "sq_XK": "Narva-Jõesuu",
         "sr": "Narva-Jõesuu",
+        "sr@latin": "Narva-Jõesuu",
         "sr_Cyrl": "Narva-Jõesuu",
         "sr_Cyrl_BA": "Narva-Jõesuu",
         "sr_Cyrl_ME": "Narva-Jõesuu",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Narva-Jõesuu",
         "tr_TR": "Narva-Jõesuu",
         "tt": "Narva-Jõesuu",
+        "tt@iqtelif": "Narva-Jõesuu",
         "tt_RU": "Narva-Jõesuu",
         "twq": "Narva-Jõesuu",
         "twq_NE": "Narva-Jõesuu",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Narva-Jõesuu",
         "zh_Hant_TW": "Narva-Jõesuu",
         "zu": "Narva-Jõesuu",
-        "zu_ZA": "Narva-Jõesuu",
-        "sr@latin": "Narva-Jõesuu",
-        "tt@iqtelif": "Narva-Jõesuu"
+        "zu_ZA": "Narva-Jõesuu"
     },
     "528": {
         "af": "Nõo",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Nõo",
         "sq_XK": "Nõo",
         "sr": "Nõo",
+        "sr@latin": "Nõo",
         "sr_Cyrl": "Nõo",
         "sr_Cyrl_BA": "Nõo",
         "sr_Cyrl_ME": "Nõo",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Nõo",
         "tr_TR": "Nõo",
         "tt": "Nõo",
+        "tt@iqtelif": "Nõo",
         "tt_RU": "Nõo",
         "twq": "Nõo",
         "twq_NE": "Nõo",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Nõo",
         "zh_Hant_TW": "Nõo",
         "zu": "Nõo",
-        "zu_ZA": "Nõo",
-        "sr@latin": "Nõo",
-        "tt@iqtelif": "Nõo"
+        "zu_ZA": "Nõo"
     },
     "557": {
         "af": "Otepää",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Otepää",
         "sq_XK": "Otepää",
         "sr": "Otepää",
+        "sr@latin": "Otepää",
         "sr_Cyrl": "Otepää",
         "sr_Cyrl_BA": "Otepää",
         "sr_Cyrl_ME": "Otepää",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Otepää",
         "tr_TR": "Otepää",
         "tt": "Otepää",
+        "tt@iqtelif": "Otepää",
         "tt_RU": "Otepää",
         "twq": "Otepää",
         "twq_NE": "Otepää",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Otepää",
         "zh_Hant_TW": "Otepää",
         "zu": "Otepää",
-        "zu_ZA": "Otepää",
-        "sr@latin": "Otepää",
-        "tt@iqtelif": "Otepää"
+        "zu_ZA": "Otepää"
     },
     "567": {
         "af": "Paide",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Paide",
         "sq_XK": "Paide",
         "sr": "Paide",
+        "sr@latin": "Paide",
         "sr_Cyrl": "Paide",
         "sr_Cyrl_BA": "Paide",
         "sr_Cyrl_ME": "Paide",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Paide",
         "tr_TR": "Paide",
         "tt": "Paide",
+        "tt@iqtelif": "Paide",
         "tt_RU": "Paide",
         "twq": "Paide",
         "twq_NE": "Paide",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Paide",
         "zh_Hant_TW": "Paide",
         "zu": "Paide",
-        "zu_ZA": "Paide",
-        "sr@latin": "Paide",
-        "tt@iqtelif": "Paide"
+        "zu_ZA": "Paide"
     },
     "586": {
         "af": "Peipsiääre",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Peipsiääre",
         "sq_XK": "Peipsiääre",
         "sr": "Peipsiääre",
+        "sr@latin": "Peipsiääre",
         "sr_Cyrl": "Peipsiääre",
         "sr_Cyrl_BA": "Peipsiääre",
         "sr_Cyrl_ME": "Peipsiääre",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Peipsiääre",
         "tr_TR": "Peipsiääre",
         "tt": "Peipsiääre",
+        "tt@iqtelif": "Peipsiääre",
         "tt_RU": "Peipsiääre",
         "twq": "Peipsiääre",
         "twq_NE": "Peipsiääre",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Peipsiääre",
         "zh_Hant_TW": "Peipsiääre",
         "zu": "Peipsiääre",
-        "zu_ZA": "Peipsiääre",
-        "sr@latin": "Peipsiääre",
-        "tt@iqtelif": "Peipsiääre"
+        "zu_ZA": "Peipsiääre"
     },
     "615": {
         "af": "Põhja-Sakala",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Põhja-Sakala",
         "sq_XK": "Põhja-Sakala",
         "sr": "Põhja-Sakala",
+        "sr@latin": "Põhja-Sakala",
         "sr_Cyrl": "Põhja-Sakala",
         "sr_Cyrl_BA": "Põhja-Sakala",
         "sr_Cyrl_ME": "Põhja-Sakala",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Põhja-Sakala",
         "tr_TR": "Põhja-Sakala",
         "tt": "Põhja-Sakala",
+        "tt@iqtelif": "Põhja-Sakala",
         "tt_RU": "Põhja-Sakala",
         "twq": "Põhja-Sakala",
         "twq_NE": "Põhja-Sakala",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Põhja-Sakala",
         "zh_Hant_TW": "Põhja-Sakala",
         "zu": "Põhja-Sakala",
-        "zu_ZA": "Põhja-Sakala",
-        "sr@latin": "Põhja-Sakala",
-        "tt@iqtelif": "Põhja-Sakala"
+        "zu_ZA": "Põhja-Sakala"
     },
     "618": {
         "af": "Põltsamaa",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Põltsamaa",
         "sq_XK": "Põltsamaa",
         "sr": "Põltsamaa",
+        "sr@latin": "Põltsamaa",
         "sr_Cyrl": "Põltsamaa",
         "sr_Cyrl_BA": "Põltsamaa",
         "sr_Cyrl_ME": "Põltsamaa",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Põltsamaa",
         "tr_TR": "Põltsamaa",
         "tt": "Põltsamaa",
+        "tt@iqtelif": "Põltsamaa",
         "tt_RU": "Põltsamaa",
         "twq": "Põltsamaa",
         "twq_NE": "Põltsamaa",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Põltsamaa",
         "zh_Hant_TW": "Põltsamaa",
         "zu": "Põltsamaa",
-        "zu_ZA": "Põltsamaa",
-        "sr@latin": "Põltsamaa",
-        "tt@iqtelif": "Põltsamaa"
+        "zu_ZA": "Põltsamaa"
     },
     "622": {
         "af": "Põlva",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Põlva",
         "sq_XK": "Põlva",
         "sr": "Põlva",
+        "sr@latin": "Põlva",
         "sr_Cyrl": "Põlva",
         "sr_Cyrl_BA": "Põlva",
         "sr_Cyrl_ME": "Põlva",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Põlva",
         "tr_TR": "Põlva",
         "tt": "Põlva",
+        "tt@iqtelif": "Põlva",
         "tt_RU": "Põlva",
         "twq": "Põlva",
         "twq_NE": "Põlva",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Põlva",
         "zh_Hant_TW": "Põlva",
         "zu": "Põlva",
-        "zu_ZA": "Põlva",
-        "sr@latin": "Põlva",
-        "tt@iqtelif": "Põlva"
+        "zu_ZA": "Põlva"
     },
     "624": {
         "af": "Pärnu",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Pärnu",
         "sq_XK": "Pärnu",
         "sr": "Pärnu",
+        "sr@latin": "Pärnu",
         "sr_Cyrl": "Pärnu",
         "sr_Cyrl_BA": "Pärnu",
         "sr_Cyrl_ME": "Pärnu",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Pärnu",
         "tr_TR": "Pärnu",
         "tt": "Pärnu",
+        "tt@iqtelif": "Pärnu",
         "tt_RU": "Pärnu",
         "twq": "Pärnu",
         "twq_NE": "Pärnu",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Pärnu",
         "zh_Hant_TW": "Pärnu",
         "zu": "Pärnu",
-        "zu_ZA": "Pärnu",
-        "sr@latin": "Pärnu",
-        "tt@iqtelif": "Pärnu"
+        "zu_ZA": "Pärnu"
     },
     "638": {
         "af": "Põhja-Pärnumaa",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Põhja-Pärnumaa",
         "sq_XK": "Põhja-Pärnumaa",
         "sr": "Põhja-Pärnumaa",
+        "sr@latin": "Põhja-Pärnumaa",
         "sr_Cyrl": "Põhja-Pärnumaa",
         "sr_Cyrl_BA": "Põhja-Pärnumaa",
         "sr_Cyrl_ME": "Põhja-Pärnumaa",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Põhja-Pärnumaa",
         "tr_TR": "Põhja-Pärnumaa",
         "tt": "Põhja-Pärnumaa",
+        "tt@iqtelif": "Põhja-Pärnumaa",
         "tt_RU": "Põhja-Pärnumaa",
         "twq": "Põhja-Pärnumaa",
         "twq_NE": "Põhja-Pärnumaa",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Põhja-Pärnumaa",
         "zh_Hant_TW": "Põhja-Pärnumaa",
         "zu": "Põhja-Pärnumaa",
-        "zu_ZA": "Põhja-Pärnumaa",
-        "sr@latin": "Põhja-Pärnumaa",
-        "tt@iqtelif": "Põhja-Pärnumaa"
+        "zu_ZA": "Põhja-Pärnumaa"
     },
     "651": {
         "af": "Raasiku",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Raasiku",
         "sq_XK": "Raasiku",
         "sr": "Raasiku",
+        "sr@latin": "Raasiku",
         "sr_Cyrl": "Raasiku",
         "sr_Cyrl_BA": "Raasiku",
         "sr_Cyrl_ME": "Raasiku",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Raasiku",
         "tr_TR": "Raasiku",
         "tt": "Raasiku",
+        "tt@iqtelif": "Raasiku",
         "tt_RU": "Raasiku",
         "twq": "Raasiku",
         "twq_NE": "Raasiku",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Raasiku",
         "zh_Hant_TW": "Raasiku",
         "zu": "Raasiku",
-        "zu_ZA": "Raasiku",
-        "sr@latin": "Raasiku",
-        "tt@iqtelif": "Raasiku"
+        "zu_ZA": "Raasiku"
     },
     "653": {
         "af": "Rae",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Rae",
         "sq_XK": "Rae",
         "sr": "Rae",
+        "sr@latin": "Rae",
         "sr_Cyrl": "Rae",
         "sr_Cyrl_BA": "Rae",
         "sr_Cyrl_ME": "Rae",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Rae",
         "tr_TR": "Rae",
         "tt": "Rae",
+        "tt@iqtelif": "Rae",
         "tt_RU": "Rae",
         "twq": "Rae",
         "twq_NE": "Rae",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Rae",
         "zh_Hant_TW": "Rae",
         "zu": "Rae",
-        "zu_ZA": "Rae",
-        "sr@latin": "Rae",
-        "tt@iqtelif": "Rae"
+        "zu_ZA": "Rae"
     },
     "661": {
         "af": "Rakvere",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Rakvere",
         "sq_XK": "Rakvere",
         "sr": "Rakvere",
+        "sr@latin": "Rakvere",
         "sr_Cyrl": "Rakvere",
         "sr_Cyrl_BA": "Rakvere",
         "sr_Cyrl_ME": "Rakvere",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Rakvere",
         "tr_TR": "Rakvere",
         "tt": "Rakvere",
+        "tt@iqtelif": "Rakvere",
         "tt_RU": "Rakvere",
         "twq": "Rakvere",
         "twq_NE": "Rakvere",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Rakvere",
         "zh_Hant_TW": "Rakvere",
         "zu": "Rakvere",
-        "zu_ZA": "Rakvere",
-        "sr@latin": "Rakvere",
-        "tt@iqtelif": "Rakvere"
+        "zu_ZA": "Rakvere"
     },
     "663": {
         "af": "Rakvere",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Rakvere",
         "sq_XK": "Rakvere",
         "sr": "Rakvere",
+        "sr@latin": "Rakvere",
         "sr_Cyrl": "Rakvere",
         "sr_Cyrl_BA": "Rakvere",
         "sr_Cyrl_ME": "Rakvere",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Rakvere",
         "tr_TR": "Rakvere",
         "tt": "Rakvere",
+        "tt@iqtelif": "Rakvere",
         "tt_RU": "Rakvere",
         "twq": "Rakvere",
         "twq_NE": "Rakvere",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Rakvere",
         "zh_Hant_TW": "Rakvere",
         "zu": "Rakvere",
-        "zu_ZA": "Rakvere",
-        "sr@latin": "Rakvere",
-        "tt@iqtelif": "Rakvere"
+        "zu_ZA": "Rakvere"
     },
     "668": {
         "af": "Rapla",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Rapla",
         "sq_XK": "Rapla",
         "sr": "Rapla",
+        "sr@latin": "Rapla",
         "sr_Cyrl": "Rapla",
         "sr_Cyrl_BA": "Rapla",
         "sr_Cyrl_ME": "Rapla",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Rapla",
         "tr_TR": "Rapla",
         "tt": "Rapla",
+        "tt@iqtelif": "Rapla",
         "tt_RU": "Rapla",
         "twq": "Rapla",
         "twq_NE": "Rapla",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Rapla",
         "zh_Hant_TW": "Rapla",
         "zu": "Rapla",
-        "zu_ZA": "Rapla",
-        "sr@latin": "Rapla",
-        "tt@iqtelif": "Rapla"
+        "zu_ZA": "Rapla"
     },
     "689": {
         "af": "Ruhnu",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Ruhnu",
         "sq_XK": "Ruhnu",
         "sr": "Ruhnu",
+        "sr@latin": "Ruhnu",
         "sr_Cyrl": "Ruhnu",
         "sr_Cyrl_BA": "Ruhnu",
         "sr_Cyrl_ME": "Ruhnu",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Ruhnu",
         "tr_TR": "Ruhnu",
         "tt": "Ruhnu",
+        "tt@iqtelif": "Ruhnu",
         "tt_RU": "Ruhnu",
         "twq": "Ruhnu",
         "twq_NE": "Ruhnu",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Ruhnu",
         "zh_Hant_TW": "Ruhnu",
         "zu": "Ruhnu",
-        "zu_ZA": "Ruhnu",
-        "sr@latin": "Ruhnu",
-        "tt@iqtelif": "Ruhnu"
+        "zu_ZA": "Ruhnu"
     },
     "698": {
         "af": "Rõuge",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Rõuge",
         "sq_XK": "Rõuge",
         "sr": "Rõuge",
+        "sr@latin": "Rõuge",
         "sr_Cyrl": "Rõuge",
         "sr_Cyrl_BA": "Rõuge",
         "sr_Cyrl_ME": "Rõuge",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Rõuge",
         "tr_TR": "Rõuge",
         "tt": "Rõuge",
+        "tt@iqtelif": "Rõuge",
         "tt_RU": "Rõuge",
         "twq": "Rõuge",
         "twq_NE": "Rõuge",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Rõuge",
         "zh_Hant_TW": "Rõuge",
         "zu": "Rõuge",
-        "zu_ZA": "Rõuge",
-        "sr@latin": "Rõuge",
-        "tt@iqtelif": "Rõuge"
+        "zu_ZA": "Rõuge"
     },
     "708": {
         "af": "Räpina",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Räpina",
         "sq_XK": "Räpina",
         "sr": "Räpina",
+        "sr@latin": "Räpina",
         "sr_Cyrl": "Räpina",
         "sr_Cyrl_BA": "Räpina",
         "sr_Cyrl_ME": "Räpina",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Räpina",
         "tr_TR": "Räpina",
         "tt": "Räpina",
+        "tt@iqtelif": "Räpina",
         "tt_RU": "Räpina",
         "twq": "Räpina",
         "twq_NE": "Räpina",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Räpina",
         "zh_Hant_TW": "Räpina",
         "zu": "Räpina",
-        "zu_ZA": "Räpina",
-        "sr@latin": "Räpina",
-        "tt@iqtelif": "Räpina"
+        "zu_ZA": "Räpina"
     },
     "712": {
         "af": "Saarde",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Saarde",
         "sq_XK": "Saarde",
         "sr": "Saarde",
+        "sr@latin": "Saarde",
         "sr_Cyrl": "Saarde",
         "sr_Cyrl_BA": "Saarde",
         "sr_Cyrl_ME": "Saarde",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Saarde",
         "tr_TR": "Saarde",
         "tt": "Saarde",
+        "tt@iqtelif": "Saarde",
         "tt_RU": "Saarde",
         "twq": "Saarde",
         "twq_NE": "Saarde",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Saarde",
         "zh_Hant_TW": "Saarde",
         "zu": "Saarde",
-        "zu_ZA": "Saarde",
-        "sr@latin": "Saarde",
-        "tt@iqtelif": "Saarde"
+        "zu_ZA": "Saarde"
     },
     "714": {
         "af": "Saaremaa",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Saaremaa",
         "sq_XK": "Saaremaa",
         "sr": "Saaremaa",
+        "sr@latin": "Saaremaa",
         "sr_Cyrl": "Saaremaa",
         "sr_Cyrl_BA": "Saaremaa",
         "sr_Cyrl_ME": "Saaremaa",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Saaremaa",
         "tr_TR": "Saaremaa",
         "tt": "Saaremaa",
+        "tt@iqtelif": "Saaremaa",
         "tt_RU": "Saaremaa",
         "twq": "Saaremaa",
         "twq_NE": "Saaremaa",
@@ -63715,9 +63717,7 @@
         "zh_Hant_MY": "Saaremaa",
         "zh_Hant_TW": "Saaremaa",
         "zu": "Saaremaa",
-        "zu_ZA": "Saaremaa",
-        "sr@latin": "Saaremaa",
-        "tt@iqtelif": "Saaremaa"
+        "zu_ZA": "Saaremaa"
     },
     "719": {
         "af": "Saku",
@@ -64463,6 +64463,7 @@
         "sq_MK": "Saku",
         "sq_XK": "Saku",
         "sr": "Saku",
+        "sr@latin": "Saku",
         "sr_Cyrl": "Saku",
         "sr_Cyrl_BA": "Saku",
         "sr_Cyrl_ME": "Saku",
@@ -64523,6 +64524,7 @@
         "tr_CY": "Saku",
         "tr_TR": "Saku",
         "tt": "Saku",
+        "tt@iqtelif": "Saku",
         "tt_RU": "Saku",
         "twq": "Saku",
         "twq_NE": "Saku",
@@ -64600,9 +64602,7 @@
         "zh_Hant_MY": "Saku",
         "zh_Hant_TW": "Saku",
         "zu": "Saku",
-        "zu_ZA": "Saku",
-        "sr@latin": "Saku",
-        "tt@iqtelif": "Saku"
+        "zu_ZA": "Saku"
     },
     "726": {
         "af": "Saue",
@@ -65348,6 +65348,7 @@
         "sq_MK": "Saue",
         "sq_XK": "Saue",
         "sr": "Saue",
+        "sr@latin": "Saue",
         "sr_Cyrl": "Saue",
         "sr_Cyrl_BA": "Saue",
         "sr_Cyrl_ME": "Saue",
@@ -65408,6 +65409,7 @@
         "tr_CY": "Saue",
         "tr_TR": "Saue",
         "tt": "Saue",
+        "tt@iqtelif": "Saue",
         "tt_RU": "Saue",
         "twq": "Saue",
         "twq_NE": "Saue",
@@ -65485,9 +65487,7 @@
         "zh_Hant_MY": "Saue",
         "zh_Hant_TW": "Saue",
         "zu": "Saue",
-        "zu_ZA": "Saue",
-        "sr@latin": "Saue",
-        "tt@iqtelif": "Saue"
+        "zu_ZA": "Saue"
     },
     "732": {
         "af": "Setomaa",
@@ -66233,6 +66233,7 @@
         "sq_MK": "Setomaa",
         "sq_XK": "Setomaa",
         "sr": "Setomaa",
+        "sr@latin": "Setomaa",
         "sr_Cyrl": "Setomaa",
         "sr_Cyrl_BA": "Setomaa",
         "sr_Cyrl_ME": "Setomaa",
@@ -66293,6 +66294,7 @@
         "tr_CY": "Setomaa",
         "tr_TR": "Setomaa",
         "tt": "Setomaa",
+        "tt@iqtelif": "Setomaa",
         "tt_RU": "Setomaa",
         "twq": "Setomaa",
         "twq_NE": "Setomaa",
@@ -66370,9 +66372,7 @@
         "zh_Hant_MY": "Setomaa",
         "zh_Hant_TW": "Setomaa",
         "zu": "Setomaa",
-        "zu_ZA": "Setomaa",
-        "sr@latin": "Setomaa",
-        "tt@iqtelif": "Setomaa"
+        "zu_ZA": "Setomaa"
     },
     "735": {
         "af": "Sillamäe",
@@ -67118,6 +67118,7 @@
         "sq_MK": "Sillamäe",
         "sq_XK": "Sillamäe",
         "sr": "Sillamäe",
+        "sr@latin": "Sillamäe",
         "sr_Cyrl": "Sillamäe",
         "sr_Cyrl_BA": "Sillamäe",
         "sr_Cyrl_ME": "Sillamäe",
@@ -67178,6 +67179,7 @@
         "tr_CY": "Sillamäe",
         "tr_TR": "Sillamäe",
         "tt": "Sillamäe",
+        "tt@iqtelif": "Sillamäe",
         "tt_RU": "Sillamäe",
         "twq": "Sillamäe",
         "twq_NE": "Sillamäe",
@@ -67255,9 +67257,7 @@
         "zh_Hant_MY": "Sillamäe",
         "zh_Hant_TW": "Sillamäe",
         "zu": "Sillamäe",
-        "zu_ZA": "Sillamäe",
-        "sr@latin": "Sillamäe",
-        "tt@iqtelif": "Sillamäe"
+        "zu_ZA": "Sillamäe"
     },
     "784": {
         "af": "Tallinn",
@@ -68003,6 +68003,7 @@
         "sq_MK": "Tallinn",
         "sq_XK": "Tallinn",
         "sr": "Tallinn",
+        "sr@latin": "Tallinn",
         "sr_Cyrl": "Tallinn",
         "sr_Cyrl_BA": "Tallinn",
         "sr_Cyrl_ME": "Tallinn",
@@ -68063,6 +68064,7 @@
         "tr_CY": "Tallinn",
         "tr_TR": "Tallinn",
         "tt": "Tallinn",
+        "tt@iqtelif": "Tallinn",
         "tt_RU": "Tallinn",
         "twq": "Tallinn",
         "twq_NE": "Tallinn",
@@ -68140,9 +68142,7 @@
         "zh_Hant_MY": "Tallinn",
         "zh_Hant_TW": "Tallinn",
         "zu": "Tallinn",
-        "zu_ZA": "Tallinn",
-        "sr@latin": "Tallinn",
-        "tt@iqtelif": "Tallinn"
+        "zu_ZA": "Tallinn"
     },
     "792": {
         "af": "Tapa",
@@ -68888,6 +68888,7 @@
         "sq_MK": "Tapa",
         "sq_XK": "Tapa",
         "sr": "Tapa",
+        "sr@latin": "Tapa",
         "sr_Cyrl": "Tapa",
         "sr_Cyrl_BA": "Tapa",
         "sr_Cyrl_ME": "Tapa",
@@ -68948,6 +68949,7 @@
         "tr_CY": "Tapa",
         "tr_TR": "Tapa",
         "tt": "Tapa",
+        "tt@iqtelif": "Tapa",
         "tt_RU": "Tapa",
         "twq": "Tapa",
         "twq_NE": "Tapa",
@@ -69025,9 +69027,7 @@
         "zh_Hant_MY": "Tapa",
         "zh_Hant_TW": "Tapa",
         "zu": "Tapa",
-        "zu_ZA": "Tapa",
-        "sr@latin": "Tapa",
-        "tt@iqtelif": "Tapa"
+        "zu_ZA": "Tapa"
     },
     "793": {
         "af": "Tartu",
@@ -69773,6 +69773,7 @@
         "sq_MK": "Tartu",
         "sq_XK": "Tartu",
         "sr": "Tartu",
+        "sr@latin": "Tartu",
         "sr_Cyrl": "Tartu",
         "sr_Cyrl_BA": "Tartu",
         "sr_Cyrl_ME": "Tartu",
@@ -69833,6 +69834,7 @@
         "tr_CY": "Tartu",
         "tr_TR": "Tartu",
         "tt": "Tartu",
+        "tt@iqtelif": "Tartu",
         "tt_RU": "Tartu",
         "twq": "Tartu",
         "twq_NE": "Tartu",
@@ -69910,9 +69912,7 @@
         "zh_Hant_MY": "Tartu",
         "zh_Hant_TW": "Tartu",
         "zu": "Tartu",
-        "zu_ZA": "Tartu",
-        "sr@latin": "Tartu",
-        "tt@iqtelif": "Tartu"
+        "zu_ZA": "Tartu"
     },
     "796": {
         "af": "Tartu",
@@ -70658,6 +70658,7 @@
         "sq_MK": "Tartu",
         "sq_XK": "Tartu",
         "sr": "Tartu",
+        "sr@latin": "Tartu",
         "sr_Cyrl": "Tartu",
         "sr_Cyrl_BA": "Tartu",
         "sr_Cyrl_ME": "Tartu",
@@ -70718,6 +70719,7 @@
         "tr_CY": "Tartu",
         "tr_TR": "Tartu",
         "tt": "Tartu",
+        "tt@iqtelif": "Tartu",
         "tt_RU": "Tartu",
         "twq": "Tartu",
         "twq_NE": "Tartu",
@@ -70795,9 +70797,7 @@
         "zh_Hant_MY": "Tartu",
         "zh_Hant_TW": "Tartu",
         "zu": "Tartu",
-        "zu_ZA": "Tartu",
-        "sr@latin": "Tartu",
-        "tt@iqtelif": "Tartu"
+        "zu_ZA": "Tartu"
     },
     "803": {
         "af": "Toila",
@@ -71543,6 +71543,7 @@
         "sq_MK": "Toila",
         "sq_XK": "Toila",
         "sr": "Toila",
+        "sr@latin": "Toila",
         "sr_Cyrl": "Toila",
         "sr_Cyrl_BA": "Toila",
         "sr_Cyrl_ME": "Toila",
@@ -71603,6 +71604,7 @@
         "tr_CY": "Toila",
         "tr_TR": "Toila",
         "tt": "Toila",
+        "tt@iqtelif": "Toila",
         "tt_RU": "Toila",
         "twq": "Toila",
         "twq_NE": "Toila",
@@ -71680,9 +71682,7 @@
         "zh_Hant_MY": "Toila",
         "zh_Hant_TW": "Toila",
         "zu": "Toila",
-        "zu_ZA": "Toila",
-        "sr@latin": "Toila",
-        "tt@iqtelif": "Toila"
+        "zu_ZA": "Toila"
     },
     "809": {
         "af": "Tori",
@@ -72428,6 +72428,7 @@
         "sq_MK": "Tori",
         "sq_XK": "Tori",
         "sr": "Tori",
+        "sr@latin": "Tori",
         "sr_Cyrl": "Tori",
         "sr_Cyrl_BA": "Tori",
         "sr_Cyrl_ME": "Tori",
@@ -72488,6 +72489,7 @@
         "tr_CY": "Tori",
         "tr_TR": "Tori",
         "tt": "Tori",
+        "tt@iqtelif": "Tori",
         "tt_RU": "Tori",
         "twq": "Tori",
         "twq_NE": "Tori",
@@ -72565,9 +72567,7 @@
         "zh_Hant_MY": "Tori",
         "zh_Hant_TW": "Tori",
         "zu": "Tori",
-        "zu_ZA": "Tori",
-        "sr@latin": "Tori",
-        "tt@iqtelif": "Tori"
+        "zu_ZA": "Tori"
     },
     "824": {
         "af": "Tõrva",
@@ -73313,6 +73313,7 @@
         "sq_MK": "Tõrva",
         "sq_XK": "Tõrva",
         "sr": "Tõrva",
+        "sr@latin": "Tõrva",
         "sr_Cyrl": "Tõrva",
         "sr_Cyrl_BA": "Tõrva",
         "sr_Cyrl_ME": "Tõrva",
@@ -73373,6 +73374,7 @@
         "tr_CY": "Tõrva",
         "tr_TR": "Tõrva",
         "tt": "Tõrva",
+        "tt@iqtelif": "Tõrva",
         "tt_RU": "Tõrva",
         "twq": "Tõrva",
         "twq_NE": "Tõrva",
@@ -73450,9 +73452,7 @@
         "zh_Hant_MY": "Tõrva",
         "zh_Hant_TW": "Tõrva",
         "zu": "Tõrva",
-        "zu_ZA": "Tõrva",
-        "sr@latin": "Tõrva",
-        "tt@iqtelif": "Tõrva"
+        "zu_ZA": "Tõrva"
     },
     "834": {
         "af": "Türi",
@@ -74198,6 +74198,7 @@
         "sq_MK": "Türi",
         "sq_XK": "Türi",
         "sr": "Türi",
+        "sr@latin": "Türi",
         "sr_Cyrl": "Türi",
         "sr_Cyrl_BA": "Türi",
         "sr_Cyrl_ME": "Türi",
@@ -74258,6 +74259,7 @@
         "tr_CY": "Türi",
         "tr_TR": "Türi",
         "tt": "Türi",
+        "tt@iqtelif": "Türi",
         "tt_RU": "Türi",
         "twq": "Türi",
         "twq_NE": "Türi",
@@ -74335,9 +74337,7 @@
         "zh_Hant_MY": "Türi",
         "zh_Hant_TW": "Türi",
         "zu": "Türi",
-        "zu_ZA": "Türi",
-        "sr@latin": "Türi",
-        "tt@iqtelif": "Türi"
+        "zu_ZA": "Türi"
     },
     "855": {
         "af": "Valga",
@@ -75083,6 +75083,7 @@
         "sq_MK": "Valga",
         "sq_XK": "Valga",
         "sr": "Valga",
+        "sr@latin": "Valga",
         "sr_Cyrl": "Valga",
         "sr_Cyrl_BA": "Valga",
         "sr_Cyrl_ME": "Valga",
@@ -75143,6 +75144,7 @@
         "tr_CY": "Valga",
         "tr_TR": "Valga",
         "tt": "Valga",
+        "tt@iqtelif": "Valga",
         "tt_RU": "Valga",
         "twq": "Valga",
         "twq_NE": "Valga",
@@ -75220,9 +75222,7 @@
         "zh_Hant_MY": "Valga",
         "zh_Hant_TW": "Valga",
         "zu": "Valga",
-        "zu_ZA": "Valga",
-        "sr@latin": "Valga",
-        "tt@iqtelif": "Valga"
+        "zu_ZA": "Valga"
     },
     "890": {
         "af": "Viimsi",
@@ -75968,6 +75968,7 @@
         "sq_MK": "Viimsi",
         "sq_XK": "Viimsi",
         "sr": "Viimsi",
+        "sr@latin": "Viimsi",
         "sr_Cyrl": "Viimsi",
         "sr_Cyrl_BA": "Viimsi",
         "sr_Cyrl_ME": "Viimsi",
@@ -76028,6 +76029,7 @@
         "tr_CY": "Viimsi",
         "tr_TR": "Viimsi",
         "tt": "Viimsi",
+        "tt@iqtelif": "Viimsi",
         "tt_RU": "Viimsi",
         "twq": "Viimsi",
         "twq_NE": "Viimsi",
@@ -76105,9 +76107,7 @@
         "zh_Hant_MY": "Viimsi",
         "zh_Hant_TW": "Viimsi",
         "zu": "Viimsi",
-        "zu_ZA": "Viimsi",
-        "sr@latin": "Viimsi",
-        "tt@iqtelif": "Viimsi"
+        "zu_ZA": "Viimsi"
     },
     "897": {
         "af": "Viljandi",
@@ -76853,6 +76853,7 @@
         "sq_MK": "Viljandi",
         "sq_XK": "Viljandi",
         "sr": "Viljandi",
+        "sr@latin": "Viljandi",
         "sr_Cyrl": "Viljandi",
         "sr_Cyrl_BA": "Viljandi",
         "sr_Cyrl_ME": "Viljandi",
@@ -76913,6 +76914,7 @@
         "tr_CY": "Viljandi",
         "tr_TR": "Viljandi",
         "tt": "Viljandi",
+        "tt@iqtelif": "Viljandi",
         "tt_RU": "Viljandi",
         "twq": "Viljandi",
         "twq_NE": "Viljandi",
@@ -76990,9 +76992,7 @@
         "zh_Hant_MY": "Viljandi",
         "zh_Hant_TW": "Viljandi",
         "zu": "Viljandi",
-        "zu_ZA": "Viljandi",
-        "sr@latin": "Viljandi",
-        "tt@iqtelif": "Viljandi"
+        "zu_ZA": "Viljandi"
     },
     "899": {
         "af": "Viljandi",
@@ -77738,6 +77738,7 @@
         "sq_MK": "Viljandi",
         "sq_XK": "Viljandi",
         "sr": "Viljandi",
+        "sr@latin": "Viljandi",
         "sr_Cyrl": "Viljandi",
         "sr_Cyrl_BA": "Viljandi",
         "sr_Cyrl_ME": "Viljandi",
@@ -77798,6 +77799,7 @@
         "tr_CY": "Viljandi",
         "tr_TR": "Viljandi",
         "tt": "Viljandi",
+        "tt@iqtelif": "Viljandi",
         "tt_RU": "Viljandi",
         "twq": "Viljandi",
         "twq_NE": "Viljandi",
@@ -77875,9 +77877,7 @@
         "zh_Hant_MY": "Viljandi",
         "zh_Hant_TW": "Viljandi",
         "zu": "Viljandi",
-        "zu_ZA": "Viljandi",
-        "sr@latin": "Viljandi",
-        "tt@iqtelif": "Viljandi"
+        "zu_ZA": "Viljandi"
     },
     "901": {
         "af": "Vinni",
@@ -78623,6 +78623,7 @@
         "sq_MK": "Vinni",
         "sq_XK": "Vinni",
         "sr": "Vinni",
+        "sr@latin": "Vinni",
         "sr_Cyrl": "Vinni",
         "sr_Cyrl_BA": "Vinni",
         "sr_Cyrl_ME": "Vinni",
@@ -78683,6 +78684,7 @@
         "tr_CY": "Vinni",
         "tr_TR": "Vinni",
         "tt": "Vinni",
+        "tt@iqtelif": "Vinni",
         "tt_RU": "Vinni",
         "twq": "Vinni",
         "twq_NE": "Vinni",
@@ -78760,9 +78762,7 @@
         "zh_Hant_MY": "Vinni",
         "zh_Hant_TW": "Vinni",
         "zu": "Vinni",
-        "zu_ZA": "Vinni",
-        "sr@latin": "Vinni",
-        "tt@iqtelif": "Vinni"
+        "zu_ZA": "Vinni"
     },
     "903": {
         "af": "Viru-Nigula",
@@ -79508,6 +79508,7 @@
         "sq_MK": "Viru-Nigula",
         "sq_XK": "Viru-Nigula",
         "sr": "Viru-Nigula",
+        "sr@latin": "Viru-Nigula",
         "sr_Cyrl": "Viru-Nigula",
         "sr_Cyrl_BA": "Viru-Nigula",
         "sr_Cyrl_ME": "Viru-Nigula",
@@ -79568,6 +79569,7 @@
         "tr_CY": "Viru-Nigula",
         "tr_TR": "Viru-Nigula",
         "tt": "Viru-Nigula",
+        "tt@iqtelif": "Viru-Nigula",
         "tt_RU": "Viru-Nigula",
         "twq": "Viru-Nigula",
         "twq_NE": "Viru-Nigula",
@@ -79645,9 +79647,7 @@
         "zh_Hant_MY": "Viru-Nigula",
         "zh_Hant_TW": "Viru-Nigula",
         "zu": "Viru-Nigula",
-        "zu_ZA": "Viru-Nigula",
-        "sr@latin": "Viru-Nigula",
-        "tt@iqtelif": "Viru-Nigula"
+        "zu_ZA": "Viru-Nigula"
     },
     "907": {
         "af": "Vormsi",
@@ -80393,6 +80393,7 @@
         "sq_MK": "Vormsi",
         "sq_XK": "Vormsi",
         "sr": "Vormsi",
+        "sr@latin": "Vormsi",
         "sr_Cyrl": "Vormsi",
         "sr_Cyrl_BA": "Vormsi",
         "sr_Cyrl_ME": "Vormsi",
@@ -80453,6 +80454,7 @@
         "tr_CY": "Vormsi",
         "tr_TR": "Vormsi",
         "tt": "Vormsi",
+        "tt@iqtelif": "Vormsi",
         "tt_RU": "Vormsi",
         "twq": "Vormsi",
         "twq_NE": "Vormsi",
@@ -80530,9 +80532,7 @@
         "zh_Hant_MY": "Vormsi",
         "zh_Hant_TW": "Vormsi",
         "zu": "Vormsi",
-        "zu_ZA": "Vormsi",
-        "sr@latin": "Vormsi",
-        "tt@iqtelif": "Vormsi"
+        "zu_ZA": "Vormsi"
     },
     "917": {
         "af": "Võru",
@@ -81278,6 +81278,7 @@
         "sq_MK": "Võru",
         "sq_XK": "Võru",
         "sr": "Võru",
+        "sr@latin": "Võru",
         "sr_Cyrl": "Võru",
         "sr_Cyrl_BA": "Võru",
         "sr_Cyrl_ME": "Võru",
@@ -81338,6 +81339,7 @@
         "tr_CY": "Võru",
         "tr_TR": "Võru",
         "tt": "Võru",
+        "tt@iqtelif": "Võru",
         "tt_RU": "Võru",
         "twq": "Võru",
         "twq_NE": "Võru",
@@ -81415,9 +81417,7 @@
         "zh_Hant_MY": "Võru",
         "zh_Hant_TW": "Võru",
         "zu": "Võru",
-        "zu_ZA": "Võru",
-        "sr@latin": "Võru",
-        "tt@iqtelif": "Võru"
+        "zu_ZA": "Võru"
     },
     "919": {
         "af": "Võru",
@@ -82163,6 +82163,7 @@
         "sq_MK": "Võru",
         "sq_XK": "Võru",
         "sr": "Võru",
+        "sr@latin": "Võru",
         "sr_Cyrl": "Võru",
         "sr_Cyrl_BA": "Võru",
         "sr_Cyrl_ME": "Võru",
@@ -82223,6 +82224,7 @@
         "tr_CY": "Võru",
         "tr_TR": "Võru",
         "tt": "Võru",
+        "tt@iqtelif": "Võru",
         "tt_RU": "Võru",
         "twq": "Võru",
         "twq_NE": "Võru",
@@ -82300,9 +82302,7 @@
         "zh_Hant_MY": "Võru",
         "zh_Hant_TW": "Võru",
         "zu": "Võru",
-        "zu_ZA": "Võru",
-        "sr@latin": "Võru",
-        "tt@iqtelif": "Võru"
+        "zu_ZA": "Võru"
     },
     "928": {
         "af": "Väike-Maarja",
@@ -83048,6 +83048,7 @@
         "sq_MK": "Väike-Maarja",
         "sq_XK": "Väike-Maarja",
         "sr": "Väike-Maarja",
+        "sr@latin": "Väike-Maarja",
         "sr_Cyrl": "Väike-Maarja",
         "sr_Cyrl_BA": "Väike-Maarja",
         "sr_Cyrl_ME": "Väike-Maarja",
@@ -83108,6 +83109,7 @@
         "tr_CY": "Väike-Maarja",
         "tr_TR": "Väike-Maarja",
         "tt": "Väike-Maarja",
+        "tt@iqtelif": "Väike-Maarja",
         "tt_RU": "Väike-Maarja",
         "twq": "Väike-Maarja",
         "twq_NE": "Väike-Maarja",
@@ -83185,8 +83187,6 @@
         "zh_Hant_MY": "Väike-Maarja",
         "zh_Hant_TW": "Väike-Maarja",
         "zu": "Väike-Maarja",
-        "zu_ZA": "Väike-Maarja",
-        "sr@latin": "Väike-Maarja",
-        "tt@iqtelif": "Väike-Maarja"
+        "zu_ZA": "Väike-Maarja"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Artibonite",
         "sq_XK": "Artibonite",
         "sr": "Артибонит",
+        "sr@latin": "Artibonit",
         "sr_Cyrl": "Артибонит",
         "sr_Cyrl_BA": "Артибонит",
         "sr_Cyrl_ME": "Артибонит",
@@ -803,6 +804,7 @@
         "tr_CY": "Artibonite",
         "tr_TR": "Artibonite",
         "tt": "Artibonite",
+        "tt@iqtelif": "Artibonite",
         "tt_RU": "Artibonite",
         "twq": "Artibonite",
         "twq_NE": "Artibonite",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Artibonite",
         "zh_Hant_TW": "Artibonite",
         "zu": "Artibonite",
-        "zu_ZA": "Artibonite",
-        "sr@latin": "Artibonit",
-        "tt@iqtelif": "Artibonite"
+        "zu_ZA": "Artibonite"
     },
     "CE": {
         "af": "Centre",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Centre",
         "sq_XK": "Centre",
         "sr": "Централно",
+        "sr@latin": "Centralno",
         "sr_Cyrl": "Централно",
         "sr_Cyrl_BA": "Централно",
         "sr_Cyrl_ME": "Централно",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Merkez",
         "tr_TR": "Merkez",
         "tt": "Centre",
+        "tt@iqtelif": "Centre",
         "tt_RU": "Centre",
         "twq": "Centre",
         "twq_NE": "Centre",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Centre",
         "zh_Hant_TW": "Centre",
         "zu": "Centre",
-        "zu_ZA": "Centre",
-        "sr@latin": "Centralno",
-        "tt@iqtelif": "Centre"
+        "zu_ZA": "Centre"
     },
     "GA": {
         "af": "Grande’Anse",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Grande’Anse",
         "sq_XK": "Grande’Anse",
         "sr": "Grande’Anse",
+        "sr@latin": "Grande’Anse",
         "sr_Cyrl": "Grande’Anse",
         "sr_Cyrl_BA": "Grande’Anse",
         "sr_Cyrl_ME": "Grande’Anse",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Grande’Anse",
         "tr_TR": "Grande’Anse",
         "tt": "Grande’Anse",
+        "tt@iqtelif": "Grande’Anse",
         "tt_RU": "Grande’Anse",
         "twq": "Grande’Anse",
         "twq_NE": "Grande’Anse",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Grande’Anse",
         "zh_Hant_TW": "Grande’Anse",
         "zu": "Grande’Anse",
-        "zu_ZA": "Grande’Anse",
-        "sr@latin": "Grande’Anse",
-        "tt@iqtelif": "Grande’Anse"
+        "zu_ZA": "Grande’Anse"
     },
     "ND": {
         "af": "Nord",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Nord",
         "sq_XK": "Nord",
         "sr": "Север",
+        "sr@latin": "Sever",
         "sr_Cyrl": "Север",
         "sr_Cyrl_BA": "Север",
         "sr_Cyrl_ME": "Север",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Nord",
         "tr_TR": "Nord",
         "tt": "Nord",
+        "tt@iqtelif": "Nord",
         "tt_RU": "Nord",
         "twq": "Nord",
         "twq_NE": "Nord",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Nord",
         "zh_Hant_TW": "Nord",
         "zu": "Nord",
-        "zu_ZA": "Nord",
-        "sr@latin": "Sever",
-        "tt@iqtelif": "Nord"
+        "zu_ZA": "Nord"
     },
     "NE": {
         "af": "Nord-Est",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Nord-Est",
         "sq_XK": "Nord-Est",
         "sr": "Североисток",
+        "sr@latin": "Severoistok",
         "sr_Cyrl": "Североисток",
         "sr_Cyrl_BA": "Североисток",
         "sr_Cyrl_ME": "Североисток",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Nord-Est",
         "tr_TR": "Nord-Est",
         "tt": "Nord-Est",
+        "tt@iqtelif": "Nord-Est",
         "tt_RU": "Nord-Est",
         "twq": "Nord-Est",
         "twq_NE": "Nord-Est",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Nord-Est",
         "zh_Hant_TW": "Nord-Est",
         "zu": "Nord-Est",
-        "zu_ZA": "Nord-Est",
-        "sr@latin": "Severoistok",
-        "tt@iqtelif": "Nord-Est"
+        "zu_ZA": "Nord-Est"
     },
     "NI": {
         "af": "Nippes",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Nippes",
         "sq_XK": "Nippes",
         "sr": "Nippes",
+        "sr@latin": "Nippes",
         "sr_Cyrl": "Nippes",
         "sr_Cyrl_BA": "Nippes",
         "sr_Cyrl_ME": "Nippes",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Nippes",
         "tr_TR": "Nippes",
         "tt": "Nippes",
+        "tt@iqtelif": "Nippes",
         "tt_RU": "Nippes",
         "twq": "Nippes",
         "twq_NE": "Nippes",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Nippes",
         "zh_Hant_TW": "Nippes",
         "zu": "Nippes",
-        "zu_ZA": "Nippes",
-        "sr@latin": "Nippes",
-        "tt@iqtelif": "Nippes"
+        "zu_ZA": "Nippes"
     },
     "NO": {
         "af": "Nord-Ouest",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Nord-Ouest",
         "sq_XK": "Nord-Ouest",
         "sr": "Северозапад",
+        "sr@latin": "Severozapad",
         "sr_Cyrl": "Северозапад",
         "sr_Cyrl_BA": "Северозапад",
         "sr_Cyrl_ME": "Северозапад",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Nord-Ouest",
         "tr_TR": "Nord-Ouest",
         "tt": "Nord-Ouest",
+        "tt@iqtelif": "Nord-Ouest",
         "tt_RU": "Nord-Ouest",
         "twq": "Nord-Ouest",
         "twq_NE": "Nord-Ouest",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Nord-Ouest",
         "zh_Hant_TW": "Nord-Ouest",
         "zu": "Nord-Ouest",
-        "zu_ZA": "Nord-Ouest",
-        "sr@latin": "Severozapad",
-        "tt@iqtelif": "Nord-Ouest"
+        "zu_ZA": "Nord-Ouest"
     },
     "OU": {
         "af": "Ouest",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Ouest",
         "sq_XK": "Ouest",
         "sr": "Ouest",
+        "sr@latin": "Ouest",
         "sr_Cyrl": "Ouest",
         "sr_Cyrl_BA": "Ouest",
         "sr_Cyrl_ME": "Ouest",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Ouest",
         "tr_TR": "Ouest",
         "tt": "Ouest",
+        "tt@iqtelif": "Ouest",
         "tt_RU": "Ouest",
         "twq": "Ouest",
         "twq_NE": "Ouest",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Ouest",
         "zh_Hant_TW": "Ouest",
         "zu": "Ouest",
-        "zu_ZA": "Ouest",
-        "sr@latin": "Ouest",
-        "tt@iqtelif": "Ouest"
+        "zu_ZA": "Ouest"
     },
     "SD": {
         "af": "Sud",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Sud",
         "sq_XK": "Sud",
         "sr": "Sud",
+        "sr@latin": "Sud",
         "sr_Cyrl": "Sud",
         "sr_Cyrl_BA": "Sud",
         "sr_Cyrl_ME": "Sud",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Sud",
         "tr_TR": "Sud",
         "tt": "Sud",
+        "tt@iqtelif": "Sud",
         "tt_RU": "Sud",
         "twq": "Sud",
         "twq_NE": "Sud",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Sud",
         "zh_Hant_TW": "Sud",
         "zu": "Sud",
-        "zu_ZA": "Sud",
-        "sr@latin": "Sud",
-        "tt@iqtelif": "Sud"
+        "zu_ZA": "Sud"
     },
     "SE": {
         "af": "Sud-Est",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Sud-Est",
         "sq_XK": "Sud-Est",
         "sr": "Sud-Est",
+        "sr@latin": "Sud-Est",
         "sr_Cyrl": "Sud-Est",
         "sr_Cyrl_BA": "Sud-Est",
         "sr_Cyrl_ME": "Sud-Est",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Sud-Est",
         "tr_TR": "Sud-Est",
         "tt": "Sud-Est",
+        "tt@iqtelif": "Sud-Est",
         "tt_RU": "Sud-Est",
         "twq": "Sud-Est",
         "twq_NE": "Sud-Est",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Sud-Est",
         "zh_Hant_TW": "Sud-Est",
         "zu": "Sud-Est",
-        "zu_ZA": "Sud-Est",
-        "sr@latin": "Sud-Est",
-        "tt@iqtelif": "Sud-Est"
+        "zu_ZA": "Sud-Est"
     }
 }

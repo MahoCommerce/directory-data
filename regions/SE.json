@@ -743,6 +743,7 @@
         "sq_MK": "Stockholms län [SE-01]",
         "sq_XK": "Stockholms län [SE-01]",
         "sr": "Stockholms län [SE-01]",
+        "sr@latin": "Stockholms län [SE-01]",
         "sr_Cyrl": "Stockholms län [SE-01]",
         "sr_Cyrl_BA": "Stockholms län [SE-01]",
         "sr_Cyrl_ME": "Stockholms län [SE-01]",
@@ -803,6 +804,7 @@
         "tr_CY": "Stockholms län [SE-01]",
         "tr_TR": "Stockholms län [SE-01]",
         "tt": "Stockholms län [SE-01]",
+        "tt@iqtelif": "Stockholms län [SE-01]",
         "tt_RU": "Stockholms län [SE-01]",
         "twq": "Stockholms län [SE-01]",
         "twq_NE": "Stockholms län [SE-01]",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Stockholms län [SE-01]",
         "zh_Hant_TW": "Stockholms län [SE-01]",
         "zu": "Stockholms län [SE-01]",
-        "zu_ZA": "Stockholms län [SE-01]",
-        "sr@latin": "Stockholms län [SE-01]",
-        "tt@iqtelif": "Stockholms län [SE-01]"
+        "zu_ZA": "Stockholms län [SE-01]"
     },
     "AC": {
         "af": "Västerbottens län [SE-24]",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Västerbottens län [SE-24]",
         "sq_XK": "Västerbottens län [SE-24]",
         "sr": "Västerbottens län [SE-24]",
+        "sr@latin": "Västerbottens län [SE-24]",
         "sr_Cyrl": "Västerbottens län [SE-24]",
         "sr_Cyrl_BA": "Västerbottens län [SE-24]",
         "sr_Cyrl_ME": "Västerbottens län [SE-24]",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Västerbottens län [SE-24]",
         "tr_TR": "Västerbottens län [SE-24]",
         "tt": "Västerbottens län [SE-24]",
+        "tt@iqtelif": "Västerbottens län [SE-24]",
         "tt_RU": "Västerbottens län [SE-24]",
         "twq": "Västerbottens län [SE-24]",
         "twq_NE": "Västerbottens län [SE-24]",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Västerbottens län [SE-24]",
         "zh_Hant_TW": "Västerbottens län [SE-24]",
         "zu": "Västerbottens län [SE-24]",
-        "zu_ZA": "Västerbottens län [SE-24]",
-        "sr@latin": "Västerbottens län [SE-24]",
-        "tt@iqtelif": "Västerbottens län [SE-24]"
+        "zu_ZA": "Västerbottens län [SE-24]"
     },
     "BD": {
         "af": "Norrbottens län [SE-25]",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Norrbottens län [SE-25]",
         "sq_XK": "Norrbottens län [SE-25]",
         "sr": "Norrbottens län [SE-25]",
+        "sr@latin": "Norrbottens län [SE-25]",
         "sr_Cyrl": "Norrbottens län [SE-25]",
         "sr_Cyrl_BA": "Norrbottens län [SE-25]",
         "sr_Cyrl_ME": "Norrbottens län [SE-25]",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Norrbottens län [SE-25]",
         "tr_TR": "Norrbottens län [SE-25]",
         "tt": "Norrbottens län [SE-25]",
+        "tt@iqtelif": "Norrbottens län [SE-25]",
         "tt_RU": "Norrbottens län [SE-25]",
         "twq": "Norrbottens län [SE-25]",
         "twq_NE": "Norrbottens län [SE-25]",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Norrbottens län [SE-25]",
         "zh_Hant_TW": "Norrbottens län [SE-25]",
         "zu": "Norrbottens län [SE-25]",
-        "zu_ZA": "Norrbottens län [SE-25]",
-        "sr@latin": "Norrbottens län [SE-25]",
-        "tt@iqtelif": "Norrbottens län [SE-25]"
+        "zu_ZA": "Norrbottens län [SE-25]"
     },
     "C": {
         "af": "Uppsala län [SE-03]",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Uppsala län [SE-03]",
         "sq_XK": "Uppsala län [SE-03]",
         "sr": "Uppsala län [SE-03]",
+        "sr@latin": "Uppsala län [SE-03]",
         "sr_Cyrl": "Uppsala län [SE-03]",
         "sr_Cyrl_BA": "Uppsala län [SE-03]",
         "sr_Cyrl_ME": "Uppsala län [SE-03]",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Uppsala län [SE-03]",
         "tr_TR": "Uppsala län [SE-03]",
         "tt": "Uppsala län [SE-03]",
+        "tt@iqtelif": "Uppsala län [SE-03]",
         "tt_RU": "Uppsala län [SE-03]",
         "twq": "Uppsala län [SE-03]",
         "twq_NE": "Uppsala län [SE-03]",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Uppsala län [SE-03]",
         "zh_Hant_TW": "Uppsala län [SE-03]",
         "zu": "Uppsala län [SE-03]",
-        "zu_ZA": "Uppsala län [SE-03]",
-        "sr@latin": "Uppsala län [SE-03]",
-        "tt@iqtelif": "Uppsala län [SE-03]"
+        "zu_ZA": "Uppsala län [SE-03]"
     },
     "D": {
         "af": "Södermanlands län [SE-04]",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Södermanlands län [SE-04]",
         "sq_XK": "Södermanlands län [SE-04]",
         "sr": "Södermanlands län [SE-04]",
+        "sr@latin": "Södermanlands län [SE-04]",
         "sr_Cyrl": "Södermanlands län [SE-04]",
         "sr_Cyrl_BA": "Södermanlands län [SE-04]",
         "sr_Cyrl_ME": "Södermanlands län [SE-04]",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Södermanlands län [SE-04]",
         "tr_TR": "Södermanlands län [SE-04]",
         "tt": "Södermanlands län [SE-04]",
+        "tt@iqtelif": "Södermanlands län [SE-04]",
         "tt_RU": "Södermanlands län [SE-04]",
         "twq": "Södermanlands län [SE-04]",
         "twq_NE": "Södermanlands län [SE-04]",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Södermanlands län [SE-04]",
         "zh_Hant_TW": "Södermanlands län [SE-04]",
         "zu": "Södermanlands län [SE-04]",
-        "zu_ZA": "Södermanlands län [SE-04]",
-        "sr@latin": "Södermanlands län [SE-04]",
-        "tt@iqtelif": "Södermanlands län [SE-04]"
+        "zu_ZA": "Södermanlands län [SE-04]"
     },
     "E": {
         "af": "Östergötlands län [SE-05]",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Östergötlands län [SE-05]",
         "sq_XK": "Östergötlands län [SE-05]",
         "sr": "Östergötlands län [SE-05]",
+        "sr@latin": "Östergötlands län [SE-05]",
         "sr_Cyrl": "Östergötlands län [SE-05]",
         "sr_Cyrl_BA": "Östergötlands län [SE-05]",
         "sr_Cyrl_ME": "Östergötlands län [SE-05]",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Östergötlands län [SE-05]",
         "tr_TR": "Östergötlands län [SE-05]",
         "tt": "Östergötlands län [SE-05]",
+        "tt@iqtelif": "Östergötlands län [SE-05]",
         "tt_RU": "Östergötlands län [SE-05]",
         "twq": "Östergötlands län [SE-05]",
         "twq_NE": "Östergötlands län [SE-05]",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Östergötlands län [SE-05]",
         "zh_Hant_TW": "Östergötlands län [SE-05]",
         "zu": "Östergötlands län [SE-05]",
-        "zu_ZA": "Östergötlands län [SE-05]",
-        "sr@latin": "Östergötlands län [SE-05]",
-        "tt@iqtelif": "Östergötlands län [SE-05]"
+        "zu_ZA": "Östergötlands län [SE-05]"
     },
     "F": {
         "af": "Jönköpings län [SE-06]",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Jönköpings län [SE-06]",
         "sq_XK": "Jönköpings län [SE-06]",
         "sr": "Jönköpings län [SE-06]",
+        "sr@latin": "Jönköpings län [SE-06]",
         "sr_Cyrl": "Jönköpings län [SE-06]",
         "sr_Cyrl_BA": "Jönköpings län [SE-06]",
         "sr_Cyrl_ME": "Jönköpings län [SE-06]",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Jönköpings län [SE-06]",
         "tr_TR": "Jönköpings län [SE-06]",
         "tt": "Jönköpings län [SE-06]",
+        "tt@iqtelif": "Jönköpings län [SE-06]",
         "tt_RU": "Jönköpings län [SE-06]",
         "twq": "Jönköpings län [SE-06]",
         "twq_NE": "Jönköpings län [SE-06]",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Jönköpings län [SE-06]",
         "zh_Hant_TW": "Jönköpings län [SE-06]",
         "zu": "Jönköpings län [SE-06]",
-        "zu_ZA": "Jönköpings län [SE-06]",
-        "sr@latin": "Jönköpings län [SE-06]",
-        "tt@iqtelif": "Jönköpings län [SE-06]"
+        "zu_ZA": "Jönköpings län [SE-06]"
     },
     "G": {
         "af": "Kronobergs län [SE-07]",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Kronobergs län [SE-07]",
         "sq_XK": "Kronobergs län [SE-07]",
         "sr": "Kronobergs län [SE-07]",
+        "sr@latin": "Kronobergs län [SE-07]",
         "sr_Cyrl": "Kronobergs län [SE-07]",
         "sr_Cyrl_BA": "Kronobergs län [SE-07]",
         "sr_Cyrl_ME": "Kronobergs län [SE-07]",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kronobergs län [SE-07]",
         "tr_TR": "Kronobergs län [SE-07]",
         "tt": "Kronobergs län [SE-07]",
+        "tt@iqtelif": "Kronobergs län [SE-07]",
         "tt_RU": "Kronobergs län [SE-07]",
         "twq": "Kronobergs län [SE-07]",
         "twq_NE": "Kronobergs län [SE-07]",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Kronobergs län [SE-07]",
         "zh_Hant_TW": "Kronobergs län [SE-07]",
         "zu": "Kronobergs län [SE-07]",
-        "zu_ZA": "Kronobergs län [SE-07]",
-        "sr@latin": "Kronobergs län [SE-07]",
-        "tt@iqtelif": "Kronobergs län [SE-07]"
+        "zu_ZA": "Kronobergs län [SE-07]"
     },
     "H": {
         "af": "Kalmar län [SE-08]",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Kalmar län [SE-08]",
         "sq_XK": "Kalmar län [SE-08]",
         "sr": "Kalmar län [SE-08]",
+        "sr@latin": "Kalmar län [SE-08]",
         "sr_Cyrl": "Kalmar län [SE-08]",
         "sr_Cyrl_BA": "Kalmar län [SE-08]",
         "sr_Cyrl_ME": "Kalmar län [SE-08]",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kalmar län [SE-08]",
         "tr_TR": "Kalmar län [SE-08]",
         "tt": "Kalmar län [SE-08]",
+        "tt@iqtelif": "Kalmar län [SE-08]",
         "tt_RU": "Kalmar län [SE-08]",
         "twq": "Kalmar län [SE-08]",
         "twq_NE": "Kalmar län [SE-08]",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Kalmar län [SE-08]",
         "zh_Hant_TW": "Kalmar län [SE-08]",
         "zu": "Kalmar län [SE-08]",
-        "zu_ZA": "Kalmar län [SE-08]",
-        "sr@latin": "Kalmar län [SE-08]",
-        "tt@iqtelif": "Kalmar län [SE-08]"
+        "zu_ZA": "Kalmar län [SE-08]"
     },
     "I": {
         "af": "Gotlands län [SE-09]",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Gotlands län [SE-09]",
         "sq_XK": "Gotlands län [SE-09]",
         "sr": "Gotlands län [SE-09]",
+        "sr@latin": "Gotlands län [SE-09]",
         "sr_Cyrl": "Gotlands län [SE-09]",
         "sr_Cyrl_BA": "Gotlands län [SE-09]",
         "sr_Cyrl_ME": "Gotlands län [SE-09]",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Gotlands län [SE-09]",
         "tr_TR": "Gotlands län [SE-09]",
         "tt": "Gotlands län [SE-09]",
+        "tt@iqtelif": "Gotlands län [SE-09]",
         "tt_RU": "Gotlands län [SE-09]",
         "twq": "Gotlands län [SE-09]",
         "twq_NE": "Gotlands län [SE-09]",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Gotlands län [SE-09]",
         "zh_Hant_TW": "Gotlands län [SE-09]",
         "zu": "Gotlands län [SE-09]",
-        "zu_ZA": "Gotlands län [SE-09]",
-        "sr@latin": "Gotlands län [SE-09]",
-        "tt@iqtelif": "Gotlands län [SE-09]"
+        "zu_ZA": "Gotlands län [SE-09]"
     },
     "K": {
         "af": "Blekinge län [SE-10]",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Blekinge län [SE-10]",
         "sq_XK": "Blekinge län [SE-10]",
         "sr": "Blekinge län [SE-10]",
+        "sr@latin": "Blekinge län [SE-10]",
         "sr_Cyrl": "Blekinge län [SE-10]",
         "sr_Cyrl_BA": "Blekinge län [SE-10]",
         "sr_Cyrl_ME": "Blekinge län [SE-10]",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Blekinge län [SE-10]",
         "tr_TR": "Blekinge län [SE-10]",
         "tt": "Blekinge län [SE-10]",
+        "tt@iqtelif": "Blekinge län [SE-10]",
         "tt_RU": "Blekinge län [SE-10]",
         "twq": "Blekinge län [SE-10]",
         "twq_NE": "Blekinge län [SE-10]",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Blekinge län [SE-10]",
         "zh_Hant_TW": "Blekinge län [SE-10]",
         "zu": "Blekinge län [SE-10]",
-        "zu_ZA": "Blekinge län [SE-10]",
-        "sr@latin": "Blekinge län [SE-10]",
-        "tt@iqtelif": "Blekinge län [SE-10]"
+        "zu_ZA": "Blekinge län [SE-10]"
     },
     "M": {
         "af": "Skåne län [SE-12]",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Skåne län [SE-12]",
         "sq_XK": "Skåne län [SE-12]",
         "sr": "Skåne län [SE-12]",
+        "sr@latin": "Skåne län [SE-12]",
         "sr_Cyrl": "Skåne län [SE-12]",
         "sr_Cyrl_BA": "Skåne län [SE-12]",
         "sr_Cyrl_ME": "Skåne län [SE-12]",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Skåne län [SE-12]",
         "tr_TR": "Skåne län [SE-12]",
         "tt": "Skåne län [SE-12]",
+        "tt@iqtelif": "Skåne län [SE-12]",
         "tt_RU": "Skåne län [SE-12]",
         "twq": "Skåne län [SE-12]",
         "twq_NE": "Skåne län [SE-12]",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Skåne län [SE-12]",
         "zh_Hant_TW": "Skåne län [SE-12]",
         "zu": "Skåne län [SE-12]",
-        "zu_ZA": "Skåne län [SE-12]",
-        "sr@latin": "Skåne län [SE-12]",
-        "tt@iqtelif": "Skåne län [SE-12]"
+        "zu_ZA": "Skåne län [SE-12]"
     },
     "N": {
         "af": "Hallands län [SE-13]",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Hallands län [SE-13]",
         "sq_XK": "Hallands län [SE-13]",
         "sr": "Hallands län [SE-13]",
+        "sr@latin": "Hallands län [SE-13]",
         "sr_Cyrl": "Hallands län [SE-13]",
         "sr_Cyrl_BA": "Hallands län [SE-13]",
         "sr_Cyrl_ME": "Hallands län [SE-13]",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Hallands län [SE-13]",
         "tr_TR": "Hallands län [SE-13]",
         "tt": "Hallands län [SE-13]",
+        "tt@iqtelif": "Hallands län [SE-13]",
         "tt_RU": "Hallands län [SE-13]",
         "twq": "Hallands län [SE-13]",
         "twq_NE": "Hallands län [SE-13]",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Hallands län [SE-13]",
         "zh_Hant_TW": "Hallands län [SE-13]",
         "zu": "Hallands län [SE-13]",
-        "zu_ZA": "Hallands län [SE-13]",
-        "sr@latin": "Hallands län [SE-13]",
-        "tt@iqtelif": "Hallands län [SE-13]"
+        "zu_ZA": "Hallands län [SE-13]"
     },
     "O": {
         "af": "Västra Götalands län [SE-14]",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Västra Götalands län [SE-14]",
         "sq_XK": "Västra Götalands län [SE-14]",
         "sr": "Västra Götalands län [SE-14]",
+        "sr@latin": "Västra Götalands län [SE-14]",
         "sr_Cyrl": "Västra Götalands län [SE-14]",
         "sr_Cyrl_BA": "Västra Götalands län [SE-14]",
         "sr_Cyrl_ME": "Västra Götalands län [SE-14]",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Västra Götalands län [SE-14]",
         "tr_TR": "Västra Götalands län [SE-14]",
         "tt": "Västra Götalands län [SE-14]",
+        "tt@iqtelif": "Västra Götalands län [SE-14]",
         "tt_RU": "Västra Götalands län [SE-14]",
         "twq": "Västra Götalands län [SE-14]",
         "twq_NE": "Västra Götalands län [SE-14]",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Västra Götalands län [SE-14]",
         "zh_Hant_TW": "Västra Götalands län [SE-14]",
         "zu": "Västra Götalands län [SE-14]",
-        "zu_ZA": "Västra Götalands län [SE-14]",
-        "sr@latin": "Västra Götalands län [SE-14]",
-        "tt@iqtelif": "Västra Götalands län [SE-14]"
+        "zu_ZA": "Västra Götalands län [SE-14]"
     },
     "S": {
         "af": "Värmlands län [SE-17]",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Värmlands län [SE-17]",
         "sq_XK": "Värmlands län [SE-17]",
         "sr": "Värmlands län [SE-17]",
+        "sr@latin": "Värmlands län [SE-17]",
         "sr_Cyrl": "Värmlands län [SE-17]",
         "sr_Cyrl_BA": "Värmlands län [SE-17]",
         "sr_Cyrl_ME": "Värmlands län [SE-17]",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Värmlands län [SE-17]",
         "tr_TR": "Värmlands län [SE-17]",
         "tt": "Värmlands län [SE-17]",
+        "tt@iqtelif": "Värmlands län [SE-17]",
         "tt_RU": "Värmlands län [SE-17]",
         "twq": "Värmlands län [SE-17]",
         "twq_NE": "Värmlands län [SE-17]",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Värmlands län [SE-17]",
         "zh_Hant_TW": "Värmlands län [SE-17]",
         "zu": "Värmlands län [SE-17]",
-        "zu_ZA": "Värmlands län [SE-17]",
-        "sr@latin": "Värmlands län [SE-17]",
-        "tt@iqtelif": "Värmlands län [SE-17]"
+        "zu_ZA": "Värmlands län [SE-17]"
     },
     "T": {
         "af": "Örebro län [SE-18]",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Örebro län [SE-18]",
         "sq_XK": "Örebro län [SE-18]",
         "sr": "Örebro län [SE-18]",
+        "sr@latin": "Örebro län [SE-18]",
         "sr_Cyrl": "Örebro län [SE-18]",
         "sr_Cyrl_BA": "Örebro län [SE-18]",
         "sr_Cyrl_ME": "Örebro län [SE-18]",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Örebro län [SE-18]",
         "tr_TR": "Örebro län [SE-18]",
         "tt": "Örebro län [SE-18]",
+        "tt@iqtelif": "Örebro län [SE-18]",
         "tt_RU": "Örebro län [SE-18]",
         "twq": "Örebro län [SE-18]",
         "twq_NE": "Örebro län [SE-18]",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Örebro län [SE-18]",
         "zh_Hant_TW": "Örebro län [SE-18]",
         "zu": "Örebro län [SE-18]",
-        "zu_ZA": "Örebro län [SE-18]",
-        "sr@latin": "Örebro län [SE-18]",
-        "tt@iqtelif": "Örebro län [SE-18]"
+        "zu_ZA": "Örebro län [SE-18]"
     },
     "U": {
         "af": "Västmanlands län [SE-19]",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Västmanlands län [SE-19]",
         "sq_XK": "Västmanlands län [SE-19]",
         "sr": "Västmanlands län [SE-19]",
+        "sr@latin": "Västmanlands län [SE-19]",
         "sr_Cyrl": "Västmanlands län [SE-19]",
         "sr_Cyrl_BA": "Västmanlands län [SE-19]",
         "sr_Cyrl_ME": "Västmanlands län [SE-19]",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Västmanlands län [SE-19]",
         "tr_TR": "Västmanlands län [SE-19]",
         "tt": "Västmanlands län [SE-19]",
+        "tt@iqtelif": "Västmanlands län [SE-19]",
         "tt_RU": "Västmanlands län [SE-19]",
         "twq": "Västmanlands län [SE-19]",
         "twq_NE": "Västmanlands län [SE-19]",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Västmanlands län [SE-19]",
         "zh_Hant_TW": "Västmanlands län [SE-19]",
         "zu": "Västmanlands län [SE-19]",
-        "zu_ZA": "Västmanlands län [SE-19]",
-        "sr@latin": "Västmanlands län [SE-19]",
-        "tt@iqtelif": "Västmanlands län [SE-19]"
+        "zu_ZA": "Västmanlands län [SE-19]"
     },
     "W": {
         "af": "Dalarnas län [SE-20]",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Dalarnas län [SE-20]",
         "sq_XK": "Dalarnas län [SE-20]",
         "sr": "Dalarnas län [SE-20]",
+        "sr@latin": "Dalarnas län [SE-20]",
         "sr_Cyrl": "Dalarnas län [SE-20]",
         "sr_Cyrl_BA": "Dalarnas län [SE-20]",
         "sr_Cyrl_ME": "Dalarnas län [SE-20]",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Dalarnas län [SE-20]",
         "tr_TR": "Dalarnas län [SE-20]",
         "tt": "Dalarnas län [SE-20]",
+        "tt@iqtelif": "Dalarnas län [SE-20]",
         "tt_RU": "Dalarnas län [SE-20]",
         "twq": "Dalarnas län [SE-20]",
         "twq_NE": "Dalarnas län [SE-20]",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Dalarnas län [SE-20]",
         "zh_Hant_TW": "Dalarnas län [SE-20]",
         "zu": "Dalarnas län [SE-20]",
-        "zu_ZA": "Dalarnas län [SE-20]",
-        "sr@latin": "Dalarnas län [SE-20]",
-        "tt@iqtelif": "Dalarnas län [SE-20]"
+        "zu_ZA": "Dalarnas län [SE-20]"
     },
     "X": {
         "af": "Gävleborgs län [SE-21]",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Gävleborgs län [SE-21]",
         "sq_XK": "Gävleborgs län [SE-21]",
         "sr": "Gävleborgs län [SE-21]",
+        "sr@latin": "Gävleborgs län [SE-21]",
         "sr_Cyrl": "Gävleborgs län [SE-21]",
         "sr_Cyrl_BA": "Gävleborgs län [SE-21]",
         "sr_Cyrl_ME": "Gävleborgs län [SE-21]",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Gävleborgs län [SE-21]",
         "tr_TR": "Gävleborgs län [SE-21]",
         "tt": "Gävleborgs län [SE-21]",
+        "tt@iqtelif": "Gävleborgs län [SE-21]",
         "tt_RU": "Gävleborgs län [SE-21]",
         "twq": "Gävleborgs län [SE-21]",
         "twq_NE": "Gävleborgs län [SE-21]",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Gävleborgs län [SE-21]",
         "zh_Hant_TW": "Gävleborgs län [SE-21]",
         "zu": "Gävleborgs län [SE-21]",
-        "zu_ZA": "Gävleborgs län [SE-21]",
-        "sr@latin": "Gävleborgs län [SE-21]",
-        "tt@iqtelif": "Gävleborgs län [SE-21]"
+        "zu_ZA": "Gävleborgs län [SE-21]"
     },
     "Y": {
         "af": "Västernorrlands län [SE-22]",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Västernorrlands län [SE-22]",
         "sq_XK": "Västernorrlands län [SE-22]",
         "sr": "Västernorrlands län [SE-22]",
+        "sr@latin": "Västernorrlands län [SE-22]",
         "sr_Cyrl": "Västernorrlands län [SE-22]",
         "sr_Cyrl_BA": "Västernorrlands län [SE-22]",
         "sr_Cyrl_ME": "Västernorrlands län [SE-22]",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Västernorrlands län [SE-22]",
         "tr_TR": "Västernorrlands län [SE-22]",
         "tt": "Västernorrlands län [SE-22]",
+        "tt@iqtelif": "Västernorrlands län [SE-22]",
         "tt_RU": "Västernorrlands län [SE-22]",
         "twq": "Västernorrlands län [SE-22]",
         "twq_NE": "Västernorrlands län [SE-22]",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Västernorrlands län [SE-22]",
         "zh_Hant_TW": "Västernorrlands län [SE-22]",
         "zu": "Västernorrlands län [SE-22]",
-        "zu_ZA": "Västernorrlands län [SE-22]",
-        "sr@latin": "Västernorrlands län [SE-22]",
-        "tt@iqtelif": "Västernorrlands län [SE-22]"
+        "zu_ZA": "Västernorrlands län [SE-22]"
     },
     "Z": {
         "af": "Jämtlands län [SE-23]",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Jämtlands län [SE-23]",
         "sq_XK": "Jämtlands län [SE-23]",
         "sr": "Jämtlands län [SE-23]",
+        "sr@latin": "Jämtlands län [SE-23]",
         "sr_Cyrl": "Jämtlands län [SE-23]",
         "sr_Cyrl_BA": "Jämtlands län [SE-23]",
         "sr_Cyrl_ME": "Jämtlands län [SE-23]",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Jämtlands län [SE-23]",
         "tr_TR": "Jämtlands län [SE-23]",
         "tt": "Jämtlands län [SE-23]",
+        "tt@iqtelif": "Jämtlands län [SE-23]",
         "tt_RU": "Jämtlands län [SE-23]",
         "twq": "Jämtlands län [SE-23]",
         "twq_NE": "Jämtlands län [SE-23]",
@@ -18580,8 +18582,6 @@
         "zh_Hant_MY": "Jämtlands län [SE-23]",
         "zh_Hant_TW": "Jämtlands län [SE-23]",
         "zu": "Jämtlands län [SE-23]",
-        "zu_ZA": "Jämtlands län [SE-23]",
-        "sr@latin": "Jämtlands län [SE-23]",
-        "tt@iqtelif": "Jämtlands län [SE-23]"
+        "zu_ZA": "Jämtlands län [SE-23]"
     }
 }

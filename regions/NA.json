@@ -743,6 +743,7 @@
         "sq_MK": "Zambezi",
         "sq_XK": "Zambezi",
         "sr": "Zambezi",
+        "sr@latin": "Zambezi",
         "sr_Cyrl": "Zambezi",
         "sr_Cyrl_BA": "Zambezi",
         "sr_Cyrl_ME": "Zambezi",
@@ -803,6 +804,7 @@
         "tr_CY": "Zambezi",
         "tr_TR": "Zambezi",
         "tt": "Zambezi",
+        "tt@iqtelif": "Zambezi",
         "tt_RU": "Zambezi",
         "twq": "Zambezi",
         "twq_NE": "Zambezi",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Zambezi",
         "zh_Hant_TW": "Zambezi",
         "zu": "Zambezi",
-        "zu_ZA": "Zambezi",
-        "sr@latin": "Zambezi",
-        "tt@iqtelif": "Zambezi"
+        "zu_ZA": "Zambezi"
     },
     "ER": {
         "af": "Erongo",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Erongo",
         "sq_XK": "Erongo",
         "sr": "Еронго",
+        "sr@latin": "Erongo",
         "sr_Cyrl": "Еронго",
         "sr_Cyrl_BA": "Еронго",
         "sr_Cyrl_ME": "Еронго",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Erongo",
         "tr_TR": "Erongo",
         "tt": "Erongo",
+        "tt@iqtelif": "Erongo",
         "tt_RU": "Erongo",
         "twq": "Erongo",
         "twq_NE": "Erongo",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Erongo",
         "zh_Hant_TW": "Erongo",
         "zu": "Erongo",
-        "zu_ZA": "Erongo",
-        "sr@latin": "Erongo",
-        "tt@iqtelif": "Erongo"
+        "zu_ZA": "Erongo"
     },
     "HA": {
         "af": "Hardap",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Hardap",
         "sq_XK": "Hardap",
         "sr": "Хардап",
+        "sr@latin": "Hardap",
         "sr_Cyrl": "Хардап",
         "sr_Cyrl_BA": "Хардап",
         "sr_Cyrl_ME": "Хардап",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Hardap",
         "tr_TR": "Hardap",
         "tt": "Hardap",
+        "tt@iqtelif": "Hardap",
         "tt_RU": "Hardap",
         "twq": "Hardap",
         "twq_NE": "Hardap",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Hardap",
         "zh_Hant_TW": "Hardap",
         "zu": "Hardap",
-        "zu_ZA": "Hardap",
-        "sr@latin": "Hardap",
-        "tt@iqtelif": "Hardap"
+        "zu_ZA": "Hardap"
     },
     "KA": {
         "af": "\/\/Karas",
@@ -3398,6 +3398,7 @@
         "sq_MK": "\/\/Karas",
         "sq_XK": "\/\/Karas",
         "sr": "\/\/Karas",
+        "sr@latin": "\/\/Karas",
         "sr_Cyrl": "\/\/Karas",
         "sr_Cyrl_BA": "\/\/Karas",
         "sr_Cyrl_ME": "\/\/Karas",
@@ -3458,6 +3459,7 @@
         "tr_CY": "\/\/Karas",
         "tr_TR": "\/\/Karas",
         "tt": "\/\/Karas",
+        "tt@iqtelif": "\/\/Karas",
         "tt_RU": "\/\/Karas",
         "twq": "\/\/Karas",
         "twq_NE": "\/\/Karas",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "\/\/Karas",
         "zh_Hant_TW": "\/\/Karas",
         "zu": "\/\/Karas",
-        "zu_ZA": "\/\/Karas",
-        "sr@latin": "\/\/Karas",
-        "tt@iqtelif": "\/\/Karas"
+        "zu_ZA": "\/\/Karas"
     },
     "KE": {
         "af": "Kavango East",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Kavango East",
         "sq_XK": "Kavango East",
         "sr": "Kavango East",
+        "sr@latin": "Kavango East",
         "sr_Cyrl": "Kavango East",
         "sr_Cyrl_BA": "Kavango East",
         "sr_Cyrl_ME": "Kavango East",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Kavango East",
         "tr_TR": "Kavango East",
         "tt": "Kavango East",
+        "tt@iqtelif": "Kavango East",
         "tt_RU": "Kavango East",
         "twq": "Kavango East",
         "twq_NE": "Kavango East",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Kavango East",
         "zh_Hant_TW": "Kavango East",
         "zu": "Kavango East",
-        "zu_ZA": "Kavango East",
-        "sr@latin": "Kavango East",
-        "tt@iqtelif": "Kavango East"
+        "zu_ZA": "Kavango East"
     },
     "KH": {
         "af": "Khomas",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Khomas",
         "sq_XK": "Khomas",
         "sr": "Комас",
+        "sr@latin": "Komas",
         "sr_Cyrl": "Комас",
         "sr_Cyrl_BA": "Комас",
         "sr_Cyrl_ME": "Комас",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Khomas",
         "tr_TR": "Khomas",
         "tt": "Khomas",
+        "tt@iqtelif": "Khomas",
         "tt_RU": "Khomas",
         "twq": "Khomas",
         "twq_NE": "Khomas",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Khomas",
         "zh_Hant_TW": "Khomas",
         "zu": "Khomas",
-        "zu_ZA": "Khomas",
-        "sr@latin": "Komas",
-        "tt@iqtelif": "Khomas"
+        "zu_ZA": "Khomas"
     },
     "KU": {
         "af": "Kunene",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Kunene",
         "sq_XK": "Kunene",
         "sr": "Кунене",
+        "sr@latin": "Kunene",
         "sr_Cyrl": "Кунене",
         "sr_Cyrl_BA": "Кунене",
         "sr_Cyrl_ME": "Кунене",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Kunene",
         "tr_TR": "Kunene",
         "tt": "Kunene",
+        "tt@iqtelif": "Kunene",
         "tt_RU": "Kunene",
         "twq": "Kunene",
         "twq_NE": "Kunene",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Kunene",
         "zh_Hant_TW": "Kunene",
         "zu": "Kunene",
-        "zu_ZA": "Kunene",
-        "sr@latin": "Kunene",
-        "tt@iqtelif": "Kunene"
+        "zu_ZA": "Kunene"
     },
     "KW": {
         "af": "Kavango West",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Kavango West",
         "sq_XK": "Kavango West",
         "sr": "Kavango West",
+        "sr@latin": "Kavango West",
         "sr_Cyrl": "Kavango West",
         "sr_Cyrl_BA": "Kavango West",
         "sr_Cyrl_ME": "Kavango West",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kavango West",
         "tr_TR": "Kavango West",
         "tt": "Kavango West",
+        "tt@iqtelif": "Kavango West",
         "tt_RU": "Kavango West",
         "twq": "Kavango West",
         "twq_NE": "Kavango West",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Kavango West",
         "zh_Hant_TW": "Kavango West",
         "zu": "Kavango West",
-        "zu_ZA": "Kavango West",
-        "sr@latin": "Kavango West",
-        "tt@iqtelif": "Kavango West"
+        "zu_ZA": "Kavango West"
     },
     "OD": {
         "af": "Otjozondjupa",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Otjozondjupa",
         "sq_XK": "Otjozondjupa",
         "sr": "Otjozondjupa",
+        "sr@latin": "Otjozondjupa",
         "sr_Cyrl": "Otjozondjupa",
         "sr_Cyrl_BA": "Otjozondjupa",
         "sr_Cyrl_ME": "Otjozondjupa",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Otjozondjupa",
         "tr_TR": "Otjozondjupa",
         "tt": "Otjozondjupa",
+        "tt@iqtelif": "Otjozondjupa",
         "tt_RU": "Otjozondjupa",
         "twq": "Otjozondjupa",
         "twq_NE": "Otjozondjupa",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Otjozondjupa",
         "zh_Hant_TW": "Otjozondjupa",
         "zu": "Otjozondjupa",
-        "zu_ZA": "Otjozondjupa",
-        "sr@latin": "Otjozondjupa",
-        "tt@iqtelif": "Otjozondjupa"
+        "zu_ZA": "Otjozondjupa"
     },
     "OH": {
         "af": "Omaheke",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Omaheke",
         "sq_XK": "Omaheke",
         "sr": "Омахеке",
+        "sr@latin": "Omaheke",
         "sr_Cyrl": "Омахеке",
         "sr_Cyrl_BA": "Омахеке",
         "sr_Cyrl_ME": "Омахеке",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Omaheke",
         "tr_TR": "Omaheke",
         "tt": "Omaheke",
+        "tt@iqtelif": "Omaheke",
         "tt_RU": "Omaheke",
         "twq": "Omaheke",
         "twq_NE": "Omaheke",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Omaheke",
         "zh_Hant_TW": "Omaheke",
         "zu": "Omaheke",
-        "zu_ZA": "Omaheke",
-        "sr@latin": "Omaheke",
-        "tt@iqtelif": "Omaheke"
+        "zu_ZA": "Omaheke"
     },
     "ON": {
         "af": "Oshana",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Oshana",
         "sq_XK": "Oshana",
         "sr": "Ошана",
+        "sr@latin": "Ošana",
         "sr_Cyrl": "Ошана",
         "sr_Cyrl_BA": "Ошана",
         "sr_Cyrl_ME": "Ошана",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Oshana",
         "tr_TR": "Oshana",
         "tt": "Oshana",
+        "tt@iqtelif": "Oshana",
         "tt_RU": "Oshana",
         "twq": "Oshana",
         "twq_NE": "Oshana",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Oshana",
         "zh_Hant_TW": "Oshana",
         "zu": "Oshana",
-        "zu_ZA": "Oshana",
-        "sr@latin": "Ošana",
-        "tt@iqtelif": "Oshana"
+        "zu_ZA": "Oshana"
     },
     "OS": {
         "af": "Omusati",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Omusati",
         "sq_XK": "Omusati",
         "sr": "Omusati",
+        "sr@latin": "Omusati",
         "sr_Cyrl": "Omusati",
         "sr_Cyrl_BA": "Omusati",
         "sr_Cyrl_ME": "Omusati",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Omusati",
         "tr_TR": "Omusati",
         "tt": "Omusati",
+        "tt@iqtelif": "Omusati",
         "tt_RU": "Omusati",
         "twq": "Omusati",
         "twq_NE": "Omusati",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Omusati",
         "zh_Hant_TW": "Omusati",
         "zu": "Omusati",
-        "zu_ZA": "Omusati",
-        "sr@latin": "Omusati",
-        "tt@iqtelif": "Omusati"
+        "zu_ZA": "Omusati"
     },
     "OT": {
         "af": "Oshikoto",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Oshikoto",
         "sq_XK": "Oshikoto",
         "sr": "Ошикото",
+        "sr@latin": "Ošikoto",
         "sr_Cyrl": "Ошикото",
         "sr_Cyrl_BA": "Ошикото",
         "sr_Cyrl_ME": "Ошикото",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Oshikoto",
         "tr_TR": "Oshikoto",
         "tt": "Oshikoto",
+        "tt@iqtelif": "Oshikoto",
         "tt_RU": "Oshikoto",
         "twq": "Oshikoto",
         "twq_NE": "Oshikoto",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Oshikoto",
         "zh_Hant_TW": "Oshikoto",
         "zu": "Oshikoto",
-        "zu_ZA": "Oshikoto",
-        "sr@latin": "Ošikoto",
-        "tt@iqtelif": "Oshikoto"
+        "zu_ZA": "Oshikoto"
     },
     "OW": {
         "af": "Ohangwena",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Ohangwena",
         "sq_XK": "Ohangwena",
         "sr": "Ohangwena",
+        "sr@latin": "Ohangwena",
         "sr_Cyrl": "Ohangwena",
         "sr_Cyrl_BA": "Ohangwena",
         "sr_Cyrl_ME": "Ohangwena",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Ohangwena",
         "tr_TR": "Ohangwena",
         "tt": "Ohangwena",
+        "tt@iqtelif": "Ohangwena",
         "tt_RU": "Ohangwena",
         "twq": "Ohangwena",
         "twq_NE": "Ohangwena",
@@ -12385,8 +12387,6 @@
         "zh_Hant_MY": "Ohangwena",
         "zh_Hant_TW": "Ohangwena",
         "zu": "Ohangwena",
-        "zu_ZA": "Ohangwena",
-        "sr@latin": "Ohangwena",
-        "tt@iqtelif": "Ohangwena"
+        "zu_ZA": "Ohangwena"
     }
 }

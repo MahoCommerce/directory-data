@@ -743,6 +743,7 @@
         "sq_MK": "Ansabā",
         "sq_XK": "Ansabā",
         "sr": "Ansabā",
+        "sr@latin": "Ansabā",
         "sr_Cyrl": "Ansabā",
         "sr_Cyrl_BA": "Ansabā",
         "sr_Cyrl_ME": "Ansabā",
@@ -803,6 +804,7 @@
         "tr_CY": "Ansabā",
         "tr_TR": "Ansabā",
         "tt": "Ansabā",
+        "tt@iqtelif": "Ansabā",
         "tt_RU": "Ansabā",
         "twq": "Ansabā",
         "twq_NE": "Ansabā",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ansabā",
         "zh_Hant_TW": "Ansabā",
         "zu": "Ansabā",
-        "zu_ZA": "Ansabā",
-        "sr@latin": "Ansabā",
-        "tt@iqtelif": "Ansabā"
+        "zu_ZA": "Ansabā"
     },
     "DK": {
         "af": "Debubawi K’eyyĭḥ Baḥri",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Debubawi K’eyyĭḥ Baḥri",
         "sq_XK": "Debubawi K’eyyĭḥ Baḥri",
         "sr": "Debubawi K’eyyĭḥ Baḥri",
+        "sr@latin": "Debubawi K’eyyĭḥ Baḥri",
         "sr_Cyrl": "Debubawi K’eyyĭḥ Baḥri",
         "sr_Cyrl_BA": "Debubawi K’eyyĭḥ Baḥri",
         "sr_Cyrl_ME": "Debubawi K’eyyĭḥ Baḥri",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Debubawi K’eyyĭḥ Baḥri",
         "tr_TR": "Debubawi K’eyyĭḥ Baḥri",
         "tt": "Debubawi K’eyyĭḥ Baḥri",
+        "tt@iqtelif": "Debubawi K’eyyĭḥ Baḥri",
         "tt_RU": "Debubawi K’eyyĭḥ Baḥri",
         "twq": "Debubawi K’eyyĭḥ Baḥri",
         "twq_NE": "Debubawi K’eyyĭḥ Baḥri",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Debubawi K’eyyĭḥ Baḥri",
         "zh_Hant_TW": "Debubawi K’eyyĭḥ Baḥri",
         "zu": "Debubawi K’eyyĭḥ Baḥri",
-        "zu_ZA": "Debubawi K’eyyĭḥ Baḥri",
-        "sr@latin": "Debubawi K’eyyĭḥ Baḥri",
-        "tt@iqtelif": "Debubawi K’eyyĭḥ Baḥri"
+        "zu_ZA": "Debubawi K’eyyĭḥ Baḥri"
     },
     "DU": {
         "af": "Al Janūbī",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Al Janūbī",
         "sq_XK": "Al Janūbī",
         "sr": "Al Janūbī",
+        "sr@latin": "Al Janūbī",
         "sr_Cyrl": "Al Janūbī",
         "sr_Cyrl_BA": "Al Janūbī",
         "sr_Cyrl_ME": "Al Janūbī",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Al Janubi",
         "tr_TR": "Al Janubi",
         "tt": "Al Janūbī",
+        "tt@iqtelif": "Al Janūbī",
         "tt_RU": "Al Janūbī",
         "twq": "Al Janūbī",
         "twq_NE": "Al Janūbī",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Al Janūbī",
         "zh_Hant_TW": "Al Janūbī",
         "zu": "Al Janūbī",
-        "zu_ZA": "Al Janūbī",
-        "sr@latin": "Al Janūbī",
-        "tt@iqtelif": "Al Janūbī"
+        "zu_ZA": "Al Janūbī"
     },
     "GB": {
         "af": "Gash-Barka",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Gash-Barka",
         "sq_XK": "Gash-Barka",
         "sr": "Gash-Barka",
+        "sr@latin": "Gash-Barka",
         "sr_Cyrl": "Gash-Barka",
         "sr_Cyrl_BA": "Gash-Barka",
         "sr_Cyrl_ME": "Gash-Barka",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Gash-Barka",
         "tr_TR": "Gash-Barka",
         "tt": "Gash-Barka",
+        "tt@iqtelif": "Gash-Barka",
         "tt_RU": "Gash-Barka",
         "twq": "Gash-Barka",
         "twq_NE": "Gash-Barka",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Gash-Barka",
         "zh_Hant_TW": "Gash-Barka",
         "zu": "Gash-Barka",
-        "zu_ZA": "Gash-Barka",
-        "sr@latin": "Gash-Barka",
-        "tt@iqtelif": "Gash-Barka"
+        "zu_ZA": "Gash-Barka"
     },
     "MA": {
         "af": "Al Awsaţ",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Al Awsaţ",
         "sq_XK": "Al Awsaţ",
         "sr": "Ал Авсат",
+        "sr@latin": "Al Avsat",
         "sr_Cyrl": "Ал Авсат",
         "sr_Cyrl_BA": "Ал Авсат",
         "sr_Cyrl_ME": "Ал Авсат",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Al Awsaţ",
         "tr_TR": "Al Awsaţ",
         "tt": "Al Awsaţ",
+        "tt@iqtelif": "Al Awsaţ",
         "tt_RU": "Al Awsaţ",
         "twq": "Al Awsaţ",
         "twq_NE": "Al Awsaţ",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Al Awsaţ",
         "zh_Hant_TW": "Al Awsaţ",
         "zu": "Al Awsaţ",
-        "zu_ZA": "Al Awsaţ",
-        "sr@latin": "Al Avsat",
-        "tt@iqtelif": "Al Awsaţ"
+        "zu_ZA": "Al Awsaţ"
     },
     "SK": {
         "af": "Semienawi K’eyyĭḥ Baḥri",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Semienawi K’eyyĭḥ Baḥri",
         "sq_XK": "Semienawi K’eyyĭḥ Baḥri",
         "sr": "Semienawi K’eyyĭḥ Baḥri",
+        "sr@latin": "Semienawi K’eyyĭḥ Baḥri",
         "sr_Cyrl": "Semienawi K’eyyĭḥ Baḥri",
         "sr_Cyrl_BA": "Semienawi K’eyyĭḥ Baḥri",
         "sr_Cyrl_ME": "Semienawi K’eyyĭḥ Baḥri",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Semienawi K’eyyĭḥ Baḥri",
         "tr_TR": "Semienawi K’eyyĭḥ Baḥri",
         "tt": "Semienawi K’eyyĭḥ Baḥri",
+        "tt@iqtelif": "Semienawi K’eyyĭḥ Baḥri",
         "tt_RU": "Semienawi K’eyyĭḥ Baḥri",
         "twq": "Semienawi K’eyyĭḥ Baḥri",
         "twq_NE": "Semienawi K’eyyĭḥ Baḥri",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Semienawi K’eyyĭḥ Baḥri",
         "zh_Hant_TW": "Semienawi K’eyyĭḥ Baḥri",
         "zu": "Semienawi K’eyyĭḥ Baḥri",
-        "zu_ZA": "Semienawi K’eyyĭḥ Baḥri",
-        "sr@latin": "Semienawi K’eyyĭḥ Baḥri",
-        "tt@iqtelif": "Semienawi K’eyyĭḥ Baḥri"
+        "zu_ZA": "Semienawi K’eyyĭḥ Baḥri"
     }
 }

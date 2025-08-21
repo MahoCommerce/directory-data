@@ -743,6 +743,7 @@
         "sq_MK": "Bresckaja voblasć",
         "sq_XK": "Bresckaja voblasć",
         "sr": "Bresckaja voblasć",
+        "sr@latin": "Bresckaja voblasć",
         "sr_Cyrl": "Bresckaja voblasć",
         "sr_Cyrl_BA": "Bresckaja voblasć",
         "sr_Cyrl_ME": "Bresckaja voblasć",
@@ -803,6 +804,7 @@
         "tr_CY": "Bresckaja voblasć",
         "tr_TR": "Bresckaja voblasć",
         "tt": "Bresckaja voblasć",
+        "tt@iqtelif": "Bresckaja voblasć",
         "tt_RU": "Bresckaja voblasć",
         "twq": "Bresckaja voblasć",
         "twq_NE": "Bresckaja voblasć",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Bresckaja voblasć",
         "zh_Hant_TW": "Bresckaja voblasć",
         "zu": "Bresckaja voblasć",
-        "zu_ZA": "Bresckaja voblasć",
-        "sr@latin": "Bresckaja voblasć",
-        "tt@iqtelif": "Bresckaja voblasć"
+        "zu_ZA": "Bresckaja voblasć"
     },
     "HM": {
         "af": "Gorod Minsk",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Gorod Minsk",
         "sq_XK": "Gorod Minsk",
         "sr": "Gorod Minsk",
+        "sr@latin": "Gorod Minsk",
         "sr_Cyrl": "Gorod Minsk",
         "sr_Cyrl_BA": "Gorod Minsk",
         "sr_Cyrl_ME": "Gorod Minsk",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Gorod Minsk",
         "tr_TR": "Gorod Minsk",
         "tt": "Gorod Minsk",
+        "tt@iqtelif": "Gorod Minsk",
         "tt_RU": "Gorod Minsk",
         "twq": "Gorod Minsk",
         "twq_NE": "Gorod Minsk",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Gorod Minsk",
         "zh_Hant_TW": "Gorod Minsk",
         "zu": "Gorod Minsk",
-        "zu_ZA": "Gorod Minsk",
-        "sr@latin": "Gorod Minsk",
-        "tt@iqtelif": "Gorod Minsk"
+        "zu_ZA": "Gorod Minsk"
     },
     "HO": {
         "af": "Gomel'skaja oblast'",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Gomel'skaja oblast'",
         "sq_XK": "Gomel'skaja oblast'",
         "sr": "Gomel'skaja oblast'",
+        "sr@latin": "Gomel'skaja oblast'",
         "sr_Cyrl": "Gomel'skaja oblast'",
         "sr_Cyrl_BA": "Gomel'skaja oblast'",
         "sr_Cyrl_ME": "Gomel'skaja oblast'",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Gomel'skaja oblast'",
         "tr_TR": "Gomel'skaja oblast'",
         "tt": "Gomel'skaja oblast'",
+        "tt@iqtelif": "Gomel'skaja oblast'",
         "tt_RU": "Gomel'skaja oblast'",
         "twq": "Gomel'skaja oblast'",
         "twq_NE": "Gomel'skaja oblast'",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Gomel'skaja oblast'",
         "zh_Hant_TW": "Gomel'skaja oblast'",
         "zu": "Gomel'skaja oblast'",
-        "zu_ZA": "Gomel'skaja oblast'",
-        "sr@latin": "Gomel'skaja oblast'",
-        "tt@iqtelif": "Gomel'skaja oblast'"
+        "zu_ZA": "Gomel'skaja oblast'"
     },
     "HR": {
         "af": "Grodnenskaja oblast'",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Grodnenskaja oblast'",
         "sq_XK": "Grodnenskaja oblast'",
         "sr": "Grodnenskaja oblast'",
+        "sr@latin": "Grodnenskaja oblast'",
         "sr_Cyrl": "Grodnenskaja oblast'",
         "sr_Cyrl_BA": "Grodnenskaja oblast'",
         "sr_Cyrl_ME": "Grodnenskaja oblast'",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Grodnenskaja oblast'",
         "tr_TR": "Grodnenskaja oblast'",
         "tt": "Grodnenskaja oblast'",
+        "tt@iqtelif": "Grodnenskaja oblast'",
         "tt_RU": "Grodnenskaja oblast'",
         "twq": "Grodnenskaja oblast'",
         "twq_NE": "Grodnenskaja oblast'",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Grodnenskaja oblast'",
         "zh_Hant_TW": "Grodnenskaja oblast'",
         "zu": "Grodnenskaja oblast'",
-        "zu_ZA": "Grodnenskaja oblast'",
-        "sr@latin": "Grodnenskaja oblast'",
-        "tt@iqtelif": "Grodnenskaja oblast'"
+        "zu_ZA": "Grodnenskaja oblast'"
     },
     "MA": {
         "af": "Mahilioŭskaja voblasć",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Mahilioŭskaja voblasć",
         "sq_XK": "Mahilioŭskaja voblasć",
         "sr": "Mahilioŭskaja voblasć",
+        "sr@latin": "Mahilioŭskaja voblasć",
         "sr_Cyrl": "Mahilioŭskaja voblasć",
         "sr_Cyrl_BA": "Mahilioŭskaja voblasć",
         "sr_Cyrl_ME": "Mahilioŭskaja voblasć",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Mahilioŭskaja voblasć",
         "tr_TR": "Mahilioŭskaja voblasć",
         "tt": "Mahilioŭskaja voblasć",
+        "tt@iqtelif": "Mahilioŭskaja voblasć",
         "tt_RU": "Mahilioŭskaja voblasć",
         "twq": "Mahilioŭskaja voblasć",
         "twq_NE": "Mahilioŭskaja voblasć",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Mahilioŭskaja voblasć",
         "zh_Hant_TW": "Mahilioŭskaja voblasć",
         "zu": "Mahilioŭskaja voblasć",
-        "zu_ZA": "Mahilioŭskaja voblasć",
-        "sr@latin": "Mahilioŭskaja voblasć",
-        "tt@iqtelif": "Mahilioŭskaja voblasć"
+        "zu_ZA": "Mahilioŭskaja voblasć"
     },
     "MI": {
         "af": "Minskaja oblast'",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Minskaja oblast'",
         "sq_XK": "Minskaja oblast'",
         "sr": "Minskaja oblast'",
+        "sr@latin": "Minskaja oblast'",
         "sr_Cyrl": "Minskaja oblast'",
         "sr_Cyrl_BA": "Minskaja oblast'",
         "sr_Cyrl_ME": "Minskaja oblast'",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Minskaja oblast'",
         "tr_TR": "Minskaja oblast'",
         "tt": "Minskaja oblast'",
+        "tt@iqtelif": "Minskaja oblast'",
         "tt_RU": "Minskaja oblast'",
         "twq": "Minskaja oblast'",
         "twq_NE": "Minskaja oblast'",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Minskaja oblast'",
         "zh_Hant_TW": "Minskaja oblast'",
         "zu": "Minskaja oblast'",
-        "zu_ZA": "Minskaja oblast'",
-        "sr@latin": "Minskaja oblast'",
-        "tt@iqtelif": "Minskaja oblast'"
+        "zu_ZA": "Minskaja oblast'"
     },
     "VI": {
         "af": "Viciebskaja voblasć",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Viciebskaja voblasć",
         "sq_XK": "Viciebskaja voblasć",
         "sr": "Viciebskaja voblasć",
+        "sr@latin": "Viciebskaja voblasć",
         "sr_Cyrl": "Viciebskaja voblasć",
         "sr_Cyrl_BA": "Viciebskaja voblasć",
         "sr_Cyrl_ME": "Viciebskaja voblasć",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Viciebskaja voblasć",
         "tr_TR": "Viciebskaja voblasć",
         "tt": "Viciebskaja voblasć",
+        "tt@iqtelif": "Viciebskaja voblasć",
         "tt_RU": "Viciebskaja voblasć",
         "twq": "Viciebskaja voblasć",
         "twq_NE": "Viciebskaja voblasć",
@@ -6190,8 +6192,6 @@
         "zh_Hant_MY": "Viciebskaja voblasć",
         "zh_Hant_TW": "Viciebskaja voblasć",
         "zu": "Viciebskaja voblasć",
-        "zu_ZA": "Viciebskaja voblasć",
-        "sr@latin": "Viciebskaja voblasć",
-        "tt@iqtelif": "Viciebskaja voblasć"
+        "zu_ZA": "Viciebskaja voblasć"
     }
 }

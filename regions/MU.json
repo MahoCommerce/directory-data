@@ -743,6 +743,7 @@
         "sq_MK": "Agalega Islands",
         "sq_XK": "Agalega Islands",
         "sr": "Агалешка острва",
+        "sr@latin": "Agaleška ostrva",
         "sr_Cyrl": "Агалешка острва",
         "sr_Cyrl_BA": "Агалешка острва",
         "sr_Cyrl_ME": "Агалешка острва",
@@ -803,6 +804,7 @@
         "tr_CY": "Agalega Adaları",
         "tr_TR": "Agalega Adaları",
         "tt": "Agalega Islands",
+        "tt@iqtelif": "Agalega Islands",
         "tt_RU": "Agalega Islands",
         "twq": "Agalega Islands",
         "twq_NE": "Agalega Islands",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Agalega Islands",
         "zh_Hant_TW": "Agalega Islands",
         "zu": "Agalega Islands",
-        "zu_ZA": "Agalega Islands",
-        "sr@latin": "Agaleška ostrva",
-        "tt@iqtelif": "Agalega Islands"
+        "zu_ZA": "Agalega Islands"
     },
     "BL": {
         "af": "Black River",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Black River",
         "sq_XK": "Black River",
         "sr": "Блек Ривер",
+        "sr@latin": "Blek River",
         "sr_Cyrl": "Блек Ривер",
         "sr_Cyrl_BA": "Блек Ривер",
         "sr_Cyrl_ME": "Блек Ривер",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Black River",
         "tr_TR": "Black River",
         "tt": "Black River",
+        "tt@iqtelif": "Black River",
         "tt_RU": "Black River",
         "twq": "Black River",
         "twq_NE": "Black River",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Black River",
         "zh_Hant_TW": "Black River",
         "zu": "Black River",
-        "zu_ZA": "Black River",
-        "sr@latin": "Blek River",
-        "tt@iqtelif": "Black River"
+        "zu_ZA": "Black River"
     },
     "CC": {
         "af": "Cargados Carajos Shoals",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Cargados Carajos Shoals",
         "sq_XK": "Cargados Carajos Shoals",
         "sr": "Каргадос Карахос Шоалс",
+        "sr@latin": "Kargados Karahos Šoals",
         "sr_Cyrl": "Каргадос Карахос Шоалс",
         "sr_Cyrl_BA": "Каргадос Карахос Шоалс",
         "sr_Cyrl_ME": "Каргадос Карахос Шоалс",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Cargados Carajos Shoals",
         "tr_TR": "Cargados Carajos Shoals",
         "tt": "Cargados Carajos Shoals",
+        "tt@iqtelif": "Cargados Carajos Shoals",
         "tt_RU": "Cargados Carajos Shoals",
         "twq": "Cargados Carajos Shoals",
         "twq_NE": "Cargados Carajos Shoals",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Cargados Carajos Shoals",
         "zh_Hant_TW": "Cargados Carajos Shoals",
         "zu": "Cargados Carajos Shoals",
-        "zu_ZA": "Cargados Carajos Shoals",
-        "sr@latin": "Kargados Karahos Šoals",
-        "tt@iqtelif": "Cargados Carajos Shoals"
+        "zu_ZA": "Cargados Carajos Shoals"
     },
     "FL": {
         "af": "Flacq",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Flacq",
         "sq_XK": "Flacq",
         "sr": "Флак",
+        "sr@latin": "Flak",
         "sr_Cyrl": "Флак",
         "sr_Cyrl_BA": "Флак",
         "sr_Cyrl_ME": "Флак",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Flacq",
         "tr_TR": "Flacq",
         "tt": "Flacq",
+        "tt@iqtelif": "Flacq",
         "tt_RU": "Flacq",
         "twq": "Flacq",
         "twq_NE": "Flacq",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Flacq",
         "zh_Hant_TW": "Flacq",
         "zu": "Flacq",
-        "zu_ZA": "Flacq",
-        "sr@latin": "Flak",
-        "tt@iqtelif": "Flacq"
+        "zu_ZA": "Flacq"
     },
     "GP": {
         "af": "Grand Port",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Grand Port",
         "sq_XK": "Grand Port",
         "sr": "Гренд Порт",
+        "sr@latin": "Grend Port",
         "sr_Cyrl": "Гренд Порт",
         "sr_Cyrl_BA": "Гренд Порт",
         "sr_Cyrl_ME": "Гренд Порт",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Grand Port",
         "tr_TR": "Grand Port",
         "tt": "Grand Port",
+        "tt@iqtelif": "Grand Port",
         "tt_RU": "Grand Port",
         "twq": "Grand Port",
         "twq_NE": "Grand Port",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Grand Port",
         "zh_Hant_TW": "Grand Port",
         "zu": "Grand Port",
-        "zu_ZA": "Grand Port",
-        "sr@latin": "Grend Port",
-        "tt@iqtelif": "Grand Port"
+        "zu_ZA": "Grand Port"
     },
     "MO": {
         "af": "Moka",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Moka",
         "sq_XK": "Moka",
         "sr": "Мока",
+        "sr@latin": "Moka",
         "sr_Cyrl": "Мока",
         "sr_Cyrl_BA": "Мока",
         "sr_Cyrl_ME": "Мока",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Moka",
         "tr_TR": "Moka",
         "tt": "Moka",
+        "tt@iqtelif": "Moka",
         "tt_RU": "Moka",
         "twq": "Moka",
         "twq_NE": "Moka",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Moka",
         "zh_Hant_TW": "Moka",
         "zu": "Moka",
-        "zu_ZA": "Moka",
-        "sr@latin": "Moka",
-        "tt@iqtelif": "Moka"
+        "zu_ZA": "Moka"
     },
     "PA": {
         "af": "Pamplemousses",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Pamplemousses",
         "sq_XK": "Pamplemousses",
         "sr": "Памплемус",
+        "sr@latin": "Pamplemus",
         "sr_Cyrl": "Памплемус",
         "sr_Cyrl_BA": "Памплемус",
         "sr_Cyrl_ME": "Памплемус",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Pamplemousses",
         "tr_TR": "Pamplemousses",
         "tt": "Pamplemousses",
+        "tt@iqtelif": "Pamplemousses",
         "tt_RU": "Pamplemousses",
         "twq": "Pamplemousses",
         "twq_NE": "Pamplemousses",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Pamplemousses",
         "zh_Hant_TW": "Pamplemousses",
         "zu": "Pamplemousses",
-        "zu_ZA": "Pamplemousses",
-        "sr@latin": "Pamplemus",
-        "tt@iqtelif": "Pamplemousses"
+        "zu_ZA": "Pamplemousses"
     },
     "PL": {
         "af": "Port Louis",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Port Louis",
         "sq_XK": "Port Louis",
         "sr": "Порт Луис",
+        "sr@latin": "Port Luis",
         "sr_Cyrl": "Порт Луис",
         "sr_Cyrl_BA": "Порт Луис",
         "sr_Cyrl_ME": "Порт Луис",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Port Louis",
         "tr_TR": "Port Louis",
         "tt": "Port Louis",
+        "tt@iqtelif": "Port Louis",
         "tt_RU": "Port Louis",
         "twq": "Port Louis",
         "twq_NE": "Port Louis",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Port Louis",
         "zh_Hant_TW": "Port Louis",
         "zu": "Port Louis",
-        "zu_ZA": "Port Louis",
-        "sr@latin": "Port Luis",
-        "tt@iqtelif": "Port Louis"
+        "zu_ZA": "Port Louis"
     },
     "PW": {
         "af": "Plaines Wilhems",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Plaines Wilhems",
         "sq_XK": "Plaines Wilhems",
         "sr": "Plaines Wilhems",
+        "sr@latin": "Plaines Wilhems",
         "sr_Cyrl": "Plaines Wilhems",
         "sr_Cyrl_BA": "Plaines Wilhems",
         "sr_Cyrl_ME": "Plaines Wilhems",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Plaines Wilhems",
         "tr_TR": "Plaines Wilhems",
         "tt": "Plaines Wilhems",
+        "tt@iqtelif": "Plaines Wilhems",
         "tt_RU": "Plaines Wilhems",
         "twq": "Plaines Wilhems",
         "twq_NE": "Plaines Wilhems",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Plaines Wilhems",
         "zh_Hant_TW": "Plaines Wilhems",
         "zu": "Plaines Wilhems",
-        "zu_ZA": "Plaines Wilhems",
-        "sr@latin": "Plaines Wilhems",
-        "tt@iqtelif": "Plaines Wilhems"
+        "zu_ZA": "Plaines Wilhems"
     },
     "RO": {
         "af": "Rodrigues Island",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Rodrigues Island",
         "sq_XK": "Rodrigues Island",
         "sr": "Rodrigues Island",
+        "sr@latin": "Rodrigues Island",
         "sr_Cyrl": "Rodrigues Island",
         "sr_Cyrl_BA": "Rodrigues Island",
         "sr_Cyrl_ME": "Rodrigues Island",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Rodrigues Adası",
         "tr_TR": "Rodrigues Adası",
         "tt": "Rodrigues Island",
+        "tt@iqtelif": "Rodrigues Island",
         "tt_RU": "Rodrigues Island",
         "twq": "Rodrigues Island",
         "twq_NE": "Rodrigues Island",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Rodrigues Island",
         "zh_Hant_TW": "Rodrigues Island",
         "zu": "Rodrigues Island",
-        "zu_ZA": "Rodrigues Island",
-        "sr@latin": "Rodrigues Island",
-        "tt@iqtelif": "Rodrigues Island"
+        "zu_ZA": "Rodrigues Island"
     },
     "RR": {
         "af": "Rivière du Rempart",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Rivière du Rempart",
         "sq_XK": "Rivière du Rempart",
         "sr": "Ривијер ди Рампар",
+        "sr@latin": "Rivijer di Rampar",
         "sr_Cyrl": "Ривијер ди Рампар",
         "sr_Cyrl_BA": "Ривијер ди Рампар",
         "sr_Cyrl_ME": "Ривијер ди Рампар",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Rivière du Rempart",
         "tr_TR": "Rivière du Rempart",
         "tt": "Rivière du Rempart",
+        "tt@iqtelif": "Rivière du Rempart",
         "tt_RU": "Rivière du Rempart",
         "twq": "Rivière du Rempart",
         "twq_NE": "Rivière du Rempart",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Rivière du Rempart",
         "zh_Hant_TW": "Rivière du Rempart",
         "zu": "Rivière du Rempart",
-        "zu_ZA": "Rivière du Rempart",
-        "sr@latin": "Rivijer di Rampar",
-        "tt@iqtelif": "Rivière du Rempart"
+        "zu_ZA": "Rivière du Rempart"
     },
     "SA": {
         "af": "Savanne",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Savanne",
         "sq_XK": "Savanne",
         "sr": "Саване",
+        "sr@latin": "Savane",
         "sr_Cyrl": "Саване",
         "sr_Cyrl_BA": "Саване",
         "sr_Cyrl_ME": "Саване",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Savanne",
         "tr_TR": "Savanne",
         "tt": "Savanne",
+        "tt@iqtelif": "Savanne",
         "tt_RU": "Savanne",
         "twq": "Savanne",
         "twq_NE": "Savanne",
@@ -10615,8 +10617,6 @@
         "zh_Hant_MY": "Savanne",
         "zh_Hant_TW": "Savanne",
         "zu": "Savanne",
-        "zu_ZA": "Savanne",
-        "sr@latin": "Savane",
-        "tt@iqtelif": "Savanne"
+        "zu_ZA": "Savanne"
     }
 }

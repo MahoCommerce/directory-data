@@ -743,6 +743,7 @@
         "sq_MK": "Akmenė",
         "sq_XK": "Akmenė",
         "sr": "Akmenė",
+        "sr@latin": "Akmenė",
         "sr_Cyrl": "Akmenė",
         "sr_Cyrl_BA": "Akmenė",
         "sr_Cyrl_ME": "Akmenė",
@@ -803,6 +804,7 @@
         "tr_CY": "Akmenė",
         "tr_TR": "Akmenė",
         "tt": "Akmenė",
+        "tt@iqtelif": "Akmenė",
         "tt_RU": "Akmenė",
         "twq": "Akmenė",
         "twq_NE": "Akmenė",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Akmenė",
         "zh_Hant_TW": "Akmenė",
         "zu": "Akmenė",
-        "zu_ZA": "Akmenė",
-        "sr@latin": "Akmenė",
-        "tt@iqtelif": "Akmenė"
+        "zu_ZA": "Akmenė"
     },
     "02": {
         "af": "Alytaus miestas",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Alytaus miestas",
         "sq_XK": "Alytaus miestas",
         "sr": "Alytaus miestas",
+        "sr@latin": "Alytaus miestas",
         "sr_Cyrl": "Alytaus miestas",
         "sr_Cyrl_BA": "Alytaus miestas",
         "sr_Cyrl_ME": "Alytaus miestas",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Alytaus miestas",
         "tr_TR": "Alytaus miestas",
         "tt": "Alytaus miestas",
+        "tt@iqtelif": "Alytaus miestas",
         "tt_RU": "Alytaus miestas",
         "twq": "Alytaus miestas",
         "twq_NE": "Alytaus miestas",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Alytaus miestas",
         "zh_Hant_TW": "Alytaus miestas",
         "zu": "Alytaus miestas",
-        "zu_ZA": "Alytaus miestas",
-        "sr@latin": "Alytaus miestas",
-        "tt@iqtelif": "Alytaus miestas"
+        "zu_ZA": "Alytaus miestas"
     },
     "03": {
         "af": "Alytus",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Alytus",
         "sq_XK": "Alytus",
         "sr": "Alytus",
+        "sr@latin": "Alytus",
         "sr_Cyrl": "Alytus",
         "sr_Cyrl_BA": "Alytus",
         "sr_Cyrl_ME": "Alytus",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Alytus",
         "tr_TR": "Alytus",
         "tt": "Alytus",
+        "tt@iqtelif": "Alytus",
         "tt_RU": "Alytus",
         "twq": "Alytus",
         "twq_NE": "Alytus",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Alytus",
         "zh_Hant_TW": "Alytus",
         "zu": "Alytus",
-        "zu_ZA": "Alytus",
-        "sr@latin": "Alytus",
-        "tt@iqtelif": "Alytus"
+        "zu_ZA": "Alytus"
     },
     "04": {
         "af": "Anykščiai",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Anykščiai",
         "sq_XK": "Anykščiai",
         "sr": "Anykščiai",
+        "sr@latin": "Anykščiai",
         "sr_Cyrl": "Anykščiai",
         "sr_Cyrl_BA": "Anykščiai",
         "sr_Cyrl_ME": "Anykščiai",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Anykščiai",
         "tr_TR": "Anykščiai",
         "tt": "Anykščiai",
+        "tt@iqtelif": "Anykščiai",
         "tt_RU": "Anykščiai",
         "twq": "Anykščiai",
         "twq_NE": "Anykščiai",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Anykščiai",
         "zh_Hant_TW": "Anykščiai",
         "zu": "Anykščiai",
-        "zu_ZA": "Anykščiai",
-        "sr@latin": "Anykščiai",
-        "tt@iqtelif": "Anykščiai"
+        "zu_ZA": "Anykščiai"
     },
     "05": {
         "af": "Birštonas",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Birštonas",
         "sq_XK": "Birštonas",
         "sr": "Birštonas",
+        "sr@latin": "Birštonas",
         "sr_Cyrl": "Birštonas",
         "sr_Cyrl_BA": "Birštonas",
         "sr_Cyrl_ME": "Birštonas",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Birštonas",
         "tr_TR": "Birštonas",
         "tt": "Birštonas",
+        "tt@iqtelif": "Birštonas",
         "tt_RU": "Birštonas",
         "twq": "Birštonas",
         "twq_NE": "Birštonas",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Birštonas",
         "zh_Hant_TW": "Birštonas",
         "zu": "Birštonas",
-        "zu_ZA": "Birštonas",
-        "sr@latin": "Birštonas",
-        "tt@iqtelif": "Birštonas"
+        "zu_ZA": "Birštonas"
     },
     "06": {
         "af": "Biržai",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Biržai",
         "sq_XK": "Biržai",
         "sr": "Biržai",
+        "sr@latin": "Biržai",
         "sr_Cyrl": "Biržai",
         "sr_Cyrl_BA": "Biržai",
         "sr_Cyrl_ME": "Biržai",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Biržai",
         "tr_TR": "Biržai",
         "tt": "Biržai",
+        "tt@iqtelif": "Biržai",
         "tt_RU": "Biržai",
         "twq": "Biržai",
         "twq_NE": "Biržai",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Biržai",
         "zh_Hant_TW": "Biržai",
         "zu": "Biržai",
-        "zu_ZA": "Biržai",
-        "sr@latin": "Biržai",
-        "tt@iqtelif": "Biržai"
+        "zu_ZA": "Biržai"
     },
     "07": {
         "af": "Druskininkai",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Druskininkai",
         "sq_XK": "Druskininkai",
         "sr": "Druskininkai",
+        "sr@latin": "Druskininkai",
         "sr_Cyrl": "Druskininkai",
         "sr_Cyrl_BA": "Druskininkai",
         "sr_Cyrl_ME": "Druskininkai",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Druskininkai",
         "tr_TR": "Druskininkai",
         "tt": "Druskininkai",
+        "tt@iqtelif": "Druskininkai",
         "tt_RU": "Druskininkai",
         "twq": "Druskininkai",
         "twq_NE": "Druskininkai",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Druskininkai",
         "zh_Hant_TW": "Druskininkai",
         "zu": "Druskininkai",
-        "zu_ZA": "Druskininkai",
-        "sr@latin": "Druskininkai",
-        "tt@iqtelif": "Druskininkai"
+        "zu_ZA": "Druskininkai"
     },
     "08": {
         "af": "Elektrėnai",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Elektrėnai",
         "sq_XK": "Elektrėnai",
         "sr": "Elektrėnai",
+        "sr@latin": "Elektrėnai",
         "sr_Cyrl": "Elektrėnai",
         "sr_Cyrl_BA": "Elektrėnai",
         "sr_Cyrl_ME": "Elektrėnai",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Elektrėnai",
         "tr_TR": "Elektrėnai",
         "tt": "Elektrėnai",
+        "tt@iqtelif": "Elektrėnai",
         "tt_RU": "Elektrėnai",
         "twq": "Elektrėnai",
         "twq_NE": "Elektrėnai",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Elektrėnai",
         "zh_Hant_TW": "Elektrėnai",
         "zu": "Elektrėnai",
-        "zu_ZA": "Elektrėnai",
-        "sr@latin": "Elektrėnai",
-        "tt@iqtelif": "Elektrėnai"
+        "zu_ZA": "Elektrėnai"
     },
     "09": {
         "af": "Ignalina",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Ignalina",
         "sq_XK": "Ignalina",
         "sr": "Ignalina",
+        "sr@latin": "Ignalina",
         "sr_Cyrl": "Ignalina",
         "sr_Cyrl_BA": "Ignalina",
         "sr_Cyrl_ME": "Ignalina",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Ignalina",
         "tr_TR": "Ignalina",
         "tt": "Ignalina",
+        "tt@iqtelif": "Ignalina",
         "tt_RU": "Ignalina",
         "twq": "Ignalina",
         "twq_NE": "Ignalina",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Ignalina",
         "zh_Hant_TW": "Ignalina",
         "zu": "Ignalina",
-        "zu_ZA": "Ignalina",
-        "sr@latin": "Ignalina",
-        "tt@iqtelif": "Ignalina"
+        "zu_ZA": "Ignalina"
     },
     "10": {
         "af": "Jonava",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Jonava",
         "sq_XK": "Jonava",
         "sr": "Jonava",
+        "sr@latin": "Jonava",
         "sr_Cyrl": "Jonava",
         "sr_Cyrl_BA": "Jonava",
         "sr_Cyrl_ME": "Jonava",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Jonava",
         "tr_TR": "Jonava",
         "tt": "Jonava",
+        "tt@iqtelif": "Jonava",
         "tt_RU": "Jonava",
         "twq": "Jonava",
         "twq_NE": "Jonava",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Jonava",
         "zh_Hant_TW": "Jonava",
         "zu": "Jonava",
-        "zu_ZA": "Jonava",
-        "sr@latin": "Jonava",
-        "tt@iqtelif": "Jonava"
+        "zu_ZA": "Jonava"
     },
     "11": {
         "af": "Joniškis",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Joniškis",
         "sq_XK": "Joniškis",
         "sr": "Joniškis",
+        "sr@latin": "Joniškis",
         "sr_Cyrl": "Joniškis",
         "sr_Cyrl_BA": "Joniškis",
         "sr_Cyrl_ME": "Joniškis",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Joniškis",
         "tr_TR": "Joniškis",
         "tt": "Joniškis",
+        "tt@iqtelif": "Joniškis",
         "tt_RU": "Joniškis",
         "twq": "Joniškis",
         "twq_NE": "Joniškis",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Joniškis",
         "zh_Hant_TW": "Joniškis",
         "zu": "Joniškis",
-        "zu_ZA": "Joniškis",
-        "sr@latin": "Joniškis",
-        "tt@iqtelif": "Joniškis"
+        "zu_ZA": "Joniškis"
     },
     "12": {
         "af": "Jurbarkas",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Jurbarkas",
         "sq_XK": "Jurbarkas",
         "sr": "Jurbarkas",
+        "sr@latin": "Jurbarkas",
         "sr_Cyrl": "Jurbarkas",
         "sr_Cyrl_BA": "Jurbarkas",
         "sr_Cyrl_ME": "Jurbarkas",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Jurbarkas",
         "tr_TR": "Jurbarkas",
         "tt": "Jurbarkas",
+        "tt@iqtelif": "Jurbarkas",
         "tt_RU": "Jurbarkas",
         "twq": "Jurbarkas",
         "twq_NE": "Jurbarkas",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Jurbarkas",
         "zh_Hant_TW": "Jurbarkas",
         "zu": "Jurbarkas",
-        "zu_ZA": "Jurbarkas",
-        "sr@latin": "Jurbarkas",
-        "tt@iqtelif": "Jurbarkas"
+        "zu_ZA": "Jurbarkas"
     },
     "13": {
         "af": "Kaišiadorys",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Kaišiadorys",
         "sq_XK": "Kaišiadorys",
         "sr": "Kaišiadorys",
+        "sr@latin": "Kaišiadorys",
         "sr_Cyrl": "Kaišiadorys",
         "sr_Cyrl_BA": "Kaišiadorys",
         "sr_Cyrl_ME": "Kaišiadorys",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Kaišiadorys",
         "tr_TR": "Kaišiadorys",
         "tt": "Kaišiadorys",
+        "tt@iqtelif": "Kaišiadorys",
         "tt_RU": "Kaišiadorys",
         "twq": "Kaišiadorys",
         "twq_NE": "Kaišiadorys",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Kaišiadorys",
         "zh_Hant_TW": "Kaišiadorys",
         "zu": "Kaišiadorys",
-        "zu_ZA": "Kaišiadorys",
-        "sr@latin": "Kaišiadorys",
-        "tt@iqtelif": "Kaišiadorys"
+        "zu_ZA": "Kaišiadorys"
     },
     "14": {
         "af": "Kalvarija",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Kalvarija",
         "sq_XK": "Kalvarija",
         "sr": "Kalvarija",
+        "sr@latin": "Kalvarija",
         "sr_Cyrl": "Kalvarija",
         "sr_Cyrl_BA": "Kalvarija",
         "sr_Cyrl_ME": "Kalvarija",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Kalvarija",
         "tr_TR": "Kalvarija",
         "tt": "Kalvarija",
+        "tt@iqtelif": "Kalvarija",
         "tt_RU": "Kalvarija",
         "twq": "Kalvarija",
         "twq_NE": "Kalvarija",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Kalvarija",
         "zh_Hant_TW": "Kalvarija",
         "zu": "Kalvarija",
-        "zu_ZA": "Kalvarija",
-        "sr@latin": "Kalvarija",
-        "tt@iqtelif": "Kalvarija"
+        "zu_ZA": "Kalvarija"
     },
     "15": {
         "af": "Kauno miestas",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Kauno miestas",
         "sq_XK": "Kauno miestas",
         "sr": "Kauno miestas",
+        "sr@latin": "Kauno miestas",
         "sr_Cyrl": "Kauno miestas",
         "sr_Cyrl_BA": "Kauno miestas",
         "sr_Cyrl_ME": "Kauno miestas",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Kauno miestas",
         "tr_TR": "Kauno miestas",
         "tt": "Kauno miestas",
+        "tt@iqtelif": "Kauno miestas",
         "tt_RU": "Kauno miestas",
         "twq": "Kauno miestas",
         "twq_NE": "Kauno miestas",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Kauno miestas",
         "zh_Hant_TW": "Kauno miestas",
         "zu": "Kauno miestas",
-        "zu_ZA": "Kauno miestas",
-        "sr@latin": "Kauno miestas",
-        "tt@iqtelif": "Kauno miestas"
+        "zu_ZA": "Kauno miestas"
     },
     "16": {
         "af": "Kaunas",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Kaunas",
         "sq_XK": "Kaunas",
         "sr": "Kaunas",
+        "sr@latin": "Kaunas",
         "sr_Cyrl": "Kaunas",
         "sr_Cyrl_BA": "Kaunas",
         "sr_Cyrl_ME": "Kaunas",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Kaunas",
         "tr_TR": "Kaunas",
         "tt": "Kaunas",
+        "tt@iqtelif": "Kaunas",
         "tt_RU": "Kaunas",
         "twq": "Kaunas",
         "twq_NE": "Kaunas",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Kaunas",
         "zh_Hant_TW": "Kaunas",
         "zu": "Kaunas",
-        "zu_ZA": "Kaunas",
-        "sr@latin": "Kaunas",
-        "tt@iqtelif": "Kaunas"
+        "zu_ZA": "Kaunas"
     },
     "17": {
         "af": "Kazlų Rūdos",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Kazlų Rūdos",
         "sq_XK": "Kazlų Rūdos",
         "sr": "Kazlų Rūdos",
+        "sr@latin": "Kazlų Rūdos",
         "sr_Cyrl": "Kazlų Rūdos",
         "sr_Cyrl_BA": "Kazlų Rūdos",
         "sr_Cyrl_ME": "Kazlų Rūdos",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Kazlų Rūdos",
         "tr_TR": "Kazlų Rūdos",
         "tt": "Kazlų Rūdos",
+        "tt@iqtelif": "Kazlų Rūdos",
         "tt_RU": "Kazlų Rūdos",
         "twq": "Kazlų Rūdos",
         "twq_NE": "Kazlų Rūdos",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Kazlų Rūdos",
         "zh_Hant_TW": "Kazlų Rūdos",
         "zu": "Kazlų Rūdos",
-        "zu_ZA": "Kazlų Rūdos",
-        "sr@latin": "Kazlų Rūdos",
-        "tt@iqtelif": "Kazlų Rūdos"
+        "zu_ZA": "Kazlų Rūdos"
     },
     "18": {
         "af": "Kėdainiai",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Kėdainiai",
         "sq_XK": "Kėdainiai",
         "sr": "Kėdainiai",
+        "sr@latin": "Kėdainiai",
         "sr_Cyrl": "Kėdainiai",
         "sr_Cyrl_BA": "Kėdainiai",
         "sr_Cyrl_ME": "Kėdainiai",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Kėdainiai",
         "tr_TR": "Kėdainiai",
         "tt": "Kėdainiai",
+        "tt@iqtelif": "Kėdainiai",
         "tt_RU": "Kėdainiai",
         "twq": "Kėdainiai",
         "twq_NE": "Kėdainiai",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Kėdainiai",
         "zh_Hant_TW": "Kėdainiai",
         "zu": "Kėdainiai",
-        "zu_ZA": "Kėdainiai",
-        "sr@latin": "Kėdainiai",
-        "tt@iqtelif": "Kėdainiai"
+        "zu_ZA": "Kėdainiai"
     },
     "19": {
         "af": "Kelmė",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Kelmė",
         "sq_XK": "Kelmė",
         "sr": "Kelmė",
+        "sr@latin": "Kelmė",
         "sr_Cyrl": "Kelmė",
         "sr_Cyrl_BA": "Kelmė",
         "sr_Cyrl_ME": "Kelmė",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Kelmė",
         "tr_TR": "Kelmė",
         "tt": "Kelmė",
+        "tt@iqtelif": "Kelmė",
         "tt_RU": "Kelmė",
         "twq": "Kelmė",
         "twq_NE": "Kelmė",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Kelmė",
         "zh_Hant_TW": "Kelmė",
         "zu": "Kelmė",
-        "zu_ZA": "Kelmė",
-        "sr@latin": "Kelmė",
-        "tt@iqtelif": "Kelmė"
+        "zu_ZA": "Kelmė"
     },
     "20": {
         "af": "Klaipėdos miestas",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Klaipėdos miestas",
         "sq_XK": "Klaipėdos miestas",
         "sr": "Klaipėdos miestas",
+        "sr@latin": "Klaipėdos miestas",
         "sr_Cyrl": "Klaipėdos miestas",
         "sr_Cyrl_BA": "Klaipėdos miestas",
         "sr_Cyrl_ME": "Klaipėdos miestas",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Klaipėdos miestas",
         "tr_TR": "Klaipėdos miestas",
         "tt": "Klaipėdos miestas",
+        "tt@iqtelif": "Klaipėdos miestas",
         "tt_RU": "Klaipėdos miestas",
         "twq": "Klaipėdos miestas",
         "twq_NE": "Klaipėdos miestas",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Klaipėdos miestas",
         "zh_Hant_TW": "Klaipėdos miestas",
         "zu": "Klaipėdos miestas",
-        "zu_ZA": "Klaipėdos miestas",
-        "sr@latin": "Klaipėdos miestas",
-        "tt@iqtelif": "Klaipėdos miestas"
+        "zu_ZA": "Klaipėdos miestas"
     },
     "21": {
         "af": "Klaipėda",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Klaipėda",
         "sq_XK": "Klaipėda",
         "sr": "Klaipėda",
+        "sr@latin": "Klaipėda",
         "sr_Cyrl": "Klaipėda",
         "sr_Cyrl_BA": "Klaipėda",
         "sr_Cyrl_ME": "Klaipėda",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Klaipėda",
         "tr_TR": "Klaipėda",
         "tt": "Klaipėda",
+        "tt@iqtelif": "Klaipėda",
         "tt_RU": "Klaipėda",
         "twq": "Klaipėda",
         "twq_NE": "Klaipėda",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Klaipėda",
         "zh_Hant_TW": "Klaipėda",
         "zu": "Klaipėda",
-        "zu_ZA": "Klaipėda",
-        "sr@latin": "Klaipėda",
-        "tt@iqtelif": "Klaipėda"
+        "zu_ZA": "Klaipėda"
     },
     "22": {
         "af": "Kretinga",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Kretinga",
         "sq_XK": "Kretinga",
         "sr": "Kretinga",
+        "sr@latin": "Kretinga",
         "sr_Cyrl": "Kretinga",
         "sr_Cyrl_BA": "Kretinga",
         "sr_Cyrl_ME": "Kretinga",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Kretinga",
         "tr_TR": "Kretinga",
         "tt": "Kretinga",
+        "tt@iqtelif": "Kretinga",
         "tt_RU": "Kretinga",
         "twq": "Kretinga",
         "twq_NE": "Kretinga",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Kretinga",
         "zh_Hant_TW": "Kretinga",
         "zu": "Kretinga",
-        "zu_ZA": "Kretinga",
-        "sr@latin": "Kretinga",
-        "tt@iqtelif": "Kretinga"
+        "zu_ZA": "Kretinga"
     },
     "23": {
         "af": "Kupiškis",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Kupiškis",
         "sq_XK": "Kupiškis",
         "sr": "Kupiškis",
+        "sr@latin": "Kupiškis",
         "sr_Cyrl": "Kupiškis",
         "sr_Cyrl_BA": "Kupiškis",
         "sr_Cyrl_ME": "Kupiškis",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Kupiškis",
         "tr_TR": "Kupiškis",
         "tt": "Kupiškis",
+        "tt@iqtelif": "Kupiškis",
         "tt_RU": "Kupiškis",
         "twq": "Kupiškis",
         "twq_NE": "Kupiškis",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Kupiškis",
         "zh_Hant_TW": "Kupiškis",
         "zu": "Kupiškis",
-        "zu_ZA": "Kupiškis",
-        "sr@latin": "Kupiškis",
-        "tt@iqtelif": "Kupiškis"
+        "zu_ZA": "Kupiškis"
     },
     "24": {
         "af": "Lazdijai",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Lazdijai",
         "sq_XK": "Lazdijai",
         "sr": "Lazdijai",
+        "sr@latin": "Lazdijai",
         "sr_Cyrl": "Lazdijai",
         "sr_Cyrl_BA": "Lazdijai",
         "sr_Cyrl_ME": "Lazdijai",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Lazdijai",
         "tr_TR": "Lazdijai",
         "tt": "Lazdijai",
+        "tt@iqtelif": "Lazdijai",
         "tt_RU": "Lazdijai",
         "twq": "Lazdijai",
         "twq_NE": "Lazdijai",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Lazdijai",
         "zh_Hant_TW": "Lazdijai",
         "zu": "Lazdijai",
-        "zu_ZA": "Lazdijai",
-        "sr@latin": "Lazdijai",
-        "tt@iqtelif": "Lazdijai"
+        "zu_ZA": "Lazdijai"
     },
     "25": {
         "af": "Marijampolė",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Marijampolė",
         "sq_XK": "Marijampolė",
         "sr": "Marijampolė",
+        "sr@latin": "Marijampolė",
         "sr_Cyrl": "Marijampolė",
         "sr_Cyrl_BA": "Marijampolė",
         "sr_Cyrl_ME": "Marijampolė",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Marijampolė",
         "tr_TR": "Marijampolė",
         "tt": "Marijampolė",
+        "tt@iqtelif": "Marijampolė",
         "tt_RU": "Marijampolė",
         "twq": "Marijampolė",
         "twq_NE": "Marijampolė",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Marijampolė",
         "zh_Hant_TW": "Marijampolė",
         "zu": "Marijampolė",
-        "zu_ZA": "Marijampolė",
-        "sr@latin": "Marijampolė",
-        "tt@iqtelif": "Marijampolė"
+        "zu_ZA": "Marijampolė"
     },
     "26": {
         "af": "Mažeikiai",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Mažeikiai",
         "sq_XK": "Mažeikiai",
         "sr": "Mažeikiai",
+        "sr@latin": "Mažeikiai",
         "sr_Cyrl": "Mažeikiai",
         "sr_Cyrl_BA": "Mažeikiai",
         "sr_Cyrl_ME": "Mažeikiai",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Mažeikiai",
         "tr_TR": "Mažeikiai",
         "tt": "Mažeikiai",
+        "tt@iqtelif": "Mažeikiai",
         "tt_RU": "Mažeikiai",
         "twq": "Mažeikiai",
         "twq_NE": "Mažeikiai",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Mažeikiai",
         "zh_Hant_TW": "Mažeikiai",
         "zu": "Mažeikiai",
-        "zu_ZA": "Mažeikiai",
-        "sr@latin": "Mažeikiai",
-        "tt@iqtelif": "Mažeikiai"
+        "zu_ZA": "Mažeikiai"
     },
     "27": {
         "af": "Molėtai",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Molėtai",
         "sq_XK": "Molėtai",
         "sr": "Molėtai",
+        "sr@latin": "Molėtai",
         "sr_Cyrl": "Molėtai",
         "sr_Cyrl_BA": "Molėtai",
         "sr_Cyrl_ME": "Molėtai",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Molėtai",
         "tr_TR": "Molėtai",
         "tt": "Molėtai",
+        "tt@iqtelif": "Molėtai",
         "tt_RU": "Molėtai",
         "twq": "Molėtai",
         "twq_NE": "Molėtai",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Molėtai",
         "zh_Hant_TW": "Molėtai",
         "zu": "Molėtai",
-        "zu_ZA": "Molėtai",
-        "sr@latin": "Molėtai",
-        "tt@iqtelif": "Molėtai"
+        "zu_ZA": "Molėtai"
     },
     "28": {
         "af": "Neringa",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Neringa",
         "sq_XK": "Neringa",
         "sr": "Neringa",
+        "sr@latin": "Neringa",
         "sr_Cyrl": "Neringa",
         "sr_Cyrl_BA": "Neringa",
         "sr_Cyrl_ME": "Neringa",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Neringa",
         "tr_TR": "Neringa",
         "tt": "Neringa",
+        "tt@iqtelif": "Neringa",
         "tt_RU": "Neringa",
         "twq": "Neringa",
         "twq_NE": "Neringa",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Neringa",
         "zh_Hant_TW": "Neringa",
         "zu": "Neringa",
-        "zu_ZA": "Neringa",
-        "sr@latin": "Neringa",
-        "tt@iqtelif": "Neringa"
+        "zu_ZA": "Neringa"
     },
     "29": {
         "af": "Pagėgiai",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Pagėgiai",
         "sq_XK": "Pagėgiai",
         "sr": "Pagėgiai",
+        "sr@latin": "Pagėgiai",
         "sr_Cyrl": "Pagėgiai",
         "sr_Cyrl_BA": "Pagėgiai",
         "sr_Cyrl_ME": "Pagėgiai",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Pagėgiai",
         "tr_TR": "Pagėgiai",
         "tt": "Pagėgiai",
+        "tt@iqtelif": "Pagėgiai",
         "tt_RU": "Pagėgiai",
         "twq": "Pagėgiai",
         "twq_NE": "Pagėgiai",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Pagėgiai",
         "zh_Hant_TW": "Pagėgiai",
         "zu": "Pagėgiai",
-        "zu_ZA": "Pagėgiai",
-        "sr@latin": "Pagėgiai",
-        "tt@iqtelif": "Pagėgiai"
+        "zu_ZA": "Pagėgiai"
     },
     "30": {
         "af": "Pakruojis",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Pakruojis",
         "sq_XK": "Pakruojis",
         "sr": "Pakruojis",
+        "sr@latin": "Pakruojis",
         "sr_Cyrl": "Pakruojis",
         "sr_Cyrl_BA": "Pakruojis",
         "sr_Cyrl_ME": "Pakruojis",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Pakruojis",
         "tr_TR": "Pakruojis",
         "tt": "Pakruojis",
+        "tt@iqtelif": "Pakruojis",
         "tt_RU": "Pakruojis",
         "twq": "Pakruojis",
         "twq_NE": "Pakruojis",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Pakruojis",
         "zh_Hant_TW": "Pakruojis",
         "zu": "Pakruojis",
-        "zu_ZA": "Pakruojis",
-        "sr@latin": "Pakruojis",
-        "tt@iqtelif": "Pakruojis"
+        "zu_ZA": "Pakruojis"
     },
     "31": {
         "af": "Palangos miestas",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Palangos miestas",
         "sq_XK": "Palangos miestas",
         "sr": "Palangos miestas",
+        "sr@latin": "Palangos miestas",
         "sr_Cyrl": "Palangos miestas",
         "sr_Cyrl_BA": "Palangos miestas",
         "sr_Cyrl_ME": "Palangos miestas",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Palangos miestas",
         "tr_TR": "Palangos miestas",
         "tt": "Palangos miestas",
+        "tt@iqtelif": "Palangos miestas",
         "tt_RU": "Palangos miestas",
         "twq": "Palangos miestas",
         "twq_NE": "Palangos miestas",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Palangos miestas",
         "zh_Hant_TW": "Palangos miestas",
         "zu": "Palangos miestas",
-        "zu_ZA": "Palangos miestas",
-        "sr@latin": "Palangos miestas",
-        "tt@iqtelif": "Palangos miestas"
+        "zu_ZA": "Palangos miestas"
     },
     "32": {
         "af": "Panevėžio miestas",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Panevėžio miestas",
         "sq_XK": "Panevėžio miestas",
         "sr": "Panevėžio miestas",
+        "sr@latin": "Panevėžio miestas",
         "sr_Cyrl": "Panevėžio miestas",
         "sr_Cyrl_BA": "Panevėžio miestas",
         "sr_Cyrl_ME": "Panevėžio miestas",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Panevėžio miestas",
         "tr_TR": "Panevėžio miestas",
         "tt": "Panevėžio miestas",
+        "tt@iqtelif": "Panevėžio miestas",
         "tt_RU": "Panevėžio miestas",
         "twq": "Panevėžio miestas",
         "twq_NE": "Panevėžio miestas",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Panevėžio miestas",
         "zh_Hant_TW": "Panevėžio miestas",
         "zu": "Panevėžio miestas",
-        "zu_ZA": "Panevėžio miestas",
-        "sr@latin": "Panevėžio miestas",
-        "tt@iqtelif": "Panevėžio miestas"
+        "zu_ZA": "Panevėžio miestas"
     },
     "33": {
         "af": "Panevėžys",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Panevėžys",
         "sq_XK": "Panevėžys",
         "sr": "Panevėžys",
+        "sr@latin": "Panevėžys",
         "sr_Cyrl": "Panevėžys",
         "sr_Cyrl_BA": "Panevėžys",
         "sr_Cyrl_ME": "Panevėžys",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Panevėžys",
         "tr_TR": "Panevėžys",
         "tt": "Panevėžys",
+        "tt@iqtelif": "Panevėžys",
         "tt_RU": "Panevėžys",
         "twq": "Panevėžys",
         "twq_NE": "Panevėžys",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Panevėžys",
         "zh_Hant_TW": "Panevėžys",
         "zu": "Panevėžys",
-        "zu_ZA": "Panevėžys",
-        "sr@latin": "Panevėžys",
-        "tt@iqtelif": "Panevėžys"
+        "zu_ZA": "Panevėžys"
     },
     "34": {
         "af": "Pasvalys",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Pasvalys",
         "sq_XK": "Pasvalys",
         "sr": "Pasvalys",
+        "sr@latin": "Pasvalys",
         "sr_Cyrl": "Pasvalys",
         "sr_Cyrl_BA": "Pasvalys",
         "sr_Cyrl_ME": "Pasvalys",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Pasvalys",
         "tr_TR": "Pasvalys",
         "tt": "Pasvalys",
+        "tt@iqtelif": "Pasvalys",
         "tt_RU": "Pasvalys",
         "twq": "Pasvalys",
         "twq_NE": "Pasvalys",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Pasvalys",
         "zh_Hant_TW": "Pasvalys",
         "zu": "Pasvalys",
-        "zu_ZA": "Pasvalys",
-        "sr@latin": "Pasvalys",
-        "tt@iqtelif": "Pasvalys"
+        "zu_ZA": "Pasvalys"
     },
     "35": {
         "af": "Plungė",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Plungė",
         "sq_XK": "Plungė",
         "sr": "Plungė",
+        "sr@latin": "Plungė",
         "sr_Cyrl": "Plungė",
         "sr_Cyrl_BA": "Plungė",
         "sr_Cyrl_ME": "Plungė",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Plungė",
         "tr_TR": "Plungė",
         "tt": "Plungė",
+        "tt@iqtelif": "Plungė",
         "tt_RU": "Plungė",
         "twq": "Plungė",
         "twq_NE": "Plungė",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Plungė",
         "zh_Hant_TW": "Plungė",
         "zu": "Plungė",
-        "zu_ZA": "Plungė",
-        "sr@latin": "Plungė",
-        "tt@iqtelif": "Plungė"
+        "zu_ZA": "Plungė"
     },
     "36": {
         "af": "Prienai",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Prienai",
         "sq_XK": "Prienai",
         "sr": "Prienai",
+        "sr@latin": "Prienai",
         "sr_Cyrl": "Prienai",
         "sr_Cyrl_BA": "Prienai",
         "sr_Cyrl_ME": "Prienai",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Prienai",
         "tr_TR": "Prienai",
         "tt": "Prienai",
+        "tt@iqtelif": "Prienai",
         "tt_RU": "Prienai",
         "twq": "Prienai",
         "twq_NE": "Prienai",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Prienai",
         "zh_Hant_TW": "Prienai",
         "zu": "Prienai",
-        "zu_ZA": "Prienai",
-        "sr@latin": "Prienai",
-        "tt@iqtelif": "Prienai"
+        "zu_ZA": "Prienai"
     },
     "37": {
         "af": "Radviliškis",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Radviliškis",
         "sq_XK": "Radviliškis",
         "sr": "Radviliškis",
+        "sr@latin": "Radviliškis",
         "sr_Cyrl": "Radviliškis",
         "sr_Cyrl_BA": "Radviliškis",
         "sr_Cyrl_ME": "Radviliškis",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Radviliškis",
         "tr_TR": "Radviliškis",
         "tt": "Radviliškis",
+        "tt@iqtelif": "Radviliškis",
         "tt_RU": "Radviliškis",
         "twq": "Radviliškis",
         "twq_NE": "Radviliškis",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Radviliškis",
         "zh_Hant_TW": "Radviliškis",
         "zu": "Radviliškis",
-        "zu_ZA": "Radviliškis",
-        "sr@latin": "Radviliškis",
-        "tt@iqtelif": "Radviliškis"
+        "zu_ZA": "Radviliškis"
     },
     "38": {
         "af": "Raseiniai",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Raseiniai",
         "sq_XK": "Raseiniai",
         "sr": "Raseiniai",
+        "sr@latin": "Raseiniai",
         "sr_Cyrl": "Raseiniai",
         "sr_Cyrl_BA": "Raseiniai",
         "sr_Cyrl_ME": "Raseiniai",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Raseiniai",
         "tr_TR": "Raseiniai",
         "tt": "Raseiniai",
+        "tt@iqtelif": "Raseiniai",
         "tt_RU": "Raseiniai",
         "twq": "Raseiniai",
         "twq_NE": "Raseiniai",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Raseiniai",
         "zh_Hant_TW": "Raseiniai",
         "zu": "Raseiniai",
-        "zu_ZA": "Raseiniai",
-        "sr@latin": "Raseiniai",
-        "tt@iqtelif": "Raseiniai"
+        "zu_ZA": "Raseiniai"
     },
     "39": {
         "af": "Rietavas",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Rietavas",
         "sq_XK": "Rietavas",
         "sr": "Rietavas",
+        "sr@latin": "Rietavas",
         "sr_Cyrl": "Rietavas",
         "sr_Cyrl_BA": "Rietavas",
         "sr_Cyrl_ME": "Rietavas",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Rietavas",
         "tr_TR": "Rietavas",
         "tt": "Rietavas",
+        "tt@iqtelif": "Rietavas",
         "tt_RU": "Rietavas",
         "twq": "Rietavas",
         "twq_NE": "Rietavas",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Rietavas",
         "zh_Hant_TW": "Rietavas",
         "zu": "Rietavas",
-        "zu_ZA": "Rietavas",
-        "sr@latin": "Rietavas",
-        "tt@iqtelif": "Rietavas"
+        "zu_ZA": "Rietavas"
     },
     "40": {
         "af": "Rokiškis",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Rokiškis",
         "sq_XK": "Rokiškis",
         "sr": "Rokiškis",
+        "sr@latin": "Rokiškis",
         "sr_Cyrl": "Rokiškis",
         "sr_Cyrl_BA": "Rokiškis",
         "sr_Cyrl_ME": "Rokiškis",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Rokiškis",
         "tr_TR": "Rokiškis",
         "tt": "Rokiškis",
+        "tt@iqtelif": "Rokiškis",
         "tt_RU": "Rokiškis",
         "twq": "Rokiškis",
         "twq_NE": "Rokiškis",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Rokiškis",
         "zh_Hant_TW": "Rokiškis",
         "zu": "Rokiškis",
-        "zu_ZA": "Rokiškis",
-        "sr@latin": "Rokiškis",
-        "tt@iqtelif": "Rokiškis"
+        "zu_ZA": "Rokiškis"
     },
     "41": {
         "af": "Šakiai",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Šakiai",
         "sq_XK": "Šakiai",
         "sr": "Šakiai",
+        "sr@latin": "Šakiai",
         "sr_Cyrl": "Šakiai",
         "sr_Cyrl_BA": "Šakiai",
         "sr_Cyrl_ME": "Šakiai",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Šakiai",
         "tr_TR": "Šakiai",
         "tt": "Šakiai",
+        "tt@iqtelif": "Šakiai",
         "tt_RU": "Šakiai",
         "twq": "Šakiai",
         "twq_NE": "Šakiai",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Šakiai",
         "zh_Hant_TW": "Šakiai",
         "zu": "Šakiai",
-        "zu_ZA": "Šakiai",
-        "sr@latin": "Šakiai",
-        "tt@iqtelif": "Šakiai"
+        "zu_ZA": "Šakiai"
     },
     "42": {
         "af": "Šalčininkai",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Šalčininkai",
         "sq_XK": "Šalčininkai",
         "sr": "Šalčininkai",
+        "sr@latin": "Šalčininkai",
         "sr_Cyrl": "Šalčininkai",
         "sr_Cyrl_BA": "Šalčininkai",
         "sr_Cyrl_ME": "Šalčininkai",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Šalčininkai",
         "tr_TR": "Šalčininkai",
         "tt": "Šalčininkai",
+        "tt@iqtelif": "Šalčininkai",
         "tt_RU": "Šalčininkai",
         "twq": "Šalčininkai",
         "twq_NE": "Šalčininkai",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Šalčininkai",
         "zh_Hant_TW": "Šalčininkai",
         "zu": "Šalčininkai",
-        "zu_ZA": "Šalčininkai",
-        "sr@latin": "Šalčininkai",
-        "tt@iqtelif": "Šalčininkai"
+        "zu_ZA": "Šalčininkai"
     },
     "43": {
         "af": "Šiaulių miestas",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Šiaulių miestas",
         "sq_XK": "Šiaulių miestas",
         "sr": "Šiaulių miestas",
+        "sr@latin": "Šiaulių miestas",
         "sr_Cyrl": "Šiaulių miestas",
         "sr_Cyrl_BA": "Šiaulių miestas",
         "sr_Cyrl_ME": "Šiaulių miestas",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Šiaulių miestas",
         "tr_TR": "Šiaulių miestas",
         "tt": "Šiaulių miestas",
+        "tt@iqtelif": "Šiaulių miestas",
         "tt_RU": "Šiaulių miestas",
         "twq": "Šiaulių miestas",
         "twq_NE": "Šiaulių miestas",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Šiaulių miestas",
         "zh_Hant_TW": "Šiaulių miestas",
         "zu": "Šiaulių miestas",
-        "zu_ZA": "Šiaulių miestas",
-        "sr@latin": "Šiaulių miestas",
-        "tt@iqtelif": "Šiaulių miestas"
+        "zu_ZA": "Šiaulių miestas"
     },
     "44": {
         "af": "Šiauliai",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Šiauliai",
         "sq_XK": "Šiauliai",
         "sr": "Šiauliai",
+        "sr@latin": "Šiauliai",
         "sr_Cyrl": "Šiauliai",
         "sr_Cyrl_BA": "Šiauliai",
         "sr_Cyrl_ME": "Šiauliai",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Šiauliai",
         "tr_TR": "Šiauliai",
         "tt": "Šiauliai",
+        "tt@iqtelif": "Šiauliai",
         "tt_RU": "Šiauliai",
         "twq": "Šiauliai",
         "twq_NE": "Šiauliai",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Šiauliai",
         "zh_Hant_TW": "Šiauliai",
         "zu": "Šiauliai",
-        "zu_ZA": "Šiauliai",
-        "sr@latin": "Šiauliai",
-        "tt@iqtelif": "Šiauliai"
+        "zu_ZA": "Šiauliai"
     },
     "45": {
         "af": "Šilalė",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Šilalė",
         "sq_XK": "Šilalė",
         "sr": "Šilalė",
+        "sr@latin": "Šilalė",
         "sr_Cyrl": "Šilalė",
         "sr_Cyrl_BA": "Šilalė",
         "sr_Cyrl_ME": "Šilalė",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Šilalė",
         "tr_TR": "Šilalė",
         "tt": "Šilalė",
+        "tt@iqtelif": "Šilalė",
         "tt_RU": "Šilalė",
         "twq": "Šilalė",
         "twq_NE": "Šilalė",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Šilalė",
         "zh_Hant_TW": "Šilalė",
         "zu": "Šilalė",
-        "zu_ZA": "Šilalė",
-        "sr@latin": "Šilalė",
-        "tt@iqtelif": "Šilalė"
+        "zu_ZA": "Šilalė"
     },
     "46": {
         "af": "Šilutė",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Šilutė",
         "sq_XK": "Šilutė",
         "sr": "Šilutė",
+        "sr@latin": "Šilutė",
         "sr_Cyrl": "Šilutė",
         "sr_Cyrl_BA": "Šilutė",
         "sr_Cyrl_ME": "Šilutė",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Šilutė",
         "tr_TR": "Šilutė",
         "tt": "Šilutė",
+        "tt@iqtelif": "Šilutė",
         "tt_RU": "Šilutė",
         "twq": "Šilutė",
         "twq_NE": "Šilutė",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Šilutė",
         "zh_Hant_TW": "Šilutė",
         "zu": "Šilutė",
-        "zu_ZA": "Šilutė",
-        "sr@latin": "Šilutė",
-        "tt@iqtelif": "Šilutė"
+        "zu_ZA": "Šilutė"
     },
     "47": {
         "af": "Širvintos",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Širvintos",
         "sq_XK": "Širvintos",
         "sr": "Širvintos",
+        "sr@latin": "Širvintos",
         "sr_Cyrl": "Širvintos",
         "sr_Cyrl_BA": "Širvintos",
         "sr_Cyrl_ME": "Širvintos",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Širvintos",
         "tr_TR": "Širvintos",
         "tt": "Širvintos",
+        "tt@iqtelif": "Širvintos",
         "tt_RU": "Širvintos",
         "twq": "Širvintos",
         "twq_NE": "Širvintos",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Širvintos",
         "zh_Hant_TW": "Širvintos",
         "zu": "Širvintos",
-        "zu_ZA": "Širvintos",
-        "sr@latin": "Širvintos",
-        "tt@iqtelif": "Širvintos"
+        "zu_ZA": "Širvintos"
     },
     "48": {
         "af": "Skuodas",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Skuodas",
         "sq_XK": "Skuodas",
         "sr": "Skuodas",
+        "sr@latin": "Skuodas",
         "sr_Cyrl": "Skuodas",
         "sr_Cyrl_BA": "Skuodas",
         "sr_Cyrl_ME": "Skuodas",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Skuodas",
         "tr_TR": "Skuodas",
         "tt": "Skuodas",
+        "tt@iqtelif": "Skuodas",
         "tt_RU": "Skuodas",
         "twq": "Skuodas",
         "twq_NE": "Skuodas",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Skuodas",
         "zh_Hant_TW": "Skuodas",
         "zu": "Skuodas",
-        "zu_ZA": "Skuodas",
-        "sr@latin": "Skuodas",
-        "tt@iqtelif": "Skuodas"
+        "zu_ZA": "Skuodas"
     },
     "49": {
         "af": "Švenčionys",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Švenčionys",
         "sq_XK": "Švenčionys",
         "sr": "Švenčionys",
+        "sr@latin": "Švenčionys",
         "sr_Cyrl": "Švenčionys",
         "sr_Cyrl_BA": "Švenčionys",
         "sr_Cyrl_ME": "Švenčionys",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Švenčionys",
         "tr_TR": "Švenčionys",
         "tt": "Švenčionys",
+        "tt@iqtelif": "Švenčionys",
         "tt_RU": "Švenčionys",
         "twq": "Švenčionys",
         "twq_NE": "Švenčionys",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Švenčionys",
         "zh_Hant_TW": "Švenčionys",
         "zu": "Švenčionys",
-        "zu_ZA": "Švenčionys",
-        "sr@latin": "Švenčionys",
-        "tt@iqtelif": "Švenčionys"
+        "zu_ZA": "Švenčionys"
     },
     "50": {
         "af": "Tauragė",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Tauragė",
         "sq_XK": "Tauragė",
         "sr": "Tauragė",
+        "sr@latin": "Tauragė",
         "sr_Cyrl": "Tauragė",
         "sr_Cyrl_BA": "Tauragė",
         "sr_Cyrl_ME": "Tauragė",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Tauragė",
         "tr_TR": "Tauragė",
         "tt": "Tauragė",
+        "tt@iqtelif": "Tauragė",
         "tt_RU": "Tauragė",
         "twq": "Tauragė",
         "twq_NE": "Tauragė",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Tauragė",
         "zh_Hant_TW": "Tauragė",
         "zu": "Tauragė",
-        "zu_ZA": "Tauragė",
-        "sr@latin": "Tauragė",
-        "tt@iqtelif": "Tauragė"
+        "zu_ZA": "Tauragė"
     },
     "51": {
         "af": "Telšiai",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Telšiai",
         "sq_XK": "Telšiai",
         "sr": "Telšiai",
+        "sr@latin": "Telšiai",
         "sr_Cyrl": "Telšiai",
         "sr_Cyrl_BA": "Telšiai",
         "sr_Cyrl_ME": "Telšiai",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Telšiai",
         "tr_TR": "Telšiai",
         "tt": "Telšiai",
+        "tt@iqtelif": "Telšiai",
         "tt_RU": "Telšiai",
         "twq": "Telšiai",
         "twq_NE": "Telšiai",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Telšiai",
         "zh_Hant_TW": "Telšiai",
         "zu": "Telšiai",
-        "zu_ZA": "Telšiai",
-        "sr@latin": "Telšiai",
-        "tt@iqtelif": "Telšiai"
+        "zu_ZA": "Telšiai"
     },
     "52": {
         "af": "Trakai",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Trakai",
         "sq_XK": "Trakai",
         "sr": "Trakai",
+        "sr@latin": "Trakai",
         "sr_Cyrl": "Trakai",
         "sr_Cyrl_BA": "Trakai",
         "sr_Cyrl_ME": "Trakai",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Trakai",
         "tr_TR": "Trakai",
         "tt": "Trakai",
+        "tt@iqtelif": "Trakai",
         "tt_RU": "Trakai",
         "twq": "Trakai",
         "twq_NE": "Trakai",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Trakai",
         "zh_Hant_TW": "Trakai",
         "zu": "Trakai",
-        "zu_ZA": "Trakai",
-        "sr@latin": "Trakai",
-        "tt@iqtelif": "Trakai"
+        "zu_ZA": "Trakai"
     },
     "53": {
         "af": "Ukmergė",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Ukmergė",
         "sq_XK": "Ukmergė",
         "sr": "Ukmergė",
+        "sr@latin": "Ukmergė",
         "sr_Cyrl": "Ukmergė",
         "sr_Cyrl_BA": "Ukmergė",
         "sr_Cyrl_ME": "Ukmergė",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Ukmergė",
         "tr_TR": "Ukmergė",
         "tt": "Ukmergė",
+        "tt@iqtelif": "Ukmergė",
         "tt_RU": "Ukmergė",
         "twq": "Ukmergė",
         "twq_NE": "Ukmergė",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Ukmergė",
         "zh_Hant_TW": "Ukmergė",
         "zu": "Ukmergė",
-        "zu_ZA": "Ukmergė",
-        "sr@latin": "Ukmergė",
-        "tt@iqtelif": "Ukmergė"
+        "zu_ZA": "Ukmergė"
     },
     "54": {
         "af": "Utena",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Utena",
         "sq_XK": "Utena",
         "sr": "Utena",
+        "sr@latin": "Utena",
         "sr_Cyrl": "Utena",
         "sr_Cyrl_BA": "Utena",
         "sr_Cyrl_ME": "Utena",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Utena",
         "tr_TR": "Utena",
         "tt": "Utena",
+        "tt@iqtelif": "Utena",
         "tt_RU": "Utena",
         "twq": "Utena",
         "twq_NE": "Utena",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Utena",
         "zh_Hant_TW": "Utena",
         "zu": "Utena",
-        "zu_ZA": "Utena",
-        "sr@latin": "Utena",
-        "tt@iqtelif": "Utena"
+        "zu_ZA": "Utena"
     },
     "55": {
         "af": "Varėna",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Varėna",
         "sq_XK": "Varėna",
         "sr": "Varėna",
+        "sr@latin": "Varėna",
         "sr_Cyrl": "Varėna",
         "sr_Cyrl_BA": "Varėna",
         "sr_Cyrl_ME": "Varėna",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Varėna",
         "tr_TR": "Varėna",
         "tt": "Varėna",
+        "tt@iqtelif": "Varėna",
         "tt_RU": "Varėna",
         "twq": "Varėna",
         "twq_NE": "Varėna",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Varėna",
         "zh_Hant_TW": "Varėna",
         "zu": "Varėna",
-        "zu_ZA": "Varėna",
-        "sr@latin": "Varėna",
-        "tt@iqtelif": "Varėna"
+        "zu_ZA": "Varėna"
     },
     "56": {
         "af": "Vilkaviškis",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Vilkaviškis",
         "sq_XK": "Vilkaviškis",
         "sr": "Vilkaviškis",
+        "sr@latin": "Vilkaviškis",
         "sr_Cyrl": "Vilkaviškis",
         "sr_Cyrl_BA": "Vilkaviškis",
         "sr_Cyrl_ME": "Vilkaviškis",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Vilkaviškis",
         "tr_TR": "Vilkaviškis",
         "tt": "Vilkaviškis",
+        "tt@iqtelif": "Vilkaviškis",
         "tt_RU": "Vilkaviškis",
         "twq": "Vilkaviškis",
         "twq_NE": "Vilkaviškis",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Vilkaviškis",
         "zh_Hant_TW": "Vilkaviškis",
         "zu": "Vilkaviškis",
-        "zu_ZA": "Vilkaviškis",
-        "sr@latin": "Vilkaviškis",
-        "tt@iqtelif": "Vilkaviškis"
+        "zu_ZA": "Vilkaviškis"
     },
     "57": {
         "af": "Vilniaus miestas",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Vilniaus miestas",
         "sq_XK": "Vilniaus miestas",
         "sr": "Vilniaus miestas",
+        "sr@latin": "Vilniaus miestas",
         "sr_Cyrl": "Vilniaus miestas",
         "sr_Cyrl_BA": "Vilniaus miestas",
         "sr_Cyrl_ME": "Vilniaus miestas",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Vilniaus miestas",
         "tr_TR": "Vilniaus miestas",
         "tt": "Vilniaus miestas",
+        "tt@iqtelif": "Vilniaus miestas",
         "tt_RU": "Vilniaus miestas",
         "twq": "Vilniaus miestas",
         "twq_NE": "Vilniaus miestas",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Vilniaus miestas",
         "zh_Hant_TW": "Vilniaus miestas",
         "zu": "Vilniaus miestas",
-        "zu_ZA": "Vilniaus miestas",
-        "sr@latin": "Vilniaus miestas",
-        "tt@iqtelif": "Vilniaus miestas"
+        "zu_ZA": "Vilniaus miestas"
     },
     "58": {
         "af": "Vilnius",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Vilnius",
         "sq_XK": "Vilnius",
         "sr": "Vilnius",
+        "sr@latin": "Vilnius",
         "sr_Cyrl": "Vilnius",
         "sr_Cyrl_BA": "Vilnius",
         "sr_Cyrl_ME": "Vilnius",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Vilnius",
         "tr_TR": "Vilnius",
         "tt": "Vilnius",
+        "tt@iqtelif": "Vilnius",
         "tt_RU": "Vilnius",
         "twq": "Vilnius",
         "twq_NE": "Vilnius",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Vilnius",
         "zh_Hant_TW": "Vilnius",
         "zu": "Vilnius",
-        "zu_ZA": "Vilnius",
-        "sr@latin": "Vilnius",
-        "tt@iqtelif": "Vilnius"
+        "zu_ZA": "Vilnius"
     },
     "59": {
         "af": "Visaginas",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Visaginas",
         "sq_XK": "Visaginas",
         "sr": "Visaginas",
+        "sr@latin": "Visaginas",
         "sr_Cyrl": "Visaginas",
         "sr_Cyrl_BA": "Visaginas",
         "sr_Cyrl_ME": "Visaginas",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Visaginas",
         "tr_TR": "Visaginas",
         "tt": "Visaginas",
+        "tt@iqtelif": "Visaginas",
         "tt_RU": "Visaginas",
         "twq": "Visaginas",
         "twq_NE": "Visaginas",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Visaginas",
         "zh_Hant_TW": "Visaginas",
         "zu": "Visaginas",
-        "zu_ZA": "Visaginas",
-        "sr@latin": "Visaginas",
-        "tt@iqtelif": "Visaginas"
+        "zu_ZA": "Visaginas"
     },
     "60": {
         "af": "Zarasai",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Zarasai",
         "sq_XK": "Zarasai",
         "sr": "Zarasai",
+        "sr@latin": "Zarasai",
         "sr_Cyrl": "Zarasai",
         "sr_Cyrl_BA": "Zarasai",
         "sr_Cyrl_ME": "Zarasai",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Zarasai",
         "tr_TR": "Zarasai",
         "tt": "Zarasai",
+        "tt@iqtelif": "Zarasai",
         "tt_RU": "Zarasai",
         "twq": "Zarasai",
         "twq_NE": "Zarasai",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Zarasai",
         "zh_Hant_TW": "Zarasai",
         "zu": "Zarasai",
-        "zu_ZA": "Zarasai",
-        "sr@latin": "Zarasai",
-        "tt@iqtelif": "Zarasai"
+        "zu_ZA": "Zarasai"
     },
     "AL": {
         "af": "Alytaus apskritis",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Alytaus apskritis",
         "sq_XK": "Alytaus apskritis",
         "sr": "Alytaus apskritis",
+        "sr@latin": "Alytaus apskritis",
         "sr_Cyrl": "Alytaus apskritis",
         "sr_Cyrl_BA": "Alytaus apskritis",
         "sr_Cyrl_ME": "Alytaus apskritis",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Alytaus apskritis",
         "tr_TR": "Alytaus apskritis",
         "tt": "Alytaus apskritis",
+        "tt@iqtelif": "Alytaus apskritis",
         "tt_RU": "Alytaus apskritis",
         "twq": "Alytaus apskritis",
         "twq_NE": "Alytaus apskritis",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Alytaus apskritis",
         "zh_Hant_TW": "Alytaus apskritis",
         "zu": "Alytaus apskritis",
-        "zu_ZA": "Alytaus apskritis",
-        "sr@latin": "Alytaus apskritis",
-        "tt@iqtelif": "Alytaus apskritis"
+        "zu_ZA": "Alytaus apskritis"
     },
     "KL": {
         "af": "Klaipėdos apskritis",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Klaipėdos apskritis",
         "sq_XK": "Klaipėdos apskritis",
         "sr": "Klaipėdos apskritis",
+        "sr@latin": "Klaipėdos apskritis",
         "sr_Cyrl": "Klaipėdos apskritis",
         "sr_Cyrl_BA": "Klaipėdos apskritis",
         "sr_Cyrl_ME": "Klaipėdos apskritis",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Klaipėdos apskritis",
         "tr_TR": "Klaipėdos apskritis",
         "tt": "Klaipėdos apskritis",
+        "tt@iqtelif": "Klaipėdos apskritis",
         "tt_RU": "Klaipėdos apskritis",
         "twq": "Klaipėdos apskritis",
         "twq_NE": "Klaipėdos apskritis",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Klaipėdos apskritis",
         "zh_Hant_TW": "Klaipėdos apskritis",
         "zu": "Klaipėdos apskritis",
-        "zu_ZA": "Klaipėdos apskritis",
-        "sr@latin": "Klaipėdos apskritis",
-        "tt@iqtelif": "Klaipėdos apskritis"
+        "zu_ZA": "Klaipėdos apskritis"
     },
     "KU": {
         "af": "Kauno apskritis",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Kauno apskritis",
         "sq_XK": "Kauno apskritis",
         "sr": "Kauno apskritis",
+        "sr@latin": "Kauno apskritis",
         "sr_Cyrl": "Kauno apskritis",
         "sr_Cyrl_BA": "Kauno apskritis",
         "sr_Cyrl_ME": "Kauno apskritis",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Kauno apskritis",
         "tr_TR": "Kauno apskritis",
         "tt": "Kauno apskritis",
+        "tt@iqtelif": "Kauno apskritis",
         "tt_RU": "Kauno apskritis",
         "twq": "Kauno apskritis",
         "twq_NE": "Kauno apskritis",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Kauno apskritis",
         "zh_Hant_TW": "Kauno apskritis",
         "zu": "Kauno apskritis",
-        "zu_ZA": "Kauno apskritis",
-        "sr@latin": "Kauno apskritis",
-        "tt@iqtelif": "Kauno apskritis"
+        "zu_ZA": "Kauno apskritis"
     },
     "MR": {
         "af": "Marijampolės apskritis",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Marijampolės apskritis",
         "sq_XK": "Marijampolės apskritis",
         "sr": "Marijampolės apskritis",
+        "sr@latin": "Marijampolės apskritis",
         "sr_Cyrl": "Marijampolės apskritis",
         "sr_Cyrl_BA": "Marijampolės apskritis",
         "sr_Cyrl_ME": "Marijampolės apskritis",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Marijampolės apskritis",
         "tr_TR": "Marijampolės apskritis",
         "tt": "Marijampolės apskritis",
+        "tt@iqtelif": "Marijampolės apskritis",
         "tt_RU": "Marijampolės apskritis",
         "twq": "Marijampolės apskritis",
         "twq_NE": "Marijampolės apskritis",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Marijampolės apskritis",
         "zh_Hant_TW": "Marijampolės apskritis",
         "zu": "Marijampolės apskritis",
-        "zu_ZA": "Marijampolės apskritis",
-        "sr@latin": "Marijampolės apskritis",
-        "tt@iqtelif": "Marijampolės apskritis"
+        "zu_ZA": "Marijampolės apskritis"
     },
     "PN": {
         "af": "Panevėžio apskritis",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Panevėžio apskritis",
         "sq_XK": "Panevėžio apskritis",
         "sr": "Panevėžio apskritis",
+        "sr@latin": "Panevėžio apskritis",
         "sr_Cyrl": "Panevėžio apskritis",
         "sr_Cyrl_BA": "Panevėžio apskritis",
         "sr_Cyrl_ME": "Panevėžio apskritis",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Panevėžio apskritis",
         "tr_TR": "Panevėžio apskritis",
         "tt": "Panevėžio apskritis",
+        "tt@iqtelif": "Panevėžio apskritis",
         "tt_RU": "Panevėžio apskritis",
         "twq": "Panevėžio apskritis",
         "twq_NE": "Panevėžio apskritis",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Panevėžio apskritis",
         "zh_Hant_TW": "Panevėžio apskritis",
         "zu": "Panevėžio apskritis",
-        "zu_ZA": "Panevėžio apskritis",
-        "sr@latin": "Panevėžio apskritis",
-        "tt@iqtelif": "Panevėžio apskritis"
+        "zu_ZA": "Panevėžio apskritis"
     },
     "SA": {
         "af": "Šiaulių apskritis",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Šiaulių apskritis",
         "sq_XK": "Šiaulių apskritis",
         "sr": "Šiaulių apskritis",
+        "sr@latin": "Šiaulių apskritis",
         "sr_Cyrl": "Šiaulių apskritis",
         "sr_Cyrl_BA": "Šiaulių apskritis",
         "sr_Cyrl_ME": "Šiaulių apskritis",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Šiaulių apskritis",
         "tr_TR": "Šiaulių apskritis",
         "tt": "Šiaulių apskritis",
+        "tt@iqtelif": "Šiaulių apskritis",
         "tt_RU": "Šiaulių apskritis",
         "twq": "Šiaulių apskritis",
         "twq_NE": "Šiaulių apskritis",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Šiaulių apskritis",
         "zh_Hant_TW": "Šiaulių apskritis",
         "zu": "Šiaulių apskritis",
-        "zu_ZA": "Šiaulių apskritis",
-        "sr@latin": "Šiaulių apskritis",
-        "tt@iqtelif": "Šiaulių apskritis"
+        "zu_ZA": "Šiaulių apskritis"
     },
     "TA": {
         "af": "Tauragės apskritis",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Tauragės apskritis",
         "sq_XK": "Tauragės apskritis",
         "sr": "Tauragės apskritis",
+        "sr@latin": "Tauragės apskritis",
         "sr_Cyrl": "Tauragės apskritis",
         "sr_Cyrl_BA": "Tauragės apskritis",
         "sr_Cyrl_ME": "Tauragės apskritis",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Tauragės apskritis",
         "tr_TR": "Tauragės apskritis",
         "tt": "Tauragės apskritis",
+        "tt@iqtelif": "Tauragės apskritis",
         "tt_RU": "Tauragės apskritis",
         "twq": "Tauragės apskritis",
         "twq_NE": "Tauragės apskritis",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Tauragės apskritis",
         "zh_Hant_TW": "Tauragės apskritis",
         "zu": "Tauragės apskritis",
-        "zu_ZA": "Tauragės apskritis",
-        "sr@latin": "Tauragės apskritis",
-        "tt@iqtelif": "Tauragės apskritis"
+        "zu_ZA": "Tauragės apskritis"
     },
     "TE": {
         "af": "Telšių apskritis",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Telšių apskritis",
         "sq_XK": "Telšių apskritis",
         "sr": "Telšių apskritis",
+        "sr@latin": "Telšių apskritis",
         "sr_Cyrl": "Telšių apskritis",
         "sr_Cyrl_BA": "Telšių apskritis",
         "sr_Cyrl_ME": "Telšių apskritis",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Telšių apskritis",
         "tr_TR": "Telšių apskritis",
         "tt": "Telšių apskritis",
+        "tt@iqtelif": "Telšių apskritis",
         "tt_RU": "Telšių apskritis",
         "twq": "Telšių apskritis",
         "twq_NE": "Telšių apskritis",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Telšių apskritis",
         "zh_Hant_TW": "Telšių apskritis",
         "zu": "Telšių apskritis",
-        "zu_ZA": "Telšių apskritis",
-        "sr@latin": "Telšių apskritis",
-        "tt@iqtelif": "Telšių apskritis"
+        "zu_ZA": "Telšių apskritis"
     },
     "UT": {
         "af": "Utenos apskritis",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Utenos apskritis",
         "sq_XK": "Utenos apskritis",
         "sr": "Utenos apskritis",
+        "sr@latin": "Utenos apskritis",
         "sr_Cyrl": "Utenos apskritis",
         "sr_Cyrl_BA": "Utenos apskritis",
         "sr_Cyrl_ME": "Utenos apskritis",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Utenos apskritis",
         "tr_TR": "Utenos apskritis",
         "tt": "Utenos apskritis",
+        "tt@iqtelif": "Utenos apskritis",
         "tt_RU": "Utenos apskritis",
         "twq": "Utenos apskritis",
         "twq_NE": "Utenos apskritis",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Utenos apskritis",
         "zh_Hant_TW": "Utenos apskritis",
         "zu": "Utenos apskritis",
-        "zu_ZA": "Utenos apskritis",
-        "sr@latin": "Utenos apskritis",
-        "tt@iqtelif": "Utenos apskritis"
+        "zu_ZA": "Utenos apskritis"
     },
     "VL": {
         "af": "Vilniaus apskritis",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Vilniaus apskritis",
         "sq_XK": "Vilniaus apskritis",
         "sr": "Vilniaus apskritis",
+        "sr@latin": "Vilniaus apskritis",
         "sr_Cyrl": "Vilniaus apskritis",
         "sr_Cyrl_BA": "Vilniaus apskritis",
         "sr_Cyrl_ME": "Vilniaus apskritis",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Vilniaus apskritis",
         "tr_TR": "Vilniaus apskritis",
         "tt": "Vilniaus apskritis",
+        "tt@iqtelif": "Vilniaus apskritis",
         "tt_RU": "Vilniaus apskritis",
         "twq": "Vilniaus apskritis",
         "twq_NE": "Vilniaus apskritis",
@@ -61945,8 +61947,6 @@
         "zh_Hant_MY": "Vilniaus apskritis",
         "zh_Hant_TW": "Vilniaus apskritis",
         "zu": "Vilniaus apskritis",
-        "zu_ZA": "Vilniaus apskritis",
-        "sr@latin": "Vilniaus apskritis",
-        "tt@iqtelif": "Vilniaus apskritis"
+        "zu_ZA": "Vilniaus apskritis"
     }
 }

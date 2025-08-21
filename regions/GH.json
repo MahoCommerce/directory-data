@@ -743,6 +743,7 @@
         "sq_MK": "Greater Accra",
         "sq_XK": "Greater Accra",
         "sr": "Грејтер Акра",
+        "sr@latin": "Grejter Akra",
         "sr_Cyrl": "Грејтер Акра",
         "sr_Cyrl_BA": "Грејтер Акра",
         "sr_Cyrl_ME": "Грејтер Акра",
@@ -803,6 +804,7 @@
         "tr_CY": "Greater Accra",
         "tr_TR": "Greater Accra",
         "tt": "Greater Accra",
+        "tt@iqtelif": "Greater Accra",
         "tt_RU": "Greater Accra",
         "twq": "Greater Accra",
         "twq_NE": "Greater Accra",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Greater Accra",
         "zh_Hant_TW": "Greater Accra",
         "zu": "Greater Accra",
-        "zu_ZA": "Greater Accra",
-        "sr@latin": "Grejter Akra",
-        "tt@iqtelif": "Greater Accra"
+        "zu_ZA": "Greater Accra"
     },
     "AF": {
         "af": "Ahafo",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Ahafo",
         "sq_XK": "Ahafo",
         "sr": "Ahafo",
+        "sr@latin": "Ahafo",
         "sr_Cyrl": "Ahafo",
         "sr_Cyrl_BA": "Ahafo",
         "sr_Cyrl_ME": "Ahafo",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Ahafo",
         "tr_TR": "Ahafo",
         "tt": "Ahafo",
+        "tt@iqtelif": "Ahafo",
         "tt_RU": "Ahafo",
         "twq": "Ahafo",
         "twq_NE": "Ahafo",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Ahafo",
         "zh_Hant_TW": "Ahafo",
         "zu": "Ahafo",
-        "zu_ZA": "Ahafo",
-        "sr@latin": "Ahafo",
-        "tt@iqtelif": "Ahafo"
+        "zu_ZA": "Ahafo"
     },
     "AH": {
         "af": "Ashanti",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Ashanti",
         "sq_XK": "Ashanti",
         "sr": "Ашанти",
+        "sr@latin": "Ašanti",
         "sr_Cyrl": "Ашанти",
         "sr_Cyrl_BA": "Ашанти",
         "sr_Cyrl_ME": "Ашанти",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Ashanti",
         "tr_TR": "Ashanti",
         "tt": "Ashanti",
+        "tt@iqtelif": "Ashanti",
         "tt_RU": "Ashanti",
         "twq": "Ashanti",
         "twq_NE": "Ashanti",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Ashanti",
         "zh_Hant_TW": "Ashanti",
         "zu": "Ashanti",
-        "zu_ZA": "Ashanti",
-        "sr@latin": "Ašanti",
-        "tt@iqtelif": "Ashanti"
+        "zu_ZA": "Ashanti"
     },
     "BE": {
         "af": "Bono East",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Bono East",
         "sq_XK": "Bono East",
         "sr": "Bono East",
+        "sr@latin": "Bono East",
         "sr_Cyrl": "Bono East",
         "sr_Cyrl_BA": "Bono East",
         "sr_Cyrl_ME": "Bono East",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Bono East",
         "tr_TR": "Bono East",
         "tt": "Bono East",
+        "tt@iqtelif": "Bono East",
         "tt_RU": "Bono East",
         "twq": "Bono East",
         "twq_NE": "Bono East",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Bono East",
         "zh_Hant_TW": "Bono East",
         "zu": "Bono East",
-        "zu_ZA": "Bono East",
-        "sr@latin": "Bono East",
-        "tt@iqtelif": "Bono East"
+        "zu_ZA": "Bono East"
     },
     "BO": {
         "af": "Bono",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bono",
         "sq_XK": "Bono",
         "sr": "Bono",
+        "sr@latin": "Bono",
         "sr_Cyrl": "Bono",
         "sr_Cyrl_BA": "Bono",
         "sr_Cyrl_ME": "Bono",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bono",
         "tr_TR": "Bono",
         "tt": "Bono",
+        "tt@iqtelif": "Bono",
         "tt_RU": "Bono",
         "twq": "Bono",
         "twq_NE": "Bono",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bono",
         "zh_Hant_TW": "Bono",
         "zu": "Bono",
-        "zu_ZA": "Bono",
-        "sr@latin": "Bono",
-        "tt@iqtelif": "Bono"
+        "zu_ZA": "Bono"
     },
     "CP": {
         "af": "Central",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Central",
         "sq_XK": "Central",
         "sr": "Централни",
+        "sr@latin": "Centralni",
         "sr_Cyrl": "Централни",
         "sr_Cyrl_BA": "Централни",
         "sr_Cyrl_ME": "Централни",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Merkezi",
         "tr_TR": "Merkezi",
         "tt": "Central",
+        "tt@iqtelif": "Central",
         "tt_RU": "Central",
         "twq": "Central",
         "twq_NE": "Central",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central",
-        "sr@latin": "Centralni",
-        "tt@iqtelif": "Central"
+        "zu_ZA": "Central"
     },
     "EP": {
         "af": "Eastern",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Eastern",
         "sq_XK": "Eastern",
         "sr": "Eastern",
+        "sr@latin": "Eastern",
         "sr_Cyrl": "Eastern",
         "sr_Cyrl_BA": "Eastern",
         "sr_Cyrl_ME": "Eastern",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Doğu",
         "tr_TR": "Doğu",
         "tt": "Eastern",
+        "tt@iqtelif": "Eastern",
         "tt_RU": "Eastern",
         "twq": "Eastern",
         "twq_NE": "Eastern",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern",
-        "sr@latin": "Eastern",
-        "tt@iqtelif": "Eastern"
+        "zu_ZA": "Eastern"
     },
     "NE": {
         "af": "North East",
@@ -6938,6 +6938,7 @@
         "sq_MK": "North East",
         "sq_XK": "North East",
         "sr": "Североисток",
+        "sr@latin": "Severoistok",
         "sr_Cyrl": "Североисток",
         "sr_Cyrl_BA": "Североисток",
         "sr_Cyrl_ME": "Североисток",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kuzey Doğu",
         "tr_TR": "Kuzey Doğu",
         "tt": "North East",
+        "tt@iqtelif": "North East",
         "tt_RU": "North East",
         "twq": "North East",
         "twq_NE": "North East",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "North East",
         "zh_Hant_TW": "North East",
         "zu": "North East",
-        "zu_ZA": "North East",
-        "sr@latin": "Severoistok",
-        "tt@iqtelif": "North East"
+        "zu_ZA": "North East"
     },
     "NP": {
         "af": "Northern",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Northern",
         "sq_XK": "Northern",
         "sr": "Northern",
+        "sr@latin": "Northern",
         "sr_Cyrl": "Northern",
         "sr_Cyrl_BA": "Northern",
         "sr_Cyrl_ME": "Northern",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kuzey",
         "tr_TR": "Kuzey",
         "tt": "Northern",
+        "tt@iqtelif": "Northern",
         "tt_RU": "Northern",
         "twq": "Northern",
         "twq_NE": "Northern",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern",
-        "sr@latin": "Northern",
-        "tt@iqtelif": "Northern"
+        "zu_ZA": "Northern"
     },
     "OT": {
         "af": "Oti",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Oti",
         "sq_XK": "Oti",
         "sr": "Oti",
+        "sr@latin": "Oti",
         "sr_Cyrl": "Oti",
         "sr_Cyrl_BA": "Oti",
         "sr_Cyrl_ME": "Oti",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Oti",
         "tr_TR": "Oti",
         "tt": "Oti",
+        "tt@iqtelif": "Oti",
         "tt_RU": "Oti",
         "twq": "Oti",
         "twq_NE": "Oti",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Oti",
         "zh_Hant_TW": "Oti",
         "zu": "Oti",
-        "zu_ZA": "Oti",
-        "sr@latin": "Oti",
-        "tt@iqtelif": "Oti"
+        "zu_ZA": "Oti"
     },
     "SV": {
         "af": "Savannah",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Savannah",
         "sq_XK": "Savannah",
         "sr": "Savannah",
+        "sr@latin": "Savannah",
         "sr_Cyrl": "Savannah",
         "sr_Cyrl_BA": "Savannah",
         "sr_Cyrl_ME": "Savannah",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Savannah",
         "tr_TR": "Savannah",
         "tt": "Savannah",
+        "tt@iqtelif": "Savannah",
         "tt_RU": "Savannah",
         "twq": "Savannah",
         "twq_NE": "Savannah",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Savannah",
         "zh_Hant_TW": "Savannah",
         "zu": "Savannah",
-        "zu_ZA": "Savannah",
-        "sr@latin": "Savannah",
-        "tt@iqtelif": "Savannah"
+        "zu_ZA": "Savannah"
     },
     "TV": {
         "af": "Volta",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Volta",
         "sq_XK": "Volta",
         "sr": "Волта",
+        "sr@latin": "Volta",
         "sr_Cyrl": "Волта",
         "sr_Cyrl_BA": "Волта",
         "sr_Cyrl_ME": "Волта",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Volta",
         "tr_TR": "Volta",
         "tt": "Volta",
+        "tt@iqtelif": "Volta",
         "tt_RU": "Volta",
         "twq": "Volta",
         "twq_NE": "Volta",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Volta",
         "zh_Hant_TW": "Volta",
         "zu": "Volta",
-        "zu_ZA": "Volta",
-        "sr@latin": "Volta",
-        "tt@iqtelif": "Volta"
+        "zu_ZA": "Volta"
     },
     "UE": {
         "af": "Upper East",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Upper East",
         "sq_XK": "Upper East",
         "sr": "Upper East",
+        "sr@latin": "Upper East",
         "sr_Cyrl": "Upper East",
         "sr_Cyrl_BA": "Upper East",
         "sr_Cyrl_ME": "Upper East",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Upper East",
         "tr_TR": "Upper East",
         "tt": "Upper East",
+        "tt@iqtelif": "Upper East",
         "tt_RU": "Upper East",
         "twq": "Upper East",
         "twq_NE": "Upper East",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Upper East",
         "zh_Hant_TW": "Upper East",
         "zu": "Upper East",
-        "zu_ZA": "Upper East",
-        "sr@latin": "Upper East",
-        "tt@iqtelif": "Upper East"
+        "zu_ZA": "Upper East"
     },
     "UW": {
         "af": "Upper West",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Upper West",
         "sq_XK": "Upper West",
         "sr": "Upper West",
+        "sr@latin": "Upper West",
         "sr_Cyrl": "Upper West",
         "sr_Cyrl_BA": "Upper West",
         "sr_Cyrl_ME": "Upper West",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Upper West",
         "tr_TR": "Upper West",
         "tt": "Upper West",
+        "tt@iqtelif": "Upper West",
         "tt_RU": "Upper West",
         "twq": "Upper West",
         "twq_NE": "Upper West",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Upper West",
         "zh_Hant_TW": "Upper West",
         "zu": "Upper West",
-        "zu_ZA": "Upper West",
-        "sr@latin": "Upper West",
-        "tt@iqtelif": "Upper West"
+        "zu_ZA": "Upper West"
     },
     "WN": {
         "af": "Western North",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Western North",
         "sq_XK": "Western North",
         "sr": "Western North",
+        "sr@latin": "Western North",
         "sr_Cyrl": "Western North",
         "sr_Cyrl_BA": "Western North",
         "sr_Cyrl_ME": "Western North",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Western North",
         "tr_TR": "Western North",
         "tt": "Western North",
+        "tt@iqtelif": "Western North",
         "tt_RU": "Western North",
         "twq": "Western North",
         "twq_NE": "Western North",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Western North",
         "zh_Hant_TW": "Western North",
         "zu": "Western North",
-        "zu_ZA": "Western North",
-        "sr@latin": "Western North",
-        "tt@iqtelif": "Western North"
+        "zu_ZA": "Western North"
     },
     "WP": {
         "af": "Western",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Western",
         "sq_XK": "Western",
         "sr": "Western",
+        "sr@latin": "Western",
         "sr_Cyrl": "Western",
         "sr_Cyrl_BA": "Western",
         "sr_Cyrl_ME": "Western",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Batı",
         "tr_TR": "Batı",
         "tt": "Western",
+        "tt@iqtelif": "Western",
         "tt_RU": "Western",
         "twq": "Western",
         "twq_NE": "Western",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western",
-        "sr@latin": "Western",
-        "tt@iqtelif": "Western"
+        "zu_ZA": "Western"
     }
 }

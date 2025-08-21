@@ -743,6 +743,7 @@
         "sq_MK": "Ágion Óros",
         "sq_XK": "Ágion Óros",
         "sr": "Ágion Óros",
+        "sr@latin": "Ágion Óros",
         "sr_Cyrl": "Ágion Óros",
         "sr_Cyrl_BA": "Ágion Óros",
         "sr_Cyrl_ME": "Ágion Óros",
@@ -803,6 +804,7 @@
         "tr_CY": "Ágion Óros",
         "tr_TR": "Ágion Óros",
         "tt": "Ágion Óros",
+        "tt@iqtelif": "Ágion Óros",
         "tt_RU": "Ágion Óros",
         "twq": "Ágion Óros",
         "twq_NE": "Ágion Óros",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ágion Óros",
         "zh_Hant_TW": "Ágion Óros",
         "zu": "Ágion Óros",
-        "zu_ZA": "Ágion Óros",
-        "sr@latin": "Ágion Óros",
-        "tt@iqtelif": "Ágion Óros"
+        "zu_ZA": "Ágion Óros"
     },
     "A": {
         "af": "Anatolikí Makedonía kai Thráki",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Anatolikí Makedonía kai Thráki",
         "sq_XK": "Anatolikí Makedonía kai Thráki",
         "sr": "Anatolikí Makedonía kai Thráki",
+        "sr@latin": "Anatolikí Makedonía kai Thráki",
         "sr_Cyrl": "Anatolikí Makedonía kai Thráki",
         "sr_Cyrl_BA": "Anatolikí Makedonía kai Thráki",
         "sr_Cyrl_ME": "Anatolikí Makedonía kai Thráki",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Anatolikí Makedonía kai Thráki",
         "tr_TR": "Anatolikí Makedonía kai Thráki",
         "tt": "Anatolikí Makedonía kai Thráki",
+        "tt@iqtelif": "Anatolikí Makedonía kai Thráki",
         "tt_RU": "Anatolikí Makedonía kai Thráki",
         "twq": "Anatolikí Makedonía kai Thráki",
         "twq_NE": "Anatolikí Makedonía kai Thráki",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Anatolikí Makedonía kai Thráki",
         "zh_Hant_TW": "Anatolikí Makedonía kai Thráki",
         "zu": "Anatolikí Makedonía kai Thráki",
-        "zu_ZA": "Anatolikí Makedonía kai Thráki",
-        "sr@latin": "Anatolikí Makedonía kai Thráki",
-        "tt@iqtelif": "Anatolikí Makedonía kai Thráki"
+        "zu_ZA": "Anatolikí Makedonía kai Thráki"
     },
     "B": {
         "af": "Kentrikí Makedonía",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Kentrikí Makedonía",
         "sq_XK": "Kentrikí Makedonía",
         "sr": "Kentrikí Makedonía",
+        "sr@latin": "Kentrikí Makedonía",
         "sr_Cyrl": "Kentrikí Makedonía",
         "sr_Cyrl_BA": "Kentrikí Makedonía",
         "sr_Cyrl_ME": "Kentrikí Makedonía",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Kentrikí Makedonía",
         "tr_TR": "Kentrikí Makedonía",
         "tt": "Kentrikí Makedonía",
+        "tt@iqtelif": "Kentrikí Makedonía",
         "tt_RU": "Kentrikí Makedonía",
         "twq": "Kentrikí Makedonía",
         "twq_NE": "Kentrikí Makedonía",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Kentrikí Makedonía",
         "zh_Hant_TW": "Kentrikí Makedonía",
         "zu": "Kentrikí Makedonía",
-        "zu_ZA": "Kentrikí Makedonía",
-        "sr@latin": "Kentrikí Makedonía",
-        "tt@iqtelif": "Kentrikí Makedonía"
+        "zu_ZA": "Kentrikí Makedonía"
     },
     "C": {
         "af": "Dytikí Makedonía",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Dytikí Makedonía",
         "sq_XK": "Dytikí Makedonía",
         "sr": "Dytikí Makedonía",
+        "sr@latin": "Dytikí Makedonía",
         "sr_Cyrl": "Dytikí Makedonía",
         "sr_Cyrl_BA": "Dytikí Makedonía",
         "sr_Cyrl_ME": "Dytikí Makedonía",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Dytikí Makedonía",
         "tr_TR": "Dytikí Makedonía",
         "tt": "Dytikí Makedonía",
+        "tt@iqtelif": "Dytikí Makedonía",
         "tt_RU": "Dytikí Makedonía",
         "twq": "Dytikí Makedonía",
         "twq_NE": "Dytikí Makedonía",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Dytikí Makedonía",
         "zh_Hant_TW": "Dytikí Makedonía",
         "zu": "Dytikí Makedonía",
-        "zu_ZA": "Dytikí Makedonía",
-        "sr@latin": "Dytikí Makedonía",
-        "tt@iqtelif": "Dytikí Makedonía"
+        "zu_ZA": "Dytikí Makedonía"
     },
     "D": {
         "af": "Ípeiros",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Ípeiros",
         "sq_XK": "Ípeiros",
         "sr": "Ípeiros",
+        "sr@latin": "Ípeiros",
         "sr_Cyrl": "Ípeiros",
         "sr_Cyrl_BA": "Ípeiros",
         "sr_Cyrl_ME": "Ípeiros",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Ípeiros",
         "tr_TR": "Ípeiros",
         "tt": "Ípeiros",
+        "tt@iqtelif": "Ípeiros",
         "tt_RU": "Ípeiros",
         "twq": "Ípeiros",
         "twq_NE": "Ípeiros",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Ípeiros",
         "zh_Hant_TW": "Ípeiros",
         "zu": "Ípeiros",
-        "zu_ZA": "Ípeiros",
-        "sr@latin": "Ípeiros",
-        "tt@iqtelif": "Ípeiros"
+        "zu_ZA": "Ípeiros"
     },
     "E": {
         "af": "Thessalía",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Thessalía",
         "sq_XK": "Thessalía",
         "sr": "Thessalía",
+        "sr@latin": "Thessalía",
         "sr_Cyrl": "Thessalía",
         "sr_Cyrl_BA": "Thessalía",
         "sr_Cyrl_ME": "Thessalía",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Thessalía",
         "tr_TR": "Thessalía",
         "tt": "Thessalía",
+        "tt@iqtelif": "Thessalía",
         "tt_RU": "Thessalía",
         "twq": "Thessalía",
         "twq_NE": "Thessalía",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Thessalía",
         "zh_Hant_TW": "Thessalía",
         "zu": "Thessalía",
-        "zu_ZA": "Thessalía",
-        "sr@latin": "Thessalía",
-        "tt@iqtelif": "Thessalía"
+        "zu_ZA": "Thessalía"
     },
     "F": {
         "af": "Ionía Nísia",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Ionía Nísia",
         "sq_XK": "Ionía Nísia",
         "sr": "Ionía Nísia",
+        "sr@latin": "Ionía Nísia",
         "sr_Cyrl": "Ionía Nísia",
         "sr_Cyrl_BA": "Ionía Nísia",
         "sr_Cyrl_ME": "Ionía Nísia",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Ionía Nísia",
         "tr_TR": "Ionía Nísia",
         "tt": "Ionía Nísia",
+        "tt@iqtelif": "Ionía Nísia",
         "tt_RU": "Ionía Nísia",
         "twq": "Ionía Nísia",
         "twq_NE": "Ionía Nísia",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Ionía Nísia",
         "zh_Hant_TW": "Ionía Nísia",
         "zu": "Ionía Nísia",
-        "zu_ZA": "Ionía Nísia",
-        "sr@latin": "Ionía Nísia",
-        "tt@iqtelif": "Ionía Nísia"
+        "zu_ZA": "Ionía Nísia"
     },
     "G": {
         "af": "Dytikí Elláda",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Dytikí Elláda",
         "sq_XK": "Dytikí Elláda",
         "sr": "Dytikí Elláda",
+        "sr@latin": "Dytikí Elláda",
         "sr_Cyrl": "Dytikí Elláda",
         "sr_Cyrl_BA": "Dytikí Elláda",
         "sr_Cyrl_ME": "Dytikí Elláda",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Dytikí Elláda",
         "tr_TR": "Dytikí Elláda",
         "tt": "Dytikí Elláda",
+        "tt@iqtelif": "Dytikí Elláda",
         "tt_RU": "Dytikí Elláda",
         "twq": "Dytikí Elláda",
         "twq_NE": "Dytikí Elláda",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Dytikí Elláda",
         "zh_Hant_TW": "Dytikí Elláda",
         "zu": "Dytikí Elláda",
-        "zu_ZA": "Dytikí Elláda",
-        "sr@latin": "Dytikí Elláda",
-        "tt@iqtelif": "Dytikí Elláda"
+        "zu_ZA": "Dytikí Elláda"
     },
     "H": {
         "af": "Stereá Elláda",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Stereá Elláda",
         "sq_XK": "Stereá Elláda",
         "sr": "Stereá Elláda",
+        "sr@latin": "Stereá Elláda",
         "sr_Cyrl": "Stereá Elláda",
         "sr_Cyrl_BA": "Stereá Elláda",
         "sr_Cyrl_ME": "Stereá Elláda",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Stereá Elláda",
         "tr_TR": "Stereá Elláda",
         "tt": "Stereá Elláda",
+        "tt@iqtelif": "Stereá Elláda",
         "tt_RU": "Stereá Elláda",
         "twq": "Stereá Elláda",
         "twq_NE": "Stereá Elláda",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Stereá Elláda",
         "zh_Hant_TW": "Stereá Elláda",
         "zu": "Stereá Elláda",
-        "zu_ZA": "Stereá Elláda",
-        "sr@latin": "Stereá Elláda",
-        "tt@iqtelif": "Stereá Elláda"
+        "zu_ZA": "Stereá Elláda"
     },
     "I": {
         "af": "Attikí",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Attikí",
         "sq_XK": "Attikí",
         "sr": "Attikí",
+        "sr@latin": "Attikí",
         "sr_Cyrl": "Attikí",
         "sr_Cyrl_BA": "Attikí",
         "sr_Cyrl_ME": "Attikí",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Attikí",
         "tr_TR": "Attikí",
         "tt": "Attikí",
+        "tt@iqtelif": "Attikí",
         "tt_RU": "Attikí",
         "twq": "Attikí",
         "twq_NE": "Attikí",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Attikí",
         "zh_Hant_TW": "Attikí",
         "zu": "Attikí",
-        "zu_ZA": "Attikí",
-        "sr@latin": "Attikí",
-        "tt@iqtelif": "Attikí"
+        "zu_ZA": "Attikí"
     },
     "J": {
         "af": "Pelopónnisos",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Pelopónnisos",
         "sq_XK": "Pelopónnisos",
         "sr": "Pelopónnisos",
+        "sr@latin": "Pelopónnisos",
         "sr_Cyrl": "Pelopónnisos",
         "sr_Cyrl_BA": "Pelopónnisos",
         "sr_Cyrl_ME": "Pelopónnisos",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Pelopónnisos",
         "tr_TR": "Pelopónnisos",
         "tt": "Pelopónnisos",
+        "tt@iqtelif": "Pelopónnisos",
         "tt_RU": "Pelopónnisos",
         "twq": "Pelopónnisos",
         "twq_NE": "Pelopónnisos",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Pelopónnisos",
         "zh_Hant_TW": "Pelopónnisos",
         "zu": "Pelopónnisos",
-        "zu_ZA": "Pelopónnisos",
-        "sr@latin": "Pelopónnisos",
-        "tt@iqtelif": "Pelopónnisos"
+        "zu_ZA": "Pelopónnisos"
     },
     "K": {
         "af": "Vóreio Aigaío",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Vóreio Aigaío",
         "sq_XK": "Vóreio Aigaío",
         "sr": "Vóreio Aigaío",
+        "sr@latin": "Vóreio Aigaío",
         "sr_Cyrl": "Vóreio Aigaío",
         "sr_Cyrl_BA": "Vóreio Aigaío",
         "sr_Cyrl_ME": "Vóreio Aigaío",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Vóreio Aigaío",
         "tr_TR": "Vóreio Aigaío",
         "tt": "Vóreio Aigaío",
+        "tt@iqtelif": "Vóreio Aigaío",
         "tt_RU": "Vóreio Aigaío",
         "twq": "Vóreio Aigaío",
         "twq_NE": "Vóreio Aigaío",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Vóreio Aigaío",
         "zh_Hant_TW": "Vóreio Aigaío",
         "zu": "Vóreio Aigaío",
-        "zu_ZA": "Vóreio Aigaío",
-        "sr@latin": "Vóreio Aigaío",
-        "tt@iqtelif": "Vóreio Aigaío"
+        "zu_ZA": "Vóreio Aigaío"
     },
     "L": {
         "af": "Nótio Aigaío",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Nótio Aigaío",
         "sq_XK": "Nótio Aigaío",
         "sr": "Nótio Aigaío",
+        "sr@latin": "Nótio Aigaío",
         "sr_Cyrl": "Nótio Aigaío",
         "sr_Cyrl_BA": "Nótio Aigaío",
         "sr_Cyrl_ME": "Nótio Aigaío",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Nótio Aigaío",
         "tr_TR": "Nótio Aigaío",
         "tt": "Nótio Aigaío",
+        "tt@iqtelif": "Nótio Aigaío",
         "tt_RU": "Nótio Aigaío",
         "twq": "Nótio Aigaío",
         "twq_NE": "Nótio Aigaío",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Nótio Aigaío",
         "zh_Hant_TW": "Nótio Aigaío",
         "zu": "Nótio Aigaío",
-        "zu_ZA": "Nótio Aigaío",
-        "sr@latin": "Nótio Aigaío",
-        "tt@iqtelif": "Nótio Aigaío"
+        "zu_ZA": "Nótio Aigaío"
     },
     "M": {
         "af": "Kríti",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Kríti",
         "sq_XK": "Kríti",
         "sr": "Kríti",
+        "sr@latin": "Kríti",
         "sr_Cyrl": "Kríti",
         "sr_Cyrl_BA": "Kríti",
         "sr_Cyrl_ME": "Kríti",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Kríti",
         "tr_TR": "Kríti",
         "tt": "Kríti",
+        "tt@iqtelif": "Kríti",
         "tt_RU": "Kríti",
         "twq": "Kríti",
         "twq_NE": "Kríti",
@@ -12385,8 +12387,6 @@
         "zh_Hant_MY": "Kríti",
         "zh_Hant_TW": "Kríti",
         "zu": "Kríti",
-        "zu_ZA": "Kríti",
-        "sr@latin": "Kríti",
-        "tt@iqtelif": "Kríti"
+        "zu_ZA": "Kríti"
     }
 }

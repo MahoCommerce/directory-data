@@ -743,6 +743,7 @@
         "sq_MK": "Christ Church",
         "sq_XK": "Christ Church",
         "sr": "Христова Црква",
+        "sr@latin": "Hristova Crkva",
         "sr_Cyrl": "Христова Црква",
         "sr_Cyrl_BA": "Христова Црква",
         "sr_Cyrl_ME": "Христова Црква",
@@ -803,6 +804,7 @@
         "tr_CY": "Christ Church",
         "tr_TR": "Christ Church",
         "tt": "Christ Church",
+        "tt@iqtelif": "Christ Church",
         "tt_RU": "Christ Church",
         "twq": "Christ Church",
         "twq_NE": "Christ Church",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Christ Church",
         "zh_Hant_TW": "Christ Church",
         "zu": "Christ Church",
-        "zu_ZA": "Christ Church",
-        "sr@latin": "Hristova Crkva",
-        "tt@iqtelif": "Christ Church"
+        "zu_ZA": "Christ Church"
     },
     "02": {
         "af": "Saint Andrew",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint Andrew",
         "sq_XK": "Saint Andrew",
         "sr": "Свети Андреја",
+        "sr@latin": "Sveti Andreja",
         "sr_Cyrl": "Свети Андреја",
         "sr_Cyrl_BA": "Свети Андреја",
         "sr_Cyrl_ME": "Свети Андреја",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint Andrew",
         "tr_TR": "Saint Andrew",
         "tt": "Saint Andrew",
+        "tt@iqtelif": "Saint Andrew",
         "tt_RU": "Saint Andrew",
         "twq": "Saint Andrew",
         "twq_NE": "Saint Andrew",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew",
-        "sr@latin": "Sveti Andreja",
-        "tt@iqtelif": "Saint Andrew"
+        "zu_ZA": "Saint Andrew"
     },
     "03": {
         "af": "Saint George",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint George",
         "sq_XK": "Saint George",
         "sr": "Сент Џорџ",
+        "sr@latin": "Sent Džordž",
         "sr_Cyrl": "Сент Џорџ",
         "sr_Cyrl_BA": "Сент Џорџ",
         "sr_Cyrl_ME": "Сент Џорџ",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint George",
         "tr_TR": "Saint George",
         "tt": "Saint George",
+        "tt@iqtelif": "Saint George",
         "tt_RU": "Saint George",
         "twq": "Saint George",
         "twq_NE": "Saint George",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George",
-        "sr@latin": "Sent Džordž",
-        "tt@iqtelif": "Saint George"
+        "zu_ZA": "Saint George"
     },
     "04": {
         "af": "Saint James",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Saint James",
         "sq_XK": "Saint James",
         "sr": "Свети Џејмс",
+        "sr@latin": "Sveti Džejms",
         "sr_Cyrl": "Свети Џејмс",
         "sr_Cyrl_BA": "Свети Џејмс",
         "sr_Cyrl_ME": "Свети Џејмс",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Saint James",
         "tr_TR": "Saint James",
         "tt": "Saint James",
+        "tt@iqtelif": "Saint James",
         "tt_RU": "Saint James",
         "twq": "Saint James",
         "twq_NE": "Saint James",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Saint James",
         "zh_Hant_TW": "Saint James",
         "zu": "Saint James",
-        "zu_ZA": "Saint James",
-        "sr@latin": "Sveti Džejms",
-        "tt@iqtelif": "Saint James"
+        "zu_ZA": "Saint James"
     },
     "05": {
         "af": "Saint John",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint John",
         "sq_XK": "Saint John",
         "sr": "Сент Џон",
+        "sr@latin": "Sent Džon",
         "sr_Cyrl": "Сент Џон",
         "sr_Cyrl_BA": "Сент Џон",
         "sr_Cyrl_ME": "Сент Џон",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint John",
         "tr_TR": "Saint John",
         "tt": "Saint John",
+        "tt@iqtelif": "Saint John",
         "tt_RU": "Saint John",
         "twq": "Saint John",
         "twq_NE": "Saint John",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John",
-        "sr@latin": "Sent Džon",
-        "tt@iqtelif": "Saint John"
+        "zu_ZA": "Saint John"
     },
     "06": {
         "af": "Saint Joseph",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Saint Joseph",
         "sq_XK": "Saint Joseph",
         "sr": "Свети Јозеф",
+        "sr@latin": "Sveti Jozef",
         "sr_Cyrl": "Свети Јозеф",
         "sr_Cyrl_BA": "Свети Јозеф",
         "sr_Cyrl_ME": "Свети Јозеф",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Saint Joseph",
         "tr_TR": "Saint Joseph",
         "tt": "Saint Joseph",
+        "tt@iqtelif": "Saint Joseph",
         "tt_RU": "Saint Joseph",
         "twq": "Saint Joseph",
         "twq_NE": "Saint Joseph",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Saint Joseph",
         "zh_Hant_TW": "Saint Joseph",
         "zu": "Saint Joseph",
-        "zu_ZA": "Saint Joseph",
-        "sr@latin": "Sveti Jozef",
-        "tt@iqtelif": "Saint Joseph"
+        "zu_ZA": "Saint Joseph"
     },
     "07": {
         "af": "Saint Lucy",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Saint Lucy",
         "sq_XK": "Saint Lucy",
         "sr": "Света Луција",
+        "sr@latin": "Sveta Lucija",
         "sr_Cyrl": "Света Луција",
         "sr_Cyrl_BA": "Света Луција",
         "sr_Cyrl_ME": "Света Луција",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Saint Lucy",
         "tr_TR": "Saint Lucy",
         "tt": "Saint Lucy",
+        "tt@iqtelif": "Saint Lucy",
         "tt_RU": "Saint Lucy",
         "twq": "Saint Lucy",
         "twq_NE": "Saint Lucy",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Saint Lucy",
         "zh_Hant_TW": "Saint Lucy",
         "zu": "Saint Lucy",
-        "zu_ZA": "Saint Lucy",
-        "sr@latin": "Sveta Lucija",
-        "tt@iqtelif": "Saint Lucy"
+        "zu_ZA": "Saint Lucy"
     },
     "08": {
         "af": "Saint Michael",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Saint Michael",
         "sq_XK": "Saint Michael",
         "sr": "Свети Михајло",
+        "sr@latin": "Sveti Mihajlo",
         "sr_Cyrl": "Свети Михајло",
         "sr_Cyrl_BA": "Свети Михајло",
         "sr_Cyrl_ME": "Свети Михајло",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Saint Michael",
         "tr_TR": "Saint Michael",
         "tt": "Saint Michael",
+        "tt@iqtelif": "Saint Michael",
         "tt_RU": "Saint Michael",
         "twq": "Saint Michael",
         "twq_NE": "Saint Michael",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Saint Michael",
         "zh_Hant_TW": "Saint Michael",
         "zu": "Saint Michael",
-        "zu_ZA": "Saint Michael",
-        "sr@latin": "Sveti Mihajlo",
-        "tt@iqtelif": "Saint Michael"
+        "zu_ZA": "Saint Michael"
     },
     "09": {
         "af": "Saint Peter",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Saint Peter",
         "sq_XK": "Saint Peter",
         "sr": "Свети Петар",
+        "sr@latin": "Sveti Petar",
         "sr_Cyrl": "Свети Петар",
         "sr_Cyrl_BA": "Свети Петар",
         "sr_Cyrl_ME": "Свети Петар",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Saint Peter",
         "tr_TR": "Saint Peter",
         "tt": "Saint Peter",
+        "tt@iqtelif": "Saint Peter",
         "tt_RU": "Saint Peter",
         "twq": "Saint Peter",
         "twq_NE": "Saint Peter",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Saint Peter",
         "zh_Hant_TW": "Saint Peter",
         "zu": "Saint Peter",
-        "zu_ZA": "Saint Peter",
-        "sr@latin": "Sveti Petar",
-        "tt@iqtelif": "Saint Peter"
+        "zu_ZA": "Saint Peter"
     },
     "10": {
         "af": "Saint Philip",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Saint Philip",
         "sq_XK": "Saint Philip",
         "sr": "Свети Филип",
+        "sr@latin": "Sveti Filip",
         "sr_Cyrl": "Свети Филип",
         "sr_Cyrl_BA": "Свети Филип",
         "sr_Cyrl_ME": "Свети Филип",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Saint Philip",
         "tr_TR": "Saint Philip",
         "tt": "Saint Philip",
+        "tt@iqtelif": "Saint Philip",
         "tt_RU": "Saint Philip",
         "twq": "Saint Philip",
         "twq_NE": "Saint Philip",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Saint Philip",
         "zh_Hant_TW": "Saint Philip",
         "zu": "Saint Philip",
-        "zu_ZA": "Saint Philip",
-        "sr@latin": "Sveti Filip",
-        "tt@iqtelif": "Saint Philip"
+        "zu_ZA": "Saint Philip"
     },
     "11": {
         "af": "Saint Thomas",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Saint Thomas",
         "sq_XK": "Saint Thomas",
         "sr": "Свети Тома",
+        "sr@latin": "Sveti Toma",
         "sr_Cyrl": "Свети Тома",
         "sr_Cyrl_BA": "Свети Тома",
         "sr_Cyrl_ME": "Свети Тома",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Saint Thomas",
         "tr_TR": "Saint Thomas",
         "tt": "Saint Thomas",
+        "tt@iqtelif": "Saint Thomas",
         "tt_RU": "Saint Thomas",
         "twq": "Saint Thomas",
         "twq_NE": "Saint Thomas",
@@ -9730,8 +9732,6 @@
         "zh_Hant_MY": "Saint Thomas",
         "zh_Hant_TW": "Saint Thomas",
         "zu": "Saint Thomas",
-        "zu_ZA": "Saint Thomas",
-        "sr@latin": "Sveti Toma",
-        "tt@iqtelif": "Saint Thomas"
+        "zu_ZA": "Saint Thomas"
     }
 }

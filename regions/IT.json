@@ -743,6 +743,7 @@
         "sq_MK": "Piemonte",
         "sq_XK": "Piemonte",
         "sr": "Пијемонте",
+        "sr@latin": "Pijemonte",
         "sr_Cyrl": "Пијемонте",
         "sr_Cyrl_BA": "Пијемонте",
         "sr_Cyrl_ME": "Пијемонте",
@@ -803,6 +804,7 @@
         "tr_CY": "Piemonte",
         "tr_TR": "Piemonte",
         "tt": "Piemonte",
+        "tt@iqtelif": "Piemonte",
         "tt_RU": "Piemonte",
         "twq": "Piemonte",
         "twq_NE": "Piemonte",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Piemonte",
         "zh_Hant_TW": "Piemonte",
         "zu": "Piemonte",
-        "zu_ZA": "Piemonte",
-        "sr@latin": "Pijemonte",
-        "tt@iqtelif": "Piemonte"
+        "zu_ZA": "Piemonte"
     },
     "23": {
         "af": "Val d'Aoste",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Val d'Aoste",
         "sq_XK": "Val d'Aoste",
         "sr": "Val d'Aoste",
+        "sr@latin": "Val d'Aoste",
         "sr_Cyrl": "Val d'Aoste",
         "sr_Cyrl_BA": "Val d'Aoste",
         "sr_Cyrl_ME": "Val d'Aoste",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Val d'Aoste",
         "tr_TR": "Val d'Aoste",
         "tt": "Val d'Aoste",
+        "tt@iqtelif": "Val d'Aoste",
         "tt_RU": "Val d'Aoste",
         "twq": "Val d'Aoste",
         "twq_NE": "Val d'Aoste",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Val d'Aoste",
         "zh_Hant_TW": "Val d'Aoste",
         "zu": "Val d'Aoste",
-        "zu_ZA": "Val d'Aoste",
-        "sr@latin": "Val d'Aoste",
-        "tt@iqtelif": "Val d'Aoste"
+        "zu_ZA": "Val d'Aoste"
     },
     "25": {
         "af": "Lombardia",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Lombardia",
         "sq_XK": "Lombardia",
         "sr": "Ломбардија",
+        "sr@latin": "Lombardija",
         "sr_Cyrl": "Ломбардија",
         "sr_Cyrl_BA": "Ломбардија",
         "sr_Cyrl_ME": "Ломбардија",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Lombardia",
         "tr_TR": "Lombardia",
         "tt": "Lombardia",
+        "tt@iqtelif": "Lombardia",
         "tt_RU": "Lombardia",
         "twq": "Lombardia",
         "twq_NE": "Lombardia",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Lombardia",
         "zh_Hant_TW": "Lombardia",
         "zu": "Lombardia",
-        "zu_ZA": "Lombardia",
-        "sr@latin": "Lombardija",
-        "tt@iqtelif": "Lombardia"
+        "zu_ZA": "Lombardia"
     },
     "32": {
         "af": "Trentino-Alto Adige",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Trentino-Alto Adige",
         "sq_XK": "Trentino-Alto Adige",
         "sr": "Трентино-Алто Адиђе",
+        "sr@latin": "Trentino-Alto Adiđe",
         "sr_Cyrl": "Трентино-Алто Адиђе",
         "sr_Cyrl_BA": "Трентино-Алто Адиђе",
         "sr_Cyrl_ME": "Трентино-Алто Адиђе",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Trentino-Alto Adige",
         "tr_TR": "Trentino-Alto Adige",
         "tt": "Trentino-Alto Adige",
+        "tt@iqtelif": "Trentino-Alto Adige",
         "tt_RU": "Trentino-Alto Adige",
         "twq": "Trentino-Alto Adige",
         "twq_NE": "Trentino-Alto Adige",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Trentino-Alto Adige",
         "zh_Hant_TW": "Trentino-Alto Adige",
         "zu": "Trentino-Alto Adige",
-        "zu_ZA": "Trentino-Alto Adige",
-        "sr@latin": "Trentino-Alto Adiđe",
-        "tt@iqtelif": "Trentino-Alto Adige"
+        "zu_ZA": "Trentino-Alto Adige"
     },
     "34": {
         "af": "Veneto",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Veneto",
         "sq_XK": "Veneto",
         "sr": "Венето",
+        "sr@latin": "Veneto",
         "sr_Cyrl": "Венето",
         "sr_Cyrl_BA": "Венето",
         "sr_Cyrl_ME": "Венето",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Veneto",
         "tr_TR": "Veneto",
         "tt": "Veneto",
+        "tt@iqtelif": "Veneto",
         "tt_RU": "Veneto",
         "twq": "Veneto",
         "twq_NE": "Veneto",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Veneto",
         "zh_Hant_TW": "Veneto",
         "zu": "Veneto",
-        "zu_ZA": "Veneto",
-        "sr@latin": "Veneto",
-        "tt@iqtelif": "Veneto"
+        "zu_ZA": "Veneto"
     },
     "36": {
         "af": "Friuli Venezia Giulia",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Friuli Venezia Giulia",
         "sq_XK": "Friuli Venezia Giulia",
         "sr": "Friuli Venezia Giulia",
+        "sr@latin": "Friuli Venezia Giulia",
         "sr_Cyrl": "Friuli Venezia Giulia",
         "sr_Cyrl_BA": "Friuli Venezia Giulia",
         "sr_Cyrl_ME": "Friuli Venezia Giulia",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Friuli Venezia Giulia",
         "tr_TR": "Friuli Venezia Giulia",
         "tt": "Friuli Venezia Giulia",
+        "tt@iqtelif": "Friuli Venezia Giulia",
         "tt_RU": "Friuli Venezia Giulia",
         "twq": "Friuli Venezia Giulia",
         "twq_NE": "Friuli Venezia Giulia",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Friuli Venezia Giulia",
         "zh_Hant_TW": "Friuli Venezia Giulia",
         "zu": "Friuli Venezia Giulia",
-        "zu_ZA": "Friuli Venezia Giulia",
-        "sr@latin": "Friuli Venezia Giulia",
-        "tt@iqtelif": "Friuli Venezia Giulia"
+        "zu_ZA": "Friuli Venezia Giulia"
     },
     "42": {
         "af": "Liguria",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Liguria",
         "sq_XK": "Liguria",
         "sr": "Лигурија",
+        "sr@latin": "Ligurija",
         "sr_Cyrl": "Лигурија",
         "sr_Cyrl_BA": "Лигурија",
         "sr_Cyrl_ME": "Лигурија",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Liguria",
         "tr_TR": "Liguria",
         "tt": "Liguria",
+        "tt@iqtelif": "Liguria",
         "tt_RU": "Liguria",
         "twq": "Liguria",
         "twq_NE": "Liguria",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Liguria",
         "zh_Hant_TW": "Liguria",
         "zu": "Liguria",
-        "zu_ZA": "Liguria",
-        "sr@latin": "Ligurija",
-        "tt@iqtelif": "Liguria"
+        "zu_ZA": "Liguria"
     },
     "45": {
         "af": "Emilia-Romagna",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Emilia-Romagna",
         "sq_XK": "Emilia-Romagna",
         "sr": "Емилија-Ромања",
+        "sr@latin": "Emilija-Romanja",
         "sr_Cyrl": "Емилија-Ромања",
         "sr_Cyrl_BA": "Емилија-Ромања",
         "sr_Cyrl_ME": "Емилија-Ромања",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Emilia-Romagna",
         "tr_TR": "Emilia-Romagna",
         "tt": "Emilia-Romagna",
+        "tt@iqtelif": "Emilia-Romagna",
         "tt_RU": "Emilia-Romagna",
         "twq": "Emilia-Romagna",
         "twq_NE": "Emilia-Romagna",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Emilia-Romagna",
         "zh_Hant_TW": "Emilia-Romagna",
         "zu": "Emilia-Romagna",
-        "zu_ZA": "Emilia-Romagna",
-        "sr@latin": "Emilija-Romanja",
-        "tt@iqtelif": "Emilia-Romagna"
+        "zu_ZA": "Emilia-Romagna"
     },
     "52": {
         "af": "Toscana",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Toscana",
         "sq_XK": "Toscana",
         "sr": "Тоскана",
+        "sr@latin": "Toskana",
         "sr_Cyrl": "Тоскана",
         "sr_Cyrl_BA": "Тоскана",
         "sr_Cyrl_ME": "Тоскана",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Toskana",
         "tr_TR": "Toskana",
         "tt": "Toscana",
+        "tt@iqtelif": "Toscana",
         "tt_RU": "Toscana",
         "twq": "Toscana",
         "twq_NE": "Toscana",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Toscana",
         "zh_Hant_TW": "Toscana",
         "zu": "Toscana",
-        "zu_ZA": "Toscana",
-        "sr@latin": "Toskana",
-        "tt@iqtelif": "Toscana"
+        "zu_ZA": "Toscana"
     },
     "55": {
         "af": "Umbria",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Umbria",
         "sq_XK": "Umbria",
         "sr": "Умбрија",
+        "sr@latin": "Umbrija",
         "sr_Cyrl": "Умбрија",
         "sr_Cyrl_BA": "Умбрија",
         "sr_Cyrl_ME": "Умбрија",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Umbria",
         "tr_TR": "Umbria",
         "tt": "Umbria",
+        "tt@iqtelif": "Umbria",
         "tt_RU": "Umbria",
         "twq": "Umbria",
         "twq_NE": "Umbria",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Umbria",
         "zh_Hant_TW": "Umbria",
         "zu": "Umbria",
-        "zu_ZA": "Umbria",
-        "sr@latin": "Umbrija",
-        "tt@iqtelif": "Umbria"
+        "zu_ZA": "Umbria"
     },
     "57": {
         "af": "Marche",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Marche",
         "sq_XK": "Marche",
         "sr": "Марке",
+        "sr@latin": "Marke",
         "sr_Cyrl": "Марке",
         "sr_Cyrl_BA": "Марке",
         "sr_Cyrl_ME": "Марке",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Marche",
         "tr_TR": "Marche",
         "tt": "Marche",
+        "tt@iqtelif": "Marche",
         "tt_RU": "Marche",
         "twq": "Marche",
         "twq_NE": "Marche",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Marche",
         "zh_Hant_TW": "Marche",
         "zu": "Marche",
-        "zu_ZA": "Marche",
-        "sr@latin": "Marke",
-        "tt@iqtelif": "Marche"
+        "zu_ZA": "Marche"
     },
     "62": {
         "af": "Lazio",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Lazio",
         "sq_XK": "Lazio",
         "sr": "Лацио",
+        "sr@latin": "Lacio",
         "sr_Cyrl": "Лацио",
         "sr_Cyrl_BA": "Лацио",
         "sr_Cyrl_ME": "Лацио",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Lazio",
         "tr_TR": "Lazio",
         "tt": "Lazio",
+        "tt@iqtelif": "Lazio",
         "tt_RU": "Lazio",
         "twq": "Lazio",
         "twq_NE": "Lazio",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Lazio",
         "zh_Hant_TW": "Lazio",
         "zu": "Lazio",
-        "zu_ZA": "Lazio",
-        "sr@latin": "Lacio",
-        "tt@iqtelif": "Lazio"
+        "zu_ZA": "Lazio"
     },
     "65": {
         "af": "Abruzzo",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Abruzzo",
         "sq_XK": "Abruzzo",
         "sr": "Абруцо",
+        "sr@latin": "Abruco",
         "sr_Cyrl": "Абруцо",
         "sr_Cyrl_BA": "Абруцо",
         "sr_Cyrl_ME": "Абруцо",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Abruzzo",
         "tr_TR": "Abruzzo",
         "tt": "Abruzzo",
+        "tt@iqtelif": "Abruzzo",
         "tt_RU": "Abruzzo",
         "twq": "Abruzzo",
         "twq_NE": "Abruzzo",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Abruzzo",
         "zh_Hant_TW": "Abruzzo",
         "zu": "Abruzzo",
-        "zu_ZA": "Abruzzo",
-        "sr@latin": "Abruco",
-        "tt@iqtelif": "Abruzzo"
+        "zu_ZA": "Abruzzo"
     },
     "67": {
         "af": "Molise",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Molise",
         "sq_XK": "Molise",
         "sr": "Молизе",
+        "sr@latin": "Molize",
         "sr_Cyrl": "Молизе",
         "sr_Cyrl_BA": "Молизе",
         "sr_Cyrl_ME": "Молизе",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Molise",
         "tr_TR": "Molise",
         "tt": "Molise",
+        "tt@iqtelif": "Molise",
         "tt_RU": "Molise",
         "twq": "Molise",
         "twq_NE": "Molise",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Molise",
         "zh_Hant_TW": "Molise",
         "zu": "Molise",
-        "zu_ZA": "Molise",
-        "sr@latin": "Molize",
-        "tt@iqtelif": "Molise"
+        "zu_ZA": "Molise"
     },
     "72": {
         "af": "Campania",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Campania",
         "sq_XK": "Campania",
         "sr": "Кампанија",
+        "sr@latin": "Kampanija",
         "sr_Cyrl": "Кампанија",
         "sr_Cyrl_BA": "Кампанија",
         "sr_Cyrl_ME": "Кампанија",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Campania",
         "tr_TR": "Campania",
         "tt": "Campania",
+        "tt@iqtelif": "Campania",
         "tt_RU": "Campania",
         "twq": "Campania",
         "twq_NE": "Campania",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Campania",
         "zh_Hant_TW": "Campania",
         "zu": "Campania",
-        "zu_ZA": "Campania",
-        "sr@latin": "Kampanija",
-        "tt@iqtelif": "Campania"
+        "zu_ZA": "Campania"
     },
     "75": {
         "af": "Puglia",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Puglia",
         "sq_XK": "Puglia",
         "sr": "Пуља",
+        "sr@latin": "Pulja",
         "sr_Cyrl": "Пуља",
         "sr_Cyrl_BA": "Пуља",
         "sr_Cyrl_ME": "Пуља",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Puglia",
         "tr_TR": "Puglia",
         "tt": "Puglia",
+        "tt@iqtelif": "Puglia",
         "tt_RU": "Puglia",
         "twq": "Puglia",
         "twq_NE": "Puglia",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Puglia",
         "zh_Hant_TW": "Puglia",
         "zu": "Puglia",
-        "zu_ZA": "Puglia",
-        "sr@latin": "Pulja",
-        "tt@iqtelif": "Puglia"
+        "zu_ZA": "Puglia"
     },
     "77": {
         "af": "Basilicata",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Basilicata",
         "sq_XK": "Basilicata",
         "sr": "Базиликата",
+        "sr@latin": "Bazilikata",
         "sr_Cyrl": "Базиликата",
         "sr_Cyrl_BA": "Базиликата",
         "sr_Cyrl_ME": "Базиликата",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Basilicata",
         "tr_TR": "Basilicata",
         "tt": "Basilicata",
+        "tt@iqtelif": "Basilicata",
         "tt_RU": "Basilicata",
         "twq": "Basilicata",
         "twq_NE": "Basilicata",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Basilicata",
         "zh_Hant_TW": "Basilicata",
         "zu": "Basilicata",
-        "zu_ZA": "Basilicata",
-        "sr@latin": "Bazilikata",
-        "tt@iqtelif": "Basilicata"
+        "zu_ZA": "Basilicata"
     },
     "78": {
         "af": "Calabria",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Calabria",
         "sq_XK": "Calabria",
         "sr": "Калбрија",
+        "sr@latin": "Kalbrija",
         "sr_Cyrl": "Калбрија",
         "sr_Cyrl_BA": "Калбрија",
         "sr_Cyrl_ME": "Калбрија",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Calabria",
         "tr_TR": "Calabria",
         "tt": "Calabria",
+        "tt@iqtelif": "Calabria",
         "tt_RU": "Calabria",
         "twq": "Calabria",
         "twq_NE": "Calabria",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Calabria",
         "zh_Hant_TW": "Calabria",
         "zu": "Calabria",
-        "zu_ZA": "Calabria",
-        "sr@latin": "Kalbrija",
-        "tt@iqtelif": "Calabria"
+        "zu_ZA": "Calabria"
     },
     "82": {
         "af": "Sicilia",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Sicilia",
         "sq_XK": "Sicilia",
         "sr": "Сицилија",
+        "sr@latin": "Sicilija",
         "sr_Cyrl": "Сицилија",
         "sr_Cyrl_BA": "Сицилија",
         "sr_Cyrl_ME": "Сицилија",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Sicilya",
         "tr_TR": "Sicilya",
         "tt": "Sicilia",
+        "tt@iqtelif": "Sicilia",
         "tt_RU": "Sicilia",
         "twq": "Sicilia",
         "twq_NE": "Sicilia",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Sicilia",
         "zh_Hant_TW": "Sicilia",
         "zu": "Sicilia",
-        "zu_ZA": "Sicilia",
-        "sr@latin": "Sicilija",
-        "tt@iqtelif": "Sicilia"
+        "zu_ZA": "Sicilia"
     },
     "88": {
         "af": "Sardegna",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Sardegna",
         "sq_XK": "Sardegna",
         "sr": "Сардинија",
+        "sr@latin": "Sardinija",
         "sr_Cyrl": "Сардинија",
         "sr_Cyrl_BA": "Сардинија",
         "sr_Cyrl_ME": "Сардинија",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Sardinya",
         "tr_TR": "Sardinya",
         "tt": "Sardegna",
+        "tt@iqtelif": "Sardegna",
         "tt_RU": "Sardegna",
         "twq": "Sardegna",
         "twq_NE": "Sardegna",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Sardegna",
         "zh_Hant_TW": "Sardegna",
         "zu": "Sardegna",
-        "zu_ZA": "Sardegna",
-        "sr@latin": "Sardinija",
-        "tt@iqtelif": "Sardegna"
+        "zu_ZA": "Sardegna"
     },
     "AG": {
         "af": "Agrigento",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Agrigento",
         "sq_XK": "Agrigento",
         "sr": "Агриђенто",
+        "sr@latin": "Agriđento",
         "sr_Cyrl": "Агриђенто",
         "sr_Cyrl_BA": "Агриђенто",
         "sr_Cyrl_ME": "Агриђенто",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Agrigento",
         "tr_TR": "Agrigento",
         "tt": "Agrigento",
+        "tt@iqtelif": "Agrigento",
         "tt_RU": "Agrigento",
         "twq": "Agrigento",
         "twq_NE": "Agrigento",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Agrigento",
         "zh_Hant_TW": "Agrigento",
         "zu": "Agrigento",
-        "zu_ZA": "Agrigento",
-        "sr@latin": "Agriđento",
-        "tt@iqtelif": "Agrigento"
+        "zu_ZA": "Agrigento"
     },
     "AL": {
         "af": "Alessandria",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Alessandria",
         "sq_XK": "Alessandria",
         "sr": "Александрија",
+        "sr@latin": "Aleksandrija",
         "sr_Cyrl": "Александрија",
         "sr_Cyrl_BA": "Александрија",
         "sr_Cyrl_ME": "Александрија",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Alessandria",
         "tr_TR": "Alessandria",
         "tt": "Alessandria",
+        "tt@iqtelif": "Alessandria",
         "tt_RU": "Alessandria",
         "twq": "Alessandria",
         "twq_NE": "Alessandria",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Alessandria",
         "zh_Hant_TW": "Alessandria",
         "zu": "Alessandria",
-        "zu_ZA": "Alessandria",
-        "sr@latin": "Aleksandrija",
-        "tt@iqtelif": "Alessandria"
+        "zu_ZA": "Alessandria"
     },
     "AN": {
         "af": "Ancona",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Ancona",
         "sq_XK": "Ancona",
         "sr": "Анкона",
+        "sr@latin": "Ankona",
         "sr_Cyrl": "Анкона",
         "sr_Cyrl_BA": "Анкона",
         "sr_Cyrl_ME": "Анкона",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Ancona",
         "tr_TR": "Ancona",
         "tt": "Ancona",
+        "tt@iqtelif": "Ancona",
         "tt_RU": "Ancona",
         "twq": "Ancona",
         "twq_NE": "Ancona",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Ancona",
         "zh_Hant_TW": "Ancona",
         "zu": "Ancona",
-        "zu_ZA": "Ancona",
-        "sr@latin": "Ankona",
-        "tt@iqtelif": "Ancona"
+        "zu_ZA": "Ancona"
     },
     "AP": {
         "af": "Ascoli Piceno",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Ascoli Piceno",
         "sq_XK": "Ascoli Piceno",
         "sr": "Асколи Пићено",
+        "sr@latin": "Askoli Pićeno",
         "sr_Cyrl": "Асколи Пићено",
         "sr_Cyrl_BA": "Асколи Пићено",
         "sr_Cyrl_ME": "Асколи Пићено",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Ascoli Piceno",
         "tr_TR": "Ascoli Piceno",
         "tt": "Ascoli Piceno",
+        "tt@iqtelif": "Ascoli Piceno",
         "tt_RU": "Ascoli Piceno",
         "twq": "Ascoli Piceno",
         "twq_NE": "Ascoli Piceno",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Ascoli Piceno",
         "zh_Hant_TW": "Ascoli Piceno",
         "zu": "Ascoli Piceno",
-        "zu_ZA": "Ascoli Piceno",
-        "sr@latin": "Askoli Pićeno",
-        "tt@iqtelif": "Ascoli Piceno"
+        "zu_ZA": "Ascoli Piceno"
     },
     "AQ": {
         "af": "L'Aquila",
@@ -21983,6 +21983,7 @@
         "sq_MK": "L'Aquila",
         "sq_XK": "L'Aquila",
         "sr": "Л'Аквила",
+        "sr@latin": "L'Akvila",
         "sr_Cyrl": "Л'Аквила",
         "sr_Cyrl_BA": "Л'Аквила",
         "sr_Cyrl_ME": "Л'Аквила",
@@ -22043,6 +22044,7 @@
         "tr_CY": "L'Aquila",
         "tr_TR": "L'Aquila",
         "tt": "L'Aquila",
+        "tt@iqtelif": "L'Aquila",
         "tt_RU": "L'Aquila",
         "twq": "L'Aquila",
         "twq_NE": "L'Aquila",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "L'Aquila",
         "zh_Hant_TW": "L'Aquila",
         "zu": "L'Aquila",
-        "zu_ZA": "L'Aquila",
-        "sr@latin": "L'Akvila",
-        "tt@iqtelif": "L'Aquila"
+        "zu_ZA": "L'Aquila"
     },
     "AR": {
         "af": "Arezzo",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Arezzo",
         "sq_XK": "Arezzo",
         "sr": "Арецо",
+        "sr@latin": "Areco",
         "sr_Cyrl": "Арецо",
         "sr_Cyrl_BA": "Арецо",
         "sr_Cyrl_ME": "Арецо",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Arezzo",
         "tr_TR": "Arezzo",
         "tt": "Arezzo",
+        "tt@iqtelif": "Arezzo",
         "tt_RU": "Arezzo",
         "twq": "Arezzo",
         "twq_NE": "Arezzo",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Arezzo",
         "zh_Hant_TW": "Arezzo",
         "zu": "Arezzo",
-        "zu_ZA": "Arezzo",
-        "sr@latin": "Areco",
-        "tt@iqtelif": "Arezzo"
+        "zu_ZA": "Arezzo"
     },
     "AT": {
         "af": "Asti",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Asti",
         "sq_XK": "Asti",
         "sr": "Асти",
+        "sr@latin": "Asti",
         "sr_Cyrl": "Асти",
         "sr_Cyrl_BA": "Асти",
         "sr_Cyrl_ME": "Асти",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Asti",
         "tr_TR": "Asti",
         "tt": "Asti",
+        "tt@iqtelif": "Asti",
         "tt_RU": "Asti",
         "twq": "Asti",
         "twq_NE": "Asti",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Asti",
         "zh_Hant_TW": "Asti",
         "zu": "Asti",
-        "zu_ZA": "Asti",
-        "sr@latin": "Asti",
-        "tt@iqtelif": "Asti"
+        "zu_ZA": "Asti"
     },
     "AV": {
         "af": "Avellino",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Avellino",
         "sq_XK": "Avellino",
         "sr": "Авелино",
+        "sr@latin": "Avelino",
         "sr_Cyrl": "Авелино",
         "sr_Cyrl_BA": "Авелино",
         "sr_Cyrl_ME": "Авелино",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Avellino",
         "tr_TR": "Avellino",
         "tt": "Avellino",
+        "tt@iqtelif": "Avellino",
         "tt_RU": "Avellino",
         "twq": "Avellino",
         "twq_NE": "Avellino",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Avellino",
         "zh_Hant_TW": "Avellino",
         "zu": "Avellino",
-        "zu_ZA": "Avellino",
-        "sr@latin": "Avelino",
-        "tt@iqtelif": "Avellino"
+        "zu_ZA": "Avellino"
     },
     "BA": {
         "af": "Bari",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Bari",
         "sq_XK": "Bari",
         "sr": "Бари",
+        "sr@latin": "Bari",
         "sr_Cyrl": "Бари",
         "sr_Cyrl_BA": "Бари",
         "sr_Cyrl_ME": "Бари",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Bari",
         "tr_TR": "Bari",
         "tt": "Bari",
+        "tt@iqtelif": "Bari",
         "tt_RU": "Bari",
         "twq": "Bari",
         "twq_NE": "Bari",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Bari",
         "zh_Hant_TW": "Bari",
         "zu": "Bari",
-        "zu_ZA": "Bari",
-        "sr@latin": "Bari",
-        "tt@iqtelif": "Bari"
+        "zu_ZA": "Bari"
     },
     "BG": {
         "af": "Bergamo",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Bergamo",
         "sq_XK": "Bergamo",
         "sr": "Бергамо",
+        "sr@latin": "Bergamo",
         "sr_Cyrl": "Бергамо",
         "sr_Cyrl_BA": "Бергамо",
         "sr_Cyrl_ME": "Бергамо",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Bergamo",
         "tr_TR": "Bergamo",
         "tt": "Bergamo",
+        "tt@iqtelif": "Bergamo",
         "tt_RU": "Bergamo",
         "twq": "Bergamo",
         "twq_NE": "Bergamo",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Bergamo",
         "zh_Hant_TW": "Bergamo",
         "zu": "Bergamo",
-        "zu_ZA": "Bergamo",
-        "sr@latin": "Bergamo",
-        "tt@iqtelif": "Bergamo"
+        "zu_ZA": "Bergamo"
     },
     "BI": {
         "af": "Biella",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Biella",
         "sq_XK": "Biella",
         "sr": "Бјела",
+        "sr@latin": "Bjela",
         "sr_Cyrl": "Бјела",
         "sr_Cyrl_BA": "Бјела",
         "sr_Cyrl_ME": "Бјела",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Biella",
         "tr_TR": "Biella",
         "tt": "Biella",
+        "tt@iqtelif": "Biella",
         "tt_RU": "Biella",
         "twq": "Biella",
         "twq_NE": "Biella",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Biella",
         "zh_Hant_TW": "Biella",
         "zu": "Biella",
-        "zu_ZA": "Biella",
-        "sr@latin": "Bjela",
-        "tt@iqtelif": "Biella"
+        "zu_ZA": "Biella"
     },
     "BL": {
         "af": "Belluno",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Belluno",
         "sq_XK": "Belluno",
         "sr": "Белуно",
+        "sr@latin": "Beluno",
         "sr_Cyrl": "Белуно",
         "sr_Cyrl_BA": "Белуно",
         "sr_Cyrl_ME": "Белуно",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Belluno",
         "tr_TR": "Belluno",
         "tt": "Belluno",
+        "tt@iqtelif": "Belluno",
         "tt_RU": "Belluno",
         "twq": "Belluno",
         "twq_NE": "Belluno",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Belluno",
         "zh_Hant_TW": "Belluno",
         "zu": "Belluno",
-        "zu_ZA": "Belluno",
-        "sr@latin": "Beluno",
-        "tt@iqtelif": "Belluno"
+        "zu_ZA": "Belluno"
     },
     "BN": {
         "af": "Benevento",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Benevento",
         "sq_XK": "Benevento",
         "sr": "Беневенто",
+        "sr@latin": "Benevento",
         "sr_Cyrl": "Беневенто",
         "sr_Cyrl_BA": "Беневенто",
         "sr_Cyrl_ME": "Беневенто",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Benevento",
         "tr_TR": "Benevento",
         "tt": "Benevento",
+        "tt@iqtelif": "Benevento",
         "tt_RU": "Benevento",
         "twq": "Benevento",
         "twq_NE": "Benevento",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Benevento",
         "zh_Hant_TW": "Benevento",
         "zu": "Benevento",
-        "zu_ZA": "Benevento",
-        "sr@latin": "Benevento",
-        "tt@iqtelif": "Benevento"
+        "zu_ZA": "Benevento"
     },
     "BO": {
         "af": "Bologna",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Bologna",
         "sq_XK": "Bologna",
         "sr": "Болоња",
+        "sr@latin": "Bolonja",
         "sr_Cyrl": "Болоња",
         "sr_Cyrl_BA": "Болоња",
         "sr_Cyrl_ME": "Болоња",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Bologna",
         "tr_TR": "Bologna",
         "tt": "Bologna",
+        "tt@iqtelif": "Bologna",
         "tt_RU": "Bologna",
         "twq": "Bologna",
         "twq_NE": "Bologna",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Bologna",
         "zh_Hant_TW": "Bologna",
         "zu": "Bologna",
-        "zu_ZA": "Bologna",
-        "sr@latin": "Bolonja",
-        "tt@iqtelif": "Bologna"
+        "zu_ZA": "Bologna"
     },
     "BR": {
         "af": "Brindisi",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Brindisi",
         "sq_XK": "Brindisi",
         "sr": "Бриндизи",
+        "sr@latin": "Brindizi",
         "sr_Cyrl": "Бриндизи",
         "sr_Cyrl_BA": "Бриндизи",
         "sr_Cyrl_ME": "Бриндизи",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Brindisi",
         "tr_TR": "Brindisi",
         "tt": "Brindisi",
+        "tt@iqtelif": "Brindisi",
         "tt_RU": "Brindisi",
         "twq": "Brindisi",
         "twq_NE": "Brindisi",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Brindisi",
         "zh_Hant_TW": "Brindisi",
         "zu": "Brindisi",
-        "zu_ZA": "Brindisi",
-        "sr@latin": "Brindizi",
-        "tt@iqtelif": "Brindisi"
+        "zu_ZA": "Brindisi"
     },
     "BS": {
         "af": "Brescia",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Brescia",
         "sq_XK": "Brescia",
         "sr": "Бреша",
+        "sr@latin": "Breša",
         "sr_Cyrl": "Бреша",
         "sr_Cyrl_BA": "Бреша",
         "sr_Cyrl_ME": "Бреша",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Brescia",
         "tr_TR": "Brescia",
         "tt": "Brescia",
+        "tt@iqtelif": "Brescia",
         "tt_RU": "Brescia",
         "twq": "Brescia",
         "twq_NE": "Brescia",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Brescia",
         "zh_Hant_TW": "Brescia",
         "zu": "Brescia",
-        "zu_ZA": "Brescia",
-        "sr@latin": "Breša",
-        "tt@iqtelif": "Brescia"
+        "zu_ZA": "Brescia"
     },
     "BT": {
         "af": "Barletta-Andria-Trani",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Barletta-Andria-Trani",
         "sq_XK": "Barletta-Andria-Trani",
         "sr": "Барлета-Андриа-Трани",
+        "sr@latin": "Barleta-Andria-Trani",
         "sr_Cyrl": "Барлета-Андриа-Трани",
         "sr_Cyrl_BA": "Барлета-Андриа-Трани",
         "sr_Cyrl_ME": "Барлета-Андриа-Трани",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Barletta-Andria-Trani",
         "tr_TR": "Barletta-Andria-Trani",
         "tt": "Barletta-Andria-Trani",
+        "tt@iqtelif": "Barletta-Andria-Trani",
         "tt_RU": "Barletta-Andria-Trani",
         "twq": "Barletta-Andria-Trani",
         "twq_NE": "Barletta-Andria-Trani",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Barletta-Andria-Trani",
         "zh_Hant_TW": "Barletta-Andria-Trani",
         "zu": "Barletta-Andria-Trani",
-        "zu_ZA": "Barletta-Andria-Trani",
-        "sr@latin": "Barleta-Andria-Trani",
-        "tt@iqtelif": "Barletta-Andria-Trani"
+        "zu_ZA": "Barletta-Andria-Trani"
     },
     "BZ": {
         "af": "Bolzano",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Bolzano",
         "sq_XK": "Bolzano",
         "sr": "Болцано",
+        "sr@latin": "Bolcano",
         "sr_Cyrl": "Болцано",
         "sr_Cyrl_BA": "Болцано",
         "sr_Cyrl_ME": "Болцано",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Bolzano",
         "tr_TR": "Bolzano",
         "tt": "Bolzano",
+        "tt@iqtelif": "Bolzano",
         "tt_RU": "Bolzano",
         "twq": "Bolzano",
         "twq_NE": "Bolzano",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Bolzano",
         "zh_Hant_TW": "Bolzano",
         "zu": "Bolzano",
-        "zu_ZA": "Bolzano",
-        "sr@latin": "Bolcano",
-        "tt@iqtelif": "Bolzano"
+        "zu_ZA": "Bolzano"
     },
     "CA": {
         "af": "Cagliari",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Cagliari",
         "sq_XK": "Cagliari",
         "sr": "Каљари",
+        "sr@latin": "Kaljari",
         "sr_Cyrl": "Каљари",
         "sr_Cyrl_BA": "Каљари",
         "sr_Cyrl_ME": "Каљари",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Cagliari",
         "tr_TR": "Cagliari",
         "tt": "Cagliari",
+        "tt@iqtelif": "Cagliari",
         "tt_RU": "Cagliari",
         "twq": "Cagliari",
         "twq_NE": "Cagliari",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Cagliari",
         "zh_Hant_TW": "Cagliari",
         "zu": "Cagliari",
-        "zu_ZA": "Cagliari",
-        "sr@latin": "Kaljari",
-        "tt@iqtelif": "Cagliari"
+        "zu_ZA": "Cagliari"
     },
     "CB": {
         "af": "Campobasso",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Campobasso",
         "sq_XK": "Campobasso",
         "sr": "Кампобасо",
+        "sr@latin": "Kampobaso",
         "sr_Cyrl": "Кампобасо",
         "sr_Cyrl_BA": "Кампобасо",
         "sr_Cyrl_ME": "Кампобасо",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Campobasso",
         "tr_TR": "Campobasso",
         "tt": "Campobasso",
+        "tt@iqtelif": "Campobasso",
         "tt_RU": "Campobasso",
         "twq": "Campobasso",
         "twq_NE": "Campobasso",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Campobasso",
         "zh_Hant_TW": "Campobasso",
         "zu": "Campobasso",
-        "zu_ZA": "Campobasso",
-        "sr@latin": "Kampobaso",
-        "tt@iqtelif": "Campobasso"
+        "zu_ZA": "Campobasso"
     },
     "CE": {
         "af": "Caserta",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Caserta",
         "sq_XK": "Caserta",
         "sr": "Казерта",
+        "sr@latin": "Kazerta",
         "sr_Cyrl": "Казерта",
         "sr_Cyrl_BA": "Казерта",
         "sr_Cyrl_ME": "Казерта",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Caserta",
         "tr_TR": "Caserta",
         "tt": "Caserta",
+        "tt@iqtelif": "Caserta",
         "tt_RU": "Caserta",
         "twq": "Caserta",
         "twq_NE": "Caserta",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Caserta",
         "zh_Hant_TW": "Caserta",
         "zu": "Caserta",
-        "zu_ZA": "Caserta",
-        "sr@latin": "Kazerta",
-        "tt@iqtelif": "Caserta"
+        "zu_ZA": "Caserta"
     },
     "CH": {
         "af": "Chieti",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Chieti",
         "sq_XK": "Chieti",
         "sr": "Кјети",
+        "sr@latin": "Kjeti",
         "sr_Cyrl": "Кјети",
         "sr_Cyrl_BA": "Кјети",
         "sr_Cyrl_ME": "Кјети",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Chieti",
         "tr_TR": "Chieti",
         "tt": "Chieti",
+        "tt@iqtelif": "Chieti",
         "tt_RU": "Chieti",
         "twq": "Chieti",
         "twq_NE": "Chieti",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Chieti",
         "zh_Hant_TW": "Chieti",
         "zu": "Chieti",
-        "zu_ZA": "Chieti",
-        "sr@latin": "Kjeti",
-        "tt@iqtelif": "Chieti"
+        "zu_ZA": "Chieti"
     },
     "CL": {
         "af": "Caltanissetta",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Caltanissetta",
         "sq_XK": "Caltanissetta",
         "sr": "Калтанисета",
+        "sr@latin": "Kaltaniseta",
         "sr_Cyrl": "Калтанисета",
         "sr_Cyrl_BA": "Калтанисета",
         "sr_Cyrl_ME": "Калтанисета",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Caltanissetta",
         "tr_TR": "Caltanissetta",
         "tt": "Caltanissetta",
+        "tt@iqtelif": "Caltanissetta",
         "tt_RU": "Caltanissetta",
         "twq": "Caltanissetta",
         "twq_NE": "Caltanissetta",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Caltanissetta",
         "zh_Hant_TW": "Caltanissetta",
         "zu": "Caltanissetta",
-        "zu_ZA": "Caltanissetta",
-        "sr@latin": "Kaltaniseta",
-        "tt@iqtelif": "Caltanissetta"
+        "zu_ZA": "Caltanissetta"
     },
     "CN": {
         "af": "Cuneo",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Cuneo",
         "sq_XK": "Cuneo",
         "sr": "Кунео",
+        "sr@latin": "Kuneo",
         "sr_Cyrl": "Кунео",
         "sr_Cyrl_BA": "Кунео",
         "sr_Cyrl_ME": "Кунео",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Cuneo",
         "tr_TR": "Cuneo",
         "tt": "Cuneo",
+        "tt@iqtelif": "Cuneo",
         "tt_RU": "Cuneo",
         "twq": "Cuneo",
         "twq_NE": "Cuneo",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Cuneo",
         "zh_Hant_TW": "Cuneo",
         "zu": "Cuneo",
-        "zu_ZA": "Cuneo",
-        "sr@latin": "Kuneo",
-        "tt@iqtelif": "Cuneo"
+        "zu_ZA": "Cuneo"
     },
     "CO": {
         "af": "Como",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Como",
         "sq_XK": "Como",
         "sr": "Комо",
+        "sr@latin": "Komo",
         "sr_Cyrl": "Комо",
         "sr_Cyrl_BA": "Комо",
         "sr_Cyrl_ME": "Комо",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Como",
         "tr_TR": "Como",
         "tt": "Como",
+        "tt@iqtelif": "Como",
         "tt_RU": "Como",
         "twq": "Como",
         "twq_NE": "Como",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Como",
         "zh_Hant_TW": "Como",
         "zu": "Como",
-        "zu_ZA": "Como",
-        "sr@latin": "Komo",
-        "tt@iqtelif": "Como"
+        "zu_ZA": "Como"
     },
     "CR": {
         "af": "Cremona",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Cremona",
         "sq_XK": "Cremona",
         "sr": "Кремона",
+        "sr@latin": "Kremona",
         "sr_Cyrl": "Кремона",
         "sr_Cyrl_BA": "Кремона",
         "sr_Cyrl_ME": "Кремона",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Cremona",
         "tr_TR": "Cremona",
         "tt": "Cremona",
+        "tt@iqtelif": "Cremona",
         "tt_RU": "Cremona",
         "twq": "Cremona",
         "twq_NE": "Cremona",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Cremona",
         "zh_Hant_TW": "Cremona",
         "zu": "Cremona",
-        "zu_ZA": "Cremona",
-        "sr@latin": "Kremona",
-        "tt@iqtelif": "Cremona"
+        "zu_ZA": "Cremona"
     },
     "CS": {
         "af": "Cosenza",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Cosenza",
         "sq_XK": "Cosenza",
         "sr": "Козенца",
+        "sr@latin": "Kozenca",
         "sr_Cyrl": "Козенца",
         "sr_Cyrl_BA": "Козенца",
         "sr_Cyrl_ME": "Козенца",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Cosenza",
         "tr_TR": "Cosenza",
         "tt": "Cosenza",
+        "tt@iqtelif": "Cosenza",
         "tt_RU": "Cosenza",
         "twq": "Cosenza",
         "twq_NE": "Cosenza",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Cosenza",
         "zh_Hant_TW": "Cosenza",
         "zu": "Cosenza",
-        "zu_ZA": "Cosenza",
-        "sr@latin": "Kozenca",
-        "tt@iqtelif": "Cosenza"
+        "zu_ZA": "Cosenza"
     },
     "CT": {
         "af": "Catania",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Catania",
         "sq_XK": "Catania",
         "sr": "Катанија",
+        "sr@latin": "Katanija",
         "sr_Cyrl": "Катанија",
         "sr_Cyrl_BA": "Катанија",
         "sr_Cyrl_ME": "Катанија",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Catania",
         "tr_TR": "Catania",
         "tt": "Catania",
+        "tt@iqtelif": "Catania",
         "tt_RU": "Catania",
         "twq": "Catania",
         "twq_NE": "Catania",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Catania",
         "zh_Hant_TW": "Catania",
         "zu": "Catania",
-        "zu_ZA": "Catania",
-        "sr@latin": "Katanija",
-        "tt@iqtelif": "Catania"
+        "zu_ZA": "Catania"
     },
     "CZ": {
         "af": "Catanzaro",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Catanzaro",
         "sq_XK": "Catanzaro",
         "sr": "Катанцаро",
+        "sr@latin": "Katancaro",
         "sr_Cyrl": "Катанцаро",
         "sr_Cyrl_BA": "Катанцаро",
         "sr_Cyrl_ME": "Катанцаро",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Catanzaro",
         "tr_TR": "Catanzaro",
         "tt": "Catanzaro",
+        "tt@iqtelif": "Catanzaro",
         "tt_RU": "Catanzaro",
         "twq": "Catanzaro",
         "twq_NE": "Catanzaro",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Catanzaro",
         "zh_Hant_TW": "Catanzaro",
         "zu": "Catanzaro",
-        "zu_ZA": "Catanzaro",
-        "sr@latin": "Katancaro",
-        "tt@iqtelif": "Catanzaro"
+        "zu_ZA": "Catanzaro"
     },
     "EN": {
         "af": "Enna",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Enna",
         "sq_XK": "Enna",
         "sr": "Ена",
+        "sr@latin": "Ena",
         "sr_Cyrl": "Ена",
         "sr_Cyrl_BA": "Ена",
         "sr_Cyrl_ME": "Ена",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Enna",
         "tr_TR": "Enna",
         "tt": "Enna",
+        "tt@iqtelif": "Enna",
         "tt_RU": "Enna",
         "twq": "Enna",
         "twq_NE": "Enna",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Enna",
         "zh_Hant_TW": "Enna",
         "zu": "Enna",
-        "zu_ZA": "Enna",
-        "sr@latin": "Ena",
-        "tt@iqtelif": "Enna"
+        "zu_ZA": "Enna"
     },
     "FC": {
         "af": "Forlì-Cesena",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Forlì-Cesena",
         "sq_XK": "Forlì-Cesena",
         "sr": "Форли-Ћезена",
+        "sr@latin": "Forli-Ćezena",
         "sr_Cyrl": "Форли-Ћезена",
         "sr_Cyrl_BA": "Форли-Ћезена",
         "sr_Cyrl_ME": "Форли-Ћезена",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Forli-Cesena",
         "tr_TR": "Forli-Cesena",
         "tt": "Forlì-Cesena",
+        "tt@iqtelif": "Forlì-Cesena",
         "tt_RU": "Forlì-Cesena",
         "twq": "Forlì-Cesena",
         "twq_NE": "Forlì-Cesena",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Forlì-Cesena",
         "zh_Hant_TW": "Forlì-Cesena",
         "zu": "Forlì-Cesena",
-        "zu_ZA": "Forlì-Cesena",
-        "sr@latin": "Forli-Ćezena",
-        "tt@iqtelif": "Forlì-Cesena"
+        "zu_ZA": "Forlì-Cesena"
     },
     "FE": {
         "af": "Ferrara",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Ferrara",
         "sq_XK": "Ferrara",
         "sr": "Ферара",
+        "sr@latin": "Ferara",
         "sr_Cyrl": "Ферара",
         "sr_Cyrl_BA": "Ферара",
         "sr_Cyrl_ME": "Ферара",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Ferrara",
         "tr_TR": "Ferrara",
         "tt": "Ferrara",
+        "tt@iqtelif": "Ferrara",
         "tt_RU": "Ferrara",
         "twq": "Ferrara",
         "twq_NE": "Ferrara",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Ferrara",
         "zh_Hant_TW": "Ferrara",
         "zu": "Ferrara",
-        "zu_ZA": "Ferrara",
-        "sr@latin": "Ferara",
-        "tt@iqtelif": "Ferrara"
+        "zu_ZA": "Ferrara"
     },
     "FG": {
         "af": "Foggia",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Foggia",
         "sq_XK": "Foggia",
         "sr": "Фођа",
+        "sr@latin": "Fođa",
         "sr_Cyrl": "Фођа",
         "sr_Cyrl_BA": "Фођа",
         "sr_Cyrl_ME": "Фођа",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Foggia",
         "tr_TR": "Foggia",
         "tt": "Foggia",
+        "tt@iqtelif": "Foggia",
         "tt_RU": "Foggia",
         "twq": "Foggia",
         "twq_NE": "Foggia",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Foggia",
         "zh_Hant_TW": "Foggia",
         "zu": "Foggia",
-        "zu_ZA": "Foggia",
-        "sr@latin": "Fođa",
-        "tt@iqtelif": "Foggia"
+        "zu_ZA": "Foggia"
     },
     "FI": {
         "af": "Firenze",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Firenze",
         "sq_XK": "Firenze",
         "sr": "Фиренца",
+        "sr@latin": "Firenca",
         "sr_Cyrl": "Фиренца",
         "sr_Cyrl_BA": "Фиренца",
         "sr_Cyrl_ME": "Фиренца",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Firenze",
         "tr_TR": "Firenze",
         "tt": "Firenze",
+        "tt@iqtelif": "Firenze",
         "tt_RU": "Firenze",
         "twq": "Firenze",
         "twq_NE": "Firenze",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Firenze",
         "zh_Hant_TW": "Firenze",
         "zu": "Firenze",
-        "zu_ZA": "Firenze",
-        "sr@latin": "Firenca",
-        "tt@iqtelif": "Firenze"
+        "zu_ZA": "Firenze"
     },
     "FM": {
         "af": "Fermo",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Fermo",
         "sq_XK": "Fermo",
         "sr": "Фермо",
+        "sr@latin": "Fermo",
         "sr_Cyrl": "Фермо",
         "sr_Cyrl_BA": "Фермо",
         "sr_Cyrl_ME": "Фермо",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Fermo",
         "tr_TR": "Fermo",
         "tt": "Fermo",
+        "tt@iqtelif": "Fermo",
         "tt_RU": "Fermo",
         "twq": "Fermo",
         "twq_NE": "Fermo",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Fermo",
         "zh_Hant_TW": "Fermo",
         "zu": "Fermo",
-        "zu_ZA": "Fermo",
-        "sr@latin": "Fermo",
-        "tt@iqtelif": "Fermo"
+        "zu_ZA": "Fermo"
     },
     "FR": {
         "af": "Frosinone",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Frosinone",
         "sq_XK": "Frosinone",
         "sr": "Фрозиноне",
+        "sr@latin": "Frozinone",
         "sr_Cyrl": "Фрозиноне",
         "sr_Cyrl_BA": "Фрозиноне",
         "sr_Cyrl_ME": "Фрозиноне",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Frosinone",
         "tr_TR": "Frosinone",
         "tt": "Frosinone",
+        "tt@iqtelif": "Frosinone",
         "tt_RU": "Frosinone",
         "twq": "Frosinone",
         "twq_NE": "Frosinone",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Frosinone",
         "zh_Hant_TW": "Frosinone",
         "zu": "Frosinone",
-        "zu_ZA": "Frosinone",
-        "sr@latin": "Frozinone",
-        "tt@iqtelif": "Frosinone"
+        "zu_ZA": "Frosinone"
     },
     "GE": {
         "af": "Genova",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Genova",
         "sq_XK": "Genova",
         "sr": "Ђенова",
+        "sr@latin": "Đenova",
         "sr_Cyrl": "Ђенова",
         "sr_Cyrl_BA": "Ђенова",
         "sr_Cyrl_ME": "Ђенова",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Genova",
         "tr_TR": "Genova",
         "tt": "Genova",
+        "tt@iqtelif": "Genova",
         "tt_RU": "Genova",
         "twq": "Genova",
         "twq_NE": "Genova",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Genova",
         "zh_Hant_TW": "Genova",
         "zu": "Genova",
-        "zu_ZA": "Genova",
-        "sr@latin": "Đenova",
-        "tt@iqtelif": "Genova"
+        "zu_ZA": "Genova"
     },
     "GO": {
         "af": "Gorizia",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Gorizia",
         "sq_XK": "Gorizia",
         "sr": "Гориција",
+        "sr@latin": "Goricija",
         "sr_Cyrl": "Гориција",
         "sr_Cyrl_BA": "Гориција",
         "sr_Cyrl_ME": "Гориција",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Gorizia",
         "tr_TR": "Gorizia",
         "tt": "Gorizia",
+        "tt@iqtelif": "Gorizia",
         "tt_RU": "Gorizia",
         "twq": "Gorizia",
         "twq_NE": "Gorizia",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Gorizia",
         "zh_Hant_TW": "Gorizia",
         "zu": "Gorizia",
-        "zu_ZA": "Gorizia",
-        "sr@latin": "Goricija",
-        "tt@iqtelif": "Gorizia"
+        "zu_ZA": "Gorizia"
     },
     "GR": {
         "af": "Grosseto",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Grosseto",
         "sq_XK": "Grosseto",
         "sr": "Гросето",
+        "sr@latin": "Groseto",
         "sr_Cyrl": "Гросето",
         "sr_Cyrl_BA": "Гросето",
         "sr_Cyrl_ME": "Гросето",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Grosseto",
         "tr_TR": "Grosseto",
         "tt": "Grosseto",
+        "tt@iqtelif": "Grosseto",
         "tt_RU": "Grosseto",
         "twq": "Grosseto",
         "twq_NE": "Grosseto",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Grosseto",
         "zh_Hant_TW": "Grosseto",
         "zu": "Grosseto",
-        "zu_ZA": "Grosseto",
-        "sr@latin": "Groseto",
-        "tt@iqtelif": "Grosseto"
+        "zu_ZA": "Grosseto"
     },
     "IM": {
         "af": "Imperia",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Imperia",
         "sq_XK": "Imperia",
         "sr": "Империја",
+        "sr@latin": "Imperija",
         "sr_Cyrl": "Империја",
         "sr_Cyrl_BA": "Империја",
         "sr_Cyrl_ME": "Империја",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Imperia",
         "tr_TR": "Imperia",
         "tt": "Imperia",
+        "tt@iqtelif": "Imperia",
         "tt_RU": "Imperia",
         "twq": "Imperia",
         "twq_NE": "Imperia",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Imperia",
         "zh_Hant_TW": "Imperia",
         "zu": "Imperia",
-        "zu_ZA": "Imperia",
-        "sr@latin": "Imperija",
-        "tt@iqtelif": "Imperia"
+        "zu_ZA": "Imperia"
     },
     "IS": {
         "af": "Isernia",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Isernia",
         "sq_XK": "Isernia",
         "sr": "Изернија",
+        "sr@latin": "Izernija",
         "sr_Cyrl": "Изернија",
         "sr_Cyrl_BA": "Изернија",
         "sr_Cyrl_ME": "Изернија",
@@ -53903,6 +53904,7 @@
         "tr_CY": "İsernia",
         "tr_TR": "İsernia",
         "tt": "Isernia",
+        "tt@iqtelif": "Isernia",
         "tt_RU": "Isernia",
         "twq": "Isernia",
         "twq_NE": "Isernia",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Isernia",
         "zh_Hant_TW": "Isernia",
         "zu": "Isernia",
-        "zu_ZA": "Isernia",
-        "sr@latin": "Izernija",
-        "tt@iqtelif": "Isernia"
+        "zu_ZA": "Isernia"
     },
     "KR": {
         "af": "Crotone",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Crotone",
         "sq_XK": "Crotone",
         "sr": "Кротоне",
+        "sr@latin": "Krotone",
         "sr_Cyrl": "Кротоне",
         "sr_Cyrl_BA": "Кротоне",
         "sr_Cyrl_ME": "Кротоне",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Crotone",
         "tr_TR": "Crotone",
         "tt": "Crotone",
+        "tt@iqtelif": "Crotone",
         "tt_RU": "Crotone",
         "twq": "Crotone",
         "twq_NE": "Crotone",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Crotone",
         "zh_Hant_TW": "Crotone",
         "zu": "Crotone",
-        "zu_ZA": "Crotone",
-        "sr@latin": "Krotone",
-        "tt@iqtelif": "Crotone"
+        "zu_ZA": "Crotone"
     },
     "LC": {
         "af": "Lecco",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Lecco",
         "sq_XK": "Lecco",
         "sr": "Леко",
+        "sr@latin": "Leko",
         "sr_Cyrl": "Леко",
         "sr_Cyrl_BA": "Леко",
         "sr_Cyrl_ME": "Леко",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Lecco",
         "tr_TR": "Lecco",
         "tt": "Lecco",
+        "tt@iqtelif": "Lecco",
         "tt_RU": "Lecco",
         "twq": "Lecco",
         "twq_NE": "Lecco",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Lecco",
         "zh_Hant_TW": "Lecco",
         "zu": "Lecco",
-        "zu_ZA": "Lecco",
-        "sr@latin": "Leko",
-        "tt@iqtelif": "Lecco"
+        "zu_ZA": "Lecco"
     },
     "LE": {
         "af": "Lecce",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Lecce",
         "sq_XK": "Lecce",
         "sr": "Леће",
+        "sr@latin": "Leće",
         "sr_Cyrl": "Леће",
         "sr_Cyrl_BA": "Леће",
         "sr_Cyrl_ME": "Леће",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Lecce",
         "tr_TR": "Lecce",
         "tt": "Lecce",
+        "tt@iqtelif": "Lecce",
         "tt_RU": "Lecce",
         "twq": "Lecce",
         "twq_NE": "Lecce",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Lecce",
         "zh_Hant_TW": "Lecce",
         "zu": "Lecce",
-        "zu_ZA": "Lecce",
-        "sr@latin": "Leće",
-        "tt@iqtelif": "Lecce"
+        "zu_ZA": "Lecce"
     },
     "LI": {
         "af": "Livorno",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Livorno",
         "sq_XK": "Livorno",
         "sr": "Ливорно",
+        "sr@latin": "Livorno",
         "sr_Cyrl": "Ливорно",
         "sr_Cyrl_BA": "Ливорно",
         "sr_Cyrl_ME": "Ливорно",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Livorno",
         "tr_TR": "Livorno",
         "tt": "Livorno",
+        "tt@iqtelif": "Livorno",
         "tt_RU": "Livorno",
         "twq": "Livorno",
         "twq_NE": "Livorno",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Livorno",
         "zh_Hant_TW": "Livorno",
         "zu": "Livorno",
-        "zu_ZA": "Livorno",
-        "sr@latin": "Livorno",
-        "tt@iqtelif": "Livorno"
+        "zu_ZA": "Livorno"
     },
     "LO": {
         "af": "Lodi",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Lodi",
         "sq_XK": "Lodi",
         "sr": "Лоди",
+        "sr@latin": "Lodi",
         "sr_Cyrl": "Лоди",
         "sr_Cyrl_BA": "Лоди",
         "sr_Cyrl_ME": "Лоди",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Lodi",
         "tr_TR": "Lodi",
         "tt": "Lodi",
+        "tt@iqtelif": "Lodi",
         "tt_RU": "Lodi",
         "twq": "Lodi",
         "twq_NE": "Lodi",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Lodi",
         "zh_Hant_TW": "Lodi",
         "zu": "Lodi",
-        "zu_ZA": "Lodi",
-        "sr@latin": "Lodi",
-        "tt@iqtelif": "Lodi"
+        "zu_ZA": "Lodi"
     },
     "LT": {
         "af": "Latina",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Latina",
         "sq_XK": "Latina",
         "sr": "Латина",
+        "sr@latin": "Latina",
         "sr_Cyrl": "Латина",
         "sr_Cyrl_BA": "Латина",
         "sr_Cyrl_ME": "Латина",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Latina",
         "tr_TR": "Latina",
         "tt": "Latina",
+        "tt@iqtelif": "Latina",
         "tt_RU": "Latina",
         "twq": "Latina",
         "twq_NE": "Latina",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Latina",
         "zh_Hant_TW": "Latina",
         "zu": "Latina",
-        "zu_ZA": "Latina",
-        "sr@latin": "Latina",
-        "tt@iqtelif": "Latina"
+        "zu_ZA": "Latina"
     },
     "LU": {
         "af": "Lucca",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Lucca",
         "sq_XK": "Lucca",
         "sr": "Лука",
+        "sr@latin": "Luka",
         "sr_Cyrl": "Лука",
         "sr_Cyrl_BA": "Лука",
         "sr_Cyrl_ME": "Лука",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Lucca",
         "tr_TR": "Lucca",
         "tt": "Lucca",
+        "tt@iqtelif": "Lucca",
         "tt_RU": "Lucca",
         "twq": "Lucca",
         "twq_NE": "Lucca",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Lucca",
         "zh_Hant_TW": "Lucca",
         "zu": "Lucca",
-        "zu_ZA": "Lucca",
-        "sr@latin": "Luka",
-        "tt@iqtelif": "Lucca"
+        "zu_ZA": "Lucca"
     },
     "MB": {
         "af": "Monza e Brianza",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Monza e Brianza",
         "sq_XK": "Monza e Brianza",
         "sr": "Монца и Брианца",
+        "sr@latin": "Monca i Brianca",
         "sr_Cyrl": "Монца и Брианца",
         "sr_Cyrl_BA": "Монца и Брианца",
         "sr_Cyrl_ME": "Монца и Брианца",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Monza e Brianza",
         "tr_TR": "Monza e Brianza",
         "tt": "Monza e Brianza",
+        "tt@iqtelif": "Monza e Brianza",
         "tt_RU": "Monza e Brianza",
         "twq": "Monza e Brianza",
         "twq_NE": "Monza e Brianza",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Monza e Brianza",
         "zh_Hant_TW": "Monza e Brianza",
         "zu": "Monza e Brianza",
-        "zu_ZA": "Monza e Brianza",
-        "sr@latin": "Monca i Brianca",
-        "tt@iqtelif": "Monza e Brianza"
+        "zu_ZA": "Monza e Brianza"
     },
     "MC": {
         "af": "Macerata",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Macerata",
         "sq_XK": "Macerata",
         "sr": "Маћерата",
+        "sr@latin": "Maćerata",
         "sr_Cyrl": "Маћерата",
         "sr_Cyrl_BA": "Маћерата",
         "sr_Cyrl_ME": "Маћерата",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Macerata",
         "tr_TR": "Macerata",
         "tt": "Macerata",
+        "tt@iqtelif": "Macerata",
         "tt_RU": "Macerata",
         "twq": "Macerata",
         "twq_NE": "Macerata",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Macerata",
         "zh_Hant_TW": "Macerata",
         "zu": "Macerata",
-        "zu_ZA": "Macerata",
-        "sr@latin": "Maćerata",
-        "tt@iqtelif": "Macerata"
+        "zu_ZA": "Macerata"
     },
     "ME": {
         "af": "Messina",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Messina",
         "sq_XK": "Messina",
         "sr": "Месина",
+        "sr@latin": "Mesina",
         "sr_Cyrl": "Месина",
         "sr_Cyrl_BA": "Месина",
         "sr_Cyrl_ME": "Месина",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Messina",
         "tr_TR": "Messina",
         "tt": "Messina",
+        "tt@iqtelif": "Messina",
         "tt_RU": "Messina",
         "twq": "Messina",
         "twq_NE": "Messina",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Messina",
         "zh_Hant_TW": "Messina",
         "zu": "Messina",
-        "zu_ZA": "Messina",
-        "sr@latin": "Mesina",
-        "tt@iqtelif": "Messina"
+        "zu_ZA": "Messina"
     },
     "MI": {
         "af": "Milano",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Milano",
         "sq_XK": "Milano",
         "sr": "Милано",
+        "sr@latin": "Milano",
         "sr_Cyrl": "Милано",
         "sr_Cyrl_BA": "Милано",
         "sr_Cyrl_ME": "Милано",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Milano",
         "tr_TR": "Milano",
         "tt": "Milano",
+        "tt@iqtelif": "Milano",
         "tt_RU": "Milano",
         "twq": "Milano",
         "twq_NE": "Milano",
@@ -63715,9 +63717,7 @@
         "zh_Hant_MY": "Milano",
         "zh_Hant_TW": "Milano",
         "zu": "Milano",
-        "zu_ZA": "Milano",
-        "sr@latin": "Milano",
-        "tt@iqtelif": "Milano"
+        "zu_ZA": "Milano"
     },
     "MN": {
         "af": "Mantova",
@@ -64463,6 +64463,7 @@
         "sq_MK": "Mantova",
         "sq_XK": "Mantova",
         "sr": "Мантова",
+        "sr@latin": "Mantova",
         "sr_Cyrl": "Мантова",
         "sr_Cyrl_BA": "Мантова",
         "sr_Cyrl_ME": "Мантова",
@@ -64523,6 +64524,7 @@
         "tr_CY": "Mantova",
         "tr_TR": "Mantova",
         "tt": "Mantova",
+        "tt@iqtelif": "Mantova",
         "tt_RU": "Mantova",
         "twq": "Mantova",
         "twq_NE": "Mantova",
@@ -64600,9 +64602,7 @@
         "zh_Hant_MY": "Mantova",
         "zh_Hant_TW": "Mantova",
         "zu": "Mantova",
-        "zu_ZA": "Mantova",
-        "sr@latin": "Mantova",
-        "tt@iqtelif": "Mantova"
+        "zu_ZA": "Mantova"
     },
     "MO": {
         "af": "Modena",
@@ -65348,6 +65348,7 @@
         "sq_MK": "Modena",
         "sq_XK": "Modena",
         "sr": "Модена",
+        "sr@latin": "Modena",
         "sr_Cyrl": "Модена",
         "sr_Cyrl_BA": "Модена",
         "sr_Cyrl_ME": "Модена",
@@ -65408,6 +65409,7 @@
         "tr_CY": "Modena",
         "tr_TR": "Modena",
         "tt": "Modena",
+        "tt@iqtelif": "Modena",
         "tt_RU": "Modena",
         "twq": "Modena",
         "twq_NE": "Modena",
@@ -65485,9 +65487,7 @@
         "zh_Hant_MY": "Modena",
         "zh_Hant_TW": "Modena",
         "zu": "Modena",
-        "zu_ZA": "Modena",
-        "sr@latin": "Modena",
-        "tt@iqtelif": "Modena"
+        "zu_ZA": "Modena"
     },
     "MS": {
         "af": "Massa-Carrara",
@@ -66233,6 +66233,7 @@
         "sq_MK": "Massa-Carrara",
         "sq_XK": "Massa-Carrara",
         "sr": "Маса-Карара",
+        "sr@latin": "Masa-Karara",
         "sr_Cyrl": "Маса-Карара",
         "sr_Cyrl_BA": "Маса-Карара",
         "sr_Cyrl_ME": "Маса-Карара",
@@ -66293,6 +66294,7 @@
         "tr_CY": "Massa-Carrara",
         "tr_TR": "Massa-Carrara",
         "tt": "Massa-Carrara",
+        "tt@iqtelif": "Massa-Carrara",
         "tt_RU": "Massa-Carrara",
         "twq": "Massa-Carrara",
         "twq_NE": "Massa-Carrara",
@@ -66370,9 +66372,7 @@
         "zh_Hant_MY": "Massa-Carrara",
         "zh_Hant_TW": "Massa-Carrara",
         "zu": "Massa-Carrara",
-        "zu_ZA": "Massa-Carrara",
-        "sr@latin": "Masa-Karara",
-        "tt@iqtelif": "Massa-Carrara"
+        "zu_ZA": "Massa-Carrara"
     },
     "MT": {
         "af": "Matera",
@@ -67118,6 +67118,7 @@
         "sq_MK": "Matera",
         "sq_XK": "Matera",
         "sr": "Матера",
+        "sr@latin": "Matera",
         "sr_Cyrl": "Матера",
         "sr_Cyrl_BA": "Матера",
         "sr_Cyrl_ME": "Матера",
@@ -67178,6 +67179,7 @@
         "tr_CY": "Matera",
         "tr_TR": "Matera",
         "tt": "Matera",
+        "tt@iqtelif": "Matera",
         "tt_RU": "Matera",
         "twq": "Matera",
         "twq_NE": "Matera",
@@ -67255,9 +67257,7 @@
         "zh_Hant_MY": "Matera",
         "zh_Hant_TW": "Matera",
         "zu": "Matera",
-        "zu_ZA": "Matera",
-        "sr@latin": "Matera",
-        "tt@iqtelif": "Matera"
+        "zu_ZA": "Matera"
     },
     "NA": {
         "af": "Napoli",
@@ -68003,6 +68003,7 @@
         "sq_MK": "Napoli",
         "sq_XK": "Napoli",
         "sr": "Напуљ",
+        "sr@latin": "Napulj",
         "sr_Cyrl": "Напуљ",
         "sr_Cyrl_BA": "Напуљ",
         "sr_Cyrl_ME": "Напуљ",
@@ -68063,6 +68064,7 @@
         "tr_CY": "Napoli",
         "tr_TR": "Napoli",
         "tt": "Napoli",
+        "tt@iqtelif": "Napoli",
         "tt_RU": "Napoli",
         "twq": "Napoli",
         "twq_NE": "Napoli",
@@ -68140,9 +68142,7 @@
         "zh_Hant_MY": "Napoli",
         "zh_Hant_TW": "Napoli",
         "zu": "Napoli",
-        "zu_ZA": "Napoli",
-        "sr@latin": "Napulj",
-        "tt@iqtelif": "Napoli"
+        "zu_ZA": "Napoli"
     },
     "NO": {
         "af": "Novara",
@@ -68888,6 +68888,7 @@
         "sq_MK": "Novara",
         "sq_XK": "Novara",
         "sr": "Новара",
+        "sr@latin": "Novara",
         "sr_Cyrl": "Новара",
         "sr_Cyrl_BA": "Новара",
         "sr_Cyrl_ME": "Новара",
@@ -68948,6 +68949,7 @@
         "tr_CY": "Novara",
         "tr_TR": "Novara",
         "tt": "Novara",
+        "tt@iqtelif": "Novara",
         "tt_RU": "Novara",
         "twq": "Novara",
         "twq_NE": "Novara",
@@ -69025,9 +69027,7 @@
         "zh_Hant_MY": "Novara",
         "zh_Hant_TW": "Novara",
         "zu": "Novara",
-        "zu_ZA": "Novara",
-        "sr@latin": "Novara",
-        "tt@iqtelif": "Novara"
+        "zu_ZA": "Novara"
     },
     "NU": {
         "af": "Nuoro",
@@ -69773,6 +69773,7 @@
         "sq_MK": "Nuoro",
         "sq_XK": "Nuoro",
         "sr": "Нуоро",
+        "sr@latin": "Nuoro",
         "sr_Cyrl": "Нуоро",
         "sr_Cyrl_BA": "Нуоро",
         "sr_Cyrl_ME": "Нуоро",
@@ -69833,6 +69834,7 @@
         "tr_CY": "Nuoro",
         "tr_TR": "Nuoro",
         "tt": "Nuoro",
+        "tt@iqtelif": "Nuoro",
         "tt_RU": "Nuoro",
         "twq": "Nuoro",
         "twq_NE": "Nuoro",
@@ -69910,9 +69912,7 @@
         "zh_Hant_MY": "Nuoro",
         "zh_Hant_TW": "Nuoro",
         "zu": "Nuoro",
-        "zu_ZA": "Nuoro",
-        "sr@latin": "Nuoro",
-        "tt@iqtelif": "Nuoro"
+        "zu_ZA": "Nuoro"
     },
     "OR": {
         "af": "Oristano",
@@ -70658,6 +70658,7 @@
         "sq_MK": "Oristano",
         "sq_XK": "Oristano",
         "sr": "Ористано",
+        "sr@latin": "Oristano",
         "sr_Cyrl": "Ористано",
         "sr_Cyrl_BA": "Ористано",
         "sr_Cyrl_ME": "Ористано",
@@ -70718,6 +70719,7 @@
         "tr_CY": "Oristano",
         "tr_TR": "Oristano",
         "tt": "Oristano",
+        "tt@iqtelif": "Oristano",
         "tt_RU": "Oristano",
         "twq": "Oristano",
         "twq_NE": "Oristano",
@@ -70795,9 +70797,7 @@
         "zh_Hant_MY": "Oristano",
         "zh_Hant_TW": "Oristano",
         "zu": "Oristano",
-        "zu_ZA": "Oristano",
-        "sr@latin": "Oristano",
-        "tt@iqtelif": "Oristano"
+        "zu_ZA": "Oristano"
     },
     "PA": {
         "af": "Palermo",
@@ -71543,6 +71543,7 @@
         "sq_MK": "Palermo",
         "sq_XK": "Palermo",
         "sr": "Палермо",
+        "sr@latin": "Palermo",
         "sr_Cyrl": "Палермо",
         "sr_Cyrl_BA": "Палермо",
         "sr_Cyrl_ME": "Палермо",
@@ -71603,6 +71604,7 @@
         "tr_CY": "Palermo",
         "tr_TR": "Palermo",
         "tt": "Palermo",
+        "tt@iqtelif": "Palermo",
         "tt_RU": "Palermo",
         "twq": "Palermo",
         "twq_NE": "Palermo",
@@ -71680,9 +71682,7 @@
         "zh_Hant_MY": "Palermo",
         "zh_Hant_TW": "Palermo",
         "zu": "Palermo",
-        "zu_ZA": "Palermo",
-        "sr@latin": "Palermo",
-        "tt@iqtelif": "Palermo"
+        "zu_ZA": "Palermo"
     },
     "PC": {
         "af": "Piacenza",
@@ -72428,6 +72428,7 @@
         "sq_MK": "Piacenza",
         "sq_XK": "Piacenza",
         "sr": "Пјаћенца",
+        "sr@latin": "Pjaćenca",
         "sr_Cyrl": "Пјаћенца",
         "sr_Cyrl_BA": "Пјаћенца",
         "sr_Cyrl_ME": "Пјаћенца",
@@ -72488,6 +72489,7 @@
         "tr_CY": "Piacenza",
         "tr_TR": "Piacenza",
         "tt": "Piacenza",
+        "tt@iqtelif": "Piacenza",
         "tt_RU": "Piacenza",
         "twq": "Piacenza",
         "twq_NE": "Piacenza",
@@ -72565,9 +72567,7 @@
         "zh_Hant_MY": "Piacenza",
         "zh_Hant_TW": "Piacenza",
         "zu": "Piacenza",
-        "zu_ZA": "Piacenza",
-        "sr@latin": "Pjaćenca",
-        "tt@iqtelif": "Piacenza"
+        "zu_ZA": "Piacenza"
     },
     "PD": {
         "af": "Padova",
@@ -73313,6 +73313,7 @@
         "sq_MK": "Padova",
         "sq_XK": "Padova",
         "sr": "Падова",
+        "sr@latin": "Padova",
         "sr_Cyrl": "Падова",
         "sr_Cyrl_BA": "Падова",
         "sr_Cyrl_ME": "Падова",
@@ -73373,6 +73374,7 @@
         "tr_CY": "Padova",
         "tr_TR": "Padova",
         "tt": "Padova",
+        "tt@iqtelif": "Padova",
         "tt_RU": "Padova",
         "twq": "Padova",
         "twq_NE": "Padova",
@@ -73450,9 +73452,7 @@
         "zh_Hant_MY": "Padova",
         "zh_Hant_TW": "Padova",
         "zu": "Padova",
-        "zu_ZA": "Padova",
-        "sr@latin": "Padova",
-        "tt@iqtelif": "Padova"
+        "zu_ZA": "Padova"
     },
     "PE": {
         "af": "Pescara",
@@ -74198,6 +74198,7 @@
         "sq_MK": "Pescara",
         "sq_XK": "Pescara",
         "sr": "Пескара",
+        "sr@latin": "Peskara",
         "sr_Cyrl": "Пескара",
         "sr_Cyrl_BA": "Пескара",
         "sr_Cyrl_ME": "Пескара",
@@ -74258,6 +74259,7 @@
         "tr_CY": "Pescara",
         "tr_TR": "Pescara",
         "tt": "Pescara",
+        "tt@iqtelif": "Pescara",
         "tt_RU": "Pescara",
         "twq": "Pescara",
         "twq_NE": "Pescara",
@@ -74335,9 +74337,7 @@
         "zh_Hant_MY": "Pescara",
         "zh_Hant_TW": "Pescara",
         "zu": "Pescara",
-        "zu_ZA": "Pescara",
-        "sr@latin": "Peskara",
-        "tt@iqtelif": "Pescara"
+        "zu_ZA": "Pescara"
     },
     "PG": {
         "af": "Perugia",
@@ -75083,6 +75083,7 @@
         "sq_MK": "Perugia",
         "sq_XK": "Perugia",
         "sr": "Перуђа",
+        "sr@latin": "Peruđa",
         "sr_Cyrl": "Перуђа",
         "sr_Cyrl_BA": "Перуђа",
         "sr_Cyrl_ME": "Перуђа",
@@ -75143,6 +75144,7 @@
         "tr_CY": "Perugia",
         "tr_TR": "Perugia",
         "tt": "Perugia",
+        "tt@iqtelif": "Perugia",
         "tt_RU": "Perugia",
         "twq": "Perugia",
         "twq_NE": "Perugia",
@@ -75220,9 +75222,7 @@
         "zh_Hant_MY": "Perugia",
         "zh_Hant_TW": "Perugia",
         "zu": "Perugia",
-        "zu_ZA": "Perugia",
-        "sr@latin": "Peruđa",
-        "tt@iqtelif": "Perugia"
+        "zu_ZA": "Perugia"
     },
     "PI": {
         "af": "Pisa",
@@ -75968,6 +75968,7 @@
         "sq_MK": "Pisa",
         "sq_XK": "Pisa",
         "sr": "Пиза",
+        "sr@latin": "Piza",
         "sr_Cyrl": "Пиза",
         "sr_Cyrl_BA": "Пиза",
         "sr_Cyrl_ME": "Пиза",
@@ -76028,6 +76029,7 @@
         "tr_CY": "Pisa",
         "tr_TR": "Pisa",
         "tt": "Pisa",
+        "tt@iqtelif": "Pisa",
         "tt_RU": "Pisa",
         "twq": "Pisa",
         "twq_NE": "Pisa",
@@ -76105,9 +76107,7 @@
         "zh_Hant_MY": "Pisa",
         "zh_Hant_TW": "Pisa",
         "zu": "Pisa",
-        "zu_ZA": "Pisa",
-        "sr@latin": "Piza",
-        "tt@iqtelif": "Pisa"
+        "zu_ZA": "Pisa"
     },
     "PN": {
         "af": "Pordenone",
@@ -76853,6 +76853,7 @@
         "sq_MK": "Pordenone",
         "sq_XK": "Pordenone",
         "sr": "Порденоне",
+        "sr@latin": "Pordenone",
         "sr_Cyrl": "Порденоне",
         "sr_Cyrl_BA": "Порденоне",
         "sr_Cyrl_ME": "Порденоне",
@@ -76913,6 +76914,7 @@
         "tr_CY": "Pordenone",
         "tr_TR": "Pordenone",
         "tt": "Pordenone",
+        "tt@iqtelif": "Pordenone",
         "tt_RU": "Pordenone",
         "twq": "Pordenone",
         "twq_NE": "Pordenone",
@@ -76990,9 +76992,7 @@
         "zh_Hant_MY": "Pordenone",
         "zh_Hant_TW": "Pordenone",
         "zu": "Pordenone",
-        "zu_ZA": "Pordenone",
-        "sr@latin": "Pordenone",
-        "tt@iqtelif": "Pordenone"
+        "zu_ZA": "Pordenone"
     },
     "PO": {
         "af": "Prato",
@@ -77738,6 +77738,7 @@
         "sq_MK": "Prato",
         "sq_XK": "Prato",
         "sr": "Прато",
+        "sr@latin": "Prato",
         "sr_Cyrl": "Прато",
         "sr_Cyrl_BA": "Прато",
         "sr_Cyrl_ME": "Прато",
@@ -77798,6 +77799,7 @@
         "tr_CY": "Prato",
         "tr_TR": "Prato",
         "tt": "Prato",
+        "tt@iqtelif": "Prato",
         "tt_RU": "Prato",
         "twq": "Prato",
         "twq_NE": "Prato",
@@ -77875,9 +77877,7 @@
         "zh_Hant_MY": "Prato",
         "zh_Hant_TW": "Prato",
         "zu": "Prato",
-        "zu_ZA": "Prato",
-        "sr@latin": "Prato",
-        "tt@iqtelif": "Prato"
+        "zu_ZA": "Prato"
     },
     "PR": {
         "af": "Parma",
@@ -78623,6 +78623,7 @@
         "sq_MK": "Parma",
         "sq_XK": "Parma",
         "sr": "Парма",
+        "sr@latin": "Parma",
         "sr_Cyrl": "Парма",
         "sr_Cyrl_BA": "Парма",
         "sr_Cyrl_ME": "Парма",
@@ -78683,6 +78684,7 @@
         "tr_CY": "Parma",
         "tr_TR": "Parma",
         "tt": "Parma",
+        "tt@iqtelif": "Parma",
         "tt_RU": "Parma",
         "twq": "Parma",
         "twq_NE": "Parma",
@@ -78760,9 +78762,7 @@
         "zh_Hant_MY": "Parma",
         "zh_Hant_TW": "Parma",
         "zu": "Parma",
-        "zu_ZA": "Parma",
-        "sr@latin": "Parma",
-        "tt@iqtelif": "Parma"
+        "zu_ZA": "Parma"
     },
     "PT": {
         "af": "Pistoia",
@@ -79508,6 +79508,7 @@
         "sq_MK": "Pistoia",
         "sq_XK": "Pistoia",
         "sr": "Пистоја",
+        "sr@latin": "Pistoja",
         "sr_Cyrl": "Пистоја",
         "sr_Cyrl_BA": "Пистоја",
         "sr_Cyrl_ME": "Пистоја",
@@ -79568,6 +79569,7 @@
         "tr_CY": "Pistoia",
         "tr_TR": "Pistoia",
         "tt": "Pistoia",
+        "tt@iqtelif": "Pistoia",
         "tt_RU": "Pistoia",
         "twq": "Pistoia",
         "twq_NE": "Pistoia",
@@ -79645,9 +79647,7 @@
         "zh_Hant_MY": "Pistoia",
         "zh_Hant_TW": "Pistoia",
         "zu": "Pistoia",
-        "zu_ZA": "Pistoia",
-        "sr@latin": "Pistoja",
-        "tt@iqtelif": "Pistoia"
+        "zu_ZA": "Pistoia"
     },
     "PU": {
         "af": "Pesaro e Urbino",
@@ -80393,6 +80393,7 @@
         "sq_MK": "Pesaro e Urbino",
         "sq_XK": "Pesaro e Urbino",
         "sr": "Пезаро и Урбино",
+        "sr@latin": "Pezaro i Urbino",
         "sr_Cyrl": "Пезаро и Урбино",
         "sr_Cyrl_BA": "Пезаро и Урбино",
         "sr_Cyrl_ME": "Пезаро и Урбино",
@@ -80453,6 +80454,7 @@
         "tr_CY": "Pesaro e Urbino",
         "tr_TR": "Pesaro e Urbino",
         "tt": "Pesaro e Urbino",
+        "tt@iqtelif": "Pesaro e Urbino",
         "tt_RU": "Pesaro e Urbino",
         "twq": "Pesaro e Urbino",
         "twq_NE": "Pesaro e Urbino",
@@ -80530,9 +80532,7 @@
         "zh_Hant_MY": "Pesaro e Urbino",
         "zh_Hant_TW": "Pesaro e Urbino",
         "zu": "Pesaro e Urbino",
-        "zu_ZA": "Pesaro e Urbino",
-        "sr@latin": "Pezaro i Urbino",
-        "tt@iqtelif": "Pesaro e Urbino"
+        "zu_ZA": "Pesaro e Urbino"
     },
     "PV": {
         "af": "Pavia",
@@ -81278,6 +81278,7 @@
         "sq_MK": "Pavia",
         "sq_XK": "Pavia",
         "sr": "Павија",
+        "sr@latin": "Pavija",
         "sr_Cyrl": "Павија",
         "sr_Cyrl_BA": "Павија",
         "sr_Cyrl_ME": "Павија",
@@ -81338,6 +81339,7 @@
         "tr_CY": "Pavia",
         "tr_TR": "Pavia",
         "tt": "Pavia",
+        "tt@iqtelif": "Pavia",
         "tt_RU": "Pavia",
         "twq": "Pavia",
         "twq_NE": "Pavia",
@@ -81415,9 +81417,7 @@
         "zh_Hant_MY": "Pavia",
         "zh_Hant_TW": "Pavia",
         "zu": "Pavia",
-        "zu_ZA": "Pavia",
-        "sr@latin": "Pavija",
-        "tt@iqtelif": "Pavia"
+        "zu_ZA": "Pavia"
     },
     "PZ": {
         "af": "Potenza",
@@ -82163,6 +82163,7 @@
         "sq_MK": "Potenza",
         "sq_XK": "Potenza",
         "sr": "Потенца",
+        "sr@latin": "Potenca",
         "sr_Cyrl": "Потенца",
         "sr_Cyrl_BA": "Потенца",
         "sr_Cyrl_ME": "Потенца",
@@ -82223,6 +82224,7 @@
         "tr_CY": "Potenza",
         "tr_TR": "Potenza",
         "tt": "Potenza",
+        "tt@iqtelif": "Potenza",
         "tt_RU": "Potenza",
         "twq": "Potenza",
         "twq_NE": "Potenza",
@@ -82300,9 +82302,7 @@
         "zh_Hant_MY": "Potenza",
         "zh_Hant_TW": "Potenza",
         "zu": "Potenza",
-        "zu_ZA": "Potenza",
-        "sr@latin": "Potenca",
-        "tt@iqtelif": "Potenza"
+        "zu_ZA": "Potenza"
     },
     "RA": {
         "af": "Ravenna",
@@ -83048,6 +83048,7 @@
         "sq_MK": "Ravenna",
         "sq_XK": "Ravenna",
         "sr": "Равена",
+        "sr@latin": "Ravena",
         "sr_Cyrl": "Равена",
         "sr_Cyrl_BA": "Равена",
         "sr_Cyrl_ME": "Равена",
@@ -83108,6 +83109,7 @@
         "tr_CY": "Ravenna",
         "tr_TR": "Ravenna",
         "tt": "Ravenna",
+        "tt@iqtelif": "Ravenna",
         "tt_RU": "Ravenna",
         "twq": "Ravenna",
         "twq_NE": "Ravenna",
@@ -83185,9 +83187,7 @@
         "zh_Hant_MY": "Ravenna",
         "zh_Hant_TW": "Ravenna",
         "zu": "Ravenna",
-        "zu_ZA": "Ravenna",
-        "sr@latin": "Ravena",
-        "tt@iqtelif": "Ravenna"
+        "zu_ZA": "Ravenna"
     },
     "RC": {
         "af": "Reggio Calabria",
@@ -83933,6 +83933,7 @@
         "sq_MK": "Reggio Calabria",
         "sq_XK": "Reggio Calabria",
         "sr": "Ређо Калабрија",
+        "sr@latin": "Ređo Kalabrija",
         "sr_Cyrl": "Ређо Калабрија",
         "sr_Cyrl_BA": "Ређо Калабрија",
         "sr_Cyrl_ME": "Ређо Калабрија",
@@ -83993,6 +83994,7 @@
         "tr_CY": "Reggio Calabria",
         "tr_TR": "Reggio Calabria",
         "tt": "Reggio Calabria",
+        "tt@iqtelif": "Reggio Calabria",
         "tt_RU": "Reggio Calabria",
         "twq": "Reggio Calabria",
         "twq_NE": "Reggio Calabria",
@@ -84070,9 +84072,7 @@
         "zh_Hant_MY": "Reggio Calabria",
         "zh_Hant_TW": "Reggio Calabria",
         "zu": "Reggio Calabria",
-        "zu_ZA": "Reggio Calabria",
-        "sr@latin": "Ređo Kalabrija",
-        "tt@iqtelif": "Reggio Calabria"
+        "zu_ZA": "Reggio Calabria"
     },
     "RE": {
         "af": "Reggio Emilia",
@@ -84818,6 +84818,7 @@
         "sq_MK": "Reggio Emilia",
         "sq_XK": "Reggio Emilia",
         "sr": "Ређо Емилија",
+        "sr@latin": "Ređo Emilija",
         "sr_Cyrl": "Ређо Емилија",
         "sr_Cyrl_BA": "Ређо Емилија",
         "sr_Cyrl_ME": "Ређо Емилија",
@@ -84878,6 +84879,7 @@
         "tr_CY": "Reggio Emilia",
         "tr_TR": "Reggio Emilia",
         "tt": "Reggio Emilia",
+        "tt@iqtelif": "Reggio Emilia",
         "tt_RU": "Reggio Emilia",
         "twq": "Reggio Emilia",
         "twq_NE": "Reggio Emilia",
@@ -84955,9 +84957,7 @@
         "zh_Hant_MY": "Reggio Emilia",
         "zh_Hant_TW": "Reggio Emilia",
         "zu": "Reggio Emilia",
-        "zu_ZA": "Reggio Emilia",
-        "sr@latin": "Ređo Emilija",
-        "tt@iqtelif": "Reggio Emilia"
+        "zu_ZA": "Reggio Emilia"
     },
     "RG": {
         "af": "Ragusa",
@@ -85703,6 +85703,7 @@
         "sq_MK": "Ragusa",
         "sq_XK": "Ragusa",
         "sr": "Рагуза",
+        "sr@latin": "Raguza",
         "sr_Cyrl": "Рагуза",
         "sr_Cyrl_BA": "Рагуза",
         "sr_Cyrl_ME": "Рагуза",
@@ -85763,6 +85764,7 @@
         "tr_CY": "Ragusa",
         "tr_TR": "Ragusa",
         "tt": "Ragusa",
+        "tt@iqtelif": "Ragusa",
         "tt_RU": "Ragusa",
         "twq": "Ragusa",
         "twq_NE": "Ragusa",
@@ -85840,9 +85842,7 @@
         "zh_Hant_MY": "Ragusa",
         "zh_Hant_TW": "Ragusa",
         "zu": "Ragusa",
-        "zu_ZA": "Ragusa",
-        "sr@latin": "Raguza",
-        "tt@iqtelif": "Ragusa"
+        "zu_ZA": "Ragusa"
     },
     "RI": {
         "af": "Rieti",
@@ -86588,6 +86588,7 @@
         "sq_MK": "Rieti",
         "sq_XK": "Rieti",
         "sr": "Риети",
+        "sr@latin": "Rieti",
         "sr_Cyrl": "Риети",
         "sr_Cyrl_BA": "Риети",
         "sr_Cyrl_ME": "Риети",
@@ -86648,6 +86649,7 @@
         "tr_CY": "Rieti",
         "tr_TR": "Rieti",
         "tt": "Rieti",
+        "tt@iqtelif": "Rieti",
         "tt_RU": "Rieti",
         "twq": "Rieti",
         "twq_NE": "Rieti",
@@ -86725,9 +86727,7 @@
         "zh_Hant_MY": "Rieti",
         "zh_Hant_TW": "Rieti",
         "zu": "Rieti",
-        "zu_ZA": "Rieti",
-        "sr@latin": "Rieti",
-        "tt@iqtelif": "Rieti"
+        "zu_ZA": "Rieti"
     },
     "RM": {
         "af": "Roma",
@@ -87473,6 +87473,7 @@
         "sq_MK": "Roma",
         "sq_XK": "Roma",
         "sr": "Рим",
+        "sr@latin": "Rim",
         "sr_Cyrl": "Рим",
         "sr_Cyrl_BA": "Рим",
         "sr_Cyrl_ME": "Рим",
@@ -87533,6 +87534,7 @@
         "tr_CY": "Roma",
         "tr_TR": "Roma",
         "tt": "Roma",
+        "tt@iqtelif": "Roma",
         "tt_RU": "Roma",
         "twq": "Roma",
         "twq_NE": "Roma",
@@ -87610,9 +87612,7 @@
         "zh_Hant_MY": "Roma",
         "zh_Hant_TW": "Roma",
         "zu": "Roma",
-        "zu_ZA": "Roma",
-        "sr@latin": "Rim",
-        "tt@iqtelif": "Roma"
+        "zu_ZA": "Roma"
     },
     "RN": {
         "af": "Rimini",
@@ -88358,6 +88358,7 @@
         "sq_MK": "Rimini",
         "sq_XK": "Rimini",
         "sr": "Римини",
+        "sr@latin": "Rimini",
         "sr_Cyrl": "Римини",
         "sr_Cyrl_BA": "Римини",
         "sr_Cyrl_ME": "Римини",
@@ -88418,6 +88419,7 @@
         "tr_CY": "Rimini",
         "tr_TR": "Rimini",
         "tt": "Rimini",
+        "tt@iqtelif": "Rimini",
         "tt_RU": "Rimini",
         "twq": "Rimini",
         "twq_NE": "Rimini",
@@ -88495,9 +88497,7 @@
         "zh_Hant_MY": "Rimini",
         "zh_Hant_TW": "Rimini",
         "zu": "Rimini",
-        "zu_ZA": "Rimini",
-        "sr@latin": "Rimini",
-        "tt@iqtelif": "Rimini"
+        "zu_ZA": "Rimini"
     },
     "RO": {
         "af": "Rovigo",
@@ -89243,6 +89243,7 @@
         "sq_MK": "Rovigo",
         "sq_XK": "Rovigo",
         "sr": "Ровиго",
+        "sr@latin": "Rovigo",
         "sr_Cyrl": "Ровиго",
         "sr_Cyrl_BA": "Ровиго",
         "sr_Cyrl_ME": "Ровиго",
@@ -89303,6 +89304,7 @@
         "tr_CY": "Rovigo",
         "tr_TR": "Rovigo",
         "tt": "Rovigo",
+        "tt@iqtelif": "Rovigo",
         "tt_RU": "Rovigo",
         "twq": "Rovigo",
         "twq_NE": "Rovigo",
@@ -89380,9 +89382,7 @@
         "zh_Hant_MY": "Rovigo",
         "zh_Hant_TW": "Rovigo",
         "zu": "Rovigo",
-        "zu_ZA": "Rovigo",
-        "sr@latin": "Rovigo",
-        "tt@iqtelif": "Rovigo"
+        "zu_ZA": "Rovigo"
     },
     "SA": {
         "af": "Salerno",
@@ -90128,6 +90128,7 @@
         "sq_MK": "Salerno",
         "sq_XK": "Salerno",
         "sr": "Салерно",
+        "sr@latin": "Salerno",
         "sr_Cyrl": "Салерно",
         "sr_Cyrl_BA": "Салерно",
         "sr_Cyrl_ME": "Салерно",
@@ -90188,6 +90189,7 @@
         "tr_CY": "Salerno",
         "tr_TR": "Salerno",
         "tt": "Salerno",
+        "tt@iqtelif": "Salerno",
         "tt_RU": "Salerno",
         "twq": "Salerno",
         "twq_NE": "Salerno",
@@ -90265,9 +90267,7 @@
         "zh_Hant_MY": "Salerno",
         "zh_Hant_TW": "Salerno",
         "zu": "Salerno",
-        "zu_ZA": "Salerno",
-        "sr@latin": "Salerno",
-        "tt@iqtelif": "Salerno"
+        "zu_ZA": "Salerno"
     },
     "SI": {
         "af": "Siena",
@@ -91013,6 +91013,7 @@
         "sq_MK": "Siena",
         "sq_XK": "Siena",
         "sr": "Сјена",
+        "sr@latin": "Sjena",
         "sr_Cyrl": "Сјена",
         "sr_Cyrl_BA": "Сјена",
         "sr_Cyrl_ME": "Сјена",
@@ -91073,6 +91074,7 @@
         "tr_CY": "Siena",
         "tr_TR": "Siena",
         "tt": "Siena",
+        "tt@iqtelif": "Siena",
         "tt_RU": "Siena",
         "twq": "Siena",
         "twq_NE": "Siena",
@@ -91150,9 +91152,7 @@
         "zh_Hant_MY": "Siena",
         "zh_Hant_TW": "Siena",
         "zu": "Siena",
-        "zu_ZA": "Siena",
-        "sr@latin": "Sjena",
-        "tt@iqtelif": "Siena"
+        "zu_ZA": "Siena"
     },
     "SO": {
         "af": "Sondrio",
@@ -91898,6 +91898,7 @@
         "sq_MK": "Sondrio",
         "sq_XK": "Sondrio",
         "sr": "Сондрио",
+        "sr@latin": "Sondrio",
         "sr_Cyrl": "Сондрио",
         "sr_Cyrl_BA": "Сондрио",
         "sr_Cyrl_ME": "Сондрио",
@@ -91958,6 +91959,7 @@
         "tr_CY": "Sondrio",
         "tr_TR": "Sondrio",
         "tt": "Sondrio",
+        "tt@iqtelif": "Sondrio",
         "tt_RU": "Sondrio",
         "twq": "Sondrio",
         "twq_NE": "Sondrio",
@@ -92035,9 +92037,7 @@
         "zh_Hant_MY": "Sondrio",
         "zh_Hant_TW": "Sondrio",
         "zu": "Sondrio",
-        "zu_ZA": "Sondrio",
-        "sr@latin": "Sondrio",
-        "tt@iqtelif": "Sondrio"
+        "zu_ZA": "Sondrio"
     },
     "SP": {
         "af": "La Spezia",
@@ -92783,6 +92783,7 @@
         "sq_MK": "La Spezia",
         "sq_XK": "La Spezia",
         "sr": "Ла Специја",
+        "sr@latin": "La Specija",
         "sr_Cyrl": "Ла Специја",
         "sr_Cyrl_BA": "Ла Специја",
         "sr_Cyrl_ME": "Ла Специја",
@@ -92843,6 +92844,7 @@
         "tr_CY": "La Spezia",
         "tr_TR": "La Spezia",
         "tt": "La Spezia",
+        "tt@iqtelif": "La Spezia",
         "tt_RU": "La Spezia",
         "twq": "La Spezia",
         "twq_NE": "La Spezia",
@@ -92920,9 +92922,7 @@
         "zh_Hant_MY": "La Spezia",
         "zh_Hant_TW": "La Spezia",
         "zu": "La Spezia",
-        "zu_ZA": "La Spezia",
-        "sr@latin": "La Specija",
-        "tt@iqtelif": "La Spezia"
+        "zu_ZA": "La Spezia"
     },
     "SR": {
         "af": "Siracusa",
@@ -93668,6 +93668,7 @@
         "sq_MK": "Siracusa",
         "sq_XK": "Siracusa",
         "sr": "Сиракуза",
+        "sr@latin": "Sirakuza",
         "sr_Cyrl": "Сиракуза",
         "sr_Cyrl_BA": "Сиракуза",
         "sr_Cyrl_ME": "Сиракуза",
@@ -93728,6 +93729,7 @@
         "tr_CY": "Siracusa",
         "tr_TR": "Siracusa",
         "tt": "Siracusa",
+        "tt@iqtelif": "Siracusa",
         "tt_RU": "Siracusa",
         "twq": "Siracusa",
         "twq_NE": "Siracusa",
@@ -93805,9 +93807,7 @@
         "zh_Hant_MY": "Siracusa",
         "zh_Hant_TW": "Siracusa",
         "zu": "Siracusa",
-        "zu_ZA": "Siracusa",
-        "sr@latin": "Sirakuza",
-        "tt@iqtelif": "Siracusa"
+        "zu_ZA": "Siracusa"
     },
     "SS": {
         "af": "Sassari",
@@ -94553,6 +94553,7 @@
         "sq_MK": "Sassari",
         "sq_XK": "Sassari",
         "sr": "Сасари",
+        "sr@latin": "Sasari",
         "sr_Cyrl": "Сасари",
         "sr_Cyrl_BA": "Сасари",
         "sr_Cyrl_ME": "Сасари",
@@ -94613,6 +94614,7 @@
         "tr_CY": "Sassari",
         "tr_TR": "Sassari",
         "tt": "Sassari",
+        "tt@iqtelif": "Sassari",
         "tt_RU": "Sassari",
         "twq": "Sassari",
         "twq_NE": "Sassari",
@@ -94690,9 +94692,7 @@
         "zh_Hant_MY": "Sassari",
         "zh_Hant_TW": "Sassari",
         "zu": "Sassari",
-        "zu_ZA": "Sassari",
-        "sr@latin": "Sasari",
-        "tt@iqtelif": "Sassari"
+        "zu_ZA": "Sassari"
     },
     "SU": {
         "af": "Sud Sardegna",
@@ -95438,6 +95438,7 @@
         "sq_MK": "Sud Sardegna",
         "sq_XK": "Sud Sardegna",
         "sr": "Sud Sardegna",
+        "sr@latin": "Sud Sardegna",
         "sr_Cyrl": "Sud Sardegna",
         "sr_Cyrl_BA": "Sud Sardegna",
         "sr_Cyrl_ME": "Sud Sardegna",
@@ -95498,6 +95499,7 @@
         "tr_CY": "Sud Sardegna",
         "tr_TR": "Sud Sardegna",
         "tt": "Sud Sardegna",
+        "tt@iqtelif": "Sud Sardegna",
         "tt_RU": "Sud Sardegna",
         "twq": "Sud Sardegna",
         "twq_NE": "Sud Sardegna",
@@ -95575,9 +95577,7 @@
         "zh_Hant_MY": "Sud Sardegna",
         "zh_Hant_TW": "Sud Sardegna",
         "zu": "Sud Sardegna",
-        "zu_ZA": "Sud Sardegna",
-        "sr@latin": "Sud Sardegna",
-        "tt@iqtelif": "Sud Sardegna"
+        "zu_ZA": "Sud Sardegna"
     },
     "SV": {
         "af": "Savona",
@@ -96323,6 +96323,7 @@
         "sq_MK": "Savona",
         "sq_XK": "Savona",
         "sr": "Савона",
+        "sr@latin": "Savona",
         "sr_Cyrl": "Савона",
         "sr_Cyrl_BA": "Савона",
         "sr_Cyrl_ME": "Савона",
@@ -96383,6 +96384,7 @@
         "tr_CY": "Savona",
         "tr_TR": "Savona",
         "tt": "Savona",
+        "tt@iqtelif": "Savona",
         "tt_RU": "Savona",
         "twq": "Savona",
         "twq_NE": "Savona",
@@ -96460,9 +96462,7 @@
         "zh_Hant_MY": "Savona",
         "zh_Hant_TW": "Savona",
         "zu": "Savona",
-        "zu_ZA": "Savona",
-        "sr@latin": "Savona",
-        "tt@iqtelif": "Savona"
+        "zu_ZA": "Savona"
     },
     "TA": {
         "af": "Taranto",
@@ -97208,6 +97208,7 @@
         "sq_MK": "Taranto",
         "sq_XK": "Taranto",
         "sr": "Таранто",
+        "sr@latin": "Taranto",
         "sr_Cyrl": "Таранто",
         "sr_Cyrl_BA": "Таранто",
         "sr_Cyrl_ME": "Таранто",
@@ -97268,6 +97269,7 @@
         "tr_CY": "Taranto",
         "tr_TR": "Taranto",
         "tt": "Taranto",
+        "tt@iqtelif": "Taranto",
         "tt_RU": "Taranto",
         "twq": "Taranto",
         "twq_NE": "Taranto",
@@ -97345,9 +97347,7 @@
         "zh_Hant_MY": "Taranto",
         "zh_Hant_TW": "Taranto",
         "zu": "Taranto",
-        "zu_ZA": "Taranto",
-        "sr@latin": "Taranto",
-        "tt@iqtelif": "Taranto"
+        "zu_ZA": "Taranto"
     },
     "TE": {
         "af": "Teramo",
@@ -98093,6 +98093,7 @@
         "sq_MK": "Teramo",
         "sq_XK": "Teramo",
         "sr": "Терамо",
+        "sr@latin": "Teramo",
         "sr_Cyrl": "Терамо",
         "sr_Cyrl_BA": "Терамо",
         "sr_Cyrl_ME": "Терамо",
@@ -98153,6 +98154,7 @@
         "tr_CY": "Teramo",
         "tr_TR": "Teramo",
         "tt": "Teramo",
+        "tt@iqtelif": "Teramo",
         "tt_RU": "Teramo",
         "twq": "Teramo",
         "twq_NE": "Teramo",
@@ -98230,9 +98232,7 @@
         "zh_Hant_MY": "Teramo",
         "zh_Hant_TW": "Teramo",
         "zu": "Teramo",
-        "zu_ZA": "Teramo",
-        "sr@latin": "Teramo",
-        "tt@iqtelif": "Teramo"
+        "zu_ZA": "Teramo"
     },
     "TN": {
         "af": "Trento",
@@ -98978,6 +98978,7 @@
         "sq_MK": "Trento",
         "sq_XK": "Trento",
         "sr": "Тренто",
+        "sr@latin": "Trento",
         "sr_Cyrl": "Тренто",
         "sr_Cyrl_BA": "Тренто",
         "sr_Cyrl_ME": "Тренто",
@@ -99038,6 +99039,7 @@
         "tr_CY": "Trento",
         "tr_TR": "Trento",
         "tt": "Trento",
+        "tt@iqtelif": "Trento",
         "tt_RU": "Trento",
         "twq": "Trento",
         "twq_NE": "Trento",
@@ -99115,9 +99117,7 @@
         "zh_Hant_MY": "Trento",
         "zh_Hant_TW": "Trento",
         "zu": "Trento",
-        "zu_ZA": "Trento",
-        "sr@latin": "Trento",
-        "tt@iqtelif": "Trento"
+        "zu_ZA": "Trento"
     },
     "TO": {
         "af": "Torino",
@@ -99863,6 +99863,7 @@
         "sq_MK": "Torino",
         "sq_XK": "Torino",
         "sr": "Торино",
+        "sr@latin": "Torino",
         "sr_Cyrl": "Торино",
         "sr_Cyrl_BA": "Торино",
         "sr_Cyrl_ME": "Торино",
@@ -99923,6 +99924,7 @@
         "tr_CY": "Torino",
         "tr_TR": "Torino",
         "tt": "Torino",
+        "tt@iqtelif": "Torino",
         "tt_RU": "Torino",
         "twq": "Torino",
         "twq_NE": "Torino",
@@ -100000,9 +100002,7 @@
         "zh_Hant_MY": "Torino",
         "zh_Hant_TW": "Torino",
         "zu": "Torino",
-        "zu_ZA": "Torino",
-        "sr@latin": "Torino",
-        "tt@iqtelif": "Torino"
+        "zu_ZA": "Torino"
     },
     "TP": {
         "af": "Trapani",
@@ -100748,6 +100748,7 @@
         "sq_MK": "Trapani",
         "sq_XK": "Trapani",
         "sr": "Трапани",
+        "sr@latin": "Trapani",
         "sr_Cyrl": "Трапани",
         "sr_Cyrl_BA": "Трапани",
         "sr_Cyrl_ME": "Трапани",
@@ -100808,6 +100809,7 @@
         "tr_CY": "Trapani",
         "tr_TR": "Trapani",
         "tt": "Trapani",
+        "tt@iqtelif": "Trapani",
         "tt_RU": "Trapani",
         "twq": "Trapani",
         "twq_NE": "Trapani",
@@ -100885,9 +100887,7 @@
         "zh_Hant_MY": "Trapani",
         "zh_Hant_TW": "Trapani",
         "zu": "Trapani",
-        "zu_ZA": "Trapani",
-        "sr@latin": "Trapani",
-        "tt@iqtelif": "Trapani"
+        "zu_ZA": "Trapani"
     },
     "TR": {
         "af": "Terni",
@@ -101633,6 +101633,7 @@
         "sq_MK": "Terni",
         "sq_XK": "Terni",
         "sr": "Терни",
+        "sr@latin": "Terni",
         "sr_Cyrl": "Терни",
         "sr_Cyrl_BA": "Терни",
         "sr_Cyrl_ME": "Терни",
@@ -101693,6 +101694,7 @@
         "tr_CY": "Terni",
         "tr_TR": "Terni",
         "tt": "Terni",
+        "tt@iqtelif": "Terni",
         "tt_RU": "Terni",
         "twq": "Terni",
         "twq_NE": "Terni",
@@ -101770,9 +101772,7 @@
         "zh_Hant_MY": "Terni",
         "zh_Hant_TW": "Terni",
         "zu": "Terni",
-        "zu_ZA": "Terni",
-        "sr@latin": "Terni",
-        "tt@iqtelif": "Terni"
+        "zu_ZA": "Terni"
     },
     "TS": {
         "af": "Trieste",
@@ -102518,6 +102518,7 @@
         "sq_MK": "Trieste",
         "sq_XK": "Trieste",
         "sr": "Трст",
+        "sr@latin": "Trst",
         "sr_Cyrl": "Трст",
         "sr_Cyrl_BA": "Трст",
         "sr_Cyrl_ME": "Трст",
@@ -102578,6 +102579,7 @@
         "tr_CY": "Trieste",
         "tr_TR": "Trieste",
         "tt": "Trieste",
+        "tt@iqtelif": "Trieste",
         "tt_RU": "Trieste",
         "twq": "Trieste",
         "twq_NE": "Trieste",
@@ -102655,9 +102657,7 @@
         "zh_Hant_MY": "Trieste",
         "zh_Hant_TW": "Trieste",
         "zu": "Trieste",
-        "zu_ZA": "Trieste",
-        "sr@latin": "Trst",
-        "tt@iqtelif": "Trieste"
+        "zu_ZA": "Trieste"
     },
     "TV": {
         "af": "Treviso",
@@ -103403,6 +103403,7 @@
         "sq_MK": "Treviso",
         "sq_XK": "Treviso",
         "sr": "Тревизо",
+        "sr@latin": "Trevizo",
         "sr_Cyrl": "Тревизо",
         "sr_Cyrl_BA": "Тревизо",
         "sr_Cyrl_ME": "Тревизо",
@@ -103463,6 +103464,7 @@
         "tr_CY": "Treviso",
         "tr_TR": "Treviso",
         "tt": "Treviso",
+        "tt@iqtelif": "Treviso",
         "tt_RU": "Treviso",
         "twq": "Treviso",
         "twq_NE": "Treviso",
@@ -103540,9 +103542,7 @@
         "zh_Hant_MY": "Treviso",
         "zh_Hant_TW": "Treviso",
         "zu": "Treviso",
-        "zu_ZA": "Treviso",
-        "sr@latin": "Trevizo",
-        "tt@iqtelif": "Treviso"
+        "zu_ZA": "Treviso"
     },
     "UD": {
         "af": "Udine",
@@ -104288,6 +104288,7 @@
         "sq_MK": "Udine",
         "sq_XK": "Udine",
         "sr": "Удине",
+        "sr@latin": "Udine",
         "sr_Cyrl": "Удине",
         "sr_Cyrl_BA": "Удине",
         "sr_Cyrl_ME": "Удине",
@@ -104348,6 +104349,7 @@
         "tr_CY": "Udine",
         "tr_TR": "Udine",
         "tt": "Udine",
+        "tt@iqtelif": "Udine",
         "tt_RU": "Udine",
         "twq": "Udine",
         "twq_NE": "Udine",
@@ -104425,9 +104427,7 @@
         "zh_Hant_MY": "Udine",
         "zh_Hant_TW": "Udine",
         "zu": "Udine",
-        "zu_ZA": "Udine",
-        "sr@latin": "Udine",
-        "tt@iqtelif": "Udine"
+        "zu_ZA": "Udine"
     },
     "VA": {
         "af": "Varese",
@@ -105173,6 +105173,7 @@
         "sq_MK": "Varese",
         "sq_XK": "Varese",
         "sr": "Варезе",
+        "sr@latin": "Vareze",
         "sr_Cyrl": "Варезе",
         "sr_Cyrl_BA": "Варезе",
         "sr_Cyrl_ME": "Варезе",
@@ -105233,6 +105234,7 @@
         "tr_CY": "Varese",
         "tr_TR": "Varese",
         "tt": "Varese",
+        "tt@iqtelif": "Varese",
         "tt_RU": "Varese",
         "twq": "Varese",
         "twq_NE": "Varese",
@@ -105310,9 +105312,7 @@
         "zh_Hant_MY": "Varese",
         "zh_Hant_TW": "Varese",
         "zu": "Varese",
-        "zu_ZA": "Varese",
-        "sr@latin": "Vareze",
-        "tt@iqtelif": "Varese"
+        "zu_ZA": "Varese"
     },
     "VB": {
         "af": "Verbano-Cusio-Ossola",
@@ -106058,6 +106058,7 @@
         "sq_MK": "Verbano-Cusio-Ossola",
         "sq_XK": "Verbano-Cusio-Ossola",
         "sr": "Вербано-Кузјо-Осола",
+        "sr@latin": "Verbano-Kuzjo-Osola",
         "sr_Cyrl": "Вербано-Кузјо-Осола",
         "sr_Cyrl_BA": "Вербано-Кузјо-Осола",
         "sr_Cyrl_ME": "Вербано-Кузјо-Осола",
@@ -106118,6 +106119,7 @@
         "tr_CY": "Verbano-Cusio-Ossola",
         "tr_TR": "Verbano-Cusio-Ossola",
         "tt": "Verbano-Cusio-Ossola",
+        "tt@iqtelif": "Verbano-Cusio-Ossola",
         "tt_RU": "Verbano-Cusio-Ossola",
         "twq": "Verbano-Cusio-Ossola",
         "twq_NE": "Verbano-Cusio-Ossola",
@@ -106195,9 +106197,7 @@
         "zh_Hant_MY": "Verbano-Cusio-Ossola",
         "zh_Hant_TW": "Verbano-Cusio-Ossola",
         "zu": "Verbano-Cusio-Ossola",
-        "zu_ZA": "Verbano-Cusio-Ossola",
-        "sr@latin": "Verbano-Kuzjo-Osola",
-        "tt@iqtelif": "Verbano-Cusio-Ossola"
+        "zu_ZA": "Verbano-Cusio-Ossola"
     },
     "VC": {
         "af": "Vercelli",
@@ -106943,6 +106943,7 @@
         "sq_MK": "Vercelli",
         "sq_XK": "Vercelli",
         "sr": "Верћели",
+        "sr@latin": "Verćeli",
         "sr_Cyrl": "Верћели",
         "sr_Cyrl_BA": "Верћели",
         "sr_Cyrl_ME": "Верћели",
@@ -107003,6 +107004,7 @@
         "tr_CY": "Vercelli",
         "tr_TR": "Vercelli",
         "tt": "Vercelli",
+        "tt@iqtelif": "Vercelli",
         "tt_RU": "Vercelli",
         "twq": "Vercelli",
         "twq_NE": "Vercelli",
@@ -107080,9 +107082,7 @@
         "zh_Hant_MY": "Vercelli",
         "zh_Hant_TW": "Vercelli",
         "zu": "Vercelli",
-        "zu_ZA": "Vercelli",
-        "sr@latin": "Verćeli",
-        "tt@iqtelif": "Vercelli"
+        "zu_ZA": "Vercelli"
     },
     "VE": {
         "af": "Venezia",
@@ -107828,6 +107828,7 @@
         "sq_MK": "Venezia",
         "sq_XK": "Venezia",
         "sr": "Венеција",
+        "sr@latin": "Venecija",
         "sr_Cyrl": "Венеција",
         "sr_Cyrl_BA": "Венеција",
         "sr_Cyrl_ME": "Венеција",
@@ -107888,6 +107889,7 @@
         "tr_CY": "Venedik",
         "tr_TR": "Venedik",
         "tt": "Venezia",
+        "tt@iqtelif": "Venezia",
         "tt_RU": "Venezia",
         "twq": "Venezia",
         "twq_NE": "Venezia",
@@ -107965,9 +107967,7 @@
         "zh_Hant_MY": "Venezia",
         "zh_Hant_TW": "Venezia",
         "zu": "Venezia",
-        "zu_ZA": "Venezia",
-        "sr@latin": "Venecija",
-        "tt@iqtelif": "Venezia"
+        "zu_ZA": "Venezia"
     },
     "VI": {
         "af": "Vicenza",
@@ -108713,6 +108713,7 @@
         "sq_MK": "Vicenza",
         "sq_XK": "Vicenza",
         "sr": "Вићенца",
+        "sr@latin": "Vićenca",
         "sr_Cyrl": "Вићенца",
         "sr_Cyrl_BA": "Вићенца",
         "sr_Cyrl_ME": "Вићенца",
@@ -108773,6 +108774,7 @@
         "tr_CY": "Vicenza",
         "tr_TR": "Vicenza",
         "tt": "Vicenza",
+        "tt@iqtelif": "Vicenza",
         "tt_RU": "Vicenza",
         "twq": "Vicenza",
         "twq_NE": "Vicenza",
@@ -108850,9 +108852,7 @@
         "zh_Hant_MY": "Vicenza",
         "zh_Hant_TW": "Vicenza",
         "zu": "Vicenza",
-        "zu_ZA": "Vicenza",
-        "sr@latin": "Vićenca",
-        "tt@iqtelif": "Vicenza"
+        "zu_ZA": "Vicenza"
     },
     "VR": {
         "af": "Verona",
@@ -109598,6 +109598,7 @@
         "sq_MK": "Verona",
         "sq_XK": "Verona",
         "sr": "Верона",
+        "sr@latin": "Verona",
         "sr_Cyrl": "Верона",
         "sr_Cyrl_BA": "Верона",
         "sr_Cyrl_ME": "Верона",
@@ -109658,6 +109659,7 @@
         "tr_CY": "Verona",
         "tr_TR": "Verona",
         "tt": "Verona",
+        "tt@iqtelif": "Verona",
         "tt_RU": "Verona",
         "twq": "Verona",
         "twq_NE": "Verona",
@@ -109735,9 +109737,7 @@
         "zh_Hant_MY": "Verona",
         "zh_Hant_TW": "Verona",
         "zu": "Verona",
-        "zu_ZA": "Verona",
-        "sr@latin": "Verona",
-        "tt@iqtelif": "Verona"
+        "zu_ZA": "Verona"
     },
     "VT": {
         "af": "Viterbo",
@@ -110483,6 +110483,7 @@
         "sq_MK": "Viterbo",
         "sq_XK": "Viterbo",
         "sr": "Витербо",
+        "sr@latin": "Viterbo",
         "sr_Cyrl": "Витербо",
         "sr_Cyrl_BA": "Витербо",
         "sr_Cyrl_ME": "Витербо",
@@ -110543,6 +110544,7 @@
         "tr_CY": "Viterbo",
         "tr_TR": "Viterbo",
         "tt": "Viterbo",
+        "tt@iqtelif": "Viterbo",
         "tt_RU": "Viterbo",
         "twq": "Viterbo",
         "twq_NE": "Viterbo",
@@ -110620,9 +110622,7 @@
         "zh_Hant_MY": "Viterbo",
         "zh_Hant_TW": "Viterbo",
         "zu": "Viterbo",
-        "zu_ZA": "Viterbo",
-        "sr@latin": "Viterbo",
-        "tt@iqtelif": "Viterbo"
+        "zu_ZA": "Viterbo"
     },
     "VV": {
         "af": "Vibo Valentia",
@@ -111368,6 +111368,7 @@
         "sq_MK": "Vibo Valentia",
         "sq_XK": "Vibo Valentia",
         "sr": "Вибо Валентија",
+        "sr@latin": "Vibo Valentija",
         "sr_Cyrl": "Вибо Валентија",
         "sr_Cyrl_BA": "Вибо Валентија",
         "sr_Cyrl_ME": "Вибо Валентија",
@@ -111428,6 +111429,7 @@
         "tr_CY": "Vibo Valentia",
         "tr_TR": "Vibo Valentia",
         "tt": "Vibo Valentia",
+        "tt@iqtelif": "Vibo Valentia",
         "tt_RU": "Vibo Valentia",
         "twq": "Vibo Valentia",
         "twq_NE": "Vibo Valentia",
@@ -111505,8 +111507,6 @@
         "zh_Hant_MY": "Vibo Valentia",
         "zh_Hant_TW": "Vibo Valentia",
         "zu": "Vibo Valentia",
-        "zu_ZA": "Vibo Valentia",
-        "sr@latin": "Vibo Valentija",
-        "tt@iqtelif": "Vibo Valentia"
+        "zu_ZA": "Vibo Valentia"
     }
 }

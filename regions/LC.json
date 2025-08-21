@@ -743,6 +743,7 @@
         "sq_MK": "Anse la Raye",
         "sq_XK": "Anse la Raye",
         "sr": "Anse la Raye",
+        "sr@latin": "Anse la Raye",
         "sr_Cyrl": "Anse la Raye",
         "sr_Cyrl_BA": "Anse la Raye",
         "sr_Cyrl_ME": "Anse la Raye",
@@ -803,6 +804,7 @@
         "tr_CY": "Anse la Raye",
         "tr_TR": "Anse la Raye",
         "tt": "Anse la Raye",
+        "tt@iqtelif": "Anse la Raye",
         "tt_RU": "Anse la Raye",
         "twq": "Anse la Raye",
         "twq_NE": "Anse la Raye",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Anse la Raye",
         "zh_Hant_TW": "Anse la Raye",
         "zu": "Anse la Raye",
-        "zu_ZA": "Anse la Raye",
-        "sr@latin": "Anse la Raye",
-        "tt@iqtelif": "Anse la Raye"
+        "zu_ZA": "Anse la Raye"
     },
     "02": {
         "af": "Castries",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Castries",
         "sq_XK": "Castries",
         "sr": "Castries",
+        "sr@latin": "Castries",
         "sr_Cyrl": "Castries",
         "sr_Cyrl_BA": "Castries",
         "sr_Cyrl_ME": "Castries",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Castries",
         "tr_TR": "Castries",
         "tt": "Castries",
+        "tt@iqtelif": "Castries",
         "tt_RU": "Castries",
         "twq": "Castries",
         "twq_NE": "Castries",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Castries",
         "zh_Hant_TW": "Castries",
         "zu": "Castries",
-        "zu_ZA": "Castries",
-        "sr@latin": "Castries",
-        "tt@iqtelif": "Castries"
+        "zu_ZA": "Castries"
     },
     "03": {
         "af": "Choiseul",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Choiseul",
         "sq_XK": "Choiseul",
         "sr": "Шуазел",
+        "sr@latin": "Šuazel",
         "sr_Cyrl": "Шуазел",
         "sr_Cyrl_BA": "Шуазел",
         "sr_Cyrl_ME": "Шуазел",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Choiseul",
         "tr_TR": "Choiseul",
         "tt": "Choiseul",
+        "tt@iqtelif": "Choiseul",
         "tt_RU": "Choiseul",
         "twq": "Choiseul",
         "twq_NE": "Choiseul",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Choiseul",
         "zh_Hant_TW": "Choiseul",
         "zu": "Choiseul",
-        "zu_ZA": "Choiseul",
-        "sr@latin": "Šuazel",
-        "tt@iqtelif": "Choiseul"
+        "zu_ZA": "Choiseul"
     },
     "05": {
         "af": "Dennery",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Dennery",
         "sq_XK": "Dennery",
         "sr": "Dennery",
+        "sr@latin": "Dennery",
         "sr_Cyrl": "Dennery",
         "sr_Cyrl_BA": "Dennery",
         "sr_Cyrl_ME": "Dennery",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Dennery",
         "tr_TR": "Dennery",
         "tt": "Dennery",
+        "tt@iqtelif": "Dennery",
         "tt_RU": "Dennery",
         "twq": "Dennery",
         "twq_NE": "Dennery",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Dennery",
         "zh_Hant_TW": "Dennery",
         "zu": "Dennery",
-        "zu_ZA": "Dennery",
-        "sr@latin": "Dennery",
-        "tt@iqtelif": "Dennery"
+        "zu_ZA": "Dennery"
     },
     "06": {
         "af": "Gros Islet",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Gros Islet",
         "sq_XK": "Gros Islet",
         "sr": "Gros Islet",
+        "sr@latin": "Gros Islet",
         "sr_Cyrl": "Gros Islet",
         "sr_Cyrl_BA": "Gros Islet",
         "sr_Cyrl_ME": "Gros Islet",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Gros Islet",
         "tr_TR": "Gros Islet",
         "tt": "Gros Islet",
+        "tt@iqtelif": "Gros Islet",
         "tt_RU": "Gros Islet",
         "twq": "Gros Islet",
         "twq_NE": "Gros Islet",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Gros Islet",
         "zh_Hant_TW": "Gros Islet",
         "zu": "Gros Islet",
-        "zu_ZA": "Gros Islet",
-        "sr@latin": "Gros Islet",
-        "tt@iqtelif": "Gros Islet"
+        "zu_ZA": "Gros Islet"
     },
     "07": {
         "af": "Laborie",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Laborie",
         "sq_XK": "Laborie",
         "sr": "Laborie",
+        "sr@latin": "Laborie",
         "sr_Cyrl": "Laborie",
         "sr_Cyrl_BA": "Laborie",
         "sr_Cyrl_ME": "Laborie",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Laborie",
         "tr_TR": "Laborie",
         "tt": "Laborie",
+        "tt@iqtelif": "Laborie",
         "tt_RU": "Laborie",
         "twq": "Laborie",
         "twq_NE": "Laborie",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Laborie",
         "zh_Hant_TW": "Laborie",
         "zu": "Laborie",
-        "zu_ZA": "Laborie",
-        "sr@latin": "Laborie",
-        "tt@iqtelif": "Laborie"
+        "zu_ZA": "Laborie"
     },
     "08": {
         "af": "Micoud",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Micoud",
         "sq_XK": "Micoud",
         "sr": "Micoud",
+        "sr@latin": "Micoud",
         "sr_Cyrl": "Micoud",
         "sr_Cyrl_BA": "Micoud",
         "sr_Cyrl_ME": "Micoud",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Micoud",
         "tr_TR": "Micoud",
         "tt": "Micoud",
+        "tt@iqtelif": "Micoud",
         "tt_RU": "Micoud",
         "twq": "Micoud",
         "twq_NE": "Micoud",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Micoud",
         "zh_Hant_TW": "Micoud",
         "zu": "Micoud",
-        "zu_ZA": "Micoud",
-        "sr@latin": "Micoud",
-        "tt@iqtelif": "Micoud"
+        "zu_ZA": "Micoud"
     },
     "10": {
         "af": "Soufrière",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Soufrière",
         "sq_XK": "Soufrière",
         "sr": "Soufrière",
+        "sr@latin": "Soufrière",
         "sr_Cyrl": "Soufrière",
         "sr_Cyrl_BA": "Soufrière",
         "sr_Cyrl_ME": "Soufrière",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Soufrière",
         "tr_TR": "Soufrière",
         "tt": "Soufrière",
+        "tt@iqtelif": "Soufrière",
         "tt_RU": "Soufrière",
         "twq": "Soufrière",
         "twq_NE": "Soufrière",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Soufrière",
         "zh_Hant_TW": "Soufrière",
         "zu": "Soufrière",
-        "zu_ZA": "Soufrière",
-        "sr@latin": "Soufrière",
-        "tt@iqtelif": "Soufrière"
+        "zu_ZA": "Soufrière"
     },
     "11": {
         "af": "Vieux Fort",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Vieux Fort",
         "sq_XK": "Vieux Fort",
         "sr": "Vieux Fort",
+        "sr@latin": "Vieux Fort",
         "sr_Cyrl": "Vieux Fort",
         "sr_Cyrl_BA": "Vieux Fort",
         "sr_Cyrl_ME": "Vieux Fort",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Vieux Fort",
         "tr_TR": "Vieux Fort",
         "tt": "Vieux Fort",
+        "tt@iqtelif": "Vieux Fort",
         "tt_RU": "Vieux Fort",
         "twq": "Vieux Fort",
         "twq_NE": "Vieux Fort",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Vieux Fort",
         "zh_Hant_TW": "Vieux Fort",
         "zu": "Vieux Fort",
-        "zu_ZA": "Vieux Fort",
-        "sr@latin": "Vieux Fort",
-        "tt@iqtelif": "Vieux Fort"
+        "zu_ZA": "Vieux Fort"
     },
     "12": {
         "af": "Canaries",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Canaries",
         "sq_XK": "Canaries",
         "sr": "Canaries",
+        "sr@latin": "Canaries",
         "sr_Cyrl": "Canaries",
         "sr_Cyrl_BA": "Canaries",
         "sr_Cyrl_ME": "Canaries",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Canaries",
         "tr_TR": "Canaries",
         "tt": "Canaries",
+        "tt@iqtelif": "Canaries",
         "tt_RU": "Canaries",
         "twq": "Canaries",
         "twq_NE": "Canaries",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Canaries",
         "zh_Hant_TW": "Canaries",
         "zu": "Canaries",
-        "zu_ZA": "Canaries",
-        "sr@latin": "Canaries",
-        "tt@iqtelif": "Canaries"
+        "zu_ZA": "Canaries"
     }
 }

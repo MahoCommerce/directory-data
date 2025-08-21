@@ -743,6 +743,7 @@
         "sq_MK": "Koshi",
         "sq_XK": "Koshi",
         "sr": "Koshi",
+        "sr@latin": "Koshi",
         "sr_Cyrl": "Koshi",
         "sr_Cyrl_BA": "Koshi",
         "sr_Cyrl_ME": "Koshi",
@@ -803,6 +804,7 @@
         "tr_CY": "Koshi",
         "tr_TR": "Koshi",
         "tt": "Koshi",
+        "tt@iqtelif": "Koshi",
         "tt_RU": "Koshi",
         "twq": "Koshi",
         "twq_NE": "Koshi",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Koshi",
         "zh_Hant_TW": "Koshi",
         "zu": "Koshi",
-        "zu_ZA": "Koshi",
-        "sr@latin": "Koshi",
-        "tt@iqtelif": "Koshi"
+        "zu_ZA": "Koshi"
     },
     "P2": {
         "af": "Madhesh",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Madhesh",
         "sq_XK": "Madhesh",
         "sr": "Madhesh",
+        "sr@latin": "Madhesh",
         "sr_Cyrl": "Madhesh",
         "sr_Cyrl_BA": "Madhesh",
         "sr_Cyrl_ME": "Madhesh",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Madhesh",
         "tr_TR": "Madhesh",
         "tt": "Madhesh",
+        "tt@iqtelif": "Madhesh",
         "tt_RU": "Madhesh",
         "twq": "Madhesh",
         "twq_NE": "Madhesh",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Madhesh",
         "zh_Hant_TW": "Madhesh",
         "zu": "Madhesh",
-        "zu_ZA": "Madhesh",
-        "sr@latin": "Madhesh",
-        "tt@iqtelif": "Madhesh"
+        "zu_ZA": "Madhesh"
     },
     "P3": {
         "af": "Bagmati",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Bagmati",
         "sq_XK": "Bagmati",
         "sr": "Багмати",
+        "sr@latin": "Bagmati",
         "sr_Cyrl": "Багмати",
         "sr_Cyrl_BA": "Багмати",
         "sr_Cyrl_ME": "Багмати",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Bagmati",
         "tr_TR": "Bagmati",
         "tt": "Bagmati",
+        "tt@iqtelif": "Bagmati",
         "tt_RU": "Bagmati",
         "twq": "Bagmati",
         "twq_NE": "Bagmati",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Bagmati",
         "zh_Hant_TW": "Bagmati",
         "zu": "Bagmati",
-        "zu_ZA": "Bagmati",
-        "sr@latin": "Bagmati",
-        "tt@iqtelif": "Bagmati"
+        "zu_ZA": "Bagmati"
     },
     "P4": {
         "af": "Gandaki",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Gandaki",
         "sq_XK": "Gandaki",
         "sr": "Гандаки",
+        "sr@latin": "Gandaki",
         "sr_Cyrl": "Гандаки",
         "sr_Cyrl_BA": "Гандаки",
         "sr_Cyrl_ME": "Гандаки",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Gandaki",
         "tr_TR": "Gandaki",
         "tt": "Gandaki",
+        "tt@iqtelif": "Gandaki",
         "tt_RU": "Gandaki",
         "twq": "Gandaki",
         "twq_NE": "Gandaki",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Gandaki",
         "zh_Hant_TW": "Gandaki",
         "zu": "Gandaki",
-        "zu_ZA": "Gandaki",
-        "sr@latin": "Gandaki",
-        "tt@iqtelif": "Gandaki"
+        "zu_ZA": "Gandaki"
     },
     "P5": {
         "af": "Lumbini",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Lumbini",
         "sq_XK": "Lumbini",
         "sr": "Лумбини",
+        "sr@latin": "Lumbini",
         "sr_Cyrl": "Лумбини",
         "sr_Cyrl_BA": "Лумбини",
         "sr_Cyrl_ME": "Лумбини",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Lumbini",
         "tr_TR": "Lumbini",
         "tt": "Lumbini",
+        "tt@iqtelif": "Lumbini",
         "tt_RU": "Lumbini",
         "twq": "Lumbini",
         "twq_NE": "Lumbini",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Lumbini",
         "zh_Hant_TW": "Lumbini",
         "zu": "Lumbini",
-        "zu_ZA": "Lumbini",
-        "sr@latin": "Lumbini",
-        "tt@iqtelif": "Lumbini"
+        "zu_ZA": "Lumbini"
     },
     "P6": {
         "af": "Karnali",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Karnali",
         "sq_XK": "Karnali",
         "sr": "Карнали",
+        "sr@latin": "Karnali",
         "sr_Cyrl": "Карнали",
         "sr_Cyrl_BA": "Карнали",
         "sr_Cyrl_ME": "Карнали",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Karnali",
         "tr_TR": "Karnali",
         "tt": "Karnali",
+        "tt@iqtelif": "Karnali",
         "tt_RU": "Karnali",
         "twq": "Karnali",
         "twq_NE": "Karnali",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Karnali",
         "zh_Hant_TW": "Karnali",
         "zu": "Karnali",
-        "zu_ZA": "Karnali",
-        "sr@latin": "Karnali",
-        "tt@iqtelif": "Karnali"
+        "zu_ZA": "Karnali"
     },
     "P7": {
         "af": "Sudurpashchim",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Sudurpashchim",
         "sq_XK": "Sudurpashchim",
         "sr": "Sudurpashchim",
+        "sr@latin": "Sudurpashchim",
         "sr_Cyrl": "Sudurpashchim",
         "sr_Cyrl_BA": "Sudurpashchim",
         "sr_Cyrl_ME": "Sudurpashchim",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Sudurpashchim",
         "tr_TR": "Sudurpashchim",
         "tt": "Sudurpashchim",
+        "tt@iqtelif": "Sudurpashchim",
         "tt_RU": "Sudurpashchim",
         "twq": "Sudurpashchim",
         "twq_NE": "Sudurpashchim",
@@ -6190,8 +6192,6 @@
         "zh_Hant_MY": "Sudurpashchim",
         "zh_Hant_TW": "Sudurpashchim",
         "zu": "Sudurpashchim",
-        "zu_ZA": "Sudurpashchim",
-        "sr@latin": "Sudurpashchim",
-        "tt@iqtelif": "Sudurpashchim"
+        "zu_ZA": "Sudurpashchim"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Saint Andrew",
         "sq_XK": "Saint Andrew",
         "sr": "Свети Андреја",
+        "sr@latin": "Sveti Andreja",
         "sr_Cyrl": "Свети Андреја",
         "sr_Cyrl_BA": "Свети Андреја",
         "sr_Cyrl_ME": "Свети Андреја",
@@ -803,6 +804,7 @@
         "tr_CY": "Saint Andrew",
         "tr_TR": "Saint Andrew",
         "tt": "Saint Andrew",
+        "tt@iqtelif": "Saint Andrew",
         "tt_RU": "Saint Andrew",
         "twq": "Saint Andrew",
         "twq_NE": "Saint Andrew",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew",
-        "sr@latin": "Sveti Andreja",
-        "tt@iqtelif": "Saint Andrew"
+        "zu_ZA": "Saint Andrew"
     },
     "02": {
         "af": "Saint David",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint David",
         "sq_XK": "Saint David",
         "sr": "Свети Давид",
+        "sr@latin": "Sveti David",
         "sr_Cyrl": "Свети Давид",
         "sr_Cyrl_BA": "Свети Давид",
         "sr_Cyrl_ME": "Свети Давид",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint David",
         "tr_TR": "Saint David",
         "tt": "Saint David",
+        "tt@iqtelif": "Saint David",
         "tt_RU": "Saint David",
         "twq": "Saint David",
         "twq_NE": "Saint David",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint David",
         "zh_Hant_TW": "Saint David",
         "zu": "Saint David",
-        "zu_ZA": "Saint David",
-        "sr@latin": "Sveti David",
-        "tt@iqtelif": "Saint David"
+        "zu_ZA": "Saint David"
     },
     "03": {
         "af": "Saint George",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint George",
         "sq_XK": "Saint George",
         "sr": "Сент Џорџ",
+        "sr@latin": "Sent Džordž",
         "sr_Cyrl": "Сент Џорџ",
         "sr_Cyrl_BA": "Сент Џорџ",
         "sr_Cyrl_ME": "Сент Џорџ",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint George",
         "tr_TR": "Saint George",
         "tt": "Saint George",
+        "tt@iqtelif": "Saint George",
         "tt_RU": "Saint George",
         "twq": "Saint George",
         "twq_NE": "Saint George",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George",
-        "sr@latin": "Sent Džordž",
-        "tt@iqtelif": "Saint George"
+        "zu_ZA": "Saint George"
     },
     "04": {
         "af": "Saint John",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Saint John",
         "sq_XK": "Saint John",
         "sr": "Сент Џон",
+        "sr@latin": "Sent Džon",
         "sr_Cyrl": "Сент Џон",
         "sr_Cyrl_BA": "Сент Џон",
         "sr_Cyrl_ME": "Сент Џон",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Saint John",
         "tr_TR": "Saint John",
         "tt": "Saint John",
+        "tt@iqtelif": "Saint John",
         "tt_RU": "Saint John",
         "twq": "Saint John",
         "twq_NE": "Saint John",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John",
-        "sr@latin": "Sent Džon",
-        "tt@iqtelif": "Saint John"
+        "zu_ZA": "Saint John"
     },
     "05": {
         "af": "Saint Mark",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint Mark",
         "sq_XK": "Saint Mark",
         "sr": "Свети Марко",
+        "sr@latin": "Sveti Marko",
         "sr_Cyrl": "Свети Марко",
         "sr_Cyrl_BA": "Свети Марко",
         "sr_Cyrl_ME": "Свети Марко",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint Mark",
         "tr_TR": "Saint Mark",
         "tt": "Saint Mark",
+        "tt@iqtelif": "Saint Mark",
         "tt_RU": "Saint Mark",
         "twq": "Saint Mark",
         "twq_NE": "Saint Mark",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint Mark",
         "zh_Hant_TW": "Saint Mark",
         "zu": "Saint Mark",
-        "zu_ZA": "Saint Mark",
-        "sr@latin": "Sveti Marko",
-        "tt@iqtelif": "Saint Mark"
+        "zu_ZA": "Saint Mark"
     },
     "06": {
         "af": "Saint Patrick",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Saint Patrick",
         "sq_XK": "Saint Patrick",
         "sr": "Свети Патрик",
+        "sr@latin": "Sveti Patrik",
         "sr_Cyrl": "Свети Патрик",
         "sr_Cyrl_BA": "Свети Патрик",
         "sr_Cyrl_ME": "Свети Патрик",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Saint Patrick",
         "tr_TR": "Saint Patrick",
         "tt": "Saint Patrick",
+        "tt@iqtelif": "Saint Patrick",
         "tt_RU": "Saint Patrick",
         "twq": "Saint Patrick",
         "twq_NE": "Saint Patrick",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Saint Patrick",
         "zh_Hant_TW": "Saint Patrick",
         "zu": "Saint Patrick",
-        "zu_ZA": "Saint Patrick",
-        "sr@latin": "Sveti Patrik",
-        "tt@iqtelif": "Saint Patrick"
+        "zu_ZA": "Saint Patrick"
     },
     "10": {
         "af": "Southern Grenadine Islands",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Southern Grenadine Islands",
         "sq_XK": "Southern Grenadine Islands",
         "sr": "Јужна Гренадинска острва",
+        "sr@latin": "Južna Grenadinska ostrva",
         "sr_Cyrl": "Јужна Гренадинска острва",
         "sr_Cyrl_BA": "Јужна Гренадинска острва",
         "sr_Cyrl_ME": "Јужна Гренадинска острва",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Güney Grenadine Adaları",
         "tr_TR": "Güney Grenadine Adaları",
         "tt": "Southern Grenadine Islands",
+        "tt@iqtelif": "Southern Grenadine Islands",
         "tt_RU": "Southern Grenadine Islands",
         "twq": "Southern Grenadine Islands",
         "twq_NE": "Southern Grenadine Islands",
@@ -6190,8 +6192,6 @@
         "zh_Hant_MY": "Southern Grenadine Islands",
         "zh_Hant_TW": "Southern Grenadine Islands",
         "zu": "Southern Grenadine Islands",
-        "zu_ZA": "Southern Grenadine Islands",
-        "sr@latin": "Južna Grenadinska ostrva",
-        "tt@iqtelif": "Southern Grenadine Islands"
+        "zu_ZA": "Southern Grenadine Islands"
     }
 }

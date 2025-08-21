@@ -743,6 +743,7 @@
         "sq_MK": "City of Kigali",
         "sq_XK": "City of Kigali",
         "sr": "City of Kigali",
+        "sr@latin": "City of Kigali",
         "sr_Cyrl": "City of Kigali",
         "sr_Cyrl_BA": "City of Kigali",
         "sr_Cyrl_ME": "City of Kigali",
@@ -803,6 +804,7 @@
         "tr_CY": "City of Kigali",
         "tr_TR": "City of Kigali",
         "tt": "City of Kigali",
+        "tt@iqtelif": "City of Kigali",
         "tt_RU": "City of Kigali",
         "twq": "City of Kigali",
         "twq_NE": "City of Kigali",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "City of Kigali",
         "zh_Hant_TW": "City of Kigali",
         "zu": "City of Kigali",
-        "zu_ZA": "City of Kigali",
-        "sr@latin": "City of Kigali",
-        "tt@iqtelif": "City of Kigali"
+        "zu_ZA": "City of Kigali"
     },
     "02": {
         "af": "Eastern",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Eastern",
         "sq_XK": "Eastern",
         "sr": "Eastern",
+        "sr@latin": "Eastern",
         "sr_Cyrl": "Eastern",
         "sr_Cyrl_BA": "Eastern",
         "sr_Cyrl_ME": "Eastern",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Doğu",
         "tr_TR": "Doğu",
         "tt": "Eastern",
+        "tt@iqtelif": "Eastern",
         "tt_RU": "Eastern",
         "twq": "Eastern",
         "twq_NE": "Eastern",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern",
-        "sr@latin": "Eastern",
-        "tt@iqtelif": "Eastern"
+        "zu_ZA": "Eastern"
     },
     "03": {
         "af": "Northern",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Northern",
         "sq_XK": "Northern",
         "sr": "Northern",
+        "sr@latin": "Northern",
         "sr_Cyrl": "Northern",
         "sr_Cyrl_BA": "Northern",
         "sr_Cyrl_ME": "Northern",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Kuzey",
         "tr_TR": "Kuzey",
         "tt": "Northern",
+        "tt@iqtelif": "Northern",
         "tt_RU": "Northern",
         "twq": "Northern",
         "twq_NE": "Northern",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern",
-        "sr@latin": "Northern",
-        "tt@iqtelif": "Northern"
+        "zu_ZA": "Northern"
     },
     "04": {
         "af": "Western",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Western",
         "sq_XK": "Western",
         "sr": "Western",
+        "sr@latin": "Western",
         "sr_Cyrl": "Western",
         "sr_Cyrl_BA": "Western",
         "sr_Cyrl_ME": "Western",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Batı",
         "tr_TR": "Batı",
         "tt": "Western",
+        "tt@iqtelif": "Western",
         "tt_RU": "Western",
         "twq": "Western",
         "twq_NE": "Western",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western",
-        "sr@latin": "Western",
-        "tt@iqtelif": "Western"
+        "zu_ZA": "Western"
     },
     "05": {
         "af": "Southern",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Southern",
         "sq_XK": "Southern",
         "sr": "Саутерн",
+        "sr@latin": "Sautern",
         "sr_Cyrl": "Саутерн",
         "sr_Cyrl_BA": "Саутерн",
         "sr_Cyrl_ME": "Саутерн",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Güney",
         "tr_TR": "Güney",
         "tt": "Southern",
+        "tt@iqtelif": "Southern",
         "tt_RU": "Southern",
         "twq": "Southern",
         "twq_NE": "Southern",
@@ -4420,8 +4422,6 @@
         "zh_Hant_MY": "Southern",
         "zh_Hant_TW": "Southern",
         "zu": "Southern",
-        "zu_ZA": "Southern",
-        "sr@latin": "Sautern",
-        "tt@iqtelif": "Southern"
+        "zu_ZA": "Southern"
     }
 }

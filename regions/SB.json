@@ -743,6 +743,7 @@
         "sq_MK": "Central",
         "sq_XK": "Central",
         "sr": "Централни",
+        "sr@latin": "Centralni",
         "sr_Cyrl": "Централни",
         "sr_Cyrl_BA": "Централни",
         "sr_Cyrl_ME": "Централни",
@@ -803,6 +804,7 @@
         "tr_CY": "Merkezi",
         "tr_TR": "Merkezi",
         "tt": "Central",
+        "tt@iqtelif": "Central",
         "tt_RU": "Central",
         "twq": "Central",
         "twq_NE": "Central",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central",
-        "sr@latin": "Centralni",
-        "tt@iqtelif": "Central"
+        "zu_ZA": "Central"
     },
     "CH": {
         "af": "Choiseul",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Choiseul",
         "sq_XK": "Choiseul",
         "sr": "Шуазел",
+        "sr@latin": "Šuazel",
         "sr_Cyrl": "Шуазел",
         "sr_Cyrl_BA": "Шуазел",
         "sr_Cyrl_ME": "Шуазел",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Choiseul",
         "tr_TR": "Choiseul",
         "tt": "Choiseul",
+        "tt@iqtelif": "Choiseul",
         "tt_RU": "Choiseul",
         "twq": "Choiseul",
         "twq_NE": "Choiseul",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Choiseul",
         "zh_Hant_TW": "Choiseul",
         "zu": "Choiseul",
-        "zu_ZA": "Choiseul",
-        "sr@latin": "Šuazel",
-        "tt@iqtelif": "Choiseul"
+        "zu_ZA": "Choiseul"
     },
     "CT": {
         "af": "Capital Territory (Honiara)",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Capital Territory (Honiara)",
         "sq_XK": "Capital Territory (Honiara)",
         "sr": "Главна територија (Хоњара)",
+        "sr@latin": "Glavna teritorija (Honjara)",
         "sr_Cyrl": "Главна територија (Хоњара)",
         "sr_Cyrl_BA": "Главна територија (Хоњара)",
         "sr_Cyrl_ME": "Главна територија (Хоњара)",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Capital Territory (Honiara)",
         "tr_TR": "Capital Territory (Honiara)",
         "tt": "Capital Territory (Honiara)",
+        "tt@iqtelif": "Capital Territory (Honiara)",
         "tt_RU": "Capital Territory (Honiara)",
         "twq": "Capital Territory (Honiara)",
         "twq_NE": "Capital Territory (Honiara)",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Capital Territory (Honiara)",
         "zh_Hant_TW": "Capital Territory (Honiara)",
         "zu": "Capital Territory (Honiara)",
-        "zu_ZA": "Capital Territory (Honiara)",
-        "sr@latin": "Glavna teritorija (Honjara)",
-        "tt@iqtelif": "Capital Territory (Honiara)"
+        "zu_ZA": "Capital Territory (Honiara)"
     },
     "GU": {
         "af": "Guadalcanal",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Guadalcanal",
         "sq_XK": "Guadalcanal",
         "sr": "Гвадалканал",
+        "sr@latin": "Gvadalkanal",
         "sr_Cyrl": "Гвадалканал",
         "sr_Cyrl_BA": "Гвадалканал",
         "sr_Cyrl_ME": "Гвадалканал",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Guadalcanal",
         "tr_TR": "Guadalcanal",
         "tt": "Guadalcanal",
+        "tt@iqtelif": "Guadalcanal",
         "tt_RU": "Guadalcanal",
         "twq": "Guadalcanal",
         "twq_NE": "Guadalcanal",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Guadalcanal",
         "zh_Hant_TW": "Guadalcanal",
         "zu": "Guadalcanal",
-        "zu_ZA": "Guadalcanal",
-        "sr@latin": "Gvadalkanal",
-        "tt@iqtelif": "Guadalcanal"
+        "zu_ZA": "Guadalcanal"
     },
     "IS": {
         "af": "Isabel",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Isabel",
         "sq_XK": "Isabel",
         "sr": "Изабел",
+        "sr@latin": "Izabel",
         "sr_Cyrl": "Изабел",
         "sr_Cyrl_BA": "Изабел",
         "sr_Cyrl_ME": "Изабел",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Isabel",
         "tr_TR": "Isabel",
         "tt": "Isabel",
+        "tt@iqtelif": "Isabel",
         "tt_RU": "Isabel",
         "twq": "Isabel",
         "twq_NE": "Isabel",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Isabel",
         "zh_Hant_TW": "Isabel",
         "zu": "Isabel",
-        "zu_ZA": "Isabel",
-        "sr@latin": "Izabel",
-        "tt@iqtelif": "Isabel"
+        "zu_ZA": "Isabel"
     },
     "MK": {
         "af": "Makira-Ulawa",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Makira-Ulawa",
         "sq_XK": "Makira-Ulawa",
         "sr": "Makira-Ulawa",
+        "sr@latin": "Makira-Ulawa",
         "sr_Cyrl": "Makira-Ulawa",
         "sr_Cyrl_BA": "Makira-Ulawa",
         "sr_Cyrl_ME": "Makira-Ulawa",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Makira-Ulawa",
         "tr_TR": "Makira-Ulawa",
         "tt": "Makira-Ulawa",
+        "tt@iqtelif": "Makira-Ulawa",
         "tt_RU": "Makira-Ulawa",
         "twq": "Makira-Ulawa",
         "twq_NE": "Makira-Ulawa",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Makira-Ulawa",
         "zh_Hant_TW": "Makira-Ulawa",
         "zu": "Makira-Ulawa",
-        "zu_ZA": "Makira-Ulawa",
-        "sr@latin": "Makira-Ulawa",
-        "tt@iqtelif": "Makira-Ulawa"
+        "zu_ZA": "Makira-Ulawa"
     },
     "ML": {
         "af": "Malaita",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Malaita",
         "sq_XK": "Malaita",
         "sr": "Малаита",
+        "sr@latin": "Malaita",
         "sr_Cyrl": "Малаита",
         "sr_Cyrl_BA": "Малаита",
         "sr_Cyrl_ME": "Малаита",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Malaita",
         "tr_TR": "Malaita",
         "tt": "Malaita",
+        "tt@iqtelif": "Malaita",
         "tt_RU": "Malaita",
         "twq": "Malaita",
         "twq_NE": "Malaita",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Malaita",
         "zh_Hant_TW": "Malaita",
         "zu": "Malaita",
-        "zu_ZA": "Malaita",
-        "sr@latin": "Malaita",
-        "tt@iqtelif": "Malaita"
+        "zu_ZA": "Malaita"
     },
     "RB": {
         "af": "Rennell and Bellona",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Rennell and Bellona",
         "sq_XK": "Rennell and Bellona",
         "sr": "Ренел и Белона",
+        "sr@latin": "Renel i Belona",
         "sr_Cyrl": "Ренел и Белона",
         "sr_Cyrl_BA": "Ренел и Белона",
         "sr_Cyrl_ME": "Ренел и Белона",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Rennell and Bellona",
         "tr_TR": "Rennell and Bellona",
         "tt": "Rennell and Bellona",
+        "tt@iqtelif": "Rennell and Bellona",
         "tt_RU": "Rennell and Bellona",
         "twq": "Rennell and Bellona",
         "twq_NE": "Rennell and Bellona",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Rennell and Bellona",
         "zh_Hant_TW": "Rennell and Bellona",
         "zu": "Rennell and Bellona",
-        "zu_ZA": "Rennell and Bellona",
-        "sr@latin": "Renel i Belona",
-        "tt@iqtelif": "Rennell and Bellona"
+        "zu_ZA": "Rennell and Bellona"
     },
     "TE": {
         "af": "Temotu",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Temotu",
         "sq_XK": "Temotu",
         "sr": "Темоту",
+        "sr@latin": "Temotu",
         "sr_Cyrl": "Темоту",
         "sr_Cyrl_BA": "Темоту",
         "sr_Cyrl_ME": "Темоту",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Temotu",
         "tr_TR": "Temotu",
         "tt": "Temotu",
+        "tt@iqtelif": "Temotu",
         "tt_RU": "Temotu",
         "twq": "Temotu",
         "twq_NE": "Temotu",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Temotu",
         "zh_Hant_TW": "Temotu",
         "zu": "Temotu",
-        "zu_ZA": "Temotu",
-        "sr@latin": "Temotu",
-        "tt@iqtelif": "Temotu"
+        "zu_ZA": "Temotu"
     },
     "WE": {
         "af": "Western",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Western",
         "sq_XK": "Western",
         "sr": "Western",
+        "sr@latin": "Western",
         "sr_Cyrl": "Western",
         "sr_Cyrl_BA": "Western",
         "sr_Cyrl_ME": "Western",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Batı",
         "tr_TR": "Batı",
         "tt": "Western",
+        "tt@iqtelif": "Western",
         "tt_RU": "Western",
         "twq": "Western",
         "twq_NE": "Western",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western",
-        "sr@latin": "Western",
-        "tt@iqtelif": "Western"
+        "zu_ZA": "Western"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Dushanbe",
         "sq_XK": "Dushanbe",
         "sr": "Dushanbe",
+        "sr@latin": "Dushanbe",
         "sr_Cyrl": "Dushanbe",
         "sr_Cyrl_BA": "Dushanbe",
         "sr_Cyrl_ME": "Dushanbe",
@@ -803,6 +804,7 @@
         "tr_CY": "Dushanbe",
         "tr_TR": "Dushanbe",
         "tt": "Dushanbe",
+        "tt@iqtelif": "Dushanbe",
         "tt_RU": "Dushanbe",
         "twq": "Dushanbe",
         "twq_NE": "Dushanbe",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Dushanbe",
         "zh_Hant_TW": "Dushanbe",
         "zu": "Dushanbe",
-        "zu_ZA": "Dushanbe",
-        "sr@latin": "Dushanbe",
-        "tt@iqtelif": "Dushanbe"
+        "zu_ZA": "Dushanbe"
     },
     "GB": {
         "af": "Kŭhistoni Badakhshon",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kŭhistoni Badakhshon",
         "sq_XK": "Kŭhistoni Badakhshon",
         "sr": "Kŭhistoni Badakhshon",
+        "sr@latin": "Kŭhistoni Badakhshon",
         "sr_Cyrl": "Kŭhistoni Badakhshon",
         "sr_Cyrl_BA": "Kŭhistoni Badakhshon",
         "sr_Cyrl_ME": "Kŭhistoni Badakhshon",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kŭhistoni Badakhshon",
         "tr_TR": "Kŭhistoni Badakhshon",
         "tt": "Kŭhistoni Badakhshon",
+        "tt@iqtelif": "Kŭhistoni Badakhshon",
         "tt_RU": "Kŭhistoni Badakhshon",
         "twq": "Kŭhistoni Badakhshon",
         "twq_NE": "Kŭhistoni Badakhshon",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kŭhistoni Badakhshon",
         "zh_Hant_TW": "Kŭhistoni Badakhshon",
         "zu": "Kŭhistoni Badakhshon",
-        "zu_ZA": "Kŭhistoni Badakhshon",
-        "sr@latin": "Kŭhistoni Badakhshon",
-        "tt@iqtelif": "Kŭhistoni Badakhshon"
+        "zu_ZA": "Kŭhistoni Badakhshon"
     },
     "KT": {
         "af": "Khatlon",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Khatlon",
         "sq_XK": "Khatlon",
         "sr": "Катлон",
+        "sr@latin": "Katlon",
         "sr_Cyrl": "Катлон",
         "sr_Cyrl_BA": "Катлон",
         "sr_Cyrl_ME": "Катлон",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Khatlon",
         "tr_TR": "Khatlon",
         "tt": "Khatlon",
+        "tt@iqtelif": "Khatlon",
         "tt_RU": "Khatlon",
         "twq": "Khatlon",
         "twq_NE": "Khatlon",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Khatlon",
         "zh_Hant_TW": "Khatlon",
         "zu": "Khatlon",
-        "zu_ZA": "Khatlon",
-        "sr@latin": "Katlon",
-        "tt@iqtelif": "Khatlon"
+        "zu_ZA": "Khatlon"
     },
     "RA": {
         "af": "nohiyahoi tobei jumhurí",
@@ -3398,6 +3398,7 @@
         "sq_MK": "nohiyahoi tobei jumhurí",
         "sq_XK": "nohiyahoi tobei jumhurí",
         "sr": "nohiyahoi tobei jumhurí",
+        "sr@latin": "nohiyahoi tobei jumhurí",
         "sr_Cyrl": "nohiyahoi tobei jumhurí",
         "sr_Cyrl_BA": "nohiyahoi tobei jumhurí",
         "sr_Cyrl_ME": "nohiyahoi tobei jumhurí",
@@ -3458,6 +3459,7 @@
         "tr_CY": "nohiyahoi tobei jumhurí",
         "tr_TR": "nohiyahoi tobei jumhurí",
         "tt": "nohiyahoi tobei jumhurí",
+        "tt@iqtelif": "nohiyahoi tobei jumhurí",
         "tt_RU": "nohiyahoi tobei jumhurí",
         "twq": "nohiyahoi tobei jumhurí",
         "twq_NE": "nohiyahoi tobei jumhurí",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "nohiyahoi tobei jumhurí",
         "zh_Hant_TW": "nohiyahoi tobei jumhurí",
         "zu": "nohiyahoi tobei jumhurí",
-        "zu_ZA": "nohiyahoi tobei jumhurí",
-        "sr@latin": "nohiyahoi tobei jumhurí",
-        "tt@iqtelif": "nohiyahoi tobei jumhurí"
+        "zu_ZA": "nohiyahoi tobei jumhurí"
     },
     "SU": {
         "af": "Sughd",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Sughd",
         "sq_XK": "Sughd",
         "sr": "Sughd",
+        "sr@latin": "Sughd",
         "sr_Cyrl": "Sughd",
         "sr_Cyrl_BA": "Sughd",
         "sr_Cyrl_ME": "Sughd",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Sughd",
         "tr_TR": "Sughd",
         "tt": "Sughd",
+        "tt@iqtelif": "Sughd",
         "tt_RU": "Sughd",
         "twq": "Sughd",
         "twq_NE": "Sughd",
@@ -4420,8 +4422,6 @@
         "zh_Hant_MY": "Sughd",
         "zh_Hant_TW": "Sughd",
         "zu": "Sughd",
-        "zu_ZA": "Sughd",
-        "sr@latin": "Sughd",
-        "tt@iqtelif": "Sughd"
+        "zu_ZA": "Sughd"
     }
 }

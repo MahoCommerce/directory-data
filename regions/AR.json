@@ -743,6 +743,7 @@
         "sq_MK": "Salta",
         "sq_XK": "Salta",
         "sr": "Салта",
+        "sr@latin": "Salta",
         "sr_Cyrl": "Салта",
         "sr_Cyrl_BA": "Салта",
         "sr_Cyrl_ME": "Салта",
@@ -803,6 +804,7 @@
         "tr_CY": "Salta",
         "tr_TR": "Salta",
         "tt": "Salta",
+        "tt@iqtelif": "Salta",
         "tt_RU": "Salta",
         "twq": "Salta",
         "twq_NE": "Salta",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Salta",
         "zh_Hant_TW": "Salta",
         "zu": "Salta",
-        "zu_ZA": "Salta",
-        "sr@latin": "Salta",
-        "tt@iqtelif": "Salta"
+        "zu_ZA": "Salta"
     },
     "B": {
         "af": "Buenos Aires",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Buenos Aires",
         "sq_XK": "Buenos Aires",
         "sr": "Буенос Аирес",
+        "sr@latin": "Buenos Aires",
         "sr_Cyrl": "Буенос Аирес",
         "sr_Cyrl_BA": "Буенос Аирес",
         "sr_Cyrl_ME": "Буенос Аирес",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Buenos Aires",
         "tr_TR": "Buenos Aires",
         "tt": "Buenos Aires",
+        "tt@iqtelif": "Buenos Aires",
         "tt_RU": "Buenos Aires",
         "twq": "Buenos Aires",
         "twq_NE": "Buenos Aires",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Buenos Aires",
         "zh_Hant_TW": "Buenos Aires",
         "zu": "Buenos Aires",
-        "zu_ZA": "Buenos Aires",
-        "sr@latin": "Buenos Aires",
-        "tt@iqtelif": "Buenos Aires"
+        "zu_ZA": "Buenos Aires"
     },
     "C": {
         "af": "Ciudad Autónoma de Buenos Aires",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Ciudad Autónoma de Buenos Aires",
         "sq_XK": "Ciudad Autónoma de Buenos Aires",
         "sr": "Аутономни град Буенос Аирес",
+        "sr@latin": "Autonomni grad Buenos Aires",
         "sr_Cyrl": "Аутономни град Буенос Аирес",
         "sr_Cyrl_BA": "Аутономни град Буенос Аирес",
         "sr_Cyrl_ME": "Аутономни град Буенос Аирес",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Buenos Aires Özerk Şehri",
         "tr_TR": "Buenos Aires Özerk Şehri",
         "tt": "Ciudad Autónoma de Buenos Aires",
+        "tt@iqtelif": "Ciudad Autónoma de Buenos Aires",
         "tt_RU": "Ciudad Autónoma de Buenos Aires",
         "twq": "Ciudad Autónoma de Buenos Aires",
         "twq_NE": "Ciudad Autónoma de Buenos Aires",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Ciudad Autónoma de Buenos Aires",
         "zh_Hant_TW": "Ciudad Autónoma de Buenos Aires",
         "zu": "Ciudad Autónoma de Buenos Aires",
-        "zu_ZA": "Ciudad Autónoma de Buenos Aires",
-        "sr@latin": "Autonomni grad Buenos Aires",
-        "tt@iqtelif": "Ciudad Autónoma de Buenos Aires"
+        "zu_ZA": "Ciudad Autónoma de Buenos Aires"
     },
     "D": {
         "af": "San Luis",
@@ -3398,6 +3398,7 @@
         "sq_MK": "San Luis",
         "sq_XK": "San Luis",
         "sr": "Сан Луис",
+        "sr@latin": "San Luis",
         "sr_Cyrl": "Сан Луис",
         "sr_Cyrl_BA": "Сан Луис",
         "sr_Cyrl_ME": "Сан Луис",
@@ -3458,6 +3459,7 @@
         "tr_CY": "San Luis",
         "tr_TR": "San Luis",
         "tt": "San Luis",
+        "tt@iqtelif": "San Luis",
         "tt_RU": "San Luis",
         "twq": "San Luis",
         "twq_NE": "San Luis",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "San Luis",
         "zh_Hant_TW": "San Luis",
         "zu": "San Luis",
-        "zu_ZA": "San Luis",
-        "sr@latin": "San Luis",
-        "tt@iqtelif": "San Luis"
+        "zu_ZA": "San Luis"
     },
     "E": {
         "af": "Entre Ríos",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Entre Ríos",
         "sq_XK": "Entre Ríos",
         "sr": "Entre Ríos",
+        "sr@latin": "Entre Ríos",
         "sr_Cyrl": "Entre Ríos",
         "sr_Cyrl_BA": "Entre Ríos",
         "sr_Cyrl_ME": "Entre Ríos",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Entre Ríos",
         "tr_TR": "Entre Ríos",
         "tt": "Entre Ríos",
+        "tt@iqtelif": "Entre Ríos",
         "tt_RU": "Entre Ríos",
         "twq": "Entre Ríos",
         "twq_NE": "Entre Ríos",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Entre Ríos",
         "zh_Hant_TW": "Entre Ríos",
         "zu": "Entre Ríos",
-        "zu_ZA": "Entre Ríos",
-        "sr@latin": "Entre Ríos",
-        "tt@iqtelif": "Entre Ríos"
+        "zu_ZA": "Entre Ríos"
     },
     "F": {
         "af": "La Rioja",
@@ -5168,6 +5168,7 @@
         "sq_MK": "La Rioja",
         "sq_XK": "La Rioja",
         "sr": "Ла Риоха",
+        "sr@latin": "La Rioha",
         "sr_Cyrl": "Ла Риоха",
         "sr_Cyrl_BA": "Ла Риоха",
         "sr_Cyrl_ME": "Ла Риоха",
@@ -5228,6 +5229,7 @@
         "tr_CY": "La Rioja",
         "tr_TR": "La Rioja",
         "tt": "La Rioja",
+        "tt@iqtelif": "La Rioja",
         "tt_RU": "La Rioja",
         "twq": "La Rioja",
         "twq_NE": "La Rioja",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "La Rioja",
         "zh_Hant_TW": "La Rioja",
         "zu": "La Rioja",
-        "zu_ZA": "La Rioja",
-        "sr@latin": "La Rioha",
-        "tt@iqtelif": "La Rioja"
+        "zu_ZA": "La Rioja"
     },
     "G": {
         "af": "Santiago del Estero",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Santiago del Estero",
         "sq_XK": "Santiago del Estero",
         "sr": "Сантјаго дел Естеро",
+        "sr@latin": "Santjago del Estero",
         "sr_Cyrl": "Сантјаго дел Естеро",
         "sr_Cyrl_BA": "Сантјаго дел Естеро",
         "sr_Cyrl_ME": "Сантјаго дел Естеро",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Santiago del Estero",
         "tr_TR": "Santiago del Estero",
         "tt": "Santiago del Estero",
+        "tt@iqtelif": "Santiago del Estero",
         "tt_RU": "Santiago del Estero",
         "twq": "Santiago del Estero",
         "twq_NE": "Santiago del Estero",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Santiago del Estero",
         "zh_Hant_TW": "Santiago del Estero",
         "zu": "Santiago del Estero",
-        "zu_ZA": "Santiago del Estero",
-        "sr@latin": "Santjago del Estero",
-        "tt@iqtelif": "Santiago del Estero"
+        "zu_ZA": "Santiago del Estero"
     },
     "H": {
         "af": "Chaco",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Chaco",
         "sq_XK": "Chaco",
         "sr": "Чако",
+        "sr@latin": "Čako",
         "sr_Cyrl": "Чако",
         "sr_Cyrl_BA": "Чако",
         "sr_Cyrl_ME": "Чако",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Chaco",
         "tr_TR": "Chaco",
         "tt": "Chaco",
+        "tt@iqtelif": "Chaco",
         "tt_RU": "Chaco",
         "twq": "Chaco",
         "twq_NE": "Chaco",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Chaco",
         "zh_Hant_TW": "Chaco",
         "zu": "Chaco",
-        "zu_ZA": "Chaco",
-        "sr@latin": "Čako",
-        "tt@iqtelif": "Chaco"
+        "zu_ZA": "Chaco"
     },
     "J": {
         "af": "San Juan",
@@ -7823,6 +7823,7 @@
         "sq_MK": "San Juan",
         "sq_XK": "San Juan",
         "sr": "Сан Хуан",
+        "sr@latin": "San Huan",
         "sr_Cyrl": "Сан Хуан",
         "sr_Cyrl_BA": "Сан Хуан",
         "sr_Cyrl_ME": "Сан Хуан",
@@ -7883,6 +7884,7 @@
         "tr_CY": "San Juan",
         "tr_TR": "San Juan",
         "tt": "San Juan",
+        "tt@iqtelif": "San Juan",
         "tt_RU": "San Juan",
         "twq": "San Juan",
         "twq_NE": "San Juan",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "San Juan",
         "zh_Hant_TW": "San Juan",
         "zu": "San Juan",
-        "zu_ZA": "San Juan",
-        "sr@latin": "San Huan",
-        "tt@iqtelif": "San Juan"
+        "zu_ZA": "San Juan"
     },
     "K": {
         "af": "Catamarca",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Catamarca",
         "sq_XK": "Catamarca",
         "sr": "Катамарка",
+        "sr@latin": "Katamarka",
         "sr_Cyrl": "Катамарка",
         "sr_Cyrl_BA": "Катамарка",
         "sr_Cyrl_ME": "Катамарка",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Catamarca",
         "tr_TR": "Catamarca",
         "tt": "Catamarca",
+        "tt@iqtelif": "Catamarca",
         "tt_RU": "Catamarca",
         "twq": "Catamarca",
         "twq_NE": "Catamarca",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Catamarca",
         "zh_Hant_TW": "Catamarca",
         "zu": "Catamarca",
-        "zu_ZA": "Catamarca",
-        "sr@latin": "Katamarka",
-        "tt@iqtelif": "Catamarca"
+        "zu_ZA": "Catamarca"
     },
     "L": {
         "af": "La Pampa",
@@ -9593,6 +9593,7 @@
         "sq_MK": "La Pampa",
         "sq_XK": "La Pampa",
         "sr": "Ла Пампа",
+        "sr@latin": "La Pampa",
         "sr_Cyrl": "Ла Пампа",
         "sr_Cyrl_BA": "Ла Пампа",
         "sr_Cyrl_ME": "Ла Пампа",
@@ -9653,6 +9654,7 @@
         "tr_CY": "La Pampa",
         "tr_TR": "La Pampa",
         "tt": "La Pampa",
+        "tt@iqtelif": "La Pampa",
         "tt_RU": "La Pampa",
         "twq": "La Pampa",
         "twq_NE": "La Pampa",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "La Pampa",
         "zh_Hant_TW": "La Pampa",
         "zu": "La Pampa",
-        "zu_ZA": "La Pampa",
-        "sr@latin": "La Pampa",
-        "tt@iqtelif": "La Pampa"
+        "zu_ZA": "La Pampa"
     },
     "M": {
         "af": "Mendoza",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Mendoza",
         "sq_XK": "Mendoza",
         "sr": "Мендоза",
+        "sr@latin": "Mendoza",
         "sr_Cyrl": "Мендоза",
         "sr_Cyrl_BA": "Мендоза",
         "sr_Cyrl_ME": "Мендоза",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Mendoza",
         "tr_TR": "Mendoza",
         "tt": "Mendoza",
+        "tt@iqtelif": "Mendoza",
         "tt_RU": "Mendoza",
         "twq": "Mendoza",
         "twq_NE": "Mendoza",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Mendoza",
         "zh_Hant_TW": "Mendoza",
         "zu": "Mendoza",
-        "zu_ZA": "Mendoza",
-        "sr@latin": "Mendoza",
-        "tt@iqtelif": "Mendoza"
+        "zu_ZA": "Mendoza"
     },
     "N": {
         "af": "Misiones",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Misiones",
         "sq_XK": "Misiones",
         "sr": "Мисјон",
+        "sr@latin": "Misjon",
         "sr_Cyrl": "Мисјон",
         "sr_Cyrl_BA": "Мисјон",
         "sr_Cyrl_ME": "Мисјон",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Misiones",
         "tr_TR": "Misiones",
         "tt": "Misiones",
+        "tt@iqtelif": "Misiones",
         "tt_RU": "Misiones",
         "twq": "Misiones",
         "twq_NE": "Misiones",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Misiones",
         "zh_Hant_TW": "Misiones",
         "zu": "Misiones",
-        "zu_ZA": "Misiones",
-        "sr@latin": "Misjon",
-        "tt@iqtelif": "Misiones"
+        "zu_ZA": "Misiones"
     },
     "P": {
         "af": "Formosa",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Formosa",
         "sq_XK": "Formosa",
         "sr": "Формоза",
+        "sr@latin": "Formoza",
         "sr_Cyrl": "Формоза",
         "sr_Cyrl_BA": "Формоза",
         "sr_Cyrl_ME": "Формоза",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Formosa",
         "tr_TR": "Formosa",
         "tt": "Formosa",
+        "tt@iqtelif": "Formosa",
         "tt_RU": "Formosa",
         "twq": "Formosa",
         "twq_NE": "Formosa",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Formosa",
         "zh_Hant_TW": "Formosa",
         "zu": "Formosa",
-        "zu_ZA": "Formosa",
-        "sr@latin": "Formoza",
-        "tt@iqtelif": "Formosa"
+        "zu_ZA": "Formosa"
     },
     "Q": {
         "af": "Neuquén",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Neuquén",
         "sq_XK": "Neuquén",
         "sr": "Neuquén",
+        "sr@latin": "Neuquén",
         "sr_Cyrl": "Neuquén",
         "sr_Cyrl_BA": "Neuquén",
         "sr_Cyrl_ME": "Neuquén",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Neuquén",
         "tr_TR": "Neuquén",
         "tt": "Neuquén",
+        "tt@iqtelif": "Neuquén",
         "tt_RU": "Neuquén",
         "twq": "Neuquén",
         "twq_NE": "Neuquén",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Neuquén",
         "zh_Hant_TW": "Neuquén",
         "zu": "Neuquén",
-        "zu_ZA": "Neuquén",
-        "sr@latin": "Neuquén",
-        "tt@iqtelif": "Neuquén"
+        "zu_ZA": "Neuquén"
     },
     "R": {
         "af": "Río Negro",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Río Negro",
         "sq_XK": "Río Negro",
         "sr": "Рио Негро",
+        "sr@latin": "Rio Negro",
         "sr_Cyrl": "Рио Негро",
         "sr_Cyrl_BA": "Рио Негро",
         "sr_Cyrl_ME": "Рио Негро",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Río Negro",
         "tr_TR": "Río Negro",
         "tt": "Río Negro",
+        "tt@iqtelif": "Río Negro",
         "tt_RU": "Río Negro",
         "twq": "Río Negro",
         "twq_NE": "Río Negro",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Río Negro",
         "zh_Hant_TW": "Río Negro",
         "zu": "Río Negro",
-        "zu_ZA": "Río Negro",
-        "sr@latin": "Rio Negro",
-        "tt@iqtelif": "Río Negro"
+        "zu_ZA": "Río Negro"
     },
     "S": {
         "af": "Santa Fe",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Santa Fe",
         "sq_XK": "Santa Fe",
         "sr": "Санта Фе",
+        "sr@latin": "Santa Fe",
         "sr_Cyrl": "Санта Фе",
         "sr_Cyrl_BA": "Санта Фе",
         "sr_Cyrl_ME": "Санта Фе",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Santa Fe",
         "tr_TR": "Santa Fe",
         "tt": "Santa Fe",
+        "tt@iqtelif": "Santa Fe",
         "tt_RU": "Santa Fe",
         "twq": "Santa Fe",
         "twq_NE": "Santa Fe",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Santa Fe",
         "zh_Hant_TW": "Santa Fe",
         "zu": "Santa Fe",
-        "zu_ZA": "Santa Fe",
-        "sr@latin": "Santa Fe",
-        "tt@iqtelif": "Santa Fe"
+        "zu_ZA": "Santa Fe"
     },
     "T": {
         "af": "Tucumán",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Tucumán",
         "sq_XK": "Tucumán",
         "sr": "Tucumán",
+        "sr@latin": "Tucumán",
         "sr_Cyrl": "Tucumán",
         "sr_Cyrl_BA": "Tucumán",
         "sr_Cyrl_ME": "Tucumán",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Tucumán",
         "tr_TR": "Tucumán",
         "tt": "Tucumán",
+        "tt@iqtelif": "Tucumán",
         "tt_RU": "Tucumán",
         "twq": "Tucumán",
         "twq_NE": "Tucumán",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Tucumán",
         "zh_Hant_TW": "Tucumán",
         "zu": "Tucumán",
-        "zu_ZA": "Tucumán",
-        "sr@latin": "Tucumán",
-        "tt@iqtelif": "Tucumán"
+        "zu_ZA": "Tucumán"
     },
     "U": {
         "af": "Chubut",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Chubut",
         "sq_XK": "Chubut",
         "sr": "Чубут",
+        "sr@latin": "Čubut",
         "sr_Cyrl": "Чубут",
         "sr_Cyrl_BA": "Чубут",
         "sr_Cyrl_ME": "Чубут",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Chubut",
         "tr_TR": "Chubut",
         "tt": "Chubut",
+        "tt@iqtelif": "Chubut",
         "tt_RU": "Chubut",
         "twq": "Chubut",
         "twq_NE": "Chubut",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Chubut",
         "zh_Hant_TW": "Chubut",
         "zu": "Chubut",
-        "zu_ZA": "Chubut",
-        "sr@latin": "Čubut",
-        "tt@iqtelif": "Chubut"
+        "zu_ZA": "Chubut"
     },
     "V": {
         "af": "Tierra del Fuego",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Tierra del Fuego",
         "sq_XK": "Tierra del Fuego",
         "sr": "Огњена Земља",
+        "sr@latin": "Ognjena Zemlja",
         "sr_Cyrl": "Огњена Земља",
         "sr_Cyrl_BA": "Огњена Земља",
         "sr_Cyrl_ME": "Огњена Земља",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Tierra del Fuego",
         "tr_TR": "Tierra del Fuego",
         "tt": "Tierra del Fuego",
+        "tt@iqtelif": "Tierra del Fuego",
         "tt_RU": "Tierra del Fuego",
         "twq": "Tierra del Fuego",
         "twq_NE": "Tierra del Fuego",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Tierra del Fuego",
         "zh_Hant_TW": "Tierra del Fuego",
         "zu": "Tierra del Fuego",
-        "zu_ZA": "Tierra del Fuego",
-        "sr@latin": "Ognjena Zemlja",
-        "tt@iqtelif": "Tierra del Fuego"
+        "zu_ZA": "Tierra del Fuego"
     },
     "W": {
         "af": "Corrientes",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Corrientes",
         "sq_XK": "Corrientes",
         "sr": "Коријентес",
+        "sr@latin": "Korijentes",
         "sr_Cyrl": "Коријентес",
         "sr_Cyrl_BA": "Коријентес",
         "sr_Cyrl_ME": "Коријентес",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Corrientes",
         "tr_TR": "Corrientes",
         "tt": "Corrientes",
+        "tt@iqtelif": "Corrientes",
         "tt_RU": "Corrientes",
         "twq": "Corrientes",
         "twq_NE": "Corrientes",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Corrientes",
         "zh_Hant_TW": "Corrientes",
         "zu": "Corrientes",
-        "zu_ZA": "Corrientes",
-        "sr@latin": "Korijentes",
-        "tt@iqtelif": "Corrientes"
+        "zu_ZA": "Corrientes"
     },
     "X": {
         "af": "Córdoba",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Córdoba",
         "sq_XK": "Córdoba",
         "sr": "Кордоба",
+        "sr@latin": "Kordoba",
         "sr_Cyrl": "Кордоба",
         "sr_Cyrl_BA": "Кордоба",
         "sr_Cyrl_ME": "Кордоба",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Córdoba",
         "tr_TR": "Córdoba",
         "tt": "Córdoba",
+        "tt@iqtelif": "Córdoba",
         "tt_RU": "Córdoba",
         "twq": "Córdoba",
         "twq_NE": "Córdoba",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Córdoba",
         "zh_Hant_TW": "Córdoba",
         "zu": "Córdoba",
-        "zu_ZA": "Córdoba",
-        "sr@latin": "Kordoba",
-        "tt@iqtelif": "Córdoba"
+        "zu_ZA": "Córdoba"
     },
     "Y": {
         "af": "Jujuy",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Jujuy",
         "sq_XK": "Jujuy",
         "sr": "Џуџуј",
+        "sr@latin": "Džudžuj",
         "sr_Cyrl": "Џуџуј",
         "sr_Cyrl_BA": "Џуџуј",
         "sr_Cyrl_ME": "Џуџуј",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Jujuy",
         "tr_TR": "Jujuy",
         "tt": "Jujuy",
+        "tt@iqtelif": "Jujuy",
         "tt_RU": "Jujuy",
         "twq": "Jujuy",
         "twq_NE": "Jujuy",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Jujuy",
         "zh_Hant_TW": "Jujuy",
         "zu": "Jujuy",
-        "zu_ZA": "Jujuy",
-        "sr@latin": "Džudžuj",
-        "tt@iqtelif": "Jujuy"
+        "zu_ZA": "Jujuy"
     },
     "Z": {
         "af": "Santa Cruz",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Santa Cruz",
         "sq_XK": "Santa Cruz",
         "sr": "Санта Круз",
+        "sr@latin": "Santa Kruz",
         "sr_Cyrl": "Санта Круз",
         "sr_Cyrl_BA": "Санта Круз",
         "sr_Cyrl_ME": "Санта Круз",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Santa Cruz",
         "tr_TR": "Santa Cruz",
         "tt": "Santa Cruz",
+        "tt@iqtelif": "Santa Cruz",
         "tt_RU": "Santa Cruz",
         "twq": "Santa Cruz",
         "twq_NE": "Santa Cruz",
@@ -21235,8 +21237,6 @@
         "zh_Hant_MY": "Santa Cruz",
         "zh_Hant_TW": "Santa Cruz",
         "zu": "Santa Cruz",
-        "zu_ZA": "Santa Cruz",
-        "sr@latin": "Santa Kruz",
-        "tt@iqtelif": "Santa Cruz"
+        "zu_ZA": "Santa Cruz"
     }
 }

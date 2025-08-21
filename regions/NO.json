@@ -743,6 +743,7 @@
         "sq_MK": "Oslo",
         "sq_XK": "Oslo",
         "sr": "Осло",
+        "sr@latin": "Oslo",
         "sr_Cyrl": "Осло",
         "sr_Cyrl_BA": "Осло",
         "sr_Cyrl_ME": "Осло",
@@ -803,6 +804,7 @@
         "tr_CY": "Oslo",
         "tr_TR": "Oslo",
         "tt": "Oslo",
+        "tt@iqtelif": "Oslo",
         "tt_RU": "Oslo",
         "twq": "Oslo",
         "twq_NE": "Oslo",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Oslo",
         "zh_Hant_TW": "Oslo",
         "zu": "Oslo",
-        "zu_ZA": "Oslo",
-        "sr@latin": "Oslo",
-        "tt@iqtelif": "Oslo"
+        "zu_ZA": "Oslo"
     },
     "11": {
         "af": "Rogaland",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Rogaland",
         "sq_XK": "Rogaland",
         "sr": "Рогаленд",
+        "sr@latin": "Rogalend",
         "sr_Cyrl": "Рогаленд",
         "sr_Cyrl_BA": "Рогаленд",
         "sr_Cyrl_ME": "Рогаленд",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Rogaland",
         "tr_TR": "Rogaland",
         "tt": "Rogaland",
+        "tt@iqtelif": "Rogaland",
         "tt_RU": "Rogaland",
         "twq": "Rogaland",
         "twq_NE": "Rogaland",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Rogaland",
         "zh_Hant_TW": "Rogaland",
         "zu": "Rogaland",
-        "zu_ZA": "Rogaland",
-        "sr@latin": "Rogalend",
-        "tt@iqtelif": "Rogaland"
+        "zu_ZA": "Rogaland"
     },
     "15": {
         "af": "Møre og Romsdal",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Møre og Romsdal",
         "sq_XK": "Møre og Romsdal",
         "sr": "Мор ог Ромсдал",
+        "sr@latin": "Mor og Romsdal",
         "sr_Cyrl": "Мор ог Ромсдал",
         "sr_Cyrl_BA": "Мор ог Ромсдал",
         "sr_Cyrl_ME": "Мор ог Ромсдал",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Møre og Romsdal",
         "tr_TR": "Møre og Romsdal",
         "tt": "Møre og Romsdal",
+        "tt@iqtelif": "Møre og Romsdal",
         "tt_RU": "Møre og Romsdal",
         "twq": "Møre og Romsdal",
         "twq_NE": "Møre og Romsdal",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Møre og Romsdal",
         "zh_Hant_TW": "Møre og Romsdal",
         "zu": "Møre og Romsdal",
-        "zu_ZA": "Møre og Romsdal",
-        "sr@latin": "Mor og Romsdal",
-        "tt@iqtelif": "Møre og Romsdal"
+        "zu_ZA": "Møre og Romsdal"
     },
     "18": {
         "af": "Nordland",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Nordland",
         "sq_XK": "Nordland",
         "sr": "Нордланд",
+        "sr@latin": "Nordland",
         "sr_Cyrl": "Нордланд",
         "sr_Cyrl_BA": "Нордланд",
         "sr_Cyrl_ME": "Нордланд",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Nordland",
         "tr_TR": "Nordland",
         "tt": "Nordland",
+        "tt@iqtelif": "Nordland",
         "tt_RU": "Nordland",
         "twq": "Nordland",
         "twq_NE": "Nordland",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Nordland",
         "zh_Hant_TW": "Nordland",
         "zu": "Nordland",
-        "zu_ZA": "Nordland",
-        "sr@latin": "Nordland",
-        "tt@iqtelif": "Nordland"
+        "zu_ZA": "Nordland"
     },
     "21": {
         "af": "Svalbard (Arctic Region)",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Svalbard (Arctic Region)",
         "sq_XK": "Svalbard (Arctic Region)",
         "sr": "Свалбард (Артичка област)",
+        "sr@latin": "Svalbard (Artička oblast)",
         "sr_Cyrl": "Свалбард (Артичка област)",
         "sr_Cyrl_BA": "Свалбард (Артичка област)",
         "sr_Cyrl_ME": "Свалбард (Артичка област)",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Svalbard (Arctic Region)",
         "tr_TR": "Svalbard (Arctic Region)",
         "tt": "Svalbard (Arctic Region)",
+        "tt@iqtelif": "Svalbard (Arctic Region)",
         "tt_RU": "Svalbard (Arctic Region)",
         "twq": "Svalbard (Arctic Region)",
         "twq_NE": "Svalbard (Arctic Region)",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Svalbard (Arctic Region)",
         "zh_Hant_TW": "Svalbard (Arctic Region)",
         "zu": "Svalbard (Arctic Region)",
-        "zu_ZA": "Svalbard (Arctic Region)",
-        "sr@latin": "Svalbard (Artička oblast)",
-        "tt@iqtelif": "Svalbard (Arctic Region)"
+        "zu_ZA": "Svalbard (Arctic Region)"
     },
     "22": {
         "af": "Jan Mayen (Arctic Region)",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Jan Mayen (Arctic Region)",
         "sq_XK": "Jan Mayen (Arctic Region)",
         "sr": "Јан Мајен (Арктичка област)",
+        "sr@latin": "Jan Majen (Arktička oblast)",
         "sr_Cyrl": "Јан Мајен (Арктичка област)",
         "sr_Cyrl_BA": "Јан Мајен (Арктичка област)",
         "sr_Cyrl_ME": "Јан Мајен (Арктичка област)",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Jan Mayen (Arctic Region)",
         "tr_TR": "Jan Mayen (Arctic Region)",
         "tt": "Jan Mayen (Arctic Region)",
+        "tt@iqtelif": "Jan Mayen (Arctic Region)",
         "tt_RU": "Jan Mayen (Arctic Region)",
         "twq": "Jan Mayen (Arctic Region)",
         "twq_NE": "Jan Mayen (Arctic Region)",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Jan Mayen (Arctic Region)",
         "zh_Hant_TW": "Jan Mayen (Arctic Region)",
         "zu": "Jan Mayen (Arctic Region)",
-        "zu_ZA": "Jan Mayen (Arctic Region)",
-        "sr@latin": "Jan Majen (Arktička oblast)",
-        "tt@iqtelif": "Jan Mayen (Arctic Region)"
+        "zu_ZA": "Jan Mayen (Arctic Region)"
     },
     "30": {
         "af": "Viken",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Viken",
         "sq_XK": "Viken",
         "sr": "Viken",
+        "sr@latin": "Viken",
         "sr_Cyrl": "Viken",
         "sr_Cyrl_BA": "Viken",
         "sr_Cyrl_ME": "Viken",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Viken",
         "tr_TR": "Viken",
         "tt": "Viken",
+        "tt@iqtelif": "Viken",
         "tt_RU": "Viken",
         "twq": "Viken",
         "twq_NE": "Viken",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Viken",
         "zh_Hant_TW": "Viken",
         "zu": "Viken",
-        "zu_ZA": "Viken",
-        "sr@latin": "Viken",
-        "tt@iqtelif": "Viken"
+        "zu_ZA": "Viken"
     },
     "34": {
         "af": "Innlandet",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Innlandet",
         "sq_XK": "Innlandet",
         "sr": "Innlandet",
+        "sr@latin": "Innlandet",
         "sr_Cyrl": "Innlandet",
         "sr_Cyrl_BA": "Innlandet",
         "sr_Cyrl_ME": "Innlandet",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Innlandet",
         "tr_TR": "Innlandet",
         "tt": "Innlandet",
+        "tt@iqtelif": "Innlandet",
         "tt_RU": "Innlandet",
         "twq": "Innlandet",
         "twq_NE": "Innlandet",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Innlandet",
         "zh_Hant_TW": "Innlandet",
         "zu": "Innlandet",
-        "zu_ZA": "Innlandet",
-        "sr@latin": "Innlandet",
-        "tt@iqtelif": "Innlandet"
+        "zu_ZA": "Innlandet"
     },
     "38": {
         "af": "Vestfold og Telemark",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Vestfold og Telemark",
         "sq_XK": "Vestfold og Telemark",
         "sr": "Vestfold og Telemark",
+        "sr@latin": "Vestfold og Telemark",
         "sr_Cyrl": "Vestfold og Telemark",
         "sr_Cyrl_BA": "Vestfold og Telemark",
         "sr_Cyrl_ME": "Vestfold og Telemark",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Vestfold og Telemark",
         "tr_TR": "Vestfold og Telemark",
         "tt": "Vestfold og Telemark",
+        "tt@iqtelif": "Vestfold og Telemark",
         "tt_RU": "Vestfold og Telemark",
         "twq": "Vestfold og Telemark",
         "twq_NE": "Vestfold og Telemark",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Vestfold og Telemark",
         "zh_Hant_TW": "Vestfold og Telemark",
         "zu": "Vestfold og Telemark",
-        "zu_ZA": "Vestfold og Telemark",
-        "sr@latin": "Vestfold og Telemark",
-        "tt@iqtelif": "Vestfold og Telemark"
+        "zu_ZA": "Vestfold og Telemark"
     },
     "42": {
         "af": "Agder",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Agder",
         "sq_XK": "Agder",
         "sr": "Agder",
+        "sr@latin": "Agder",
         "sr_Cyrl": "Agder",
         "sr_Cyrl_BA": "Agder",
         "sr_Cyrl_ME": "Agder",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Agder",
         "tr_TR": "Agder",
         "tt": "Agder",
+        "tt@iqtelif": "Agder",
         "tt_RU": "Agder",
         "twq": "Agder",
         "twq_NE": "Agder",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Agder",
         "zh_Hant_TW": "Agder",
         "zu": "Agder",
-        "zu_ZA": "Agder",
-        "sr@latin": "Agder",
-        "tt@iqtelif": "Agder"
+        "zu_ZA": "Agder"
     },
     "46": {
         "af": "Vestland",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Vestland",
         "sq_XK": "Vestland",
         "sr": "Vestland",
+        "sr@latin": "Vestland",
         "sr_Cyrl": "Vestland",
         "sr_Cyrl_BA": "Vestland",
         "sr_Cyrl_ME": "Vestland",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Vestland",
         "tr_TR": "Vestland",
         "tt": "Vestland",
+        "tt@iqtelif": "Vestland",
         "tt_RU": "Vestland",
         "twq": "Vestland",
         "twq_NE": "Vestland",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Vestland",
         "zh_Hant_TW": "Vestland",
         "zu": "Vestland",
-        "zu_ZA": "Vestland",
-        "sr@latin": "Vestland",
-        "tt@iqtelif": "Vestland"
+        "zu_ZA": "Vestland"
     },
     "50": {
         "af": "Trööndelage",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Trööndelage",
         "sq_XK": "Trööndelage",
         "sr": "Trööndelage",
+        "sr@latin": "Trööndelage",
         "sr_Cyrl": "Trööndelage",
         "sr_Cyrl_BA": "Trööndelage",
         "sr_Cyrl_ME": "Trööndelage",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Trööndelage",
         "tr_TR": "Trööndelage",
         "tt": "Trööndelage",
+        "tt@iqtelif": "Trööndelage",
         "tt_RU": "Trööndelage",
         "twq": "Trööndelage",
         "twq_NE": "Trööndelage",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Trööndelage",
         "zh_Hant_TW": "Trööndelage",
         "zu": "Trööndelage",
-        "zu_ZA": "Trööndelage",
-        "sr@latin": "Trööndelage",
-        "tt@iqtelif": "Trööndelage"
+        "zu_ZA": "Trööndelage"
     },
     "54": {
         "af": "Romssa ja Finnmárkku",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Romssa ja Finnmárkku",
         "sq_XK": "Romssa ja Finnmárkku",
         "sr": "Romssa ja Finnmárkku",
+        "sr@latin": "Romssa ja Finnmárkku",
         "sr_Cyrl": "Romssa ja Finnmárkku",
         "sr_Cyrl_BA": "Romssa ja Finnmárkku",
         "sr_Cyrl_ME": "Romssa ja Finnmárkku",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Romssa ja Finnmárkku",
         "tr_TR": "Romssa ja Finnmárkku",
         "tt": "Romssa ja Finnmárkku",
+        "tt@iqtelif": "Romssa ja Finnmárkku",
         "tt_RU": "Romssa ja Finnmárkku",
         "twq": "Romssa ja Finnmárkku",
         "twq_NE": "Romssa ja Finnmárkku",
@@ -11500,8 +11502,6 @@
         "zh_Hant_MY": "Romssa ja Finnmárkku",
         "zh_Hant_TW": "Romssa ja Finnmárkku",
         "zu": "Romssa ja Finnmárkku",
-        "zu_ZA": "Romssa ja Finnmárkku",
-        "sr@latin": "Romssa ja Finnmárkku",
-        "tt@iqtelif": "Romssa ja Finnmárkku"
+        "zu_ZA": "Romssa ja Finnmárkku"
     }
 }

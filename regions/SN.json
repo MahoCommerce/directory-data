@@ -743,6 +743,7 @@
         "sq_MK": "Diourbel",
         "sq_XK": "Diourbel",
         "sr": "Дјурбел",
+        "sr@latin": "Djurbel",
         "sr_Cyrl": "Дјурбел",
         "sr_Cyrl_BA": "Дјурбел",
         "sr_Cyrl_ME": "Дјурбел",
@@ -803,6 +804,7 @@
         "tr_CY": "Diourbel",
         "tr_TR": "Diourbel",
         "tt": "Diourbel",
+        "tt@iqtelif": "Diourbel",
         "tt_RU": "Diourbel",
         "twq": "Diourbel",
         "twq_NE": "Diourbel",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Diourbel",
         "zh_Hant_TW": "Diourbel",
         "zu": "Diourbel",
-        "zu_ZA": "Diourbel",
-        "sr@latin": "Djurbel",
-        "tt@iqtelif": "Diourbel"
+        "zu_ZA": "Diourbel"
     },
     "DK": {
         "af": "Dakar",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Dakar",
         "sq_XK": "Dakar",
         "sr": "Дакар",
+        "sr@latin": "Dakar",
         "sr_Cyrl": "Дакар",
         "sr_Cyrl_BA": "Дакар",
         "sr_Cyrl_ME": "Дакар",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Dakar",
         "tr_TR": "Dakar",
         "tt": "Dakar",
+        "tt@iqtelif": "Dakar",
         "tt_RU": "Dakar",
         "twq": "Dakar",
         "twq_NE": "Dakar",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Dakar",
         "zh_Hant_TW": "Dakar",
         "zu": "Dakar",
-        "zu_ZA": "Dakar",
-        "sr@latin": "Dakar",
-        "tt@iqtelif": "Dakar"
+        "zu_ZA": "Dakar"
     },
     "FK": {
         "af": "Fatick",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Fatick",
         "sq_XK": "Fatick",
         "sr": "Фатик",
+        "sr@latin": "Fatik",
         "sr_Cyrl": "Фатик",
         "sr_Cyrl_BA": "Фатик",
         "sr_Cyrl_ME": "Фатик",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Fatick",
         "tr_TR": "Fatick",
         "tt": "Fatick",
+        "tt@iqtelif": "Fatick",
         "tt_RU": "Fatick",
         "twq": "Fatick",
         "twq_NE": "Fatick",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Fatick",
         "zh_Hant_TW": "Fatick",
         "zu": "Fatick",
-        "zu_ZA": "Fatick",
-        "sr@latin": "Fatik",
-        "tt@iqtelif": "Fatick"
+        "zu_ZA": "Fatick"
     },
     "KA": {
         "af": "Kaffrine",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Kaffrine",
         "sq_XK": "Kaffrine",
         "sr": "Кафрин",
+        "sr@latin": "Kafrin",
         "sr_Cyrl": "Кафрин",
         "sr_Cyrl_BA": "Кафрин",
         "sr_Cyrl_ME": "Кафрин",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Kaffrine",
         "tr_TR": "Kaffrine",
         "tt": "Kaffrine",
+        "tt@iqtelif": "Kaffrine",
         "tt_RU": "Kaffrine",
         "twq": "Kaffrine",
         "twq_NE": "Kaffrine",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Kaffrine",
         "zh_Hant_TW": "Kaffrine",
         "zu": "Kaffrine",
-        "zu_ZA": "Kaffrine",
-        "sr@latin": "Kafrin",
-        "tt@iqtelif": "Kaffrine"
+        "zu_ZA": "Kaffrine"
     },
     "KD": {
         "af": "Kolda",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Kolda",
         "sq_XK": "Kolda",
         "sr": "Колда",
+        "sr@latin": "Kolda",
         "sr_Cyrl": "Колда",
         "sr_Cyrl_BA": "Колда",
         "sr_Cyrl_ME": "Колда",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Kolda",
         "tr_TR": "Kolda",
         "tt": "Kolda",
+        "tt@iqtelif": "Kolda",
         "tt_RU": "Kolda",
         "twq": "Kolda",
         "twq_NE": "Kolda",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Kolda",
         "zh_Hant_TW": "Kolda",
         "zu": "Kolda",
-        "zu_ZA": "Kolda",
-        "sr@latin": "Kolda",
-        "tt@iqtelif": "Kolda"
+        "zu_ZA": "Kolda"
     },
     "KE": {
         "af": "Kédougou",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Kédougou",
         "sq_XK": "Kédougou",
         "sr": "Кедугу",
+        "sr@latin": "Kedugu",
         "sr_Cyrl": "Кедугу",
         "sr_Cyrl_BA": "Кедугу",
         "sr_Cyrl_ME": "Кедугу",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Kédougou",
         "tr_TR": "Kédougou",
         "tt": "Kédougou",
+        "tt@iqtelif": "Kédougou",
         "tt_RU": "Kédougou",
         "twq": "Kédougou",
         "twq_NE": "Kédougou",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Kédougou",
         "zh_Hant_TW": "Kédougou",
         "zu": "Kédougou",
-        "zu_ZA": "Kédougou",
-        "sr@latin": "Kedugu",
-        "tt@iqtelif": "Kédougou"
+        "zu_ZA": "Kédougou"
     },
     "KL": {
         "af": "Kaolack",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Kaolack",
         "sq_XK": "Kaolack",
         "sr": "Каолак",
+        "sr@latin": "Kaolak",
         "sr_Cyrl": "Каолак",
         "sr_Cyrl_BA": "Каолак",
         "sr_Cyrl_ME": "Каолак",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Kaolack",
         "tr_TR": "Kaolack",
         "tt": "Kaolack",
+        "tt@iqtelif": "Kaolack",
         "tt_RU": "Kaolack",
         "twq": "Kaolack",
         "twq_NE": "Kaolack",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Kaolack",
         "zh_Hant_TW": "Kaolack",
         "zu": "Kaolack",
-        "zu_ZA": "Kaolack",
-        "sr@latin": "Kaolak",
-        "tt@iqtelif": "Kaolack"
+        "zu_ZA": "Kaolack"
     },
     "LG": {
         "af": "Louga",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Louga",
         "sq_XK": "Louga",
         "sr": "Луга",
+        "sr@latin": "Luga",
         "sr_Cyrl": "Луга",
         "sr_Cyrl_BA": "Луга",
         "sr_Cyrl_ME": "Луга",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Louga",
         "tr_TR": "Louga",
         "tt": "Louga",
+        "tt@iqtelif": "Louga",
         "tt_RU": "Louga",
         "twq": "Louga",
         "twq_NE": "Louga",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Louga",
         "zh_Hant_TW": "Louga",
         "zu": "Louga",
-        "zu_ZA": "Louga",
-        "sr@latin": "Luga",
-        "tt@iqtelif": "Louga"
+        "zu_ZA": "Louga"
     },
     "MT": {
         "af": "Matam",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Matam",
         "sq_XK": "Matam",
         "sr": "Матам",
+        "sr@latin": "Matam",
         "sr_Cyrl": "Матам",
         "sr_Cyrl_BA": "Матам",
         "sr_Cyrl_ME": "Матам",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Matam",
         "tr_TR": "Matam",
         "tt": "Matam",
+        "tt@iqtelif": "Matam",
         "tt_RU": "Matam",
         "twq": "Matam",
         "twq_NE": "Matam",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Matam",
         "zh_Hant_TW": "Matam",
         "zu": "Matam",
-        "zu_ZA": "Matam",
-        "sr@latin": "Matam",
-        "tt@iqtelif": "Matam"
+        "zu_ZA": "Matam"
     },
     "SE": {
         "af": "Sédhiou",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Sédhiou",
         "sq_XK": "Sédhiou",
         "sr": "Sédhiou",
+        "sr@latin": "Sédhiou",
         "sr_Cyrl": "Sédhiou",
         "sr_Cyrl_BA": "Sédhiou",
         "sr_Cyrl_ME": "Sédhiou",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Sédhiou",
         "tr_TR": "Sédhiou",
         "tt": "Sédhiou",
+        "tt@iqtelif": "Sédhiou",
         "tt_RU": "Sédhiou",
         "twq": "Sédhiou",
         "twq_NE": "Sédhiou",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Sédhiou",
         "zh_Hant_TW": "Sédhiou",
         "zu": "Sédhiou",
-        "zu_ZA": "Sédhiou",
-        "sr@latin": "Sédhiou",
-        "tt@iqtelif": "Sédhiou"
+        "zu_ZA": "Sédhiou"
     },
     "SL": {
         "af": "Saint-Louis",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Saint-Louis",
         "sq_XK": "Saint-Louis",
         "sr": "Сент-Луј",
+        "sr@latin": "Sent-Luj",
         "sr_Cyrl": "Сент-Луј",
         "sr_Cyrl_BA": "Сент-Луј",
         "sr_Cyrl_ME": "Сент-Луј",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Saint-Louis",
         "tr_TR": "Saint-Louis",
         "tt": "Saint-Louis",
+        "tt@iqtelif": "Saint-Louis",
         "tt_RU": "Saint-Louis",
         "twq": "Saint-Louis",
         "twq_NE": "Saint-Louis",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Saint-Louis",
         "zh_Hant_TW": "Saint-Louis",
         "zu": "Saint-Louis",
-        "zu_ZA": "Saint-Louis",
-        "sr@latin": "Sent-Luj",
-        "tt@iqtelif": "Saint-Louis"
+        "zu_ZA": "Saint-Louis"
     },
     "TC": {
         "af": "Tambacounda",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Tambacounda",
         "sq_XK": "Tambacounda",
         "sr": "Тамбакунда",
+        "sr@latin": "Tambakunda",
         "sr_Cyrl": "Тамбакунда",
         "sr_Cyrl_BA": "Тамбакунда",
         "sr_Cyrl_ME": "Тамбакунда",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Tambacounda",
         "tr_TR": "Tambacounda",
         "tt": "Tambacounda",
+        "tt@iqtelif": "Tambacounda",
         "tt_RU": "Tambacounda",
         "twq": "Tambacounda",
         "twq_NE": "Tambacounda",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Tambacounda",
         "zh_Hant_TW": "Tambacounda",
         "zu": "Tambacounda",
-        "zu_ZA": "Tambacounda",
-        "sr@latin": "Tambakunda",
-        "tt@iqtelif": "Tambacounda"
+        "zu_ZA": "Tambacounda"
     },
     "TH": {
         "af": "Thiès",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Thiès",
         "sq_XK": "Thiès",
         "sr": "Thiès",
+        "sr@latin": "Thiès",
         "sr_Cyrl": "Thiès",
         "sr_Cyrl_BA": "Thiès",
         "sr_Cyrl_ME": "Thiès",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Thies",
         "tr_TR": "Thies",
         "tt": "Thiès",
+        "tt@iqtelif": "Thiès",
         "tt_RU": "Thiès",
         "twq": "Thiès",
         "twq_NE": "Thiès",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Thiès",
         "zh_Hant_TW": "Thiès",
         "zu": "Thiès",
-        "zu_ZA": "Thiès",
-        "sr@latin": "Thiès",
-        "tt@iqtelif": "Thiès"
+        "zu_ZA": "Thiès"
     },
     "ZG": {
         "af": "Ziguinchor",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Ziguinchor",
         "sq_XK": "Ziguinchor",
         "sr": "Зигуинкор",
+        "sr@latin": "Ziguinkor",
         "sr_Cyrl": "Зигуинкор",
         "sr_Cyrl_BA": "Зигуинкор",
         "sr_Cyrl_ME": "Зигуинкор",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Ziguinchor",
         "tr_TR": "Ziguinchor",
         "tt": "Ziguinchor",
+        "tt@iqtelif": "Ziguinchor",
         "tt_RU": "Ziguinchor",
         "twq": "Ziguinchor",
         "twq_NE": "Ziguinchor",
@@ -12385,8 +12387,6 @@
         "zh_Hant_MY": "Ziguinchor",
         "zh_Hant_TW": "Ziguinchor",
         "zu": "Ziguinchor",
-        "zu_ZA": "Ziguinchor",
-        "sr@latin": "Ziguinkor",
-        "tt@iqtelif": "Ziguinchor"
+        "zu_ZA": "Ziguinchor"
     }
 }

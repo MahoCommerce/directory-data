@@ -743,6 +743,7 @@
         "sq_MK": "Beograd",
         "sq_XK": "Beograd",
         "sr": "Београд",
+        "sr@latin": "Beograd",
         "sr_Cyrl": "Београд",
         "sr_Cyrl_BA": "Београд",
         "sr_Cyrl_ME": "Београд",
@@ -803,6 +804,7 @@
         "tr_CY": "Belgrad",
         "tr_TR": "Belgrad",
         "tt": "Beograd",
+        "tt@iqtelif": "Beograd",
         "tt_RU": "Beograd",
         "twq": "Beograd",
         "twq_NE": "Beograd",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Beograd",
         "zh_Hant_TW": "Beograd",
         "zu": "Beograd",
-        "zu_ZA": "Beograd",
-        "sr@latin": "Beograd",
-        "tt@iqtelif": "Beograd"
+        "zu_ZA": "Beograd"
     },
     "01": {
         "af": "Severnobački okrug",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Severnobački okrug",
         "sq_XK": "Severnobački okrug",
         "sr": "Севернобачки округ",
+        "sr@latin": "Severnobački okrug",
         "sr_Cyrl": "Севернобачки округ",
         "sr_Cyrl_BA": "Севернобачки округ",
         "sr_Cyrl_ME": "Севернобачки округ",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Severnobački okrug",
         "tr_TR": "Severnobački okrug",
         "tt": "Severnobački okrug",
+        "tt@iqtelif": "Severnobački okrug",
         "tt_RU": "Severnobački okrug",
         "twq": "Severnobački okrug",
         "twq_NE": "Severnobački okrug",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Severnobački okrug",
         "zh_Hant_TW": "Severnobački okrug",
         "zu": "Severnobački okrug",
-        "zu_ZA": "Severnobački okrug",
-        "sr@latin": "Severnobački okrug",
-        "tt@iqtelif": "Severnobački okrug"
+        "zu_ZA": "Severnobački okrug"
     },
     "02": {
         "af": "Srednjebanatski okrug",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Srednjebanatski okrug",
         "sq_XK": "Srednjebanatski okrug",
         "sr": "Средњебанатски округ",
+        "sr@latin": "Srednjebanatski okrug",
         "sr_Cyrl": "Средњебанатски округ",
         "sr_Cyrl_BA": "Средњебанатски округ",
         "sr_Cyrl_ME": "Средњебанатски округ",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Srednjebanatski okrug",
         "tr_TR": "Srednjebanatski okrug",
         "tt": "Srednjebanatski okrug",
+        "tt@iqtelif": "Srednjebanatski okrug",
         "tt_RU": "Srednjebanatski okrug",
         "twq": "Srednjebanatski okrug",
         "twq_NE": "Srednjebanatski okrug",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Srednjebanatski okrug",
         "zh_Hant_TW": "Srednjebanatski okrug",
         "zu": "Srednjebanatski okrug",
-        "zu_ZA": "Srednjebanatski okrug",
-        "sr@latin": "Srednjebanatski okrug",
-        "tt@iqtelif": "Srednjebanatski okrug"
+        "zu_ZA": "Srednjebanatski okrug"
     },
     "03": {
         "af": "Severnobanatski okrug",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Severnobanatski okrug",
         "sq_XK": "Severnobanatski okrug",
         "sr": "Севернобанатски округ",
+        "sr@latin": "Severnobanatski okrug",
         "sr_Cyrl": "Севернобанатски округ",
         "sr_Cyrl_BA": "Севернобанатски округ",
         "sr_Cyrl_ME": "Севернобанатски округ",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Severnobanatski okrug",
         "tr_TR": "Severnobanatski okrug",
         "tt": "Severnobanatski okrug",
+        "tt@iqtelif": "Severnobanatski okrug",
         "tt_RU": "Severnobanatski okrug",
         "twq": "Severnobanatski okrug",
         "twq_NE": "Severnobanatski okrug",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Severnobanatski okrug",
         "zh_Hant_TW": "Severnobanatski okrug",
         "zu": "Severnobanatski okrug",
-        "zu_ZA": "Severnobanatski okrug",
-        "sr@latin": "Severnobanatski okrug",
-        "tt@iqtelif": "Severnobanatski okrug"
+        "zu_ZA": "Severnobanatski okrug"
     },
     "04": {
         "af": "Južnobanatski okrug",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Južnobanatski okrug",
         "sq_XK": "Južnobanatski okrug",
         "sr": "Јужнобанатски округ",
+        "sr@latin": "Južnobanatski okrug",
         "sr_Cyrl": "Јужнобанатски округ",
         "sr_Cyrl_BA": "Јужнобанатски округ",
         "sr_Cyrl_ME": "Јужнобанатски округ",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Južnobanatski okrug",
         "tr_TR": "Južnobanatski okrug",
         "tt": "Južnobanatski okrug",
+        "tt@iqtelif": "Južnobanatski okrug",
         "tt_RU": "Južnobanatski okrug",
         "twq": "Južnobanatski okrug",
         "twq_NE": "Južnobanatski okrug",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Južnobanatski okrug",
         "zh_Hant_TW": "Južnobanatski okrug",
         "zu": "Južnobanatski okrug",
-        "zu_ZA": "Južnobanatski okrug",
-        "sr@latin": "Južnobanatski okrug",
-        "tt@iqtelif": "Južnobanatski okrug"
+        "zu_ZA": "Južnobanatski okrug"
     },
     "05": {
         "af": "Zapadnobački okrug",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Zapadnobački okrug",
         "sq_XK": "Zapadnobački okrug",
         "sr": "Западнобачки округ",
+        "sr@latin": "Zapadnobački okrug",
         "sr_Cyrl": "Западнобачки округ",
         "sr_Cyrl_BA": "Западнобачки округ",
         "sr_Cyrl_ME": "Западнобачки округ",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Zapadnobacki okrug",
         "tr_TR": "Zapadnobacki okrug",
         "tt": "Zapadnobački okrug",
+        "tt@iqtelif": "Zapadnobački okrug",
         "tt_RU": "Zapadnobački okrug",
         "twq": "Zapadnobački okrug",
         "twq_NE": "Zapadnobački okrug",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Zapadnobački okrug",
         "zh_Hant_TW": "Zapadnobački okrug",
         "zu": "Zapadnobački okrug",
-        "zu_ZA": "Zapadnobački okrug",
-        "sr@latin": "Zapadnobački okrug",
-        "tt@iqtelif": "Zapadnobački okrug"
+        "zu_ZA": "Zapadnobački okrug"
     },
     "06": {
         "af": "Južnobački okrug",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Južnobački okrug",
         "sq_XK": "Južnobački okrug",
         "sr": "Јужнобачки округ",
+        "sr@latin": "Južnobački okrug",
         "sr_Cyrl": "Јужнобачки округ",
         "sr_Cyrl_BA": "Јужнобачки округ",
         "sr_Cyrl_ME": "Јужнобачки округ",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Južnobački okrug",
         "tr_TR": "Južnobački okrug",
         "tt": "Južnobački okrug",
+        "tt@iqtelif": "Južnobački okrug",
         "tt_RU": "Južnobački okrug",
         "twq": "Južnobački okrug",
         "twq_NE": "Južnobački okrug",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Južnobački okrug",
         "zh_Hant_TW": "Južnobački okrug",
         "zu": "Južnobački okrug",
-        "zu_ZA": "Južnobački okrug",
-        "sr@latin": "Južnobački okrug",
-        "tt@iqtelif": "Južnobački okrug"
+        "zu_ZA": "Južnobački okrug"
     },
     "07": {
         "af": "Sremski okrug",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Sremski okrug",
         "sq_XK": "Sremski okrug",
         "sr": "Сремски округ",
+        "sr@latin": "Sremski okrug",
         "sr_Cyrl": "Сремски округ",
         "sr_Cyrl_BA": "Сремски округ",
         "sr_Cyrl_ME": "Сремски округ",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Sremski okrug",
         "tr_TR": "Sremski okrug",
         "tt": "Sremski okrug",
+        "tt@iqtelif": "Sremski okrug",
         "tt_RU": "Sremski okrug",
         "twq": "Sremski okrug",
         "twq_NE": "Sremski okrug",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Sremski okrug",
         "zh_Hant_TW": "Sremski okrug",
         "zu": "Sremski okrug",
-        "zu_ZA": "Sremski okrug",
-        "sr@latin": "Sremski okrug",
-        "tt@iqtelif": "Sremski okrug"
+        "zu_ZA": "Sremski okrug"
     },
     "08": {
         "af": "Mačvanski okrug",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Mačvanski okrug",
         "sq_XK": "Mačvanski okrug",
         "sr": "Мачвански округ",
+        "sr@latin": "Mačvanski okrug",
         "sr_Cyrl": "Мачвански округ",
         "sr_Cyrl_BA": "Мачвански округ",
         "sr_Cyrl_ME": "Мачвански округ",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Mačvanski okrug",
         "tr_TR": "Mačvanski okrug",
         "tt": "Mačvanski okrug",
+        "tt@iqtelif": "Mačvanski okrug",
         "tt_RU": "Mačvanski okrug",
         "twq": "Mačvanski okrug",
         "twq_NE": "Mačvanski okrug",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Mačvanski okrug",
         "zh_Hant_TW": "Mačvanski okrug",
         "zu": "Mačvanski okrug",
-        "zu_ZA": "Mačvanski okrug",
-        "sr@latin": "Mačvanski okrug",
-        "tt@iqtelif": "Mačvanski okrug"
+        "zu_ZA": "Mačvanski okrug"
     },
     "09": {
         "af": "Kolubarski okrug",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Kolubarski okrug",
         "sq_XK": "Kolubarski okrug",
         "sr": "Колубарски округ",
+        "sr@latin": "Kolubarski okrug",
         "sr_Cyrl": "Колубарски округ",
         "sr_Cyrl_BA": "Колубарски округ",
         "sr_Cyrl_ME": "Колубарски округ",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Kolubarski okrug",
         "tr_TR": "Kolubarski okrug",
         "tt": "Kolubarski okrug",
+        "tt@iqtelif": "Kolubarski okrug",
         "tt_RU": "Kolubarski okrug",
         "twq": "Kolubarski okrug",
         "twq_NE": "Kolubarski okrug",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Kolubarski okrug",
         "zh_Hant_TW": "Kolubarski okrug",
         "zu": "Kolubarski okrug",
-        "zu_ZA": "Kolubarski okrug",
-        "sr@latin": "Kolubarski okrug",
-        "tt@iqtelif": "Kolubarski okrug"
+        "zu_ZA": "Kolubarski okrug"
     },
     "10": {
         "af": "Podunavski okrug",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Podunavski okrug",
         "sq_XK": "Podunavski okrug",
         "sr": "Подунавски округ",
+        "sr@latin": "Podunavski okrug",
         "sr_Cyrl": "Подунавски округ",
         "sr_Cyrl_BA": "Подунавски округ",
         "sr_Cyrl_ME": "Подунавски округ",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Podunavski okrug",
         "tr_TR": "Podunavski okrug",
         "tt": "Podunavski okrug",
+        "tt@iqtelif": "Podunavski okrug",
         "tt_RU": "Podunavski okrug",
         "twq": "Podunavski okrug",
         "twq_NE": "Podunavski okrug",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Podunavski okrug",
         "zh_Hant_TW": "Podunavski okrug",
         "zu": "Podunavski okrug",
-        "zu_ZA": "Podunavski okrug",
-        "sr@latin": "Podunavski okrug",
-        "tt@iqtelif": "Podunavski okrug"
+        "zu_ZA": "Podunavski okrug"
     },
     "11": {
         "af": "Braničevski okrug",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Braničevski okrug",
         "sq_XK": "Braničevski okrug",
         "sr": "Браничевски округ",
+        "sr@latin": "Braničevski okrug",
         "sr_Cyrl": "Браничевски округ",
         "sr_Cyrl_BA": "Браничевски округ",
         "sr_Cyrl_ME": "Браничевски округ",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Branicevski okrug",
         "tr_TR": "Branicevski okrug",
         "tt": "Braničevski okrug",
+        "tt@iqtelif": "Braničevski okrug",
         "tt_RU": "Braničevski okrug",
         "twq": "Braničevski okrug",
         "twq_NE": "Braničevski okrug",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Braničevski okrug",
         "zh_Hant_TW": "Braničevski okrug",
         "zu": "Braničevski okrug",
-        "zu_ZA": "Braničevski okrug",
-        "sr@latin": "Braničevski okrug",
-        "tt@iqtelif": "Braničevski okrug"
+        "zu_ZA": "Braničevski okrug"
     },
     "12": {
         "af": "Šumadijski okrug",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Šumadijski okrug",
         "sq_XK": "Šumadijski okrug",
         "sr": "Шумадијски округ",
+        "sr@latin": "Šumadijski okrug",
         "sr_Cyrl": "Шумадијски округ",
         "sr_Cyrl_BA": "Шумадијски округ",
         "sr_Cyrl_ME": "Шумадијски округ",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Šumadijski okrug",
         "tr_TR": "Šumadijski okrug",
         "tt": "Šumadijski okrug",
+        "tt@iqtelif": "Šumadijski okrug",
         "tt_RU": "Šumadijski okrug",
         "twq": "Šumadijski okrug",
         "twq_NE": "Šumadijski okrug",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Šumadijski okrug",
         "zh_Hant_TW": "Šumadijski okrug",
         "zu": "Šumadijski okrug",
-        "zu_ZA": "Šumadijski okrug",
-        "sr@latin": "Šumadijski okrug",
-        "tt@iqtelif": "Šumadijski okrug"
+        "zu_ZA": "Šumadijski okrug"
     },
     "13": {
         "af": "Pomoravski okrug",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Pomoravski okrug",
         "sq_XK": "Pomoravski okrug",
         "sr": "Поморавски округ",
+        "sr@latin": "Pomoravski okrug",
         "sr_Cyrl": "Поморавски округ",
         "sr_Cyrl_BA": "Поморавски округ",
         "sr_Cyrl_ME": "Поморавски округ",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Pomoravski okrug",
         "tr_TR": "Pomoravski okrug",
         "tt": "Pomoravski okrug",
+        "tt@iqtelif": "Pomoravski okrug",
         "tt_RU": "Pomoravski okrug",
         "twq": "Pomoravski okrug",
         "twq_NE": "Pomoravski okrug",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Pomoravski okrug",
         "zh_Hant_TW": "Pomoravski okrug",
         "zu": "Pomoravski okrug",
-        "zu_ZA": "Pomoravski okrug",
-        "sr@latin": "Pomoravski okrug",
-        "tt@iqtelif": "Pomoravski okrug"
+        "zu_ZA": "Pomoravski okrug"
     },
     "14": {
         "af": "Borski okrug",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Borski okrug",
         "sq_XK": "Borski okrug",
         "sr": "Борски округ",
+        "sr@latin": "Borski okrug",
         "sr_Cyrl": "Борски округ",
         "sr_Cyrl_BA": "Борски округ",
         "sr_Cyrl_ME": "Борски округ",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Borski okrug",
         "tr_TR": "Borski okrug",
         "tt": "Borski okrug",
+        "tt@iqtelif": "Borski okrug",
         "tt_RU": "Borski okrug",
         "twq": "Borski okrug",
         "twq_NE": "Borski okrug",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Borski okrug",
         "zh_Hant_TW": "Borski okrug",
         "zu": "Borski okrug",
-        "zu_ZA": "Borski okrug",
-        "sr@latin": "Borski okrug",
-        "tt@iqtelif": "Borski okrug"
+        "zu_ZA": "Borski okrug"
     },
     "15": {
         "af": "Zaječarski okrug",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Zaječarski okrug",
         "sq_XK": "Zaječarski okrug",
         "sr": "Зајечарски округ",
+        "sr@latin": "Zaječarski okrug",
         "sr_Cyrl": "Зајечарски округ",
         "sr_Cyrl_BA": "Зајечарски округ",
         "sr_Cyrl_ME": "Зајечарски округ",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Zaječarski okrug",
         "tr_TR": "Zaječarski okrug",
         "tt": "Zaječarski okrug",
+        "tt@iqtelif": "Zaječarski okrug",
         "tt_RU": "Zaječarski okrug",
         "twq": "Zaječarski okrug",
         "twq_NE": "Zaječarski okrug",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Zaječarski okrug",
         "zh_Hant_TW": "Zaječarski okrug",
         "zu": "Zaječarski okrug",
-        "zu_ZA": "Zaječarski okrug",
-        "sr@latin": "Zaječarski okrug",
-        "tt@iqtelif": "Zaječarski okrug"
+        "zu_ZA": "Zaječarski okrug"
     },
     "16": {
         "af": "Zlatiborski okrug",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Zlatiborski okrug",
         "sq_XK": "Zlatiborski okrug",
         "sr": "Златиборски округ",
+        "sr@latin": "Zlatiborski okrug",
         "sr_Cyrl": "Златиборски округ",
         "sr_Cyrl_BA": "Златиборски округ",
         "sr_Cyrl_ME": "Златиборски округ",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Zlatiborski okrug",
         "tr_TR": "Zlatiborski okrug",
         "tt": "Zlatiborski okrug",
+        "tt@iqtelif": "Zlatiborski okrug",
         "tt_RU": "Zlatiborski okrug",
         "twq": "Zlatiborski okrug",
         "twq_NE": "Zlatiborski okrug",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Zlatiborski okrug",
         "zh_Hant_TW": "Zlatiborski okrug",
         "zu": "Zlatiborski okrug",
-        "zu_ZA": "Zlatiborski okrug",
-        "sr@latin": "Zlatiborski okrug",
-        "tt@iqtelif": "Zlatiborski okrug"
+        "zu_ZA": "Zlatiborski okrug"
     },
     "17": {
         "af": "Moravički okrug",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Moravički okrug",
         "sq_XK": "Moravički okrug",
         "sr": "Моравички округ",
+        "sr@latin": "Moravički okrug",
         "sr_Cyrl": "Моравички округ",
         "sr_Cyrl_BA": "Моравички округ",
         "sr_Cyrl_ME": "Моравички округ",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Moravički okrug",
         "tr_TR": "Moravički okrug",
         "tt": "Moravički okrug",
+        "tt@iqtelif": "Moravički okrug",
         "tt_RU": "Moravički okrug",
         "twq": "Moravički okrug",
         "twq_NE": "Moravički okrug",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Moravički okrug",
         "zh_Hant_TW": "Moravički okrug",
         "zu": "Moravički okrug",
-        "zu_ZA": "Moravički okrug",
-        "sr@latin": "Moravički okrug",
-        "tt@iqtelif": "Moravički okrug"
+        "zu_ZA": "Moravički okrug"
     },
     "18": {
         "af": "Raški okrug",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Raški okrug",
         "sq_XK": "Raški okrug",
         "sr": "Рашки округ",
+        "sr@latin": "Raški okrug",
         "sr_Cyrl": "Рашки округ",
         "sr_Cyrl_BA": "Рашки округ",
         "sr_Cyrl_ME": "Рашки округ",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Raški okrug",
         "tr_TR": "Raški okrug",
         "tt": "Raški okrug",
+        "tt@iqtelif": "Raški okrug",
         "tt_RU": "Raški okrug",
         "twq": "Raški okrug",
         "twq_NE": "Raški okrug",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Raški okrug",
         "zh_Hant_TW": "Raški okrug",
         "zu": "Raški okrug",
-        "zu_ZA": "Raški okrug",
-        "sr@latin": "Raški okrug",
-        "tt@iqtelif": "Raški okrug"
+        "zu_ZA": "Raški okrug"
     },
     "19": {
         "af": "Rasinski okrug",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Rasinski okrug",
         "sq_XK": "Rasinski okrug",
         "sr": "Расински округ",
+        "sr@latin": "Rasinski okrug",
         "sr_Cyrl": "Расински округ",
         "sr_Cyrl_BA": "Расински округ",
         "sr_Cyrl_ME": "Расински округ",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Rasinski okrug",
         "tr_TR": "Rasinski okrug",
         "tt": "Rasinski okrug",
+        "tt@iqtelif": "Rasinski okrug",
         "tt_RU": "Rasinski okrug",
         "twq": "Rasinski okrug",
         "twq_NE": "Rasinski okrug",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Rasinski okrug",
         "zh_Hant_TW": "Rasinski okrug",
         "zu": "Rasinski okrug",
-        "zu_ZA": "Rasinski okrug",
-        "sr@latin": "Rasinski okrug",
-        "tt@iqtelif": "Rasinski okrug"
+        "zu_ZA": "Rasinski okrug"
     },
     "20": {
         "af": "Nišavski okrug",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Nišavski okrug",
         "sq_XK": "Nišavski okrug",
         "sr": "Нишавски округ",
+        "sr@latin": "Nišavski okrug",
         "sr_Cyrl": "Нишавски округ",
         "sr_Cyrl_BA": "Нишавски округ",
         "sr_Cyrl_ME": "Нишавски округ",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Nišavski okrug",
         "tr_TR": "Nišavski okrug",
         "tt": "Nišavski okrug",
+        "tt@iqtelif": "Nišavski okrug",
         "tt_RU": "Nišavski okrug",
         "twq": "Nišavski okrug",
         "twq_NE": "Nišavski okrug",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Nišavski okrug",
         "zh_Hant_TW": "Nišavski okrug",
         "zu": "Nišavski okrug",
-        "zu_ZA": "Nišavski okrug",
-        "sr@latin": "Nišavski okrug",
-        "tt@iqtelif": "Nišavski okrug"
+        "zu_ZA": "Nišavski okrug"
     },
     "21": {
         "af": "Toplički okrug",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Toplički okrug",
         "sq_XK": "Toplički okrug",
         "sr": "Топлички округ",
+        "sr@latin": "Toplički okrug",
         "sr_Cyrl": "Топлички округ",
         "sr_Cyrl_BA": "Топлички округ",
         "sr_Cyrl_ME": "Топлички округ",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Toplički okrug",
         "tr_TR": "Toplički okrug",
         "tt": "Toplički okrug",
+        "tt@iqtelif": "Toplički okrug",
         "tt_RU": "Toplički okrug",
         "twq": "Toplički okrug",
         "twq_NE": "Toplički okrug",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Toplički okrug",
         "zh_Hant_TW": "Toplički okrug",
         "zu": "Toplički okrug",
-        "zu_ZA": "Toplički okrug",
-        "sr@latin": "Toplički okrug",
-        "tt@iqtelif": "Toplički okrug"
+        "zu_ZA": "Toplički okrug"
     },
     "22": {
         "af": "Pirotski okrug",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Pirotski okrug",
         "sq_XK": "Pirotski okrug",
         "sr": "Пиротски округ",
+        "sr@latin": "Pirotski okrug",
         "sr_Cyrl": "Пиротски округ",
         "sr_Cyrl_BA": "Пиротски округ",
         "sr_Cyrl_ME": "Пиротски округ",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Pirotski okrug",
         "tr_TR": "Pirotski okrug",
         "tt": "Pirotski okrug",
+        "tt@iqtelif": "Pirotski okrug",
         "tt_RU": "Pirotski okrug",
         "twq": "Pirotski okrug",
         "twq_NE": "Pirotski okrug",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Pirotski okrug",
         "zh_Hant_TW": "Pirotski okrug",
         "zu": "Pirotski okrug",
-        "zu_ZA": "Pirotski okrug",
-        "sr@latin": "Pirotski okrug",
-        "tt@iqtelif": "Pirotski okrug"
+        "zu_ZA": "Pirotski okrug"
     },
     "23": {
         "af": "Jablanički okrug",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Jablanički okrug",
         "sq_XK": "Jablanički okrug",
         "sr": "Јабланички округ",
+        "sr@latin": "Jablanički okrug",
         "sr_Cyrl": "Јабланички округ",
         "sr_Cyrl_BA": "Јабланички округ",
         "sr_Cyrl_ME": "Јабланички округ",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Jablanički okrug",
         "tr_TR": "Jablanički okrug",
         "tt": "Jablanički okrug",
+        "tt@iqtelif": "Jablanički okrug",
         "tt_RU": "Jablanički okrug",
         "twq": "Jablanički okrug",
         "twq_NE": "Jablanički okrug",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Jablanički okrug",
         "zh_Hant_TW": "Jablanički okrug",
         "zu": "Jablanički okrug",
-        "zu_ZA": "Jablanički okrug",
-        "sr@latin": "Jablanički okrug",
-        "tt@iqtelif": "Jablanički okrug"
+        "zu_ZA": "Jablanički okrug"
     },
     "24": {
         "af": "Pčinjski okrug",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Pčinjski okrug",
         "sq_XK": "Pčinjski okrug",
         "sr": "Пчињски округ",
+        "sr@latin": "Pčinjski okrug",
         "sr_Cyrl": "Пчињски округ",
         "sr_Cyrl_BA": "Пчињски округ",
         "sr_Cyrl_ME": "Пчињски округ",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Pčinjski okrug",
         "tr_TR": "Pčinjski okrug",
         "tt": "Pčinjski okrug",
+        "tt@iqtelif": "Pčinjski okrug",
         "tt_RU": "Pčinjski okrug",
         "twq": "Pčinjski okrug",
         "twq_NE": "Pčinjski okrug",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Pčinjski okrug",
         "zh_Hant_TW": "Pčinjski okrug",
         "zu": "Pčinjski okrug",
-        "zu_ZA": "Pčinjski okrug",
-        "sr@latin": "Pčinjski okrug",
-        "tt@iqtelif": "Pčinjski okrug"
+        "zu_ZA": "Pčinjski okrug"
     },
     "25": {
         "af": "Kosovski okrug",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Kosovski okrug",
         "sq_XK": "Kosovski okrug",
         "sr": "Косовски округ",
+        "sr@latin": "Kosovski okrug",
         "sr_Cyrl": "Косовски округ",
         "sr_Cyrl_BA": "Косовски округ",
         "sr_Cyrl_ME": "Косовски округ",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Kosovski okrug",
         "tr_TR": "Kosovski okrug",
         "tt": "Kosovski okrug",
+        "tt@iqtelif": "Kosovski okrug",
         "tt_RU": "Kosovski okrug",
         "twq": "Kosovski okrug",
         "twq_NE": "Kosovski okrug",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Kosovski okrug",
         "zh_Hant_TW": "Kosovski okrug",
         "zu": "Kosovski okrug",
-        "zu_ZA": "Kosovski okrug",
-        "sr@latin": "Kosovski okrug",
-        "tt@iqtelif": "Kosovski okrug"
+        "zu_ZA": "Kosovski okrug"
     },
     "26": {
         "af": "Pećki okrug",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Pećki okrug",
         "sq_XK": "Pećki okrug",
         "sr": "Пећки округ",
+        "sr@latin": "Pećki okrug",
         "sr_Cyrl": "Пећки округ",
         "sr_Cyrl_BA": "Пећки округ",
         "sr_Cyrl_ME": "Пећки округ",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Pećki okrug",
         "tr_TR": "Pećki okrug",
         "tt": "Pećki okrug",
+        "tt@iqtelif": "Pećki okrug",
         "tt_RU": "Pećki okrug",
         "twq": "Pećki okrug",
         "twq_NE": "Pećki okrug",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Pećki okrug",
         "zh_Hant_TW": "Pećki okrug",
         "zu": "Pećki okrug",
-        "zu_ZA": "Pećki okrug",
-        "sr@latin": "Pećki okrug",
-        "tt@iqtelif": "Pećki okrug"
+        "zu_ZA": "Pećki okrug"
     },
     "27": {
         "af": "Prizrenski okrug",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Prizrenski okrug",
         "sq_XK": "Prizrenski okrug",
         "sr": "Призренски округ",
+        "sr@latin": "Prizrenski okrug",
         "sr_Cyrl": "Призренски округ",
         "sr_Cyrl_BA": "Призренски округ",
         "sr_Cyrl_ME": "Призренски округ",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Prizrenski okrug",
         "tr_TR": "Prizrenski okrug",
         "tt": "Prizrenski okrug",
+        "tt@iqtelif": "Prizrenski okrug",
         "tt_RU": "Prizrenski okrug",
         "twq": "Prizrenski okrug",
         "twq_NE": "Prizrenski okrug",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Prizrenski okrug",
         "zh_Hant_TW": "Prizrenski okrug",
         "zu": "Prizrenski okrug",
-        "zu_ZA": "Prizrenski okrug",
-        "sr@latin": "Prizrenski okrug",
-        "tt@iqtelif": "Prizrenski okrug"
+        "zu_ZA": "Prizrenski okrug"
     },
     "28": {
         "af": "Kosovsko-Mitrovački okrug",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Kosovsko-Mitrovački okrug",
         "sq_XK": "Kosovsko-Mitrovački okrug",
         "sr": "Косовско-Митровачки округ",
+        "sr@latin": "Kosovsko-Mitrovački okrug",
         "sr_Cyrl": "Косовско-Митровачки округ",
         "sr_Cyrl_BA": "Косовско-Митровачки округ",
         "sr_Cyrl_ME": "Косовско-Митровачки округ",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Kosovsko-Mitrovački okrug",
         "tr_TR": "Kosovsko-Mitrovački okrug",
         "tt": "Kosovsko-Mitrovački okrug",
+        "tt@iqtelif": "Kosovsko-Mitrovački okrug",
         "tt_RU": "Kosovsko-Mitrovački okrug",
         "twq": "Kosovsko-Mitrovački okrug",
         "twq_NE": "Kosovsko-Mitrovački okrug",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Kosovsko-Mitrovački okrug",
         "zh_Hant_TW": "Kosovsko-Mitrovački okrug",
         "zu": "Kosovsko-Mitrovački okrug",
-        "zu_ZA": "Kosovsko-Mitrovački okrug",
-        "sr@latin": "Kosovsko-Mitrovački okrug",
-        "tt@iqtelif": "Kosovsko-Mitrovački okrug"
+        "zu_ZA": "Kosovsko-Mitrovački okrug"
     },
     "29": {
         "af": "Kosovsko-Pomoravski okrug",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Kosovsko-Pomoravski okrug",
         "sq_XK": "Kosovsko-Pomoravski okrug",
         "sr": "Косовско-поморавски округ",
+        "sr@latin": "Kosovsko-pomoravski okrug",
         "sr_Cyrl": "Косовско-поморавски округ",
         "sr_Cyrl_BA": "Косовско-поморавски округ",
         "sr_Cyrl_ME": "Косовско-поморавски округ",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Kosovsko-Pomoravski okrug",
         "tr_TR": "Kosovsko-Pomoravski okrug",
         "tt": "Kosovsko-Pomoravski okrug",
+        "tt@iqtelif": "Kosovsko-Pomoravski okrug",
         "tt_RU": "Kosovsko-Pomoravski okrug",
         "twq": "Kosovsko-Pomoravski okrug",
         "twq_NE": "Kosovsko-Pomoravski okrug",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Kosovsko-Pomoravski okrug",
         "zh_Hant_TW": "Kosovsko-Pomoravski okrug",
         "zu": "Kosovsko-Pomoravski okrug",
-        "zu_ZA": "Kosovsko-Pomoravski okrug",
-        "sr@latin": "Kosovsko-pomoravski okrug",
-        "tt@iqtelif": "Kosovsko-Pomoravski okrug"
+        "zu_ZA": "Kosovsko-Pomoravski okrug"
     },
     "KM": {
         "af": "Kosovo-Metohija",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Kosovo-Metohija",
         "sq_XK": "Kosovo-Metohija",
         "sr": "Косово и Метохија",
+        "sr@latin": "Kosovo i Metohija",
         "sr_Cyrl": "Косово и Метохија",
         "sr_Cyrl_BA": "Косово и Метохија",
         "sr_Cyrl_ME": "Косово и Метохија",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Kosovo-Metohija",
         "tr_TR": "Kosovo-Metohija",
         "tt": "Kosovo-Metohija",
+        "tt@iqtelif": "Kosovo-Metohija",
         "tt_RU": "Kosovo-Metohija",
         "twq": "Kosovo-Metohija",
         "twq_NE": "Kosovo-Metohija",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Kosovo-Metohija",
         "zh_Hant_TW": "Kosovo-Metohija",
         "zu": "Kosovo-Metohija",
-        "zu_ZA": "Kosovo-Metohija",
-        "sr@latin": "Kosovo i Metohija",
-        "tt@iqtelif": "Kosovo-Metohija"
+        "zu_ZA": "Kosovo-Metohija"
     },
     "VO": {
         "af": "Vojvodina",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Vojvodina",
         "sq_XK": "Vojvodina",
         "sr": "Војводина",
+        "sr@latin": "Vojvodina",
         "sr_Cyrl": "Војводина",
         "sr_Cyrl_BA": "Војводина",
         "sr_Cyrl_ME": "Војводина",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Vojvodina",
         "tr_TR": "Vojvodina",
         "tt": "Vojvodina",
+        "tt@iqtelif": "Vojvodina",
         "tt_RU": "Vojvodina",
         "twq": "Vojvodina",
         "twq_NE": "Vojvodina",
@@ -28315,8 +28317,6 @@
         "zh_Hant_MY": "Vojvodina",
         "zh_Hant_TW": "Vojvodina",
         "zu": "Vojvodina",
-        "zu_ZA": "Vojvodina",
-        "sr@latin": "Vojvodina",
-        "tt@iqtelif": "Vojvodina"
+        "zu_ZA": "Vojvodina"
     }
 }

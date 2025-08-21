@@ -743,6 +743,7 @@
         "sq_MK": "Hhohho",
         "sq_XK": "Hhohho",
         "sr": "Хохо",
+        "sr@latin": "Hoho",
         "sr_Cyrl": "Хохо",
         "sr_Cyrl_BA": "Хохо",
         "sr_Cyrl_ME": "Хохо",
@@ -803,6 +804,7 @@
         "tr_CY": "Hhohho",
         "tr_TR": "Hhohho",
         "tt": "Hhohho",
+        "tt@iqtelif": "Hhohho",
         "tt_RU": "Hhohho",
         "twq": "Hhohho",
         "twq_NE": "Hhohho",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Hhohho",
         "zh_Hant_TW": "Hhohho",
         "zu": "Hhohho",
-        "zu_ZA": "Hhohho",
-        "sr@latin": "Hoho",
-        "tt@iqtelif": "Hhohho"
+        "zu_ZA": "Hhohho"
     },
     "LU": {
         "af": "Lubombo",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Lubombo",
         "sq_XK": "Lubombo",
         "sr": "Лубомбо",
+        "sr@latin": "Lubombo",
         "sr_Cyrl": "Лубомбо",
         "sr_Cyrl_BA": "Лубомбо",
         "sr_Cyrl_ME": "Лубомбо",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Lubombo",
         "tr_TR": "Lubombo",
         "tt": "Lubombo",
+        "tt@iqtelif": "Lubombo",
         "tt_RU": "Lubombo",
         "twq": "Lubombo",
         "twq_NE": "Lubombo",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Lubombo",
         "zh_Hant_TW": "Lubombo",
         "zu": "Lubombo",
-        "zu_ZA": "Lubombo",
-        "sr@latin": "Lubombo",
-        "tt@iqtelif": "Lubombo"
+        "zu_ZA": "Lubombo"
     },
     "MA": {
         "af": "Manzini",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Manzini",
         "sq_XK": "Manzini",
         "sr": "Манцини",
+        "sr@latin": "Mancini",
         "sr_Cyrl": "Манцини",
         "sr_Cyrl_BA": "Манцини",
         "sr_Cyrl_ME": "Манцини",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Manzini",
         "tr_TR": "Manzini",
         "tt": "Manzini",
+        "tt@iqtelif": "Manzini",
         "tt_RU": "Manzini",
         "twq": "Manzini",
         "twq_NE": "Manzini",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Manzini",
         "zh_Hant_TW": "Manzini",
         "zu": "Manzini",
-        "zu_ZA": "Manzini",
-        "sr@latin": "Mancini",
-        "tt@iqtelif": "Manzini"
+        "zu_ZA": "Manzini"
     },
     "SH": {
         "af": "Shiselweni",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Shiselweni",
         "sq_XK": "Shiselweni",
         "sr": "Shiselweni",
+        "sr@latin": "Shiselweni",
         "sr_Cyrl": "Shiselweni",
         "sr_Cyrl_BA": "Shiselweni",
         "sr_Cyrl_ME": "Shiselweni",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Shiselweni",
         "tr_TR": "Shiselweni",
         "tt": "Shiselweni",
+        "tt@iqtelif": "Shiselweni",
         "tt_RU": "Shiselweni",
         "twq": "Shiselweni",
         "twq_NE": "Shiselweni",
@@ -3535,8 +3537,6 @@
         "zh_Hant_MY": "Shiselweni",
         "zh_Hant_TW": "Shiselweni",
         "zu": "Shiselweni",
-        "zu_ZA": "Shiselweni",
-        "sr@latin": "Shiselweni",
-        "tt@iqtelif": "Shiselweni"
+        "zu_ZA": "Shiselweni"
     }
 }

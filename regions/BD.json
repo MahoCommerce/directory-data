@@ -743,6 +743,7 @@
         "sq_MK": "Bandarban",
         "sq_XK": "Bandarban",
         "sr": "Бандарбан",
+        "sr@latin": "Bandarban",
         "sr_Cyrl": "Бандарбан",
         "sr_Cyrl_BA": "Бандарбан",
         "sr_Cyrl_ME": "Бандарбан",
@@ -803,6 +804,7 @@
         "tr_CY": "Bandarban",
         "tr_TR": "Bandarban",
         "tt": "Bandarban",
+        "tt@iqtelif": "Bandarban",
         "tt_RU": "Bandarban",
         "twq": "Bandarban",
         "twq_NE": "Bandarban",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Bandarban",
         "zh_Hant_TW": "Bandarban",
         "zu": "Bandarban",
-        "zu_ZA": "Bandarban",
-        "sr@latin": "Bandarban",
-        "tt@iqtelif": "Bandarban"
+        "zu_ZA": "Bandarban"
     },
     "02": {
         "af": "Barguna",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Barguna",
         "sq_XK": "Barguna",
         "sr": "Баргуна",
+        "sr@latin": "Barguna",
         "sr_Cyrl": "Баргуна",
         "sr_Cyrl_BA": "Баргуна",
         "sr_Cyrl_ME": "Баргуна",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Barguna",
         "tr_TR": "Barguna",
         "tt": "Barguna",
+        "tt@iqtelif": "Barguna",
         "tt_RU": "Barguna",
         "twq": "Barguna",
         "twq_NE": "Barguna",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Barguna",
         "zh_Hant_TW": "Barguna",
         "zu": "Barguna",
-        "zu_ZA": "Barguna",
-        "sr@latin": "Barguna",
-        "tt@iqtelif": "Barguna"
+        "zu_ZA": "Barguna"
     },
     "03": {
         "af": "Bogura",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Bogura",
         "sq_XK": "Bogura",
         "sr": "Bogura",
+        "sr@latin": "Bogura",
         "sr_Cyrl": "Bogura",
         "sr_Cyrl_BA": "Bogura",
         "sr_Cyrl_ME": "Bogura",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Bogura",
         "tr_TR": "Bogura",
         "tt": "Bogura",
+        "tt@iqtelif": "Bogura",
         "tt_RU": "Bogura",
         "twq": "Bogura",
         "twq_NE": "Bogura",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Bogura",
         "zh_Hant_TW": "Bogura",
         "zu": "Bogura",
-        "zu_ZA": "Bogura",
-        "sr@latin": "Bogura",
-        "tt@iqtelif": "Bogura"
+        "zu_ZA": "Bogura"
     },
     "04": {
         "af": "Brahmanbaria",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Brahmanbaria",
         "sq_XK": "Brahmanbaria",
         "sr": "Браманбарја",
+        "sr@latin": "Bramanbarja",
         "sr_Cyrl": "Браманбарја",
         "sr_Cyrl_BA": "Браманбарја",
         "sr_Cyrl_ME": "Браманбарја",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Brahmanbaria",
         "tr_TR": "Brahmanbaria",
         "tt": "Brahmanbaria",
+        "tt@iqtelif": "Brahmanbaria",
         "tt_RU": "Brahmanbaria",
         "twq": "Brahmanbaria",
         "twq_NE": "Brahmanbaria",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Brahmanbaria",
         "zh_Hant_TW": "Brahmanbaria",
         "zu": "Brahmanbaria",
-        "zu_ZA": "Brahmanbaria",
-        "sr@latin": "Bramanbarja",
-        "tt@iqtelif": "Brahmanbaria"
+        "zu_ZA": "Brahmanbaria"
     },
     "05": {
         "af": "Bagerhat",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bagerhat",
         "sq_XK": "Bagerhat",
         "sr": "Багерат",
+        "sr@latin": "Bagerat",
         "sr_Cyrl": "Багерат",
         "sr_Cyrl_BA": "Багерат",
         "sr_Cyrl_ME": "Багерат",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bagerhat",
         "tr_TR": "Bagerhat",
         "tt": "Bagerhat",
+        "tt@iqtelif": "Bagerhat",
         "tt_RU": "Bagerhat",
         "twq": "Bagerhat",
         "twq_NE": "Bagerhat",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bagerhat",
         "zh_Hant_TW": "Bagerhat",
         "zu": "Bagerhat",
-        "zu_ZA": "Bagerhat",
-        "sr@latin": "Bagerat",
-        "tt@iqtelif": "Bagerhat"
+        "zu_ZA": "Bagerhat"
     },
     "06": {
         "af": "Barishal",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Barishal",
         "sq_XK": "Barishal",
         "sr": "Barishal",
+        "sr@latin": "Barishal",
         "sr_Cyrl": "Barishal",
         "sr_Cyrl_BA": "Barishal",
         "sr_Cyrl_ME": "Barishal",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Barishal",
         "tr_TR": "Barishal",
         "tt": "Barishal",
+        "tt@iqtelif": "Barishal",
         "tt_RU": "Barishal",
         "twq": "Barishal",
         "twq_NE": "Barishal",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Barishal",
         "zh_Hant_TW": "Barishal",
         "zu": "Barishal",
-        "zu_ZA": "Barishal",
-        "sr@latin": "Barishal",
-        "tt@iqtelif": "Barishal"
+        "zu_ZA": "Barishal"
     },
     "07": {
         "af": "Bhola",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Bhola",
         "sq_XK": "Bhola",
         "sr": "Бола",
+        "sr@latin": "Bola",
         "sr_Cyrl": "Бола",
         "sr_Cyrl_BA": "Бола",
         "sr_Cyrl_ME": "Бола",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Bhola",
         "tr_TR": "Bhola",
         "tt": "Bhola",
+        "tt@iqtelif": "Bhola",
         "tt_RU": "Bhola",
         "twq": "Bhola",
         "twq_NE": "Bhola",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Bhola",
         "zh_Hant_TW": "Bhola",
         "zu": "Bhola",
-        "zu_ZA": "Bhola",
-        "sr@latin": "Bola",
-        "tt@iqtelif": "Bhola"
+        "zu_ZA": "Bhola"
     },
     "08": {
         "af": "Cumilla",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Cumilla",
         "sq_XK": "Cumilla",
         "sr": "Cumilla",
+        "sr@latin": "Cumilla",
         "sr_Cyrl": "Cumilla",
         "sr_Cyrl_BA": "Cumilla",
         "sr_Cyrl_ME": "Cumilla",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Cumilla",
         "tr_TR": "Cumilla",
         "tt": "Cumilla",
+        "tt@iqtelif": "Cumilla",
         "tt_RU": "Cumilla",
         "twq": "Cumilla",
         "twq_NE": "Cumilla",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Cumilla",
         "zh_Hant_TW": "Cumilla",
         "zu": "Cumilla",
-        "zu_ZA": "Cumilla",
-        "sr@latin": "Cumilla",
-        "tt@iqtelif": "Cumilla"
+        "zu_ZA": "Cumilla"
     },
     "09": {
         "af": "Chandpur",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Chandpur",
         "sq_XK": "Chandpur",
         "sr": "Чандпур",
+        "sr@latin": "Čandpur",
         "sr_Cyrl": "Чандпур",
         "sr_Cyrl_BA": "Чандпур",
         "sr_Cyrl_ME": "Чандпур",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Chandpur",
         "tr_TR": "Chandpur",
         "tt": "Chandpur",
+        "tt@iqtelif": "Chandpur",
         "tt_RU": "Chandpur",
         "twq": "Chandpur",
         "twq_NE": "Chandpur",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Chandpur",
         "zh_Hant_TW": "Chandpur",
         "zu": "Chandpur",
-        "zu_ZA": "Chandpur",
-        "sr@latin": "Čandpur",
-        "tt@iqtelif": "Chandpur"
+        "zu_ZA": "Chandpur"
     },
     "10": {
         "af": "Chattogram",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Chattogram",
         "sq_XK": "Chattogram",
         "sr": "Chattogram",
+        "sr@latin": "Chattogram",
         "sr_Cyrl": "Chattogram",
         "sr_Cyrl_BA": "Chattogram",
         "sr_Cyrl_ME": "Chattogram",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Chattogram",
         "tr_TR": "Chattogram",
         "tt": "Chattogram",
+        "tt@iqtelif": "Chattogram",
         "tt_RU": "Chattogram",
         "twq": "Chattogram",
         "twq_NE": "Chattogram",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Chattogram",
         "zh_Hant_TW": "Chattogram",
         "zu": "Chattogram",
-        "zu_ZA": "Chattogram",
-        "sr@latin": "Chattogram",
-        "tt@iqtelif": "Chattogram"
+        "zu_ZA": "Chattogram"
     },
     "11": {
         "af": "Cox's Bazar",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Cox's Bazar",
         "sq_XK": "Cox's Bazar",
         "sr": "Кокс Базар",
+        "sr@latin": "Koks Bazar",
         "sr_Cyrl": "Кокс Базар",
         "sr_Cyrl_BA": "Кокс Базар",
         "sr_Cyrl_ME": "Кокс Базар",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Cox's Bazar",
         "tr_TR": "Cox's Bazar",
         "tt": "Cox's Bazar",
+        "tt@iqtelif": "Cox's Bazar",
         "tt_RU": "Cox's Bazar",
         "twq": "Cox's Bazar",
         "twq_NE": "Cox's Bazar",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Cox's Bazar",
         "zh_Hant_TW": "Cox's Bazar",
         "zu": "Cox's Bazar",
-        "zu_ZA": "Cox's Bazar",
-        "sr@latin": "Koks Bazar",
-        "tt@iqtelif": "Cox's Bazar"
+        "zu_ZA": "Cox's Bazar"
     },
     "12": {
         "af": "Chuadanga",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Chuadanga",
         "sq_XK": "Chuadanga",
         "sr": "Чваданга",
+        "sr@latin": "Čvadanga",
         "sr_Cyrl": "Чваданга",
         "sr_Cyrl_BA": "Чваданга",
         "sr_Cyrl_ME": "Чваданга",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Chuadanga",
         "tr_TR": "Chuadanga",
         "tt": "Chuadanga",
+        "tt@iqtelif": "Chuadanga",
         "tt_RU": "Chuadanga",
         "twq": "Chuadanga",
         "twq_NE": "Chuadanga",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Chuadanga",
         "zh_Hant_TW": "Chuadanga",
         "zu": "Chuadanga",
-        "zu_ZA": "Chuadanga",
-        "sr@latin": "Čvadanga",
-        "tt@iqtelif": "Chuadanga"
+        "zu_ZA": "Chuadanga"
     },
     "13": {
         "af": "Dhaka",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Dhaka",
         "sq_XK": "Dhaka",
         "sr": "Дака",
+        "sr@latin": "Daka",
         "sr_Cyrl": "Дака",
         "sr_Cyrl_BA": "Дака",
         "sr_Cyrl_ME": "Дака",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Dakka",
         "tr_TR": "Dakka",
         "tt": "Dhaka",
+        "tt@iqtelif": "Dhaka",
         "tt_RU": "Dhaka",
         "twq": "Dhaka",
         "twq_NE": "Dhaka",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Dhaka",
         "zh_Hant_TW": "Dhaka",
         "zu": "Dhaka",
-        "zu_ZA": "Dhaka",
-        "sr@latin": "Daka",
-        "tt@iqtelif": "Dhaka"
+        "zu_ZA": "Dhaka"
     },
     "14": {
         "af": "Dinajpur",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Dinajpur",
         "sq_XK": "Dinajpur",
         "sr": "Динајпур",
+        "sr@latin": "Dinajpur",
         "sr_Cyrl": "Динајпур",
         "sr_Cyrl_BA": "Динајпур",
         "sr_Cyrl_ME": "Динајпур",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Dinajpur",
         "tr_TR": "Dinajpur",
         "tt": "Dinajpur",
+        "tt@iqtelif": "Dinajpur",
         "tt_RU": "Dinajpur",
         "twq": "Dinajpur",
         "twq_NE": "Dinajpur",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Dinajpur",
         "zh_Hant_TW": "Dinajpur",
         "zu": "Dinajpur",
-        "zu_ZA": "Dinajpur",
-        "sr@latin": "Dinajpur",
-        "tt@iqtelif": "Dinajpur"
+        "zu_ZA": "Dinajpur"
     },
     "15": {
         "af": "Faridpur",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Faridpur",
         "sq_XK": "Faridpur",
         "sr": "Фаридпур",
+        "sr@latin": "Faridpur",
         "sr_Cyrl": "Фаридпур",
         "sr_Cyrl_BA": "Фаридпур",
         "sr_Cyrl_ME": "Фаридпур",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Faridpur",
         "tr_TR": "Faridpur",
         "tt": "Faridpur",
+        "tt@iqtelif": "Faridpur",
         "tt_RU": "Faridpur",
         "twq": "Faridpur",
         "twq_NE": "Faridpur",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Faridpur",
         "zh_Hant_TW": "Faridpur",
         "zu": "Faridpur",
-        "zu_ZA": "Faridpur",
-        "sr@latin": "Faridpur",
-        "tt@iqtelif": "Faridpur"
+        "zu_ZA": "Faridpur"
     },
     "16": {
         "af": "Feni",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Feni",
         "sq_XK": "Feni",
         "sr": "Фени",
+        "sr@latin": "Feni",
         "sr_Cyrl": "Фени",
         "sr_Cyrl_BA": "Фени",
         "sr_Cyrl_ME": "Фени",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Feni",
         "tr_TR": "Feni",
         "tt": "Feni",
+        "tt@iqtelif": "Feni",
         "tt_RU": "Feni",
         "twq": "Feni",
         "twq_NE": "Feni",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Feni",
         "zh_Hant_TW": "Feni",
         "zu": "Feni",
-        "zu_ZA": "Feni",
-        "sr@latin": "Feni",
-        "tt@iqtelif": "Feni"
+        "zu_ZA": "Feni"
     },
     "17": {
         "af": "Gopalganj",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Gopalganj",
         "sq_XK": "Gopalganj",
         "sr": "Гопалгањ",
+        "sr@latin": "Gopalganj",
         "sr_Cyrl": "Гопалгањ",
         "sr_Cyrl_BA": "Гопалгањ",
         "sr_Cyrl_ME": "Гопалгањ",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Gopalganj",
         "tr_TR": "Gopalganj",
         "tt": "Gopalganj",
+        "tt@iqtelif": "Gopalganj",
         "tt_RU": "Gopalganj",
         "twq": "Gopalganj",
         "twq_NE": "Gopalganj",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Gopalganj",
         "zh_Hant_TW": "Gopalganj",
         "zu": "Gopalganj",
-        "zu_ZA": "Gopalganj",
-        "sr@latin": "Gopalganj",
-        "tt@iqtelif": "Gopalganj"
+        "zu_ZA": "Gopalganj"
     },
     "18": {
         "af": "Gazipur",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Gazipur",
         "sq_XK": "Gazipur",
         "sr": "Газипур",
+        "sr@latin": "Gazipur",
         "sr_Cyrl": "Газипур",
         "sr_Cyrl_BA": "Газипур",
         "sr_Cyrl_ME": "Газипур",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Gazipur",
         "tr_TR": "Gazipur",
         "tt": "Gazipur",
+        "tt@iqtelif": "Gazipur",
         "tt_RU": "Gazipur",
         "twq": "Gazipur",
         "twq_NE": "Gazipur",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Gazipur",
         "zh_Hant_TW": "Gazipur",
         "zu": "Gazipur",
-        "zu_ZA": "Gazipur",
-        "sr@latin": "Gazipur",
-        "tt@iqtelif": "Gazipur"
+        "zu_ZA": "Gazipur"
     },
     "19": {
         "af": "Gaibandha",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Gaibandha",
         "sq_XK": "Gaibandha",
         "sr": "Гајбанда",
+        "sr@latin": "Gajbanda",
         "sr_Cyrl": "Гајбанда",
         "sr_Cyrl_BA": "Гајбанда",
         "sr_Cyrl_ME": "Гајбанда",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Gaibandha",
         "tr_TR": "Gaibandha",
         "tt": "Gaibandha",
+        "tt@iqtelif": "Gaibandha",
         "tt_RU": "Gaibandha",
         "twq": "Gaibandha",
         "twq_NE": "Gaibandha",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Gaibandha",
         "zh_Hant_TW": "Gaibandha",
         "zu": "Gaibandha",
-        "zu_ZA": "Gaibandha",
-        "sr@latin": "Gajbanda",
-        "tt@iqtelif": "Gaibandha"
+        "zu_ZA": "Gaibandha"
     },
     "20": {
         "af": "Habiganj",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Habiganj",
         "sq_XK": "Habiganj",
         "sr": "Хабигањ",
+        "sr@latin": "Habiganj",
         "sr_Cyrl": "Хабигањ",
         "sr_Cyrl_BA": "Хабигањ",
         "sr_Cyrl_ME": "Хабигањ",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Habiganj",
         "tr_TR": "Habiganj",
         "tt": "Habiganj",
+        "tt@iqtelif": "Habiganj",
         "tt_RU": "Habiganj",
         "twq": "Habiganj",
         "twq_NE": "Habiganj",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Habiganj",
         "zh_Hant_TW": "Habiganj",
         "zu": "Habiganj",
-        "zu_ZA": "Habiganj",
-        "sr@latin": "Habiganj",
-        "tt@iqtelif": "Habiganj"
+        "zu_ZA": "Habiganj"
     },
     "21": {
         "af": "Jamalpur",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Jamalpur",
         "sq_XK": "Jamalpur",
         "sr": "Џамалпур",
+        "sr@latin": "Džamalpur",
         "sr_Cyrl": "Џамалпур",
         "sr_Cyrl_BA": "Џамалпур",
         "sr_Cyrl_ME": "Џамалпур",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Jamalpur",
         "tr_TR": "Jamalpur",
         "tt": "Jamalpur",
+        "tt@iqtelif": "Jamalpur",
         "tt_RU": "Jamalpur",
         "twq": "Jamalpur",
         "twq_NE": "Jamalpur",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Jamalpur",
         "zh_Hant_TW": "Jamalpur",
         "zu": "Jamalpur",
-        "zu_ZA": "Jamalpur",
-        "sr@latin": "Džamalpur",
-        "tt@iqtelif": "Jamalpur"
+        "zu_ZA": "Jamalpur"
     },
     "22": {
         "af": "Jashore",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Jashore",
         "sq_XK": "Jashore",
         "sr": "Jashore",
+        "sr@latin": "Jashore",
         "sr_Cyrl": "Jashore",
         "sr_Cyrl_BA": "Jashore",
         "sr_Cyrl_ME": "Jashore",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Jashore",
         "tr_TR": "Jashore",
         "tt": "Jashore",
+        "tt@iqtelif": "Jashore",
         "tt_RU": "Jashore",
         "twq": "Jashore",
         "twq_NE": "Jashore",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Jashore",
         "zh_Hant_TW": "Jashore",
         "zu": "Jashore",
-        "zu_ZA": "Jashore",
-        "sr@latin": "Jashore",
-        "tt@iqtelif": "Jashore"
+        "zu_ZA": "Jashore"
     },
     "23": {
         "af": "Jhenaidah",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Jhenaidah",
         "sq_XK": "Jhenaidah",
         "sr": "Џенајда",
+        "sr@latin": "Dženajda",
         "sr_Cyrl": "Џенајда",
         "sr_Cyrl_BA": "Џенајда",
         "sr_Cyrl_ME": "Џенајда",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Jhenaidah",
         "tr_TR": "Jhenaidah",
         "tt": "Jhenaidah",
+        "tt@iqtelif": "Jhenaidah",
         "tt_RU": "Jhenaidah",
         "twq": "Jhenaidah",
         "twq_NE": "Jhenaidah",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Jhenaidah",
         "zh_Hant_TW": "Jhenaidah",
         "zu": "Jhenaidah",
-        "zu_ZA": "Jhenaidah",
-        "sr@latin": "Dženajda",
-        "tt@iqtelif": "Jhenaidah"
+        "zu_ZA": "Jhenaidah"
     },
     "24": {
         "af": "Joypurhat",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Joypurhat",
         "sq_XK": "Joypurhat",
         "sr": "Joypurhat",
+        "sr@latin": "Joypurhat",
         "sr_Cyrl": "Joypurhat",
         "sr_Cyrl_BA": "Joypurhat",
         "sr_Cyrl_ME": "Joypurhat",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Joypurhat",
         "tr_TR": "Joypurhat",
         "tt": "Joypurhat",
+        "tt@iqtelif": "Joypurhat",
         "tt_RU": "Joypurhat",
         "twq": "Joypurhat",
         "twq_NE": "Joypurhat",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Joypurhat",
         "zh_Hant_TW": "Joypurhat",
         "zu": "Joypurhat",
-        "zu_ZA": "Joypurhat",
-        "sr@latin": "Joypurhat",
-        "tt@iqtelif": "Joypurhat"
+        "zu_ZA": "Joypurhat"
     },
     "25": {
         "af": "Jhalakathi",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Jhalakathi",
         "sq_XK": "Jhalakathi",
         "sr": "Jhalakathi",
+        "sr@latin": "Jhalakathi",
         "sr_Cyrl": "Jhalakathi",
         "sr_Cyrl_BA": "Jhalakathi",
         "sr_Cyrl_ME": "Jhalakathi",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Jhalakathi",
         "tr_TR": "Jhalakathi",
         "tt": "Jhalakathi",
+        "tt@iqtelif": "Jhalakathi",
         "tt_RU": "Jhalakathi",
         "twq": "Jhalakathi",
         "twq_NE": "Jhalakathi",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Jhalakathi",
         "zh_Hant_TW": "Jhalakathi",
         "zu": "Jhalakathi",
-        "zu_ZA": "Jhalakathi",
-        "sr@latin": "Jhalakathi",
-        "tt@iqtelif": "Jhalakathi"
+        "zu_ZA": "Jhalakathi"
     },
     "26": {
         "af": "Kishoreganj",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Kishoreganj",
         "sq_XK": "Kishoreganj",
         "sr": "Kishoreganj",
+        "sr@latin": "Kishoreganj",
         "sr_Cyrl": "Kishoreganj",
         "sr_Cyrl_BA": "Kishoreganj",
         "sr_Cyrl_ME": "Kishoreganj",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Kishoreganj",
         "tr_TR": "Kishoreganj",
         "tt": "Kishoreganj",
+        "tt@iqtelif": "Kishoreganj",
         "tt_RU": "Kishoreganj",
         "twq": "Kishoreganj",
         "twq_NE": "Kishoreganj",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Kishoreganj",
         "zh_Hant_TW": "Kishoreganj",
         "zu": "Kishoreganj",
-        "zu_ZA": "Kishoreganj",
-        "sr@latin": "Kishoreganj",
-        "tt@iqtelif": "Kishoreganj"
+        "zu_ZA": "Kishoreganj"
     },
     "27": {
         "af": "Khulna",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Khulna",
         "sq_XK": "Khulna",
         "sr": "Кулна",
+        "sr@latin": "Kulna",
         "sr_Cyrl": "Кулна",
         "sr_Cyrl_BA": "Кулна",
         "sr_Cyrl_ME": "Кулна",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Khulna",
         "tr_TR": "Khulna",
         "tt": "Khulna",
+        "tt@iqtelif": "Khulna",
         "tt_RU": "Khulna",
         "twq": "Khulna",
         "twq_NE": "Khulna",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Khulna",
         "zh_Hant_TW": "Khulna",
         "zu": "Khulna",
-        "zu_ZA": "Khulna",
-        "sr@latin": "Kulna",
-        "tt@iqtelif": "Khulna"
+        "zu_ZA": "Khulna"
     },
     "28": {
         "af": "Kurigram",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Kurigram",
         "sq_XK": "Kurigram",
         "sr": "Куриграм",
+        "sr@latin": "Kurigram",
         "sr_Cyrl": "Куриграм",
         "sr_Cyrl_BA": "Куриграм",
         "sr_Cyrl_ME": "Куриграм",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Kurigram",
         "tr_TR": "Kurigram",
         "tt": "Kurigram",
+        "tt@iqtelif": "Kurigram",
         "tt_RU": "Kurigram",
         "twq": "Kurigram",
         "twq_NE": "Kurigram",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Kurigram",
         "zh_Hant_TW": "Kurigram",
         "zu": "Kurigram",
-        "zu_ZA": "Kurigram",
-        "sr@latin": "Kurigram",
-        "tt@iqtelif": "Kurigram"
+        "zu_ZA": "Kurigram"
     },
     "29": {
         "af": "Khagrachhari",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Khagrachhari",
         "sq_XK": "Khagrachhari",
         "sr": "Khagrachhari",
+        "sr@latin": "Khagrachhari",
         "sr_Cyrl": "Khagrachhari",
         "sr_Cyrl_BA": "Khagrachhari",
         "sr_Cyrl_ME": "Khagrachhari",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Khagrachhari",
         "tr_TR": "Khagrachhari",
         "tt": "Khagrachhari",
+        "tt@iqtelif": "Khagrachhari",
         "tt_RU": "Khagrachhari",
         "twq": "Khagrachhari",
         "twq_NE": "Khagrachhari",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Khagrachhari",
         "zh_Hant_TW": "Khagrachhari",
         "zu": "Khagrachhari",
-        "zu_ZA": "Khagrachhari",
-        "sr@latin": "Khagrachhari",
-        "tt@iqtelif": "Khagrachhari"
+        "zu_ZA": "Khagrachhari"
     },
     "30": {
         "af": "Kushtia",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Kushtia",
         "sq_XK": "Kushtia",
         "sr": "Куштја",
+        "sr@latin": "Kuštja",
         "sr_Cyrl": "Куштја",
         "sr_Cyrl_BA": "Куштја",
         "sr_Cyrl_ME": "Куштја",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Kushtia",
         "tr_TR": "Kushtia",
         "tt": "Kushtia",
+        "tt@iqtelif": "Kushtia",
         "tt_RU": "Kushtia",
         "twq": "Kushtia",
         "twq_NE": "Kushtia",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Kushtia",
         "zh_Hant_TW": "Kushtia",
         "zu": "Kushtia",
-        "zu_ZA": "Kushtia",
-        "sr@latin": "Kuštja",
-        "tt@iqtelif": "Kushtia"
+        "zu_ZA": "Kushtia"
     },
     "31": {
         "af": "Lakshmipur",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Lakshmipur",
         "sq_XK": "Lakshmipur",
         "sr": "Лакшмипур",
+        "sr@latin": "Lakšmipur",
         "sr_Cyrl": "Лакшмипур",
         "sr_Cyrl_BA": "Лакшмипур",
         "sr_Cyrl_ME": "Лакшмипур",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Lakshmipur",
         "tr_TR": "Lakshmipur",
         "tt": "Lakshmipur",
+        "tt@iqtelif": "Lakshmipur",
         "tt_RU": "Lakshmipur",
         "twq": "Lakshmipur",
         "twq_NE": "Lakshmipur",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Lakshmipur",
         "zh_Hant_TW": "Lakshmipur",
         "zu": "Lakshmipur",
-        "zu_ZA": "Lakshmipur",
-        "sr@latin": "Lakšmipur",
-        "tt@iqtelif": "Lakshmipur"
+        "zu_ZA": "Lakshmipur"
     },
     "32": {
         "af": "Lalmonirhat",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Lalmonirhat",
         "sq_XK": "Lalmonirhat",
         "sr": "Лалмонират",
+        "sr@latin": "Lalmonirat",
         "sr_Cyrl": "Лалмонират",
         "sr_Cyrl_BA": "Лалмонират",
         "sr_Cyrl_ME": "Лалмонират",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Lalmonirhat",
         "tr_TR": "Lalmonirhat",
         "tt": "Lalmonirhat",
+        "tt@iqtelif": "Lalmonirhat",
         "tt_RU": "Lalmonirhat",
         "twq": "Lalmonirhat",
         "twq_NE": "Lalmonirhat",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Lalmonirhat",
         "zh_Hant_TW": "Lalmonirhat",
         "zu": "Lalmonirhat",
-        "zu_ZA": "Lalmonirhat",
-        "sr@latin": "Lalmonirat",
-        "tt@iqtelif": "Lalmonirhat"
+        "zu_ZA": "Lalmonirhat"
     },
     "33": {
         "af": "Manikganj",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Manikganj",
         "sq_XK": "Manikganj",
         "sr": "Маникгањ",
+        "sr@latin": "Manikganj",
         "sr_Cyrl": "Маникгањ",
         "sr_Cyrl_BA": "Маникгањ",
         "sr_Cyrl_ME": "Маникгањ",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Manikganj",
         "tr_TR": "Manikganj",
         "tt": "Manikganj",
+        "tt@iqtelif": "Manikganj",
         "tt_RU": "Manikganj",
         "twq": "Manikganj",
         "twq_NE": "Manikganj",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Manikganj",
         "zh_Hant_TW": "Manikganj",
         "zu": "Manikganj",
-        "zu_ZA": "Manikganj",
-        "sr@latin": "Manikganj",
-        "tt@iqtelif": "Manikganj"
+        "zu_ZA": "Manikganj"
     },
     "34": {
         "af": "Mymensingh",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Mymensingh",
         "sq_XK": "Mymensingh",
         "sr": "Мименсинг",
+        "sr@latin": "Mimensing",
         "sr_Cyrl": "Мименсинг",
         "sr_Cyrl_BA": "Мименсинг",
         "sr_Cyrl_ME": "Мименсинг",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Mymensingh",
         "tr_TR": "Mymensingh",
         "tt": "Mymensingh",
+        "tt@iqtelif": "Mymensingh",
         "tt_RU": "Mymensingh",
         "twq": "Mymensingh",
         "twq_NE": "Mymensingh",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Mymensingh",
         "zh_Hant_TW": "Mymensingh",
         "zu": "Mymensingh",
-        "zu_ZA": "Mymensingh",
-        "sr@latin": "Mimensing",
-        "tt@iqtelif": "Mymensingh"
+        "zu_ZA": "Mymensingh"
     },
     "35": {
         "af": "Munshiganj",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Munshiganj",
         "sq_XK": "Munshiganj",
         "sr": "Муншигањ",
+        "sr@latin": "Munšiganj",
         "sr_Cyrl": "Муншигањ",
         "sr_Cyrl_BA": "Муншигањ",
         "sr_Cyrl_ME": "Муншигањ",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Munshiganj",
         "tr_TR": "Munshiganj",
         "tt": "Munshiganj",
+        "tt@iqtelif": "Munshiganj",
         "tt_RU": "Munshiganj",
         "twq": "Munshiganj",
         "twq_NE": "Munshiganj",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Munshiganj",
         "zh_Hant_TW": "Munshiganj",
         "zu": "Munshiganj",
-        "zu_ZA": "Munshiganj",
-        "sr@latin": "Munšiganj",
-        "tt@iqtelif": "Munshiganj"
+        "zu_ZA": "Munshiganj"
     },
     "36": {
         "af": "Madaripur",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Madaripur",
         "sq_XK": "Madaripur",
         "sr": "Мадарипур",
+        "sr@latin": "Madaripur",
         "sr_Cyrl": "Мадарипур",
         "sr_Cyrl_BA": "Мадарипур",
         "sr_Cyrl_ME": "Мадарипур",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Madaripur",
         "tr_TR": "Madaripur",
         "tt": "Madaripur",
+        "tt@iqtelif": "Madaripur",
         "tt_RU": "Madaripur",
         "twq": "Madaripur",
         "twq_NE": "Madaripur",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Madaripur",
         "zh_Hant_TW": "Madaripur",
         "zu": "Madaripur",
-        "zu_ZA": "Madaripur",
-        "sr@latin": "Madaripur",
-        "tt@iqtelif": "Madaripur"
+        "zu_ZA": "Madaripur"
     },
     "37": {
         "af": "Magura",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Magura",
         "sq_XK": "Magura",
         "sr": "Магура",
+        "sr@latin": "Magura",
         "sr_Cyrl": "Магура",
         "sr_Cyrl_BA": "Магура",
         "sr_Cyrl_ME": "Магура",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Magura",
         "tr_TR": "Magura",
         "tt": "Magura",
+        "tt@iqtelif": "Magura",
         "tt_RU": "Magura",
         "twq": "Magura",
         "twq_NE": "Magura",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Magura",
         "zh_Hant_TW": "Magura",
         "zu": "Magura",
-        "zu_ZA": "Magura",
-        "sr@latin": "Magura",
-        "tt@iqtelif": "Magura"
+        "zu_ZA": "Magura"
     },
     "38": {
         "af": "Moulvibazar",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Moulvibazar",
         "sq_XK": "Moulvibazar",
         "sr": "Мулвибазар",
+        "sr@latin": "Mulvibazar",
         "sr_Cyrl": "Мулвибазар",
         "sr_Cyrl_BA": "Мулвибазар",
         "sr_Cyrl_ME": "Мулвибазар",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Moulvibazar",
         "tr_TR": "Moulvibazar",
         "tt": "Moulvibazar",
+        "tt@iqtelif": "Moulvibazar",
         "tt_RU": "Moulvibazar",
         "twq": "Moulvibazar",
         "twq_NE": "Moulvibazar",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Moulvibazar",
         "zh_Hant_TW": "Moulvibazar",
         "zu": "Moulvibazar",
-        "zu_ZA": "Moulvibazar",
-        "sr@latin": "Mulvibazar",
-        "tt@iqtelif": "Moulvibazar"
+        "zu_ZA": "Moulvibazar"
     },
     "39": {
         "af": "Meherpur",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Meherpur",
         "sq_XK": "Meherpur",
         "sr": "Мехерпур",
+        "sr@latin": "Meherpur",
         "sr_Cyrl": "Мехерпур",
         "sr_Cyrl_BA": "Мехерпур",
         "sr_Cyrl_ME": "Мехерпур",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Meherpur",
         "tr_TR": "Meherpur",
         "tt": "Meherpur",
+        "tt@iqtelif": "Meherpur",
         "tt_RU": "Meherpur",
         "twq": "Meherpur",
         "twq_NE": "Meherpur",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Meherpur",
         "zh_Hant_TW": "Meherpur",
         "zu": "Meherpur",
-        "zu_ZA": "Meherpur",
-        "sr@latin": "Meherpur",
-        "tt@iqtelif": "Meherpur"
+        "zu_ZA": "Meherpur"
     },
     "40": {
         "af": "Narayanganj",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Narayanganj",
         "sq_XK": "Narayanganj",
         "sr": "Нарајангањ",
+        "sr@latin": "Narajanganj",
         "sr_Cyrl": "Нарајангањ",
         "sr_Cyrl_BA": "Нарајангањ",
         "sr_Cyrl_ME": "Нарајангањ",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Narayanganj",
         "tr_TR": "Narayanganj",
         "tt": "Narayanganj",
+        "tt@iqtelif": "Narayanganj",
         "tt_RU": "Narayanganj",
         "twq": "Narayanganj",
         "twq_NE": "Narayanganj",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Narayanganj",
         "zh_Hant_TW": "Narayanganj",
         "zu": "Narayanganj",
-        "zu_ZA": "Narayanganj",
-        "sr@latin": "Narajanganj",
-        "tt@iqtelif": "Narayanganj"
+        "zu_ZA": "Narayanganj"
     },
     "41": {
         "af": "Netrakona",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Netrakona",
         "sq_XK": "Netrakona",
         "sr": "Нетракона",
+        "sr@latin": "Netrakona",
         "sr_Cyrl": "Нетракона",
         "sr_Cyrl_BA": "Нетракона",
         "sr_Cyrl_ME": "Нетракона",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Netrakona",
         "tr_TR": "Netrakona",
         "tt": "Netrakona",
+        "tt@iqtelif": "Netrakona",
         "tt_RU": "Netrakona",
         "twq": "Netrakona",
         "twq_NE": "Netrakona",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Netrakona",
         "zh_Hant_TW": "Netrakona",
         "zu": "Netrakona",
-        "zu_ZA": "Netrakona",
-        "sr@latin": "Netrakona",
-        "tt@iqtelif": "Netrakona"
+        "zu_ZA": "Netrakona"
     },
     "42": {
         "af": "Narsingdi",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Narsingdi",
         "sq_XK": "Narsingdi",
         "sr": "Нарсинди",
+        "sr@latin": "Narsindi",
         "sr_Cyrl": "Нарсинди",
         "sr_Cyrl_BA": "Нарсинди",
         "sr_Cyrl_ME": "Нарсинди",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Narsingdi",
         "tr_TR": "Narsingdi",
         "tt": "Narsingdi",
+        "tt@iqtelif": "Narsingdi",
         "tt_RU": "Narsingdi",
         "twq": "Narsingdi",
         "twq_NE": "Narsingdi",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Narsingdi",
         "zh_Hant_TW": "Narsingdi",
         "zu": "Narsingdi",
-        "zu_ZA": "Narsingdi",
-        "sr@latin": "Narsindi",
-        "tt@iqtelif": "Narsingdi"
+        "zu_ZA": "Narsingdi"
     },
     "43": {
         "af": "Narail",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Narail",
         "sq_XK": "Narail",
         "sr": "Нарај",
+        "sr@latin": "Naraj",
         "sr_Cyrl": "Нарај",
         "sr_Cyrl_BA": "Нарај",
         "sr_Cyrl_ME": "Нарај",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Narail",
         "tr_TR": "Narail",
         "tt": "Narail",
+        "tt@iqtelif": "Narail",
         "tt_RU": "Narail",
         "twq": "Narail",
         "twq_NE": "Narail",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Narail",
         "zh_Hant_TW": "Narail",
         "zu": "Narail",
-        "zu_ZA": "Narail",
-        "sr@latin": "Naraj",
-        "tt@iqtelif": "Narail"
+        "zu_ZA": "Narail"
     },
     "44": {
         "af": "Natore",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Natore",
         "sq_XK": "Natore",
         "sr": "Наторе",
+        "sr@latin": "Natore",
         "sr_Cyrl": "Наторе",
         "sr_Cyrl_BA": "Наторе",
         "sr_Cyrl_ME": "Наторе",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Natore",
         "tr_TR": "Natore",
         "tt": "Natore",
+        "tt@iqtelif": "Natore",
         "tt_RU": "Natore",
         "twq": "Natore",
         "twq_NE": "Natore",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Natore",
         "zh_Hant_TW": "Natore",
         "zu": "Natore",
-        "zu_ZA": "Natore",
-        "sr@latin": "Natore",
-        "tt@iqtelif": "Natore"
+        "zu_ZA": "Natore"
     },
     "45": {
         "af": "Chapai Nawabganj",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Chapai Nawabganj",
         "sq_XK": "Chapai Nawabganj",
         "sr": "Chapai Nawabganj",
+        "sr@latin": "Chapai Nawabganj",
         "sr_Cyrl": "Chapai Nawabganj",
         "sr_Cyrl_BA": "Chapai Nawabganj",
         "sr_Cyrl_ME": "Chapai Nawabganj",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Chapai Nawabganj",
         "tr_TR": "Chapai Nawabganj",
         "tt": "Chapai Nawabganj",
+        "tt@iqtelif": "Chapai Nawabganj",
         "tt_RU": "Chapai Nawabganj",
         "twq": "Chapai Nawabganj",
         "twq_NE": "Chapai Nawabganj",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Chapai Nawabganj",
         "zh_Hant_TW": "Chapai Nawabganj",
         "zu": "Chapai Nawabganj",
-        "zu_ZA": "Chapai Nawabganj",
-        "sr@latin": "Chapai Nawabganj",
-        "tt@iqtelif": "Chapai Nawabganj"
+        "zu_ZA": "Chapai Nawabganj"
     },
     "46": {
         "af": "Nilphamari",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Nilphamari",
         "sq_XK": "Nilphamari",
         "sr": "Нилфамари",
+        "sr@latin": "Nilfamari",
         "sr_Cyrl": "Нилфамари",
         "sr_Cyrl_BA": "Нилфамари",
         "sr_Cyrl_ME": "Нилфамари",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Nilphamari",
         "tr_TR": "Nilphamari",
         "tt": "Nilphamari",
+        "tt@iqtelif": "Nilphamari",
         "tt_RU": "Nilphamari",
         "twq": "Nilphamari",
         "twq_NE": "Nilphamari",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Nilphamari",
         "zh_Hant_TW": "Nilphamari",
         "zu": "Nilphamari",
-        "zu_ZA": "Nilphamari",
-        "sr@latin": "Nilfamari",
-        "tt@iqtelif": "Nilphamari"
+        "zu_ZA": "Nilphamari"
     },
     "47": {
         "af": "Noakhali",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Noakhali",
         "sq_XK": "Noakhali",
         "sr": "Ноакали",
+        "sr@latin": "Noakali",
         "sr_Cyrl": "Ноакали",
         "sr_Cyrl_BA": "Ноакали",
         "sr_Cyrl_ME": "Ноакали",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Noakhali",
         "tr_TR": "Noakhali",
         "tt": "Noakhali",
+        "tt@iqtelif": "Noakhali",
         "tt_RU": "Noakhali",
         "twq": "Noakhali",
         "twq_NE": "Noakhali",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Noakhali",
         "zh_Hant_TW": "Noakhali",
         "zu": "Noakhali",
-        "zu_ZA": "Noakhali",
-        "sr@latin": "Noakali",
-        "tt@iqtelif": "Noakhali"
+        "zu_ZA": "Noakhali"
     },
     "48": {
         "af": "Naogaon",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Naogaon",
         "sq_XK": "Naogaon",
         "sr": "Наогаон",
+        "sr@latin": "Naogaon",
         "sr_Cyrl": "Наогаон",
         "sr_Cyrl_BA": "Наогаон",
         "sr_Cyrl_ME": "Наогаон",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Naogaon",
         "tr_TR": "Naogaon",
         "tt": "Naogaon",
+        "tt@iqtelif": "Naogaon",
         "tt_RU": "Naogaon",
         "twq": "Naogaon",
         "twq_NE": "Naogaon",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Naogaon",
         "zh_Hant_TW": "Naogaon",
         "zu": "Naogaon",
-        "zu_ZA": "Naogaon",
-        "sr@latin": "Naogaon",
-        "tt@iqtelif": "Naogaon"
+        "zu_ZA": "Naogaon"
     },
     "49": {
         "af": "Pabna",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Pabna",
         "sq_XK": "Pabna",
         "sr": "Пабна",
+        "sr@latin": "Pabna",
         "sr_Cyrl": "Пабна",
         "sr_Cyrl_BA": "Пабна",
         "sr_Cyrl_ME": "Пабна",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Pabna",
         "tr_TR": "Pabna",
         "tt": "Pabna",
+        "tt@iqtelif": "Pabna",
         "tt_RU": "Pabna",
         "twq": "Pabna",
         "twq_NE": "Pabna",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Pabna",
         "zh_Hant_TW": "Pabna",
         "zu": "Pabna",
-        "zu_ZA": "Pabna",
-        "sr@latin": "Pabna",
-        "tt@iqtelif": "Pabna"
+        "zu_ZA": "Pabna"
     },
     "50": {
         "af": "Pirojpur",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Pirojpur",
         "sq_XK": "Pirojpur",
         "sr": "Пироџпур",
+        "sr@latin": "Pirodžpur",
         "sr_Cyrl": "Пироџпур",
         "sr_Cyrl_BA": "Пироџпур",
         "sr_Cyrl_ME": "Пироџпур",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Pirojpur",
         "tr_TR": "Pirojpur",
         "tt": "Pirojpur",
+        "tt@iqtelif": "Pirojpur",
         "tt_RU": "Pirojpur",
         "twq": "Pirojpur",
         "twq_NE": "Pirojpur",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Pirojpur",
         "zh_Hant_TW": "Pirojpur",
         "zu": "Pirojpur",
-        "zu_ZA": "Pirojpur",
-        "sr@latin": "Pirodžpur",
-        "tt@iqtelif": "Pirojpur"
+        "zu_ZA": "Pirojpur"
     },
     "51": {
         "af": "Patuakhali",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Patuakhali",
         "sq_XK": "Patuakhali",
         "sr": "Патуакали",
+        "sr@latin": "Patuakali",
         "sr_Cyrl": "Патуакали",
         "sr_Cyrl_BA": "Патуакали",
         "sr_Cyrl_ME": "Патуакали",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Patuakhali",
         "tr_TR": "Patuakhali",
         "tt": "Patuakhali",
+        "tt@iqtelif": "Patuakhali",
         "tt_RU": "Patuakhali",
         "twq": "Patuakhali",
         "twq_NE": "Patuakhali",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Patuakhali",
         "zh_Hant_TW": "Patuakhali",
         "zu": "Patuakhali",
-        "zu_ZA": "Patuakhali",
-        "sr@latin": "Patuakali",
-        "tt@iqtelif": "Patuakhali"
+        "zu_ZA": "Patuakhali"
     },
     "52": {
         "af": "Panchagarh",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Panchagarh",
         "sq_XK": "Panchagarh",
         "sr": "Панчагар",
+        "sr@latin": "Pančagar",
         "sr_Cyrl": "Панчагар",
         "sr_Cyrl_BA": "Панчагар",
         "sr_Cyrl_ME": "Панчагар",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Panchagarh",
         "tr_TR": "Panchagarh",
         "tt": "Panchagarh",
+        "tt@iqtelif": "Panchagarh",
         "tt_RU": "Panchagarh",
         "twq": "Panchagarh",
         "twq_NE": "Panchagarh",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Panchagarh",
         "zh_Hant_TW": "Panchagarh",
         "zu": "Panchagarh",
-        "zu_ZA": "Panchagarh",
-        "sr@latin": "Pančagar",
-        "tt@iqtelif": "Panchagarh"
+        "zu_ZA": "Panchagarh"
     },
     "53": {
         "af": "Rajbari",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Rajbari",
         "sq_XK": "Rajbari",
         "sr": "Раџбари",
+        "sr@latin": "Radžbari",
         "sr_Cyrl": "Раџбари",
         "sr_Cyrl_BA": "Раџбари",
         "sr_Cyrl_ME": "Раџбари",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Rajbari",
         "tr_TR": "Rajbari",
         "tt": "Rajbari",
+        "tt@iqtelif": "Rajbari",
         "tt_RU": "Rajbari",
         "twq": "Rajbari",
         "twq_NE": "Rajbari",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Rajbari",
         "zh_Hant_TW": "Rajbari",
         "zu": "Rajbari",
-        "zu_ZA": "Rajbari",
-        "sr@latin": "Radžbari",
-        "tt@iqtelif": "Rajbari"
+        "zu_ZA": "Rajbari"
     },
     "54": {
         "af": "Rajshahi",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Rajshahi",
         "sq_XK": "Rajshahi",
         "sr": "Раџшаи",
+        "sr@latin": "Radžšai",
         "sr_Cyrl": "Раџшаи",
         "sr_Cyrl_BA": "Раџшаи",
         "sr_Cyrl_ME": "Раџшаи",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Rajshahi",
         "tr_TR": "Rajshahi",
         "tt": "Rajshahi",
+        "tt@iqtelif": "Rajshahi",
         "tt_RU": "Rajshahi",
         "twq": "Rajshahi",
         "twq_NE": "Rajshahi",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Rajshahi",
         "zh_Hant_TW": "Rajshahi",
         "zu": "Rajshahi",
-        "zu_ZA": "Rajshahi",
-        "sr@latin": "Radžšai",
-        "tt@iqtelif": "Rajshahi"
+        "zu_ZA": "Rajshahi"
     },
     "55": {
         "af": "Rangpur",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Rangpur",
         "sq_XK": "Rangpur",
         "sr": "Рангпур",
+        "sr@latin": "Rangpur",
         "sr_Cyrl": "Рангпур",
         "sr_Cyrl_BA": "Рангпур",
         "sr_Cyrl_ME": "Рангпур",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Rangpur",
         "tr_TR": "Rangpur",
         "tt": "Rangpur",
+        "tt@iqtelif": "Rangpur",
         "tt_RU": "Rangpur",
         "twq": "Rangpur",
         "twq_NE": "Rangpur",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Rangpur",
         "zh_Hant_TW": "Rangpur",
         "zu": "Rangpur",
-        "zu_ZA": "Rangpur",
-        "sr@latin": "Rangpur",
-        "tt@iqtelif": "Rangpur"
+        "zu_ZA": "Rangpur"
     },
     "56": {
         "af": "Rangamati",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Rangamati",
         "sq_XK": "Rangamati",
         "sr": "Рангамати",
+        "sr@latin": "Rangamati",
         "sr_Cyrl": "Рангамати",
         "sr_Cyrl_BA": "Рангамати",
         "sr_Cyrl_ME": "Рангамати",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Rangamati",
         "tr_TR": "Rangamati",
         "tt": "Rangamati",
+        "tt@iqtelif": "Rangamati",
         "tt_RU": "Rangamati",
         "twq": "Rangamati",
         "twq_NE": "Rangamati",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Rangamati",
         "zh_Hant_TW": "Rangamati",
         "zu": "Rangamati",
-        "zu_ZA": "Rangamati",
-        "sr@latin": "Rangamati",
-        "tt@iqtelif": "Rangamati"
+        "zu_ZA": "Rangamati"
     },
     "57": {
         "af": "Sherpur",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Sherpur",
         "sq_XK": "Sherpur",
         "sr": "Серпур",
+        "sr@latin": "Serpur",
         "sr_Cyrl": "Серпур",
         "sr_Cyrl_BA": "Серпур",
         "sr_Cyrl_ME": "Серпур",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Sherpur",
         "tr_TR": "Sherpur",
         "tt": "Sherpur",
+        "tt@iqtelif": "Sherpur",
         "tt_RU": "Sherpur",
         "twq": "Sherpur",
         "twq_NE": "Sherpur",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Sherpur",
         "zh_Hant_TW": "Sherpur",
         "zu": "Sherpur",
-        "zu_ZA": "Sherpur",
-        "sr@latin": "Serpur",
-        "tt@iqtelif": "Sherpur"
+        "zu_ZA": "Sherpur"
     },
     "58": {
         "af": "Satkhira",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Satkhira",
         "sq_XK": "Satkhira",
         "sr": "Саткира",
+        "sr@latin": "Satkira",
         "sr_Cyrl": "Саткира",
         "sr_Cyrl_BA": "Саткира",
         "sr_Cyrl_ME": "Саткира",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Satkhira",
         "tr_TR": "Satkhira",
         "tt": "Satkhira",
+        "tt@iqtelif": "Satkhira",
         "tt_RU": "Satkhira",
         "twq": "Satkhira",
         "twq_NE": "Satkhira",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Satkhira",
         "zh_Hant_TW": "Satkhira",
         "zu": "Satkhira",
-        "zu_ZA": "Satkhira",
-        "sr@latin": "Satkira",
-        "tt@iqtelif": "Satkhira"
+        "zu_ZA": "Satkhira"
     },
     "59": {
         "af": "Sirajganj",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Sirajganj",
         "sq_XK": "Sirajganj",
         "sr": "Сирајгањ",
+        "sr@latin": "Sirajganj",
         "sr_Cyrl": "Сирајгањ",
         "sr_Cyrl_BA": "Сирајгањ",
         "sr_Cyrl_ME": "Сирајгањ",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Sirajganj",
         "tr_TR": "Sirajganj",
         "tt": "Sirajganj",
+        "tt@iqtelif": "Sirajganj",
         "tt_RU": "Sirajganj",
         "twq": "Sirajganj",
         "twq_NE": "Sirajganj",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Sirajganj",
         "zh_Hant_TW": "Sirajganj",
         "zu": "Sirajganj",
-        "zu_ZA": "Sirajganj",
-        "sr@latin": "Sirajganj",
-        "tt@iqtelif": "Sirajganj"
+        "zu_ZA": "Sirajganj"
     },
     "60": {
         "af": "Sylhet",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Sylhet",
         "sq_XK": "Sylhet",
         "sr": "Силет",
+        "sr@latin": "Silet",
         "sr_Cyrl": "Силет",
         "sr_Cyrl_BA": "Силет",
         "sr_Cyrl_ME": "Силет",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Sylhet",
         "tr_TR": "Sylhet",
         "tt": "Sylhet",
+        "tt@iqtelif": "Sylhet",
         "tt_RU": "Sylhet",
         "twq": "Sylhet",
         "twq_NE": "Sylhet",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Sylhet",
         "zh_Hant_TW": "Sylhet",
         "zu": "Sylhet",
-        "zu_ZA": "Sylhet",
-        "sr@latin": "Silet",
-        "tt@iqtelif": "Sylhet"
+        "zu_ZA": "Sylhet"
     },
     "61": {
         "af": "Sunamganj",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Sunamganj",
         "sq_XK": "Sunamganj",
         "sr": "Сунамгањ",
+        "sr@latin": "Sunamganj",
         "sr_Cyrl": "Сунамгањ",
         "sr_Cyrl_BA": "Сунамгањ",
         "sr_Cyrl_ME": "Сунамгањ",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Sunamganj",
         "tr_TR": "Sunamganj",
         "tt": "Sunamganj",
+        "tt@iqtelif": "Sunamganj",
         "tt_RU": "Sunamganj",
         "twq": "Sunamganj",
         "twq_NE": "Sunamganj",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Sunamganj",
         "zh_Hant_TW": "Sunamganj",
         "zu": "Sunamganj",
-        "zu_ZA": "Sunamganj",
-        "sr@latin": "Sunamganj",
-        "tt@iqtelif": "Sunamganj"
+        "zu_ZA": "Sunamganj"
     },
     "62": {
         "af": "Shariatpur",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Shariatpur",
         "sq_XK": "Shariatpur",
         "sr": "Шариатпур",
+        "sr@latin": "Šariatpur",
         "sr_Cyrl": "Шариатпур",
         "sr_Cyrl_BA": "Шариатпур",
         "sr_Cyrl_ME": "Шариатпур",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Shariatpur",
         "tr_TR": "Shariatpur",
         "tt": "Shariatpur",
+        "tt@iqtelif": "Shariatpur",
         "tt_RU": "Shariatpur",
         "twq": "Shariatpur",
         "twq_NE": "Shariatpur",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Shariatpur",
         "zh_Hant_TW": "Shariatpur",
         "zu": "Shariatpur",
-        "zu_ZA": "Shariatpur",
-        "sr@latin": "Šariatpur",
-        "tt@iqtelif": "Shariatpur"
+        "zu_ZA": "Shariatpur"
     },
     "63": {
         "af": "Tangail",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Tangail",
         "sq_XK": "Tangail",
         "sr": "Тангаил",
+        "sr@latin": "Tangail",
         "sr_Cyrl": "Тангаил",
         "sr_Cyrl_BA": "Тангаил",
         "sr_Cyrl_ME": "Тангаил",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Tangail",
         "tr_TR": "Tangail",
         "tt": "Tangail",
+        "tt@iqtelif": "Tangail",
         "tt_RU": "Tangail",
         "twq": "Tangail",
         "twq_NE": "Tangail",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Tangail",
         "zh_Hant_TW": "Tangail",
         "zu": "Tangail",
-        "zu_ZA": "Tangail",
-        "sr@latin": "Tangail",
-        "tt@iqtelif": "Tangail"
+        "zu_ZA": "Tangail"
     },
     "64": {
         "af": "Thakurgaon",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Thakurgaon",
         "sq_XK": "Thakurgaon",
         "sr": "Такургаон",
+        "sr@latin": "Takurgaon",
         "sr_Cyrl": "Такургаон",
         "sr_Cyrl_BA": "Такургаон",
         "sr_Cyrl_ME": "Такургаон",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Thakurgaon",
         "tr_TR": "Thakurgaon",
         "tt": "Thakurgaon",
+        "tt@iqtelif": "Thakurgaon",
         "tt_RU": "Thakurgaon",
         "twq": "Thakurgaon",
         "twq_NE": "Thakurgaon",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Thakurgaon",
         "zh_Hant_TW": "Thakurgaon",
         "zu": "Thakurgaon",
-        "zu_ZA": "Thakurgaon",
-        "sr@latin": "Takurgaon",
-        "tt@iqtelif": "Thakurgaon"
+        "zu_ZA": "Thakurgaon"
     },
     "A": {
         "af": "Barishal",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Barishal",
         "sq_XK": "Barishal",
         "sr": "Barishal",
+        "sr@latin": "Barishal",
         "sr_Cyrl": "Barishal",
         "sr_Cyrl_BA": "Barishal",
         "sr_Cyrl_ME": "Barishal",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Barishal",
         "tr_TR": "Barishal",
         "tt": "Barishal",
+        "tt@iqtelif": "Barishal",
         "tt_RU": "Barishal",
         "twq": "Barishal",
         "twq_NE": "Barishal",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Barishal",
         "zh_Hant_TW": "Barishal",
         "zu": "Barishal",
-        "zu_ZA": "Barishal",
-        "sr@latin": "Barishal",
-        "tt@iqtelif": "Barishal"
+        "zu_ZA": "Barishal"
     },
     "B": {
         "af": "Chattogram",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Chattogram",
         "sq_XK": "Chattogram",
         "sr": "Chattogram",
+        "sr@latin": "Chattogram",
         "sr_Cyrl": "Chattogram",
         "sr_Cyrl_BA": "Chattogram",
         "sr_Cyrl_ME": "Chattogram",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Chattogram",
         "tr_TR": "Chattogram",
         "tt": "Chattogram",
+        "tt@iqtelif": "Chattogram",
         "tt_RU": "Chattogram",
         "twq": "Chattogram",
         "twq_NE": "Chattogram",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Chattogram",
         "zh_Hant_TW": "Chattogram",
         "zu": "Chattogram",
-        "zu_ZA": "Chattogram",
-        "sr@latin": "Chattogram",
-        "tt@iqtelif": "Chattogram"
+        "zu_ZA": "Chattogram"
     },
     "C": {
         "af": "Dhaka",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Dhaka",
         "sq_XK": "Dhaka",
         "sr": "Дака",
+        "sr@latin": "Daka",
         "sr_Cyrl": "Дака",
         "sr_Cyrl_BA": "Дака",
         "sr_Cyrl_ME": "Дака",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Dakka",
         "tr_TR": "Dakka",
         "tt": "Dhaka",
+        "tt@iqtelif": "Dhaka",
         "tt_RU": "Dhaka",
         "twq": "Dhaka",
         "twq_NE": "Dhaka",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Dhaka",
         "zh_Hant_TW": "Dhaka",
         "zu": "Dhaka",
-        "zu_ZA": "Dhaka",
-        "sr@latin": "Daka",
-        "tt@iqtelif": "Dhaka"
+        "zu_ZA": "Dhaka"
     },
     "D": {
         "af": "Khulna",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Khulna",
         "sq_XK": "Khulna",
         "sr": "Кулна",
+        "sr@latin": "Kulna",
         "sr_Cyrl": "Кулна",
         "sr_Cyrl_BA": "Кулна",
         "sr_Cyrl_ME": "Кулна",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Khulna",
         "tr_TR": "Khulna",
         "tt": "Khulna",
+        "tt@iqtelif": "Khulna",
         "tt_RU": "Khulna",
         "twq": "Khulna",
         "twq_NE": "Khulna",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Khulna",
         "zh_Hant_TW": "Khulna",
         "zu": "Khulna",
-        "zu_ZA": "Khulna",
-        "sr@latin": "Kulna",
-        "tt@iqtelif": "Khulna"
+        "zu_ZA": "Khulna"
     },
     "E": {
         "af": "Rajshahi",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Rajshahi",
         "sq_XK": "Rajshahi",
         "sr": "Раџшаи",
+        "sr@latin": "Radžšai",
         "sr_Cyrl": "Раџшаи",
         "sr_Cyrl_BA": "Раџшаи",
         "sr_Cyrl_ME": "Раџшаи",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Rajshahi",
         "tr_TR": "Rajshahi",
         "tt": "Rajshahi",
+        "tt@iqtelif": "Rajshahi",
         "tt_RU": "Rajshahi",
         "twq": "Rajshahi",
         "twq_NE": "Rajshahi",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Rajshahi",
         "zh_Hant_TW": "Rajshahi",
         "zu": "Rajshahi",
-        "zu_ZA": "Rajshahi",
-        "sr@latin": "Radžšai",
-        "tt@iqtelif": "Rajshahi"
+        "zu_ZA": "Rajshahi"
     },
     "F": {
         "af": "Rangpur",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Rangpur",
         "sq_XK": "Rangpur",
         "sr": "Рангпур",
+        "sr@latin": "Rangpur",
         "sr_Cyrl": "Рангпур",
         "sr_Cyrl_BA": "Рангпур",
         "sr_Cyrl_ME": "Рангпур",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Rangpur",
         "tr_TR": "Rangpur",
         "tt": "Rangpur",
+        "tt@iqtelif": "Rangpur",
         "tt_RU": "Rangpur",
         "twq": "Rangpur",
         "twq_NE": "Rangpur",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Rangpur",
         "zh_Hant_TW": "Rangpur",
         "zu": "Rangpur",
-        "zu_ZA": "Rangpur",
-        "sr@latin": "Rangpur",
-        "tt@iqtelif": "Rangpur"
+        "zu_ZA": "Rangpur"
     },
     "G": {
         "af": "Sylhet",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Sylhet",
         "sq_XK": "Sylhet",
         "sr": "Силет",
+        "sr@latin": "Silet",
         "sr_Cyrl": "Силет",
         "sr_Cyrl_BA": "Силет",
         "sr_Cyrl_ME": "Силет",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Sylhet",
         "tr_TR": "Sylhet",
         "tt": "Sylhet",
+        "tt@iqtelif": "Sylhet",
         "tt_RU": "Sylhet",
         "twq": "Sylhet",
         "twq_NE": "Sylhet",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Sylhet",
         "zh_Hant_TW": "Sylhet",
         "zu": "Sylhet",
-        "zu_ZA": "Sylhet",
-        "sr@latin": "Silet",
-        "tt@iqtelif": "Sylhet"
+        "zu_ZA": "Sylhet"
     },
     "H": {
         "af": "Mymensingh",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Mymensingh",
         "sq_XK": "Mymensingh",
         "sr": "Мименсинг",
+        "sr@latin": "Mimensing",
         "sr_Cyrl": "Мименсинг",
         "sr_Cyrl_BA": "Мименсинг",
         "sr_Cyrl_ME": "Мименсинг",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Mymensingh",
         "tr_TR": "Mymensingh",
         "tt": "Mymensingh",
+        "tt@iqtelif": "Mymensingh",
         "tt_RU": "Mymensingh",
         "twq": "Mymensingh",
         "twq_NE": "Mymensingh",
@@ -63715,8 +63717,6 @@
         "zh_Hant_MY": "Mymensingh",
         "zh_Hant_TW": "Mymensingh",
         "zu": "Mymensingh",
-        "zu_ZA": "Mymensingh",
-        "sr@latin": "Mimensing",
-        "tt@iqtelif": "Mymensingh"
+        "zu_ZA": "Mymensingh"
     }
 }

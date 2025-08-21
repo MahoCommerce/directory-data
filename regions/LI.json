@@ -743,6 +743,7 @@
         "sq_MK": "Balzers",
         "sq_XK": "Balzers",
         "sr": "Балзерс",
+        "sr@latin": "Balzers",
         "sr_Cyrl": "Балзерс",
         "sr_Cyrl_BA": "Балзерс",
         "sr_Cyrl_ME": "Балзерс",
@@ -803,6 +804,7 @@
         "tr_CY": "Balzers",
         "tr_TR": "Balzers",
         "tt": "Balzers",
+        "tt@iqtelif": "Balzers",
         "tt_RU": "Balzers",
         "twq": "Balzers",
         "twq_NE": "Balzers",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Balzers",
         "zh_Hant_TW": "Balzers",
         "zu": "Balzers",
-        "zu_ZA": "Balzers",
-        "sr@latin": "Balzers",
-        "tt@iqtelif": "Balzers"
+        "zu_ZA": "Balzers"
     },
     "02": {
         "af": "Eschen",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Eschen",
         "sq_XK": "Eschen",
         "sr": "Есшен",
+        "sr@latin": "Esšen",
         "sr_Cyrl": "Есшен",
         "sr_Cyrl_BA": "Есшен",
         "sr_Cyrl_ME": "Есшен",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Eschen",
         "tr_TR": "Eschen",
         "tt": "Eschen",
+        "tt@iqtelif": "Eschen",
         "tt_RU": "Eschen",
         "twq": "Eschen",
         "twq_NE": "Eschen",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Eschen",
         "zh_Hant_TW": "Eschen",
         "zu": "Eschen",
-        "zu_ZA": "Eschen",
-        "sr@latin": "Esšen",
-        "tt@iqtelif": "Eschen"
+        "zu_ZA": "Eschen"
     },
     "03": {
         "af": "Gamprin",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Gamprin",
         "sq_XK": "Gamprin",
         "sr": "Гамприн",
+        "sr@latin": "Gamprin",
         "sr_Cyrl": "Гамприн",
         "sr_Cyrl_BA": "Гамприн",
         "sr_Cyrl_ME": "Гамприн",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Gamprin",
         "tr_TR": "Gamprin",
         "tt": "Gamprin",
+        "tt@iqtelif": "Gamprin",
         "tt_RU": "Gamprin",
         "twq": "Gamprin",
         "twq_NE": "Gamprin",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Gamprin",
         "zh_Hant_TW": "Gamprin",
         "zu": "Gamprin",
-        "zu_ZA": "Gamprin",
-        "sr@latin": "Gamprin",
-        "tt@iqtelif": "Gamprin"
+        "zu_ZA": "Gamprin"
     },
     "04": {
         "af": "Mauren",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Mauren",
         "sq_XK": "Mauren",
         "sr": "Маурен",
+        "sr@latin": "Mauren",
         "sr_Cyrl": "Маурен",
         "sr_Cyrl_BA": "Маурен",
         "sr_Cyrl_ME": "Маурен",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Mauren",
         "tr_TR": "Mauren",
         "tt": "Mauren",
+        "tt@iqtelif": "Mauren",
         "tt_RU": "Mauren",
         "twq": "Mauren",
         "twq_NE": "Mauren",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Mauren",
         "zh_Hant_TW": "Mauren",
         "zu": "Mauren",
-        "zu_ZA": "Mauren",
-        "sr@latin": "Mauren",
-        "tt@iqtelif": "Mauren"
+        "zu_ZA": "Mauren"
     },
     "05": {
         "af": "Planken",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Planken",
         "sq_XK": "Planken",
         "sr": "Планкен",
+        "sr@latin": "Planken",
         "sr_Cyrl": "Планкен",
         "sr_Cyrl_BA": "Планкен",
         "sr_Cyrl_ME": "Планкен",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Planken",
         "tr_TR": "Planken",
         "tt": "Planken",
+        "tt@iqtelif": "Planken",
         "tt_RU": "Planken",
         "twq": "Planken",
         "twq_NE": "Planken",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Planken",
         "zh_Hant_TW": "Planken",
         "zu": "Planken",
-        "zu_ZA": "Planken",
-        "sr@latin": "Planken",
-        "tt@iqtelif": "Planken"
+        "zu_ZA": "Planken"
     },
     "06": {
         "af": "Ruggell",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Ruggell",
         "sq_XK": "Ruggell",
         "sr": "Ruggell",
+        "sr@latin": "Ruggell",
         "sr_Cyrl": "Ruggell",
         "sr_Cyrl_BA": "Ruggell",
         "sr_Cyrl_ME": "Ruggell",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Ruggell",
         "tr_TR": "Ruggell",
         "tt": "Ruggell",
+        "tt@iqtelif": "Ruggell",
         "tt_RU": "Ruggell",
         "twq": "Ruggell",
         "twq_NE": "Ruggell",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Ruggell",
         "zh_Hant_TW": "Ruggell",
         "zu": "Ruggell",
-        "zu_ZA": "Ruggell",
-        "sr@latin": "Ruggell",
-        "tt@iqtelif": "Ruggell"
+        "zu_ZA": "Ruggell"
     },
     "07": {
         "af": "Schaan",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Schaan",
         "sq_XK": "Schaan",
         "sr": "Шан",
+        "sr@latin": "Šan",
         "sr_Cyrl": "Шан",
         "sr_Cyrl_BA": "Шан",
         "sr_Cyrl_ME": "Шан",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Schaan",
         "tr_TR": "Schaan",
         "tt": "Schaan",
+        "tt@iqtelif": "Schaan",
         "tt_RU": "Schaan",
         "twq": "Schaan",
         "twq_NE": "Schaan",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Schaan",
         "zh_Hant_TW": "Schaan",
         "zu": "Schaan",
-        "zu_ZA": "Schaan",
-        "sr@latin": "Šan",
-        "tt@iqtelif": "Schaan"
+        "zu_ZA": "Schaan"
     },
     "08": {
         "af": "Schellenberg",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Schellenberg",
         "sq_XK": "Schellenberg",
         "sr": "Шеленберг",
+        "sr@latin": "Šelenberg",
         "sr_Cyrl": "Шеленберг",
         "sr_Cyrl_BA": "Шеленберг",
         "sr_Cyrl_ME": "Шеленберг",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Schellenberg",
         "tr_TR": "Schellenberg",
         "tt": "Schellenberg",
+        "tt@iqtelif": "Schellenberg",
         "tt_RU": "Schellenberg",
         "twq": "Schellenberg",
         "twq_NE": "Schellenberg",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Schellenberg",
         "zh_Hant_TW": "Schellenberg",
         "zu": "Schellenberg",
-        "zu_ZA": "Schellenberg",
-        "sr@latin": "Šelenberg",
-        "tt@iqtelif": "Schellenberg"
+        "zu_ZA": "Schellenberg"
     },
     "09": {
         "af": "Triesen",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Triesen",
         "sq_XK": "Triesen",
         "sr": "Triesen",
+        "sr@latin": "Triesen",
         "sr_Cyrl": "Triesen",
         "sr_Cyrl_BA": "Triesen",
         "sr_Cyrl_ME": "Triesen",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Triesen",
         "tr_TR": "Triesen",
         "tt": "Triesen",
+        "tt@iqtelif": "Triesen",
         "tt_RU": "Triesen",
         "twq": "Triesen",
         "twq_NE": "Triesen",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Triesen",
         "zh_Hant_TW": "Triesen",
         "zu": "Triesen",
-        "zu_ZA": "Triesen",
-        "sr@latin": "Triesen",
-        "tt@iqtelif": "Triesen"
+        "zu_ZA": "Triesen"
     },
     "10": {
         "af": "Triesenberg",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Triesenberg",
         "sq_XK": "Triesenberg",
         "sr": "Triesenberg",
+        "sr@latin": "Triesenberg",
         "sr_Cyrl": "Triesenberg",
         "sr_Cyrl_BA": "Triesenberg",
         "sr_Cyrl_ME": "Triesenberg",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Triesenberg",
         "tr_TR": "Triesenberg",
         "tt": "Triesenberg",
+        "tt@iqtelif": "Triesenberg",
         "tt_RU": "Triesenberg",
         "twq": "Triesenberg",
         "twq_NE": "Triesenberg",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Triesenberg",
         "zh_Hant_TW": "Triesenberg",
         "zu": "Triesenberg",
-        "zu_ZA": "Triesenberg",
-        "sr@latin": "Triesenberg",
-        "tt@iqtelif": "Triesenberg"
+        "zu_ZA": "Triesenberg"
     },
     "11": {
         "af": "Vaduz",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Vaduz",
         "sq_XK": "Vaduz",
         "sr": "Вадуз",
+        "sr@latin": "Vaduz",
         "sr_Cyrl": "Вадуз",
         "sr_Cyrl_BA": "Вадуз",
         "sr_Cyrl_ME": "Вадуз",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Vaduz",
         "tr_TR": "Vaduz",
         "tt": "Vaduz",
+        "tt@iqtelif": "Vaduz",
         "tt_RU": "Vaduz",
         "twq": "Vaduz",
         "twq_NE": "Vaduz",
@@ -9730,8 +9732,6 @@
         "zh_Hant_MY": "Vaduz",
         "zh_Hant_TW": "Vaduz",
         "zu": "Vaduz",
-        "zu_ZA": "Vaduz",
-        "sr@latin": "Vaduz",
-        "tt@iqtelif": "Vaduz"
+        "zu_ZA": "Vaduz"
     }
 }

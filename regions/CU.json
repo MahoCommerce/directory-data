@@ -743,6 +743,7 @@
         "sq_MK": "Pinar del Río",
         "sq_XK": "Pinar del Río",
         "sr": "Pinar del Río",
+        "sr@latin": "Pinar del Río",
         "sr_Cyrl": "Pinar del Río",
         "sr_Cyrl_BA": "Pinar del Río",
         "sr_Cyrl_ME": "Pinar del Río",
@@ -803,6 +804,7 @@
         "tr_CY": "Pinar del Río",
         "tr_TR": "Pinar del Río",
         "tt": "Pinar del Río",
+        "tt@iqtelif": "Pinar del Río",
         "tt_RU": "Pinar del Río",
         "twq": "Pinar del Río",
         "twq_NE": "Pinar del Río",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Pinar del Río",
         "zh_Hant_TW": "Pinar del Río",
         "zu": "Pinar del Río",
-        "zu_ZA": "Pinar del Río",
-        "sr@latin": "Pinar del Río",
-        "tt@iqtelif": "Pinar del Río"
+        "zu_ZA": "Pinar del Río"
     },
     "03": {
         "af": "La Habana",
@@ -1628,6 +1628,7 @@
         "sq_MK": "La Habana",
         "sq_XK": "La Habana",
         "sr": "Ла Хавана",
+        "sr@latin": "La Havana",
         "sr_Cyrl": "Ла Хавана",
         "sr_Cyrl_BA": "Ла Хавана",
         "sr_Cyrl_ME": "Ла Хавана",
@@ -1688,6 +1689,7 @@
         "tr_CY": "La Habana",
         "tr_TR": "La Habana",
         "tt": "La Habana",
+        "tt@iqtelif": "La Habana",
         "tt_RU": "La Habana",
         "twq": "La Habana",
         "twq_NE": "La Habana",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "La Habana",
         "zh_Hant_TW": "La Habana",
         "zu": "La Habana",
-        "zu_ZA": "La Habana",
-        "sr@latin": "La Havana",
-        "tt@iqtelif": "La Habana"
+        "zu_ZA": "La Habana"
     },
     "04": {
         "af": "Matanzas",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Matanzas",
         "sq_XK": "Matanzas",
         "sr": "Матанзас",
+        "sr@latin": "Matanzas",
         "sr_Cyrl": "Матанзас",
         "sr_Cyrl_BA": "Матанзас",
         "sr_Cyrl_ME": "Матанзас",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Matanzas",
         "tr_TR": "Matanzas",
         "tt": "Matanzas",
+        "tt@iqtelif": "Matanzas",
         "tt_RU": "Matanzas",
         "twq": "Matanzas",
         "twq_NE": "Matanzas",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Matanzas",
         "zh_Hant_TW": "Matanzas",
         "zu": "Matanzas",
-        "zu_ZA": "Matanzas",
-        "sr@latin": "Matanzas",
-        "tt@iqtelif": "Matanzas"
+        "zu_ZA": "Matanzas"
     },
     "05": {
         "af": "Villa Clara",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Villa Clara",
         "sq_XK": "Villa Clara",
         "sr": "Вила Клара",
+        "sr@latin": "Vila Klara",
         "sr_Cyrl": "Вила Клара",
         "sr_Cyrl_BA": "Вила Клара",
         "sr_Cyrl_ME": "Вила Клара",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Villa Clara",
         "tr_TR": "Villa Clara",
         "tt": "Villa Clara",
+        "tt@iqtelif": "Villa Clara",
         "tt_RU": "Villa Clara",
         "twq": "Villa Clara",
         "twq_NE": "Villa Clara",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Villa Clara",
         "zh_Hant_TW": "Villa Clara",
         "zu": "Villa Clara",
-        "zu_ZA": "Villa Clara",
-        "sr@latin": "Vila Klara",
-        "tt@iqtelif": "Villa Clara"
+        "zu_ZA": "Villa Clara"
     },
     "06": {
         "af": "Cienfuegos",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Cienfuegos",
         "sq_XK": "Cienfuegos",
         "sr": "Сјенфуегос",
+        "sr@latin": "Sjenfuegos",
         "sr_Cyrl": "Сјенфуегос",
         "sr_Cyrl_BA": "Сјенфуегос",
         "sr_Cyrl_ME": "Сјенфуегос",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Cienfuegos",
         "tr_TR": "Cienfuegos",
         "tt": "Cienfuegos",
+        "tt@iqtelif": "Cienfuegos",
         "tt_RU": "Cienfuegos",
         "twq": "Cienfuegos",
         "twq_NE": "Cienfuegos",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Cienfuegos",
         "zh_Hant_TW": "Cienfuegos",
         "zu": "Cienfuegos",
-        "zu_ZA": "Cienfuegos",
-        "sr@latin": "Sjenfuegos",
-        "tt@iqtelif": "Cienfuegos"
+        "zu_ZA": "Cienfuegos"
     },
     "07": {
         "af": "Sancti Spíritus",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Sancti Spíritus",
         "sq_XK": "Sancti Spíritus",
         "sr": "Sancti Spíritus",
+        "sr@latin": "Sancti Spíritus",
         "sr_Cyrl": "Sancti Spíritus",
         "sr_Cyrl_BA": "Sancti Spíritus",
         "sr_Cyrl_ME": "Sancti Spíritus",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Sancti Spíritus",
         "tr_TR": "Sancti Spíritus",
         "tt": "Sancti Spíritus",
+        "tt@iqtelif": "Sancti Spíritus",
         "tt_RU": "Sancti Spíritus",
         "twq": "Sancti Spíritus",
         "twq_NE": "Sancti Spíritus",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Sancti Spíritus",
         "zh_Hant_TW": "Sancti Spíritus",
         "zu": "Sancti Spíritus",
-        "zu_ZA": "Sancti Spíritus",
-        "sr@latin": "Sancti Spíritus",
-        "tt@iqtelif": "Sancti Spíritus"
+        "zu_ZA": "Sancti Spíritus"
     },
     "08": {
         "af": "Ciego de Ávila",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Ciego de Ávila",
         "sq_XK": "Ciego de Ávila",
         "sr": "Сјего де Авила",
+        "sr@latin": "Sjego de Avila",
         "sr_Cyrl": "Сјего де Авила",
         "sr_Cyrl_BA": "Сјего де Авила",
         "sr_Cyrl_ME": "Сјего де Авила",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Ciego de Ávila",
         "tr_TR": "Ciego de Ávila",
         "tt": "Ciego de Ávila",
+        "tt@iqtelif": "Ciego de Ávila",
         "tt_RU": "Ciego de Ávila",
         "twq": "Ciego de Ávila",
         "twq_NE": "Ciego de Ávila",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Ciego de Ávila",
         "zh_Hant_TW": "Ciego de Ávila",
         "zu": "Ciego de Ávila",
-        "zu_ZA": "Ciego de Ávila",
-        "sr@latin": "Sjego de Avila",
-        "tt@iqtelif": "Ciego de Ávila"
+        "zu_ZA": "Ciego de Ávila"
     },
     "09": {
         "af": "Camagüey",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Camagüey",
         "sq_XK": "Camagüey",
         "sr": "Камагиј",
+        "sr@latin": "Kamagij",
         "sr_Cyrl": "Камагиј",
         "sr_Cyrl_BA": "Камагиј",
         "sr_Cyrl_ME": "Камагиј",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Camagüey",
         "tr_TR": "Camagüey",
         "tt": "Camagüey",
+        "tt@iqtelif": "Camagüey",
         "tt_RU": "Camagüey",
         "twq": "Camagüey",
         "twq_NE": "Camagüey",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Camagüey",
         "zh_Hant_TW": "Camagüey",
         "zu": "Camagüey",
-        "zu_ZA": "Camagüey",
-        "sr@latin": "Kamagij",
-        "tt@iqtelif": "Camagüey"
+        "zu_ZA": "Camagüey"
     },
     "10": {
         "af": "Las Tunas",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Las Tunas",
         "sq_XK": "Las Tunas",
         "sr": "Лас Тунас",
+        "sr@latin": "Las Tunas",
         "sr_Cyrl": "Лас Тунас",
         "sr_Cyrl_BA": "Лас Тунас",
         "sr_Cyrl_ME": "Лас Тунас",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Las Tunas",
         "tr_TR": "Las Tunas",
         "tt": "Las Tunas",
+        "tt@iqtelif": "Las Tunas",
         "tt_RU": "Las Tunas",
         "twq": "Las Tunas",
         "twq_NE": "Las Tunas",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Las Tunas",
         "zh_Hant_TW": "Las Tunas",
         "zu": "Las Tunas",
-        "zu_ZA": "Las Tunas",
-        "sr@latin": "Las Tunas",
-        "tt@iqtelif": "Las Tunas"
+        "zu_ZA": "Las Tunas"
     },
     "11": {
         "af": "Holguín",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Holguín",
         "sq_XK": "Holguín",
         "sr": "Холгвин",
+        "sr@latin": "Holgvin",
         "sr_Cyrl": "Холгвин",
         "sr_Cyrl_BA": "Холгвин",
         "sr_Cyrl_ME": "Холгвин",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Holguín",
         "tr_TR": "Holguín",
         "tt": "Holguín",
+        "tt@iqtelif": "Holguín",
         "tt_RU": "Holguín",
         "twq": "Holguín",
         "twq_NE": "Holguín",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Holguín",
         "zh_Hant_TW": "Holguín",
         "zu": "Holguín",
-        "zu_ZA": "Holguín",
-        "sr@latin": "Holgvin",
-        "tt@iqtelif": "Holguín"
+        "zu_ZA": "Holguín"
     },
     "12": {
         "af": "Granma",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Granma",
         "sq_XK": "Granma",
         "sr": "Гранма",
+        "sr@latin": "Granma",
         "sr_Cyrl": "Гранма",
         "sr_Cyrl_BA": "Гранма",
         "sr_Cyrl_ME": "Гранма",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Granma",
         "tr_TR": "Granma",
         "tt": "Granma",
+        "tt@iqtelif": "Granma",
         "tt_RU": "Granma",
         "twq": "Granma",
         "twq_NE": "Granma",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Granma",
         "zh_Hant_TW": "Granma",
         "zu": "Granma",
-        "zu_ZA": "Granma",
-        "sr@latin": "Granma",
-        "tt@iqtelif": "Granma"
+        "zu_ZA": "Granma"
     },
     "13": {
         "af": "Santiago de Cuba",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Santiago de Cuba",
         "sq_XK": "Santiago de Cuba",
         "sr": "Сантјаго на Куби",
+        "sr@latin": "Santjago na Kubi",
         "sr_Cyrl": "Сантјаго на Куби",
         "sr_Cyrl_BA": "Сантјаго на Куби",
         "sr_Cyrl_ME": "Сантјаго на Куби",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Santiago de Cuba",
         "tr_TR": "Santiago de Cuba",
         "tt": "Santiago de Cuba",
+        "tt@iqtelif": "Santiago de Cuba",
         "tt_RU": "Santiago de Cuba",
         "twq": "Santiago de Cuba",
         "twq_NE": "Santiago de Cuba",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Santiago de Cuba",
         "zh_Hant_TW": "Santiago de Cuba",
         "zu": "Santiago de Cuba",
-        "zu_ZA": "Santiago de Cuba",
-        "sr@latin": "Santjago na Kubi",
-        "tt@iqtelif": "Santiago de Cuba"
+        "zu_ZA": "Santiago de Cuba"
     },
     "14": {
         "af": "Guantánamo",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Guantánamo",
         "sq_XK": "Guantánamo",
         "sr": "Гвантанамо",
+        "sr@latin": "Gvantanamo",
         "sr_Cyrl": "Гвантанамо",
         "sr_Cyrl_BA": "Гвантанамо",
         "sr_Cyrl_ME": "Гвантанамо",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Guantánamo",
         "tr_TR": "Guantánamo",
         "tt": "Guantánamo",
+        "tt@iqtelif": "Guantánamo",
         "tt_RU": "Guantánamo",
         "twq": "Guantánamo",
         "twq_NE": "Guantánamo",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Guantánamo",
         "zh_Hant_TW": "Guantánamo",
         "zu": "Guantánamo",
-        "zu_ZA": "Guantánamo",
-        "sr@latin": "Gvantanamo",
-        "tt@iqtelif": "Guantánamo"
+        "zu_ZA": "Guantánamo"
     },
     "15": {
         "af": "Artemisa",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Artemisa",
         "sq_XK": "Artemisa",
         "sr": "Artemisa",
+        "sr@latin": "Artemisa",
         "sr_Cyrl": "Artemisa",
         "sr_Cyrl_BA": "Artemisa",
         "sr_Cyrl_ME": "Artemisa",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Artemisa",
         "tr_TR": "Artemisa",
         "tt": "Artemisa",
+        "tt@iqtelif": "Artemisa",
         "tt_RU": "Artemisa",
         "twq": "Artemisa",
         "twq_NE": "Artemisa",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Artemisa",
         "zh_Hant_TW": "Artemisa",
         "zu": "Artemisa",
-        "zu_ZA": "Artemisa",
-        "sr@latin": "Artemisa",
-        "tt@iqtelif": "Artemisa"
+        "zu_ZA": "Artemisa"
     },
     "16": {
         "af": "Mayabeque",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Mayabeque",
         "sq_XK": "Mayabeque",
         "sr": "Mayabeque",
+        "sr@latin": "Mayabeque",
         "sr_Cyrl": "Mayabeque",
         "sr_Cyrl_BA": "Mayabeque",
         "sr_Cyrl_ME": "Mayabeque",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Mayabeque",
         "tr_TR": "Mayabeque",
         "tt": "Mayabeque",
+        "tt@iqtelif": "Mayabeque",
         "tt_RU": "Mayabeque",
         "twq": "Mayabeque",
         "twq_NE": "Mayabeque",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Mayabeque",
         "zh_Hant_TW": "Mayabeque",
         "zu": "Mayabeque",
-        "zu_ZA": "Mayabeque",
-        "sr@latin": "Mayabeque",
-        "tt@iqtelif": "Mayabeque"
+        "zu_ZA": "Mayabeque"
     },
     "99": {
         "af": "Isla de la Juventud",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Isla de la Juventud",
         "sq_XK": "Isla de la Juventud",
         "sr": "Острво Младости",
+        "sr@latin": "Ostrvo Mladosti",
         "sr_Cyrl": "Острво Младости",
         "sr_Cyrl_BA": "Острво Младости",
         "sr_Cyrl_ME": "Острво Младости",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Isla de la Juventud",
         "tr_TR": "Isla de la Juventud",
         "tt": "Isla de la Juventud",
+        "tt@iqtelif": "Isla de la Juventud",
         "tt_RU": "Isla de la Juventud",
         "twq": "Isla de la Juventud",
         "twq_NE": "Isla de la Juventud",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Isla de la Juventud",
         "zh_Hant_TW": "Isla de la Juventud",
         "zu": "Isla de la Juventud",
-        "zu_ZA": "Isla de la Juventud",
-        "sr@latin": "Ostrvo Mladosti",
-        "tt@iqtelif": "Isla de la Juventud"
+        "zu_ZA": "Isla de la Juventud"
     }
 }

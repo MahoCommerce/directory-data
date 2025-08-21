@@ -743,6 +743,7 @@
         "sq_MK": "Bulawayo",
         "sq_XK": "Bulawayo",
         "sr": "Булавајо",
+        "sr@latin": "Bulavajo",
         "sr_Cyrl": "Булавајо",
         "sr_Cyrl_BA": "Булавајо",
         "sr_Cyrl_ME": "Булавајо",
@@ -803,6 +804,7 @@
         "tr_CY": "Bulawayo",
         "tr_TR": "Bulawayo",
         "tt": "Bulawayo",
+        "tt@iqtelif": "Bulawayo",
         "tt_RU": "Bulawayo",
         "twq": "Bulawayo",
         "twq_NE": "Bulawayo",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Bulawayo",
         "zh_Hant_TW": "Bulawayo",
         "zu": "Bulawayo",
-        "zu_ZA": "Bulawayo",
-        "sr@latin": "Bulavajo",
-        "tt@iqtelif": "Bulawayo"
+        "zu_ZA": "Bulawayo"
     },
     "HA": {
         "af": "Harare",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Harare",
         "sq_XK": "Harare",
         "sr": "Хараре",
+        "sr@latin": "Harare",
         "sr_Cyrl": "Хараре",
         "sr_Cyrl_BA": "Хараре",
         "sr_Cyrl_ME": "Хараре",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Harare",
         "tr_TR": "Harare",
         "tt": "Harare",
+        "tt@iqtelif": "Harare",
         "tt_RU": "Harare",
         "twq": "Harare",
         "twq_NE": "Harare",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Harare",
         "zh_Hant_TW": "Harare",
         "zu": "Harare",
-        "zu_ZA": "Harare",
-        "sr@latin": "Harare",
-        "tt@iqtelif": "Harare"
+        "zu_ZA": "Harare"
     },
     "MA": {
         "af": "Manicaland",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Manicaland",
         "sq_XK": "Manicaland",
         "sr": "Маникаленд",
+        "sr@latin": "Manikalend",
         "sr_Cyrl": "Маникаленд",
         "sr_Cyrl_BA": "Маникаленд",
         "sr_Cyrl_ME": "Маникаленд",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Manicaland",
         "tr_TR": "Manicaland",
         "tt": "Manicaland",
+        "tt@iqtelif": "Manicaland",
         "tt_RU": "Manicaland",
         "twq": "Manicaland",
         "twq_NE": "Manicaland",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Manicaland",
         "zh_Hant_TW": "Manicaland",
         "zu": "Manicaland",
-        "zu_ZA": "Manicaland",
-        "sr@latin": "Manikalend",
-        "tt@iqtelif": "Manicaland"
+        "zu_ZA": "Manicaland"
     },
     "MC": {
         "af": "Mashonaland Central",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Mashonaland Central",
         "sq_XK": "Mashonaland Central",
         "sr": "Mashonaland Central",
+        "sr@latin": "Mashonaland Central",
         "sr_Cyrl": "Mashonaland Central",
         "sr_Cyrl_BA": "Mashonaland Central",
         "sr_Cyrl_ME": "Mashonaland Central",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Mashonaland Central",
         "tr_TR": "Mashonaland Central",
         "tt": "Mashonaland Central",
+        "tt@iqtelif": "Mashonaland Central",
         "tt_RU": "Mashonaland Central",
         "twq": "Mashonaland Central",
         "twq_NE": "Mashonaland Central",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Mashonaland Central",
         "zh_Hant_TW": "Mashonaland Central",
         "zu": "Mashonaland Central",
-        "zu_ZA": "Mashonaland Central",
-        "sr@latin": "Mashonaland Central",
-        "tt@iqtelif": "Mashonaland Central"
+        "zu_ZA": "Mashonaland Central"
     },
     "ME": {
         "af": "Mashonaland East",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Mashonaland East",
         "sq_XK": "Mashonaland East",
         "sr": "Mashonaland East",
+        "sr@latin": "Mashonaland East",
         "sr_Cyrl": "Mashonaland East",
         "sr_Cyrl_BA": "Mashonaland East",
         "sr_Cyrl_ME": "Mashonaland East",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Mashonaland East",
         "tr_TR": "Mashonaland East",
         "tt": "Mashonaland East",
+        "tt@iqtelif": "Mashonaland East",
         "tt_RU": "Mashonaland East",
         "twq": "Mashonaland East",
         "twq_NE": "Mashonaland East",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Mashonaland East",
         "zh_Hant_TW": "Mashonaland East",
         "zu": "Mashonaland East",
-        "zu_ZA": "Mashonaland East",
-        "sr@latin": "Mashonaland East",
-        "tt@iqtelif": "Mashonaland East"
+        "zu_ZA": "Mashonaland East"
     },
     "MI": {
         "af": "Midlands",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Midlands",
         "sq_XK": "Midlands",
         "sr": "Мидлендс",
+        "sr@latin": "Midlends",
         "sr_Cyrl": "Мидлендс",
         "sr_Cyrl_BA": "Мидлендс",
         "sr_Cyrl_ME": "Мидлендс",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Midlands",
         "tr_TR": "Midlands",
         "tt": "Midlands",
+        "tt@iqtelif": "Midlands",
         "tt_RU": "Midlands",
         "twq": "Midlands",
         "twq_NE": "Midlands",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Midlands",
         "zh_Hant_TW": "Midlands",
         "zu": "Midlands",
-        "zu_ZA": "Midlands",
-        "sr@latin": "Midlends",
-        "tt@iqtelif": "Midlands"
+        "zu_ZA": "Midlands"
     },
     "MN": {
         "af": "Matabeleland North",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Matabeleland North",
         "sq_XK": "Matabeleland North",
         "sr": "Matabeleland North",
+        "sr@latin": "Matabeleland North",
         "sr_Cyrl": "Matabeleland North",
         "sr_Cyrl_BA": "Matabeleland North",
         "sr_Cyrl_ME": "Matabeleland North",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Matabeleland North",
         "tr_TR": "Matabeleland North",
         "tt": "Matabeleland North",
+        "tt@iqtelif": "Matabeleland North",
         "tt_RU": "Matabeleland North",
         "twq": "Matabeleland North",
         "twq_NE": "Matabeleland North",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Matabeleland North",
         "zh_Hant_TW": "Matabeleland North",
         "zu": "Matabeleland North",
-        "zu_ZA": "Matabeleland North",
-        "sr@latin": "Matabeleland North",
-        "tt@iqtelif": "Matabeleland North"
+        "zu_ZA": "Matabeleland North"
     },
     "MS": {
         "af": "Matabeleland South",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Matabeleland South",
         "sq_XK": "Matabeleland South",
         "sr": "Matabeleland South",
+        "sr@latin": "Matabeleland South",
         "sr_Cyrl": "Matabeleland South",
         "sr_Cyrl_BA": "Matabeleland South",
         "sr_Cyrl_ME": "Matabeleland South",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Matabeleland South",
         "tr_TR": "Matabeleland South",
         "tt": "Matabeleland South",
+        "tt@iqtelif": "Matabeleland South",
         "tt_RU": "Matabeleland South",
         "twq": "Matabeleland South",
         "twq_NE": "Matabeleland South",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Matabeleland South",
         "zh_Hant_TW": "Matabeleland South",
         "zu": "Matabeleland South",
-        "zu_ZA": "Matabeleland South",
-        "sr@latin": "Matabeleland South",
-        "tt@iqtelif": "Matabeleland South"
+        "zu_ZA": "Matabeleland South"
     },
     "MV": {
         "af": "Masvingo",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Masvingo",
         "sq_XK": "Masvingo",
         "sr": "Масвинго",
+        "sr@latin": "Masvingo",
         "sr_Cyrl": "Масвинго",
         "sr_Cyrl_BA": "Масвинго",
         "sr_Cyrl_ME": "Масвинго",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Masvingo",
         "tr_TR": "Masvingo",
         "tt": "Masvingo",
+        "tt@iqtelif": "Masvingo",
         "tt_RU": "Masvingo",
         "twq": "Masvingo",
         "twq_NE": "Masvingo",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Masvingo",
         "zh_Hant_TW": "Masvingo",
         "zu": "Masvingo",
-        "zu_ZA": "Masvingo",
-        "sr@latin": "Masvingo",
-        "tt@iqtelif": "Masvingo"
+        "zu_ZA": "Masvingo"
     },
     "MW": {
         "af": "Mashonaland West",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Mashonaland West",
         "sq_XK": "Mashonaland West",
         "sr": "Mashonaland West",
+        "sr@latin": "Mashonaland West",
         "sr_Cyrl": "Mashonaland West",
         "sr_Cyrl_BA": "Mashonaland West",
         "sr_Cyrl_ME": "Mashonaland West",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Mashonaland West",
         "tr_TR": "Mashonaland West",
         "tt": "Mashonaland West",
+        "tt@iqtelif": "Mashonaland West",
         "tt_RU": "Mashonaland West",
         "twq": "Mashonaland West",
         "twq_NE": "Mashonaland West",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Mashonaland West",
         "zh_Hant_TW": "Mashonaland West",
         "zu": "Mashonaland West",
-        "zu_ZA": "Mashonaland West",
-        "sr@latin": "Mashonaland West",
-        "tt@iqtelif": "Mashonaland West"
+        "zu_ZA": "Mashonaland West"
     }
 }

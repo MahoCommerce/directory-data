@@ -743,6 +743,7 @@
         "sq_MK": "Zagrebačka županija",
         "sq_XK": "Zagrebačka županija",
         "sr": "Загребачка жупанија",
+        "sr@latin": "Zagrebačka županija",
         "sr_Cyrl": "Загребачка жупанија",
         "sr_Cyrl_BA": "Загребачка жупанија",
         "sr_Cyrl_ME": "Загребачка жупанија",
@@ -803,6 +804,7 @@
         "tr_CY": "Zagrebačka županija",
         "tr_TR": "Zagrebačka županija",
         "tt": "Zagrebačka županija",
+        "tt@iqtelif": "Zagrebačka županija",
         "tt_RU": "Zagrebačka županija",
         "twq": "Zagrebačka županija",
         "twq_NE": "Zagrebačka županija",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Zagrebačka županija",
         "zh_Hant_TW": "Zagrebačka županija",
         "zu": "Zagrebačka županija",
-        "zu_ZA": "Zagrebačka županija",
-        "sr@latin": "Zagrebačka županija",
-        "tt@iqtelif": "Zagrebačka županija"
+        "zu_ZA": "Zagrebačka županija"
     },
     "02": {
         "af": "Krapinsko-zagorska županija",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Krapinsko-zagorska županija",
         "sq_XK": "Krapinsko-zagorska županija",
         "sr": "Крапинско-загорска жупанија",
+        "sr@latin": "Krapinsko-zagorska županija",
         "sr_Cyrl": "Крапинско-загорска жупанија",
         "sr_Cyrl_BA": "Крапинско-загорска жупанија",
         "sr_Cyrl_ME": "Крапинско-загорска жупанија",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Krapinsko-zagorska županija",
         "tr_TR": "Krapinsko-zagorska županija",
         "tt": "Krapinsko-zagorska županija",
+        "tt@iqtelif": "Krapinsko-zagorska županija",
         "tt_RU": "Krapinsko-zagorska županija",
         "twq": "Krapinsko-zagorska županija",
         "twq_NE": "Krapinsko-zagorska županija",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Krapinsko-zagorska županija",
         "zh_Hant_TW": "Krapinsko-zagorska županija",
         "zu": "Krapinsko-zagorska županija",
-        "zu_ZA": "Krapinsko-zagorska županija",
-        "sr@latin": "Krapinsko-zagorska županija",
-        "tt@iqtelif": "Krapinsko-zagorska županija"
+        "zu_ZA": "Krapinsko-zagorska županija"
     },
     "03": {
         "af": "Sisačko-moslavačka županija",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Sisačko-moslavačka županija",
         "sq_XK": "Sisačko-moslavačka županija",
         "sr": "Сисачко-мославачка жупанија",
+        "sr@latin": "Sisačko-moslavačka županija",
         "sr_Cyrl": "Сисачко-мославачка жупанија",
         "sr_Cyrl_BA": "Сисачко-мославачка жупанија",
         "sr_Cyrl_ME": "Сисачко-мославачка жупанија",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Sisačko-moslavačka županija",
         "tr_TR": "Sisačko-moslavačka županija",
         "tt": "Sisačko-moslavačka županija",
+        "tt@iqtelif": "Sisačko-moslavačka županija",
         "tt_RU": "Sisačko-moslavačka županija",
         "twq": "Sisačko-moslavačka županija",
         "twq_NE": "Sisačko-moslavačka županija",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Sisačko-moslavačka županija",
         "zh_Hant_TW": "Sisačko-moslavačka županija",
         "zu": "Sisačko-moslavačka županija",
-        "zu_ZA": "Sisačko-moslavačka županija",
-        "sr@latin": "Sisačko-moslavačka županija",
-        "tt@iqtelif": "Sisačko-moslavačka županija"
+        "zu_ZA": "Sisačko-moslavačka županija"
     },
     "04": {
         "af": "Karlovačka županija",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Karlovačka županija",
         "sq_XK": "Karlovačka županija",
         "sr": "Карловачка жупанија",
+        "sr@latin": "Karlovačka županija",
         "sr_Cyrl": "Карловачка жупанија",
         "sr_Cyrl_BA": "Карловачка жупанија",
         "sr_Cyrl_ME": "Карловачка жупанија",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Karlovačka županija",
         "tr_TR": "Karlovačka županija",
         "tt": "Karlovačka županija",
+        "tt@iqtelif": "Karlovačka županija",
         "tt_RU": "Karlovačka županija",
         "twq": "Karlovačka županija",
         "twq_NE": "Karlovačka županija",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Karlovačka županija",
         "zh_Hant_TW": "Karlovačka županija",
         "zu": "Karlovačka županija",
-        "zu_ZA": "Karlovačka županija",
-        "sr@latin": "Karlovačka županija",
-        "tt@iqtelif": "Karlovačka županija"
+        "zu_ZA": "Karlovačka županija"
     },
     "05": {
         "af": "Varaždinska županija",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Varaždinska županija",
         "sq_XK": "Varaždinska županija",
         "sr": "Вараждинска жупанија",
+        "sr@latin": "Varaždinska županija",
         "sr_Cyrl": "Вараждинска жупанија",
         "sr_Cyrl_BA": "Вараждинска жупанија",
         "sr_Cyrl_ME": "Вараждинска жупанија",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Varaždinska županija",
         "tr_TR": "Varaždinska županija",
         "tt": "Varaždinska županija",
+        "tt@iqtelif": "Varaždinska županija",
         "tt_RU": "Varaždinska županija",
         "twq": "Varaždinska županija",
         "twq_NE": "Varaždinska županija",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Varaždinska županija",
         "zh_Hant_TW": "Varaždinska županija",
         "zu": "Varaždinska županija",
-        "zu_ZA": "Varaždinska županija",
-        "sr@latin": "Varaždinska županija",
-        "tt@iqtelif": "Varaždinska županija"
+        "zu_ZA": "Varaždinska županija"
     },
     "06": {
         "af": "Koprivničko-križevačka županija",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Koprivničko-križevačka županija",
         "sq_XK": "Koprivničko-križevačka županija",
         "sr": "Копривничко-крижевачка жупанија",
+        "sr@latin": "Koprivničko-križevačka županija",
         "sr_Cyrl": "Копривничко-крижевачка жупанија",
         "sr_Cyrl_BA": "Копривничко-крижевачка жупанија",
         "sr_Cyrl_ME": "Копривничко-крижевачка жупанија",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Koprivničko-križevačka županija",
         "tr_TR": "Koprivničko-križevačka županija",
         "tt": "Koprivničko-križevačka županija",
+        "tt@iqtelif": "Koprivničko-križevačka županija",
         "tt_RU": "Koprivničko-križevačka županija",
         "twq": "Koprivničko-križevačka županija",
         "twq_NE": "Koprivničko-križevačka županija",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Koprivničko-križevačka županija",
         "zh_Hant_TW": "Koprivničko-križevačka županija",
         "zu": "Koprivničko-križevačka županija",
-        "zu_ZA": "Koprivničko-križevačka županija",
-        "sr@latin": "Koprivničko-križevačka županija",
-        "tt@iqtelif": "Koprivničko-križevačka županija"
+        "zu_ZA": "Koprivničko-križevačka županija"
     },
     "07": {
         "af": "Bjelovarsko-bilogorska županija",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Bjelovarsko-bilogorska županija",
         "sq_XK": "Bjelovarsko-bilogorska županija",
         "sr": "Бјеловарско-билогорска жупанија",
+        "sr@latin": "Bjelovarsko-bilogorska županija",
         "sr_Cyrl": "Бјеловарско-билогорска жупанија",
         "sr_Cyrl_BA": "Бјеловарско-билогорска жупанија",
         "sr_Cyrl_ME": "Бјеловарско-билогорска жупанија",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Bjelovarsko-bilogorska županija",
         "tr_TR": "Bjelovarsko-bilogorska županija",
         "tt": "Bjelovarsko-bilogorska županija",
+        "tt@iqtelif": "Bjelovarsko-bilogorska županija",
         "tt_RU": "Bjelovarsko-bilogorska županija",
         "twq": "Bjelovarsko-bilogorska županija",
         "twq_NE": "Bjelovarsko-bilogorska županija",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Bjelovarsko-bilogorska županija",
         "zh_Hant_TW": "Bjelovarsko-bilogorska županija",
         "zu": "Bjelovarsko-bilogorska županija",
-        "zu_ZA": "Bjelovarsko-bilogorska županija",
-        "sr@latin": "Bjelovarsko-bilogorska županija",
-        "tt@iqtelif": "Bjelovarsko-bilogorska županija"
+        "zu_ZA": "Bjelovarsko-bilogorska županija"
     },
     "08": {
         "af": "Primorsko-goranska županija",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Primorsko-goranska županija",
         "sq_XK": "Primorsko-goranska županija",
         "sr": "Приморско-горанска жупанија",
+        "sr@latin": "Primorsko-goranska županija",
         "sr_Cyrl": "Приморско-горанска жупанија",
         "sr_Cyrl_BA": "Приморско-горанска жупанија",
         "sr_Cyrl_ME": "Приморско-горанска жупанија",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Primorsko-goranska županija",
         "tr_TR": "Primorsko-goranska županija",
         "tt": "Primorsko-goranska županija",
+        "tt@iqtelif": "Primorsko-goranska županija",
         "tt_RU": "Primorsko-goranska županija",
         "twq": "Primorsko-goranska županija",
         "twq_NE": "Primorsko-goranska županija",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Primorsko-goranska županija",
         "zh_Hant_TW": "Primorsko-goranska županija",
         "zu": "Primorsko-goranska županija",
-        "zu_ZA": "Primorsko-goranska županija",
-        "sr@latin": "Primorsko-goranska županija",
-        "tt@iqtelif": "Primorsko-goranska županija"
+        "zu_ZA": "Primorsko-goranska županija"
     },
     "09": {
         "af": "Ličko-senjska županija",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Ličko-senjska županija",
         "sq_XK": "Ličko-senjska županija",
         "sr": "Личко-сењска жупанија",
+        "sr@latin": "Ličko-senjska županija",
         "sr_Cyrl": "Личко-сењска жупанија",
         "sr_Cyrl_BA": "Личко-сењска жупанија",
         "sr_Cyrl_ME": "Личко-сењска жупанија",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Ličko-senjska županija",
         "tr_TR": "Ličko-senjska županija",
         "tt": "Ličko-senjska županija",
+        "tt@iqtelif": "Ličko-senjska županija",
         "tt_RU": "Ličko-senjska županija",
         "twq": "Ličko-senjska županija",
         "twq_NE": "Ličko-senjska županija",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Ličko-senjska županija",
         "zh_Hant_TW": "Ličko-senjska županija",
         "zu": "Ličko-senjska županija",
-        "zu_ZA": "Ličko-senjska županija",
-        "sr@latin": "Ličko-senjska županija",
-        "tt@iqtelif": "Ličko-senjska županija"
+        "zu_ZA": "Ličko-senjska županija"
     },
     "10": {
         "af": "Virovitičko-podravska županija",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Virovitičko-podravska županija",
         "sq_XK": "Virovitičko-podravska županija",
         "sr": "Вировитичко-подравска жупанија",
+        "sr@latin": "Virovitičko-podravska županija",
         "sr_Cyrl": "Вировитичко-подравска жупанија",
         "sr_Cyrl_BA": "Вировитичко-подравска жупанија",
         "sr_Cyrl_ME": "Вировитичко-подравска жупанија",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Virovitičko-podravska županija",
         "tr_TR": "Virovitičko-podravska županija",
         "tt": "Virovitičko-podravska županija",
+        "tt@iqtelif": "Virovitičko-podravska županija",
         "tt_RU": "Virovitičko-podravska županija",
         "twq": "Virovitičko-podravska županija",
         "twq_NE": "Virovitičko-podravska županija",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Virovitičko-podravska županija",
         "zh_Hant_TW": "Virovitičko-podravska županija",
         "zu": "Virovitičko-podravska županija",
-        "zu_ZA": "Virovitičko-podravska županija",
-        "sr@latin": "Virovitičko-podravska županija",
-        "tt@iqtelif": "Virovitičko-podravska županija"
+        "zu_ZA": "Virovitičko-podravska županija"
     },
     "11": {
         "af": "Požeško-slavonska županija",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Požeško-slavonska županija",
         "sq_XK": "Požeško-slavonska županija",
         "sr": "Пожешко-славонска жупанија",
+        "sr@latin": "Požeško-slavonska županija",
         "sr_Cyrl": "Пожешко-славонска жупанија",
         "sr_Cyrl_BA": "Пожешко-славонска жупанија",
         "sr_Cyrl_ME": "Пожешко-славонска жупанија",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Požeško-slavonska županija",
         "tr_TR": "Požeško-slavonska županija",
         "tt": "Požeško-slavonska županija",
+        "tt@iqtelif": "Požeško-slavonska županija",
         "tt_RU": "Požeško-slavonska županija",
         "twq": "Požeško-slavonska županija",
         "twq_NE": "Požeško-slavonska županija",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Požeško-slavonska županija",
         "zh_Hant_TW": "Požeško-slavonska županija",
         "zu": "Požeško-slavonska županija",
-        "zu_ZA": "Požeško-slavonska županija",
-        "sr@latin": "Požeško-slavonska županija",
-        "tt@iqtelif": "Požeško-slavonska županija"
+        "zu_ZA": "Požeško-slavonska županija"
     },
     "12": {
         "af": "Brodsko-posavska županija",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Brodsko-posavska županija",
         "sq_XK": "Brodsko-posavska županija",
         "sr": "Бродско-посавска жупанија",
+        "sr@latin": "Brodsko-posavska županija",
         "sr_Cyrl": "Бродско-посавска жупанија",
         "sr_Cyrl_BA": "Бродско-посавска жупанија",
         "sr_Cyrl_ME": "Бродско-посавска жупанија",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Brodsko-posavska županija",
         "tr_TR": "Brodsko-posavska županija",
         "tt": "Brodsko-posavska županija",
+        "tt@iqtelif": "Brodsko-posavska županija",
         "tt_RU": "Brodsko-posavska županija",
         "twq": "Brodsko-posavska županija",
         "twq_NE": "Brodsko-posavska županija",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Brodsko-posavska županija",
         "zh_Hant_TW": "Brodsko-posavska županija",
         "zu": "Brodsko-posavska županija",
-        "zu_ZA": "Brodsko-posavska županija",
-        "sr@latin": "Brodsko-posavska županija",
-        "tt@iqtelif": "Brodsko-posavska županija"
+        "zu_ZA": "Brodsko-posavska županija"
     },
     "13": {
         "af": "Zadarska županija",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Zadarska županija",
         "sq_XK": "Zadarska županija",
         "sr": "Задарска жупанија",
+        "sr@latin": "Zadarska županija",
         "sr_Cyrl": "Задарска жупанија",
         "sr_Cyrl_BA": "Задарска жупанија",
         "sr_Cyrl_ME": "Задарска жупанија",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Zadarska županija",
         "tr_TR": "Zadarska županija",
         "tt": "Zadarska županija",
+        "tt@iqtelif": "Zadarska županija",
         "tt_RU": "Zadarska županija",
         "twq": "Zadarska županija",
         "twq_NE": "Zadarska županija",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Zadarska županija",
         "zh_Hant_TW": "Zadarska županija",
         "zu": "Zadarska županija",
-        "zu_ZA": "Zadarska županija",
-        "sr@latin": "Zadarska županija",
-        "tt@iqtelif": "Zadarska županija"
+        "zu_ZA": "Zadarska županija"
     },
     "14": {
         "af": "Osječko-baranjska županija",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Osječko-baranjska županija",
         "sq_XK": "Osječko-baranjska županija",
         "sr": "Осјечко-барањска жупанија",
+        "sr@latin": "Osječko-baranjska županija",
         "sr_Cyrl": "Осјечко-барањска жупанија",
         "sr_Cyrl_BA": "Осјечко-барањска жупанија",
         "sr_Cyrl_ME": "Осјечко-барањска жупанија",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Osječko-baranjska županija",
         "tr_TR": "Osječko-baranjska županija",
         "tt": "Osječko-baranjska županija",
+        "tt@iqtelif": "Osječko-baranjska županija",
         "tt_RU": "Osječko-baranjska županija",
         "twq": "Osječko-baranjska županija",
         "twq_NE": "Osječko-baranjska županija",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Osječko-baranjska županija",
         "zh_Hant_TW": "Osječko-baranjska županija",
         "zu": "Osječko-baranjska županija",
-        "zu_ZA": "Osječko-baranjska županija",
-        "sr@latin": "Osječko-baranjska županija",
-        "tt@iqtelif": "Osječko-baranjska županija"
+        "zu_ZA": "Osječko-baranjska županija"
     },
     "15": {
         "af": "Šibensko-kninska županija",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Šibensko-kninska županija",
         "sq_XK": "Šibensko-kninska županija",
         "sr": "Шибенско-книнска жупанија",
+        "sr@latin": "Šibensko-kninska županija",
         "sr_Cyrl": "Шибенско-книнска жупанија",
         "sr_Cyrl_BA": "Шибенско-книнска жупанија",
         "sr_Cyrl_ME": "Шибенско-книнска жупанија",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Šibensko-kninska županija",
         "tr_TR": "Šibensko-kninska županija",
         "tt": "Šibensko-kninska županija",
+        "tt@iqtelif": "Šibensko-kninska županija",
         "tt_RU": "Šibensko-kninska županija",
         "twq": "Šibensko-kninska županija",
         "twq_NE": "Šibensko-kninska županija",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Šibensko-kninska županija",
         "zh_Hant_TW": "Šibensko-kninska županija",
         "zu": "Šibensko-kninska županija",
-        "zu_ZA": "Šibensko-kninska županija",
-        "sr@latin": "Šibensko-kninska županija",
-        "tt@iqtelif": "Šibensko-kninska županija"
+        "zu_ZA": "Šibensko-kninska županija"
     },
     "16": {
         "af": "Vukovarsko-srijemska županija",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Vukovarsko-srijemska županija",
         "sq_XK": "Vukovarsko-srijemska županija",
         "sr": "Вуковарско-сремска жупанија",
+        "sr@latin": "Vukovarsko-sremska županija",
         "sr_Cyrl": "Вуковарско-сремска жупанија",
         "sr_Cyrl_BA": "Вуковарско-сремска жупанија",
         "sr_Cyrl_ME": "Вуковарско-сремска жупанија",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Vukovarsko-srijemska županija",
         "tr_TR": "Vukovarsko-srijemska županija",
         "tt": "Vukovarsko-srijemska županija",
+        "tt@iqtelif": "Vukovarsko-srijemska županija",
         "tt_RU": "Vukovarsko-srijemska županija",
         "twq": "Vukovarsko-srijemska županija",
         "twq_NE": "Vukovarsko-srijemska županija",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Vukovarsko-srijemska županija",
         "zh_Hant_TW": "Vukovarsko-srijemska županija",
         "zu": "Vukovarsko-srijemska županija",
-        "zu_ZA": "Vukovarsko-srijemska županija",
-        "sr@latin": "Vukovarsko-sremska županija",
-        "tt@iqtelif": "Vukovarsko-srijemska županija"
+        "zu_ZA": "Vukovarsko-srijemska županija"
     },
     "17": {
         "af": "Splitsko-dalmatinska županija",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Splitsko-dalmatinska županija",
         "sq_XK": "Splitsko-dalmatinska županija",
         "sr": "Сплитско-далматинска жупанија",
+        "sr@latin": "Splitsko-dalmatinska županija",
         "sr_Cyrl": "Сплитско-далматинска жупанија",
         "sr_Cyrl_BA": "Сплитско-далматинска жупанија",
         "sr_Cyrl_ME": "Сплитско-далматинска жупанија",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Splitsko-dalmatinska županija",
         "tr_TR": "Splitsko-dalmatinska županija",
         "tt": "Splitsko-dalmatinska županija",
+        "tt@iqtelif": "Splitsko-dalmatinska županija",
         "tt_RU": "Splitsko-dalmatinska županija",
         "twq": "Splitsko-dalmatinska županija",
         "twq_NE": "Splitsko-dalmatinska županija",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Splitsko-dalmatinska županija",
         "zh_Hant_TW": "Splitsko-dalmatinska županija",
         "zu": "Splitsko-dalmatinska županija",
-        "zu_ZA": "Splitsko-dalmatinska županija",
-        "sr@latin": "Splitsko-dalmatinska županija",
-        "tt@iqtelif": "Splitsko-dalmatinska županija"
+        "zu_ZA": "Splitsko-dalmatinska županija"
     },
     "18": {
         "af": "Istarska županija",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Istarska županija",
         "sq_XK": "Istarska županija",
         "sr": "Истарска жупанија",
+        "sr@latin": "Istarska županija",
         "sr_Cyrl": "Истарска жупанија",
         "sr_Cyrl_BA": "Истарска жупанија",
         "sr_Cyrl_ME": "Истарска жупанија",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Istarska županija",
         "tr_TR": "Istarska županija",
         "tt": "Istarska županija",
+        "tt@iqtelif": "Istarska županija",
         "tt_RU": "Istarska županija",
         "twq": "Istarska županija",
         "twq_NE": "Istarska županija",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Istarska županija",
         "zh_Hant_TW": "Istarska županija",
         "zu": "Istarska županija",
-        "zu_ZA": "Istarska županija",
-        "sr@latin": "Istarska županija",
-        "tt@iqtelif": "Istarska županija"
+        "zu_ZA": "Istarska županija"
     },
     "19": {
         "af": "Dubrovačko-neretvanska županija",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Dubrovačko-neretvanska županija",
         "sq_XK": "Dubrovačko-neretvanska županija",
         "sr": "Дубровачко-неретванска жупанија",
+        "sr@latin": "Dubrovačko-neretvanska županija",
         "sr_Cyrl": "Дубровачко-неретванска жупанија",
         "sr_Cyrl_BA": "Дубровачко-неретванска жупанија",
         "sr_Cyrl_ME": "Дубровачко-неретванска жупанија",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Dubrovačko-neretvanska županija",
         "tr_TR": "Dubrovačko-neretvanska županija",
         "tt": "Dubrovačko-neretvanska županija",
+        "tt@iqtelif": "Dubrovačko-neretvanska županija",
         "tt_RU": "Dubrovačko-neretvanska županija",
         "twq": "Dubrovačko-neretvanska županija",
         "twq_NE": "Dubrovačko-neretvanska županija",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Dubrovačko-neretvanska županija",
         "zh_Hant_TW": "Dubrovačko-neretvanska županija",
         "zu": "Dubrovačko-neretvanska županija",
-        "zu_ZA": "Dubrovačko-neretvanska županija",
-        "sr@latin": "Dubrovačko-neretvanska županija",
-        "tt@iqtelif": "Dubrovačko-neretvanska županija"
+        "zu_ZA": "Dubrovačko-neretvanska županija"
     },
     "20": {
         "af": "Međimurska županija",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Međimurska županija",
         "sq_XK": "Međimurska županija",
         "sr": "Међимурска жупанија",
+        "sr@latin": "Međimurska županija",
         "sr_Cyrl": "Међимурска жупанија",
         "sr_Cyrl_BA": "Међимурска жупанија",
         "sr_Cyrl_ME": "Међимурска жупанија",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Međimurska županija",
         "tr_TR": "Međimurska županija",
         "tt": "Međimurska županija",
+        "tt@iqtelif": "Međimurska županija",
         "tt_RU": "Međimurska županija",
         "twq": "Međimurska županija",
         "twq_NE": "Međimurska županija",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Međimurska županija",
         "zh_Hant_TW": "Međimurska županija",
         "zu": "Međimurska županija",
-        "zu_ZA": "Međimurska županija",
-        "sr@latin": "Međimurska županija",
-        "tt@iqtelif": "Međimurska županija"
+        "zu_ZA": "Međimurska županija"
     },
     "21": {
         "af": "Grad Zagreb",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Grad Zagreb",
         "sq_XK": "Grad Zagreb",
         "sr": "Загреб",
+        "sr@latin": "Zagreb",
         "sr_Cyrl": "Загреб",
         "sr_Cyrl_BA": "Загреб",
         "sr_Cyrl_ME": "Загреб",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Grad Zagreb",
         "tr_TR": "Grad Zagreb",
         "tt": "Grad Zagreb",
+        "tt@iqtelif": "Grad Zagreb",
         "tt_RU": "Grad Zagreb",
         "twq": "Grad Zagreb",
         "twq_NE": "Grad Zagreb",
@@ -18580,8 +18582,6 @@
         "zh_Hant_MY": "Grad Zagreb",
         "zh_Hant_TW": "Grad Zagreb",
         "zu": "Grad Zagreb",
-        "zu_ZA": "Grad Zagreb",
-        "sr@latin": "Zagreb",
-        "tt@iqtelif": "Grad Zagreb"
+        "zu_ZA": "Grad Zagreb"
     }
 }

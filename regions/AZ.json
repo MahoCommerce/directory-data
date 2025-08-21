@@ -743,6 +743,7 @@
         "sq_MK": "Abşeron",
         "sq_XK": "Abşeron",
         "sr": "Абсерон",
+        "sr@latin": "Abseron",
         "sr_Cyrl": "Абсерон",
         "sr_Cyrl_BA": "Абсерон",
         "sr_Cyrl_ME": "Абсерон",
@@ -803,6 +804,7 @@
         "tr_CY": "Abşeron",
         "tr_TR": "Abşeron",
         "tt": "Abşeron",
+        "tt@iqtelif": "Abşeron",
         "tt_RU": "Abşeron",
         "twq": "Abşeron",
         "twq_NE": "Abşeron",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Abşeron",
         "zh_Hant_TW": "Abşeron",
         "zu": "Abşeron",
-        "zu_ZA": "Abşeron",
-        "sr@latin": "Abseron",
-        "tt@iqtelif": "Abşeron"
+        "zu_ZA": "Abşeron"
     },
     "AGA": {
         "af": "Ağstafa",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Ağstafa",
         "sq_XK": "Ağstafa",
         "sr": "Агустафа",
+        "sr@latin": "Agustafa",
         "sr_Cyrl": "Агустафа",
         "sr_Cyrl_BA": "Агустафа",
         "sr_Cyrl_ME": "Агустафа",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Ağstafa",
         "tr_TR": "Ağstafa",
         "tt": "Ağstafa",
+        "tt@iqtelif": "Ağstafa",
         "tt_RU": "Ağstafa",
         "twq": "Ağstafa",
         "twq_NE": "Ağstafa",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Ağstafa",
         "zh_Hant_TW": "Ağstafa",
         "zu": "Ağstafa",
-        "zu_ZA": "Ağstafa",
-        "sr@latin": "Agustafa",
-        "tt@iqtelif": "Ağstafa"
+        "zu_ZA": "Ağstafa"
     },
     "AGC": {
         "af": "Ağcabədi",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Ağcabədi",
         "sq_XK": "Ağcabədi",
         "sr": "Агукабеди",
+        "sr@latin": "Agukabedi",
         "sr_Cyrl": "Агукабеди",
         "sr_Cyrl_BA": "Агукабеди",
         "sr_Cyrl_ME": "Агукабеди",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Ağcabedi",
         "tr_TR": "Ağcabedi",
         "tt": "Ağcabədi",
+        "tt@iqtelif": "Ağcabədi",
         "tt_RU": "Ağcabədi",
         "twq": "Ağcabədi",
         "twq_NE": "Ağcabədi",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Ağcabədi",
         "zh_Hant_TW": "Ağcabədi",
         "zu": "Ağcabədi",
-        "zu_ZA": "Ağcabədi",
-        "sr@latin": "Agukabedi",
-        "tt@iqtelif": "Ağcabədi"
+        "zu_ZA": "Ağcabədi"
     },
     "AGM": {
         "af": "Ağdam",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Ağdam",
         "sq_XK": "Ağdam",
         "sr": "Агудам",
+        "sr@latin": "Agudam",
         "sr_Cyrl": "Агудам",
         "sr_Cyrl_BA": "Агудам",
         "sr_Cyrl_ME": "Агудам",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Ağdam",
         "tr_TR": "Ağdam",
         "tt": "Ağdam",
+        "tt@iqtelif": "Ağdam",
         "tt_RU": "Ağdam",
         "twq": "Ağdam",
         "twq_NE": "Ağdam",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Ağdam",
         "zh_Hant_TW": "Ağdam",
         "zu": "Ağdam",
-        "zu_ZA": "Ağdam",
-        "sr@latin": "Agudam",
-        "tt@iqtelif": "Ağdam"
+        "zu_ZA": "Ağdam"
     },
     "AGS": {
         "af": "Ağdaş",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Ağdaş",
         "sq_XK": "Ağdaş",
         "sr": "Агудаш",
+        "sr@latin": "Agudaš",
         "sr_Cyrl": "Агудаш",
         "sr_Cyrl_BA": "Агудаш",
         "sr_Cyrl_ME": "Агудаш",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Ağdaş",
         "tr_TR": "Ağdaş",
         "tt": "Ağdaş",
+        "tt@iqtelif": "Ağdaş",
         "tt_RU": "Ağdaş",
         "twq": "Ağdaş",
         "twq_NE": "Ağdaş",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Ağdaş",
         "zh_Hant_TW": "Ağdaş",
         "zu": "Ağdaş",
-        "zu_ZA": "Ağdaş",
-        "sr@latin": "Agudaš",
-        "tt@iqtelif": "Ağdaş"
+        "zu_ZA": "Ağdaş"
     },
     "AGU": {
         "af": "Ağsu",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Ağsu",
         "sq_XK": "Ağsu",
         "sr": "Агусу",
+        "sr@latin": "Agusu",
         "sr_Cyrl": "Агусу",
         "sr_Cyrl_BA": "Агусу",
         "sr_Cyrl_ME": "Агусу",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Ağsu",
         "tr_TR": "Ağsu",
         "tt": "Ağsu",
+        "tt@iqtelif": "Ağsu",
         "tt_RU": "Ağsu",
         "twq": "Ağsu",
         "twq_NE": "Ağsu",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Ağsu",
         "zh_Hant_TW": "Ağsu",
         "zu": "Ağsu",
-        "zu_ZA": "Ağsu",
-        "sr@latin": "Agusu",
-        "tt@iqtelif": "Ağsu"
+        "zu_ZA": "Ağsu"
     },
     "AST": {
         "af": "Astara",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Astara",
         "sq_XK": "Astara",
         "sr": "Астара",
+        "sr@latin": "Astara",
         "sr_Cyrl": "Астара",
         "sr_Cyrl_BA": "Астара",
         "sr_Cyrl_ME": "Астара",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Astara",
         "tr_TR": "Astara",
         "tt": "Astara",
+        "tt@iqtelif": "Astara",
         "tt_RU": "Astara",
         "twq": "Astara",
         "twq_NE": "Astara",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Astara",
         "zh_Hant_TW": "Astara",
         "zu": "Astara",
-        "zu_ZA": "Astara",
-        "sr@latin": "Astara",
-        "tt@iqtelif": "Astara"
+        "zu_ZA": "Astara"
     },
     "BA": {
         "af": "Bakı",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Bakı",
         "sq_XK": "Bakı",
         "sr": "Баки",
+        "sr@latin": "Baki",
         "sr_Cyrl": "Баки",
         "sr_Cyrl_BA": "Баки",
         "sr_Cyrl_ME": "Баки",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Bakı",
         "tr_TR": "Bakı",
         "tt": "Bakı",
+        "tt@iqtelif": "Bakı",
         "tt_RU": "Bakı",
         "twq": "Bakı",
         "twq_NE": "Bakı",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Bakı",
         "zh_Hant_TW": "Bakı",
         "zu": "Bakı",
-        "zu_ZA": "Bakı",
-        "sr@latin": "Baki",
-        "tt@iqtelif": "Bakı"
+        "zu_ZA": "Bakı"
     },
     "BAB": {
         "af": "Babək",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Babək",
         "sq_XK": "Babək",
         "sr": "Бабек",
+        "sr@latin": "Babek",
         "sr_Cyrl": "Бабек",
         "sr_Cyrl_BA": "Бабек",
         "sr_Cyrl_ME": "Бабек",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Babək",
         "tr_TR": "Babək",
         "tt": "Babək",
+        "tt@iqtelif": "Babək",
         "tt_RU": "Babək",
         "twq": "Babək",
         "twq_NE": "Babək",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Babək",
         "zh_Hant_TW": "Babək",
         "zu": "Babək",
-        "zu_ZA": "Babək",
-        "sr@latin": "Babek",
-        "tt@iqtelif": "Babək"
+        "zu_ZA": "Babək"
     },
     "BAL": {
         "af": "Balakən",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Balakən",
         "sq_XK": "Balakən",
         "sr": "Балакан",
+        "sr@latin": "Balakan",
         "sr_Cyrl": "Балакан",
         "sr_Cyrl_BA": "Балакан",
         "sr_Cyrl_ME": "Балакан",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Balakən",
         "tr_TR": "Balakən",
         "tt": "Balakən",
+        "tt@iqtelif": "Balakən",
         "tt_RU": "Balakən",
         "twq": "Balakən",
         "twq_NE": "Balakən",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Balakən",
         "zh_Hant_TW": "Balakən",
         "zu": "Balakən",
-        "zu_ZA": "Balakən",
-        "sr@latin": "Balakan",
-        "tt@iqtelif": "Balakən"
+        "zu_ZA": "Balakən"
     },
     "BAR": {
         "af": "Bərdə",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Bərdə",
         "sq_XK": "Bərdə",
         "sr": "Берде",
+        "sr@latin": "Berde",
         "sr_Cyrl": "Берде",
         "sr_Cyrl_BA": "Берде",
         "sr_Cyrl_ME": "Берде",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Bərdə",
         "tr_TR": "Bərdə",
         "tt": "Bərdə",
+        "tt@iqtelif": "Bərdə",
         "tt_RU": "Bərdə",
         "twq": "Bərdə",
         "twq_NE": "Bərdə",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Bərdə",
         "zh_Hant_TW": "Bərdə",
         "zu": "Bərdə",
-        "zu_ZA": "Bərdə",
-        "sr@latin": "Berde",
-        "tt@iqtelif": "Bərdə"
+        "zu_ZA": "Bərdə"
     },
     "BEY": {
         "af": "Beyləqan",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Beyləqan",
         "sq_XK": "Beyləqan",
         "sr": "Бејлекан",
+        "sr@latin": "Bejlekan",
         "sr_Cyrl": "Бејлекан",
         "sr_Cyrl_BA": "Бејлекан",
         "sr_Cyrl_ME": "Бејлекан",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Beyləqan",
         "tr_TR": "Beyləqan",
         "tt": "Beyləqan",
+        "tt@iqtelif": "Beyləqan",
         "tt_RU": "Beyləqan",
         "twq": "Beyləqan",
         "twq_NE": "Beyləqan",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Beyləqan",
         "zh_Hant_TW": "Beyləqan",
         "zu": "Beyləqan",
-        "zu_ZA": "Beyləqan",
-        "sr@latin": "Bejlekan",
-        "tt@iqtelif": "Beyləqan"
+        "zu_ZA": "Beyləqan"
     },
     "BIL": {
         "af": "Biləsuvar",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Biləsuvar",
         "sq_XK": "Biləsuvar",
         "sr": "Билесувар",
+        "sr@latin": "Bilesuvar",
         "sr_Cyrl": "Билесувар",
         "sr_Cyrl_BA": "Билесувар",
         "sr_Cyrl_ME": "Билесувар",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Biləsuvar",
         "tr_TR": "Biləsuvar",
         "tt": "Biləsuvar",
+        "tt@iqtelif": "Biləsuvar",
         "tt_RU": "Biləsuvar",
         "twq": "Biləsuvar",
         "twq_NE": "Biləsuvar",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Biləsuvar",
         "zh_Hant_TW": "Biləsuvar",
         "zu": "Biləsuvar",
-        "zu_ZA": "Biləsuvar",
-        "sr@latin": "Bilesuvar",
-        "tt@iqtelif": "Biləsuvar"
+        "zu_ZA": "Biləsuvar"
     },
     "CAB": {
         "af": "Cəbrayıl",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Cəbrayıl",
         "sq_XK": "Cəbrayıl",
         "sr": "Себрајил",
+        "sr@latin": "Sebrajil",
         "sr_Cyrl": "Себрајил",
         "sr_Cyrl_BA": "Себрајил",
         "sr_Cyrl_ME": "Себрајил",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Cəbrayıl",
         "tr_TR": "Cəbrayıl",
         "tt": "Cəbrayıl",
+        "tt@iqtelif": "Cəbrayıl",
         "tt_RU": "Cəbrayıl",
         "twq": "Cəbrayıl",
         "twq_NE": "Cəbrayıl",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Cəbrayıl",
         "zh_Hant_TW": "Cəbrayıl",
         "zu": "Cəbrayıl",
-        "zu_ZA": "Cəbrayıl",
-        "sr@latin": "Sebrajil",
-        "tt@iqtelif": "Cəbrayıl"
+        "zu_ZA": "Cəbrayıl"
     },
     "CAL": {
         "af": "Cəlilabad",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Cəlilabad",
         "sq_XK": "Cəlilabad",
         "sr": "Cəlilabad",
+        "sr@latin": "Cəlilabad",
         "sr_Cyrl": "Cəlilabad",
         "sr_Cyrl_BA": "Cəlilabad",
         "sr_Cyrl_ME": "Cəlilabad",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Cəlilabad",
         "tr_TR": "Cəlilabad",
         "tt": "Cəlilabad",
+        "tt@iqtelif": "Cəlilabad",
         "tt_RU": "Cəlilabad",
         "twq": "Cəlilabad",
         "twq_NE": "Cəlilabad",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Cəlilabad",
         "zh_Hant_TW": "Cəlilabad",
         "zu": "Cəlilabad",
-        "zu_ZA": "Cəlilabad",
-        "sr@latin": "Cəlilabad",
-        "tt@iqtelif": "Cəlilabad"
+        "zu_ZA": "Cəlilabad"
     },
     "CUL": {
         "af": "Culfa",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Culfa",
         "sq_XK": "Culfa",
         "sr": "Кулфа",
+        "sr@latin": "Kulfa",
         "sr_Cyrl": "Кулфа",
         "sr_Cyrl_BA": "Кулфа",
         "sr_Cyrl_ME": "Кулфа",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Culfa",
         "tr_TR": "Culfa",
         "tt": "Culfa",
+        "tt@iqtelif": "Culfa",
         "tt_RU": "Culfa",
         "twq": "Culfa",
         "twq_NE": "Culfa",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Culfa",
         "zh_Hant_TW": "Culfa",
         "zu": "Culfa",
-        "zu_ZA": "Culfa",
-        "sr@latin": "Kulfa",
-        "tt@iqtelif": "Culfa"
+        "zu_ZA": "Culfa"
     },
     "DAS": {
         "af": "Daşkəsən",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Daşkəsən",
         "sq_XK": "Daşkəsən",
         "sr": "Дашкесен",
+        "sr@latin": "Daškesen",
         "sr_Cyrl": "Дашкесен",
         "sr_Cyrl_BA": "Дашкесен",
         "sr_Cyrl_ME": "Дашкесен",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Daşkəsən",
         "tr_TR": "Daşkəsən",
         "tt": "Daşkəsən",
+        "tt@iqtelif": "Daşkəsən",
         "tt_RU": "Daşkəsən",
         "twq": "Daşkəsən",
         "twq_NE": "Daşkəsən",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Daşkəsən",
         "zh_Hant_TW": "Daşkəsən",
         "zu": "Daşkəsən",
-        "zu_ZA": "Daşkəsən",
-        "sr@latin": "Daškesen",
-        "tt@iqtelif": "Daşkəsən"
+        "zu_ZA": "Daşkəsən"
     },
     "FUZ": {
         "af": "Füzuli",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Füzuli",
         "sq_XK": "Füzuli",
         "sr": "Физули",
+        "sr@latin": "Fizuli",
         "sr_Cyrl": "Физули",
         "sr_Cyrl_BA": "Физули",
         "sr_Cyrl_ME": "Физули",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Füzuli",
         "tr_TR": "Füzuli",
         "tt": "Füzuli",
+        "tt@iqtelif": "Füzuli",
         "tt_RU": "Füzuli",
         "twq": "Füzuli",
         "twq_NE": "Füzuli",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Füzuli",
         "zh_Hant_TW": "Füzuli",
         "zu": "Füzuli",
-        "zu_ZA": "Füzuli",
-        "sr@latin": "Fizuli",
-        "tt@iqtelif": "Füzuli"
+        "zu_ZA": "Füzuli"
     },
     "GA": {
         "af": "Gəncə",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Gəncə",
         "sq_XK": "Gəncə",
         "sr": "Ганца",
+        "sr@latin": "Ganca",
         "sr_Cyrl": "Ганца",
         "sr_Cyrl_BA": "Ганца",
         "sr_Cyrl_ME": "Ганца",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Gəncə",
         "tr_TR": "Gəncə",
         "tt": "Gəncə",
+        "tt@iqtelif": "Gəncə",
         "tt_RU": "Gəncə",
         "twq": "Gəncə",
         "twq_NE": "Gəncə",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Gəncə",
         "zh_Hant_TW": "Gəncə",
         "zu": "Gəncə",
-        "zu_ZA": "Gəncə",
-        "sr@latin": "Ganca",
-        "tt@iqtelif": "Gəncə"
+        "zu_ZA": "Gəncə"
     },
     "GAD": {
         "af": "Gədəbəy",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Gədəbəy",
         "sq_XK": "Gədəbəy",
         "sr": "Гедебеј",
+        "sr@latin": "Gedebej",
         "sr_Cyrl": "Гедебеј",
         "sr_Cyrl_BA": "Гедебеј",
         "sr_Cyrl_ME": "Гедебеј",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Gədəbəy",
         "tr_TR": "Gədəbəy",
         "tt": "Gədəbəy",
+        "tt@iqtelif": "Gədəbəy",
         "tt_RU": "Gədəbəy",
         "twq": "Gədəbəy",
         "twq_NE": "Gədəbəy",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Gədəbəy",
         "zh_Hant_TW": "Gədəbəy",
         "zu": "Gədəbəy",
-        "zu_ZA": "Gədəbəy",
-        "sr@latin": "Gedebej",
-        "tt@iqtelif": "Gədəbəy"
+        "zu_ZA": "Gədəbəy"
     },
     "GOR": {
         "af": "Goranboy",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Goranboy",
         "sq_XK": "Goranboy",
         "sr": "Горанбој",
+        "sr@latin": "Goranboj",
         "sr_Cyrl": "Горанбој",
         "sr_Cyrl_BA": "Горанбој",
         "sr_Cyrl_ME": "Горанбој",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Goranboy",
         "tr_TR": "Goranboy",
         "tt": "Goranboy",
+        "tt@iqtelif": "Goranboy",
         "tt_RU": "Goranboy",
         "twq": "Goranboy",
         "twq_NE": "Goranboy",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Goranboy",
         "zh_Hant_TW": "Goranboy",
         "zu": "Goranboy",
-        "zu_ZA": "Goranboy",
-        "sr@latin": "Goranboj",
-        "tt@iqtelif": "Goranboy"
+        "zu_ZA": "Goranboy"
     },
     "GOY": {
         "af": "Göyçay",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Göyçay",
         "sq_XK": "Göyçay",
         "sr": "Гојчај",
+        "sr@latin": "Gojčaj",
         "sr_Cyrl": "Гојчај",
         "sr_Cyrl_BA": "Гојчај",
         "sr_Cyrl_ME": "Гојчај",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Göyçay",
         "tr_TR": "Göyçay",
         "tt": "Göyçay",
+        "tt@iqtelif": "Göyçay",
         "tt_RU": "Göyçay",
         "twq": "Göyçay",
         "twq_NE": "Göyçay",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Göyçay",
         "zh_Hant_TW": "Göyçay",
         "zu": "Göyçay",
-        "zu_ZA": "Göyçay",
-        "sr@latin": "Gojčaj",
-        "tt@iqtelif": "Göyçay"
+        "zu_ZA": "Göyçay"
     },
     "GYG": {
         "af": "Göygöl",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Göygöl",
         "sq_XK": "Göygöl",
         "sr": "Гојгол",
+        "sr@latin": "Gojgol",
         "sr_Cyrl": "Гојгол",
         "sr_Cyrl_BA": "Гојгол",
         "sr_Cyrl_ME": "Гојгол",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Göygöl",
         "tr_TR": "Göygöl",
         "tt": "Göygöl",
+        "tt@iqtelif": "Göygöl",
         "tt_RU": "Göygöl",
         "twq": "Göygöl",
         "twq_NE": "Göygöl",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Göygöl",
         "zh_Hant_TW": "Göygöl",
         "zu": "Göygöl",
-        "zu_ZA": "Göygöl",
-        "sr@latin": "Gojgol",
-        "tt@iqtelif": "Göygöl"
+        "zu_ZA": "Göygöl"
     },
     "HAC": {
         "af": "Hacıqabul",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Hacıqabul",
         "sq_XK": "Hacıqabul",
         "sr": "Хаћикабул",
+        "sr@latin": "Haćikabul",
         "sr_Cyrl": "Хаћикабул",
         "sr_Cyrl_BA": "Хаћикабул",
         "sr_Cyrl_ME": "Хаћикабул",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Hacıqabul",
         "tr_TR": "Hacıqabul",
         "tt": "Hacıqabul",
+        "tt@iqtelif": "Hacıqabul",
         "tt_RU": "Hacıqabul",
         "twq": "Hacıqabul",
         "twq_NE": "Hacıqabul",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Hacıqabul",
         "zh_Hant_TW": "Hacıqabul",
         "zu": "Hacıqabul",
-        "zu_ZA": "Hacıqabul",
-        "sr@latin": "Haćikabul",
-        "tt@iqtelif": "Hacıqabul"
+        "zu_ZA": "Hacıqabul"
     },
     "IMI": {
         "af": "İmişli",
@@ -21983,6 +21983,7 @@
         "sq_MK": "İmişli",
         "sq_XK": "İmişli",
         "sr": "Имишли",
+        "sr@latin": "Imišli",
         "sr_Cyrl": "Имишли",
         "sr_Cyrl_BA": "Имишли",
         "sr_Cyrl_ME": "Имишли",
@@ -22043,6 +22044,7 @@
         "tr_CY": "İmişli",
         "tr_TR": "İmişli",
         "tt": "İmişli",
+        "tt@iqtelif": "İmişli",
         "tt_RU": "İmişli",
         "twq": "İmişli",
         "twq_NE": "İmişli",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "İmişli",
         "zh_Hant_TW": "İmişli",
         "zu": "İmişli",
-        "zu_ZA": "İmişli",
-        "sr@latin": "Imišli",
-        "tt@iqtelif": "İmişli"
+        "zu_ZA": "İmişli"
     },
     "ISM": {
         "af": "İsmayıllı",
@@ -22868,6 +22868,7 @@
         "sq_MK": "İsmayıllı",
         "sq_XK": "İsmayıllı",
         "sr": "Исмајили",
+        "sr@latin": "Ismajili",
         "sr_Cyrl": "Исмајили",
         "sr_Cyrl_BA": "Исмајили",
         "sr_Cyrl_ME": "Исмајили",
@@ -22928,6 +22929,7 @@
         "tr_CY": "İsmayıllı",
         "tr_TR": "İsmayıllı",
         "tt": "İsmayıllı",
+        "tt@iqtelif": "İsmayıllı",
         "tt_RU": "İsmayıllı",
         "twq": "İsmayıllı",
         "twq_NE": "İsmayıllı",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "İsmayıllı",
         "zh_Hant_TW": "İsmayıllı",
         "zu": "İsmayıllı",
-        "zu_ZA": "İsmayıllı",
-        "sr@latin": "Ismajili",
-        "tt@iqtelif": "İsmayıllı"
+        "zu_ZA": "İsmayıllı"
     },
     "KAL": {
         "af": "Kəlbəcər",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Kəlbəcər",
         "sq_XK": "Kəlbəcər",
         "sr": "Келбесер",
+        "sr@latin": "Kelbeser",
         "sr_Cyrl": "Келбесер",
         "sr_Cyrl_BA": "Келбесер",
         "sr_Cyrl_ME": "Келбесер",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Kəlbəcər",
         "tr_TR": "Kəlbəcər",
         "tt": "Kəlbəcər",
+        "tt@iqtelif": "Kəlbəcər",
         "tt_RU": "Kəlbəcər",
         "twq": "Kəlbəcər",
         "twq_NE": "Kəlbəcər",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Kəlbəcər",
         "zh_Hant_TW": "Kəlbəcər",
         "zu": "Kəlbəcər",
-        "zu_ZA": "Kəlbəcər",
-        "sr@latin": "Kelbeser",
-        "tt@iqtelif": "Kəlbəcər"
+        "zu_ZA": "Kəlbəcər"
     },
     "KAN": {
         "af": "Kǝngǝrli",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Kǝngǝrli",
         "sq_XK": "Kǝngǝrli",
         "sr": "Кенгерли",
+        "sr@latin": "Kengerli",
         "sr_Cyrl": "Кенгерли",
         "sr_Cyrl_BA": "Кенгерли",
         "sr_Cyrl_ME": "Кенгерли",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Kǝngǝrli",
         "tr_TR": "Kǝngǝrli",
         "tt": "Kǝngǝrli",
+        "tt@iqtelif": "Kǝngǝrli",
         "tt_RU": "Kǝngǝrli",
         "twq": "Kǝngǝrli",
         "twq_NE": "Kǝngǝrli",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Kǝngǝrli",
         "zh_Hant_TW": "Kǝngǝrli",
         "zu": "Kǝngǝrli",
-        "zu_ZA": "Kǝngǝrli",
-        "sr@latin": "Kengerli",
-        "tt@iqtelif": "Kǝngǝrli"
+        "zu_ZA": "Kǝngǝrli"
     },
     "KUR": {
         "af": "Kürdəmir",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Kürdəmir",
         "sq_XK": "Kürdəmir",
         "sr": "Курдемир",
+        "sr@latin": "Kurdemir",
         "sr_Cyrl": "Курдемир",
         "sr_Cyrl_BA": "Курдемир",
         "sr_Cyrl_ME": "Курдемир",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Kürdəmir",
         "tr_TR": "Kürdəmir",
         "tt": "Kürdəmir",
+        "tt@iqtelif": "Kürdəmir",
         "tt_RU": "Kürdəmir",
         "twq": "Kürdəmir",
         "twq_NE": "Kürdəmir",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Kürdəmir",
         "zh_Hant_TW": "Kürdəmir",
         "zu": "Kürdəmir",
-        "zu_ZA": "Kürdəmir",
-        "sr@latin": "Kurdemir",
-        "tt@iqtelif": "Kürdəmir"
+        "zu_ZA": "Kürdəmir"
     },
     "LA": {
         "af": "Lənkəran",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Lənkəran",
         "sq_XK": "Lənkəran",
         "sr": "Ленкеран",
+        "sr@latin": "Lenkeran",
         "sr_Cyrl": "Ленкеран",
         "sr_Cyrl_BA": "Ленкеран",
         "sr_Cyrl_ME": "Ленкеран",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Lənkəran",
         "tr_TR": "Lənkəran",
         "tt": "Lənkəran",
+        "tt@iqtelif": "Lənkəran",
         "tt_RU": "Lənkəran",
         "twq": "Lənkəran",
         "twq_NE": "Lənkəran",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Lənkəran",
         "zh_Hant_TW": "Lənkəran",
         "zu": "Lənkəran",
-        "zu_ZA": "Lənkəran",
-        "sr@latin": "Lenkeran",
-        "tt@iqtelif": "Lənkəran"
+        "zu_ZA": "Lənkəran"
     },
     "LAC": {
         "af": "Laçın",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Laçın",
         "sq_XK": "Laçın",
         "sr": "Лачин",
+        "sr@latin": "Lačin",
         "sr_Cyrl": "Лачин",
         "sr_Cyrl_BA": "Лачин",
         "sr_Cyrl_ME": "Лачин",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Laçın",
         "tr_TR": "Laçın",
         "tt": "Laçın",
+        "tt@iqtelif": "Laçın",
         "tt_RU": "Laçın",
         "twq": "Laçın",
         "twq_NE": "Laçın",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Laçın",
         "zh_Hant_TW": "Laçın",
         "zu": "Laçın",
-        "zu_ZA": "Laçın",
-        "sr@latin": "Lačin",
-        "tt@iqtelif": "Laçın"
+        "zu_ZA": "Laçın"
     },
     "LAN": {
         "af": "Lənkəran",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Lənkəran",
         "sq_XK": "Lənkəran",
         "sr": "Ленкеран",
+        "sr@latin": "Lenkeran",
         "sr_Cyrl": "Ленкеран",
         "sr_Cyrl_BA": "Ленкеран",
         "sr_Cyrl_ME": "Ленкеран",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Lənkəran",
         "tr_TR": "Lənkəran",
         "tt": "Lənkəran",
+        "tt@iqtelif": "Lənkəran",
         "tt_RU": "Lənkəran",
         "twq": "Lənkəran",
         "twq_NE": "Lənkəran",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Lənkəran",
         "zh_Hant_TW": "Lənkəran",
         "zu": "Lənkəran",
-        "zu_ZA": "Lənkəran",
-        "sr@latin": "Lenkeran",
-        "tt@iqtelif": "Lənkəran"
+        "zu_ZA": "Lənkəran"
     },
     "LER": {
         "af": "Lerik",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Lerik",
         "sq_XK": "Lerik",
         "sr": "Лерик",
+        "sr@latin": "Lerik",
         "sr_Cyrl": "Лерик",
         "sr_Cyrl_BA": "Лерик",
         "sr_Cyrl_ME": "Лерик",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Lerik",
         "tr_TR": "Lerik",
         "tt": "Lerik",
+        "tt@iqtelif": "Lerik",
         "tt_RU": "Lerik",
         "twq": "Lerik",
         "twq_NE": "Lerik",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Lerik",
         "zh_Hant_TW": "Lerik",
         "zu": "Lerik",
-        "zu_ZA": "Lerik",
-        "sr@latin": "Lerik",
-        "tt@iqtelif": "Lerik"
+        "zu_ZA": "Lerik"
     },
     "MAS": {
         "af": "Masallı",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Masallı",
         "sq_XK": "Masallı",
         "sr": "Масали",
+        "sr@latin": "Masali",
         "sr_Cyrl": "Масали",
         "sr_Cyrl_BA": "Масали",
         "sr_Cyrl_ME": "Масали",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Masallı",
         "tr_TR": "Masallı",
         "tt": "Masallı",
+        "tt@iqtelif": "Masallı",
         "tt_RU": "Masallı",
         "twq": "Masallı",
         "twq_NE": "Masallı",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Masallı",
         "zh_Hant_TW": "Masallı",
         "zu": "Masallı",
-        "zu_ZA": "Masallı",
-        "sr@latin": "Masali",
-        "tt@iqtelif": "Masallı"
+        "zu_ZA": "Masallı"
     },
     "MI": {
         "af": "Mingəçevir",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Mingəçevir",
         "sq_XK": "Mingəçevir",
         "sr": "Мингецевир",
+        "sr@latin": "Mingecevir",
         "sr_Cyrl": "Мингецевир",
         "sr_Cyrl_BA": "Мингецевир",
         "sr_Cyrl_ME": "Мингецевир",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Mingəçevir",
         "tr_TR": "Mingəçevir",
         "tt": "Mingəçevir",
+        "tt@iqtelif": "Mingəçevir",
         "tt_RU": "Mingəçevir",
         "twq": "Mingəçevir",
         "twq_NE": "Mingəçevir",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Mingəçevir",
         "zh_Hant_TW": "Mingəçevir",
         "zu": "Mingəçevir",
-        "zu_ZA": "Mingəçevir",
-        "sr@latin": "Mingecevir",
-        "tt@iqtelif": "Mingəçevir"
+        "zu_ZA": "Mingəçevir"
     },
     "NA": {
         "af": "Naftalan",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Naftalan",
         "sq_XK": "Naftalan",
         "sr": "Нафталан",
+        "sr@latin": "Naftalan",
         "sr_Cyrl": "Нафталан",
         "sr_Cyrl_BA": "Нафталан",
         "sr_Cyrl_ME": "Нафталан",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Naftalan",
         "tr_TR": "Naftalan",
         "tt": "Naftalan",
+        "tt@iqtelif": "Naftalan",
         "tt_RU": "Naftalan",
         "twq": "Naftalan",
         "twq_NE": "Naftalan",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Naftalan",
         "zh_Hant_TW": "Naftalan",
         "zu": "Naftalan",
-        "zu_ZA": "Naftalan",
-        "sr@latin": "Naftalan",
-        "tt@iqtelif": "Naftalan"
+        "zu_ZA": "Naftalan"
     },
     "NEF": {
         "af": "Neftçala",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Neftçala",
         "sq_XK": "Neftçala",
         "sr": "Нефчала",
+        "sr@latin": "Nefčala",
         "sr_Cyrl": "Нефчала",
         "sr_Cyrl_BA": "Нефчала",
         "sr_Cyrl_ME": "Нефчала",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Neftçala",
         "tr_TR": "Neftçala",
         "tt": "Neftçala",
+        "tt@iqtelif": "Neftçala",
         "tt_RU": "Neftçala",
         "twq": "Neftçala",
         "twq_NE": "Neftçala",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Neftçala",
         "zh_Hant_TW": "Neftçala",
         "zu": "Neftçala",
-        "zu_ZA": "Neftçala",
-        "sr@latin": "Nefčala",
-        "tt@iqtelif": "Neftçala"
+        "zu_ZA": "Neftçala"
     },
     "NV": {
         "af": "Naxçıvan",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Naxçıvan",
         "sq_XK": "Naxçıvan",
         "sr": "Наксчиван",
+        "sr@latin": "Naksčivan",
         "sr_Cyrl": "Наксчиван",
         "sr_Cyrl_BA": "Наксчиван",
         "sr_Cyrl_ME": "Наксчиван",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Naxçıvan",
         "tr_TR": "Naxçıvan",
         "tt": "Naxçıvan",
+        "tt@iqtelif": "Naxçıvan",
         "tt_RU": "Naxçıvan",
         "twq": "Naxçıvan",
         "twq_NE": "Naxçıvan",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Naxçıvan",
         "zh_Hant_TW": "Naxçıvan",
         "zu": "Naxçıvan",
-        "zu_ZA": "Naxçıvan",
-        "sr@latin": "Naksčivan",
-        "tt@iqtelif": "Naxçıvan"
+        "zu_ZA": "Naxçıvan"
     },
     "NX": {
         "af": "Naxçıvan",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Naxçıvan",
         "sq_XK": "Naxçıvan",
         "sr": "Наксчиван",
+        "sr@latin": "Naksčivan",
         "sr_Cyrl": "Наксчиван",
         "sr_Cyrl_BA": "Наксчиван",
         "sr_Cyrl_ME": "Наксчиван",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Naxçıvan",
         "tr_TR": "Naxçıvan",
         "tt": "Naxçıvan",
+        "tt@iqtelif": "Naxçıvan",
         "tt_RU": "Naxçıvan",
         "twq": "Naxçıvan",
         "twq_NE": "Naxçıvan",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Naxçıvan",
         "zh_Hant_TW": "Naxçıvan",
         "zu": "Naxçıvan",
-        "zu_ZA": "Naxçıvan",
-        "sr@latin": "Naksčivan",
-        "tt@iqtelif": "Naxçıvan"
+        "zu_ZA": "Naxçıvan"
     },
     "OGU": {
         "af": "Oğuz",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Oğuz",
         "sq_XK": "Oğuz",
         "sr": "Огуз",
+        "sr@latin": "Oguz",
         "sr_Cyrl": "Огуз",
         "sr_Cyrl_BA": "Огуз",
         "sr_Cyrl_ME": "Огуз",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Oğuz",
         "tr_TR": "Oğuz",
         "tt": "Oğuz",
+        "tt@iqtelif": "Oğuz",
         "tt_RU": "Oğuz",
         "twq": "Oğuz",
         "twq_NE": "Oğuz",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Oğuz",
         "zh_Hant_TW": "Oğuz",
         "zu": "Oğuz",
-        "zu_ZA": "Oğuz",
-        "sr@latin": "Oguz",
-        "tt@iqtelif": "Oğuz"
+        "zu_ZA": "Oğuz"
     },
     "ORD": {
         "af": "Ordubad",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Ordubad",
         "sq_XK": "Ordubad",
         "sr": "Ордубад",
+        "sr@latin": "Ordubad",
         "sr_Cyrl": "Ордубад",
         "sr_Cyrl_BA": "Ордубад",
         "sr_Cyrl_ME": "Ордубад",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Ordubad",
         "tr_TR": "Ordubad",
         "tt": "Ordubad",
+        "tt@iqtelif": "Ordubad",
         "tt_RU": "Ordubad",
         "twq": "Ordubad",
         "twq_NE": "Ordubad",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Ordubad",
         "zh_Hant_TW": "Ordubad",
         "zu": "Ordubad",
-        "zu_ZA": "Ordubad",
-        "sr@latin": "Ordubad",
-        "tt@iqtelif": "Ordubad"
+        "zu_ZA": "Ordubad"
     },
     "QAB": {
         "af": "Qəbələ",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Qəbələ",
         "sq_XK": "Qəbələ",
         "sr": "Кебеле",
+        "sr@latin": "Kebele",
         "sr_Cyrl": "Кебеле",
         "sr_Cyrl_BA": "Кебеле",
         "sr_Cyrl_ME": "Кебеле",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Qəbələ",
         "tr_TR": "Qəbələ",
         "tt": "Qəbələ",
+        "tt@iqtelif": "Qəbələ",
         "tt_RU": "Qəbələ",
         "twq": "Qəbələ",
         "twq_NE": "Qəbələ",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Qəbələ",
         "zh_Hant_TW": "Qəbələ",
         "zu": "Qəbələ",
-        "zu_ZA": "Qəbələ",
-        "sr@latin": "Kebele",
-        "tt@iqtelif": "Qəbələ"
+        "zu_ZA": "Qəbələ"
     },
     "QAX": {
         "af": "Qax",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Qax",
         "sq_XK": "Qax",
         "sr": "Какс",
+        "sr@latin": "Kaks",
         "sr_Cyrl": "Какс",
         "sr_Cyrl_BA": "Какс",
         "sr_Cyrl_ME": "Какс",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Qax",
         "tr_TR": "Qax",
         "tt": "Qax",
+        "tt@iqtelif": "Qax",
         "tt_RU": "Qax",
         "twq": "Qax",
         "twq_NE": "Qax",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Qax",
         "zh_Hant_TW": "Qax",
         "zu": "Qax",
-        "zu_ZA": "Qax",
-        "sr@latin": "Kaks",
-        "tt@iqtelif": "Qax"
+        "zu_ZA": "Qax"
     },
     "QAZ": {
         "af": "Qazax",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Qazax",
         "sq_XK": "Qazax",
         "sr": "Казах",
+        "sr@latin": "Kazah",
         "sr_Cyrl": "Казах",
         "sr_Cyrl_BA": "Казах",
         "sr_Cyrl_ME": "Казах",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Qazax",
         "tr_TR": "Qazax",
         "tt": "Qazax",
+        "tt@iqtelif": "Qazax",
         "tt_RU": "Qazax",
         "twq": "Qazax",
         "twq_NE": "Qazax",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Qazax",
         "zh_Hant_TW": "Qazax",
         "zu": "Qazax",
-        "zu_ZA": "Qazax",
-        "sr@latin": "Kazah",
-        "tt@iqtelif": "Qazax"
+        "zu_ZA": "Qazax"
     },
     "QBA": {
         "af": "Quba",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Quba",
         "sq_XK": "Quba",
         "sr": "Куба",
+        "sr@latin": "Kuba",
         "sr_Cyrl": "Куба",
         "sr_Cyrl_BA": "Куба",
         "sr_Cyrl_ME": "Куба",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Quba",
         "tr_TR": "Quba",
         "tt": "Quba",
+        "tt@iqtelif": "Quba",
         "tt_RU": "Quba",
         "twq": "Quba",
         "twq_NE": "Quba",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Quba",
         "zh_Hant_TW": "Quba",
         "zu": "Quba",
-        "zu_ZA": "Quba",
-        "sr@latin": "Kuba",
-        "tt@iqtelif": "Quba"
+        "zu_ZA": "Quba"
     },
     "QBI": {
         "af": "Qubadlı",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Qubadlı",
         "sq_XK": "Qubadlı",
         "sr": "Кубадли",
+        "sr@latin": "Kubadli",
         "sr_Cyrl": "Кубадли",
         "sr_Cyrl_BA": "Кубадли",
         "sr_Cyrl_ME": "Кубадли",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Qubadlı",
         "tr_TR": "Qubadlı",
         "tt": "Qubadlı",
+        "tt@iqtelif": "Qubadlı",
         "tt_RU": "Qubadlı",
         "twq": "Qubadlı",
         "twq_NE": "Qubadlı",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Qubadlı",
         "zh_Hant_TW": "Qubadlı",
         "zu": "Qubadlı",
-        "zu_ZA": "Qubadlı",
-        "sr@latin": "Kubadli",
-        "tt@iqtelif": "Qubadlı"
+        "zu_ZA": "Qubadlı"
     },
     "QOB": {
         "af": "Qobustan",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Qobustan",
         "sq_XK": "Qobustan",
         "sr": "Кобустан",
+        "sr@latin": "Kobustan",
         "sr_Cyrl": "Кобустан",
         "sr_Cyrl_BA": "Кобустан",
         "sr_Cyrl_ME": "Кобустан",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Qobustan",
         "tr_TR": "Qobustan",
         "tt": "Qobustan",
+        "tt@iqtelif": "Qobustan",
         "tt_RU": "Qobustan",
         "twq": "Qobustan",
         "twq_NE": "Qobustan",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Qobustan",
         "zh_Hant_TW": "Qobustan",
         "zu": "Qobustan",
-        "zu_ZA": "Qobustan",
-        "sr@latin": "Kobustan",
-        "tt@iqtelif": "Qobustan"
+        "zu_ZA": "Qobustan"
     },
     "QUS": {
         "af": "Qusar",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Qusar",
         "sq_XK": "Qusar",
         "sr": "Кузар",
+        "sr@latin": "Kuzar",
         "sr_Cyrl": "Кузар",
         "sr_Cyrl_BA": "Кузар",
         "sr_Cyrl_ME": "Кузар",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Qusar",
         "tr_TR": "Qusar",
         "tt": "Qusar",
+        "tt@iqtelif": "Qusar",
         "tt_RU": "Qusar",
         "twq": "Qusar",
         "twq_NE": "Qusar",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Qusar",
         "zh_Hant_TW": "Qusar",
         "zu": "Qusar",
-        "zu_ZA": "Qusar",
-        "sr@latin": "Kuzar",
-        "tt@iqtelif": "Qusar"
+        "zu_ZA": "Qusar"
     },
     "SA": {
         "af": "Şəki",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Şəki",
         "sq_XK": "Şəki",
         "sr": "Шеки",
+        "sr@latin": "Šeki",
         "sr_Cyrl": "Шеки",
         "sr_Cyrl_BA": "Шеки",
         "sr_Cyrl_ME": "Шеки",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Şəki",
         "tr_TR": "Şəki",
         "tt": "Şəki",
+        "tt@iqtelif": "Şəki",
         "tt_RU": "Şəki",
         "twq": "Şəki",
         "twq_NE": "Şəki",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Şəki",
         "zh_Hant_TW": "Şəki",
         "zu": "Şəki",
-        "zu_ZA": "Şəki",
-        "sr@latin": "Šeki",
-        "tt@iqtelif": "Şəki"
+        "zu_ZA": "Şəki"
     },
     "SAB": {
         "af": "Sabirabad",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Sabirabad",
         "sq_XK": "Sabirabad",
         "sr": "Сабирабад",
+        "sr@latin": "Sabirabad",
         "sr_Cyrl": "Сабирабад",
         "sr_Cyrl_BA": "Сабирабад",
         "sr_Cyrl_ME": "Сабирабад",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Sabirabad",
         "tr_TR": "Sabirabad",
         "tt": "Sabirabad",
+        "tt@iqtelif": "Sabirabad",
         "tt_RU": "Sabirabad",
         "twq": "Sabirabad",
         "twq_NE": "Sabirabad",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Sabirabad",
         "zh_Hant_TW": "Sabirabad",
         "zu": "Sabirabad",
-        "zu_ZA": "Sabirabad",
-        "sr@latin": "Sabirabad",
-        "tt@iqtelif": "Sabirabad"
+        "zu_ZA": "Sabirabad"
     },
     "SAD": {
         "af": "Sədərək",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Sədərək",
         "sq_XK": "Sədərək",
         "sr": "Седерек",
+        "sr@latin": "Sederek",
         "sr_Cyrl": "Седерек",
         "sr_Cyrl_BA": "Седерек",
         "sr_Cyrl_ME": "Седерек",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Sədərək",
         "tr_TR": "Sədərək",
         "tt": "Sədərək",
+        "tt@iqtelif": "Sədərək",
         "tt_RU": "Sədərək",
         "twq": "Sədərək",
         "twq_NE": "Sədərək",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Sədərək",
         "zh_Hant_TW": "Sədərək",
         "zu": "Sədərək",
-        "zu_ZA": "Sədərək",
-        "sr@latin": "Sederek",
-        "tt@iqtelif": "Sədərək"
+        "zu_ZA": "Sədərək"
     },
     "SAH": {
         "af": "Şahbuz",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Şahbuz",
         "sq_XK": "Şahbuz",
         "sr": "Шабуз",
+        "sr@latin": "Šabuz",
         "sr_Cyrl": "Шабуз",
         "sr_Cyrl_BA": "Шабуз",
         "sr_Cyrl_ME": "Шабуз",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Şahbuz",
         "tr_TR": "Şahbuz",
         "tt": "Şahbuz",
+        "tt@iqtelif": "Şahbuz",
         "tt_RU": "Şahbuz",
         "twq": "Şahbuz",
         "twq_NE": "Şahbuz",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Şahbuz",
         "zh_Hant_TW": "Şahbuz",
         "zu": "Şahbuz",
-        "zu_ZA": "Şahbuz",
-        "sr@latin": "Šabuz",
-        "tt@iqtelif": "Şahbuz"
+        "zu_ZA": "Şahbuz"
     },
     "SAK": {
         "af": "Şəki",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Şəki",
         "sq_XK": "Şəki",
         "sr": "Шеки",
+        "sr@latin": "Šeki",
         "sr_Cyrl": "Шеки",
         "sr_Cyrl_BA": "Шеки",
         "sr_Cyrl_ME": "Шеки",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Şəki",
         "tr_TR": "Şəki",
         "tt": "Şəki",
+        "tt@iqtelif": "Şəki",
         "tt_RU": "Şəki",
         "twq": "Şəki",
         "twq_NE": "Şəki",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Şəki",
         "zh_Hant_TW": "Şəki",
         "zu": "Şəki",
-        "zu_ZA": "Şəki",
-        "sr@latin": "Šeki",
-        "tt@iqtelif": "Şəki"
+        "zu_ZA": "Şəki"
     },
     "SAL": {
         "af": "Salyan",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Salyan",
         "sq_XK": "Salyan",
         "sr": "Салијан",
+        "sr@latin": "Salijan",
         "sr_Cyrl": "Салијан",
         "sr_Cyrl_BA": "Салијан",
         "sr_Cyrl_ME": "Салијан",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Salyan",
         "tr_TR": "Salyan",
         "tt": "Salyan",
+        "tt@iqtelif": "Salyan",
         "tt_RU": "Salyan",
         "twq": "Salyan",
         "twq_NE": "Salyan",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Salyan",
         "zh_Hant_TW": "Salyan",
         "zu": "Salyan",
-        "zu_ZA": "Salyan",
-        "sr@latin": "Salijan",
-        "tt@iqtelif": "Salyan"
+        "zu_ZA": "Salyan"
     },
     "SAR": {
         "af": "Şərur",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Şərur",
         "sq_XK": "Şərur",
         "sr": "Шерур",
+        "sr@latin": "Šerur",
         "sr_Cyrl": "Шерур",
         "sr_Cyrl_BA": "Шерур",
         "sr_Cyrl_ME": "Шерур",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Şərur",
         "tr_TR": "Şərur",
         "tt": "Şərur",
+        "tt@iqtelif": "Şərur",
         "tt_RU": "Şərur",
         "twq": "Şərur",
         "twq_NE": "Şərur",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Şərur",
         "zh_Hant_TW": "Şərur",
         "zu": "Şərur",
-        "zu_ZA": "Şərur",
-        "sr@latin": "Šerur",
-        "tt@iqtelif": "Şərur"
+        "zu_ZA": "Şərur"
     },
     "SAT": {
         "af": "Saatlı",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Saatlı",
         "sq_XK": "Saatlı",
         "sr": "Сатли",
+        "sr@latin": "Satli",
         "sr_Cyrl": "Сатли",
         "sr_Cyrl_BA": "Сатли",
         "sr_Cyrl_ME": "Сатли",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Saatlı",
         "tr_TR": "Saatlı",
         "tt": "Saatlı",
+        "tt@iqtelif": "Saatlı",
         "tt_RU": "Saatlı",
         "twq": "Saatlı",
         "twq_NE": "Saatlı",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Saatlı",
         "zh_Hant_TW": "Saatlı",
         "zu": "Saatlı",
-        "zu_ZA": "Saatlı",
-        "sr@latin": "Satli",
-        "tt@iqtelif": "Saatlı"
+        "zu_ZA": "Saatlı"
     },
     "SBN": {
         "af": "Şabran",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Şabran",
         "sq_XK": "Şabran",
         "sr": "Шабран",
+        "sr@latin": "Šabran",
         "sr_Cyrl": "Шабран",
         "sr_Cyrl_BA": "Шабран",
         "sr_Cyrl_ME": "Шабран",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Şabran",
         "tr_TR": "Şabran",
         "tt": "Şabran",
+        "tt@iqtelif": "Şabran",
         "tt_RU": "Şabran",
         "twq": "Şabran",
         "twq_NE": "Şabran",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Şabran",
         "zh_Hant_TW": "Şabran",
         "zu": "Şabran",
-        "zu_ZA": "Şabran",
-        "sr@latin": "Šabran",
-        "tt@iqtelif": "Şabran"
+        "zu_ZA": "Şabran"
     },
     "SIY": {
         "af": "Siyəzən",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Siyəzən",
         "sq_XK": "Siyəzən",
         "sr": "Сијезен",
+        "sr@latin": "Sijezen",
         "sr_Cyrl": "Сијезен",
         "sr_Cyrl_BA": "Сијезен",
         "sr_Cyrl_ME": "Сијезен",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Siyəzən",
         "tr_TR": "Siyəzən",
         "tt": "Siyəzən",
+        "tt@iqtelif": "Siyəzən",
         "tt_RU": "Siyəzən",
         "twq": "Siyəzən",
         "twq_NE": "Siyəzən",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Siyəzən",
         "zh_Hant_TW": "Siyəzən",
         "zu": "Siyəzən",
-        "zu_ZA": "Siyəzən",
-        "sr@latin": "Sijezen",
-        "tt@iqtelif": "Siyəzən"
+        "zu_ZA": "Siyəzən"
     },
     "SKR": {
         "af": "Şəmkir",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Şəmkir",
         "sq_XK": "Şəmkir",
         "sr": "Шемкир",
+        "sr@latin": "Šemkir",
         "sr_Cyrl": "Шемкир",
         "sr_Cyrl_BA": "Шемкир",
         "sr_Cyrl_ME": "Шемкир",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Şəmkir",
         "tr_TR": "Şəmkir",
         "tt": "Şəmkir",
+        "tt@iqtelif": "Şəmkir",
         "tt_RU": "Şəmkir",
         "twq": "Şəmkir",
         "twq_NE": "Şəmkir",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Şəmkir",
         "zh_Hant_TW": "Şəmkir",
         "zu": "Şəmkir",
-        "zu_ZA": "Şəmkir",
-        "sr@latin": "Šemkir",
-        "tt@iqtelif": "Şəmkir"
+        "zu_ZA": "Şəmkir"
     },
     "SM": {
         "af": "Sumqayıt",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Sumqayıt",
         "sq_XK": "Sumqayıt",
         "sr": "Сумкајит",
+        "sr@latin": "Sumkajit",
         "sr_Cyrl": "Сумкајит",
         "sr_Cyrl_BA": "Сумкајит",
         "sr_Cyrl_ME": "Сумкајит",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Sumqayıt",
         "tr_TR": "Sumqayıt",
         "tt": "Sumqayıt",
+        "tt@iqtelif": "Sumqayıt",
         "tt_RU": "Sumqayıt",
         "twq": "Sumqayıt",
         "twq_NE": "Sumqayıt",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Sumqayıt",
         "zh_Hant_TW": "Sumqayıt",
         "zu": "Sumqayıt",
-        "zu_ZA": "Sumqayıt",
-        "sr@latin": "Sumkajit",
-        "tt@iqtelif": "Sumqayıt"
+        "zu_ZA": "Sumqayıt"
     },
     "SMI": {
         "af": "Şamaxı",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Şamaxı",
         "sq_XK": "Şamaxı",
         "sr": "Шамакси",
+        "sr@latin": "Šamaksi",
         "sr_Cyrl": "Шамакси",
         "sr_Cyrl_BA": "Шамакси",
         "sr_Cyrl_ME": "Шамакси",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Şamaxı",
         "tr_TR": "Şamaxı",
         "tt": "Şamaxı",
+        "tt@iqtelif": "Şamaxı",
         "tt_RU": "Şamaxı",
         "twq": "Şamaxı",
         "twq_NE": "Şamaxı",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Şamaxı",
         "zh_Hant_TW": "Şamaxı",
         "zu": "Şamaxı",
-        "zu_ZA": "Şamaxı",
-        "sr@latin": "Šamaksi",
-        "tt@iqtelif": "Şamaxı"
+        "zu_ZA": "Şamaxı"
     },
     "SMX": {
         "af": "Samux",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Samux",
         "sq_XK": "Samux",
         "sr": "Самукс",
+        "sr@latin": "Samuks",
         "sr_Cyrl": "Самукс",
         "sr_Cyrl_BA": "Самукс",
         "sr_Cyrl_ME": "Самукс",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Samux",
         "tr_TR": "Samux",
         "tt": "Samux",
+        "tt@iqtelif": "Samux",
         "tt_RU": "Samux",
         "twq": "Samux",
         "twq_NE": "Samux",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Samux",
         "zh_Hant_TW": "Samux",
         "zu": "Samux",
-        "zu_ZA": "Samux",
-        "sr@latin": "Samuks",
-        "tt@iqtelif": "Samux"
+        "zu_ZA": "Samux"
     },
     "SR": {
         "af": "Şirvan",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Şirvan",
         "sq_XK": "Şirvan",
         "sr": "Ширван",
+        "sr@latin": "Širvan",
         "sr_Cyrl": "Ширван",
         "sr_Cyrl_BA": "Ширван",
         "sr_Cyrl_ME": "Ширван",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Şirvan",
         "tr_TR": "Şirvan",
         "tt": "Şirvan",
+        "tt@iqtelif": "Şirvan",
         "tt_RU": "Şirvan",
         "twq": "Şirvan",
         "twq_NE": "Şirvan",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Şirvan",
         "zh_Hant_TW": "Şirvan",
         "zu": "Şirvan",
-        "zu_ZA": "Şirvan",
-        "sr@latin": "Širvan",
-        "tt@iqtelif": "Şirvan"
+        "zu_ZA": "Şirvan"
     },
     "SUS": {
         "af": "Şuşa",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Şuşa",
         "sq_XK": "Şuşa",
         "sr": "Шуша",
+        "sr@latin": "Šuša",
         "sr_Cyrl": "Шуша",
         "sr_Cyrl_BA": "Шуша",
         "sr_Cyrl_ME": "Шуша",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Şuşa",
         "tr_TR": "Şuşa",
         "tt": "Şuşa",
+        "tt@iqtelif": "Şuşa",
         "tt_RU": "Şuşa",
         "twq": "Şuşa",
         "twq_NE": "Şuşa",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Şuşa",
         "zh_Hant_TW": "Şuşa",
         "zu": "Şuşa",
-        "zu_ZA": "Şuşa",
-        "sr@latin": "Šuša",
-        "tt@iqtelif": "Şuşa"
+        "zu_ZA": "Şuşa"
     },
     "TAR": {
         "af": "Tərtər",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Tərtər",
         "sq_XK": "Tərtər",
         "sr": "Тертер",
+        "sr@latin": "Terter",
         "sr_Cyrl": "Тертер",
         "sr_Cyrl_BA": "Тертер",
         "sr_Cyrl_ME": "Тертер",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Tərtər",
         "tr_TR": "Tərtər",
         "tt": "Tərtər",
+        "tt@iqtelif": "Tərtər",
         "tt_RU": "Tərtər",
         "twq": "Tərtər",
         "twq_NE": "Tərtər",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Tərtər",
         "zh_Hant_TW": "Tərtər",
         "zu": "Tərtər",
-        "zu_ZA": "Tərtər",
-        "sr@latin": "Terter",
-        "tt@iqtelif": "Tərtər"
+        "zu_ZA": "Tərtər"
     },
     "TOV": {
         "af": "Tovuz",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Tovuz",
         "sq_XK": "Tovuz",
         "sr": "Товуз",
+        "sr@latin": "Tovuz",
         "sr_Cyrl": "Товуз",
         "sr_Cyrl_BA": "Товуз",
         "sr_Cyrl_ME": "Товуз",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Tovuz",
         "tr_TR": "Tovuz",
         "tt": "Tovuz",
+        "tt@iqtelif": "Tovuz",
         "tt_RU": "Tovuz",
         "twq": "Tovuz",
         "twq_NE": "Tovuz",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Tovuz",
         "zh_Hant_TW": "Tovuz",
         "zu": "Tovuz",
-        "zu_ZA": "Tovuz",
-        "sr@latin": "Tovuz",
-        "tt@iqtelif": "Tovuz"
+        "zu_ZA": "Tovuz"
     },
     "UCA": {
         "af": "Ucar",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Ucar",
         "sq_XK": "Ucar",
         "sr": "Укар",
+        "sr@latin": "Ukar",
         "sr_Cyrl": "Укар",
         "sr_Cyrl_BA": "Укар",
         "sr_Cyrl_ME": "Укар",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Ucar",
         "tr_TR": "Ucar",
         "tt": "Ucar",
+        "tt@iqtelif": "Ucar",
         "tt_RU": "Ucar",
         "twq": "Ucar",
         "twq_NE": "Ucar",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Ucar",
         "zh_Hant_TW": "Ucar",
         "zu": "Ucar",
-        "zu_ZA": "Ucar",
-        "sr@latin": "Ukar",
-        "tt@iqtelif": "Ucar"
+        "zu_ZA": "Ucar"
     },
     "XA": {
         "af": "Xankəndi",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Xankəndi",
         "sq_XK": "Xankəndi",
         "sr": "Ханкенди",
+        "sr@latin": "Hankendi",
         "sr_Cyrl": "Ханкенди",
         "sr_Cyrl_BA": "Ханкенди",
         "sr_Cyrl_ME": "Ханкенди",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Xankəndi",
         "tr_TR": "Xankəndi",
         "tt": "Xankəndi",
+        "tt@iqtelif": "Xankəndi",
         "tt_RU": "Xankəndi",
         "twq": "Xankəndi",
         "twq_NE": "Xankəndi",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Xankəndi",
         "zh_Hant_TW": "Xankəndi",
         "zu": "Xankəndi",
-        "zu_ZA": "Xankəndi",
-        "sr@latin": "Hankendi",
-        "tt@iqtelif": "Xankəndi"
+        "zu_ZA": "Xankəndi"
     },
     "XAC": {
         "af": "Xaçmaz",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Xaçmaz",
         "sq_XK": "Xaçmaz",
         "sr": "Хасмаз",
+        "sr@latin": "Hasmaz",
         "sr_Cyrl": "Хасмаз",
         "sr_Cyrl_BA": "Хасмаз",
         "sr_Cyrl_ME": "Хасмаз",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Xaçmaz",
         "tr_TR": "Xaçmaz",
         "tt": "Xaçmaz",
+        "tt@iqtelif": "Xaçmaz",
         "tt_RU": "Xaçmaz",
         "twq": "Xaçmaz",
         "twq_NE": "Xaçmaz",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Xaçmaz",
         "zh_Hant_TW": "Xaçmaz",
         "zu": "Xaçmaz",
-        "zu_ZA": "Xaçmaz",
-        "sr@latin": "Hasmaz",
-        "tt@iqtelif": "Xaçmaz"
+        "zu_ZA": "Xaçmaz"
     },
     "XCI": {
         "af": "Xocalı",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Xocalı",
         "sq_XK": "Xocalı",
         "sr": "Хокали",
+        "sr@latin": "Hokali",
         "sr_Cyrl": "Хокали",
         "sr_Cyrl_BA": "Хокали",
         "sr_Cyrl_ME": "Хокали",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Xocalı",
         "tr_TR": "Xocalı",
         "tt": "Xocalı",
+        "tt@iqtelif": "Xocalı",
         "tt_RU": "Xocalı",
         "twq": "Xocalı",
         "twq_NE": "Xocalı",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Xocalı",
         "zh_Hant_TW": "Xocalı",
         "zu": "Xocalı",
-        "zu_ZA": "Xocalı",
-        "sr@latin": "Hokali",
-        "tt@iqtelif": "Xocalı"
+        "zu_ZA": "Xocalı"
     },
     "XIZ": {
         "af": "Xızı",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Xızı",
         "sq_XK": "Xızı",
         "sr": "Хизи",
+        "sr@latin": "Hizi",
         "sr_Cyrl": "Хизи",
         "sr_Cyrl_BA": "Хизи",
         "sr_Cyrl_ME": "Хизи",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Xızı",
         "tr_TR": "Xızı",
         "tt": "Xızı",
+        "tt@iqtelif": "Xızı",
         "tt_RU": "Xızı",
         "twq": "Xızı",
         "twq_NE": "Xızı",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Xızı",
         "zh_Hant_TW": "Xızı",
         "zu": "Xızı",
-        "zu_ZA": "Xızı",
-        "sr@latin": "Hizi",
-        "tt@iqtelif": "Xızı"
+        "zu_ZA": "Xızı"
     },
     "XVD": {
         "af": "Xocavənd",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Xocavənd",
         "sq_XK": "Xocavənd",
         "sr": "Хокавенд",
+        "sr@latin": "Hokavend",
         "sr_Cyrl": "Хокавенд",
         "sr_Cyrl_BA": "Хокавенд",
         "sr_Cyrl_ME": "Хокавенд",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Xocavənd",
         "tr_TR": "Xocavənd",
         "tt": "Xocavənd",
+        "tt@iqtelif": "Xocavənd",
         "tt_RU": "Xocavənd",
         "twq": "Xocavənd",
         "twq_NE": "Xocavənd",
@@ -63715,9 +63717,7 @@
         "zh_Hant_MY": "Xocavənd",
         "zh_Hant_TW": "Xocavənd",
         "zu": "Xocavənd",
-        "zu_ZA": "Xocavənd",
-        "sr@latin": "Hokavend",
-        "tt@iqtelif": "Xocavənd"
+        "zu_ZA": "Xocavənd"
     },
     "YAR": {
         "af": "Yardımlı",
@@ -64463,6 +64463,7 @@
         "sq_MK": "Yardımlı",
         "sq_XK": "Yardımlı",
         "sr": "Јардимли",
+        "sr@latin": "Jardimli",
         "sr_Cyrl": "Јардимли",
         "sr_Cyrl_BA": "Јардимли",
         "sr_Cyrl_ME": "Јардимли",
@@ -64523,6 +64524,7 @@
         "tr_CY": "Yardımlı",
         "tr_TR": "Yardımlı",
         "tt": "Yardımlı",
+        "tt@iqtelif": "Yardımlı",
         "tt_RU": "Yardımlı",
         "twq": "Yardımlı",
         "twq_NE": "Yardımlı",
@@ -64600,9 +64602,7 @@
         "zh_Hant_MY": "Yardımlı",
         "zh_Hant_TW": "Yardımlı",
         "zu": "Yardımlı",
-        "zu_ZA": "Yardımlı",
-        "sr@latin": "Jardimli",
-        "tt@iqtelif": "Yardımlı"
+        "zu_ZA": "Yardımlı"
     },
     "YE": {
         "af": "Yevlax",
@@ -65348,6 +65348,7 @@
         "sq_MK": "Yevlax",
         "sq_XK": "Yevlax",
         "sr": "Јевлах",
+        "sr@latin": "Jevlah",
         "sr_Cyrl": "Јевлах",
         "sr_Cyrl_BA": "Јевлах",
         "sr_Cyrl_ME": "Јевлах",
@@ -65408,6 +65409,7 @@
         "tr_CY": "Yevlax",
         "tr_TR": "Yevlax",
         "tt": "Yevlax",
+        "tt@iqtelif": "Yevlax",
         "tt_RU": "Yevlax",
         "twq": "Yevlax",
         "twq_NE": "Yevlax",
@@ -65485,9 +65487,7 @@
         "zh_Hant_MY": "Yevlax",
         "zh_Hant_TW": "Yevlax",
         "zu": "Yevlax",
-        "zu_ZA": "Yevlax",
-        "sr@latin": "Jevlah",
-        "tt@iqtelif": "Yevlax"
+        "zu_ZA": "Yevlax"
     },
     "YEV": {
         "af": "Yevlax",
@@ -66233,6 +66233,7 @@
         "sq_MK": "Yevlax",
         "sq_XK": "Yevlax",
         "sr": "Јевлах",
+        "sr@latin": "Jevlah",
         "sr_Cyrl": "Јевлах",
         "sr_Cyrl_BA": "Јевлах",
         "sr_Cyrl_ME": "Јевлах",
@@ -66293,6 +66294,7 @@
         "tr_CY": "Yevlax",
         "tr_TR": "Yevlax",
         "tt": "Yevlax",
+        "tt@iqtelif": "Yevlax",
         "tt_RU": "Yevlax",
         "twq": "Yevlax",
         "twq_NE": "Yevlax",
@@ -66370,9 +66372,7 @@
         "zh_Hant_MY": "Yevlax",
         "zh_Hant_TW": "Yevlax",
         "zu": "Yevlax",
-        "zu_ZA": "Yevlax",
-        "sr@latin": "Jevlah",
-        "tt@iqtelif": "Yevlax"
+        "zu_ZA": "Yevlax"
     },
     "ZAN": {
         "af": "Zəngilan",
@@ -67118,6 +67118,7 @@
         "sq_MK": "Zəngilan",
         "sq_XK": "Zəngilan",
         "sr": "Зенгилан",
+        "sr@latin": "Zengilan",
         "sr_Cyrl": "Зенгилан",
         "sr_Cyrl_BA": "Зенгилан",
         "sr_Cyrl_ME": "Зенгилан",
@@ -67178,6 +67179,7 @@
         "tr_CY": "Zəngilan",
         "tr_TR": "Zəngilan",
         "tt": "Zəngilan",
+        "tt@iqtelif": "Zəngilan",
         "tt_RU": "Zəngilan",
         "twq": "Zəngilan",
         "twq_NE": "Zəngilan",
@@ -67255,9 +67257,7 @@
         "zh_Hant_MY": "Zəngilan",
         "zh_Hant_TW": "Zəngilan",
         "zu": "Zəngilan",
-        "zu_ZA": "Zəngilan",
-        "sr@latin": "Zengilan",
-        "tt@iqtelif": "Zəngilan"
+        "zu_ZA": "Zəngilan"
     },
     "ZAQ": {
         "af": "Zaqatala",
@@ -68003,6 +68003,7 @@
         "sq_MK": "Zaqatala",
         "sq_XK": "Zaqatala",
         "sr": "Закатала",
+        "sr@latin": "Zakatala",
         "sr_Cyrl": "Закатала",
         "sr_Cyrl_BA": "Закатала",
         "sr_Cyrl_ME": "Закатала",
@@ -68063,6 +68064,7 @@
         "tr_CY": "Zaqatala",
         "tr_TR": "Zaqatala",
         "tt": "Zaqatala",
+        "tt@iqtelif": "Zaqatala",
         "tt_RU": "Zaqatala",
         "twq": "Zaqatala",
         "twq_NE": "Zaqatala",
@@ -68140,9 +68142,7 @@
         "zh_Hant_MY": "Zaqatala",
         "zh_Hant_TW": "Zaqatala",
         "zu": "Zaqatala",
-        "zu_ZA": "Zaqatala",
-        "sr@latin": "Zakatala",
-        "tt@iqtelif": "Zaqatala"
+        "zu_ZA": "Zaqatala"
     },
     "ZAR": {
         "af": "Zərdab",
@@ -68888,6 +68888,7 @@
         "sq_MK": "Zərdab",
         "sq_XK": "Zərdab",
         "sr": "Зердаб",
+        "sr@latin": "Zerdab",
         "sr_Cyrl": "Зердаб",
         "sr_Cyrl_BA": "Зердаб",
         "sr_Cyrl_ME": "Зердаб",
@@ -68948,6 +68949,7 @@
         "tr_CY": "Zərdab",
         "tr_TR": "Zərdab",
         "tt": "Zərdab",
+        "tt@iqtelif": "Zərdab",
         "tt_RU": "Zərdab",
         "twq": "Zərdab",
         "twq_NE": "Zərdab",
@@ -69025,8 +69027,6 @@
         "zh_Hant_MY": "Zərdab",
         "zh_Hant_TW": "Zərdab",
         "zu": "Zərdab",
-        "zu_ZA": "Zərdab",
-        "sr@latin": "Zerdab",
-        "tt@iqtelif": "Zərdab"
+        "zu_ZA": "Zərdab"
     }
 }

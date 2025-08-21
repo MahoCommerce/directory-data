@@ -743,6 +743,7 @@
         "sq_MK": "Eastern",
         "sq_XK": "Eastern",
         "sr": "Eastern",
+        "sr@latin": "Eastern",
         "sr_Cyrl": "Eastern",
         "sr_Cyrl_BA": "Eastern",
         "sr_Cyrl_ME": "Eastern",
@@ -803,6 +804,7 @@
         "tr_CY": "Doğu",
         "tr_TR": "Doğu",
         "tt": "Eastern",
+        "tt@iqtelif": "Eastern",
         "tt_RU": "Eastern",
         "twq": "Eastern",
         "twq_NE": "Eastern",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern",
-        "sr@latin": "Eastern",
-        "tt@iqtelif": "Eastern"
+        "zu_ZA": "Eastern"
     },
     "N": {
         "af": "Northern",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Northern",
         "sq_XK": "Northern",
         "sr": "Northern",
+        "sr@latin": "Northern",
         "sr_Cyrl": "Northern",
         "sr_Cyrl_BA": "Northern",
         "sr_Cyrl_ME": "Northern",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kuzey",
         "tr_TR": "Kuzey",
         "tt": "Northern",
+        "tt@iqtelif": "Northern",
         "tt_RU": "Northern",
         "twq": "Northern",
         "twq_NE": "Northern",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern",
-        "sr@latin": "Northern",
-        "tt@iqtelif": "Northern"
+        "zu_ZA": "Northern"
     },
     "NW": {
         "af": "North Western",
@@ -2513,6 +2513,7 @@
         "sq_MK": "North Western",
         "sq_XK": "North Western",
         "sr": "North Western",
+        "sr@latin": "North Western",
         "sr_Cyrl": "North Western",
         "sr_Cyrl_BA": "North Western",
         "sr_Cyrl_ME": "North Western",
@@ -2573,6 +2574,7 @@
         "tr_CY": "North Western",
         "tr_TR": "North Western",
         "tt": "North Western",
+        "tt@iqtelif": "North Western",
         "tt_RU": "North Western",
         "twq": "North Western",
         "twq_NE": "North Western",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "North Western",
         "zh_Hant_TW": "North Western",
         "zu": "North Western",
-        "zu_ZA": "North Western",
-        "sr@latin": "North Western",
-        "tt@iqtelif": "North Western"
+        "zu_ZA": "North Western"
     },
     "S": {
         "af": "Southern",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Southern",
         "sq_XK": "Southern",
         "sr": "Саутерн",
+        "sr@latin": "Sautern",
         "sr_Cyrl": "Саутерн",
         "sr_Cyrl_BA": "Саутерн",
         "sr_Cyrl_ME": "Саутерн",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Güney",
         "tr_TR": "Güney",
         "tt": "Southern",
+        "tt@iqtelif": "Southern",
         "tt_RU": "Southern",
         "twq": "Southern",
         "twq_NE": "Southern",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Southern",
         "zh_Hant_TW": "Southern",
         "zu": "Southern",
-        "zu_ZA": "Southern",
-        "sr@latin": "Sautern",
-        "tt@iqtelif": "Southern"
+        "zu_ZA": "Southern"
     },
     "W": {
         "af": "Western Area (Freetown)",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Western Area (Freetown)",
         "sq_XK": "Western Area (Freetown)",
         "sr": "Западна област (Фритаун)",
+        "sr@latin": "Zapadna oblast (Fritaun)",
         "sr_Cyrl": "Западна област (Фритаун)",
         "sr_Cyrl_BA": "Западна област (Фритаун)",
         "sr_Cyrl_ME": "Западна област (Фритаун)",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Western Area (Freetown)",
         "tr_TR": "Western Area (Freetown)",
         "tt": "Western Area (Freetown)",
+        "tt@iqtelif": "Western Area (Freetown)",
         "tt_RU": "Western Area (Freetown)",
         "twq": "Western Area (Freetown)",
         "twq_NE": "Western Area (Freetown)",
@@ -4420,8 +4422,6 @@
         "zh_Hant_MY": "Western Area (Freetown)",
         "zh_Hant_TW": "Western Area (Freetown)",
         "zu": "Western Area (Freetown)",
-        "zu_ZA": "Western Area (Freetown)",
-        "sr@latin": "Zapadna oblast (Fritaun)",
-        "tt@iqtelif": "Western Area (Freetown)"
+        "zu_ZA": "Western Area (Freetown)"
     }
 }

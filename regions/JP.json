@@ -743,6 +743,7 @@
         "sq_MK": "Hokkaido",
         "sq_XK": "Hokkaido",
         "sr": "Хокаидо",
+        "sr@latin": "Hokaido",
         "sr_Cyrl": "Хокаидо",
         "sr_Cyrl_BA": "Хокаидо",
         "sr_Cyrl_ME": "Хокаидо",
@@ -803,6 +804,7 @@
         "tr_CY": "Hokkaido",
         "tr_TR": "Hokkaido",
         "tt": "Hokkaido",
+        "tt@iqtelif": "Hokkaido",
         "tt_RU": "Hokkaido",
         "twq": "Hokkaido",
         "twq_NE": "Hokkaido",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Hokkaido",
         "zh_Hant_TW": "Hokkaido",
         "zu": "Hokkaido",
-        "zu_ZA": "Hokkaido",
-        "sr@latin": "Hokaido",
-        "tt@iqtelif": "Hokkaido"
+        "zu_ZA": "Hokkaido"
     },
     "02": {
         "af": "Aomori",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Aomori",
         "sq_XK": "Aomori",
         "sr": "Аомори",
+        "sr@latin": "Aomori",
         "sr_Cyrl": "Аомори",
         "sr_Cyrl_BA": "Аомори",
         "sr_Cyrl_ME": "Аомори",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Aomori",
         "tr_TR": "Aomori",
         "tt": "Aomori",
+        "tt@iqtelif": "Aomori",
         "tt_RU": "Aomori",
         "twq": "Aomori",
         "twq_NE": "Aomori",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Aomori",
         "zh_Hant_TW": "Aomori",
         "zu": "Aomori",
-        "zu_ZA": "Aomori",
-        "sr@latin": "Aomori",
-        "tt@iqtelif": "Aomori"
+        "zu_ZA": "Aomori"
     },
     "03": {
         "af": "Iwate",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Iwate",
         "sq_XK": "Iwate",
         "sr": "Ивате",
+        "sr@latin": "Ivate",
         "sr_Cyrl": "Ивате",
         "sr_Cyrl_BA": "Ивате",
         "sr_Cyrl_ME": "Ивате",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Iwate",
         "tr_TR": "Iwate",
         "tt": "Iwate",
+        "tt@iqtelif": "Iwate",
         "tt_RU": "Iwate",
         "twq": "Iwate",
         "twq_NE": "Iwate",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Iwate",
         "zh_Hant_TW": "Iwate",
         "zu": "Iwate",
-        "zu_ZA": "Iwate",
-        "sr@latin": "Ivate",
-        "tt@iqtelif": "Iwate"
+        "zu_ZA": "Iwate"
     },
     "04": {
         "af": "Miyagi",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Miyagi",
         "sq_XK": "Miyagi",
         "sr": "Мијаги",
+        "sr@latin": "Mijagi",
         "sr_Cyrl": "Мијаги",
         "sr_Cyrl_BA": "Мијаги",
         "sr_Cyrl_ME": "Мијаги",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Miyagi",
         "tr_TR": "Miyagi",
         "tt": "Miyagi",
+        "tt@iqtelif": "Miyagi",
         "tt_RU": "Miyagi",
         "twq": "Miyagi",
         "twq_NE": "Miyagi",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Miyagi",
         "zh_Hant_TW": "Miyagi",
         "zu": "Miyagi",
-        "zu_ZA": "Miyagi",
-        "sr@latin": "Mijagi",
-        "tt@iqtelif": "Miyagi"
+        "zu_ZA": "Miyagi"
     },
     "05": {
         "af": "Akita",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Akita",
         "sq_XK": "Akita",
         "sr": "Акита",
+        "sr@latin": "Akita",
         "sr_Cyrl": "Акита",
         "sr_Cyrl_BA": "Акита",
         "sr_Cyrl_ME": "Акита",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Akita",
         "tr_TR": "Akita",
         "tt": "Akita",
+        "tt@iqtelif": "Akita",
         "tt_RU": "Akita",
         "twq": "Akita",
         "twq_NE": "Akita",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Akita",
         "zh_Hant_TW": "Akita",
         "zu": "Akita",
-        "zu_ZA": "Akita",
-        "sr@latin": "Akita",
-        "tt@iqtelif": "Akita"
+        "zu_ZA": "Akita"
     },
     "06": {
         "af": "Yamagata",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Yamagata",
         "sq_XK": "Yamagata",
         "sr": "Јамагата",
+        "sr@latin": "Jamagata",
         "sr_Cyrl": "Јамагата",
         "sr_Cyrl_BA": "Јамагата",
         "sr_Cyrl_ME": "Јамагата",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Yamagata",
         "tr_TR": "Yamagata",
         "tt": "Yamagata",
+        "tt@iqtelif": "Yamagata",
         "tt_RU": "Yamagata",
         "twq": "Yamagata",
         "twq_NE": "Yamagata",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Yamagata",
         "zh_Hant_TW": "Yamagata",
         "zu": "Yamagata",
-        "zu_ZA": "Yamagata",
-        "sr@latin": "Jamagata",
-        "tt@iqtelif": "Yamagata"
+        "zu_ZA": "Yamagata"
     },
     "07": {
         "af": "Fukushima",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Fukushima",
         "sq_XK": "Fukushima",
         "sr": "Фукушима",
+        "sr@latin": "Fukušima",
         "sr_Cyrl": "Фукушима",
         "sr_Cyrl_BA": "Фукушима",
         "sr_Cyrl_ME": "Фукушима",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Fukuşima",
         "tr_TR": "Fukuşima",
         "tt": "Fukushima",
+        "tt@iqtelif": "Fukushima",
         "tt_RU": "Fukushima",
         "twq": "Fukushima",
         "twq_NE": "Fukushima",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Fukushima",
         "zh_Hant_TW": "Fukushima",
         "zu": "Fukushima",
-        "zu_ZA": "Fukushima",
-        "sr@latin": "Fukušima",
-        "tt@iqtelif": "Fukushima"
+        "zu_ZA": "Fukushima"
     },
     "08": {
         "af": "Ibaraki",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Ibaraki",
         "sq_XK": "Ibaraki",
         "sr": "Ибараки",
+        "sr@latin": "Ibaraki",
         "sr_Cyrl": "Ибараки",
         "sr_Cyrl_BA": "Ибараки",
         "sr_Cyrl_ME": "Ибараки",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Ibaraki",
         "tr_TR": "Ibaraki",
         "tt": "Ibaraki",
+        "tt@iqtelif": "Ibaraki",
         "tt_RU": "Ibaraki",
         "twq": "Ibaraki",
         "twq_NE": "Ibaraki",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Ibaraki",
         "zh_Hant_TW": "Ibaraki",
         "zu": "Ibaraki",
-        "zu_ZA": "Ibaraki",
-        "sr@latin": "Ibaraki",
-        "tt@iqtelif": "Ibaraki"
+        "zu_ZA": "Ibaraki"
     },
     "09": {
         "af": "Tochigi",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Tochigi",
         "sq_XK": "Tochigi",
         "sr": "Точиги",
+        "sr@latin": "Točigi",
         "sr_Cyrl": "Точиги",
         "sr_Cyrl_BA": "Точиги",
         "sr_Cyrl_ME": "Точиги",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Tochigi",
         "tr_TR": "Tochigi",
         "tt": "Tochigi",
+        "tt@iqtelif": "Tochigi",
         "tt_RU": "Tochigi",
         "twq": "Tochigi",
         "twq_NE": "Tochigi",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Tochigi",
         "zh_Hant_TW": "Tochigi",
         "zu": "Tochigi",
-        "zu_ZA": "Tochigi",
-        "sr@latin": "Točigi",
-        "tt@iqtelif": "Tochigi"
+        "zu_ZA": "Tochigi"
     },
     "10": {
         "af": "Gunma",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Gunma",
         "sq_XK": "Gunma",
         "sr": "Гунма",
+        "sr@latin": "Gunma",
         "sr_Cyrl": "Гунма",
         "sr_Cyrl_BA": "Гунма",
         "sr_Cyrl_ME": "Гунма",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Gunma",
         "tr_TR": "Gunma",
         "tt": "Gunma",
+        "tt@iqtelif": "Gunma",
         "tt_RU": "Gunma",
         "twq": "Gunma",
         "twq_NE": "Gunma",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Gunma",
         "zh_Hant_TW": "Gunma",
         "zu": "Gunma",
-        "zu_ZA": "Gunma",
-        "sr@latin": "Gunma",
-        "tt@iqtelif": "Gunma"
+        "zu_ZA": "Gunma"
     },
     "11": {
         "af": "Saitama",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Saitama",
         "sq_XK": "Saitama",
         "sr": "Саитама",
+        "sr@latin": "Saitama",
         "sr_Cyrl": "Саитама",
         "sr_Cyrl_BA": "Саитама",
         "sr_Cyrl_ME": "Саитама",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Saitama",
         "tr_TR": "Saitama",
         "tt": "Saitama",
+        "tt@iqtelif": "Saitama",
         "tt_RU": "Saitama",
         "twq": "Saitama",
         "twq_NE": "Saitama",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Saitama",
         "zh_Hant_TW": "Saitama",
         "zu": "Saitama",
-        "zu_ZA": "Saitama",
-        "sr@latin": "Saitama",
-        "tt@iqtelif": "Saitama"
+        "zu_ZA": "Saitama"
     },
     "12": {
         "af": "Chiba",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Chiba",
         "sq_XK": "Chiba",
         "sr": "Чиба",
+        "sr@latin": "Čiba",
         "sr_Cyrl": "Чиба",
         "sr_Cyrl_BA": "Чиба",
         "sr_Cyrl_ME": "Чиба",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Chiba",
         "tr_TR": "Chiba",
         "tt": "Chiba",
+        "tt@iqtelif": "Chiba",
         "tt_RU": "Chiba",
         "twq": "Chiba",
         "twq_NE": "Chiba",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Chiba",
         "zh_Hant_TW": "Chiba",
         "zu": "Chiba",
-        "zu_ZA": "Chiba",
-        "sr@latin": "Čiba",
-        "tt@iqtelif": "Chiba"
+        "zu_ZA": "Chiba"
     },
     "13": {
         "af": "Tokyo",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Tokyo",
         "sq_XK": "Tokyo",
         "sr": "Токио",
+        "sr@latin": "Tokio",
         "sr_Cyrl": "Токио",
         "sr_Cyrl_BA": "Токио",
         "sr_Cyrl_ME": "Токио",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Tokyo",
         "tr_TR": "Tokyo",
         "tt": "Tokyo",
+        "tt@iqtelif": "Tokyo",
         "tt_RU": "Tokyo",
         "twq": "Tokyo",
         "twq_NE": "Tokyo",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Tokyo",
         "zh_Hant_TW": "Tokyo",
         "zu": "Tokyo",
-        "zu_ZA": "Tokyo",
-        "sr@latin": "Tokio",
-        "tt@iqtelif": "Tokyo"
+        "zu_ZA": "Tokyo"
     },
     "14": {
         "af": "Kanagawa",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Kanagawa",
         "sq_XK": "Kanagawa",
         "sr": "Канагава",
+        "sr@latin": "Kanagava",
         "sr_Cyrl": "Канагава",
         "sr_Cyrl_BA": "Канагава",
         "sr_Cyrl_ME": "Канагава",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Kanagawa",
         "tr_TR": "Kanagawa",
         "tt": "Kanagawa",
+        "tt@iqtelif": "Kanagawa",
         "tt_RU": "Kanagawa",
         "twq": "Kanagawa",
         "twq_NE": "Kanagawa",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Kanagawa",
         "zh_Hant_TW": "Kanagawa",
         "zu": "Kanagawa",
-        "zu_ZA": "Kanagawa",
-        "sr@latin": "Kanagava",
-        "tt@iqtelif": "Kanagawa"
+        "zu_ZA": "Kanagawa"
     },
     "15": {
         "af": "Niigata",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Niigata",
         "sq_XK": "Niigata",
         "sr": "Нигата",
+        "sr@latin": "Nigata",
         "sr_Cyrl": "Нигата",
         "sr_Cyrl_BA": "Нигата",
         "sr_Cyrl_ME": "Нигата",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Niigata",
         "tr_TR": "Niigata",
         "tt": "Niigata",
+        "tt@iqtelif": "Niigata",
         "tt_RU": "Niigata",
         "twq": "Niigata",
         "twq_NE": "Niigata",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Niigata",
         "zh_Hant_TW": "Niigata",
         "zu": "Niigata",
-        "zu_ZA": "Niigata",
-        "sr@latin": "Nigata",
-        "tt@iqtelif": "Niigata"
+        "zu_ZA": "Niigata"
     },
     "16": {
         "af": "Toyama",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Toyama",
         "sq_XK": "Toyama",
         "sr": "Тојама",
+        "sr@latin": "Tojama",
         "sr_Cyrl": "Тојама",
         "sr_Cyrl_BA": "Тојама",
         "sr_Cyrl_ME": "Тојама",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Toyama",
         "tr_TR": "Toyama",
         "tt": "Toyama",
+        "tt@iqtelif": "Toyama",
         "tt_RU": "Toyama",
         "twq": "Toyama",
         "twq_NE": "Toyama",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Toyama",
         "zh_Hant_TW": "Toyama",
         "zu": "Toyama",
-        "zu_ZA": "Toyama",
-        "sr@latin": "Tojama",
-        "tt@iqtelif": "Toyama"
+        "zu_ZA": "Toyama"
     },
     "17": {
         "af": "Ishikawa",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Ishikawa",
         "sq_XK": "Ishikawa",
         "sr": "Ишикава",
+        "sr@latin": "Išikava",
         "sr_Cyrl": "Ишикава",
         "sr_Cyrl_BA": "Ишикава",
         "sr_Cyrl_ME": "Ишикава",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Ishikawa",
         "tr_TR": "Ishikawa",
         "tt": "Ishikawa",
+        "tt@iqtelif": "Ishikawa",
         "tt_RU": "Ishikawa",
         "twq": "Ishikawa",
         "twq_NE": "Ishikawa",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Ishikawa",
         "zh_Hant_TW": "Ishikawa",
         "zu": "Ishikawa",
-        "zu_ZA": "Ishikawa",
-        "sr@latin": "Išikava",
-        "tt@iqtelif": "Ishikawa"
+        "zu_ZA": "Ishikawa"
     },
     "18": {
         "af": "Fukui",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Fukui",
         "sq_XK": "Fukui",
         "sr": "Фукуи",
+        "sr@latin": "Fukui",
         "sr_Cyrl": "Фукуи",
         "sr_Cyrl_BA": "Фукуи",
         "sr_Cyrl_ME": "Фукуи",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Fukui",
         "tr_TR": "Fukui",
         "tt": "Fukui",
+        "tt@iqtelif": "Fukui",
         "tt_RU": "Fukui",
         "twq": "Fukui",
         "twq_NE": "Fukui",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Fukui",
         "zh_Hant_TW": "Fukui",
         "zu": "Fukui",
-        "zu_ZA": "Fukui",
-        "sr@latin": "Fukui",
-        "tt@iqtelif": "Fukui"
+        "zu_ZA": "Fukui"
     },
     "19": {
         "af": "Yamanashi",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Yamanashi",
         "sq_XK": "Yamanashi",
         "sr": "Јаманаши",
+        "sr@latin": "Jamanaši",
         "sr_Cyrl": "Јаманаши",
         "sr_Cyrl_BA": "Јаманаши",
         "sr_Cyrl_ME": "Јаманаши",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Yamanashi",
         "tr_TR": "Yamanashi",
         "tt": "Yamanashi",
+        "tt@iqtelif": "Yamanashi",
         "tt_RU": "Yamanashi",
         "twq": "Yamanashi",
         "twq_NE": "Yamanashi",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Yamanashi",
         "zh_Hant_TW": "Yamanashi",
         "zu": "Yamanashi",
-        "zu_ZA": "Yamanashi",
-        "sr@latin": "Jamanaši",
-        "tt@iqtelif": "Yamanashi"
+        "zu_ZA": "Yamanashi"
     },
     "20": {
         "af": "Nagano",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Nagano",
         "sq_XK": "Nagano",
         "sr": "Нагано",
+        "sr@latin": "Nagano",
         "sr_Cyrl": "Нагано",
         "sr_Cyrl_BA": "Нагано",
         "sr_Cyrl_ME": "Нагано",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Nagano",
         "tr_TR": "Nagano",
         "tt": "Nagano",
+        "tt@iqtelif": "Nagano",
         "tt_RU": "Nagano",
         "twq": "Nagano",
         "twq_NE": "Nagano",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Nagano",
         "zh_Hant_TW": "Nagano",
         "zu": "Nagano",
-        "zu_ZA": "Nagano",
-        "sr@latin": "Nagano",
-        "tt@iqtelif": "Nagano"
+        "zu_ZA": "Nagano"
     },
     "21": {
         "af": "Gifu",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Gifu",
         "sq_XK": "Gifu",
         "sr": "Гифу",
+        "sr@latin": "Gifu",
         "sr_Cyrl": "Гифу",
         "sr_Cyrl_BA": "Гифу",
         "sr_Cyrl_ME": "Гифу",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Gifu",
         "tr_TR": "Gifu",
         "tt": "Gifu",
+        "tt@iqtelif": "Gifu",
         "tt_RU": "Gifu",
         "twq": "Gifu",
         "twq_NE": "Gifu",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Gifu",
         "zh_Hant_TW": "Gifu",
         "zu": "Gifu",
-        "zu_ZA": "Gifu",
-        "sr@latin": "Gifu",
-        "tt@iqtelif": "Gifu"
+        "zu_ZA": "Gifu"
     },
     "22": {
         "af": "Shizuoka",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Shizuoka",
         "sq_XK": "Shizuoka",
         "sr": "Шизука",
+        "sr@latin": "Šizuka",
         "sr_Cyrl": "Шизука",
         "sr_Cyrl_BA": "Шизука",
         "sr_Cyrl_ME": "Шизука",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Shizuoka",
         "tr_TR": "Shizuoka",
         "tt": "Shizuoka",
+        "tt@iqtelif": "Shizuoka",
         "tt_RU": "Shizuoka",
         "twq": "Shizuoka",
         "twq_NE": "Shizuoka",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Shizuoka",
         "zh_Hant_TW": "Shizuoka",
         "zu": "Shizuoka",
-        "zu_ZA": "Shizuoka",
-        "sr@latin": "Šizuka",
-        "tt@iqtelif": "Shizuoka"
+        "zu_ZA": "Shizuoka"
     },
     "23": {
         "af": "Aichi",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Aichi",
         "sq_XK": "Aichi",
         "sr": "Аичи",
+        "sr@latin": "Aiči",
         "sr_Cyrl": "Аичи",
         "sr_Cyrl_BA": "Аичи",
         "sr_Cyrl_ME": "Аичи",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Aichi",
         "tr_TR": "Aichi",
         "tt": "Aichi",
+        "tt@iqtelif": "Aichi",
         "tt_RU": "Aichi",
         "twq": "Aichi",
         "twq_NE": "Aichi",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Aichi",
         "zh_Hant_TW": "Aichi",
         "zu": "Aichi",
-        "zu_ZA": "Aichi",
-        "sr@latin": "Aiči",
-        "tt@iqtelif": "Aichi"
+        "zu_ZA": "Aichi"
     },
     "24": {
         "af": "Mie",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Mie",
         "sq_XK": "Mie",
         "sr": "Мје",
+        "sr@latin": "Mje",
         "sr_Cyrl": "Мје",
         "sr_Cyrl_BA": "Мје",
         "sr_Cyrl_ME": "Мје",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Mie",
         "tr_TR": "Mie",
         "tt": "Mie",
+        "tt@iqtelif": "Mie",
         "tt_RU": "Mie",
         "twq": "Mie",
         "twq_NE": "Mie",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Mie",
         "zh_Hant_TW": "Mie",
         "zu": "Mie",
-        "zu_ZA": "Mie",
-        "sr@latin": "Mje",
-        "tt@iqtelif": "Mie"
+        "zu_ZA": "Mie"
     },
     "25": {
         "af": "Shiga",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Shiga",
         "sq_XK": "Shiga",
         "sr": "Shiga",
+        "sr@latin": "Shiga",
         "sr_Cyrl": "Shiga",
         "sr_Cyrl_BA": "Shiga",
         "sr_Cyrl_ME": "Shiga",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Shiga",
         "tr_TR": "Shiga",
         "tt": "Shiga",
+        "tt@iqtelif": "Shiga",
         "tt_RU": "Shiga",
         "twq": "Shiga",
         "twq_NE": "Shiga",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Shiga",
         "zh_Hant_TW": "Shiga",
         "zu": "Shiga",
-        "zu_ZA": "Shiga",
-        "sr@latin": "Shiga",
-        "tt@iqtelif": "Shiga"
+        "zu_ZA": "Shiga"
     },
     "26": {
         "af": "Kyoto",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Kyoto",
         "sq_XK": "Kyoto",
         "sr": "Кјото",
+        "sr@latin": "Kjoto",
         "sr_Cyrl": "Кјото",
         "sr_Cyrl_BA": "Кјото",
         "sr_Cyrl_ME": "Кјото",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Kyoto",
         "tr_TR": "Kyoto",
         "tt": "Kyoto",
+        "tt@iqtelif": "Kyoto",
         "tt_RU": "Kyoto",
         "twq": "Kyoto",
         "twq_NE": "Kyoto",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Kyoto",
         "zh_Hant_TW": "Kyoto",
         "zu": "Kyoto",
-        "zu_ZA": "Kyoto",
-        "sr@latin": "Kjoto",
-        "tt@iqtelif": "Kyoto"
+        "zu_ZA": "Kyoto"
     },
     "27": {
         "af": "Osaka",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Osaka",
         "sq_XK": "Osaka",
         "sr": "Осака",
+        "sr@latin": "Osaka",
         "sr_Cyrl": "Осака",
         "sr_Cyrl_BA": "Осака",
         "sr_Cyrl_ME": "Осака",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Osaka",
         "tr_TR": "Osaka",
         "tt": "Osaka",
+        "tt@iqtelif": "Osaka",
         "tt_RU": "Osaka",
         "twq": "Osaka",
         "twq_NE": "Osaka",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Osaka",
         "zh_Hant_TW": "Osaka",
         "zu": "Osaka",
-        "zu_ZA": "Osaka",
-        "sr@latin": "Osaka",
-        "tt@iqtelif": "Osaka"
+        "zu_ZA": "Osaka"
     },
     "28": {
         "af": "Hyogo",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Hyogo",
         "sq_XK": "Hyogo",
         "sr": "Хјого",
+        "sr@latin": "Hjogo",
         "sr_Cyrl": "Хјого",
         "sr_Cyrl_BA": "Хјого",
         "sr_Cyrl_ME": "Хјого",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Hyogo",
         "tr_TR": "Hyogo",
         "tt": "Hyogo",
+        "tt@iqtelif": "Hyogo",
         "tt_RU": "Hyogo",
         "twq": "Hyogo",
         "twq_NE": "Hyogo",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Hyogo",
         "zh_Hant_TW": "Hyogo",
         "zu": "Hyogo",
-        "zu_ZA": "Hyogo",
-        "sr@latin": "Hjogo",
-        "tt@iqtelif": "Hyogo"
+        "zu_ZA": "Hyogo"
     },
     "29": {
         "af": "Nara",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Nara",
         "sq_XK": "Nara",
         "sr": "Нара",
+        "sr@latin": "Nara",
         "sr_Cyrl": "Нара",
         "sr_Cyrl_BA": "Нара",
         "sr_Cyrl_ME": "Нара",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Nara",
         "tr_TR": "Nara",
         "tt": "Nara",
+        "tt@iqtelif": "Nara",
         "tt_RU": "Nara",
         "twq": "Nara",
         "twq_NE": "Nara",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Nara",
         "zh_Hant_TW": "Nara",
         "zu": "Nara",
-        "zu_ZA": "Nara",
-        "sr@latin": "Nara",
-        "tt@iqtelif": "Nara"
+        "zu_ZA": "Nara"
     },
     "30": {
         "af": "Wakayama",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Wakayama",
         "sq_XK": "Wakayama",
         "sr": "Wakayama",
+        "sr@latin": "Wakayama",
         "sr_Cyrl": "Wakayama",
         "sr_Cyrl_BA": "Wakayama",
         "sr_Cyrl_ME": "Wakayama",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Wakayama",
         "tr_TR": "Wakayama",
         "tt": "Wakayama",
+        "tt@iqtelif": "Wakayama",
         "tt_RU": "Wakayama",
         "twq": "Wakayama",
         "twq_NE": "Wakayama",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Wakayama",
         "zh_Hant_TW": "Wakayama",
         "zu": "Wakayama",
-        "zu_ZA": "Wakayama",
-        "sr@latin": "Wakayama",
-        "tt@iqtelif": "Wakayama"
+        "zu_ZA": "Wakayama"
     },
     "31": {
         "af": "Tottori",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Tottori",
         "sq_XK": "Tottori",
         "sr": "Тотори",
+        "sr@latin": "Totori",
         "sr_Cyrl": "Тотори",
         "sr_Cyrl_BA": "Тотори",
         "sr_Cyrl_ME": "Тотори",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Tottori",
         "tr_TR": "Tottori",
         "tt": "Tottori",
+        "tt@iqtelif": "Tottori",
         "tt_RU": "Tottori",
         "twq": "Tottori",
         "twq_NE": "Tottori",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Tottori",
         "zh_Hant_TW": "Tottori",
         "zu": "Tottori",
-        "zu_ZA": "Tottori",
-        "sr@latin": "Totori",
-        "tt@iqtelif": "Tottori"
+        "zu_ZA": "Tottori"
     },
     "32": {
         "af": "Shimane",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Shimane",
         "sq_XK": "Shimane",
         "sr": "Шимане",
+        "sr@latin": "Šimane",
         "sr_Cyrl": "Шимане",
         "sr_Cyrl_BA": "Шимане",
         "sr_Cyrl_ME": "Шимане",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Shimane",
         "tr_TR": "Shimane",
         "tt": "Shimane",
+        "tt@iqtelif": "Shimane",
         "tt_RU": "Shimane",
         "twq": "Shimane",
         "twq_NE": "Shimane",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Shimane",
         "zh_Hant_TW": "Shimane",
         "zu": "Shimane",
-        "zu_ZA": "Shimane",
-        "sr@latin": "Šimane",
-        "tt@iqtelif": "Shimane"
+        "zu_ZA": "Shimane"
     },
     "33": {
         "af": "Okayama",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Okayama",
         "sq_XK": "Okayama",
         "sr": "Окајама",
+        "sr@latin": "Okajama",
         "sr_Cyrl": "Окајама",
         "sr_Cyrl_BA": "Окајама",
         "sr_Cyrl_ME": "Окајама",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Okayama",
         "tr_TR": "Okayama",
         "tt": "Okayama",
+        "tt@iqtelif": "Okayama",
         "tt_RU": "Okayama",
         "twq": "Okayama",
         "twq_NE": "Okayama",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Okayama",
         "zh_Hant_TW": "Okayama",
         "zu": "Okayama",
-        "zu_ZA": "Okayama",
-        "sr@latin": "Okajama",
-        "tt@iqtelif": "Okayama"
+        "zu_ZA": "Okayama"
     },
     "34": {
         "af": "Hiroshima",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Hiroshima",
         "sq_XK": "Hiroshima",
         "sr": "Хирошима",
+        "sr@latin": "Hirošima",
         "sr_Cyrl": "Хирошима",
         "sr_Cyrl_BA": "Хирошима",
         "sr_Cyrl_ME": "Хирошима",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Hiroşima",
         "tr_TR": "Hiroşima",
         "tt": "Hiroshima",
+        "tt@iqtelif": "Hiroshima",
         "tt_RU": "Hiroshima",
         "twq": "Hiroshima",
         "twq_NE": "Hiroshima",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Hiroshima",
         "zh_Hant_TW": "Hiroshima",
         "zu": "Hiroshima",
-        "zu_ZA": "Hiroshima",
-        "sr@latin": "Hirošima",
-        "tt@iqtelif": "Hiroshima"
+        "zu_ZA": "Hiroshima"
     },
     "35": {
         "af": "Yamaguchi",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Yamaguchi",
         "sq_XK": "Yamaguchi",
         "sr": "Јамагучи",
+        "sr@latin": "Jamaguči",
         "sr_Cyrl": "Јамагучи",
         "sr_Cyrl_BA": "Јамагучи",
         "sr_Cyrl_ME": "Јамагучи",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Yamaguchi",
         "tr_TR": "Yamaguchi",
         "tt": "Yamaguchi",
+        "tt@iqtelif": "Yamaguchi",
         "tt_RU": "Yamaguchi",
         "twq": "Yamaguchi",
         "twq_NE": "Yamaguchi",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Yamaguchi",
         "zh_Hant_TW": "Yamaguchi",
         "zu": "Yamaguchi",
-        "zu_ZA": "Yamaguchi",
-        "sr@latin": "Jamaguči",
-        "tt@iqtelif": "Yamaguchi"
+        "zu_ZA": "Yamaguchi"
     },
     "36": {
         "af": "Tokushima",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Tokushima",
         "sq_XK": "Tokushima",
         "sr": "Токушима",
+        "sr@latin": "Tokušima",
         "sr_Cyrl": "Токушима",
         "sr_Cyrl_BA": "Токушима",
         "sr_Cyrl_ME": "Токушима",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Tokushima",
         "tr_TR": "Tokushima",
         "tt": "Tokushima",
+        "tt@iqtelif": "Tokushima",
         "tt_RU": "Tokushima",
         "twq": "Tokushima",
         "twq_NE": "Tokushima",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Tokushima",
         "zh_Hant_TW": "Tokushima",
         "zu": "Tokushima",
-        "zu_ZA": "Tokushima",
-        "sr@latin": "Tokušima",
-        "tt@iqtelif": "Tokushima"
+        "zu_ZA": "Tokushima"
     },
     "37": {
         "af": "Kagawa",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Kagawa",
         "sq_XK": "Kagawa",
         "sr": "Кагава",
+        "sr@latin": "Kagava",
         "sr_Cyrl": "Кагава",
         "sr_Cyrl_BA": "Кагава",
         "sr_Cyrl_ME": "Кагава",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Kagawa",
         "tr_TR": "Kagawa",
         "tt": "Kagawa",
+        "tt@iqtelif": "Kagawa",
         "tt_RU": "Kagawa",
         "twq": "Kagawa",
         "twq_NE": "Kagawa",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Kagawa",
         "zh_Hant_TW": "Kagawa",
         "zu": "Kagawa",
-        "zu_ZA": "Kagawa",
-        "sr@latin": "Kagava",
-        "tt@iqtelif": "Kagawa"
+        "zu_ZA": "Kagawa"
     },
     "38": {
         "af": "Ehime",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Ehime",
         "sq_XK": "Ehime",
         "sr": "Еиме",
+        "sr@latin": "Eime",
         "sr_Cyrl": "Еиме",
         "sr_Cyrl_BA": "Еиме",
         "sr_Cyrl_ME": "Еиме",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Ehime",
         "tr_TR": "Ehime",
         "tt": "Ehime",
+        "tt@iqtelif": "Ehime",
         "tt_RU": "Ehime",
         "twq": "Ehime",
         "twq_NE": "Ehime",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Ehime",
         "zh_Hant_TW": "Ehime",
         "zu": "Ehime",
-        "zu_ZA": "Ehime",
-        "sr@latin": "Eime",
-        "tt@iqtelif": "Ehime"
+        "zu_ZA": "Ehime"
     },
     "39": {
         "af": "Kochi",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Kochi",
         "sq_XK": "Kochi",
         "sr": "Кочи",
+        "sr@latin": "Koči",
         "sr_Cyrl": "Кочи",
         "sr_Cyrl_BA": "Кочи",
         "sr_Cyrl_ME": "Кочи",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Kochi",
         "tr_TR": "Kochi",
         "tt": "Kochi",
+        "tt@iqtelif": "Kochi",
         "tt_RU": "Kochi",
         "twq": "Kochi",
         "twq_NE": "Kochi",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Kochi",
         "zh_Hant_TW": "Kochi",
         "zu": "Kochi",
-        "zu_ZA": "Kochi",
-        "sr@latin": "Koči",
-        "tt@iqtelif": "Kochi"
+        "zu_ZA": "Kochi"
     },
     "40": {
         "af": "Fukuoka",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Fukuoka",
         "sq_XK": "Fukuoka",
         "sr": "Фукуока",
+        "sr@latin": "Fukuoka",
         "sr_Cyrl": "Фукуока",
         "sr_Cyrl_BA": "Фукуока",
         "sr_Cyrl_ME": "Фукуока",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Fukuoka",
         "tr_TR": "Fukuoka",
         "tt": "Fukuoka",
+        "tt@iqtelif": "Fukuoka",
         "tt_RU": "Fukuoka",
         "twq": "Fukuoka",
         "twq_NE": "Fukuoka",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Fukuoka",
         "zh_Hant_TW": "Fukuoka",
         "zu": "Fukuoka",
-        "zu_ZA": "Fukuoka",
-        "sr@latin": "Fukuoka",
-        "tt@iqtelif": "Fukuoka"
+        "zu_ZA": "Fukuoka"
     },
     "41": {
         "af": "Saga",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Saga",
         "sq_XK": "Saga",
         "sr": "Сага",
+        "sr@latin": "Saga",
         "sr_Cyrl": "Сага",
         "sr_Cyrl_BA": "Сага",
         "sr_Cyrl_ME": "Сага",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Saga",
         "tr_TR": "Saga",
         "tt": "Saga",
+        "tt@iqtelif": "Saga",
         "tt_RU": "Saga",
         "twq": "Saga",
         "twq_NE": "Saga",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Saga",
         "zh_Hant_TW": "Saga",
         "zu": "Saga",
-        "zu_ZA": "Saga",
-        "sr@latin": "Saga",
-        "tt@iqtelif": "Saga"
+        "zu_ZA": "Saga"
     },
     "42": {
         "af": "Nagasaki",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Nagasaki",
         "sq_XK": "Nagasaki",
         "sr": "Нагасаки",
+        "sr@latin": "Nagasaki",
         "sr_Cyrl": "Нагасаки",
         "sr_Cyrl_BA": "Нагасаки",
         "sr_Cyrl_ME": "Нагасаки",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Nagasaki",
         "tr_TR": "Nagasaki",
         "tt": "Nagasaki",
+        "tt@iqtelif": "Nagasaki",
         "tt_RU": "Nagasaki",
         "twq": "Nagasaki",
         "twq_NE": "Nagasaki",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Nagasaki",
         "zh_Hant_TW": "Nagasaki",
         "zu": "Nagasaki",
-        "zu_ZA": "Nagasaki",
-        "sr@latin": "Nagasaki",
-        "tt@iqtelif": "Nagasaki"
+        "zu_ZA": "Nagasaki"
     },
     "43": {
         "af": "Kumamoto",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Kumamoto",
         "sq_XK": "Kumamoto",
         "sr": "Кумамото",
+        "sr@latin": "Kumamoto",
         "sr_Cyrl": "Кумамото",
         "sr_Cyrl_BA": "Кумамото",
         "sr_Cyrl_ME": "Кумамото",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Kumamoto",
         "tr_TR": "Kumamoto",
         "tt": "Kumamoto",
+        "tt@iqtelif": "Kumamoto",
         "tt_RU": "Kumamoto",
         "twq": "Kumamoto",
         "twq_NE": "Kumamoto",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Kumamoto",
         "zh_Hant_TW": "Kumamoto",
         "zu": "Kumamoto",
-        "zu_ZA": "Kumamoto",
-        "sr@latin": "Kumamoto",
-        "tt@iqtelif": "Kumamoto"
+        "zu_ZA": "Kumamoto"
     },
     "44": {
         "af": "Oita",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Oita",
         "sq_XK": "Oita",
         "sr": "Оита",
+        "sr@latin": "Oita",
         "sr_Cyrl": "Оита",
         "sr_Cyrl_BA": "Оита",
         "sr_Cyrl_ME": "Оита",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Oita",
         "tr_TR": "Oita",
         "tt": "Oita",
+        "tt@iqtelif": "Oita",
         "tt_RU": "Oita",
         "twq": "Oita",
         "twq_NE": "Oita",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Oita",
         "zh_Hant_TW": "Oita",
         "zu": "Oita",
-        "zu_ZA": "Oita",
-        "sr@latin": "Oita",
-        "tt@iqtelif": "Oita"
+        "zu_ZA": "Oita"
     },
     "45": {
         "af": "Miyazaki",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Miyazaki",
         "sq_XK": "Miyazaki",
         "sr": "Мијазаки",
+        "sr@latin": "Mijazaki",
         "sr_Cyrl": "Мијазаки",
         "sr_Cyrl_BA": "Мијазаки",
         "sr_Cyrl_ME": "Мијазаки",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Miyazaki",
         "tr_TR": "Miyazaki",
         "tt": "Miyazaki",
+        "tt@iqtelif": "Miyazaki",
         "tt_RU": "Miyazaki",
         "twq": "Miyazaki",
         "twq_NE": "Miyazaki",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Miyazaki",
         "zh_Hant_TW": "Miyazaki",
         "zu": "Miyazaki",
-        "zu_ZA": "Miyazaki",
-        "sr@latin": "Mijazaki",
-        "tt@iqtelif": "Miyazaki"
+        "zu_ZA": "Miyazaki"
     },
     "46": {
         "af": "Kagoshima",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Kagoshima",
         "sq_XK": "Kagoshima",
         "sr": "Кагошима",
+        "sr@latin": "Kagošima",
         "sr_Cyrl": "Кагошима",
         "sr_Cyrl_BA": "Кагошима",
         "sr_Cyrl_ME": "Кагошима",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Kagoshima",
         "tr_TR": "Kagoshima",
         "tt": "Kagoshima",
+        "tt@iqtelif": "Kagoshima",
         "tt_RU": "Kagoshima",
         "twq": "Kagoshima",
         "twq_NE": "Kagoshima",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Kagoshima",
         "zh_Hant_TW": "Kagoshima",
         "zu": "Kagoshima",
-        "zu_ZA": "Kagoshima",
-        "sr@latin": "Kagošima",
-        "tt@iqtelif": "Kagoshima"
+        "zu_ZA": "Kagoshima"
     },
     "47": {
         "af": "Okinawa",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Okinawa",
         "sq_XK": "Okinawa",
         "sr": "Окинава",
+        "sr@latin": "Okinava",
         "sr_Cyrl": "Окинава",
         "sr_Cyrl_BA": "Окинава",
         "sr_Cyrl_ME": "Окинава",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Okinawa",
         "tr_TR": "Okinawa",
         "tt": "Okinawa",
+        "tt@iqtelif": "Okinawa",
         "tt_RU": "Okinawa",
         "twq": "Okinawa",
         "twq_NE": "Okinawa",
@@ -41590,8 +41592,6 @@
         "zh_Hant_MY": "Okinawa",
         "zh_Hant_TW": "Okinawa",
         "zu": "Okinawa",
-        "zu_ZA": "Okinawa",
-        "sr@latin": "Okinava",
-        "tt@iqtelif": "Okinawa"
+        "zu_ZA": "Okinawa"
     }
 }

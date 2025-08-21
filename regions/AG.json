@@ -743,6 +743,7 @@
         "sq_MK": "Saint George",
         "sq_XK": "Saint George",
         "sr": "Сент Џорџ",
+        "sr@latin": "Sent Džordž",
         "sr_Cyrl": "Сент Џорџ",
         "sr_Cyrl_BA": "Сент Џорџ",
         "sr_Cyrl_ME": "Сент Џорџ",
@@ -803,6 +804,7 @@
         "tr_CY": "Saint George",
         "tr_TR": "Saint George",
         "tt": "Saint George",
+        "tt@iqtelif": "Saint George",
         "tt_RU": "Saint George",
         "twq": "Saint George",
         "twq_NE": "Saint George",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George",
-        "sr@latin": "Sent Džordž",
-        "tt@iqtelif": "Saint George"
+        "zu_ZA": "Saint George"
     },
     "04": {
         "af": "Saint John",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint John",
         "sq_XK": "Saint John",
         "sr": "Сент Џон",
+        "sr@latin": "Sent Džon",
         "sr_Cyrl": "Сент Џон",
         "sr_Cyrl_BA": "Сент Џон",
         "sr_Cyrl_ME": "Сент Џон",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint John",
         "tr_TR": "Saint John",
         "tt": "Saint John",
+        "tt@iqtelif": "Saint John",
         "tt_RU": "Saint John",
         "twq": "Saint John",
         "twq_NE": "Saint John",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John",
-        "sr@latin": "Sent Džon",
-        "tt@iqtelif": "Saint John"
+        "zu_ZA": "Saint John"
     },
     "05": {
         "af": "Saint Mary",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint Mary",
         "sq_XK": "Saint Mary",
         "sr": "Сент Мери",
+        "sr@latin": "Sent Meri",
         "sr_Cyrl": "Сент Мери",
         "sr_Cyrl_BA": "Сент Мери",
         "sr_Cyrl_ME": "Сент Мери",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint Mary",
         "tr_TR": "Saint Mary",
         "tt": "Saint Mary",
+        "tt@iqtelif": "Saint Mary",
         "tt_RU": "Saint Mary",
         "twq": "Saint Mary",
         "twq_NE": "Saint Mary",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint Mary",
         "zh_Hant_TW": "Saint Mary",
         "zu": "Saint Mary",
-        "zu_ZA": "Saint Mary",
-        "sr@latin": "Sent Meri",
-        "tt@iqtelif": "Saint Mary"
+        "zu_ZA": "Saint Mary"
     },
     "06": {
         "af": "Saint Paul",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Saint Paul",
         "sq_XK": "Saint Paul",
         "sr": "Свети Павле",
+        "sr@latin": "Sveti Pavle",
         "sr_Cyrl": "Свети Павле",
         "sr_Cyrl_BA": "Свети Павле",
         "sr_Cyrl_ME": "Свети Павле",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Saint Paul",
         "tr_TR": "Saint Paul",
         "tt": "Saint Paul",
+        "tt@iqtelif": "Saint Paul",
         "tt_RU": "Saint Paul",
         "twq": "Saint Paul",
         "twq_NE": "Saint Paul",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Saint Paul",
         "zh_Hant_TW": "Saint Paul",
         "zu": "Saint Paul",
-        "zu_ZA": "Saint Paul",
-        "sr@latin": "Sveti Pavle",
-        "tt@iqtelif": "Saint Paul"
+        "zu_ZA": "Saint Paul"
     },
     "07": {
         "af": "Saint Peter",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint Peter",
         "sq_XK": "Saint Peter",
         "sr": "Свети Петар",
+        "sr@latin": "Sveti Petar",
         "sr_Cyrl": "Свети Петар",
         "sr_Cyrl_BA": "Свети Петар",
         "sr_Cyrl_ME": "Свети Петар",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint Peter",
         "tr_TR": "Saint Peter",
         "tt": "Saint Peter",
+        "tt@iqtelif": "Saint Peter",
         "tt_RU": "Saint Peter",
         "twq": "Saint Peter",
         "twq_NE": "Saint Peter",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint Peter",
         "zh_Hant_TW": "Saint Peter",
         "zu": "Saint Peter",
-        "zu_ZA": "Saint Peter",
-        "sr@latin": "Sveti Petar",
-        "tt@iqtelif": "Saint Peter"
+        "zu_ZA": "Saint Peter"
     },
     "08": {
         "af": "Saint Philip",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Saint Philip",
         "sq_XK": "Saint Philip",
         "sr": "Свети Филип",
+        "sr@latin": "Sveti Filip",
         "sr_Cyrl": "Свети Филип",
         "sr_Cyrl_BA": "Свети Филип",
         "sr_Cyrl_ME": "Свети Филип",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Saint Philip",
         "tr_TR": "Saint Philip",
         "tt": "Saint Philip",
+        "tt@iqtelif": "Saint Philip",
         "tt_RU": "Saint Philip",
         "twq": "Saint Philip",
         "twq_NE": "Saint Philip",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Saint Philip",
         "zh_Hant_TW": "Saint Philip",
         "zu": "Saint Philip",
-        "zu_ZA": "Saint Philip",
-        "sr@latin": "Sveti Filip",
-        "tt@iqtelif": "Saint Philip"
+        "zu_ZA": "Saint Philip"
     },
     "10": {
         "af": "Barbuda",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Barbuda",
         "sq_XK": "Barbuda",
         "sr": "Барбуда",
+        "sr@latin": "Barbuda",
         "sr_Cyrl": "Барбуда",
         "sr_Cyrl_BA": "Барбуда",
         "sr_Cyrl_ME": "Барбуда",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Barbuda",
         "tr_TR": "Barbuda",
         "tt": "Barbuda",
+        "tt@iqtelif": "Barbuda",
         "tt_RU": "Barbuda",
         "twq": "Barbuda",
         "twq_NE": "Barbuda",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Barbuda",
         "zh_Hant_TW": "Barbuda",
         "zu": "Barbuda",
-        "zu_ZA": "Barbuda",
-        "sr@latin": "Barbuda",
-        "tt@iqtelif": "Barbuda"
+        "zu_ZA": "Barbuda"
     },
     "11": {
         "af": "Redonda",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Redonda",
         "sq_XK": "Redonda",
         "sr": "Редонда",
+        "sr@latin": "Redonda",
         "sr_Cyrl": "Редонда",
         "sr_Cyrl_BA": "Редонда",
         "sr_Cyrl_ME": "Редонда",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Redonda",
         "tr_TR": "Redonda",
         "tt": "Redonda",
+        "tt@iqtelif": "Redonda",
         "tt_RU": "Redonda",
         "twq": "Redonda",
         "twq_NE": "Redonda",
@@ -7075,8 +7077,6 @@
         "zh_Hant_MY": "Redonda",
         "zh_Hant_TW": "Redonda",
         "zu": "Redonda",
-        "zu_ZA": "Redonda",
-        "sr@latin": "Redonda",
-        "tt@iqtelif": "Redonda"
+        "zu_ZA": "Redonda"
     }
 }

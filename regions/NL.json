@@ -743,6 +743,7 @@
         "sq_MK": "Aruba",
         "sq_XK": "Aruba",
         "sr": "Аруба",
+        "sr@latin": "Aruba",
         "sr_Cyrl": "Аруба",
         "sr_Cyrl_BA": "Аруба",
         "sr_Cyrl_ME": "Аруба",
@@ -803,6 +804,7 @@
         "tr_CY": "Aruba",
         "tr_TR": "Aruba",
         "tt": "Aruba",
+        "tt@iqtelif": "Aruba",
         "tt_RU": "Aruba",
         "twq": "Aruba",
         "twq_NE": "Aruba",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aruba",
         "zh_Hant_TW": "Aruba",
         "zu": "Aruba",
-        "zu_ZA": "Aruba",
-        "sr@latin": "Aruba",
-        "tt@iqtelif": "Aruba"
+        "zu_ZA": "Aruba"
     },
     "BQ1": {
         "af": "Bonaire",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bonaire",
         "sq_XK": "Bonaire",
         "sr": "Бонер",
+        "sr@latin": "Boner",
         "sr_Cyrl": "Бонер",
         "sr_Cyrl_BA": "Бонер",
         "sr_Cyrl_ME": "Бонер",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bonaire",
         "tr_TR": "Bonaire",
         "tt": "Bonaire",
+        "tt@iqtelif": "Bonaire",
         "tt_RU": "Bonaire",
         "twq": "Bonaire",
         "twq_NE": "Bonaire",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bonaire",
         "zh_Hant_TW": "Bonaire",
         "zu": "Bonaire",
-        "zu_ZA": "Bonaire",
-        "sr@latin": "Boner",
-        "tt@iqtelif": "Bonaire"
+        "zu_ZA": "Bonaire"
     },
     "BQ2": {
         "af": "Saba",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saba",
         "sq_XK": "Saba",
         "sr": "Саба",
+        "sr@latin": "Saba",
         "sr_Cyrl": "Саба",
         "sr_Cyrl_BA": "Саба",
         "sr_Cyrl_ME": "Саба",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saba",
         "tr_TR": "Saba",
         "tt": "Saba",
+        "tt@iqtelif": "Saba",
         "tt_RU": "Saba",
         "twq": "Saba",
         "twq_NE": "Saba",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saba",
         "zh_Hant_TW": "Saba",
         "zu": "Saba",
-        "zu_ZA": "Saba",
-        "sr@latin": "Saba",
-        "tt@iqtelif": "Saba"
+        "zu_ZA": "Saba"
     },
     "BQ3": {
         "af": "Sint Eustatius",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Sint Eustatius",
         "sq_XK": "Sint Eustatius",
         "sr": "Свети Еустахије",
+        "sr@latin": "Sveti Eustahije",
         "sr_Cyrl": "Свети Еустахије",
         "sr_Cyrl_BA": "Свети Еустахије",
         "sr_Cyrl_ME": "Свети Еустахије",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Sint Eustatius",
         "tr_TR": "Sint Eustatius",
         "tt": "Sint Eustatius",
+        "tt@iqtelif": "Sint Eustatius",
         "tt_RU": "Sint Eustatius",
         "twq": "Sint Eustatius",
         "twq_NE": "Sint Eustatius",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Sint Eustatius",
         "zh_Hant_TW": "Sint Eustatius",
         "zu": "Sint Eustatius",
-        "zu_ZA": "Sint Eustatius",
-        "sr@latin": "Sveti Eustahije",
-        "tt@iqtelif": "Sint Eustatius"
+        "zu_ZA": "Sint Eustatius"
     },
     "CW": {
         "af": "Curaçao",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Curaçao",
         "sq_XK": "Curaçao",
         "sr": "Курасао",
+        "sr@latin": "Kurasao",
         "sr_Cyrl": "Курасао",
         "sr_Cyrl_BA": "Курасао",
         "sr_Cyrl_ME": "Курасао",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Curaçao",
         "tr_TR": "Curaçao",
         "tt": "Curaçao",
+        "tt@iqtelif": "Curaçao",
         "tt_RU": "Curaçao",
         "twq": "Curaçao",
         "twq_NE": "Curaçao",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Curaçao",
         "zh_Hant_TW": "Curaçao",
         "zu": "Curaçao",
-        "zu_ZA": "Curaçao",
-        "sr@latin": "Kurasao",
-        "tt@iqtelif": "Curaçao"
+        "zu_ZA": "Curaçao"
     },
     "DR": {
         "af": "Drenthe",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Drenthe",
         "sq_XK": "Drenthe",
         "sr": "Дренте",
+        "sr@latin": "Drente",
         "sr_Cyrl": "Дренте",
         "sr_Cyrl_BA": "Дренте",
         "sr_Cyrl_ME": "Дренте",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Drenthe",
         "tr_TR": "Drenthe",
         "tt": "Drenthe",
+        "tt@iqtelif": "Drenthe",
         "tt_RU": "Drenthe",
         "twq": "Drenthe",
         "twq_NE": "Drenthe",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Drenthe",
         "zh_Hant_TW": "Drenthe",
         "zu": "Drenthe",
-        "zu_ZA": "Drenthe",
-        "sr@latin": "Drente",
-        "tt@iqtelif": "Drenthe"
+        "zu_ZA": "Drenthe"
     },
     "FL": {
         "af": "Flevoland",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Flevoland",
         "sq_XK": "Flevoland",
         "sr": "Флеволанд",
+        "sr@latin": "Flevoland",
         "sr_Cyrl": "Флеволанд",
         "sr_Cyrl_BA": "Флеволанд",
         "sr_Cyrl_ME": "Флеволанд",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Flevoland",
         "tr_TR": "Flevoland",
         "tt": "Flevoland",
+        "tt@iqtelif": "Flevoland",
         "tt_RU": "Flevoland",
         "twq": "Flevoland",
         "twq_NE": "Flevoland",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Flevoland",
         "zh_Hant_TW": "Flevoland",
         "zu": "Flevoland",
-        "zu_ZA": "Flevoland",
-        "sr@latin": "Flevoland",
-        "tt@iqtelif": "Flevoland"
+        "zu_ZA": "Flevoland"
     },
     "FR": {
         "af": "Fryslân",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Fryslân",
         "sq_XK": "Fryslân",
         "sr": "Fryslân",
+        "sr@latin": "Fryslân",
         "sr_Cyrl": "Fryslân",
         "sr_Cyrl_BA": "Fryslân",
         "sr_Cyrl_ME": "Fryslân",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Fryslân",
         "tr_TR": "Fryslân",
         "tt": "Fryslân",
+        "tt@iqtelif": "Fryslân",
         "tt_RU": "Fryslân",
         "twq": "Fryslân",
         "twq_NE": "Fryslân",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Fryslân",
         "zh_Hant_TW": "Fryslân",
         "zu": "Fryslân",
-        "zu_ZA": "Fryslân",
-        "sr@latin": "Fryslân",
-        "tt@iqtelif": "Fryslân"
+        "zu_ZA": "Fryslân"
     },
     "GE": {
         "af": "Gelderland",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Gelderland",
         "sq_XK": "Gelderland",
         "sr": "Гелдерланд",
+        "sr@latin": "Gelderland",
         "sr_Cyrl": "Гелдерланд",
         "sr_Cyrl_BA": "Гелдерланд",
         "sr_Cyrl_ME": "Гелдерланд",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Gelderland",
         "tr_TR": "Gelderland",
         "tt": "Gelderland",
+        "tt@iqtelif": "Gelderland",
         "tt_RU": "Gelderland",
         "twq": "Gelderland",
         "twq_NE": "Gelderland",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Gelderland",
         "zh_Hant_TW": "Gelderland",
         "zu": "Gelderland",
-        "zu_ZA": "Gelderland",
-        "sr@latin": "Gelderland",
-        "tt@iqtelif": "Gelderland"
+        "zu_ZA": "Gelderland"
     },
     "GR": {
         "af": "Groningen",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Groningen",
         "sq_XK": "Groningen",
         "sr": "Гронинген",
+        "sr@latin": "Groningen",
         "sr_Cyrl": "Гронинген",
         "sr_Cyrl_BA": "Гронинген",
         "sr_Cyrl_ME": "Гронинген",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Groningen",
         "tr_TR": "Groningen",
         "tt": "Groningen",
+        "tt@iqtelif": "Groningen",
         "tt_RU": "Groningen",
         "twq": "Groningen",
         "twq_NE": "Groningen",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Groningen",
         "zh_Hant_TW": "Groningen",
         "zu": "Groningen",
-        "zu_ZA": "Groningen",
-        "sr@latin": "Groningen",
-        "tt@iqtelif": "Groningen"
+        "zu_ZA": "Groningen"
     },
     "LI": {
         "af": "Limburg",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Limburg",
         "sq_XK": "Limburg",
         "sr": "Лимбург",
+        "sr@latin": "Limburg",
         "sr_Cyrl": "Лимбург",
         "sr_Cyrl_BA": "Лимбург",
         "sr_Cyrl_ME": "Лимбург",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Limburg",
         "tr_TR": "Limburg",
         "tt": "Limburg",
+        "tt@iqtelif": "Limburg",
         "tt_RU": "Limburg",
         "twq": "Limburg",
         "twq_NE": "Limburg",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Limburg",
         "zh_Hant_TW": "Limburg",
         "zu": "Limburg",
-        "zu_ZA": "Limburg",
-        "sr@latin": "Limburg",
-        "tt@iqtelif": "Limburg"
+        "zu_ZA": "Limburg"
     },
     "NB": {
         "af": "Noord-Brabant",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Noord-Brabant",
         "sq_XK": "Noord-Brabant",
         "sr": "Норд Брабант",
+        "sr@latin": "Nord Brabant",
         "sr_Cyrl": "Норд Брабант",
         "sr_Cyrl_BA": "Норд Брабант",
         "sr_Cyrl_ME": "Норд Брабант",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Noord-Brabant",
         "tr_TR": "Noord-Brabant",
         "tt": "Noord-Brabant",
+        "tt@iqtelif": "Noord-Brabant",
         "tt_RU": "Noord-Brabant",
         "twq": "Noord-Brabant",
         "twq_NE": "Noord-Brabant",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Noord-Brabant",
         "zh_Hant_TW": "Noord-Brabant",
         "zu": "Noord-Brabant",
-        "zu_ZA": "Noord-Brabant",
-        "sr@latin": "Nord Brabant",
-        "tt@iqtelif": "Noord-Brabant"
+        "zu_ZA": "Noord-Brabant"
     },
     "NH": {
         "af": "Noord-Holland",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Noord-Holland",
         "sq_XK": "Noord-Holland",
         "sr": "Норд Холанд",
+        "sr@latin": "Nord Holand",
         "sr_Cyrl": "Норд Холанд",
         "sr_Cyrl_BA": "Норд Холанд",
         "sr_Cyrl_ME": "Норд Холанд",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Noord-Holland",
         "tr_TR": "Noord-Holland",
         "tt": "Noord-Holland",
+        "tt@iqtelif": "Noord-Holland",
         "tt_RU": "Noord-Holland",
         "twq": "Noord-Holland",
         "twq_NE": "Noord-Holland",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Noord-Holland",
         "zh_Hant_TW": "Noord-Holland",
         "zu": "Noord-Holland",
-        "zu_ZA": "Noord-Holland",
-        "sr@latin": "Nord Holand",
-        "tt@iqtelif": "Noord-Holland"
+        "zu_ZA": "Noord-Holland"
     },
     "OV": {
         "af": "Overijssel",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Overijssel",
         "sq_XK": "Overijssel",
         "sr": "Оверијсел",
+        "sr@latin": "Overijsel",
         "sr_Cyrl": "Оверијсел",
         "sr_Cyrl_BA": "Оверијсел",
         "sr_Cyrl_ME": "Оверијсел",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Overijssel",
         "tr_TR": "Overijssel",
         "tt": "Overijssel",
+        "tt@iqtelif": "Overijssel",
         "tt_RU": "Overijssel",
         "twq": "Overijssel",
         "twq_NE": "Overijssel",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Overijssel",
         "zh_Hant_TW": "Overijssel",
         "zu": "Overijssel",
-        "zu_ZA": "Overijssel",
-        "sr@latin": "Overijsel",
-        "tt@iqtelif": "Overijssel"
+        "zu_ZA": "Overijssel"
     },
     "SX": {
         "af": "Sint Maarten",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Sint Maarten",
         "sq_XK": "Sint Maarten",
         "sr": "Свети Мартин",
+        "sr@latin": "Sveti Martin",
         "sr_Cyrl": "Свети Мартин",
         "sr_Cyrl_BA": "Свети Мартин",
         "sr_Cyrl_ME": "Свети Мартин",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Sint Maarten",
         "tr_TR": "Sint Maarten",
         "tt": "Sint Maarten",
+        "tt@iqtelif": "Sint Maarten",
         "tt_RU": "Sint Maarten",
         "twq": "Sint Maarten",
         "twq_NE": "Sint Maarten",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Sint Maarten",
         "zh_Hant_TW": "Sint Maarten",
         "zu": "Sint Maarten",
-        "zu_ZA": "Sint Maarten",
-        "sr@latin": "Sveti Martin",
-        "tt@iqtelif": "Sint Maarten"
+        "zu_ZA": "Sint Maarten"
     },
     "UT": {
         "af": "Utrecht",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Utrecht",
         "sq_XK": "Utrecht",
         "sr": "Утрехт",
+        "sr@latin": "Utreht",
         "sr_Cyrl": "Утрехт",
         "sr_Cyrl_BA": "Утрехт",
         "sr_Cyrl_ME": "Утрехт",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Utrecht",
         "tr_TR": "Utrecht",
         "tt": "Utrecht",
+        "tt@iqtelif": "Utrecht",
         "tt_RU": "Utrecht",
         "twq": "Utrecht",
         "twq_NE": "Utrecht",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Utrecht",
         "zh_Hant_TW": "Utrecht",
         "zu": "Utrecht",
-        "zu_ZA": "Utrecht",
-        "sr@latin": "Utreht",
-        "tt@iqtelif": "Utrecht"
+        "zu_ZA": "Utrecht"
     },
     "ZE": {
         "af": "Zeeland",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Zeeland",
         "sq_XK": "Zeeland",
         "sr": "Зеланд",
+        "sr@latin": "Zeland",
         "sr_Cyrl": "Зеланд",
         "sr_Cyrl_BA": "Зеланд",
         "sr_Cyrl_ME": "Зеланд",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Zeeland",
         "tr_TR": "Zeeland",
         "tt": "Zeeland",
+        "tt@iqtelif": "Zeeland",
         "tt_RU": "Zeeland",
         "twq": "Zeeland",
         "twq_NE": "Zeeland",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Zeeland",
         "zh_Hant_TW": "Zeeland",
         "zu": "Zeeland",
-        "zu_ZA": "Zeeland",
-        "sr@latin": "Zeland",
-        "tt@iqtelif": "Zeeland"
+        "zu_ZA": "Zeeland"
     },
     "ZH": {
         "af": "Zuid-Holland",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Zuid-Holland",
         "sq_XK": "Zuid-Holland",
         "sr": "Зуид-Холанд",
+        "sr@latin": "Zuid-Holand",
         "sr_Cyrl": "Зуид-Холанд",
         "sr_Cyrl_BA": "Зуид-Холанд",
         "sr_Cyrl_ME": "Зуид-Холанд",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Zuid-Holland",
         "tr_TR": "Zuid-Holland",
         "tt": "Zuid-Holland",
+        "tt@iqtelif": "Zuid-Holland",
         "tt_RU": "Zuid-Holland",
         "twq": "Zuid-Holland",
         "twq_NE": "Zuid-Holland",
@@ -15925,8 +15927,6 @@
         "zh_Hant_MY": "Zuid-Holland",
         "zh_Hant_TW": "Zuid-Holland",
         "zu": "Zuid-Holland",
-        "zu_ZA": "Zuid-Holland",
-        "sr@latin": "Zuid-Holand",
-        "tt@iqtelif": "Zuid-Holland"
+        "zu_ZA": "Zuid-Holland"
     }
 }

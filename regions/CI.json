@@ -743,6 +743,7 @@
         "sq_MK": "Abidjan",
         "sq_XK": "Abidjan",
         "sr": "Abidjan",
+        "sr@latin": "Abidjan",
         "sr_Cyrl": "Abidjan",
         "sr_Cyrl_BA": "Abidjan",
         "sr_Cyrl_ME": "Abidjan",
@@ -803,6 +804,7 @@
         "tr_CY": "Abidjan",
         "tr_TR": "Abidjan",
         "tt": "Abidjan",
+        "tt@iqtelif": "Abidjan",
         "tt_RU": "Abidjan",
         "twq": "Abidjan",
         "twq_NE": "Abidjan",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Abidjan",
         "zh_Hant_TW": "Abidjan",
         "zu": "Abidjan",
-        "zu_ZA": "Abidjan",
-        "sr@latin": "Abidjan",
-        "tt@iqtelif": "Abidjan"
+        "zu_ZA": "Abidjan"
     },
     "BS": {
         "af": "Bas-Sassandra",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bas-Sassandra",
         "sq_XK": "Bas-Sassandra",
         "sr": "Bas-Sassandra",
+        "sr@latin": "Bas-Sassandra",
         "sr_Cyrl": "Bas-Sassandra",
         "sr_Cyrl_BA": "Bas-Sassandra",
         "sr_Cyrl_ME": "Bas-Sassandra",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bas-Sassandra",
         "tr_TR": "Bas-Sassandra",
         "tt": "Bas-Sassandra",
+        "tt@iqtelif": "Bas-Sassandra",
         "tt_RU": "Bas-Sassandra",
         "twq": "Bas-Sassandra",
         "twq_NE": "Bas-Sassandra",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bas-Sassandra",
         "zh_Hant_TW": "Bas-Sassandra",
         "zu": "Bas-Sassandra",
-        "zu_ZA": "Bas-Sassandra",
-        "sr@latin": "Bas-Sassandra",
-        "tt@iqtelif": "Bas-Sassandra"
+        "zu_ZA": "Bas-Sassandra"
     },
     "CM": {
         "af": "Comoé",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Comoé",
         "sq_XK": "Comoé",
         "sr": "Комое",
+        "sr@latin": "Komoe",
         "sr_Cyrl": "Комое",
         "sr_Cyrl_BA": "Комое",
         "sr_Cyrl_ME": "Комое",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Comoé",
         "tr_TR": "Comoé",
         "tt": "Comoé",
+        "tt@iqtelif": "Comoé",
         "tt_RU": "Comoé",
         "twq": "Comoé",
         "twq_NE": "Comoé",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Comoé",
         "zh_Hant_TW": "Comoé",
         "zu": "Comoé",
-        "zu_ZA": "Comoé",
-        "sr@latin": "Komoe",
-        "tt@iqtelif": "Comoé"
+        "zu_ZA": "Comoé"
     },
     "DN": {
         "af": "Denguélé",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Denguélé",
         "sq_XK": "Denguélé",
         "sr": "Denguélé",
+        "sr@latin": "Denguélé",
         "sr_Cyrl": "Denguélé",
         "sr_Cyrl_BA": "Denguélé",
         "sr_Cyrl_ME": "Denguélé",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Denguélé",
         "tr_TR": "Denguélé",
         "tt": "Denguélé",
+        "tt@iqtelif": "Denguélé",
         "tt_RU": "Denguélé",
         "twq": "Denguélé",
         "twq_NE": "Denguélé",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Denguélé",
         "zh_Hant_TW": "Denguélé",
         "zu": "Denguélé",
-        "zu_ZA": "Denguélé",
-        "sr@latin": "Denguélé",
-        "tt@iqtelif": "Denguélé"
+        "zu_ZA": "Denguélé"
     },
     "GD": {
         "af": "Gôh-Djiboua",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Gôh-Djiboua",
         "sq_XK": "Gôh-Djiboua",
         "sr": "Gôh-Djiboua",
+        "sr@latin": "Gôh-Djiboua",
         "sr_Cyrl": "Gôh-Djiboua",
         "sr_Cyrl_BA": "Gôh-Djiboua",
         "sr_Cyrl_ME": "Gôh-Djiboua",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Gôh-Djiboua",
         "tr_TR": "Gôh-Djiboua",
         "tt": "Gôh-Djiboua",
+        "tt@iqtelif": "Gôh-Djiboua",
         "tt_RU": "Gôh-Djiboua",
         "twq": "Gôh-Djiboua",
         "twq_NE": "Gôh-Djiboua",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Gôh-Djiboua",
         "zh_Hant_TW": "Gôh-Djiboua",
         "zu": "Gôh-Djiboua",
-        "zu_ZA": "Gôh-Djiboua",
-        "sr@latin": "Gôh-Djiboua",
-        "tt@iqtelif": "Gôh-Djiboua"
+        "zu_ZA": "Gôh-Djiboua"
     },
     "LC": {
         "af": "Lacs",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Lacs",
         "sq_XK": "Lacs",
         "sr": "Lacs",
+        "sr@latin": "Lacs",
         "sr_Cyrl": "Lacs",
         "sr_Cyrl_BA": "Lacs",
         "sr_Cyrl_ME": "Lacs",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Lacs",
         "tr_TR": "Lacs",
         "tt": "Lacs",
+        "tt@iqtelif": "Lacs",
         "tt_RU": "Lacs",
         "twq": "Lacs",
         "twq_NE": "Lacs",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Lacs",
         "zh_Hant_TW": "Lacs",
         "zu": "Lacs",
-        "zu_ZA": "Lacs",
-        "sr@latin": "Lacs",
-        "tt@iqtelif": "Lacs"
+        "zu_ZA": "Lacs"
     },
     "LG": {
         "af": "Lagunes",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Lagunes",
         "sq_XK": "Lagunes",
         "sr": "Lagunes",
+        "sr@latin": "Lagunes",
         "sr_Cyrl": "Lagunes",
         "sr_Cyrl_BA": "Lagunes",
         "sr_Cyrl_ME": "Lagunes",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Lagunes",
         "tr_TR": "Lagunes",
         "tt": "Lagunes",
+        "tt@iqtelif": "Lagunes",
         "tt_RU": "Lagunes",
         "twq": "Lagunes",
         "twq_NE": "Lagunes",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Lagunes",
         "zh_Hant_TW": "Lagunes",
         "zu": "Lagunes",
-        "zu_ZA": "Lagunes",
-        "sr@latin": "Lagunes",
-        "tt@iqtelif": "Lagunes"
+        "zu_ZA": "Lagunes"
     },
     "MG": {
         "af": "Montagnes",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Montagnes",
         "sq_XK": "Montagnes",
         "sr": "Montagnes",
+        "sr@latin": "Montagnes",
         "sr_Cyrl": "Montagnes",
         "sr_Cyrl_BA": "Montagnes",
         "sr_Cyrl_ME": "Montagnes",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Montagnes",
         "tr_TR": "Montagnes",
         "tt": "Montagnes",
+        "tt@iqtelif": "Montagnes",
         "tt_RU": "Montagnes",
         "twq": "Montagnes",
         "twq_NE": "Montagnes",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Montagnes",
         "zh_Hant_TW": "Montagnes",
         "zu": "Montagnes",
-        "zu_ZA": "Montagnes",
-        "sr@latin": "Montagnes",
-        "tt@iqtelif": "Montagnes"
+        "zu_ZA": "Montagnes"
     },
     "SM": {
         "af": "Sassandra-Marahoué",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Sassandra-Marahoué",
         "sq_XK": "Sassandra-Marahoué",
         "sr": "Sassandra-Marahoué",
+        "sr@latin": "Sassandra-Marahoué",
         "sr_Cyrl": "Sassandra-Marahoué",
         "sr_Cyrl_BA": "Sassandra-Marahoué",
         "sr_Cyrl_ME": "Sassandra-Marahoué",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Sassandra-Marahoué",
         "tr_TR": "Sassandra-Marahoué",
         "tt": "Sassandra-Marahoué",
+        "tt@iqtelif": "Sassandra-Marahoué",
         "tt_RU": "Sassandra-Marahoué",
         "twq": "Sassandra-Marahoué",
         "twq_NE": "Sassandra-Marahoué",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Sassandra-Marahoué",
         "zh_Hant_TW": "Sassandra-Marahoué",
         "zu": "Sassandra-Marahoué",
-        "zu_ZA": "Sassandra-Marahoué",
-        "sr@latin": "Sassandra-Marahoué",
-        "tt@iqtelif": "Sassandra-Marahoué"
+        "zu_ZA": "Sassandra-Marahoué"
     },
     "SV": {
         "af": "Savanes",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Savanes",
         "sq_XK": "Savanes",
         "sr": "Savanes",
+        "sr@latin": "Savanes",
         "sr_Cyrl": "Savanes",
         "sr_Cyrl_BA": "Savanes",
         "sr_Cyrl_ME": "Savanes",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Savanes",
         "tr_TR": "Savanes",
         "tt": "Savanes",
+        "tt@iqtelif": "Savanes",
         "tt_RU": "Savanes",
         "twq": "Savanes",
         "twq_NE": "Savanes",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Savanes",
         "zh_Hant_TW": "Savanes",
         "zu": "Savanes",
-        "zu_ZA": "Savanes",
-        "sr@latin": "Savanes",
-        "tt@iqtelif": "Savanes"
+        "zu_ZA": "Savanes"
     },
     "VB": {
         "af": "Vallée du Bandama",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Vallée du Bandama",
         "sq_XK": "Vallée du Bandama",
         "sr": "Vallée du Bandama",
+        "sr@latin": "Vallée du Bandama",
         "sr_Cyrl": "Vallée du Bandama",
         "sr_Cyrl_BA": "Vallée du Bandama",
         "sr_Cyrl_ME": "Vallée du Bandama",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Vallée du Bandama",
         "tr_TR": "Vallée du Bandama",
         "tt": "Vallée du Bandama",
+        "tt@iqtelif": "Vallée du Bandama",
         "tt_RU": "Vallée du Bandama",
         "twq": "Vallée du Bandama",
         "twq_NE": "Vallée du Bandama",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Vallée du Bandama",
         "zh_Hant_TW": "Vallée du Bandama",
         "zu": "Vallée du Bandama",
-        "zu_ZA": "Vallée du Bandama",
-        "sr@latin": "Vallée du Bandama",
-        "tt@iqtelif": "Vallée du Bandama"
+        "zu_ZA": "Vallée du Bandama"
     },
     "WR": {
         "af": "Woroba",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Woroba",
         "sq_XK": "Woroba",
         "sr": "Woroba",
+        "sr@latin": "Woroba",
         "sr_Cyrl": "Woroba",
         "sr_Cyrl_BA": "Woroba",
         "sr_Cyrl_ME": "Woroba",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Woroba",
         "tr_TR": "Woroba",
         "tt": "Woroba",
+        "tt@iqtelif": "Woroba",
         "tt_RU": "Woroba",
         "twq": "Woroba",
         "twq_NE": "Woroba",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Woroba",
         "zh_Hant_TW": "Woroba",
         "zu": "Woroba",
-        "zu_ZA": "Woroba",
-        "sr@latin": "Woroba",
-        "tt@iqtelif": "Woroba"
+        "zu_ZA": "Woroba"
     },
     "YM": {
         "af": "Yamoussoukro",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Yamoussoukro",
         "sq_XK": "Yamoussoukro",
         "sr": "Yamoussoukro",
+        "sr@latin": "Yamoussoukro",
         "sr_Cyrl": "Yamoussoukro",
         "sr_Cyrl_BA": "Yamoussoukro",
         "sr_Cyrl_ME": "Yamoussoukro",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Yamoussoukro",
         "tr_TR": "Yamoussoukro",
         "tt": "Yamoussoukro",
+        "tt@iqtelif": "Yamoussoukro",
         "tt_RU": "Yamoussoukro",
         "twq": "Yamoussoukro",
         "twq_NE": "Yamoussoukro",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Yamoussoukro",
         "zh_Hant_TW": "Yamoussoukro",
         "zu": "Yamoussoukro",
-        "zu_ZA": "Yamoussoukro",
-        "sr@latin": "Yamoussoukro",
-        "tt@iqtelif": "Yamoussoukro"
+        "zu_ZA": "Yamoussoukro"
     },
     "ZZ": {
         "af": "Zanzan",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Zanzan",
         "sq_XK": "Zanzan",
         "sr": "Zanzan",
+        "sr@latin": "Zanzan",
         "sr_Cyrl": "Zanzan",
         "sr_Cyrl_BA": "Zanzan",
         "sr_Cyrl_ME": "Zanzan",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Zanzan",
         "tr_TR": "Zanzan",
         "tt": "Zanzan",
+        "tt@iqtelif": "Zanzan",
         "tt_RU": "Zanzan",
         "twq": "Zanzan",
         "twq_NE": "Zanzan",
@@ -12385,8 +12387,6 @@
         "zh_Hant_MY": "Zanzan",
         "zh_Hant_TW": "Zanzan",
         "zu": "Zanzan",
-        "zu_ZA": "Zanzan",
-        "sr@latin": "Zanzan",
-        "tt@iqtelif": "Zanzan"
+        "zu_ZA": "Zanzan"
     }
 }

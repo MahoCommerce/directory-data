@@ -743,6 +743,7 @@
         "sq_MK": "Changhua",
         "sq_XK": "Changhua",
         "sr": "Чангуа",
+        "sr@latin": "Čangua",
         "sr_Cyrl": "Чангуа",
         "sr_Cyrl_BA": "Чангуа",
         "sr_Cyrl_ME": "Чангуа",
@@ -803,6 +804,7 @@
         "tr_CY": "Changhua",
         "tr_TR": "Changhua",
         "tt": "Changhua",
+        "tt@iqtelif": "Changhua",
         "tt_RU": "Changhua",
         "twq": "Changhua",
         "twq_NE": "Changhua",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Changhua",
         "zh_Hant_TW": "Changhua",
         "zu": "Changhua",
-        "zu_ZA": "Changhua",
-        "sr@latin": "Čangua",
-        "tt@iqtelif": "Changhua"
+        "zu_ZA": "Changhua"
     },
     "CYI": {
         "af": "Chiayi",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Chiayi",
         "sq_XK": "Chiayi",
         "sr": "Chiayi",
+        "sr@latin": "Chiayi",
         "sr_Cyrl": "Chiayi",
         "sr_Cyrl_BA": "Chiayi",
         "sr_Cyrl_ME": "Chiayi",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Chiayi",
         "tr_TR": "Chiayi",
         "tt": "Chiayi",
+        "tt@iqtelif": "Chiayi",
         "tt_RU": "Chiayi",
         "twq": "Chiayi",
         "twq_NE": "Chiayi",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Chiayi",
         "zh_Hant_TW": "Chiayi",
         "zu": "Chiayi",
-        "zu_ZA": "Chiayi",
-        "sr@latin": "Chiayi",
-        "tt@iqtelif": "Chiayi"
+        "zu_ZA": "Chiayi"
     },
     "CYQ": {
         "af": "Chiayi",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Chiayi",
         "sq_XK": "Chiayi",
         "sr": "Chiayi",
+        "sr@latin": "Chiayi",
         "sr_Cyrl": "Chiayi",
         "sr_Cyrl_BA": "Chiayi",
         "sr_Cyrl_ME": "Chiayi",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Chiayi",
         "tr_TR": "Chiayi",
         "tt": "Chiayi",
+        "tt@iqtelif": "Chiayi",
         "tt_RU": "Chiayi",
         "twq": "Chiayi",
         "twq_NE": "Chiayi",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Chiayi",
         "zh_Hant_TW": "Chiayi",
         "zu": "Chiayi",
-        "zu_ZA": "Chiayi",
-        "sr@latin": "Chiayi",
-        "tt@iqtelif": "Chiayi"
+        "zu_ZA": "Chiayi"
     },
     "HSQ": {
         "af": "Hsinchu",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Hsinchu",
         "sq_XK": "Hsinchu",
         "sr": "Шинчу",
+        "sr@latin": "Šinču",
         "sr_Cyrl": "Шинчу",
         "sr_Cyrl_BA": "Шинчу",
         "sr_Cyrl_ME": "Шинчу",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Hsinchu",
         "tr_TR": "Hsinchu",
         "tt": "Hsinchu",
+        "tt@iqtelif": "Hsinchu",
         "tt_RU": "Hsinchu",
         "twq": "Hsinchu",
         "twq_NE": "Hsinchu",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Hsinchu",
         "zh_Hant_TW": "Hsinchu",
         "zu": "Hsinchu",
-        "zu_ZA": "Hsinchu",
-        "sr@latin": "Šinču",
-        "tt@iqtelif": "Hsinchu"
+        "zu_ZA": "Hsinchu"
     },
     "HSZ": {
         "af": "Hsinchu",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Hsinchu",
         "sq_XK": "Hsinchu",
         "sr": "Шинчу",
+        "sr@latin": "Šinču",
         "sr_Cyrl": "Шинчу",
         "sr_Cyrl_BA": "Шинчу",
         "sr_Cyrl_ME": "Шинчу",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Hsinchu",
         "tr_TR": "Hsinchu",
         "tt": "Hsinchu",
+        "tt@iqtelif": "Hsinchu",
         "tt_RU": "Hsinchu",
         "twq": "Hsinchu",
         "twq_NE": "Hsinchu",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Hsinchu",
         "zh_Hant_TW": "Hsinchu",
         "zu": "Hsinchu",
-        "zu_ZA": "Hsinchu",
-        "sr@latin": "Šinču",
-        "tt@iqtelif": "Hsinchu"
+        "zu_ZA": "Hsinchu"
     },
     "HUA": {
         "af": "Hualien",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Hualien",
         "sq_XK": "Hualien",
         "sr": "Hualien",
+        "sr@latin": "Hualien",
         "sr_Cyrl": "Hualien",
         "sr_Cyrl_BA": "Hualien",
         "sr_Cyrl_ME": "Hualien",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Hualien",
         "tr_TR": "Hualien",
         "tt": "Hualien",
+        "tt@iqtelif": "Hualien",
         "tt_RU": "Hualien",
         "twq": "Hualien",
         "twq_NE": "Hualien",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Hualien",
         "zh_Hant_TW": "Hualien",
         "zu": "Hualien",
-        "zu_ZA": "Hualien",
-        "sr@latin": "Hualien",
-        "tt@iqtelif": "Hualien"
+        "zu_ZA": "Hualien"
     },
     "ILA": {
         "af": "Yilan",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Yilan",
         "sq_XK": "Yilan",
         "sr": "Yilan",
+        "sr@latin": "Yilan",
         "sr_Cyrl": "Yilan",
         "sr_Cyrl_BA": "Yilan",
         "sr_Cyrl_ME": "Yilan",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Yilan",
         "tr_TR": "Yilan",
         "tt": "Yilan",
+        "tt@iqtelif": "Yilan",
         "tt_RU": "Yilan",
         "twq": "Yilan",
         "twq_NE": "Yilan",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Yilan",
         "zh_Hant_TW": "Yilan",
         "zu": "Yilan",
-        "zu_ZA": "Yilan",
-        "sr@latin": "Yilan",
-        "tt@iqtelif": "Yilan"
+        "zu_ZA": "Yilan"
     },
     "KEE": {
         "af": "Keelung",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Keelung",
         "sq_XK": "Keelung",
         "sr": "Keelung",
+        "sr@latin": "Keelung",
         "sr_Cyrl": "Keelung",
         "sr_Cyrl_BA": "Keelung",
         "sr_Cyrl_ME": "Keelung",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Keelung",
         "tr_TR": "Keelung",
         "tt": "Keelung",
+        "tt@iqtelif": "Keelung",
         "tt_RU": "Keelung",
         "twq": "Keelung",
         "twq_NE": "Keelung",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Keelung",
         "zh_Hant_TW": "Keelung",
         "zu": "Keelung",
-        "zu_ZA": "Keelung",
-        "sr@latin": "Keelung",
-        "tt@iqtelif": "Keelung"
+        "zu_ZA": "Keelung"
     },
     "KHH": {
         "af": "Kaohsiung",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Kaohsiung",
         "sq_XK": "Kaohsiung",
         "sr": "Каосјунг",
+        "sr@latin": "Kaosjung",
         "sr_Cyrl": "Каосјунг",
         "sr_Cyrl_BA": "Каосјунг",
         "sr_Cyrl_ME": "Каосјунг",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kaohsiung",
         "tr_TR": "Kaohsiung",
         "tt": "Kaohsiung",
+        "tt@iqtelif": "Kaohsiung",
         "tt_RU": "Kaohsiung",
         "twq": "Kaohsiung",
         "twq_NE": "Kaohsiung",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Kaohsiung",
         "zh_Hant_TW": "Kaohsiung",
         "zu": "Kaohsiung",
-        "zu_ZA": "Kaohsiung",
-        "sr@latin": "Kaosjung",
-        "tt@iqtelif": "Kaohsiung"
+        "zu_ZA": "Kaohsiung"
     },
     "KIN": {
         "af": "Kinmen",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Kinmen",
         "sq_XK": "Kinmen",
         "sr": "Kinmen",
+        "sr@latin": "Kinmen",
         "sr_Cyrl": "Kinmen",
         "sr_Cyrl_BA": "Kinmen",
         "sr_Cyrl_ME": "Kinmen",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Kinmen",
         "tr_TR": "Kinmen",
         "tt": "Kinmen",
+        "tt@iqtelif": "Kinmen",
         "tt_RU": "Kinmen",
         "twq": "Kinmen",
         "twq_NE": "Kinmen",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Kinmen",
         "zh_Hant_TW": "Kinmen",
         "zu": "Kinmen",
-        "zu_ZA": "Kinmen",
-        "sr@latin": "Kinmen",
-        "tt@iqtelif": "Kinmen"
+        "zu_ZA": "Kinmen"
     },
     "LIE": {
         "af": "Lienchiang",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Lienchiang",
         "sq_XK": "Lienchiang",
         "sr": "Lienchiang",
+        "sr@latin": "Lienchiang",
         "sr_Cyrl": "Lienchiang",
         "sr_Cyrl_BA": "Lienchiang",
         "sr_Cyrl_ME": "Lienchiang",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Lienchiang",
         "tr_TR": "Lienchiang",
         "tt": "Lienchiang",
+        "tt@iqtelif": "Lienchiang",
         "tt_RU": "Lienchiang",
         "twq": "Lienchiang",
         "twq_NE": "Lienchiang",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Lienchiang",
         "zh_Hant_TW": "Lienchiang",
         "zu": "Lienchiang",
-        "zu_ZA": "Lienchiang",
-        "sr@latin": "Lienchiang",
-        "tt@iqtelif": "Lienchiang"
+        "zu_ZA": "Lienchiang"
     },
     "MIA": {
         "af": "Miaoli",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Miaoli",
         "sq_XK": "Miaoli",
         "sr": "Мјаоли",
+        "sr@latin": "Mjaoli",
         "sr_Cyrl": "Мјаоли",
         "sr_Cyrl_BA": "Мјаоли",
         "sr_Cyrl_ME": "Мјаоли",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Miaoli",
         "tr_TR": "Miaoli",
         "tt": "Miaoli",
+        "tt@iqtelif": "Miaoli",
         "tt_RU": "Miaoli",
         "twq": "Miaoli",
         "twq_NE": "Miaoli",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Miaoli",
         "zh_Hant_TW": "Miaoli",
         "zu": "Miaoli",
-        "zu_ZA": "Miaoli",
-        "sr@latin": "Mjaoli",
-        "tt@iqtelif": "Miaoli"
+        "zu_ZA": "Miaoli"
     },
     "NAN": {
         "af": "Nantou",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Nantou",
         "sq_XK": "Nantou",
         "sr": "Нанту",
+        "sr@latin": "Nantu",
         "sr_Cyrl": "Нанту",
         "sr_Cyrl_BA": "Нанту",
         "sr_Cyrl_ME": "Нанту",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Nantou",
         "tr_TR": "Nantou",
         "tt": "Nantou",
+        "tt@iqtelif": "Nantou",
         "tt_RU": "Nantou",
         "twq": "Nantou",
         "twq_NE": "Nantou",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Nantou",
         "zh_Hant_TW": "Nantou",
         "zu": "Nantou",
-        "zu_ZA": "Nantou",
-        "sr@latin": "Nantu",
-        "tt@iqtelif": "Nantou"
+        "zu_ZA": "Nantou"
     },
     "NWT": {
         "af": "New Taipei",
@@ -12248,6 +12248,7 @@
         "sq_MK": "New Taipei",
         "sq_XK": "New Taipei",
         "sr": "New Taipei",
+        "sr@latin": "New Taipei",
         "sr_Cyrl": "New Taipei",
         "sr_Cyrl_BA": "New Taipei",
         "sr_Cyrl_ME": "New Taipei",
@@ -12308,6 +12309,7 @@
         "tr_CY": "New Taipei",
         "tr_TR": "New Taipei",
         "tt": "New Taipei",
+        "tt@iqtelif": "New Taipei",
         "tt_RU": "New Taipei",
         "twq": "New Taipei",
         "twq_NE": "New Taipei",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "New Taipei",
         "zh_Hant_TW": "New Taipei",
         "zu": "New Taipei",
-        "zu_ZA": "New Taipei",
-        "sr@latin": "New Taipei",
-        "tt@iqtelif": "New Taipei"
+        "zu_ZA": "New Taipei"
     },
     "PEN": {
         "af": "Penghu",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Penghu",
         "sq_XK": "Penghu",
         "sr": "Пенгу",
+        "sr@latin": "Pengu",
         "sr_Cyrl": "Пенгу",
         "sr_Cyrl_BA": "Пенгу",
         "sr_Cyrl_ME": "Пенгу",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Penghu",
         "tr_TR": "Penghu",
         "tt": "Penghu",
+        "tt@iqtelif": "Penghu",
         "tt_RU": "Penghu",
         "twq": "Penghu",
         "twq_NE": "Penghu",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Penghu",
         "zh_Hant_TW": "Penghu",
         "zu": "Penghu",
-        "zu_ZA": "Penghu",
-        "sr@latin": "Pengu",
-        "tt@iqtelif": "Penghu"
+        "zu_ZA": "Penghu"
     },
     "PIF": {
         "af": "Pingtung",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Pingtung",
         "sq_XK": "Pingtung",
         "sr": "Пинтунг",
+        "sr@latin": "Pintung",
         "sr_Cyrl": "Пинтунг",
         "sr_Cyrl_BA": "Пинтунг",
         "sr_Cyrl_ME": "Пинтунг",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Pingtung",
         "tr_TR": "Pingtung",
         "tt": "Pingtung",
+        "tt@iqtelif": "Pingtung",
         "tt_RU": "Pingtung",
         "twq": "Pingtung",
         "twq_NE": "Pingtung",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Pingtung",
         "zh_Hant_TW": "Pingtung",
         "zu": "Pingtung",
-        "zu_ZA": "Pingtung",
-        "sr@latin": "Pintung",
-        "tt@iqtelif": "Pingtung"
+        "zu_ZA": "Pingtung"
     },
     "TAO": {
         "af": "Taoyuan",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Taoyuan",
         "sq_XK": "Taoyuan",
         "sr": "Таојен",
+        "sr@latin": "Taojen",
         "sr_Cyrl": "Таојен",
         "sr_Cyrl_BA": "Таојен",
         "sr_Cyrl_ME": "Таојен",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Taoyuan",
         "tr_TR": "Taoyuan",
         "tt": "Taoyuan",
+        "tt@iqtelif": "Taoyuan",
         "tt_RU": "Taoyuan",
         "twq": "Taoyuan",
         "twq_NE": "Taoyuan",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Taoyuan",
         "zh_Hant_TW": "Taoyuan",
         "zu": "Taoyuan",
-        "zu_ZA": "Taoyuan",
-        "sr@latin": "Taojen",
-        "tt@iqtelif": "Taoyuan"
+        "zu_ZA": "Taoyuan"
     },
     "TNN": {
         "af": "Tainan",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Tainan",
         "sq_XK": "Tainan",
         "sr": "Таинан",
+        "sr@latin": "Tainan",
         "sr_Cyrl": "Таинан",
         "sr_Cyrl_BA": "Таинан",
         "sr_Cyrl_ME": "Таинан",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Tainan",
         "tr_TR": "Tainan",
         "tt": "Tainan",
+        "tt@iqtelif": "Tainan",
         "tt_RU": "Tainan",
         "twq": "Tainan",
         "twq_NE": "Tainan",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Tainan",
         "zh_Hant_TW": "Tainan",
         "zu": "Tainan",
-        "zu_ZA": "Tainan",
-        "sr@latin": "Tainan",
-        "tt@iqtelif": "Tainan"
+        "zu_ZA": "Tainan"
     },
     "TPE": {
         "af": "Taipei",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Taipei",
         "sq_XK": "Taipei",
         "sr": "Тајпеј",
+        "sr@latin": "Tajpej",
         "sr_Cyrl": "Тајпеј",
         "sr_Cyrl_BA": "Тајпеј",
         "sr_Cyrl_ME": "Тајпеј",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Taipei",
         "tr_TR": "Taipei",
         "tt": "Taipei",
+        "tt@iqtelif": "Taipei",
         "tt_RU": "Taipei",
         "twq": "Taipei",
         "twq_NE": "Taipei",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Taipei",
         "zh_Hant_TW": "Taipei",
         "zu": "Taipei",
-        "zu_ZA": "Taipei",
-        "sr@latin": "Tajpej",
-        "tt@iqtelif": "Taipei"
+        "zu_ZA": "Taipei"
     },
     "TTT": {
         "af": "Taitung",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Taitung",
         "sq_XK": "Taitung",
         "sr": "Тајтунг",
+        "sr@latin": "Tajtung",
         "sr_Cyrl": "Тајтунг",
         "sr_Cyrl_BA": "Тајтунг",
         "sr_Cyrl_ME": "Тајтунг",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Taitung",
         "tr_TR": "Taitung",
         "tt": "Taitung",
+        "tt@iqtelif": "Taitung",
         "tt_RU": "Taitung",
         "twq": "Taitung",
         "twq_NE": "Taitung",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Taitung",
         "zh_Hant_TW": "Taitung",
         "zu": "Taitung",
-        "zu_ZA": "Taitung",
-        "sr@latin": "Tajtung",
-        "tt@iqtelif": "Taitung"
+        "zu_ZA": "Taitung"
     },
     "TXG": {
         "af": "Taichung",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Taichung",
         "sq_XK": "Taichung",
         "sr": "Taichung",
+        "sr@latin": "Taichung",
         "sr_Cyrl": "Taichung",
         "sr_Cyrl_BA": "Taichung",
         "sr_Cyrl_ME": "Taichung",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Taichung",
         "tr_TR": "Taichung",
         "tt": "Taichung",
+        "tt@iqtelif": "Taichung",
         "tt_RU": "Taichung",
         "twq": "Taichung",
         "twq_NE": "Taichung",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Taichung",
         "zh_Hant_TW": "Taichung",
         "zu": "Taichung",
-        "zu_ZA": "Taichung",
-        "sr@latin": "Taichung",
-        "tt@iqtelif": "Taichung"
+        "zu_ZA": "Taichung"
     },
     "YUN": {
         "af": "Yunlin",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Yunlin",
         "sq_XK": "Yunlin",
         "sr": "Yunlin",
+        "sr@latin": "Yunlin",
         "sr_Cyrl": "Yunlin",
         "sr_Cyrl_BA": "Yunlin",
         "sr_Cyrl_ME": "Yunlin",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Yunlin",
         "tr_TR": "Yunlin",
         "tt": "Yunlin",
+        "tt@iqtelif": "Yunlin",
         "tt_RU": "Yunlin",
         "twq": "Yunlin",
         "twq_NE": "Yunlin",
@@ -19465,8 +19467,6 @@
         "zh_Hant_MY": "Yunlin",
         "zh_Hant_TW": "Yunlin",
         "zu": "Yunlin",
-        "zu_ZA": "Yunlin",
-        "sr@latin": "Yunlin",
-        "tt@iqtelif": "Yunlin"
+        "zu_ZA": "Yunlin"
     }
 }

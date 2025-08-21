@@ -743,6 +743,7 @@
         "sq_MK": "Awdal",
         "sq_XK": "Awdal",
         "sr": "Авдал",
+        "sr@latin": "Avdal",
         "sr_Cyrl": "Авдал",
         "sr_Cyrl_BA": "Авдал",
         "sr_Cyrl_ME": "Авдал",
@@ -803,6 +804,7 @@
         "tr_CY": "Awdal",
         "tr_TR": "Awdal",
         "tt": "Awdal",
+        "tt@iqtelif": "Awdal",
         "tt_RU": "Awdal",
         "twq": "Awdal",
         "twq_NE": "Awdal",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Awdal",
         "zh_Hant_TW": "Awdal",
         "zu": "Awdal",
-        "zu_ZA": "Awdal",
-        "sr@latin": "Avdal",
-        "tt@iqtelif": "Awdal"
+        "zu_ZA": "Awdal"
     },
     "BK": {
         "af": "Bakool",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bakool",
         "sq_XK": "Bakool",
         "sr": "Бакул",
+        "sr@latin": "Bakul",
         "sr_Cyrl": "Бакул",
         "sr_Cyrl_BA": "Бакул",
         "sr_Cyrl_ME": "Бакул",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bakool",
         "tr_TR": "Bakool",
         "tt": "Bakool",
+        "tt@iqtelif": "Bakool",
         "tt_RU": "Bakool",
         "twq": "Bakool",
         "twq_NE": "Bakool",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bakool",
         "zh_Hant_TW": "Bakool",
         "zu": "Bakool",
-        "zu_ZA": "Bakool",
-        "sr@latin": "Bakul",
-        "tt@iqtelif": "Bakool"
+        "zu_ZA": "Bakool"
     },
     "BN": {
         "af": "Banaadir",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Banaadir",
         "sq_XK": "Banaadir",
         "sr": "Банадир",
+        "sr@latin": "Banadir",
         "sr_Cyrl": "Банадир",
         "sr_Cyrl_BA": "Банадир",
         "sr_Cyrl_ME": "Банадир",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Banaadir",
         "tr_TR": "Banaadir",
         "tt": "Banaadir",
+        "tt@iqtelif": "Banaadir",
         "tt_RU": "Banaadir",
         "twq": "Banaadir",
         "twq_NE": "Banaadir",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Banaadir",
         "zh_Hant_TW": "Banaadir",
         "zu": "Banaadir",
-        "zu_ZA": "Banaadir",
-        "sr@latin": "Banadir",
-        "tt@iqtelif": "Banaadir"
+        "zu_ZA": "Banaadir"
     },
     "BR": {
         "af": "Bari",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Bari",
         "sq_XK": "Bari",
         "sr": "Бари",
+        "sr@latin": "Bari",
         "sr_Cyrl": "Бари",
         "sr_Cyrl_BA": "Бари",
         "sr_Cyrl_ME": "Бари",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Bari",
         "tr_TR": "Bari",
         "tt": "Bari",
+        "tt@iqtelif": "Bari",
         "tt_RU": "Bari",
         "twq": "Bari",
         "twq_NE": "Bari",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Bari",
         "zh_Hant_TW": "Bari",
         "zu": "Bari",
-        "zu_ZA": "Bari",
-        "sr@latin": "Bari",
-        "tt@iqtelif": "Bari"
+        "zu_ZA": "Bari"
     },
     "BY": {
         "af": "Bay",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bay",
         "sq_XK": "Bay",
         "sr": "Беј",
+        "sr@latin": "Bej",
         "sr_Cyrl": "Беј",
         "sr_Cyrl_BA": "Беј",
         "sr_Cyrl_ME": "Беј",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bay",
         "tr_TR": "Bay",
         "tt": "Bay",
+        "tt@iqtelif": "Bay",
         "tt_RU": "Bay",
         "twq": "Bay",
         "twq_NE": "Bay",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bay",
         "zh_Hant_TW": "Bay",
         "zu": "Bay",
-        "zu_ZA": "Bay",
-        "sr@latin": "Bej",
-        "tt@iqtelif": "Bay"
+        "zu_ZA": "Bay"
     },
     "GA": {
         "af": "Galguduud",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Galguduud",
         "sq_XK": "Galguduud",
         "sr": "Галгудуд",
+        "sr@latin": "Galgudud",
         "sr_Cyrl": "Галгудуд",
         "sr_Cyrl_BA": "Галгудуд",
         "sr_Cyrl_ME": "Галгудуд",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Galguduud",
         "tr_TR": "Galguduud",
         "tt": "Galguduud",
+        "tt@iqtelif": "Galguduud",
         "tt_RU": "Galguduud",
         "twq": "Galguduud",
         "twq_NE": "Galguduud",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Galguduud",
         "zh_Hant_TW": "Galguduud",
         "zu": "Galguduud",
-        "zu_ZA": "Galguduud",
-        "sr@latin": "Galgudud",
-        "tt@iqtelif": "Galguduud"
+        "zu_ZA": "Galguduud"
     },
     "GE": {
         "af": "Gedo",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Gedo",
         "sq_XK": "Gedo",
         "sr": "Гедо",
+        "sr@latin": "Gedo",
         "sr_Cyrl": "Гедо",
         "sr_Cyrl_BA": "Гедо",
         "sr_Cyrl_ME": "Гедо",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Gedo",
         "tr_TR": "Gedo",
         "tt": "Gedo",
+        "tt@iqtelif": "Gedo",
         "tt_RU": "Gedo",
         "twq": "Gedo",
         "twq_NE": "Gedo",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Gedo",
         "zh_Hant_TW": "Gedo",
         "zu": "Gedo",
-        "zu_ZA": "Gedo",
-        "sr@latin": "Gedo",
-        "tt@iqtelif": "Gedo"
+        "zu_ZA": "Gedo"
     },
     "HI": {
         "af": "Hiiraan",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Hiiraan",
         "sq_XK": "Hiiraan",
         "sr": "Hiiraan",
+        "sr@latin": "Hiiraan",
         "sr_Cyrl": "Hiiraan",
         "sr_Cyrl_BA": "Hiiraan",
         "sr_Cyrl_ME": "Hiiraan",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Hiiraan",
         "tr_TR": "Hiiraan",
         "tt": "Hiiraan",
+        "tt@iqtelif": "Hiiraan",
         "tt_RU": "Hiiraan",
         "twq": "Hiiraan",
         "twq_NE": "Hiiraan",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Hiiraan",
         "zh_Hant_TW": "Hiiraan",
         "zu": "Hiiraan",
-        "zu_ZA": "Hiiraan",
-        "sr@latin": "Hiiraan",
-        "tt@iqtelif": "Hiiraan"
+        "zu_ZA": "Hiiraan"
     },
     "JD": {
         "af": "Jubbada Dhexe",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Jubbada Dhexe",
         "sq_XK": "Jubbada Dhexe",
         "sr": "Jubbada Dhexe",
+        "sr@latin": "Jubbada Dhexe",
         "sr_Cyrl": "Jubbada Dhexe",
         "sr_Cyrl_BA": "Jubbada Dhexe",
         "sr_Cyrl_ME": "Jubbada Dhexe",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Jubbada Dhexe",
         "tr_TR": "Jubbada Dhexe",
         "tt": "Jubbada Dhexe",
+        "tt@iqtelif": "Jubbada Dhexe",
         "tt_RU": "Jubbada Dhexe",
         "twq": "Jubbada Dhexe",
         "twq_NE": "Jubbada Dhexe",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Jubbada Dhexe",
         "zh_Hant_TW": "Jubbada Dhexe",
         "zu": "Jubbada Dhexe",
-        "zu_ZA": "Jubbada Dhexe",
-        "sr@latin": "Jubbada Dhexe",
-        "tt@iqtelif": "Jubbada Dhexe"
+        "zu_ZA": "Jubbada Dhexe"
     },
     "JH": {
         "af": "Jubbada Hoose",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Jubbada Hoose",
         "sq_XK": "Jubbada Hoose",
         "sr": "Jubbada Hoose",
+        "sr@latin": "Jubbada Hoose",
         "sr_Cyrl": "Jubbada Hoose",
         "sr_Cyrl_BA": "Jubbada Hoose",
         "sr_Cyrl_ME": "Jubbada Hoose",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Jubbada Hoose",
         "tr_TR": "Jubbada Hoose",
         "tt": "Jubbada Hoose",
+        "tt@iqtelif": "Jubbada Hoose",
         "tt_RU": "Jubbada Hoose",
         "twq": "Jubbada Hoose",
         "twq_NE": "Jubbada Hoose",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Jubbada Hoose",
         "zh_Hant_TW": "Jubbada Hoose",
         "zu": "Jubbada Hoose",
-        "zu_ZA": "Jubbada Hoose",
-        "sr@latin": "Jubbada Hoose",
-        "tt@iqtelif": "Jubbada Hoose"
+        "zu_ZA": "Jubbada Hoose"
     },
     "MU": {
         "af": "Mudug",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Mudug",
         "sq_XK": "Mudug",
         "sr": "Мудуг",
+        "sr@latin": "Mudug",
         "sr_Cyrl": "Мудуг",
         "sr_Cyrl_BA": "Мудуг",
         "sr_Cyrl_ME": "Мудуг",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Mudug",
         "tr_TR": "Mudug",
         "tt": "Mudug",
+        "tt@iqtelif": "Mudug",
         "tt_RU": "Mudug",
         "twq": "Mudug",
         "twq_NE": "Mudug",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Mudug",
         "zh_Hant_TW": "Mudug",
         "zu": "Mudug",
-        "zu_ZA": "Mudug",
-        "sr@latin": "Mudug",
-        "tt@iqtelif": "Mudug"
+        "zu_ZA": "Mudug"
     },
     "NU": {
         "af": "Nugaal",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Nugaal",
         "sq_XK": "Nugaal",
         "sr": "Нугал",
+        "sr@latin": "Nugal",
         "sr_Cyrl": "Нугал",
         "sr_Cyrl_BA": "Нугал",
         "sr_Cyrl_ME": "Нугал",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Nugaal",
         "tr_TR": "Nugaal",
         "tt": "Nugaal",
+        "tt@iqtelif": "Nugaal",
         "tt_RU": "Nugaal",
         "twq": "Nugaal",
         "twq_NE": "Nugaal",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Nugaal",
         "zh_Hant_TW": "Nugaal",
         "zu": "Nugaal",
-        "zu_ZA": "Nugaal",
-        "sr@latin": "Nugal",
-        "tt@iqtelif": "Nugaal"
+        "zu_ZA": "Nugaal"
     },
     "SA": {
         "af": "Sanaag",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Sanaag",
         "sq_XK": "Sanaag",
         "sr": "Sanaag",
+        "sr@latin": "Sanaag",
         "sr_Cyrl": "Sanaag",
         "sr_Cyrl_BA": "Sanaag",
         "sr_Cyrl_ME": "Sanaag",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Sanaag",
         "tr_TR": "Sanaag",
         "tt": "Sanaag",
+        "tt@iqtelif": "Sanaag",
         "tt_RU": "Sanaag",
         "twq": "Sanaag",
         "twq_NE": "Sanaag",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Sanaag",
         "zh_Hant_TW": "Sanaag",
         "zu": "Sanaag",
-        "zu_ZA": "Sanaag",
-        "sr@latin": "Sanaag",
-        "tt@iqtelif": "Sanaag"
+        "zu_ZA": "Sanaag"
     },
     "SD": {
         "af": "Shabeellaha Dhexe",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Shabeellaha Dhexe",
         "sq_XK": "Shabeellaha Dhexe",
         "sr": "Shabeellaha Dhexe",
+        "sr@latin": "Shabeellaha Dhexe",
         "sr_Cyrl": "Shabeellaha Dhexe",
         "sr_Cyrl_BA": "Shabeellaha Dhexe",
         "sr_Cyrl_ME": "Shabeellaha Dhexe",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Shabeellaha Dhexe",
         "tr_TR": "Shabeellaha Dhexe",
         "tt": "Shabeellaha Dhexe",
+        "tt@iqtelif": "Shabeellaha Dhexe",
         "tt_RU": "Shabeellaha Dhexe",
         "twq": "Shabeellaha Dhexe",
         "twq_NE": "Shabeellaha Dhexe",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Shabeellaha Dhexe",
         "zh_Hant_TW": "Shabeellaha Dhexe",
         "zu": "Shabeellaha Dhexe",
-        "zu_ZA": "Shabeellaha Dhexe",
-        "sr@latin": "Shabeellaha Dhexe",
-        "tt@iqtelif": "Shabeellaha Dhexe"
+        "zu_ZA": "Shabeellaha Dhexe"
     },
     "SH": {
         "af": "Shabeellaha Hoose",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Shabeellaha Hoose",
         "sq_XK": "Shabeellaha Hoose",
         "sr": "Shabeellaha Hoose",
+        "sr@latin": "Shabeellaha Hoose",
         "sr_Cyrl": "Shabeellaha Hoose",
         "sr_Cyrl_BA": "Shabeellaha Hoose",
         "sr_Cyrl_ME": "Shabeellaha Hoose",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Shabeellaha Hoose",
         "tr_TR": "Shabeellaha Hoose",
         "tt": "Shabeellaha Hoose",
+        "tt@iqtelif": "Shabeellaha Hoose",
         "tt_RU": "Shabeellaha Hoose",
         "twq": "Shabeellaha Hoose",
         "twq_NE": "Shabeellaha Hoose",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Shabeellaha Hoose",
         "zh_Hant_TW": "Shabeellaha Hoose",
         "zu": "Shabeellaha Hoose",
-        "zu_ZA": "Shabeellaha Hoose",
-        "sr@latin": "Shabeellaha Hoose",
-        "tt@iqtelif": "Shabeellaha Hoose"
+        "zu_ZA": "Shabeellaha Hoose"
     },
     "SO": {
         "af": "Sool",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Sool",
         "sq_XK": "Sool",
         "sr": "Sool",
+        "sr@latin": "Sool",
         "sr_Cyrl": "Sool",
         "sr_Cyrl_BA": "Sool",
         "sr_Cyrl_ME": "Sool",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Sool",
         "tr_TR": "Sool",
         "tt": "Sool",
+        "tt@iqtelif": "Sool",
         "tt_RU": "Sool",
         "twq": "Sool",
         "twq_NE": "Sool",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Sool",
         "zh_Hant_TW": "Sool",
         "zu": "Sool",
-        "zu_ZA": "Sool",
-        "sr@latin": "Sool",
-        "tt@iqtelif": "Sool"
+        "zu_ZA": "Sool"
     },
     "TO": {
         "af": "Togdheer",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Togdheer",
         "sq_XK": "Togdheer",
         "sr": "Togdheer",
+        "sr@latin": "Togdheer",
         "sr_Cyrl": "Togdheer",
         "sr_Cyrl_BA": "Togdheer",
         "sr_Cyrl_ME": "Togdheer",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Togdheer",
         "tr_TR": "Togdheer",
         "tt": "Togdheer",
+        "tt@iqtelif": "Togdheer",
         "tt_RU": "Togdheer",
         "twq": "Togdheer",
         "twq_NE": "Togdheer",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Togdheer",
         "zh_Hant_TW": "Togdheer",
         "zu": "Togdheer",
-        "zu_ZA": "Togdheer",
-        "sr@latin": "Togdheer",
-        "tt@iqtelif": "Togdheer"
+        "zu_ZA": "Togdheer"
     },
     "WO": {
         "af": "Woqooyi Galbeed",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Woqooyi Galbeed",
         "sq_XK": "Woqooyi Galbeed",
         "sr": "Woqooyi Galbeed",
+        "sr@latin": "Woqooyi Galbeed",
         "sr_Cyrl": "Woqooyi Galbeed",
         "sr_Cyrl_BA": "Woqooyi Galbeed",
         "sr_Cyrl_ME": "Woqooyi Galbeed",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Woqooyi Galbeed",
         "tr_TR": "Woqooyi Galbeed",
         "tt": "Woqooyi Galbeed",
+        "tt@iqtelif": "Woqooyi Galbeed",
         "tt_RU": "Woqooyi Galbeed",
         "twq": "Woqooyi Galbeed",
         "twq_NE": "Woqooyi Galbeed",
@@ -15925,8 +15927,6 @@
         "zh_Hant_MY": "Woqooyi Galbeed",
         "zh_Hant_TW": "Woqooyi Galbeed",
         "zu": "Woqooyi Galbeed",
-        "zu_ZA": "Woqooyi Galbeed",
-        "sr@latin": "Woqooyi Galbeed",
-        "tt@iqtelif": "Woqooyi Galbeed"
+        "zu_ZA": "Woqooyi Galbeed"
     }
 }

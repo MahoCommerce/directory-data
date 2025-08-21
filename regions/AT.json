@@ -743,6 +743,7 @@
         "sq_MK": "Burgenland",
         "sq_XK": "Burgenland",
         "sr": "Бургенленд",
+        "sr@latin": "Burgenlend",
         "sr_Cyrl": "Бургенленд",
         "sr_Cyrl_BA": "Бургенленд",
         "sr_Cyrl_ME": "Бургенленд",
@@ -803,6 +804,7 @@
         "tr_CY": "Burgenland",
         "tr_TR": "Burgenland",
         "tt": "Burgenland",
+        "tt@iqtelif": "Burgenland",
         "tt_RU": "Burgenland",
         "twq": "Burgenland",
         "twq_NE": "Burgenland",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Burgenland",
         "zh_Hant_TW": "Burgenland",
         "zu": "Burgenland",
-        "zu_ZA": "Burgenland",
-        "sr@latin": "Burgenlend",
-        "tt@iqtelif": "Burgenland"
+        "zu_ZA": "Burgenland"
     },
     "2": {
         "af": "Kärnten",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kärnten",
         "sq_XK": "Kärnten",
         "sr": "Карнтен",
+        "sr@latin": "Karnten",
         "sr_Cyrl": "Карнтен",
         "sr_Cyrl_BA": "Карнтен",
         "sr_Cyrl_ME": "Карнтен",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Karnten",
         "tr_TR": "Karnten",
         "tt": "Kärnten",
+        "tt@iqtelif": "Kärnten",
         "tt_RU": "Kärnten",
         "twq": "Kärnten",
         "twq_NE": "Kärnten",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kärnten",
         "zh_Hant_TW": "Kärnten",
         "zu": "Kärnten",
-        "zu_ZA": "Kärnten",
-        "sr@latin": "Karnten",
-        "tt@iqtelif": "Kärnten"
+        "zu_ZA": "Kärnten"
     },
     "3": {
         "af": "Niederösterreich",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Niederösterreich",
         "sq_XK": "Niederösterreich",
         "sr": "Доња Аустрија",
+        "sr@latin": "Donja Austrija",
         "sr_Cyrl": "Доња Аустрија",
         "sr_Cyrl_BA": "Доња Аустрија",
         "sr_Cyrl_ME": "Доња Аустрија",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Niederösterreich",
         "tr_TR": "Niederösterreich",
         "tt": "Niederösterreich",
+        "tt@iqtelif": "Niederösterreich",
         "tt_RU": "Niederösterreich",
         "twq": "Niederösterreich",
         "twq_NE": "Niederösterreich",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Niederösterreich",
         "zh_Hant_TW": "Niederösterreich",
         "zu": "Niederösterreich",
-        "zu_ZA": "Niederösterreich",
-        "sr@latin": "Donja Austrija",
-        "tt@iqtelif": "Niederösterreich"
+        "zu_ZA": "Niederösterreich"
     },
     "4": {
         "af": "Oberösterreich",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Oberösterreich",
         "sq_XK": "Oberösterreich",
         "sr": "Горња Аустрија",
+        "sr@latin": "Gornja Austrija",
         "sr_Cyrl": "Горња Аустрија",
         "sr_Cyrl_BA": "Горња Аустрија",
         "sr_Cyrl_ME": "Горња Аустрија",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Oberösterreich",
         "tr_TR": "Oberösterreich",
         "tt": "Oberösterreich",
+        "tt@iqtelif": "Oberösterreich",
         "tt_RU": "Oberösterreich",
         "twq": "Oberösterreich",
         "twq_NE": "Oberösterreich",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Oberösterreich",
         "zh_Hant_TW": "Oberösterreich",
         "zu": "Oberösterreich",
-        "zu_ZA": "Oberösterreich",
-        "sr@latin": "Gornja Austrija",
-        "tt@iqtelif": "Oberösterreich"
+        "zu_ZA": "Oberösterreich"
     },
     "5": {
         "af": "Salzburg",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Salzburg",
         "sq_XK": "Salzburg",
         "sr": "Салцбург",
+        "sr@latin": "Salcburg",
         "sr_Cyrl": "Салцбург",
         "sr_Cyrl_BA": "Салцбург",
         "sr_Cyrl_ME": "Салцбург",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Salzburg",
         "tr_TR": "Salzburg",
         "tt": "Salzburg",
+        "tt@iqtelif": "Salzburg",
         "tt_RU": "Salzburg",
         "twq": "Salzburg",
         "twq_NE": "Salzburg",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Salzburg",
         "zh_Hant_TW": "Salzburg",
         "zu": "Salzburg",
-        "zu_ZA": "Salzburg",
-        "sr@latin": "Salcburg",
-        "tt@iqtelif": "Salzburg"
+        "zu_ZA": "Salzburg"
     },
     "6": {
         "af": "Steiermark",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Steiermark",
         "sq_XK": "Steiermark",
         "sr": "Штајермарк",
+        "sr@latin": "Štajermark",
         "sr_Cyrl": "Штајермарк",
         "sr_Cyrl_BA": "Штајермарк",
         "sr_Cyrl_ME": "Штајермарк",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Steiermark",
         "tr_TR": "Steiermark",
         "tt": "Steiermark",
+        "tt@iqtelif": "Steiermark",
         "tt_RU": "Steiermark",
         "twq": "Steiermark",
         "twq_NE": "Steiermark",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Steiermark",
         "zh_Hant_TW": "Steiermark",
         "zu": "Steiermark",
-        "zu_ZA": "Steiermark",
-        "sr@latin": "Štajermark",
-        "tt@iqtelif": "Steiermark"
+        "zu_ZA": "Steiermark"
     },
     "7": {
         "af": "Tirol",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Tirol",
         "sq_XK": "Tirol",
         "sr": "Тирол",
+        "sr@latin": "Tirol",
         "sr_Cyrl": "Тирол",
         "sr_Cyrl_BA": "Тирол",
         "sr_Cyrl_ME": "Тирол",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Tirol",
         "tr_TR": "Tirol",
         "tt": "Tirol",
+        "tt@iqtelif": "Tirol",
         "tt_RU": "Tirol",
         "twq": "Tirol",
         "twq_NE": "Tirol",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Tirol",
         "zh_Hant_TW": "Tirol",
         "zu": "Tirol",
-        "zu_ZA": "Tirol",
-        "sr@latin": "Tirol",
-        "tt@iqtelif": "Tirol"
+        "zu_ZA": "Tirol"
     },
     "8": {
         "af": "Vorarlberg",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Vorarlberg",
         "sq_XK": "Vorarlberg",
         "sr": "Ворарлберг",
+        "sr@latin": "Vorarlberg",
         "sr_Cyrl": "Ворарлберг",
         "sr_Cyrl_BA": "Ворарлберг",
         "sr_Cyrl_ME": "Ворарлберг",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Vorarlberg",
         "tr_TR": "Vorarlberg",
         "tt": "Vorarlberg",
+        "tt@iqtelif": "Vorarlberg",
         "tt_RU": "Vorarlberg",
         "twq": "Vorarlberg",
         "twq_NE": "Vorarlberg",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Vorarlberg",
         "zh_Hant_TW": "Vorarlberg",
         "zu": "Vorarlberg",
-        "zu_ZA": "Vorarlberg",
-        "sr@latin": "Vorarlberg",
-        "tt@iqtelif": "Vorarlberg"
+        "zu_ZA": "Vorarlberg"
     },
     "9": {
         "af": "Wien",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Wien",
         "sq_XK": "Wien",
         "sr": "Беч",
+        "sr@latin": "Beč",
         "sr_Cyrl": "Беч",
         "sr_Cyrl_BA": "Беч",
         "sr_Cyrl_ME": "Беч",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Wien",
         "tr_TR": "Wien",
         "tt": "Wien",
+        "tt@iqtelif": "Wien",
         "tt_RU": "Wien",
         "twq": "Wien",
         "twq_NE": "Wien",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Wien",
         "zh_Hant_TW": "Wien",
         "zu": "Wien",
-        "zu_ZA": "Wien",
-        "sr@latin": "Beč",
-        "tt@iqtelif": "Wien"
+        "zu_ZA": "Wien"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Atlántida",
         "sq_XK": "Atlántida",
         "sr": "Атлантида",
+        "sr@latin": "Atlantida",
         "sr_Cyrl": "Атлантида",
         "sr_Cyrl_BA": "Атлантида",
         "sr_Cyrl_ME": "Атлантида",
@@ -803,6 +804,7 @@
         "tr_CY": "Atlantida",
         "tr_TR": "Atlantida",
         "tt": "Atlántida",
+        "tt@iqtelif": "Atlántida",
         "tt_RU": "Atlántida",
         "twq": "Atlántida",
         "twq_NE": "Atlántida",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Atlántida",
         "zh_Hant_TW": "Atlántida",
         "zu": "Atlántida",
-        "zu_ZA": "Atlántida",
-        "sr@latin": "Atlantida",
-        "tt@iqtelif": "Atlántida"
+        "zu_ZA": "Atlántida"
     },
     "CH": {
         "af": "Choluteca",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Choluteca",
         "sq_XK": "Choluteca",
         "sr": "Колутека",
+        "sr@latin": "Koluteka",
         "sr_Cyrl": "Колутека",
         "sr_Cyrl_BA": "Колутека",
         "sr_Cyrl_ME": "Колутека",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Choluteca",
         "tr_TR": "Choluteca",
         "tt": "Choluteca",
+        "tt@iqtelif": "Choluteca",
         "tt_RU": "Choluteca",
         "twq": "Choluteca",
         "twq_NE": "Choluteca",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Choluteca",
         "zh_Hant_TW": "Choluteca",
         "zu": "Choluteca",
-        "zu_ZA": "Choluteca",
-        "sr@latin": "Koluteka",
-        "tt@iqtelif": "Choluteca"
+        "zu_ZA": "Choluteca"
     },
     "CL": {
         "af": "Colón",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Colón",
         "sq_XK": "Colón",
         "sr": "Колон",
+        "sr@latin": "Kolon",
         "sr_Cyrl": "Колон",
         "sr_Cyrl_BA": "Колон",
         "sr_Cyrl_ME": "Колон",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Colon",
         "tr_TR": "Colon",
         "tt": "Colón",
+        "tt@iqtelif": "Colón",
         "tt_RU": "Colón",
         "twq": "Colón",
         "twq_NE": "Colón",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Colón",
         "zh_Hant_TW": "Colón",
         "zu": "Colón",
-        "zu_ZA": "Colón",
-        "sr@latin": "Kolon",
-        "tt@iqtelif": "Colón"
+        "zu_ZA": "Colón"
     },
     "CM": {
         "af": "Comayagua",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Comayagua",
         "sq_XK": "Comayagua",
         "sr": "Комајагва",
+        "sr@latin": "Komajagva",
         "sr_Cyrl": "Комајагва",
         "sr_Cyrl_BA": "Комајагва",
         "sr_Cyrl_ME": "Комајагва",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Comayagua",
         "tr_TR": "Comayagua",
         "tt": "Comayagua",
+        "tt@iqtelif": "Comayagua",
         "tt_RU": "Comayagua",
         "twq": "Comayagua",
         "twq_NE": "Comayagua",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Comayagua",
         "zh_Hant_TW": "Comayagua",
         "zu": "Comayagua",
-        "zu_ZA": "Comayagua",
-        "sr@latin": "Komajagva",
-        "tt@iqtelif": "Comayagua"
+        "zu_ZA": "Comayagua"
     },
     "CP": {
         "af": "Copán",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Copán",
         "sq_XK": "Copán",
         "sr": "Копан",
+        "sr@latin": "Kopan",
         "sr_Cyrl": "Копан",
         "sr_Cyrl_BA": "Копан",
         "sr_Cyrl_ME": "Копан",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Copan",
         "tr_TR": "Copan",
         "tt": "Copán",
+        "tt@iqtelif": "Copán",
         "tt_RU": "Copán",
         "twq": "Copán",
         "twq_NE": "Copán",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Copán",
         "zh_Hant_TW": "Copán",
         "zu": "Copán",
-        "zu_ZA": "Copán",
-        "sr@latin": "Kopan",
-        "tt@iqtelif": "Copán"
+        "zu_ZA": "Copán"
     },
     "CR": {
         "af": "Cortés",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Cortés",
         "sq_XK": "Cortés",
         "sr": "Кортез",
+        "sr@latin": "Kortez",
         "sr_Cyrl": "Кортез",
         "sr_Cyrl_BA": "Кортез",
         "sr_Cyrl_ME": "Кортез",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Cortes",
         "tr_TR": "Cortes",
         "tt": "Cortés",
+        "tt@iqtelif": "Cortés",
         "tt_RU": "Cortés",
         "twq": "Cortés",
         "twq_NE": "Cortés",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Cortés",
         "zh_Hant_TW": "Cortés",
         "zu": "Cortés",
-        "zu_ZA": "Cortés",
-        "sr@latin": "Kortez",
-        "tt@iqtelif": "Cortés"
+        "zu_ZA": "Cortés"
     },
     "EP": {
         "af": "El Paraíso",
@@ -6053,6 +6053,7 @@
         "sq_MK": "El Paraíso",
         "sq_XK": "El Paraíso",
         "sr": "Ел Параисо",
+        "sr@latin": "El Paraiso",
         "sr_Cyrl": "Ел Параисо",
         "sr_Cyrl_BA": "Ел Параисо",
         "sr_Cyrl_ME": "Ел Параисо",
@@ -6113,6 +6114,7 @@
         "tr_CY": "El Paraiso",
         "tr_TR": "El Paraiso",
         "tt": "El Paraíso",
+        "tt@iqtelif": "El Paraíso",
         "tt_RU": "El Paraíso",
         "twq": "El Paraíso",
         "twq_NE": "El Paraíso",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "El Paraíso",
         "zh_Hant_TW": "El Paraíso",
         "zu": "El Paraíso",
-        "zu_ZA": "El Paraíso",
-        "sr@latin": "El Paraiso",
-        "tt@iqtelif": "El Paraíso"
+        "zu_ZA": "El Paraíso"
     },
     "FM": {
         "af": "Francisco Morazán",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Francisco Morazán",
         "sq_XK": "Francisco Morazán",
         "sr": "Франциско Морацан",
+        "sr@latin": "Francisko Moracan",
         "sr_Cyrl": "Франциско Морацан",
         "sr_Cyrl_BA": "Франциско Морацан",
         "sr_Cyrl_ME": "Франциско Морацан",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Francisco Morazán",
         "tr_TR": "Francisco Morazán",
         "tt": "Francisco Morazán",
+        "tt@iqtelif": "Francisco Morazán",
         "tt_RU": "Francisco Morazán",
         "twq": "Francisco Morazán",
         "twq_NE": "Francisco Morazán",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Francisco Morazán",
         "zh_Hant_TW": "Francisco Morazán",
         "zu": "Francisco Morazán",
-        "zu_ZA": "Francisco Morazán",
-        "sr@latin": "Francisko Moracan",
-        "tt@iqtelif": "Francisco Morazán"
+        "zu_ZA": "Francisco Morazán"
     },
     "GD": {
         "af": "Gracias a Dios",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Gracias a Dios",
         "sq_XK": "Gracias a Dios",
         "sr": "Грациас а Диос",
+        "sr@latin": "Gracias a Dios",
         "sr_Cyrl": "Грациас а Диос",
         "sr_Cyrl_BA": "Грациас а Диос",
         "sr_Cyrl_ME": "Грациас а Диос",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Gracias a Dios",
         "tr_TR": "Gracias a Dios",
         "tt": "Gracias a Dios",
+        "tt@iqtelif": "Gracias a Dios",
         "tt_RU": "Gracias a Dios",
         "twq": "Gracias a Dios",
         "twq_NE": "Gracias a Dios",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Gracias a Dios",
         "zh_Hant_TW": "Gracias a Dios",
         "zu": "Gracias a Dios",
-        "zu_ZA": "Gracias a Dios",
-        "sr@latin": "Gracias a Dios",
-        "tt@iqtelif": "Gracias a Dios"
+        "zu_ZA": "Gracias a Dios"
     },
     "IB": {
         "af": "Islas de la Bahía",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Islas de la Bahía",
         "sq_XK": "Islas de la Bahía",
         "sr": "Islas de la Bahía",
+        "sr@latin": "Islas de la Bahía",
         "sr_Cyrl": "Islas de la Bahía",
         "sr_Cyrl_BA": "Islas de la Bahía",
         "sr_Cyrl_ME": "Islas de la Bahía",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Islas de la Bahía",
         "tr_TR": "Islas de la Bahía",
         "tt": "Islas de la Bahía",
+        "tt@iqtelif": "Islas de la Bahía",
         "tt_RU": "Islas de la Bahía",
         "twq": "Islas de la Bahía",
         "twq_NE": "Islas de la Bahía",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Islas de la Bahía",
         "zh_Hant_TW": "Islas de la Bahía",
         "zu": "Islas de la Bahía",
-        "zu_ZA": "Islas de la Bahía",
-        "sr@latin": "Islas de la Bahía",
-        "tt@iqtelif": "Islas de la Bahía"
+        "zu_ZA": "Islas de la Bahía"
     },
     "IN": {
         "af": "Intibucá",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Intibucá",
         "sq_XK": "Intibucá",
         "sr": "Интибука",
+        "sr@latin": "Intibuka",
         "sr_Cyrl": "Интибука",
         "sr_Cyrl_BA": "Интибука",
         "sr_Cyrl_ME": "Интибука",
@@ -9653,6 +9654,7 @@
         "tr_CY": "İntibuca",
         "tr_TR": "İntibuca",
         "tt": "Intibucá",
+        "tt@iqtelif": "Intibucá",
         "tt_RU": "Intibucá",
         "twq": "Intibucá",
         "twq_NE": "Intibucá",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Intibucá",
         "zh_Hant_TW": "Intibucá",
         "zu": "Intibucá",
-        "zu_ZA": "Intibucá",
-        "sr@latin": "Intibuka",
-        "tt@iqtelif": "Intibucá"
+        "zu_ZA": "Intibucá"
     },
     "LE": {
         "af": "Lempira",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Lempira",
         "sq_XK": "Lempira",
         "sr": "Лемпира",
+        "sr@latin": "Lempira",
         "sr_Cyrl": "Лемпира",
         "sr_Cyrl_BA": "Лемпира",
         "sr_Cyrl_ME": "Лемпира",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Lempira",
         "tr_TR": "Lempira",
         "tt": "Lempira",
+        "tt@iqtelif": "Lempira",
         "tt_RU": "Lempira",
         "twq": "Lempira",
         "twq_NE": "Lempira",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Lempira",
         "zh_Hant_TW": "Lempira",
         "zu": "Lempira",
-        "zu_ZA": "Lempira",
-        "sr@latin": "Lempira",
-        "tt@iqtelif": "Lempira"
+        "zu_ZA": "Lempira"
     },
     "LP": {
         "af": "La Paz",
@@ -11363,6 +11363,7 @@
         "sq_MK": "La Paz",
         "sq_XK": "La Paz",
         "sr": "Ла Паз",
+        "sr@latin": "La Paz",
         "sr_Cyrl": "Ла Паз",
         "sr_Cyrl_BA": "Ла Паз",
         "sr_Cyrl_ME": "Ла Паз",
@@ -11423,6 +11424,7 @@
         "tr_CY": "La Paz",
         "tr_TR": "La Paz",
         "tt": "La Paz",
+        "tt@iqtelif": "La Paz",
         "tt_RU": "La Paz",
         "twq": "La Paz",
         "twq_NE": "La Paz",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "La Paz",
         "zh_Hant_TW": "La Paz",
         "zu": "La Paz",
-        "zu_ZA": "La Paz",
-        "sr@latin": "La Paz",
-        "tt@iqtelif": "La Paz"
+        "zu_ZA": "La Paz"
     },
     "OC": {
         "af": "Ocotepeque",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Ocotepeque",
         "sq_XK": "Ocotepeque",
         "sr": "Ocotepeque",
+        "sr@latin": "Ocotepeque",
         "sr_Cyrl": "Ocotepeque",
         "sr_Cyrl_BA": "Ocotepeque",
         "sr_Cyrl_ME": "Ocotepeque",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Ocotepeque",
         "tr_TR": "Ocotepeque",
         "tt": "Ocotepeque",
+        "tt@iqtelif": "Ocotepeque",
         "tt_RU": "Ocotepeque",
         "twq": "Ocotepeque",
         "twq_NE": "Ocotepeque",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Ocotepeque",
         "zh_Hant_TW": "Ocotepeque",
         "zu": "Ocotepeque",
-        "zu_ZA": "Ocotepeque",
-        "sr@latin": "Ocotepeque",
-        "tt@iqtelif": "Ocotepeque"
+        "zu_ZA": "Ocotepeque"
     },
     "OL": {
         "af": "Olancho",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Olancho",
         "sq_XK": "Olancho",
         "sr": "Olancho",
+        "sr@latin": "Olancho",
         "sr_Cyrl": "Olancho",
         "sr_Cyrl_BA": "Olancho",
         "sr_Cyrl_ME": "Olancho",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Olancho",
         "tr_TR": "Olancho",
         "tt": "Olancho",
+        "tt@iqtelif": "Olancho",
         "tt_RU": "Olancho",
         "twq": "Olancho",
         "twq_NE": "Olancho",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Olancho",
         "zh_Hant_TW": "Olancho",
         "zu": "Olancho",
-        "zu_ZA": "Olancho",
-        "sr@latin": "Olancho",
-        "tt@iqtelif": "Olancho"
+        "zu_ZA": "Olancho"
     },
     "SB": {
         "af": "Santa Bárbara",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Santa Bárbara",
         "sq_XK": "Santa Bárbara",
         "sr": "Санта Барбара",
+        "sr@latin": "Santa Barbara",
         "sr_Cyrl": "Санта Барбара",
         "sr_Cyrl_BA": "Санта Барбара",
         "sr_Cyrl_ME": "Санта Барбара",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Santa Barbara",
         "tr_TR": "Santa Barbara",
         "tt": "Santa Bárbara",
+        "tt@iqtelif": "Santa Bárbara",
         "tt_RU": "Santa Bárbara",
         "twq": "Santa Bárbara",
         "twq_NE": "Santa Bárbara",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Santa Bárbara",
         "zh_Hant_TW": "Santa Bárbara",
         "zu": "Santa Bárbara",
-        "zu_ZA": "Santa Bárbara",
-        "sr@latin": "Santa Barbara",
-        "tt@iqtelif": "Santa Bárbara"
+        "zu_ZA": "Santa Bárbara"
     },
     "VA": {
         "af": "Valle",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Valle",
         "sq_XK": "Valle",
         "sr": "Вале",
+        "sr@latin": "Vale",
         "sr_Cyrl": "Вале",
         "sr_Cyrl_BA": "Вале",
         "sr_Cyrl_ME": "Вале",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Valle",
         "tr_TR": "Valle",
         "tt": "Valle",
+        "tt@iqtelif": "Valle",
         "tt_RU": "Valle",
         "twq": "Valle",
         "twq_NE": "Valle",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Valle",
         "zh_Hant_TW": "Valle",
         "zu": "Valle",
-        "zu_ZA": "Valle",
-        "sr@latin": "Vale",
-        "tt@iqtelif": "Valle"
+        "zu_ZA": "Valle"
     },
     "YO": {
         "af": "Yoro",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Yoro",
         "sq_XK": "Yoro",
         "sr": "Јоро",
+        "sr@latin": "Joro",
         "sr_Cyrl": "Јоро",
         "sr_Cyrl_BA": "Јоро",
         "sr_Cyrl_ME": "Јоро",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Yoro",
         "tr_TR": "Yoro",
         "tt": "Yoro",
+        "tt@iqtelif": "Yoro",
         "tt_RU": "Yoro",
         "twq": "Yoro",
         "twq_NE": "Yoro",
@@ -15925,8 +15927,6 @@
         "zh_Hant_MY": "Yoro",
         "zh_Hant_TW": "Yoro",
         "zu": "Yoro",
-        "zu_ZA": "Yoro",
-        "sr@latin": "Joro",
-        "tt@iqtelif": "Yoro"
+        "zu_ZA": "Yoro"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Saint Andrew",
         "sq_XK": "Saint Andrew",
         "sr": "Свети Андреја",
+        "sr@latin": "Sveti Andreja",
         "sr_Cyrl": "Свети Андреја",
         "sr_Cyrl_BA": "Свети Андреја",
         "sr_Cyrl_ME": "Свети Андреја",
@@ -803,6 +804,7 @@
         "tr_CY": "Saint Andrew",
         "tr_TR": "Saint Andrew",
         "tt": "Saint Andrew",
+        "tt@iqtelif": "Saint Andrew",
         "tt_RU": "Saint Andrew",
         "twq": "Saint Andrew",
         "twq_NE": "Saint Andrew",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew",
-        "sr@latin": "Sveti Andreja",
-        "tt@iqtelif": "Saint Andrew"
+        "zu_ZA": "Saint Andrew"
     },
     "03": {
         "af": "Saint David",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint David",
         "sq_XK": "Saint David",
         "sr": "Свети Давид",
+        "sr@latin": "Sveti David",
         "sr_Cyrl": "Свети Давид",
         "sr_Cyrl_BA": "Свети Давид",
         "sr_Cyrl_ME": "Свети Давид",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint David",
         "tr_TR": "Saint David",
         "tt": "Saint David",
+        "tt@iqtelif": "Saint David",
         "tt_RU": "Saint David",
         "twq": "Saint David",
         "twq_NE": "Saint David",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint David",
         "zh_Hant_TW": "Saint David",
         "zu": "Saint David",
-        "zu_ZA": "Saint David",
-        "sr@latin": "Sveti David",
-        "tt@iqtelif": "Saint David"
+        "zu_ZA": "Saint David"
     },
     "04": {
         "af": "Saint George",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint George",
         "sq_XK": "Saint George",
         "sr": "Сент Џорџ",
+        "sr@latin": "Sent Džordž",
         "sr_Cyrl": "Сент Џорџ",
         "sr_Cyrl_BA": "Сент Џорџ",
         "sr_Cyrl_ME": "Сент Џорџ",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint George",
         "tr_TR": "Saint George",
         "tt": "Saint George",
+        "tt@iqtelif": "Saint George",
         "tt_RU": "Saint George",
         "twq": "Saint George",
         "twq_NE": "Saint George",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George",
-        "sr@latin": "Sent Džordž",
-        "tt@iqtelif": "Saint George"
+        "zu_ZA": "Saint George"
     },
     "05": {
         "af": "Saint John",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Saint John",
         "sq_XK": "Saint John",
         "sr": "Сент Џон",
+        "sr@latin": "Sent Džon",
         "sr_Cyrl": "Сент Џон",
         "sr_Cyrl_BA": "Сент Џон",
         "sr_Cyrl_ME": "Сент Џон",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Saint John",
         "tr_TR": "Saint John",
         "tt": "Saint John",
+        "tt@iqtelif": "Saint John",
         "tt_RU": "Saint John",
         "twq": "Saint John",
         "twq_NE": "Saint John",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John",
-        "sr@latin": "Sent Džon",
-        "tt@iqtelif": "Saint John"
+        "zu_ZA": "Saint John"
     },
     "06": {
         "af": "Saint Joseph",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint Joseph",
         "sq_XK": "Saint Joseph",
         "sr": "Свети Јозеф",
+        "sr@latin": "Sveti Jozef",
         "sr_Cyrl": "Свети Јозеф",
         "sr_Cyrl_BA": "Свети Јозеф",
         "sr_Cyrl_ME": "Свети Јозеф",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint Joseph",
         "tr_TR": "Saint Joseph",
         "tt": "Saint Joseph",
+        "tt@iqtelif": "Saint Joseph",
         "tt_RU": "Saint Joseph",
         "twq": "Saint Joseph",
         "twq_NE": "Saint Joseph",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint Joseph",
         "zh_Hant_TW": "Saint Joseph",
         "zu": "Saint Joseph",
-        "zu_ZA": "Saint Joseph",
-        "sr@latin": "Sveti Jozef",
-        "tt@iqtelif": "Saint Joseph"
+        "zu_ZA": "Saint Joseph"
     },
     "07": {
         "af": "Saint Luke",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Saint Luke",
         "sq_XK": "Saint Luke",
         "sr": "Свети Лука",
+        "sr@latin": "Sveti Luka",
         "sr_Cyrl": "Свети Лука",
         "sr_Cyrl_BA": "Свети Лука",
         "sr_Cyrl_ME": "Свети Лука",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Saint Luke",
         "tr_TR": "Saint Luke",
         "tt": "Saint Luke",
+        "tt@iqtelif": "Saint Luke",
         "tt_RU": "Saint Luke",
         "twq": "Saint Luke",
         "twq_NE": "Saint Luke",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Saint Luke",
         "zh_Hant_TW": "Saint Luke",
         "zu": "Saint Luke",
-        "zu_ZA": "Saint Luke",
-        "sr@latin": "Sveti Luka",
-        "tt@iqtelif": "Saint Luke"
+        "zu_ZA": "Saint Luke"
     },
     "08": {
         "af": "Saint Mark",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Saint Mark",
         "sq_XK": "Saint Mark",
         "sr": "Свети Марко",
+        "sr@latin": "Sveti Marko",
         "sr_Cyrl": "Свети Марко",
         "sr_Cyrl_BA": "Свети Марко",
         "sr_Cyrl_ME": "Свети Марко",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Saint Mark",
         "tr_TR": "Saint Mark",
         "tt": "Saint Mark",
+        "tt@iqtelif": "Saint Mark",
         "tt_RU": "Saint Mark",
         "twq": "Saint Mark",
         "twq_NE": "Saint Mark",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Saint Mark",
         "zh_Hant_TW": "Saint Mark",
         "zu": "Saint Mark",
-        "zu_ZA": "Saint Mark",
-        "sr@latin": "Sveti Marko",
-        "tt@iqtelif": "Saint Mark"
+        "zu_ZA": "Saint Mark"
     },
     "09": {
         "af": "Saint Patrick",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Saint Patrick",
         "sq_XK": "Saint Patrick",
         "sr": "Свети Патрик",
+        "sr@latin": "Sveti Patrik",
         "sr_Cyrl": "Свети Патрик",
         "sr_Cyrl_BA": "Свети Патрик",
         "sr_Cyrl_ME": "Свети Патрик",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Saint Patrick",
         "tr_TR": "Saint Patrick",
         "tt": "Saint Patrick",
+        "tt@iqtelif": "Saint Patrick",
         "tt_RU": "Saint Patrick",
         "twq": "Saint Patrick",
         "twq_NE": "Saint Patrick",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Saint Patrick",
         "zh_Hant_TW": "Saint Patrick",
         "zu": "Saint Patrick",
-        "zu_ZA": "Saint Patrick",
-        "sr@latin": "Sveti Patrik",
-        "tt@iqtelif": "Saint Patrick"
+        "zu_ZA": "Saint Patrick"
     },
     "10": {
         "af": "Saint Paul",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Saint Paul",
         "sq_XK": "Saint Paul",
         "sr": "Свети Павле",
+        "sr@latin": "Sveti Pavle",
         "sr_Cyrl": "Свети Павле",
         "sr_Cyrl_BA": "Свети Павле",
         "sr_Cyrl_ME": "Свети Павле",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Saint Paul",
         "tr_TR": "Saint Paul",
         "tt": "Saint Paul",
+        "tt@iqtelif": "Saint Paul",
         "tt_RU": "Saint Paul",
         "twq": "Saint Paul",
         "twq_NE": "Saint Paul",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Saint Paul",
         "zh_Hant_TW": "Saint Paul",
         "zu": "Saint Paul",
-        "zu_ZA": "Saint Paul",
-        "sr@latin": "Sveti Pavle",
-        "tt@iqtelif": "Saint Paul"
+        "zu_ZA": "Saint Paul"
     },
     "11": {
         "af": "Saint Peter",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Saint Peter",
         "sq_XK": "Saint Peter",
         "sr": "Свети Петар",
+        "sr@latin": "Sveti Petar",
         "sr_Cyrl": "Свети Петар",
         "sr_Cyrl_BA": "Свети Петар",
         "sr_Cyrl_ME": "Свети Петар",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Saint Peter",
         "tr_TR": "Saint Peter",
         "tt": "Saint Peter",
+        "tt@iqtelif": "Saint Peter",
         "tt_RU": "Saint Peter",
         "twq": "Saint Peter",
         "twq_NE": "Saint Peter",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Saint Peter",
         "zh_Hant_TW": "Saint Peter",
         "zu": "Saint Peter",
-        "zu_ZA": "Saint Peter",
-        "sr@latin": "Sveti Petar",
-        "tt@iqtelif": "Saint Peter"
+        "zu_ZA": "Saint Peter"
     }
 }

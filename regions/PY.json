@@ -743,6 +743,7 @@
         "sq_MK": "Concepción",
         "sq_XK": "Concepción",
         "sr": "Консепсион",
+        "sr@latin": "Konsepsion",
         "sr_Cyrl": "Консепсион",
         "sr_Cyrl_BA": "Консепсион",
         "sr_Cyrl_ME": "Консепсион",
@@ -803,6 +804,7 @@
         "tr_CY": "Concepción",
         "tr_TR": "Concepción",
         "tt": "Concepción",
+        "tt@iqtelif": "Concepción",
         "tt_RU": "Concepción",
         "twq": "Concepción",
         "twq_NE": "Concepción",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Concepción",
         "zh_Hant_TW": "Concepción",
         "zu": "Concepción",
-        "zu_ZA": "Concepción",
-        "sr@latin": "Konsepsion",
-        "tt@iqtelif": "Concepción"
+        "zu_ZA": "Concepción"
     },
     "2": {
         "af": "San Pedro",
@@ -1628,6 +1628,7 @@
         "sq_MK": "San Pedro",
         "sq_XK": "San Pedro",
         "sr": "Сан Педро",
+        "sr@latin": "San Pedro",
         "sr_Cyrl": "Сан Педро",
         "sr_Cyrl_BA": "Сан Педро",
         "sr_Cyrl_ME": "Сан Педро",
@@ -1688,6 +1689,7 @@
         "tr_CY": "San Pedro",
         "tr_TR": "San Pedro",
         "tt": "San Pedro",
+        "tt@iqtelif": "San Pedro",
         "tt_RU": "San Pedro",
         "twq": "San Pedro",
         "twq_NE": "San Pedro",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "San Pedro",
         "zh_Hant_TW": "San Pedro",
         "zu": "San Pedro",
-        "zu_ZA": "San Pedro",
-        "sr@latin": "San Pedro",
-        "tt@iqtelif": "San Pedro"
+        "zu_ZA": "San Pedro"
     },
     "3": {
         "af": "Cordillera",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Cordillera",
         "sq_XK": "Cordillera",
         "sr": "Кордиљери",
+        "sr@latin": "Kordiljeri",
         "sr_Cyrl": "Кордиљери",
         "sr_Cyrl_BA": "Кордиљери",
         "sr_Cyrl_ME": "Кордиљери",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Cordillera",
         "tr_TR": "Cordillera",
         "tt": "Cordillera",
+        "tt@iqtelif": "Cordillera",
         "tt_RU": "Cordillera",
         "twq": "Cordillera",
         "twq_NE": "Cordillera",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Cordillera",
         "zh_Hant_TW": "Cordillera",
         "zu": "Cordillera",
-        "zu_ZA": "Cordillera",
-        "sr@latin": "Kordiljeri",
-        "tt@iqtelif": "Cordillera"
+        "zu_ZA": "Cordillera"
     },
     "4": {
         "af": "Guairá",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Guairá",
         "sq_XK": "Guairá",
         "sr": "Гвајра",
+        "sr@latin": "Gvajra",
         "sr_Cyrl": "Гвајра",
         "sr_Cyrl_BA": "Гвајра",
         "sr_Cyrl_ME": "Гвајра",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Guaira",
         "tr_TR": "Guaira",
         "tt": "Guairá",
+        "tt@iqtelif": "Guairá",
         "tt_RU": "Guairá",
         "twq": "Guairá",
         "twq_NE": "Guairá",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Guairá",
         "zh_Hant_TW": "Guairá",
         "zu": "Guairá",
-        "zu_ZA": "Guairá",
-        "sr@latin": "Gvajra",
-        "tt@iqtelif": "Guairá"
+        "zu_ZA": "Guairá"
     },
     "5": {
         "af": "Caaguazú",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Caaguazú",
         "sq_XK": "Caaguazú",
         "sr": "Caaguazú",
+        "sr@latin": "Caaguazú",
         "sr_Cyrl": "Caaguazú",
         "sr_Cyrl_BA": "Caaguazú",
         "sr_Cyrl_ME": "Caaguazú",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Caaguazu",
         "tr_TR": "Caaguazu",
         "tt": "Caaguazú",
+        "tt@iqtelif": "Caaguazú",
         "tt_RU": "Caaguazú",
         "twq": "Caaguazú",
         "twq_NE": "Caaguazú",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Caaguazú",
         "zh_Hant_TW": "Caaguazú",
         "zu": "Caaguazú",
-        "zu_ZA": "Caaguazú",
-        "sr@latin": "Caaguazú",
-        "tt@iqtelif": "Caaguazú"
+        "zu_ZA": "Caaguazú"
     },
     "6": {
         "af": "Caazapá",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Caazapá",
         "sq_XK": "Caazapá",
         "sr": "Caazapá",
+        "sr@latin": "Caazapá",
         "sr_Cyrl": "Caazapá",
         "sr_Cyrl_BA": "Caazapá",
         "sr_Cyrl_ME": "Caazapá",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Caazapa",
         "tr_TR": "Caazapa",
         "tt": "Caazapá",
+        "tt@iqtelif": "Caazapá",
         "tt_RU": "Caazapá",
         "twq": "Caazapá",
         "twq_NE": "Caazapá",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Caazapá",
         "zh_Hant_TW": "Caazapá",
         "zu": "Caazapá",
-        "zu_ZA": "Caazapá",
-        "sr@latin": "Caazapá",
-        "tt@iqtelif": "Caazapá"
+        "zu_ZA": "Caazapá"
     },
     "7": {
         "af": "Itapúa",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Itapúa",
         "sq_XK": "Itapúa",
         "sr": "Итапуа",
+        "sr@latin": "Itapua",
         "sr_Cyrl": "Итапуа",
         "sr_Cyrl_BA": "Итапуа",
         "sr_Cyrl_ME": "Итапуа",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Itapúa",
         "tr_TR": "Itapúa",
         "tt": "Itapúa",
+        "tt@iqtelif": "Itapúa",
         "tt_RU": "Itapúa",
         "twq": "Itapúa",
         "twq_NE": "Itapúa",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Itapúa",
         "zh_Hant_TW": "Itapúa",
         "zu": "Itapúa",
-        "zu_ZA": "Itapúa",
-        "sr@latin": "Itapua",
-        "tt@iqtelif": "Itapúa"
+        "zu_ZA": "Itapúa"
     },
     "8": {
         "af": "Misiones",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Misiones",
         "sq_XK": "Misiones",
         "sr": "Мисјон",
+        "sr@latin": "Misjon",
         "sr_Cyrl": "Мисјон",
         "sr_Cyrl_BA": "Мисјон",
         "sr_Cyrl_ME": "Мисјон",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Misiones",
         "tr_TR": "Misiones",
         "tt": "Misiones",
+        "tt@iqtelif": "Misiones",
         "tt_RU": "Misiones",
         "twq": "Misiones",
         "twq_NE": "Misiones",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Misiones",
         "zh_Hant_TW": "Misiones",
         "zu": "Misiones",
-        "zu_ZA": "Misiones",
-        "sr@latin": "Misjon",
-        "tt@iqtelif": "Misiones"
+        "zu_ZA": "Misiones"
     },
     "9": {
         "af": "Paraguarí",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Paraguarí",
         "sq_XK": "Paraguarí",
         "sr": "Парагвари",
+        "sr@latin": "Paragvari",
         "sr_Cyrl": "Парагвари",
         "sr_Cyrl_BA": "Парагвари",
         "sr_Cyrl_ME": "Парагвари",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Paraguari",
         "tr_TR": "Paraguari",
         "tt": "Paraguarí",
+        "tt@iqtelif": "Paraguarí",
         "tt_RU": "Paraguarí",
         "twq": "Paraguarí",
         "twq_NE": "Paraguarí",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Paraguarí",
         "zh_Hant_TW": "Paraguarí",
         "zu": "Paraguarí",
-        "zu_ZA": "Paraguarí",
-        "sr@latin": "Paragvari",
-        "tt@iqtelif": "Paraguarí"
+        "zu_ZA": "Paraguarí"
     },
     "10": {
         "af": "Alto Paraná",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Alto Paraná",
         "sq_XK": "Alto Paraná",
         "sr": "Алто Парана",
+        "sr@latin": "Alto Parana",
         "sr_Cyrl": "Алто Парана",
         "sr_Cyrl_BA": "Алто Парана",
         "sr_Cyrl_ME": "Алто Парана",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Alto Parana",
         "tr_TR": "Alto Parana",
         "tt": "Alto Paraná",
+        "tt@iqtelif": "Alto Paraná",
         "tt_RU": "Alto Paraná",
         "twq": "Alto Paraná",
         "twq_NE": "Alto Paraná",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Alto Paraná",
         "zh_Hant_TW": "Alto Paraná",
         "zu": "Alto Paraná",
-        "zu_ZA": "Alto Paraná",
-        "sr@latin": "Alto Parana",
-        "tt@iqtelif": "Alto Paraná"
+        "zu_ZA": "Alto Paraná"
     },
     "11": {
         "af": "Central",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Central",
         "sq_XK": "Central",
         "sr": "Централни",
+        "sr@latin": "Centralni",
         "sr_Cyrl": "Централни",
         "sr_Cyrl_BA": "Централни",
         "sr_Cyrl_ME": "Централни",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Merkezi",
         "tr_TR": "Merkezi",
         "tt": "Central",
+        "tt@iqtelif": "Central",
         "tt_RU": "Central",
         "twq": "Central",
         "twq_NE": "Central",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central",
-        "sr@latin": "Centralni",
-        "tt@iqtelif": "Central"
+        "zu_ZA": "Central"
     },
     "12": {
         "af": "Ñeembucú",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Ñeembucú",
         "sq_XK": "Ñeembucú",
         "sr": "Ñeembucú",
+        "sr@latin": "Ñeembucú",
         "sr_Cyrl": "Ñeembucú",
         "sr_Cyrl_BA": "Ñeembucú",
         "sr_Cyrl_ME": "Ñeembucú",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Ñeembucú",
         "tr_TR": "Ñeembucú",
         "tt": "Ñeembucú",
+        "tt@iqtelif": "Ñeembucú",
         "tt_RU": "Ñeembucú",
         "twq": "Ñeembucú",
         "twq_NE": "Ñeembucú",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Ñeembucú",
         "zh_Hant_TW": "Ñeembucú",
         "zu": "Ñeembucú",
-        "zu_ZA": "Ñeembucú",
-        "sr@latin": "Ñeembucú",
-        "tt@iqtelif": "Ñeembucú"
+        "zu_ZA": "Ñeembucú"
     },
     "13": {
         "af": "Amambay",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Amambay",
         "sq_XK": "Amambay",
         "sr": "Амамбеј",
+        "sr@latin": "Amambej",
         "sr_Cyrl": "Амамбеј",
         "sr_Cyrl_BA": "Амамбеј",
         "sr_Cyrl_ME": "Амамбеј",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Amambay",
         "tr_TR": "Amambay",
         "tt": "Amambay",
+        "tt@iqtelif": "Amambay",
         "tt_RU": "Amambay",
         "twq": "Amambay",
         "twq_NE": "Amambay",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Amambay",
         "zh_Hant_TW": "Amambay",
         "zu": "Amambay",
-        "zu_ZA": "Amambay",
-        "sr@latin": "Amambej",
-        "tt@iqtelif": "Amambay"
+        "zu_ZA": "Amambay"
     },
     "14": {
         "af": "Canindeyú",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Canindeyú",
         "sq_XK": "Canindeyú",
         "sr": "Каниндеји",
+        "sr@latin": "Kanindeji",
         "sr_Cyrl": "Каниндеји",
         "sr_Cyrl_BA": "Каниндеји",
         "sr_Cyrl_ME": "Каниндеји",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Canindeyú",
         "tr_TR": "Canindeyú",
         "tt": "Canindeyú",
+        "tt@iqtelif": "Canindeyú",
         "tt_RU": "Canindeyú",
         "twq": "Canindeyú",
         "twq_NE": "Canindeyú",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Canindeyú",
         "zh_Hant_TW": "Canindeyú",
         "zu": "Canindeyú",
-        "zu_ZA": "Canindeyú",
-        "sr@latin": "Kanindeji",
-        "tt@iqtelif": "Canindeyú"
+        "zu_ZA": "Canindeyú"
     },
     "15": {
         "af": "Presidente Hayes",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Presidente Hayes",
         "sq_XK": "Presidente Hayes",
         "sr": "Presidente Hayes",
+        "sr@latin": "Presidente Hayes",
         "sr_Cyrl": "Presidente Hayes",
         "sr_Cyrl_BA": "Presidente Hayes",
         "sr_Cyrl_ME": "Presidente Hayes",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Presidente Hayes",
         "tr_TR": "Presidente Hayes",
         "tt": "Presidente Hayes",
+        "tt@iqtelif": "Presidente Hayes",
         "tt_RU": "Presidente Hayes",
         "twq": "Presidente Hayes",
         "twq_NE": "Presidente Hayes",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Presidente Hayes",
         "zh_Hant_TW": "Presidente Hayes",
         "zu": "Presidente Hayes",
-        "zu_ZA": "Presidente Hayes",
-        "sr@latin": "Presidente Hayes",
-        "tt@iqtelif": "Presidente Hayes"
+        "zu_ZA": "Presidente Hayes"
     },
     "16": {
         "af": "Alto Paraguay",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Alto Paraguay",
         "sq_XK": "Alto Paraguay",
         "sr": "Алто Парагвај",
+        "sr@latin": "Alto Paragvaj",
         "sr_Cyrl": "Алто Парагвај",
         "sr_Cyrl_BA": "Алто Парагвај",
         "sr_Cyrl_ME": "Алто Парагвај",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Alto Paraguay",
         "tr_TR": "Alto Paraguay",
         "tt": "Alto Paraguay",
+        "tt@iqtelif": "Alto Paraguay",
         "tt_RU": "Alto Paraguay",
         "twq": "Alto Paraguay",
         "twq_NE": "Alto Paraguay",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Alto Paraguay",
         "zh_Hant_TW": "Alto Paraguay",
         "zu": "Alto Paraguay",
-        "zu_ZA": "Alto Paraguay",
-        "sr@latin": "Alto Paragvaj",
-        "tt@iqtelif": "Alto Paraguay"
+        "zu_ZA": "Alto Paraguay"
     },
     "19": {
         "af": "Boquerón",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Boquerón",
         "sq_XK": "Boquerón",
         "sr": "Бокерон",
+        "sr@latin": "Bokeron",
         "sr_Cyrl": "Бокерон",
         "sr_Cyrl_BA": "Бокерон",
         "sr_Cyrl_ME": "Бокерон",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Boqueron",
         "tr_TR": "Boqueron",
         "tt": "Boquerón",
+        "tt@iqtelif": "Boquerón",
         "tt_RU": "Boquerón",
         "twq": "Boquerón",
         "twq_NE": "Boquerón",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Boquerón",
         "zh_Hant_TW": "Boquerón",
         "zu": "Boquerón",
-        "zu_ZA": "Boquerón",
-        "sr@latin": "Bokeron",
-        "tt@iqtelif": "Boquerón"
+        "zu_ZA": "Boquerón"
     },
     "ASU": {
         "af": "Asunción",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Asunción",
         "sq_XK": "Asunción",
         "sr": "Асунсион",
+        "sr@latin": "Asunsion",
         "sr_Cyrl": "Асунсион",
         "sr_Cyrl_BA": "Асунсион",
         "sr_Cyrl_ME": "Асунсион",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Asuncion",
         "tr_TR": "Asuncion",
         "tt": "Asunción",
+        "tt@iqtelif": "Asunción",
         "tt_RU": "Asunción",
         "twq": "Asunción",
         "twq_NE": "Asunción",
@@ -15925,8 +15927,6 @@
         "zh_Hant_MY": "Asunción",
         "zh_Hant_TW": "Asunción",
         "zu": "Asunción",
-        "zu_ZA": "Asunción",
-        "sr@latin": "Asunsion",
-        "tt@iqtelif": "Asunción"
+        "zu_ZA": "Asunción"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Banteay Mean Choăy",
         "sq_XK": "Banteay Mean Choăy",
         "sr": "Banteay Mean Choăy",
+        "sr@latin": "Banteay Mean Choăy",
         "sr_Cyrl": "Banteay Mean Choăy",
         "sr_Cyrl_BA": "Banteay Mean Choăy",
         "sr_Cyrl_ME": "Banteay Mean Choăy",
@@ -803,6 +804,7 @@
         "tr_CY": "Banteay Mean Choăy",
         "tr_TR": "Banteay Mean Choăy",
         "tt": "Banteay Mean Choăy",
+        "tt@iqtelif": "Banteay Mean Choăy",
         "tt_RU": "Banteay Mean Choăy",
         "twq": "Banteay Mean Choăy",
         "twq_NE": "Banteay Mean Choăy",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Banteay Mean Choăy",
         "zh_Hant_TW": "Banteay Mean Choăy",
         "zu": "Banteay Mean Choăy",
-        "zu_ZA": "Banteay Mean Choăy",
-        "sr@latin": "Banteay Mean Choăy",
-        "tt@iqtelif": "Banteay Mean Choăy"
+        "zu_ZA": "Banteay Mean Choăy"
     },
     "2": {
         "af": "Baat Dambang",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Baat Dambang",
         "sq_XK": "Baat Dambang",
         "sr": "Baat Dambang",
+        "sr@latin": "Baat Dambang",
         "sr_Cyrl": "Baat Dambang",
         "sr_Cyrl_BA": "Baat Dambang",
         "sr_Cyrl_ME": "Baat Dambang",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Baat Dambang",
         "tr_TR": "Baat Dambang",
         "tt": "Baat Dambang",
+        "tt@iqtelif": "Baat Dambang",
         "tt_RU": "Baat Dambang",
         "twq": "Baat Dambang",
         "twq_NE": "Baat Dambang",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Baat Dambang",
         "zh_Hant_TW": "Baat Dambang",
         "zu": "Baat Dambang",
-        "zu_ZA": "Baat Dambang",
-        "sr@latin": "Baat Dambang",
-        "tt@iqtelif": "Baat Dambang"
+        "zu_ZA": "Baat Dambang"
     },
     "3": {
         "af": "Kampong Chaam",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Kampong Chaam",
         "sq_XK": "Kampong Chaam",
         "sr": "Kampong Chaam",
+        "sr@latin": "Kampong Chaam",
         "sr_Cyrl": "Kampong Chaam",
         "sr_Cyrl_BA": "Kampong Chaam",
         "sr_Cyrl_ME": "Kampong Chaam",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Kampong Chaam",
         "tr_TR": "Kampong Chaam",
         "tt": "Kampong Chaam",
+        "tt@iqtelif": "Kampong Chaam",
         "tt_RU": "Kampong Chaam",
         "twq": "Kampong Chaam",
         "twq_NE": "Kampong Chaam",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Kampong Chaam",
         "zh_Hant_TW": "Kampong Chaam",
         "zu": "Kampong Chaam",
-        "zu_ZA": "Kampong Chaam",
-        "sr@latin": "Kampong Chaam",
-        "tt@iqtelif": "Kampong Chaam"
+        "zu_ZA": "Kampong Chaam"
     },
     "4": {
         "af": "Kampong Chhnang",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Kampong Chhnang",
         "sq_XK": "Kampong Chhnang",
         "sr": "Kampong Chhnang",
+        "sr@latin": "Kampong Chhnang",
         "sr_Cyrl": "Kampong Chhnang",
         "sr_Cyrl_BA": "Kampong Chhnang",
         "sr_Cyrl_ME": "Kampong Chhnang",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Kampong Chhnang",
         "tr_TR": "Kampong Chhnang",
         "tt": "Kampong Chhnang",
+        "tt@iqtelif": "Kampong Chhnang",
         "tt_RU": "Kampong Chhnang",
         "twq": "Kampong Chhnang",
         "twq_NE": "Kampong Chhnang",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Kampong Chhnang",
         "zh_Hant_TW": "Kampong Chhnang",
         "zu": "Kampong Chhnang",
-        "zu_ZA": "Kampong Chhnang",
-        "sr@latin": "Kampong Chhnang",
-        "tt@iqtelif": "Kampong Chhnang"
+        "zu_ZA": "Kampong Chhnang"
     },
     "5": {
         "af": "Kampong Spueu",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Kampong Spueu",
         "sq_XK": "Kampong Spueu",
         "sr": "Kampong Spueu",
+        "sr@latin": "Kampong Spueu",
         "sr_Cyrl": "Kampong Spueu",
         "sr_Cyrl_BA": "Kampong Spueu",
         "sr_Cyrl_ME": "Kampong Spueu",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Kampong Spueu",
         "tr_TR": "Kampong Spueu",
         "tt": "Kampong Spueu",
+        "tt@iqtelif": "Kampong Spueu",
         "tt_RU": "Kampong Spueu",
         "twq": "Kampong Spueu",
         "twq_NE": "Kampong Spueu",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Kampong Spueu",
         "zh_Hant_TW": "Kampong Spueu",
         "zu": "Kampong Spueu",
-        "zu_ZA": "Kampong Spueu",
-        "sr@latin": "Kampong Spueu",
-        "tt@iqtelif": "Kampong Spueu"
+        "zu_ZA": "Kampong Spueu"
     },
     "6": {
         "af": "Kampong Thum",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Kampong Thum",
         "sq_XK": "Kampong Thum",
         "sr": "Kampong Thum",
+        "sr@latin": "Kampong Thum",
         "sr_Cyrl": "Kampong Thum",
         "sr_Cyrl_BA": "Kampong Thum",
         "sr_Cyrl_ME": "Kampong Thum",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Kampong Thum",
         "tr_TR": "Kampong Thum",
         "tt": "Kampong Thum",
+        "tt@iqtelif": "Kampong Thum",
         "tt_RU": "Kampong Thum",
         "twq": "Kampong Thum",
         "twq_NE": "Kampong Thum",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Kampong Thum",
         "zh_Hant_TW": "Kampong Thum",
         "zu": "Kampong Thum",
-        "zu_ZA": "Kampong Thum",
-        "sr@latin": "Kampong Thum",
-        "tt@iqtelif": "Kampong Thum"
+        "zu_ZA": "Kampong Thum"
     },
     "7": {
         "af": "Kampot",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Kampot",
         "sq_XK": "Kampot",
         "sr": "Кампот",
+        "sr@latin": "Kampot",
         "sr_Cyrl": "Кампот",
         "sr_Cyrl_BA": "Кампот",
         "sr_Cyrl_ME": "Кампот",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Kampot",
         "tr_TR": "Kampot",
         "tt": "Kampot",
+        "tt@iqtelif": "Kampot",
         "tt_RU": "Kampot",
         "twq": "Kampot",
         "twq_NE": "Kampot",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Kampot",
         "zh_Hant_TW": "Kampot",
         "zu": "Kampot",
-        "zu_ZA": "Kampot",
-        "sr@latin": "Kampot",
-        "tt@iqtelif": "Kampot"
+        "zu_ZA": "Kampot"
     },
     "8": {
         "af": "Kandaal",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Kandaal",
         "sq_XK": "Kandaal",
         "sr": "Kandaal",
+        "sr@latin": "Kandaal",
         "sr_Cyrl": "Kandaal",
         "sr_Cyrl_BA": "Kandaal",
         "sr_Cyrl_ME": "Kandaal",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kandaal",
         "tr_TR": "Kandaal",
         "tt": "Kandaal",
+        "tt@iqtelif": "Kandaal",
         "tt_RU": "Kandaal",
         "twq": "Kandaal",
         "twq_NE": "Kandaal",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Kandaal",
         "zh_Hant_TW": "Kandaal",
         "zu": "Kandaal",
-        "zu_ZA": "Kandaal",
-        "sr@latin": "Kandaal",
-        "tt@iqtelif": "Kandaal"
+        "zu_ZA": "Kandaal"
     },
     "9": {
         "af": "Kaoh Kong",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Kaoh Kong",
         "sq_XK": "Kaoh Kong",
         "sr": "Kaoh Kong",
+        "sr@latin": "Kaoh Kong",
         "sr_Cyrl": "Kaoh Kong",
         "sr_Cyrl_BA": "Kaoh Kong",
         "sr_Cyrl_ME": "Kaoh Kong",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kaoh Kong",
         "tr_TR": "Kaoh Kong",
         "tt": "Kaoh Kong",
+        "tt@iqtelif": "Kaoh Kong",
         "tt_RU": "Kaoh Kong",
         "twq": "Kaoh Kong",
         "twq_NE": "Kaoh Kong",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Kaoh Kong",
         "zh_Hant_TW": "Kaoh Kong",
         "zu": "Kaoh Kong",
-        "zu_ZA": "Kaoh Kong",
-        "sr@latin": "Kaoh Kong",
-        "tt@iqtelif": "Kaoh Kong"
+        "zu_ZA": "Kaoh Kong"
     },
     "10": {
         "af": "Kracheh",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Kracheh",
         "sq_XK": "Kracheh",
         "sr": "Kracheh",
+        "sr@latin": "Kracheh",
         "sr_Cyrl": "Kracheh",
         "sr_Cyrl_BA": "Kracheh",
         "sr_Cyrl_ME": "Kracheh",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Kracheh",
         "tr_TR": "Kracheh",
         "tt": "Kracheh",
+        "tt@iqtelif": "Kracheh",
         "tt_RU": "Kracheh",
         "twq": "Kracheh",
         "twq_NE": "Kracheh",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Kracheh",
         "zh_Hant_TW": "Kracheh",
         "zu": "Kracheh",
-        "zu_ZA": "Kracheh",
-        "sr@latin": "Kracheh",
-        "tt@iqtelif": "Kracheh"
+        "zu_ZA": "Kracheh"
     },
     "11": {
         "af": "Mondol Kiri",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Mondol Kiri",
         "sq_XK": "Mondol Kiri",
         "sr": "Мондол Кири",
+        "sr@latin": "Mondol Kiri",
         "sr_Cyrl": "Мондол Кири",
         "sr_Cyrl_BA": "Мондол Кири",
         "sr_Cyrl_ME": "Мондол Кири",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Mondol Kiri",
         "tr_TR": "Mondol Kiri",
         "tt": "Mondol Kiri",
+        "tt@iqtelif": "Mondol Kiri",
         "tt_RU": "Mondol Kiri",
         "twq": "Mondol Kiri",
         "twq_NE": "Mondol Kiri",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Mondol Kiri",
         "zh_Hant_TW": "Mondol Kiri",
         "zu": "Mondol Kiri",
-        "zu_ZA": "Mondol Kiri",
-        "sr@latin": "Mondol Kiri",
-        "tt@iqtelif": "Mondol Kiri"
+        "zu_ZA": "Mondol Kiri"
     },
     "12": {
         "af": "Phnom Penh",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Phnom Penh",
         "sq_XK": "Phnom Penh",
         "sr": "Пном Пен",
+        "sr@latin": "Pnom Pen",
         "sr_Cyrl": "Пном Пен",
         "sr_Cyrl_BA": "Пном Пен",
         "sr_Cyrl_ME": "Пном Пен",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Phnom Penh",
         "tr_TR": "Phnom Penh",
         "tt": "Phnom Penh",
+        "tt@iqtelif": "Phnom Penh",
         "tt_RU": "Phnom Penh",
         "twq": "Phnom Penh",
         "twq_NE": "Phnom Penh",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Phnom Penh",
         "zh_Hant_TW": "Phnom Penh",
         "zu": "Phnom Penh",
-        "zu_ZA": "Phnom Penh",
-        "sr@latin": "Pnom Pen",
-        "tt@iqtelif": "Phnom Penh"
+        "zu_ZA": "Phnom Penh"
     },
     "13": {
         "af": "Preah Vihear",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Preah Vihear",
         "sq_XK": "Preah Vihear",
         "sr": "Preah Vihear",
+        "sr@latin": "Preah Vihear",
         "sr_Cyrl": "Preah Vihear",
         "sr_Cyrl_BA": "Preah Vihear",
         "sr_Cyrl_ME": "Preah Vihear",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Preah Vihear",
         "tr_TR": "Preah Vihear",
         "tt": "Preah Vihear",
+        "tt@iqtelif": "Preah Vihear",
         "tt_RU": "Preah Vihear",
         "twq": "Preah Vihear",
         "twq_NE": "Preah Vihear",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Preah Vihear",
         "zh_Hant_TW": "Preah Vihear",
         "zu": "Preah Vihear",
-        "zu_ZA": "Preah Vihear",
-        "sr@latin": "Preah Vihear",
-        "tt@iqtelif": "Preah Vihear"
+        "zu_ZA": "Preah Vihear"
     },
     "14": {
         "af": "Prey Veaeng",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Prey Veaeng",
         "sq_XK": "Prey Veaeng",
         "sr": "Prey Veaeng",
+        "sr@latin": "Prey Veaeng",
         "sr_Cyrl": "Prey Veaeng",
         "sr_Cyrl_BA": "Prey Veaeng",
         "sr_Cyrl_ME": "Prey Veaeng",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Prey Veaeng",
         "tr_TR": "Prey Veaeng",
         "tt": "Prey Veaeng",
+        "tt@iqtelif": "Prey Veaeng",
         "tt_RU": "Prey Veaeng",
         "twq": "Prey Veaeng",
         "twq_NE": "Prey Veaeng",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Prey Veaeng",
         "zh_Hant_TW": "Prey Veaeng",
         "zu": "Prey Veaeng",
-        "zu_ZA": "Prey Veaeng",
-        "sr@latin": "Prey Veaeng",
-        "tt@iqtelif": "Prey Veaeng"
+        "zu_ZA": "Prey Veaeng"
     },
     "15": {
         "af": "Pousaat",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Pousaat",
         "sq_XK": "Pousaat",
         "sr": "Пусат",
+        "sr@latin": "Pusat",
         "sr_Cyrl": "Пусат",
         "sr_Cyrl_BA": "Пусат",
         "sr_Cyrl_ME": "Пусат",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Pousaat",
         "tr_TR": "Pousaat",
         "tt": "Pousaat",
+        "tt@iqtelif": "Pousaat",
         "tt_RU": "Pousaat",
         "twq": "Pousaat",
         "twq_NE": "Pousaat",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Pousaat",
         "zh_Hant_TW": "Pousaat",
         "zu": "Pousaat",
-        "zu_ZA": "Pousaat",
-        "sr@latin": "Pusat",
-        "tt@iqtelif": "Pousaat"
+        "zu_ZA": "Pousaat"
     },
     "16": {
         "af": "Rotanak Kiri",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Rotanak Kiri",
         "sq_XK": "Rotanak Kiri",
         "sr": "Rotanak Kiri",
+        "sr@latin": "Rotanak Kiri",
         "sr_Cyrl": "Rotanak Kiri",
         "sr_Cyrl_BA": "Rotanak Kiri",
         "sr_Cyrl_ME": "Rotanak Kiri",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Rotanak Kiri",
         "tr_TR": "Rotanak Kiri",
         "tt": "Rotanak Kiri",
+        "tt@iqtelif": "Rotanak Kiri",
         "tt_RU": "Rotanak Kiri",
         "twq": "Rotanak Kiri",
         "twq_NE": "Rotanak Kiri",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Rotanak Kiri",
         "zh_Hant_TW": "Rotanak Kiri",
         "zu": "Rotanak Kiri",
-        "zu_ZA": "Rotanak Kiri",
-        "sr@latin": "Rotanak Kiri",
-        "tt@iqtelif": "Rotanak Kiri"
+        "zu_ZA": "Rotanak Kiri"
     },
     "17": {
         "af": "Siem Reab",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Siem Reab",
         "sq_XK": "Siem Reab",
         "sr": "Siem Reab",
+        "sr@latin": "Siem Reab",
         "sr_Cyrl": "Siem Reab",
         "sr_Cyrl_BA": "Siem Reab",
         "sr_Cyrl_ME": "Siem Reab",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Siem Reab",
         "tr_TR": "Siem Reab",
         "tt": "Siem Reab",
+        "tt@iqtelif": "Siem Reab",
         "tt_RU": "Siem Reab",
         "twq": "Siem Reab",
         "twq_NE": "Siem Reab",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Siem Reab",
         "zh_Hant_TW": "Siem Reab",
         "zu": "Siem Reab",
-        "zu_ZA": "Siem Reab",
-        "sr@latin": "Siem Reab",
-        "tt@iqtelif": "Siem Reab"
+        "zu_ZA": "Siem Reab"
     },
     "18": {
         "af": "Preah Sihanouk",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Preah Sihanouk",
         "sq_XK": "Preah Sihanouk",
         "sr": "Preah Sihanouk",
+        "sr@latin": "Preah Sihanouk",
         "sr_Cyrl": "Preah Sihanouk",
         "sr_Cyrl_BA": "Preah Sihanouk",
         "sr_Cyrl_ME": "Preah Sihanouk",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Preah Sihanouk",
         "tr_TR": "Preah Sihanouk",
         "tt": "Preah Sihanouk",
+        "tt@iqtelif": "Preah Sihanouk",
         "tt_RU": "Preah Sihanouk",
         "twq": "Preah Sihanouk",
         "twq_NE": "Preah Sihanouk",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Preah Sihanouk",
         "zh_Hant_TW": "Preah Sihanouk",
         "zu": "Preah Sihanouk",
-        "zu_ZA": "Preah Sihanouk",
-        "sr@latin": "Preah Sihanouk",
-        "tt@iqtelif": "Preah Sihanouk"
+        "zu_ZA": "Preah Sihanouk"
     },
     "19": {
         "af": "Stoĕng Trêng",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Stoĕng Trêng",
         "sq_XK": "Stoĕng Trêng",
         "sr": "Stoĕng Trêng",
+        "sr@latin": "Stoĕng Trêng",
         "sr_Cyrl": "Stoĕng Trêng",
         "sr_Cyrl_BA": "Stoĕng Trêng",
         "sr_Cyrl_ME": "Stoĕng Trêng",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Stoĕng Trêng",
         "tr_TR": "Stoĕng Trêng",
         "tt": "Stoĕng Trêng",
+        "tt@iqtelif": "Stoĕng Trêng",
         "tt_RU": "Stoĕng Trêng",
         "twq": "Stoĕng Trêng",
         "twq_NE": "Stoĕng Trêng",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Stoĕng Trêng",
         "zh_Hant_TW": "Stoĕng Trêng",
         "zu": "Stoĕng Trêng",
-        "zu_ZA": "Stoĕng Trêng",
-        "sr@latin": "Stoĕng Trêng",
-        "tt@iqtelif": "Stoĕng Trêng"
+        "zu_ZA": "Stoĕng Trêng"
     },
     "20": {
         "af": "Svaay Rieng",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Svaay Rieng",
         "sq_XK": "Svaay Rieng",
         "sr": "Svaay Rieng",
+        "sr@latin": "Svaay Rieng",
         "sr_Cyrl": "Svaay Rieng",
         "sr_Cyrl_BA": "Svaay Rieng",
         "sr_Cyrl_ME": "Svaay Rieng",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Svaay Rieng",
         "tr_TR": "Svaay Rieng",
         "tt": "Svaay Rieng",
+        "tt@iqtelif": "Svaay Rieng",
         "tt_RU": "Svaay Rieng",
         "twq": "Svaay Rieng",
         "twq_NE": "Svaay Rieng",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Svaay Rieng",
         "zh_Hant_TW": "Svaay Rieng",
         "zu": "Svaay Rieng",
-        "zu_ZA": "Svaay Rieng",
-        "sr@latin": "Svaay Rieng",
-        "tt@iqtelif": "Svaay Rieng"
+        "zu_ZA": "Svaay Rieng"
     },
     "21": {
         "af": "Taakaev",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Taakaev",
         "sq_XK": "Taakaev",
         "sr": "Taakaev",
+        "sr@latin": "Taakaev",
         "sr_Cyrl": "Taakaev",
         "sr_Cyrl_BA": "Taakaev",
         "sr_Cyrl_ME": "Taakaev",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Taakaev",
         "tr_TR": "Taakaev",
         "tt": "Taakaev",
+        "tt@iqtelif": "Taakaev",
         "tt_RU": "Taakaev",
         "twq": "Taakaev",
         "twq_NE": "Taakaev",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Taakaev",
         "zh_Hant_TW": "Taakaev",
         "zu": "Taakaev",
-        "zu_ZA": "Taakaev",
-        "sr@latin": "Taakaev",
-        "tt@iqtelif": "Taakaev"
+        "zu_ZA": "Taakaev"
     },
     "22": {
         "af": "Otdar Mean Chey",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Otdar Mean Chey",
         "sq_XK": "Otdar Mean Chey",
         "sr": "Otdar Mean Chey",
+        "sr@latin": "Otdar Mean Chey",
         "sr_Cyrl": "Otdar Mean Chey",
         "sr_Cyrl_BA": "Otdar Mean Chey",
         "sr_Cyrl_ME": "Otdar Mean Chey",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Otdar Mean Chey",
         "tr_TR": "Otdar Mean Chey",
         "tt": "Otdar Mean Chey",
+        "tt@iqtelif": "Otdar Mean Chey",
         "tt_RU": "Otdar Mean Chey",
         "twq": "Otdar Mean Chey",
         "twq_NE": "Otdar Mean Chey",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Otdar Mean Chey",
         "zh_Hant_TW": "Otdar Mean Chey",
         "zu": "Otdar Mean Chey",
-        "zu_ZA": "Otdar Mean Chey",
-        "sr@latin": "Otdar Mean Chey",
-        "tt@iqtelif": "Otdar Mean Chey"
+        "zu_ZA": "Otdar Mean Chey"
     },
     "23": {
         "af": "Kaeb",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Kaeb",
         "sq_XK": "Kaeb",
         "sr": "Kaeb",
+        "sr@latin": "Kaeb",
         "sr_Cyrl": "Kaeb",
         "sr_Cyrl_BA": "Kaeb",
         "sr_Cyrl_ME": "Kaeb",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Kaeb",
         "tr_TR": "Kaeb",
         "tt": "Kaeb",
+        "tt@iqtelif": "Kaeb",
         "tt_RU": "Kaeb",
         "twq": "Kaeb",
         "twq_NE": "Kaeb",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Kaeb",
         "zh_Hant_TW": "Kaeb",
         "zu": "Kaeb",
-        "zu_ZA": "Kaeb",
-        "sr@latin": "Kaeb",
-        "tt@iqtelif": "Kaeb"
+        "zu_ZA": "Kaeb"
     },
     "24": {
         "af": "Pailin",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Pailin",
         "sq_XK": "Pailin",
         "sr": "Pailin",
+        "sr@latin": "Pailin",
         "sr_Cyrl": "Pailin",
         "sr_Cyrl_BA": "Pailin",
         "sr_Cyrl_ME": "Pailin",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Pailin",
         "tr_TR": "Pailin",
         "tt": "Pailin",
+        "tt@iqtelif": "Pailin",
         "tt_RU": "Pailin",
         "twq": "Pailin",
         "twq_NE": "Pailin",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Pailin",
         "zh_Hant_TW": "Pailin",
         "zu": "Pailin",
-        "zu_ZA": "Pailin",
-        "sr@latin": "Pailin",
-        "tt@iqtelif": "Pailin"
+        "zu_ZA": "Pailin"
     },
     "25": {
         "af": "Tbong Khmum",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Tbong Khmum",
         "sq_XK": "Tbong Khmum",
         "sr": "Tbong Khmum",
+        "sr@latin": "Tbong Khmum",
         "sr_Cyrl": "Tbong Khmum",
         "sr_Cyrl_BA": "Tbong Khmum",
         "sr_Cyrl_ME": "Tbong Khmum",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Tbong Khmum",
         "tr_TR": "Tbong Khmum",
         "tt": "Tbong Khmum",
+        "tt@iqtelif": "Tbong Khmum",
         "tt_RU": "Tbong Khmum",
         "twq": "Tbong Khmum",
         "twq_NE": "Tbong Khmum",
@@ -22120,8 +22122,6 @@
         "zh_Hant_MY": "Tbong Khmum",
         "zh_Hant_TW": "Tbong Khmum",
         "zu": "Tbong Khmum",
-        "zu_ZA": "Tbong Khmum",
-        "sr@latin": "Tbong Khmum",
-        "tt@iqtelif": "Tbong Khmum"
+        "zu_ZA": "Tbong Khmum"
     }
 }

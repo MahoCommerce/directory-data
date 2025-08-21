@@ -743,6 +743,7 @@
         "sq_MK": "Amarumayu",
         "sq_XK": "Amarumayu",
         "sr": "Amarumayu",
+        "sr@latin": "Amarumayu",
         "sr_Cyrl": "Amarumayu",
         "sr_Cyrl_BA": "Amarumayu",
         "sr_Cyrl_ME": "Amarumayu",
@@ -803,6 +804,7 @@
         "tr_CY": "Amarumayu",
         "tr_TR": "Amarumayu",
         "tt": "Amarumayu",
+        "tt@iqtelif": "Amarumayu",
         "tt_RU": "Amarumayu",
         "twq": "Amarumayu",
         "twq_NE": "Amarumayu",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Amarumayu",
         "zh_Hant_TW": "Amarumayu",
         "zu": "Amarumayu",
-        "zu_ZA": "Amarumayu",
-        "sr@latin": "Amarumayu",
-        "tt@iqtelif": "Amarumayu"
+        "zu_ZA": "Amarumayu"
     },
     "ANC": {
         "af": "Ancash",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Ancash",
         "sq_XK": "Ancash",
         "sr": "Анкаш",
+        "sr@latin": "Ankaš",
         "sr_Cyrl": "Анкаш",
         "sr_Cyrl_BA": "Анкаш",
         "sr_Cyrl_ME": "Анкаш",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Ancash",
         "tr_TR": "Ancash",
         "tt": "Ancash",
+        "tt@iqtelif": "Ancash",
         "tt_RU": "Ancash",
         "twq": "Ancash",
         "twq_NE": "Ancash",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Ancash",
         "zh_Hant_TW": "Ancash",
         "zu": "Ancash",
-        "zu_ZA": "Ancash",
-        "sr@latin": "Ankaš",
-        "tt@iqtelif": "Ancash"
+        "zu_ZA": "Ancash"
     },
     "APU": {
         "af": "Apurimaq",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Apurimaq",
         "sq_XK": "Apurimaq",
         "sr": "Apurimaq",
+        "sr@latin": "Apurimaq",
         "sr_Cyrl": "Apurimaq",
         "sr_Cyrl_BA": "Apurimaq",
         "sr_Cyrl_ME": "Apurimaq",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Apurimaq",
         "tr_TR": "Apurimaq",
         "tt": "Apurimaq",
+        "tt@iqtelif": "Apurimaq",
         "tt_RU": "Apurimaq",
         "twq": "Apurimaq",
         "twq_NE": "Apurimaq",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Apurimaq",
         "zh_Hant_TW": "Apurimaq",
         "zu": "Apurimaq",
-        "zu_ZA": "Apurimaq",
-        "sr@latin": "Apurimaq",
-        "tt@iqtelif": "Apurimaq"
+        "zu_ZA": "Apurimaq"
     },
     "ARE": {
         "af": "Arequipa",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Arequipa",
         "sq_XK": "Arequipa",
         "sr": "Ареквипа",
+        "sr@latin": "Arekvipa",
         "sr_Cyrl": "Ареквипа",
         "sr_Cyrl_BA": "Ареквипа",
         "sr_Cyrl_ME": "Ареквипа",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Arequipa",
         "tr_TR": "Arequipa",
         "tt": "Arequipa",
+        "tt@iqtelif": "Arequipa",
         "tt_RU": "Arequipa",
         "twq": "Arequipa",
         "twq_NE": "Arequipa",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Arequipa",
         "zh_Hant_TW": "Arequipa",
         "zu": "Arequipa",
-        "zu_ZA": "Arequipa",
-        "sr@latin": "Arekvipa",
-        "tt@iqtelif": "Arequipa"
+        "zu_ZA": "Arequipa"
     },
     "AYA": {
         "af": "Ayacucho",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Ayacucho",
         "sq_XK": "Ayacucho",
         "sr": "Ајакучо",
+        "sr@latin": "Ajakučo",
         "sr_Cyrl": "Ајакучо",
         "sr_Cyrl_BA": "Ајакучо",
         "sr_Cyrl_ME": "Ајакучо",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Ayacucho",
         "tr_TR": "Ayacucho",
         "tt": "Ayacucho",
+        "tt@iqtelif": "Ayacucho",
         "tt_RU": "Ayacucho",
         "twq": "Ayacucho",
         "twq_NE": "Ayacucho",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Ayacucho",
         "zh_Hant_TW": "Ayacucho",
         "zu": "Ayacucho",
-        "zu_ZA": "Ayacucho",
-        "sr@latin": "Ajakučo",
-        "tt@iqtelif": "Ayacucho"
+        "zu_ZA": "Ayacucho"
     },
     "CAJ": {
         "af": "Cajamarca",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Cajamarca",
         "sq_XK": "Cajamarca",
         "sr": "Кајамарка",
+        "sr@latin": "Kajamarka",
         "sr_Cyrl": "Кајамарка",
         "sr_Cyrl_BA": "Кајамарка",
         "sr_Cyrl_ME": "Кајамарка",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Cajamarca",
         "tr_TR": "Cajamarca",
         "tt": "Cajamarca",
+        "tt@iqtelif": "Cajamarca",
         "tt_RU": "Cajamarca",
         "twq": "Cajamarca",
         "twq_NE": "Cajamarca",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Cajamarca",
         "zh_Hant_TW": "Cajamarca",
         "zu": "Cajamarca",
-        "zu_ZA": "Cajamarca",
-        "sr@latin": "Kajamarka",
-        "tt@iqtelif": "Cajamarca"
+        "zu_ZA": "Cajamarca"
     },
     "CAL": {
         "af": "El Callao",
@@ -6053,6 +6053,7 @@
         "sq_MK": "El Callao",
         "sq_XK": "El Callao",
         "sr": "El Callao",
+        "sr@latin": "El Callao",
         "sr_Cyrl": "El Callao",
         "sr_Cyrl_BA": "El Callao",
         "sr_Cyrl_ME": "El Callao",
@@ -6113,6 +6114,7 @@
         "tr_CY": "El Callao",
         "tr_TR": "El Callao",
         "tt": "El Callao",
+        "tt@iqtelif": "El Callao",
         "tt_RU": "El Callao",
         "twq": "El Callao",
         "twq_NE": "El Callao",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "El Callao",
         "zh_Hant_TW": "El Callao",
         "zu": "El Callao",
-        "zu_ZA": "El Callao",
-        "sr@latin": "El Callao",
-        "tt@iqtelif": "El Callao"
+        "zu_ZA": "El Callao"
     },
     "CUS": {
         "af": "Cusco",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Cusco",
         "sq_XK": "Cusco",
         "sr": "Cusco",
+        "sr@latin": "Cusco",
         "sr_Cyrl": "Cusco",
         "sr_Cyrl_BA": "Cusco",
         "sr_Cyrl_ME": "Cusco",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Cusco",
         "tr_TR": "Cusco",
         "tt": "Cusco",
+        "tt@iqtelif": "Cusco",
         "tt_RU": "Cusco",
         "twq": "Cusco",
         "twq_NE": "Cusco",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Cusco",
         "zh_Hant_TW": "Cusco",
         "zu": "Cusco",
-        "zu_ZA": "Cusco",
-        "sr@latin": "Cusco",
-        "tt@iqtelif": "Cusco"
+        "zu_ZA": "Cusco"
     },
     "HUC": {
         "af": "Huánuco",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Huánuco",
         "sq_XK": "Huánuco",
         "sr": "Хвануко",
+        "sr@latin": "Hvanuko",
         "sr_Cyrl": "Хвануко",
         "sr_Cyrl_BA": "Хвануко",
         "sr_Cyrl_ME": "Хвануко",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Huánuco",
         "tr_TR": "Huánuco",
         "tt": "Huánuco",
+        "tt@iqtelif": "Huánuco",
         "tt_RU": "Huánuco",
         "twq": "Huánuco",
         "twq_NE": "Huánuco",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Huánuco",
         "zh_Hant_TW": "Huánuco",
         "zu": "Huánuco",
-        "zu_ZA": "Huánuco",
-        "sr@latin": "Hvanuko",
-        "tt@iqtelif": "Huánuco"
+        "zu_ZA": "Huánuco"
     },
     "HUV": {
         "af": "Huancavelica",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Huancavelica",
         "sq_XK": "Huancavelica",
         "sr": "Хванкавелика",
+        "sr@latin": "Hvankavelika",
         "sr_Cyrl": "Хванкавелика",
         "sr_Cyrl_BA": "Хванкавелика",
         "sr_Cyrl_ME": "Хванкавелика",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Huancavelica",
         "tr_TR": "Huancavelica",
         "tt": "Huancavelica",
+        "tt@iqtelif": "Huancavelica",
         "tt_RU": "Huancavelica",
         "twq": "Huancavelica",
         "twq_NE": "Huancavelica",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Huancavelica",
         "zh_Hant_TW": "Huancavelica",
         "zu": "Huancavelica",
-        "zu_ZA": "Huancavelica",
-        "sr@latin": "Hvankavelika",
-        "tt@iqtelif": "Huancavelica"
+        "zu_ZA": "Huancavelica"
     },
     "ICA": {
         "af": "Ica",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Ica",
         "sq_XK": "Ica",
         "sr": "Ика",
+        "sr@latin": "Ika",
         "sr_Cyrl": "Ика",
         "sr_Cyrl_BA": "Ика",
         "sr_Cyrl_ME": "Ика",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Ica",
         "tr_TR": "Ica",
         "tt": "Ica",
+        "tt@iqtelif": "Ica",
         "tt_RU": "Ica",
         "twq": "Ica",
         "twq_NE": "Ica",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Ica",
         "zh_Hant_TW": "Ica",
         "zu": "Ica",
-        "zu_ZA": "Ica",
-        "sr@latin": "Ika",
-        "tt@iqtelif": "Ica"
+        "zu_ZA": "Ica"
     },
     "JUN": {
         "af": "Hunin",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Hunin",
         "sq_XK": "Hunin",
         "sr": "Hunin",
+        "sr@latin": "Hunin",
         "sr_Cyrl": "Hunin",
         "sr_Cyrl_BA": "Hunin",
         "sr_Cyrl_ME": "Hunin",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Hunin",
         "tr_TR": "Hunin",
         "tt": "Hunin",
+        "tt@iqtelif": "Hunin",
         "tt_RU": "Hunin",
         "twq": "Hunin",
         "twq_NE": "Hunin",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Hunin",
         "zh_Hant_TW": "Hunin",
         "zu": "Hunin",
-        "zu_ZA": "Hunin",
-        "sr@latin": "Hunin",
-        "tt@iqtelif": "Hunin"
+        "zu_ZA": "Hunin"
     },
     "LAL": {
         "af": "La Libertad",
@@ -11363,6 +11363,7 @@
         "sq_MK": "La Libertad",
         "sq_XK": "La Libertad",
         "sr": "Ла Либертад",
+        "sr@latin": "La Libertad",
         "sr_Cyrl": "Ла Либертад",
         "sr_Cyrl_BA": "Ла Либертад",
         "sr_Cyrl_ME": "Ла Либертад",
@@ -11423,6 +11424,7 @@
         "tr_CY": "La Libertad",
         "tr_TR": "La Libertad",
         "tt": "La Libertad",
+        "tt@iqtelif": "La Libertad",
         "tt_RU": "La Libertad",
         "twq": "La Libertad",
         "twq_NE": "La Libertad",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "La Libertad",
         "zh_Hant_TW": "La Libertad",
         "zu": "La Libertad",
-        "zu_ZA": "La Libertad",
-        "sr@latin": "La Libertad",
-        "tt@iqtelif": "La Libertad"
+        "zu_ZA": "La Libertad"
     },
     "LAM": {
         "af": "Lambayeque",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Lambayeque",
         "sq_XK": "Lambayeque",
         "sr": "Ламбајек",
+        "sr@latin": "Lambajek",
         "sr_Cyrl": "Ламбајек",
         "sr_Cyrl_BA": "Ламбајек",
         "sr_Cyrl_ME": "Ламбајек",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Lambayeque",
         "tr_TR": "Lambayeque",
         "tt": "Lambayeque",
+        "tt@iqtelif": "Lambayeque",
         "tt_RU": "Lambayeque",
         "twq": "Lambayeque",
         "twq_NE": "Lambayeque",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Lambayeque",
         "zh_Hant_TW": "Lambayeque",
         "zu": "Lambayeque",
-        "zu_ZA": "Lambayeque",
-        "sr@latin": "Lambajek",
-        "tt@iqtelif": "Lambayeque"
+        "zu_ZA": "Lambayeque"
     },
     "LIM": {
         "af": "Lima",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Lima",
         "sq_XK": "Lima",
         "sr": "Лима",
+        "sr@latin": "Lima",
         "sr_Cyrl": "Лима",
         "sr_Cyrl_BA": "Лима",
         "sr_Cyrl_ME": "Лима",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Lima",
         "tr_TR": "Lima",
         "tt": "Lima",
+        "tt@iqtelif": "Lima",
         "tt_RU": "Lima",
         "twq": "Lima",
         "twq_NE": "Lima",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Lima",
         "zh_Hant_TW": "Lima",
         "zu": "Lima",
-        "zu_ZA": "Lima",
-        "sr@latin": "Lima",
-        "tt@iqtelif": "Lima"
+        "zu_ZA": "Lima"
     },
     "LMA": {
         "af": "Lima hatun llaqta",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Lima hatun llaqta",
         "sq_XK": "Lima hatun llaqta",
         "sr": "Lima hatun llaqta",
+        "sr@latin": "Lima hatun llaqta",
         "sr_Cyrl": "Lima hatun llaqta",
         "sr_Cyrl_BA": "Lima hatun llaqta",
         "sr_Cyrl_ME": "Lima hatun llaqta",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Lima hatun llaqta",
         "tr_TR": "Lima hatun llaqta",
         "tt": "Lima hatun llaqta",
+        "tt@iqtelif": "Lima hatun llaqta",
         "tt_RU": "Lima hatun llaqta",
         "twq": "Lima hatun llaqta",
         "twq_NE": "Lima hatun llaqta",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Lima hatun llaqta",
         "zh_Hant_TW": "Lima hatun llaqta",
         "zu": "Lima hatun llaqta",
-        "zu_ZA": "Lima hatun llaqta",
-        "sr@latin": "Lima hatun llaqta",
-        "tt@iqtelif": "Lima hatun llaqta"
+        "zu_ZA": "Lima hatun llaqta"
     },
     "LOR": {
         "af": "Loreto",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Loreto",
         "sq_XK": "Loreto",
         "sr": "Лорето",
+        "sr@latin": "Loreto",
         "sr_Cyrl": "Лорето",
         "sr_Cyrl_BA": "Лорето",
         "sr_Cyrl_ME": "Лорето",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Loreto",
         "tr_TR": "Loreto",
         "tt": "Loreto",
+        "tt@iqtelif": "Loreto",
         "tt_RU": "Loreto",
         "twq": "Loreto",
         "twq_NE": "Loreto",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Loreto",
         "zh_Hant_TW": "Loreto",
         "zu": "Loreto",
-        "zu_ZA": "Loreto",
-        "sr@latin": "Loreto",
-        "tt@iqtelif": "Loreto"
+        "zu_ZA": "Loreto"
     },
     "MDD": {
         "af": "Madre de Dios",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Madre de Dios",
         "sq_XK": "Madre de Dios",
         "sr": "Madre de Dios",
+        "sr@latin": "Madre de Dios",
         "sr_Cyrl": "Madre de Dios",
         "sr_Cyrl_BA": "Madre de Dios",
         "sr_Cyrl_ME": "Madre de Dios",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Madre de Dios",
         "tr_TR": "Madre de Dios",
         "tt": "Madre de Dios",
+        "tt@iqtelif": "Madre de Dios",
         "tt_RU": "Madre de Dios",
         "twq": "Madre de Dios",
         "twq_NE": "Madre de Dios",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Madre de Dios",
         "zh_Hant_TW": "Madre de Dios",
         "zu": "Madre de Dios",
-        "zu_ZA": "Madre de Dios",
-        "sr@latin": "Madre de Dios",
-        "tt@iqtelif": "Madre de Dios"
+        "zu_ZA": "Madre de Dios"
     },
     "MOQ": {
         "af": "Moquegua",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Moquegua",
         "sq_XK": "Moquegua",
         "sr": "Моквегва",
+        "sr@latin": "Mokvegva",
         "sr_Cyrl": "Моквегва",
         "sr_Cyrl_BA": "Моквегва",
         "sr_Cyrl_ME": "Моквегва",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Moquegua",
         "tr_TR": "Moquegua",
         "tt": "Moquegua",
+        "tt@iqtelif": "Moquegua",
         "tt_RU": "Moquegua",
         "twq": "Moquegua",
         "twq_NE": "Moquegua",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Moquegua",
         "zh_Hant_TW": "Moquegua",
         "zu": "Moquegua",
-        "zu_ZA": "Moquegua",
-        "sr@latin": "Mokvegva",
-        "tt@iqtelif": "Moquegua"
+        "zu_ZA": "Moquegua"
     },
     "PAS": {
         "af": "Pasco",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Pasco",
         "sq_XK": "Pasco",
         "sr": "Паско",
+        "sr@latin": "Pasko",
         "sr_Cyrl": "Паско",
         "sr_Cyrl_BA": "Паско",
         "sr_Cyrl_ME": "Паско",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Pasco",
         "tr_TR": "Pasco",
         "tt": "Pasco",
+        "tt@iqtelif": "Pasco",
         "tt_RU": "Pasco",
         "twq": "Pasco",
         "twq_NE": "Pasco",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Pasco",
         "zh_Hant_TW": "Pasco",
         "zu": "Pasco",
-        "zu_ZA": "Pasco",
-        "sr@latin": "Pasko",
-        "tt@iqtelif": "Pasco"
+        "zu_ZA": "Pasco"
     },
     "PIU": {
         "af": "Piura",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Piura",
         "sq_XK": "Piura",
         "sr": "Пјура",
+        "sr@latin": "Pjura",
         "sr_Cyrl": "Пјура",
         "sr_Cyrl_BA": "Пјура",
         "sr_Cyrl_ME": "Пјура",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Piura",
         "tr_TR": "Piura",
         "tt": "Piura",
+        "tt@iqtelif": "Piura",
         "tt_RU": "Piura",
         "twq": "Piura",
         "twq_NE": "Piura",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Piura",
         "zh_Hant_TW": "Piura",
         "zu": "Piura",
-        "zu_ZA": "Piura",
-        "sr@latin": "Pjura",
-        "tt@iqtelif": "Piura"
+        "zu_ZA": "Piura"
     },
     "PUN": {
         "af": "Puno",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Puno",
         "sq_XK": "Puno",
         "sr": "Пуно",
+        "sr@latin": "Puno",
         "sr_Cyrl": "Пуно",
         "sr_Cyrl_BA": "Пуно",
         "sr_Cyrl_ME": "Пуно",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Puno",
         "tr_TR": "Puno",
         "tt": "Puno",
+        "tt@iqtelif": "Puno",
         "tt_RU": "Puno",
         "twq": "Puno",
         "twq_NE": "Puno",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Puno",
         "zh_Hant_TW": "Puno",
         "zu": "Puno",
-        "zu_ZA": "Puno",
-        "sr@latin": "Puno",
-        "tt@iqtelif": "Puno"
+        "zu_ZA": "Puno"
     },
     "SAM": {
         "af": "San Martin",
@@ -20213,6 +20213,7 @@
         "sq_MK": "San Martin",
         "sq_XK": "San Martin",
         "sr": "San Martin",
+        "sr@latin": "San Martin",
         "sr_Cyrl": "San Martin",
         "sr_Cyrl_BA": "San Martin",
         "sr_Cyrl_ME": "San Martin",
@@ -20273,6 +20274,7 @@
         "tr_CY": "San Martin",
         "tr_TR": "San Martin",
         "tt": "San Martin",
+        "tt@iqtelif": "San Martin",
         "tt_RU": "San Martin",
         "twq": "San Martin",
         "twq_NE": "San Martin",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "San Martin",
         "zh_Hant_TW": "San Martin",
         "zu": "San Martin",
-        "zu_ZA": "San Martin",
-        "sr@latin": "San Martin",
-        "tt@iqtelif": "San Martin"
+        "zu_ZA": "San Martin"
     },
     "TAC": {
         "af": "Tacna",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Tacna",
         "sq_XK": "Tacna",
         "sr": "Тацна",
+        "sr@latin": "Tacna",
         "sr_Cyrl": "Тацна",
         "sr_Cyrl_BA": "Тацна",
         "sr_Cyrl_ME": "Тацна",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Tacna",
         "tr_TR": "Tacna",
         "tt": "Tacna",
+        "tt@iqtelif": "Tacna",
         "tt_RU": "Tacna",
         "twq": "Tacna",
         "twq_NE": "Tacna",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Tacna",
         "zh_Hant_TW": "Tacna",
         "zu": "Tacna",
-        "zu_ZA": "Tacna",
-        "sr@latin": "Tacna",
-        "tt@iqtelif": "Tacna"
+        "zu_ZA": "Tacna"
     },
     "TUM": {
         "af": "Tumbes",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Tumbes",
         "sq_XK": "Tumbes",
         "sr": "Тумбс",
+        "sr@latin": "Tumbs",
         "sr_Cyrl": "Тумбс",
         "sr_Cyrl_BA": "Тумбс",
         "sr_Cyrl_ME": "Тумбс",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Tumbes",
         "tr_TR": "Tumbes",
         "tt": "Tumbes",
+        "tt@iqtelif": "Tumbes",
         "tt_RU": "Tumbes",
         "twq": "Tumbes",
         "twq_NE": "Tumbes",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Tumbes",
         "zh_Hant_TW": "Tumbes",
         "zu": "Tumbes",
-        "zu_ZA": "Tumbes",
-        "sr@latin": "Tumbs",
-        "tt@iqtelif": "Tumbes"
+        "zu_ZA": "Tumbes"
     },
     "UCA": {
         "af": "Ucayali",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Ucayali",
         "sq_XK": "Ucayali",
         "sr": "Укајали",
+        "sr@latin": "Ukajali",
         "sr_Cyrl": "Укајали",
         "sr_Cyrl_BA": "Укајали",
         "sr_Cyrl_ME": "Укајали",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Ucayali",
         "tr_TR": "Ucayali",
         "tt": "Ucayali",
+        "tt@iqtelif": "Ucayali",
         "tt_RU": "Ucayali",
         "twq": "Ucayali",
         "twq_NE": "Ucayali",
@@ -23005,8 +23007,6 @@
         "zh_Hant_MY": "Ucayali",
         "zh_Hant_TW": "Ucayali",
         "zu": "Ucayali",
-        "zu_ZA": "Ucayali",
-        "sr@latin": "Ukajali",
-        "tt@iqtelif": "Ucayali"
+        "zu_ZA": "Ucayali"
     }
 }

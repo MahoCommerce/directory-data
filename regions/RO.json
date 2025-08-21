@@ -743,6 +743,7 @@
         "sq_MK": "Alba",
         "sq_XK": "Alba",
         "sr": "Алба",
+        "sr@latin": "Alba",
         "sr_Cyrl": "Алба",
         "sr_Cyrl_BA": "Алба",
         "sr_Cyrl_ME": "Алба",
@@ -803,6 +804,7 @@
         "tr_CY": "Alba",
         "tr_TR": "Alba",
         "tt": "Alba",
+        "tt@iqtelif": "Alba",
         "tt_RU": "Alba",
         "twq": "Alba",
         "twq_NE": "Alba",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Alba",
         "zh_Hant_TW": "Alba",
         "zu": "Alba",
-        "zu_ZA": "Alba",
-        "sr@latin": "Alba",
-        "tt@iqtelif": "Alba"
+        "zu_ZA": "Alba"
     },
     "AG": {
         "af": "Argeș",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Argeș",
         "sq_XK": "Argeș",
         "sr": "Аргеш",
+        "sr@latin": "Argeš",
         "sr_Cyrl": "Аргеш",
         "sr_Cyrl_BA": "Аргеш",
         "sr_Cyrl_ME": "Аргеш",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Argeş",
         "tr_TR": "Argeş",
         "tt": "Argeș",
+        "tt@iqtelif": "Argeș",
         "tt_RU": "Argeș",
         "twq": "Argeș",
         "twq_NE": "Argeș",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Argeș",
         "zh_Hant_TW": "Argeș",
         "zu": "Argeș",
-        "zu_ZA": "Argeș",
-        "sr@latin": "Argeš",
-        "tt@iqtelif": "Argeș"
+        "zu_ZA": "Argeș"
     },
     "AR": {
         "af": "Arad",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Arad",
         "sq_XK": "Arad",
         "sr": "Арад",
+        "sr@latin": "Arad",
         "sr_Cyrl": "Арад",
         "sr_Cyrl_BA": "Арад",
         "sr_Cyrl_ME": "Арад",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Arad",
         "tr_TR": "Arad",
         "tt": "Arad",
+        "tt@iqtelif": "Arad",
         "tt_RU": "Arad",
         "twq": "Arad",
         "twq_NE": "Arad",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Arad",
         "zh_Hant_TW": "Arad",
         "zu": "Arad",
-        "zu_ZA": "Arad",
-        "sr@latin": "Arad",
-        "tt@iqtelif": "Arad"
+        "zu_ZA": "Arad"
     },
     "B": {
         "af": "București",
@@ -3398,6 +3398,7 @@
         "sq_MK": "București",
         "sq_XK": "București",
         "sr": "Букурешт",
+        "sr@latin": "Bukurešt",
         "sr_Cyrl": "Букурешт",
         "sr_Cyrl_BA": "Букурешт",
         "sr_Cyrl_ME": "Букурешт",
@@ -3458,6 +3459,7 @@
         "tr_CY": "București",
         "tr_TR": "București",
         "tt": "București",
+        "tt@iqtelif": "București",
         "tt_RU": "București",
         "twq": "București",
         "twq_NE": "București",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "București",
         "zh_Hant_TW": "București",
         "zu": "București",
-        "zu_ZA": "București",
-        "sr@latin": "Bukurešt",
-        "tt@iqtelif": "București"
+        "zu_ZA": "București"
     },
     "BC": {
         "af": "Bacău",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bacău",
         "sq_XK": "Bacău",
         "sr": "Бакау",
+        "sr@latin": "Bakau",
         "sr_Cyrl": "Бакау",
         "sr_Cyrl_BA": "Бакау",
         "sr_Cyrl_ME": "Бакау",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bacau",
         "tr_TR": "Bacau",
         "tt": "Bacău",
+        "tt@iqtelif": "Bacău",
         "tt_RU": "Bacău",
         "twq": "Bacău",
         "twq_NE": "Bacău",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bacău",
         "zh_Hant_TW": "Bacău",
         "zu": "Bacău",
-        "zu_ZA": "Bacău",
-        "sr@latin": "Bakau",
-        "tt@iqtelif": "Bacău"
+        "zu_ZA": "Bacău"
     },
     "BH": {
         "af": "Bihor",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Bihor",
         "sq_XK": "Bihor",
         "sr": "Бихор",
+        "sr@latin": "Bihor",
         "sr_Cyrl": "Бихор",
         "sr_Cyrl_BA": "Бихор",
         "sr_Cyrl_ME": "Бихор",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Bihor",
         "tr_TR": "Bihor",
         "tt": "Bihor",
+        "tt@iqtelif": "Bihor",
         "tt_RU": "Bihor",
         "twq": "Bihor",
         "twq_NE": "Bihor",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Bihor",
         "zh_Hant_TW": "Bihor",
         "zu": "Bihor",
-        "zu_ZA": "Bihor",
-        "sr@latin": "Bihor",
-        "tt@iqtelif": "Bihor"
+        "zu_ZA": "Bihor"
     },
     "BN": {
         "af": "Bistrița-Năsăud",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Bistrița-Năsăud",
         "sq_XK": "Bistrița-Năsăud",
         "sr": "Бистрица-Насауд",
+        "sr@latin": "Bistrica-Nasaud",
         "sr_Cyrl": "Бистрица-Насауд",
         "sr_Cyrl_BA": "Бистрица-Насауд",
         "sr_Cyrl_ME": "Бистрица-Насауд",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Bistrița-Năsăud",
         "tr_TR": "Bistrița-Năsăud",
         "tt": "Bistrița-Năsăud",
+        "tt@iqtelif": "Bistrița-Năsăud",
         "tt_RU": "Bistrița-Năsăud",
         "twq": "Bistrița-Năsăud",
         "twq_NE": "Bistrița-Năsăud",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Bistrița-Năsăud",
         "zh_Hant_TW": "Bistrița-Năsăud",
         "zu": "Bistrița-Năsăud",
-        "zu_ZA": "Bistrița-Năsăud",
-        "sr@latin": "Bistrica-Nasaud",
-        "tt@iqtelif": "Bistrița-Năsăud"
+        "zu_ZA": "Bistrița-Năsăud"
     },
     "BR": {
         "af": "Brăila",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Brăila",
         "sq_XK": "Brăila",
         "sr": "Brăila",
+        "sr@latin": "Brăila",
         "sr_Cyrl": "Brăila",
         "sr_Cyrl_BA": "Brăila",
         "sr_Cyrl_ME": "Brăila",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Braila",
         "tr_TR": "Braila",
         "tt": "Brăila",
+        "tt@iqtelif": "Brăila",
         "tt_RU": "Brăila",
         "twq": "Brăila",
         "twq_NE": "Brăila",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Brăila",
         "zh_Hant_TW": "Brăila",
         "zu": "Brăila",
-        "zu_ZA": "Brăila",
-        "sr@latin": "Brăila",
-        "tt@iqtelif": "Brăila"
+        "zu_ZA": "Brăila"
     },
     "BT": {
         "af": "Botoșani",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Botoșani",
         "sq_XK": "Botoșani",
         "sr": "Ботошани",
+        "sr@latin": "Botošani",
         "sr_Cyrl": "Ботошани",
         "sr_Cyrl_BA": "Ботошани",
         "sr_Cyrl_ME": "Ботошани",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Botoșani",
         "tr_TR": "Botoșani",
         "tt": "Botoșani",
+        "tt@iqtelif": "Botoșani",
         "tt_RU": "Botoșani",
         "twq": "Botoșani",
         "twq_NE": "Botoșani",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Botoșani",
         "zh_Hant_TW": "Botoșani",
         "zu": "Botoșani",
-        "zu_ZA": "Botoșani",
-        "sr@latin": "Botošani",
-        "tt@iqtelif": "Botoșani"
+        "zu_ZA": "Botoșani"
     },
     "BV": {
         "af": "Brașov",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Brașov",
         "sq_XK": "Brașov",
         "sr": "Брашов",
+        "sr@latin": "Brašov",
         "sr_Cyrl": "Брашов",
         "sr_Cyrl_BA": "Брашов",
         "sr_Cyrl_ME": "Брашов",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Brașov",
         "tr_TR": "Brașov",
         "tt": "Brașov",
+        "tt@iqtelif": "Brașov",
         "tt_RU": "Brașov",
         "twq": "Brașov",
         "twq_NE": "Brașov",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Brașov",
         "zh_Hant_TW": "Brașov",
         "zu": "Brașov",
-        "zu_ZA": "Brașov",
-        "sr@latin": "Brašov",
-        "tt@iqtelif": "Brașov"
+        "zu_ZA": "Brașov"
     },
     "BZ": {
         "af": "Buzău",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Buzău",
         "sq_XK": "Buzău",
         "sr": "Бужај",
+        "sr@latin": "Bužaj",
         "sr_Cyrl": "Бужај",
         "sr_Cyrl_BA": "Бужај",
         "sr_Cyrl_ME": "Бужај",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Buzău",
         "tr_TR": "Buzău",
         "tt": "Buzău",
+        "tt@iqtelif": "Buzău",
         "tt_RU": "Buzău",
         "twq": "Buzău",
         "twq_NE": "Buzău",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Buzău",
         "zh_Hant_TW": "Buzău",
         "zu": "Buzău",
-        "zu_ZA": "Buzău",
-        "sr@latin": "Bužaj",
-        "tt@iqtelif": "Buzău"
+        "zu_ZA": "Buzău"
     },
     "CJ": {
         "af": "Cluj",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Cluj",
         "sq_XK": "Cluj",
         "sr": "Клуј",
+        "sr@latin": "Kluj",
         "sr_Cyrl": "Клуј",
         "sr_Cyrl_BA": "Клуј",
         "sr_Cyrl_ME": "Клуј",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Cluj",
         "tr_TR": "Cluj",
         "tt": "Cluj",
+        "tt@iqtelif": "Cluj",
         "tt_RU": "Cluj",
         "twq": "Cluj",
         "twq_NE": "Cluj",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Cluj",
         "zh_Hant_TW": "Cluj",
         "zu": "Cluj",
-        "zu_ZA": "Cluj",
-        "sr@latin": "Kluj",
-        "tt@iqtelif": "Cluj"
+        "zu_ZA": "Cluj"
     },
     "CL": {
         "af": "Călărași",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Călărași",
         "sq_XK": "Călărași",
         "sr": "Чаљараши",
+        "sr@latin": "Čaljaraši",
         "sr_Cyrl": "Чаљараши",
         "sr_Cyrl_BA": "Чаљараши",
         "sr_Cyrl_ME": "Чаљараши",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Călărași",
         "tr_TR": "Călărași",
         "tt": "Călărași",
+        "tt@iqtelif": "Călărași",
         "tt_RU": "Călărași",
         "twq": "Călărași",
         "twq_NE": "Călărași",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Călărași",
         "zh_Hant_TW": "Călărași",
         "zu": "Călărași",
-        "zu_ZA": "Călărași",
-        "sr@latin": "Čaljaraši",
-        "tt@iqtelif": "Călărași"
+        "zu_ZA": "Călărași"
     },
     "CS": {
         "af": "Caraș-Severin",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Caraș-Severin",
         "sq_XK": "Caraș-Severin",
         "sr": "Караш-Северин",
+        "sr@latin": "Karaš-Severin",
         "sr_Cyrl": "Караш-Северин",
         "sr_Cyrl_BA": "Караш-Северин",
         "sr_Cyrl_ME": "Караш-Северин",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Caraș-Severin",
         "tr_TR": "Caraș-Severin",
         "tt": "Caraș-Severin",
+        "tt@iqtelif": "Caraș-Severin",
         "tt_RU": "Caraș-Severin",
         "twq": "Caraș-Severin",
         "twq_NE": "Caraș-Severin",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Caraș-Severin",
         "zh_Hant_TW": "Caraș-Severin",
         "zu": "Caraș-Severin",
-        "zu_ZA": "Caraș-Severin",
-        "sr@latin": "Karaš-Severin",
-        "tt@iqtelif": "Caraș-Severin"
+        "zu_ZA": "Caraș-Severin"
     },
     "CT": {
         "af": "Constanța",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Constanța",
         "sq_XK": "Constanța",
         "sr": "Констанца",
+        "sr@latin": "Konstanca",
         "sr_Cyrl": "Констанца",
         "sr_Cyrl_BA": "Констанца",
         "sr_Cyrl_ME": "Констанца",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Köstence",
         "tr_TR": "Köstence",
         "tt": "Constanța",
+        "tt@iqtelif": "Constanța",
         "tt_RU": "Constanța",
         "twq": "Constanța",
         "twq_NE": "Constanța",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Constanța",
         "zh_Hant_TW": "Constanța",
         "zu": "Constanța",
-        "zu_ZA": "Constanța",
-        "sr@latin": "Konstanca",
-        "tt@iqtelif": "Constanța"
+        "zu_ZA": "Constanța"
     },
     "CV": {
         "af": "Covasna",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Covasna",
         "sq_XK": "Covasna",
         "sr": "Ковасна",
+        "sr@latin": "Kovasna",
         "sr_Cyrl": "Ковасна",
         "sr_Cyrl_BA": "Ковасна",
         "sr_Cyrl_ME": "Ковасна",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Covasna",
         "tr_TR": "Covasna",
         "tt": "Covasna",
+        "tt@iqtelif": "Covasna",
         "tt_RU": "Covasna",
         "twq": "Covasna",
         "twq_NE": "Covasna",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Covasna",
         "zh_Hant_TW": "Covasna",
         "zu": "Covasna",
-        "zu_ZA": "Covasna",
-        "sr@latin": "Kovasna",
-        "tt@iqtelif": "Covasna"
+        "zu_ZA": "Covasna"
     },
     "DB": {
         "af": "Dâmbovița",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Dâmbovița",
         "sq_XK": "Dâmbovița",
         "sr": "Дамбовица",
+        "sr@latin": "Dambovica",
         "sr_Cyrl": "Дамбовица",
         "sr_Cyrl_BA": "Дамбовица",
         "sr_Cyrl_ME": "Дамбовица",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Dambovita",
         "tr_TR": "Dambovita",
         "tt": "Dâmbovița",
+        "tt@iqtelif": "Dâmbovița",
         "tt_RU": "Dâmbovița",
         "twq": "Dâmbovița",
         "twq_NE": "Dâmbovița",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Dâmbovița",
         "zh_Hant_TW": "Dâmbovița",
         "zu": "Dâmbovița",
-        "zu_ZA": "Dâmbovița",
-        "sr@latin": "Dambovica",
-        "tt@iqtelif": "Dâmbovița"
+        "zu_ZA": "Dâmbovița"
     },
     "DJ": {
         "af": "Dolj",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Dolj",
         "sq_XK": "Dolj",
         "sr": "Дољ",
+        "sr@latin": "Dolj",
         "sr_Cyrl": "Дољ",
         "sr_Cyrl_BA": "Дољ",
         "sr_Cyrl_ME": "Дољ",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Dolj",
         "tr_TR": "Dolj",
         "tt": "Dolj",
+        "tt@iqtelif": "Dolj",
         "tt_RU": "Dolj",
         "twq": "Dolj",
         "twq_NE": "Dolj",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Dolj",
         "zh_Hant_TW": "Dolj",
         "zu": "Dolj",
-        "zu_ZA": "Dolj",
-        "sr@latin": "Dolj",
-        "tt@iqtelif": "Dolj"
+        "zu_ZA": "Dolj"
     },
     "GJ": {
         "af": "Gorj",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Gorj",
         "sq_XK": "Gorj",
         "sr": "Горј",
+        "sr@latin": "Gorj",
         "sr_Cyrl": "Горј",
         "sr_Cyrl_BA": "Горј",
         "sr_Cyrl_ME": "Горј",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Gorj",
         "tr_TR": "Gorj",
         "tt": "Gorj",
+        "tt@iqtelif": "Gorj",
         "tt_RU": "Gorj",
         "twq": "Gorj",
         "twq_NE": "Gorj",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Gorj",
         "zh_Hant_TW": "Gorj",
         "zu": "Gorj",
-        "zu_ZA": "Gorj",
-        "sr@latin": "Gorj",
-        "tt@iqtelif": "Gorj"
+        "zu_ZA": "Gorj"
     },
     "GL": {
         "af": "Galați",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Galați",
         "sq_XK": "Galați",
         "sr": "Галати",
+        "sr@latin": "Galati",
         "sr_Cyrl": "Галати",
         "sr_Cyrl_BA": "Галати",
         "sr_Cyrl_ME": "Галати",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Galati",
         "tr_TR": "Galati",
         "tt": "Galați",
+        "tt@iqtelif": "Galați",
         "tt_RU": "Galați",
         "twq": "Galați",
         "twq_NE": "Galați",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Galați",
         "zh_Hant_TW": "Galați",
         "zu": "Galați",
-        "zu_ZA": "Galați",
-        "sr@latin": "Galati",
-        "tt@iqtelif": "Galați"
+        "zu_ZA": "Galați"
     },
     "GR": {
         "af": "Giurgiu",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Giurgiu",
         "sq_XK": "Giurgiu",
         "sr": "Ђурђу",
+        "sr@latin": "Đurđu",
         "sr_Cyrl": "Ђурђу",
         "sr_Cyrl_BA": "Ђурђу",
         "sr_Cyrl_ME": "Ђурђу",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Giurgiu",
         "tr_TR": "Giurgiu",
         "tt": "Giurgiu",
+        "tt@iqtelif": "Giurgiu",
         "tt_RU": "Giurgiu",
         "twq": "Giurgiu",
         "twq_NE": "Giurgiu",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Giurgiu",
         "zh_Hant_TW": "Giurgiu",
         "zu": "Giurgiu",
-        "zu_ZA": "Giurgiu",
-        "sr@latin": "Đurđu",
-        "tt@iqtelif": "Giurgiu"
+        "zu_ZA": "Giurgiu"
     },
     "HD": {
         "af": "Hunedoara",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Hunedoara",
         "sq_XK": "Hunedoara",
         "sr": "Хунедвар",
+        "sr@latin": "Hunedvar",
         "sr_Cyrl": "Хунедвар",
         "sr_Cyrl_BA": "Хунедвар",
         "sr_Cyrl_ME": "Хунедвар",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Hunedoara",
         "tr_TR": "Hunedoara",
         "tt": "Hunedoara",
+        "tt@iqtelif": "Hunedoara",
         "tt_RU": "Hunedoara",
         "twq": "Hunedoara",
         "twq_NE": "Hunedoara",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Hunedoara",
         "zh_Hant_TW": "Hunedoara",
         "zu": "Hunedoara",
-        "zu_ZA": "Hunedoara",
-        "sr@latin": "Hunedvar",
-        "tt@iqtelif": "Hunedoara"
+        "zu_ZA": "Hunedoara"
     },
     "HR": {
         "af": "Harghita",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Harghita",
         "sq_XK": "Harghita",
         "sr": "Харгита",
+        "sr@latin": "Hargita",
         "sr_Cyrl": "Харгита",
         "sr_Cyrl_BA": "Харгита",
         "sr_Cyrl_ME": "Харгита",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Harghita",
         "tr_TR": "Harghita",
         "tt": "Harghita",
+        "tt@iqtelif": "Harghita",
         "tt_RU": "Harghita",
         "twq": "Harghita",
         "twq_NE": "Harghita",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Harghita",
         "zh_Hant_TW": "Harghita",
         "zu": "Harghita",
-        "zu_ZA": "Harghita",
-        "sr@latin": "Hargita",
-        "tt@iqtelif": "Harghita"
+        "zu_ZA": "Harghita"
     },
     "IF": {
         "af": "Ilfov",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Ilfov",
         "sq_XK": "Ilfov",
         "sr": "Илфов",
+        "sr@latin": "Ilfov",
         "sr_Cyrl": "Илфов",
         "sr_Cyrl_BA": "Илфов",
         "sr_Cyrl_ME": "Илфов",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Ilfov",
         "tr_TR": "Ilfov",
         "tt": "Ilfov",
+        "tt@iqtelif": "Ilfov",
         "tt_RU": "Ilfov",
         "twq": "Ilfov",
         "twq_NE": "Ilfov",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Ilfov",
         "zh_Hant_TW": "Ilfov",
         "zu": "Ilfov",
-        "zu_ZA": "Ilfov",
-        "sr@latin": "Ilfov",
-        "tt@iqtelif": "Ilfov"
+        "zu_ZA": "Ilfov"
     },
     "IL": {
         "af": "Ialomița",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Ialomița",
         "sq_XK": "Ialomița",
         "sr": "Јаломита",
+        "sr@latin": "Jalomita",
         "sr_Cyrl": "Јаломита",
         "sr_Cyrl_BA": "Јаломита",
         "sr_Cyrl_ME": "Јаломита",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Ialomița",
         "tr_TR": "Ialomița",
         "tt": "Ialomița",
+        "tt@iqtelif": "Ialomița",
         "tt_RU": "Ialomița",
         "twq": "Ialomița",
         "twq_NE": "Ialomița",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Ialomița",
         "zh_Hant_TW": "Ialomița",
         "zu": "Ialomița",
-        "zu_ZA": "Ialomița",
-        "sr@latin": "Jalomita",
-        "tt@iqtelif": "Ialomița"
+        "zu_ZA": "Ialomița"
     },
     "IS": {
         "af": "Iași",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Iași",
         "sq_XK": "Iași",
         "sr": "Јаши",
+        "sr@latin": "Jaši",
         "sr_Cyrl": "Јаши",
         "sr_Cyrl_BA": "Јаши",
         "sr_Cyrl_ME": "Јаши",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Iași",
         "tr_TR": "Iași",
         "tt": "Iași",
+        "tt@iqtelif": "Iași",
         "tt_RU": "Iași",
         "twq": "Iași",
         "twq_NE": "Iași",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Iași",
         "zh_Hant_TW": "Iași",
         "zu": "Iași",
-        "zu_ZA": "Iași",
-        "sr@latin": "Jaši",
-        "tt@iqtelif": "Iași"
+        "zu_ZA": "Iași"
     },
     "MH": {
         "af": "Mehedinți",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Mehedinți",
         "sq_XK": "Mehedinți",
         "sr": "Mehedinți",
+        "sr@latin": "Mehedinți",
         "sr_Cyrl": "Mehedinți",
         "sr_Cyrl_BA": "Mehedinți",
         "sr_Cyrl_ME": "Mehedinți",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Mehedinți",
         "tr_TR": "Mehedinți",
         "tt": "Mehedinți",
+        "tt@iqtelif": "Mehedinți",
         "tt_RU": "Mehedinți",
         "twq": "Mehedinți",
         "twq_NE": "Mehedinți",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Mehedinți",
         "zh_Hant_TW": "Mehedinți",
         "zu": "Mehedinți",
-        "zu_ZA": "Mehedinți",
-        "sr@latin": "Mehedinți",
-        "tt@iqtelif": "Mehedinți"
+        "zu_ZA": "Mehedinți"
     },
     "MM": {
         "af": "Maramureș",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Maramureș",
         "sq_XK": "Maramureș",
         "sr": "Марамуреш",
+        "sr@latin": "Maramureš",
         "sr_Cyrl": "Марамуреш",
         "sr_Cyrl_BA": "Марамуреш",
         "sr_Cyrl_ME": "Марамуреш",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Maramureș",
         "tr_TR": "Maramureș",
         "tt": "Maramureș",
+        "tt@iqtelif": "Maramureș",
         "tt_RU": "Maramureș",
         "twq": "Maramureș",
         "twq_NE": "Maramureș",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Maramureș",
         "zh_Hant_TW": "Maramureș",
         "zu": "Maramureș",
-        "zu_ZA": "Maramureș",
-        "sr@latin": "Maramureš",
-        "tt@iqtelif": "Maramureș"
+        "zu_ZA": "Maramureș"
     },
     "MS": {
         "af": "Mureș",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Mureș",
         "sq_XK": "Mureș",
         "sr": "Муреш",
+        "sr@latin": "Mureš",
         "sr_Cyrl": "Муреш",
         "sr_Cyrl_BA": "Муреш",
         "sr_Cyrl_ME": "Муреш",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Mureș",
         "tr_TR": "Mureș",
         "tt": "Mureș",
+        "tt@iqtelif": "Mureș",
         "tt_RU": "Mureș",
         "twq": "Mureș",
         "twq_NE": "Mureș",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Mureș",
         "zh_Hant_TW": "Mureș",
         "zu": "Mureș",
-        "zu_ZA": "Mureș",
-        "sr@latin": "Mureš",
-        "tt@iqtelif": "Mureș"
+        "zu_ZA": "Mureș"
     },
     "NT": {
         "af": "Neamț",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Neamț",
         "sq_XK": "Neamț",
         "sr": "Neamț",
+        "sr@latin": "Neamț",
         "sr_Cyrl": "Neamț",
         "sr_Cyrl_BA": "Neamț",
         "sr_Cyrl_ME": "Neamț",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Neamt",
         "tr_TR": "Neamt",
         "tt": "Neamț",
+        "tt@iqtelif": "Neamț",
         "tt_RU": "Neamț",
         "twq": "Neamț",
         "twq_NE": "Neamț",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Neamț",
         "zh_Hant_TW": "Neamț",
         "zu": "Neamț",
-        "zu_ZA": "Neamț",
-        "sr@latin": "Neamț",
-        "tt@iqtelif": "Neamț"
+        "zu_ZA": "Neamț"
     },
     "OT": {
         "af": "Olt",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Olt",
         "sq_XK": "Olt",
         "sr": "Олт",
+        "sr@latin": "Olt",
         "sr_Cyrl": "Олт",
         "sr_Cyrl_BA": "Олт",
         "sr_Cyrl_ME": "Олт",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Olt",
         "tr_TR": "Olt",
         "tt": "Olt",
+        "tt@iqtelif": "Olt",
         "tt_RU": "Olt",
         "twq": "Olt",
         "twq_NE": "Olt",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Olt",
         "zh_Hant_TW": "Olt",
         "zu": "Olt",
-        "zu_ZA": "Olt",
-        "sr@latin": "Olt",
-        "tt@iqtelif": "Olt"
+        "zu_ZA": "Olt"
     },
     "PH": {
         "af": "Prahova",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Prahova",
         "sq_XK": "Prahova",
         "sr": "Прахова",
+        "sr@latin": "Prahova",
         "sr_Cyrl": "Прахова",
         "sr_Cyrl_BA": "Прахова",
         "sr_Cyrl_ME": "Прахова",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Prahova",
         "tr_TR": "Prahova",
         "tt": "Prahova",
+        "tt@iqtelif": "Prahova",
         "tt_RU": "Prahova",
         "twq": "Prahova",
         "twq_NE": "Prahova",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Prahova",
         "zh_Hant_TW": "Prahova",
         "zu": "Prahova",
-        "zu_ZA": "Prahova",
-        "sr@latin": "Prahova",
-        "tt@iqtelif": "Prahova"
+        "zu_ZA": "Prahova"
     },
     "SB": {
         "af": "Sibiu",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Sibiu",
         "sq_XK": "Sibiu",
         "sr": "Сибиу",
+        "sr@latin": "Sibiu",
         "sr_Cyrl": "Сибиу",
         "sr_Cyrl_BA": "Сибиу",
         "sr_Cyrl_ME": "Сибиу",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Sibiu",
         "tr_TR": "Sibiu",
         "tt": "Sibiu",
+        "tt@iqtelif": "Sibiu",
         "tt_RU": "Sibiu",
         "twq": "Sibiu",
         "twq_NE": "Sibiu",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Sibiu",
         "zh_Hant_TW": "Sibiu",
         "zu": "Sibiu",
-        "zu_ZA": "Sibiu",
-        "sr@latin": "Sibiu",
-        "tt@iqtelif": "Sibiu"
+        "zu_ZA": "Sibiu"
     },
     "SJ": {
         "af": "Sălaj",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Sălaj",
         "sq_XK": "Sălaj",
         "sr": "Sălaj",
+        "sr@latin": "Sălaj",
         "sr_Cyrl": "Sălaj",
         "sr_Cyrl_BA": "Sălaj",
         "sr_Cyrl_ME": "Sălaj",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Salaj",
         "tr_TR": "Salaj",
         "tt": "Sălaj",
+        "tt@iqtelif": "Sălaj",
         "tt_RU": "Sălaj",
         "twq": "Sălaj",
         "twq_NE": "Sălaj",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Sălaj",
         "zh_Hant_TW": "Sălaj",
         "zu": "Sălaj",
-        "zu_ZA": "Sălaj",
-        "sr@latin": "Sălaj",
-        "tt@iqtelif": "Sălaj"
+        "zu_ZA": "Sălaj"
     },
     "SM": {
         "af": "Satu Mare",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Satu Mare",
         "sq_XK": "Satu Mare",
         "sr": "Сату Маре",
+        "sr@latin": "Satu Mare",
         "sr_Cyrl": "Сату Маре",
         "sr_Cyrl_BA": "Сату Маре",
         "sr_Cyrl_ME": "Сату Маре",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Satu Mare",
         "tr_TR": "Satu Mare",
         "tt": "Satu Mare",
+        "tt@iqtelif": "Satu Mare",
         "tt_RU": "Satu Mare",
         "twq": "Satu Mare",
         "twq_NE": "Satu Mare",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Satu Mare",
         "zh_Hant_TW": "Satu Mare",
         "zu": "Satu Mare",
-        "zu_ZA": "Satu Mare",
-        "sr@latin": "Satu Mare",
-        "tt@iqtelif": "Satu Mare"
+        "zu_ZA": "Satu Mare"
     },
     "SV": {
         "af": "Suceava",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Suceava",
         "sq_XK": "Suceava",
         "sr": "Сукава",
+        "sr@latin": "Sukava",
         "sr_Cyrl": "Сукава",
         "sr_Cyrl_BA": "Сукава",
         "sr_Cyrl_ME": "Сукава",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Suceava",
         "tr_TR": "Suceava",
         "tt": "Suceava",
+        "tt@iqtelif": "Suceava",
         "tt_RU": "Suceava",
         "twq": "Suceava",
         "twq_NE": "Suceava",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Suceava",
         "zh_Hant_TW": "Suceava",
         "zu": "Suceava",
-        "zu_ZA": "Suceava",
-        "sr@latin": "Sukava",
-        "tt@iqtelif": "Suceava"
+        "zu_ZA": "Suceava"
     },
     "TL": {
         "af": "Tulcea",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Tulcea",
         "sq_XK": "Tulcea",
         "sr": "Тулса",
+        "sr@latin": "Tulsa",
         "sr_Cyrl": "Тулса",
         "sr_Cyrl_BA": "Тулса",
         "sr_Cyrl_ME": "Тулса",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Tulcea",
         "tr_TR": "Tulcea",
         "tt": "Tulcea",
+        "tt@iqtelif": "Tulcea",
         "tt_RU": "Tulcea",
         "twq": "Tulcea",
         "twq_NE": "Tulcea",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Tulcea",
         "zh_Hant_TW": "Tulcea",
         "zu": "Tulcea",
-        "zu_ZA": "Tulcea",
-        "sr@latin": "Tulsa",
-        "tt@iqtelif": "Tulcea"
+        "zu_ZA": "Tulcea"
     },
     "TM": {
         "af": "Timiș",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Timiș",
         "sq_XK": "Timiș",
         "sr": "Тамиш",
+        "sr@latin": "Tamiš",
         "sr_Cyrl": "Тамиш",
         "sr_Cyrl_BA": "Тамиш",
         "sr_Cyrl_ME": "Тамиш",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Timiș",
         "tr_TR": "Timiș",
         "tt": "Timiș",
+        "tt@iqtelif": "Timiș",
         "tt_RU": "Timiș",
         "twq": "Timiș",
         "twq_NE": "Timiș",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Timiș",
         "zh_Hant_TW": "Timiș",
         "zu": "Timiș",
-        "zu_ZA": "Timiș",
-        "sr@latin": "Tamiš",
-        "tt@iqtelif": "Timiș"
+        "zu_ZA": "Timiș"
     },
     "TR": {
         "af": "Teleorman",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Teleorman",
         "sq_XK": "Teleorman",
         "sr": "Teleorman",
+        "sr@latin": "Teleorman",
         "sr_Cyrl": "Teleorman",
         "sr_Cyrl_BA": "Teleorman",
         "sr_Cyrl_ME": "Teleorman",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Teleorman",
         "tr_TR": "Teleorman",
         "tt": "Teleorman",
+        "tt@iqtelif": "Teleorman",
         "tt_RU": "Teleorman",
         "twq": "Teleorman",
         "twq_NE": "Teleorman",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Teleorman",
         "zh_Hant_TW": "Teleorman",
         "zu": "Teleorman",
-        "zu_ZA": "Teleorman",
-        "sr@latin": "Teleorman",
-        "tt@iqtelif": "Teleorman"
+        "zu_ZA": "Teleorman"
     },
     "VL": {
         "af": "Vâlcea",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Vâlcea",
         "sq_XK": "Vâlcea",
         "sr": "Vâlcea",
+        "sr@latin": "Vâlcea",
         "sr_Cyrl": "Vâlcea",
         "sr_Cyrl_BA": "Vâlcea",
         "sr_Cyrl_ME": "Vâlcea",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Vâlcea",
         "tr_TR": "Vâlcea",
         "tt": "Vâlcea",
+        "tt@iqtelif": "Vâlcea",
         "tt_RU": "Vâlcea",
         "twq": "Vâlcea",
         "twq_NE": "Vâlcea",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Vâlcea",
         "zh_Hant_TW": "Vâlcea",
         "zu": "Vâlcea",
-        "zu_ZA": "Vâlcea",
-        "sr@latin": "Vâlcea",
-        "tt@iqtelif": "Vâlcea"
+        "zu_ZA": "Vâlcea"
     },
     "VN": {
         "af": "Vrancea",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Vrancea",
         "sq_XK": "Vrancea",
         "sr": "Vrancea",
+        "sr@latin": "Vrancea",
         "sr_Cyrl": "Vrancea",
         "sr_Cyrl_BA": "Vrancea",
         "sr_Cyrl_ME": "Vrancea",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Vrancea",
         "tr_TR": "Vrancea",
         "tt": "Vrancea",
+        "tt@iqtelif": "Vrancea",
         "tt_RU": "Vrancea",
         "twq": "Vrancea",
         "twq_NE": "Vrancea",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Vrancea",
         "zh_Hant_TW": "Vrancea",
         "zu": "Vrancea",
-        "zu_ZA": "Vrancea",
-        "sr@latin": "Vrancea",
-        "tt@iqtelif": "Vrancea"
+        "zu_ZA": "Vrancea"
     },
     "VS": {
         "af": "Vaslui",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Vaslui",
         "sq_XK": "Vaslui",
         "sr": "Vaslui",
+        "sr@latin": "Vaslui",
         "sr_Cyrl": "Vaslui",
         "sr_Cyrl_BA": "Vaslui",
         "sr_Cyrl_ME": "Vaslui",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Vaslui",
         "tr_TR": "Vaslui",
         "tt": "Vaslui",
+        "tt@iqtelif": "Vaslui",
         "tt_RU": "Vaslui",
         "twq": "Vaslui",
         "twq_NE": "Vaslui",
@@ -37165,8 +37167,6 @@
         "zh_Hant_MY": "Vaslui",
         "zh_Hant_TW": "Vaslui",
         "zu": "Vaslui",
-        "zu_ZA": "Vaslui",
-        "sr@latin": "Vaslui",
-        "tt@iqtelif": "Vaslui"
+        "zu_ZA": "Vaslui"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Adygeja, Respublika",
         "sq_XK": "Adygeja, Respublika",
         "sr": "Adygeja, Respublika",
+        "sr@latin": "Adygeja, Respublika",
         "sr_Cyrl": "Adygeja, Respublika",
         "sr_Cyrl_BA": "Adygeja, Respublika",
         "sr_Cyrl_ME": "Adygeja, Respublika",
@@ -803,6 +804,7 @@
         "tr_CY": "Adygeja, Respublika",
         "tr_TR": "Adygeja, Respublika",
         "tt": "Adygeja, Respublika",
+        "tt@iqtelif": "Adygeja, Respublika",
         "tt_RU": "Adygeja, Respublika",
         "twq": "Adygeja, Respublika",
         "twq_NE": "Adygeja, Respublika",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Adygeja, Respublika",
         "zh_Hant_TW": "Adygeja, Respublika",
         "zu": "Adygeja, Respublika",
-        "zu_ZA": "Adygeja, Respublika",
-        "sr@latin": "Adygeja, Respublika",
-        "tt@iqtelif": "Adygeja, Respublika"
+        "zu_ZA": "Adygeja, Respublika"
     },
     "AL": {
         "af": "Altaj, Respublika",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Altaj, Respublika",
         "sq_XK": "Altaj, Respublika",
         "sr": "Altaj, Respublika",
+        "sr@latin": "Altaj, Respublika",
         "sr_Cyrl": "Altaj, Respublika",
         "sr_Cyrl_BA": "Altaj, Respublika",
         "sr_Cyrl_ME": "Altaj, Respublika",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Altaj, Respublika",
         "tr_TR": "Altaj, Respublika",
         "tt": "Altaj, Respublika",
+        "tt@iqtelif": "Altaj, Respublika",
         "tt_RU": "Altaj, Respublika",
         "twq": "Altaj, Respublika",
         "twq_NE": "Altaj, Respublika",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Altaj, Respublika",
         "zh_Hant_TW": "Altaj, Respublika",
         "zu": "Altaj, Respublika",
-        "zu_ZA": "Altaj, Respublika",
-        "sr@latin": "Altaj, Respublika",
-        "tt@iqtelif": "Altaj, Respublika"
+        "zu_ZA": "Altaj, Respublika"
     },
     "ALT": {
         "af": "Altajskij kraj",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Altajskij kraj",
         "sq_XK": "Altajskij kraj",
         "sr": "Altajskij kraj",
+        "sr@latin": "Altajskij kraj",
         "sr_Cyrl": "Altajskij kraj",
         "sr_Cyrl_BA": "Altajskij kraj",
         "sr_Cyrl_ME": "Altajskij kraj",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Altajskij kraj",
         "tr_TR": "Altajskij kraj",
         "tt": "Altajskij kraj",
+        "tt@iqtelif": "Altajskij kraj",
         "tt_RU": "Altajskij kraj",
         "twq": "Altajskij kraj",
         "twq_NE": "Altajskij kraj",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Altajskij kraj",
         "zh_Hant_TW": "Altajskij kraj",
         "zu": "Altajskij kraj",
-        "zu_ZA": "Altajskij kraj",
-        "sr@latin": "Altajskij kraj",
-        "tt@iqtelif": "Altajskij kraj"
+        "zu_ZA": "Altajskij kraj"
     },
     "AMU": {
         "af": "Amurskaja oblast'",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Amurskaja oblast'",
         "sq_XK": "Amurskaja oblast'",
         "sr": "Amurskaja oblast'",
+        "sr@latin": "Amurskaja oblast'",
         "sr_Cyrl": "Amurskaja oblast'",
         "sr_Cyrl_BA": "Amurskaja oblast'",
         "sr_Cyrl_ME": "Amurskaja oblast'",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Amurskaja oblast'",
         "tr_TR": "Amurskaja oblast'",
         "tt": "Amurskaja oblast'",
+        "tt@iqtelif": "Amurskaja oblast'",
         "tt_RU": "Amurskaja oblast'",
         "twq": "Amurskaja oblast'",
         "twq_NE": "Amurskaja oblast'",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Amurskaja oblast'",
         "zh_Hant_TW": "Amurskaja oblast'",
         "zu": "Amurskaja oblast'",
-        "zu_ZA": "Amurskaja oblast'",
-        "sr@latin": "Amurskaja oblast'",
-        "tt@iqtelif": "Amurskaja oblast'"
+        "zu_ZA": "Amurskaja oblast'"
     },
     "ARK": {
         "af": "Arhangel'skaja oblast'",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Arhangel'skaja oblast'",
         "sq_XK": "Arhangel'skaja oblast'",
         "sr": "Arhangel'skaja oblast'",
+        "sr@latin": "Arhangel'skaja oblast'",
         "sr_Cyrl": "Arhangel'skaja oblast'",
         "sr_Cyrl_BA": "Arhangel'skaja oblast'",
         "sr_Cyrl_ME": "Arhangel'skaja oblast'",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Arhangel'skaja oblast'",
         "tr_TR": "Arhangel'skaja oblast'",
         "tt": "Arhangel'skaja oblast'",
+        "tt@iqtelif": "Arhangel'skaja oblast'",
         "tt_RU": "Arhangel'skaja oblast'",
         "twq": "Arhangel'skaja oblast'",
         "twq_NE": "Arhangel'skaja oblast'",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Arhangel'skaja oblast'",
         "zh_Hant_TW": "Arhangel'skaja oblast'",
         "zu": "Arhangel'skaja oblast'",
-        "zu_ZA": "Arhangel'skaja oblast'",
-        "sr@latin": "Arhangel'skaja oblast'",
-        "tt@iqtelif": "Arhangel'skaja oblast'"
+        "zu_ZA": "Arhangel'skaja oblast'"
     },
     "AST": {
         "af": "Astrahanskaja oblast'",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Astrahanskaja oblast'",
         "sq_XK": "Astrahanskaja oblast'",
         "sr": "Astrahanskaja oblast'",
+        "sr@latin": "Astrahanskaja oblast'",
         "sr_Cyrl": "Astrahanskaja oblast'",
         "sr_Cyrl_BA": "Astrahanskaja oblast'",
         "sr_Cyrl_ME": "Astrahanskaja oblast'",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Astrahanskaja oblast'",
         "tr_TR": "Astrahanskaja oblast'",
         "tt": "Astrahanskaja oblast'",
+        "tt@iqtelif": "Astrahanskaja oblast'",
         "tt_RU": "Astrahanskaja oblast'",
         "twq": "Astrahanskaja oblast'",
         "twq_NE": "Astrahanskaja oblast'",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Astrahanskaja oblast'",
         "zh_Hant_TW": "Astrahanskaja oblast'",
         "zu": "Astrahanskaja oblast'",
-        "zu_ZA": "Astrahanskaja oblast'",
-        "sr@latin": "Astrahanskaja oblast'",
-        "tt@iqtelif": "Astrahanskaja oblast'"
+        "zu_ZA": "Astrahanskaja oblast'"
     },
     "BA": {
         "af": "Bashkortostan, Respublika",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Bashkortostan, Respublika",
         "sq_XK": "Bashkortostan, Respublika",
         "sr": "Башкортостан, Република",
+        "sr@latin": "Baškortostan, Republika",
         "sr_Cyrl": "Башкортостан, Република",
         "sr_Cyrl_BA": "Башкортостан, Република",
         "sr_Cyrl_ME": "Башкортостан, Република",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Başkurdistan Cumhuriyeti",
         "tr_TR": "Başkurdistan Cumhuriyeti",
         "tt": "Bashkortostan, Respublika",
+        "tt@iqtelif": "Bashkortostan, Respublika",
         "tt_RU": "Bashkortostan, Respublika",
         "twq": "Bashkortostan, Respublika",
         "twq_NE": "Bashkortostan, Respublika",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Bashkortostan, Respublika",
         "zh_Hant_TW": "Bashkortostan, Respublika",
         "zu": "Bashkortostan, Respublika",
-        "zu_ZA": "Bashkortostan, Respublika",
-        "sr@latin": "Baškortostan, Republika",
-        "tt@iqtelif": "Bashkortostan, Respublika"
+        "zu_ZA": "Bashkortostan, Respublika"
     },
     "BEL": {
         "af": "Belgorodskaja oblast'",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Belgorodskaja oblast'",
         "sq_XK": "Belgorodskaja oblast'",
         "sr": "Belgorodskaja oblast'",
+        "sr@latin": "Belgorodskaja oblast'",
         "sr_Cyrl": "Belgorodskaja oblast'",
         "sr_Cyrl_BA": "Belgorodskaja oblast'",
         "sr_Cyrl_ME": "Belgorodskaja oblast'",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Belgorodskaja oblast'",
         "tr_TR": "Belgorodskaja oblast'",
         "tt": "Belgorodskaja oblast'",
+        "tt@iqtelif": "Belgorodskaja oblast'",
         "tt_RU": "Belgorodskaja oblast'",
         "twq": "Belgorodskaja oblast'",
         "twq_NE": "Belgorodskaja oblast'",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Belgorodskaja oblast'",
         "zh_Hant_TW": "Belgorodskaja oblast'",
         "zu": "Belgorodskaja oblast'",
-        "zu_ZA": "Belgorodskaja oblast'",
-        "sr@latin": "Belgorodskaja oblast'",
-        "tt@iqtelif": "Belgorodskaja oblast'"
+        "zu_ZA": "Belgorodskaja oblast'"
     },
     "BRY": {
         "af": "Brjanskaja oblast'",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Brjanskaja oblast'",
         "sq_XK": "Brjanskaja oblast'",
         "sr": "Brjanskaja oblast'",
+        "sr@latin": "Brjanskaja oblast'",
         "sr_Cyrl": "Brjanskaja oblast'",
         "sr_Cyrl_BA": "Brjanskaja oblast'",
         "sr_Cyrl_ME": "Brjanskaja oblast'",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Brjanskaja oblast'",
         "tr_TR": "Brjanskaja oblast'",
         "tt": "Brjanskaja oblast'",
+        "tt@iqtelif": "Brjanskaja oblast'",
         "tt_RU": "Brjanskaja oblast'",
         "twq": "Brjanskaja oblast'",
         "twq_NE": "Brjanskaja oblast'",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Brjanskaja oblast'",
         "zh_Hant_TW": "Brjanskaja oblast'",
         "zu": "Brjanskaja oblast'",
-        "zu_ZA": "Brjanskaja oblast'",
-        "sr@latin": "Brjanskaja oblast'",
-        "tt@iqtelif": "Brjanskaja oblast'"
+        "zu_ZA": "Brjanskaja oblast'"
     },
     "BU": {
         "af": "Burjatija, Respublika",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Burjatija, Respublika",
         "sq_XK": "Burjatija, Respublika",
         "sr": "Burjatija, Respublika",
+        "sr@latin": "Burjatija, Respublika",
         "sr_Cyrl": "Burjatija, Respublika",
         "sr_Cyrl_BA": "Burjatija, Respublika",
         "sr_Cyrl_ME": "Burjatija, Respublika",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Burjatija, Respublika",
         "tr_TR": "Burjatija, Respublika",
         "tt": "Burjatija, Respublika",
+        "tt@iqtelif": "Burjatija, Respublika",
         "tt_RU": "Burjatija, Respublika",
         "twq": "Burjatija, Respublika",
         "twq_NE": "Burjatija, Respublika",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Burjatija, Respublika",
         "zh_Hant_TW": "Burjatija, Respublika",
         "zu": "Burjatija, Respublika",
-        "zu_ZA": "Burjatija, Respublika",
-        "sr@latin": "Burjatija, Respublika",
-        "tt@iqtelif": "Burjatija, Respublika"
+        "zu_ZA": "Burjatija, Respublika"
     },
     "CE": {
         "af": "Chechenskaya Respublika",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Chechenskaya Respublika",
         "sq_XK": "Chechenskaya Respublika",
         "sr": "Чеченска Република",
+        "sr@latin": "Čečenska Republika",
         "sr_Cyrl": "Чеченска Република",
         "sr_Cyrl_BA": "Чеченска Република",
         "sr_Cyrl_ME": "Чеченска Република",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Çeçenistan Cumhuriyeti",
         "tr_TR": "Çeçenistan Cumhuriyeti",
         "tt": "Chechenskaya Respublika",
+        "tt@iqtelif": "Chechenskaya Respublika",
         "tt_RU": "Chechenskaya Respublika",
         "twq": "Chechenskaya Respublika",
         "twq_NE": "Chechenskaya Respublika",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Chechenskaya Respublika",
         "zh_Hant_TW": "Chechenskaya Respublika",
         "zu": "Chechenskaya Respublika",
-        "zu_ZA": "Chechenskaya Respublika",
-        "sr@latin": "Čečenska Republika",
-        "tt@iqtelif": "Chechenskaya Respublika"
+        "zu_ZA": "Chechenskaya Respublika"
     },
     "CHE": {
         "af": "Chelyabinskaya oblast'",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Chelyabinskaya oblast'",
         "sq_XK": "Chelyabinskaya oblast'",
         "sr": "Чељабинска област",
+        "sr@latin": "Čeljabinska oblast",
         "sr_Cyrl": "Чељабинска област",
         "sr_Cyrl_BA": "Чељабинска област",
         "sr_Cyrl_ME": "Чељабинска област",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Chelyabinskaya oblast'",
         "tr_TR": "Chelyabinskaya oblast'",
         "tt": "Chelyabinskaya oblast'",
+        "tt@iqtelif": "Chelyabinskaya oblast'",
         "tt_RU": "Chelyabinskaya oblast'",
         "twq": "Chelyabinskaya oblast'",
         "twq_NE": "Chelyabinskaya oblast'",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Chelyabinskaya oblast'",
         "zh_Hant_TW": "Chelyabinskaya oblast'",
         "zu": "Chelyabinskaya oblast'",
-        "zu_ZA": "Chelyabinskaya oblast'",
-        "sr@latin": "Čeljabinska oblast",
-        "tt@iqtelif": "Chelyabinskaya oblast'"
+        "zu_ZA": "Chelyabinskaya oblast'"
     },
     "CHU": {
         "af": "Chukotskiy avtonomnyy okrug",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Chukotskiy avtonomnyy okrug",
         "sq_XK": "Chukotskiy avtonomnyy okrug",
         "sr": "Чукотски аутономни округ",
+        "sr@latin": "Čukotski autonomni okrug",
         "sr_Cyrl": "Чукотски аутономни округ",
         "sr_Cyrl_BA": "Чукотски аутономни округ",
         "sr_Cyrl_ME": "Чукотски аутономни округ",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Chukotskiy avtonomnyy okrug",
         "tr_TR": "Chukotskiy avtonomnyy okrug",
         "tt": "Chukotskiy avtonomnyy okrug",
+        "tt@iqtelif": "Chukotskiy avtonomnyy okrug",
         "tt_RU": "Chukotskiy avtonomnyy okrug",
         "twq": "Chukotskiy avtonomnyy okrug",
         "twq_NE": "Chukotskiy avtonomnyy okrug",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Chukotskiy avtonomnyy okrug",
         "zh_Hant_TW": "Chukotskiy avtonomnyy okrug",
         "zu": "Chukotskiy avtonomnyy okrug",
-        "zu_ZA": "Chukotskiy avtonomnyy okrug",
-        "sr@latin": "Čukotski autonomni okrug",
-        "tt@iqtelif": "Chukotskiy avtonomnyy okrug"
+        "zu_ZA": "Chukotskiy avtonomnyy okrug"
     },
     "CU": {
         "af": "Chuvashskaya Respublika",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Chuvashskaya Respublika",
         "sq_XK": "Chuvashskaya Respublika",
         "sr": "Чувашка Република",
+        "sr@latin": "Čuvaška Republika",
         "sr_Cyrl": "Чувашка Република",
         "sr_Cyrl_BA": "Чувашка Република",
         "sr_Cyrl_ME": "Чувашка Република",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Çuvaşistan Cumhuriyeti",
         "tr_TR": "Çuvaşistan Cumhuriyeti",
         "tt": "Chuvashskaya Respublika",
+        "tt@iqtelif": "Chuvashskaya Respublika",
         "tt_RU": "Chuvashskaya Respublika",
         "twq": "Chuvashskaya Respublika",
         "twq_NE": "Chuvashskaya Respublika",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Chuvashskaya Respublika",
         "zh_Hant_TW": "Chuvashskaya Respublika",
         "zu": "Chuvashskaya Respublika",
-        "zu_ZA": "Chuvashskaya Respublika",
-        "sr@latin": "Čuvaška Republika",
-        "tt@iqtelif": "Chuvashskaya Respublika"
+        "zu_ZA": "Chuvashskaya Respublika"
     },
     "DA": {
         "af": "Dagestan, Respublika",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Dagestan, Respublika",
         "sq_XK": "Dagestan, Respublika",
         "sr": "Дагестан, Република",
+        "sr@latin": "Dagestan, Republika",
         "sr_Cyrl": "Дагестан, Република",
         "sr_Cyrl_BA": "Дагестан, Република",
         "sr_Cyrl_ME": "Дагестан, Република",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Dağıstan Cumhuriyeti",
         "tr_TR": "Dağıstan Cumhuriyeti",
         "tt": "Dagestan, Respublika",
+        "tt@iqtelif": "Dagestan, Respublika",
         "tt_RU": "Dagestan, Respublika",
         "twq": "Dagestan, Respublika",
         "twq_NE": "Dagestan, Respublika",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Dagestan, Respublika",
         "zh_Hant_TW": "Dagestan, Respublika",
         "zu": "Dagestan, Respublika",
-        "zu_ZA": "Dagestan, Respublika",
-        "sr@latin": "Dagestan, Republika",
-        "tt@iqtelif": "Dagestan, Respublika"
+        "zu_ZA": "Dagestan, Respublika"
     },
     "IN": {
         "af": "Ingushetiya, Respublika",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Ingushetiya, Respublika",
         "sq_XK": "Ingushetiya, Respublika",
         "sr": "Ingushetiya, Respublika",
+        "sr@latin": "Ingushetiya, Respublika",
         "sr_Cyrl": "Ingushetiya, Respublika",
         "sr_Cyrl_BA": "Ingushetiya, Respublika",
         "sr_Cyrl_ME": "Ingushetiya, Respublika",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Ingushetiya, Respublika",
         "tr_TR": "Ingushetiya, Respublika",
         "tt": "Ingushetiya, Respublika",
+        "tt@iqtelif": "Ingushetiya, Respublika",
         "tt_RU": "Ingushetiya, Respublika",
         "twq": "Ingushetiya, Respublika",
         "twq_NE": "Ingushetiya, Respublika",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Ingushetiya, Respublika",
         "zh_Hant_TW": "Ingushetiya, Respublika",
         "zu": "Ingushetiya, Respublika",
-        "zu_ZA": "Ingushetiya, Respublika",
-        "sr@latin": "Ingushetiya, Respublika",
-        "tt@iqtelif": "Ingushetiya, Respublika"
+        "zu_ZA": "Ingushetiya, Respublika"
     },
     "IRK": {
         "af": "Irkutskaja oblast'",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Irkutskaja oblast'",
         "sq_XK": "Irkutskaja oblast'",
         "sr": "Irkutskaja oblast'",
+        "sr@latin": "Irkutskaja oblast'",
         "sr_Cyrl": "Irkutskaja oblast'",
         "sr_Cyrl_BA": "Irkutskaja oblast'",
         "sr_Cyrl_ME": "Irkutskaja oblast'",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Irkutskaja oblast'",
         "tr_TR": "Irkutskaja oblast'",
         "tt": "Irkutskaja oblast'",
+        "tt@iqtelif": "Irkutskaja oblast'",
         "tt_RU": "Irkutskaja oblast'",
         "twq": "Irkutskaja oblast'",
         "twq_NE": "Irkutskaja oblast'",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Irkutskaja oblast'",
         "zh_Hant_TW": "Irkutskaja oblast'",
         "zu": "Irkutskaja oblast'",
-        "zu_ZA": "Irkutskaja oblast'",
-        "sr@latin": "Irkutskaja oblast'",
-        "tt@iqtelif": "Irkutskaja oblast'"
+        "zu_ZA": "Irkutskaja oblast'"
     },
     "IVA": {
         "af": "Ivanovskaja oblast'",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Ivanovskaja oblast'",
         "sq_XK": "Ivanovskaja oblast'",
         "sr": "Ivanovskaja oblast'",
+        "sr@latin": "Ivanovskaja oblast'",
         "sr_Cyrl": "Ivanovskaja oblast'",
         "sr_Cyrl_BA": "Ivanovskaja oblast'",
         "sr_Cyrl_ME": "Ivanovskaja oblast'",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Ivanovskaja oblast'",
         "tr_TR": "Ivanovskaja oblast'",
         "tt": "Ivanovskaja oblast'",
+        "tt@iqtelif": "Ivanovskaja oblast'",
         "tt_RU": "Ivanovskaja oblast'",
         "twq": "Ivanovskaja oblast'",
         "twq_NE": "Ivanovskaja oblast'",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Ivanovskaja oblast'",
         "zh_Hant_TW": "Ivanovskaja oblast'",
         "zu": "Ivanovskaja oblast'",
-        "zu_ZA": "Ivanovskaja oblast'",
-        "sr@latin": "Ivanovskaja oblast'",
-        "tt@iqtelif": "Ivanovskaja oblast'"
+        "zu_ZA": "Ivanovskaja oblast'"
     },
     "KAM": {
         "af": "Kamchatskiy kray",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Kamchatskiy kray",
         "sq_XK": "Kamchatskiy kray",
         "sr": "Камчатски крај",
+        "sr@latin": "Kamčatski kraj",
         "sr_Cyrl": "Камчатски крај",
         "sr_Cyrl_BA": "Камчатски крај",
         "sr_Cyrl_ME": "Камчатски крај",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Kamçatka bölgesi",
         "tr_TR": "Kamçatka bölgesi",
         "tt": "Kamchatskiy kray",
+        "tt@iqtelif": "Kamchatskiy kray",
         "tt_RU": "Kamchatskiy kray",
         "twq": "Kamchatskiy kray",
         "twq_NE": "Kamchatskiy kray",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Kamchatskiy kray",
         "zh_Hant_TW": "Kamchatskiy kray",
         "zu": "Kamchatskiy kray",
-        "zu_ZA": "Kamchatskiy kray",
-        "sr@latin": "Kamčatski kraj",
-        "tt@iqtelif": "Kamchatskiy kray"
+        "zu_ZA": "Kamchatskiy kray"
     },
     "KB": {
         "af": "Kabardino-Balkarskaja Respublika",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Kabardino-Balkarskaja Respublika",
         "sq_XK": "Kabardino-Balkarskaja Respublika",
         "sr": "Kabardino-Balkarskaja Respublika",
+        "sr@latin": "Kabardino-Balkarskaja Respublika",
         "sr_Cyrl": "Kabardino-Balkarskaja Respublika",
         "sr_Cyrl_BA": "Kabardino-Balkarskaja Respublika",
         "sr_Cyrl_ME": "Kabardino-Balkarskaja Respublika",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Kabardino-Balkarskaja Respublika",
         "tr_TR": "Kabardino-Balkarskaja Respublika",
         "tt": "Kabardino-Balkarskaja Respublika",
+        "tt@iqtelif": "Kabardino-Balkarskaja Respublika",
         "tt_RU": "Kabardino-Balkarskaja Respublika",
         "twq": "Kabardino-Balkarskaja Respublika",
         "twq_NE": "Kabardino-Balkarskaja Respublika",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Kabardino-Balkarskaja Respublika",
         "zh_Hant_TW": "Kabardino-Balkarskaja Respublika",
         "zu": "Kabardino-Balkarskaja Respublika",
-        "zu_ZA": "Kabardino-Balkarskaja Respublika",
-        "sr@latin": "Kabardino-Balkarskaja Respublika",
-        "tt@iqtelif": "Kabardino-Balkarskaja Respublika"
+        "zu_ZA": "Kabardino-Balkarskaja Respublika"
     },
     "KC": {
         "af": "Karachayevo-Cherkesskaya Respublika",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Karachayevo-Cherkesskaya Respublika",
         "sq_XK": "Karachayevo-Cherkesskaya Respublika",
         "sr": "Карачајево-Черкеска Република",
+        "sr@latin": "Karačajevo-Čerkeska Republika",
         "sr_Cyrl": "Карачајево-Черкеска Република",
         "sr_Cyrl_BA": "Карачајево-Черкеска Република",
         "sr_Cyrl_ME": "Карачајево-Черкеска Република",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Karaçay-Çerkez Cumhuriyeti",
         "tr_TR": "Karaçay-Çerkez Cumhuriyeti",
         "tt": "Karachayevo-Cherkesskaya Respublika",
+        "tt@iqtelif": "Karachayevo-Cherkesskaya Respublika",
         "tt_RU": "Karachayevo-Cherkesskaya Respublika",
         "twq": "Karachayevo-Cherkesskaya Respublika",
         "twq_NE": "Karachayevo-Cherkesskaya Respublika",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Karachayevo-Cherkesskaya Respublika",
         "zh_Hant_TW": "Karachayevo-Cherkesskaya Respublika",
         "zu": "Karachayevo-Cherkesskaya Respublika",
-        "zu_ZA": "Karachayevo-Cherkesskaya Respublika",
-        "sr@latin": "Karačajevo-Čerkeska Republika",
-        "tt@iqtelif": "Karachayevo-Cherkesskaya Respublika"
+        "zu_ZA": "Karachayevo-Cherkesskaya Respublika"
     },
     "KDA": {
         "af": "Krasnodarskij kraj",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Krasnodarskij kraj",
         "sq_XK": "Krasnodarskij kraj",
         "sr": "Krasnodarskij kraj",
+        "sr@latin": "Krasnodarskij kraj",
         "sr_Cyrl": "Krasnodarskij kraj",
         "sr_Cyrl_BA": "Krasnodarskij kraj",
         "sr_Cyrl_ME": "Krasnodarskij kraj",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Krasnodarskij kraj",
         "tr_TR": "Krasnodarskij kraj",
         "tt": "Krasnodarskij kraj",
+        "tt@iqtelif": "Krasnodarskij kraj",
         "tt_RU": "Krasnodarskij kraj",
         "twq": "Krasnodarskij kraj",
         "twq_NE": "Krasnodarskij kraj",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Krasnodarskij kraj",
         "zh_Hant_TW": "Krasnodarskij kraj",
         "zu": "Krasnodarskij kraj",
-        "zu_ZA": "Krasnodarskij kraj",
-        "sr@latin": "Krasnodarskij kraj",
-        "tt@iqtelif": "Krasnodarskij kraj"
+        "zu_ZA": "Krasnodarskij kraj"
     },
     "KEM": {
         "af": "Kemerovskaja oblast'",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Kemerovskaja oblast'",
         "sq_XK": "Kemerovskaja oblast'",
         "sr": "Kemerovskaja oblast'",
+        "sr@latin": "Kemerovskaja oblast'",
         "sr_Cyrl": "Kemerovskaja oblast'",
         "sr_Cyrl_BA": "Kemerovskaja oblast'",
         "sr_Cyrl_ME": "Kemerovskaja oblast'",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Kemerovskaja oblast'",
         "tr_TR": "Kemerovskaja oblast'",
         "tt": "Kemerovskaja oblast'",
+        "tt@iqtelif": "Kemerovskaja oblast'",
         "tt_RU": "Kemerovskaja oblast'",
         "twq": "Kemerovskaja oblast'",
         "twq_NE": "Kemerovskaja oblast'",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Kemerovskaja oblast'",
         "zh_Hant_TW": "Kemerovskaja oblast'",
         "zu": "Kemerovskaja oblast'",
-        "zu_ZA": "Kemerovskaja oblast'",
-        "sr@latin": "Kemerovskaja oblast'",
-        "tt@iqtelif": "Kemerovskaja oblast'"
+        "zu_ZA": "Kemerovskaja oblast'"
     },
     "KGD": {
         "af": "Kaliningradskaja oblast'",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Kaliningradskaja oblast'",
         "sq_XK": "Kaliningradskaja oblast'",
         "sr": "Kaliningradskaja oblast'",
+        "sr@latin": "Kaliningradskaja oblast'",
         "sr_Cyrl": "Kaliningradskaja oblast'",
         "sr_Cyrl_BA": "Kaliningradskaja oblast'",
         "sr_Cyrl_ME": "Kaliningradskaja oblast'",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Kaliningradskaja oblast'",
         "tr_TR": "Kaliningradskaja oblast'",
         "tt": "Kaliningradskaja oblast'",
+        "tt@iqtelif": "Kaliningradskaja oblast'",
         "tt_RU": "Kaliningradskaja oblast'",
         "twq": "Kaliningradskaja oblast'",
         "twq_NE": "Kaliningradskaja oblast'",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Kaliningradskaja oblast'",
         "zh_Hant_TW": "Kaliningradskaja oblast'",
         "zu": "Kaliningradskaja oblast'",
-        "zu_ZA": "Kaliningradskaja oblast'",
-        "sr@latin": "Kaliningradskaja oblast'",
-        "tt@iqtelif": "Kaliningradskaja oblast'"
+        "zu_ZA": "Kaliningradskaja oblast'"
     },
     "KGN": {
         "af": "Kurganskaja oblast'",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Kurganskaja oblast'",
         "sq_XK": "Kurganskaja oblast'",
         "sr": "Kurganskaja oblast'",
+        "sr@latin": "Kurganskaja oblast'",
         "sr_Cyrl": "Kurganskaja oblast'",
         "sr_Cyrl_BA": "Kurganskaja oblast'",
         "sr_Cyrl_ME": "Kurganskaja oblast'",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Kurganskaja oblast'",
         "tr_TR": "Kurganskaja oblast'",
         "tt": "Kurganskaja oblast'",
+        "tt@iqtelif": "Kurganskaja oblast'",
         "tt_RU": "Kurganskaja oblast'",
         "twq": "Kurganskaja oblast'",
         "twq_NE": "Kurganskaja oblast'",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Kurganskaja oblast'",
         "zh_Hant_TW": "Kurganskaja oblast'",
         "zu": "Kurganskaja oblast'",
-        "zu_ZA": "Kurganskaja oblast'",
-        "sr@latin": "Kurganskaja oblast'",
-        "tt@iqtelif": "Kurganskaja oblast'"
+        "zu_ZA": "Kurganskaja oblast'"
     },
     "KHA": {
         "af": "Habarovskij kraj",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Habarovskij kraj",
         "sq_XK": "Habarovskij kraj",
         "sr": "Habarovskij kraj",
+        "sr@latin": "Habarovskij kraj",
         "sr_Cyrl": "Habarovskij kraj",
         "sr_Cyrl_BA": "Habarovskij kraj",
         "sr_Cyrl_ME": "Habarovskij kraj",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Habarovskij kraj",
         "tr_TR": "Habarovskij kraj",
         "tt": "Habarovskij kraj",
+        "tt@iqtelif": "Habarovskij kraj",
         "tt_RU": "Habarovskij kraj",
         "twq": "Habarovskij kraj",
         "twq_NE": "Habarovskij kraj",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Habarovskij kraj",
         "zh_Hant_TW": "Habarovskij kraj",
         "zu": "Habarovskij kraj",
-        "zu_ZA": "Habarovskij kraj",
-        "sr@latin": "Habarovskij kraj",
-        "tt@iqtelif": "Habarovskij kraj"
+        "zu_ZA": "Habarovskij kraj"
     },
     "KHM": {
         "af": "Hanty-Mansijskij avtonomnyj okrug",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Hanty-Mansijskij avtonomnyj okrug",
         "sq_XK": "Hanty-Mansijskij avtonomnyj okrug",
         "sr": "Hanty-Mansijskij avtonomnyj okrug",
+        "sr@latin": "Hanty-Mansijskij avtonomnyj okrug",
         "sr_Cyrl": "Hanty-Mansijskij avtonomnyj okrug",
         "sr_Cyrl_BA": "Hanty-Mansijskij avtonomnyj okrug",
         "sr_Cyrl_ME": "Hanty-Mansijskij avtonomnyj okrug",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Hanty-Mansijskij avtonomnyj okrug",
         "tr_TR": "Hanty-Mansijskij avtonomnyj okrug",
         "tt": "Hanty-Mansijskij avtonomnyj okrug",
+        "tt@iqtelif": "Hanty-Mansijskij avtonomnyj okrug",
         "tt_RU": "Hanty-Mansijskij avtonomnyj okrug",
         "twq": "Hanty-Mansijskij avtonomnyj okrug",
         "twq_NE": "Hanty-Mansijskij avtonomnyj okrug",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Hanty-Mansijskij avtonomnyj okrug",
         "zh_Hant_TW": "Hanty-Mansijskij avtonomnyj okrug",
         "zu": "Hanty-Mansijskij avtonomnyj okrug",
-        "zu_ZA": "Hanty-Mansijskij avtonomnyj okrug",
-        "sr@latin": "Hanty-Mansijskij avtonomnyj okrug",
-        "tt@iqtelif": "Hanty-Mansijskij avtonomnyj okrug"
+        "zu_ZA": "Hanty-Mansijskij avtonomnyj okrug"
     },
     "KIR": {
         "af": "Kirovskaja oblast'",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Kirovskaja oblast'",
         "sq_XK": "Kirovskaja oblast'",
         "sr": "Kirovskaja oblast'",
+        "sr@latin": "Kirovskaja oblast'",
         "sr_Cyrl": "Kirovskaja oblast'",
         "sr_Cyrl_BA": "Kirovskaja oblast'",
         "sr_Cyrl_ME": "Kirovskaja oblast'",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Kirovskaja oblast'",
         "tr_TR": "Kirovskaja oblast'",
         "tt": "Kirovskaja oblast'",
+        "tt@iqtelif": "Kirovskaja oblast'",
         "tt_RU": "Kirovskaja oblast'",
         "twq": "Kirovskaja oblast'",
         "twq_NE": "Kirovskaja oblast'",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Kirovskaja oblast'",
         "zh_Hant_TW": "Kirovskaja oblast'",
         "zu": "Kirovskaja oblast'",
-        "zu_ZA": "Kirovskaja oblast'",
-        "sr@latin": "Kirovskaja oblast'",
-        "tt@iqtelif": "Kirovskaja oblast'"
+        "zu_ZA": "Kirovskaja oblast'"
     },
     "KK": {
         "af": "Hakasija, Respublika",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Hakasija, Respublika",
         "sq_XK": "Hakasija, Respublika",
         "sr": "Hakasija, Respublika",
+        "sr@latin": "Hakasija, Respublika",
         "sr_Cyrl": "Hakasija, Respublika",
         "sr_Cyrl_BA": "Hakasija, Respublika",
         "sr_Cyrl_ME": "Hakasija, Respublika",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Hakasija, Respublika",
         "tr_TR": "Hakasija, Respublika",
         "tt": "Hakasija, Respublika",
+        "tt@iqtelif": "Hakasija, Respublika",
         "tt_RU": "Hakasija, Respublika",
         "twq": "Hakasija, Respublika",
         "twq_NE": "Hakasija, Respublika",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Hakasija, Respublika",
         "zh_Hant_TW": "Hakasija, Respublika",
         "zu": "Hakasija, Respublika",
-        "zu_ZA": "Hakasija, Respublika",
-        "sr@latin": "Hakasija, Respublika",
-        "tt@iqtelif": "Hakasija, Respublika"
+        "zu_ZA": "Hakasija, Respublika"
     },
     "KL": {
         "af": "Kalmykija, Respublika",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Kalmykija, Respublika",
         "sq_XK": "Kalmykija, Respublika",
         "sr": "Kalmykija, Respublika",
+        "sr@latin": "Kalmykija, Respublika",
         "sr_Cyrl": "Kalmykija, Respublika",
         "sr_Cyrl_BA": "Kalmykija, Respublika",
         "sr_Cyrl_ME": "Kalmykija, Respublika",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Kalmykija, Respublika",
         "tr_TR": "Kalmykija, Respublika",
         "tt": "Kalmykija, Respublika",
+        "tt@iqtelif": "Kalmykija, Respublika",
         "tt_RU": "Kalmykija, Respublika",
         "twq": "Kalmykija, Respublika",
         "twq_NE": "Kalmykija, Respublika",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Kalmykija, Respublika",
         "zh_Hant_TW": "Kalmykija, Respublika",
         "zu": "Kalmykija, Respublika",
-        "zu_ZA": "Kalmykija, Respublika",
-        "sr@latin": "Kalmykija, Respublika",
-        "tt@iqtelif": "Kalmykija, Respublika"
+        "zu_ZA": "Kalmykija, Respublika"
     },
     "KLU": {
         "af": "Kaluzhskaya oblast'",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Kaluzhskaya oblast'",
         "sq_XK": "Kaluzhskaya oblast'",
         "sr": "Kaluzhskaya oblast'",
+        "sr@latin": "Kaluzhskaya oblast'",
         "sr_Cyrl": "Kaluzhskaya oblast'",
         "sr_Cyrl_BA": "Kaluzhskaya oblast'",
         "sr_Cyrl_ME": "Kaluzhskaya oblast'",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Kaluzhskaya oblast'",
         "tr_TR": "Kaluzhskaya oblast'",
         "tt": "Kaluzhskaya oblast'",
+        "tt@iqtelif": "Kaluzhskaya oblast'",
         "tt_RU": "Kaluzhskaya oblast'",
         "twq": "Kaluzhskaya oblast'",
         "twq_NE": "Kaluzhskaya oblast'",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Kaluzhskaya oblast'",
         "zh_Hant_TW": "Kaluzhskaya oblast'",
         "zu": "Kaluzhskaya oblast'",
-        "zu_ZA": "Kaluzhskaya oblast'",
-        "sr@latin": "Kaluzhskaya oblast'",
-        "tt@iqtelif": "Kaluzhskaya oblast'"
+        "zu_ZA": "Kaluzhskaya oblast'"
     },
     "KO": {
         "af": "Komi, Respublika",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Komi, Respublika",
         "sq_XK": "Komi, Respublika",
         "sr": "Коми, Република",
+        "sr@latin": "Komi, Republika",
         "sr_Cyrl": "Коми, Република",
         "sr_Cyrl_BA": "Коми, Република",
         "sr_Cyrl_ME": "Коми, Република",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Komi Cumhuriyeti",
         "tr_TR": "Komi Cumhuriyeti",
         "tt": "Komi, Respublika",
+        "tt@iqtelif": "Komi, Respublika",
         "tt_RU": "Komi, Respublika",
         "twq": "Komi, Respublika",
         "twq_NE": "Komi, Respublika",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Komi, Respublika",
         "zh_Hant_TW": "Komi, Respublika",
         "zu": "Komi, Respublika",
-        "zu_ZA": "Komi, Respublika",
-        "sr@latin": "Komi, Republika",
-        "tt@iqtelif": "Komi, Respublika"
+        "zu_ZA": "Komi, Respublika"
     },
     "KOS": {
         "af": "Kostromskaja oblast'",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Kostromskaja oblast'",
         "sq_XK": "Kostromskaja oblast'",
         "sr": "Kostromskaja oblast'",
+        "sr@latin": "Kostromskaja oblast'",
         "sr_Cyrl": "Kostromskaja oblast'",
         "sr_Cyrl_BA": "Kostromskaja oblast'",
         "sr_Cyrl_ME": "Kostromskaja oblast'",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Kostromskaja oblast'",
         "tr_TR": "Kostromskaja oblast'",
         "tt": "Kostromskaja oblast'",
+        "tt@iqtelif": "Kostromskaja oblast'",
         "tt_RU": "Kostromskaja oblast'",
         "twq": "Kostromskaja oblast'",
         "twq_NE": "Kostromskaja oblast'",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Kostromskaja oblast'",
         "zh_Hant_TW": "Kostromskaja oblast'",
         "zu": "Kostromskaja oblast'",
-        "zu_ZA": "Kostromskaja oblast'",
-        "sr@latin": "Kostromskaja oblast'",
-        "tt@iqtelif": "Kostromskaja oblast'"
+        "zu_ZA": "Kostromskaja oblast'"
     },
     "KR": {
         "af": "Karelija, Respublika",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Karelija, Respublika",
         "sq_XK": "Karelija, Respublika",
         "sr": "Karelija, Respublika",
+        "sr@latin": "Karelija, Respublika",
         "sr_Cyrl": "Karelija, Respublika",
         "sr_Cyrl_BA": "Karelija, Respublika",
         "sr_Cyrl_ME": "Karelija, Respublika",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Karelija, Respublika",
         "tr_TR": "Karelija, Respublika",
         "tt": "Karelija, Respublika",
+        "tt@iqtelif": "Karelija, Respublika",
         "tt_RU": "Karelija, Respublika",
         "twq": "Karelija, Respublika",
         "twq_NE": "Karelija, Respublika",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Karelija, Respublika",
         "zh_Hant_TW": "Karelija, Respublika",
         "zu": "Karelija, Respublika",
-        "zu_ZA": "Karelija, Respublika",
-        "sr@latin": "Karelija, Respublika",
-        "tt@iqtelif": "Karelija, Respublika"
+        "zu_ZA": "Karelija, Respublika"
     },
     "KRS": {
         "af": "Kurskaja oblast'",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Kurskaja oblast'",
         "sq_XK": "Kurskaja oblast'",
         "sr": "Kurskaja oblast'",
+        "sr@latin": "Kurskaja oblast'",
         "sr_Cyrl": "Kurskaja oblast'",
         "sr_Cyrl_BA": "Kurskaja oblast'",
         "sr_Cyrl_ME": "Kurskaja oblast'",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Kurskaja oblast'",
         "tr_TR": "Kurskaja oblast'",
         "tt": "Kurskaja oblast'",
+        "tt@iqtelif": "Kurskaja oblast'",
         "tt_RU": "Kurskaja oblast'",
         "twq": "Kurskaja oblast'",
         "twq_NE": "Kurskaja oblast'",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Kurskaja oblast'",
         "zh_Hant_TW": "Kurskaja oblast'",
         "zu": "Kurskaja oblast'",
-        "zu_ZA": "Kurskaja oblast'",
-        "sr@latin": "Kurskaja oblast'",
-        "tt@iqtelif": "Kurskaja oblast'"
+        "zu_ZA": "Kurskaja oblast'"
     },
     "KYA": {
         "af": "Krasnojarskij kraj",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Krasnojarskij kraj",
         "sq_XK": "Krasnojarskij kraj",
         "sr": "Krasnojarskij kraj",
+        "sr@latin": "Krasnojarskij kraj",
         "sr_Cyrl": "Krasnojarskij kraj",
         "sr_Cyrl_BA": "Krasnojarskij kraj",
         "sr_Cyrl_ME": "Krasnojarskij kraj",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Krasnojarskij kraj",
         "tr_TR": "Krasnojarskij kraj",
         "tt": "Krasnojarskij kraj",
+        "tt@iqtelif": "Krasnojarskij kraj",
         "tt_RU": "Krasnojarskij kraj",
         "twq": "Krasnojarskij kraj",
         "twq_NE": "Krasnojarskij kraj",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Krasnojarskij kraj",
         "zh_Hant_TW": "Krasnojarskij kraj",
         "zu": "Krasnojarskij kraj",
-        "zu_ZA": "Krasnojarskij kraj",
-        "sr@latin": "Krasnojarskij kraj",
-        "tt@iqtelif": "Krasnojarskij kraj"
+        "zu_ZA": "Krasnojarskij kraj"
     },
     "LEN": {
         "af": "Leningradskaja oblast'",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Leningradskaja oblast'",
         "sq_XK": "Leningradskaja oblast'",
         "sr": "Leningradskaja oblast'",
+        "sr@latin": "Leningradskaja oblast'",
         "sr_Cyrl": "Leningradskaja oblast'",
         "sr_Cyrl_BA": "Leningradskaja oblast'",
         "sr_Cyrl_ME": "Leningradskaja oblast'",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Leningradskaja oblast'",
         "tr_TR": "Leningradskaja oblast'",
         "tt": "Leningradskaja oblast'",
+        "tt@iqtelif": "Leningradskaja oblast'",
         "tt_RU": "Leningradskaja oblast'",
         "twq": "Leningradskaja oblast'",
         "twq_NE": "Leningradskaja oblast'",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Leningradskaja oblast'",
         "zh_Hant_TW": "Leningradskaja oblast'",
         "zu": "Leningradskaja oblast'",
-        "zu_ZA": "Leningradskaja oblast'",
-        "sr@latin": "Leningradskaja oblast'",
-        "tt@iqtelif": "Leningradskaja oblast'"
+        "zu_ZA": "Leningradskaja oblast'"
     },
     "LIP": {
         "af": "Lipeckaja oblast'",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Lipeckaja oblast'",
         "sq_XK": "Lipeckaja oblast'",
         "sr": "Lipeckaja oblast'",
+        "sr@latin": "Lipeckaja oblast'",
         "sr_Cyrl": "Lipeckaja oblast'",
         "sr_Cyrl_BA": "Lipeckaja oblast'",
         "sr_Cyrl_ME": "Lipeckaja oblast'",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Lipeckaja oblast'",
         "tr_TR": "Lipeckaja oblast'",
         "tt": "Lipeckaja oblast'",
+        "tt@iqtelif": "Lipeckaja oblast'",
         "tt_RU": "Lipeckaja oblast'",
         "twq": "Lipeckaja oblast'",
         "twq_NE": "Lipeckaja oblast'",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Lipeckaja oblast'",
         "zh_Hant_TW": "Lipeckaja oblast'",
         "zu": "Lipeckaja oblast'",
-        "zu_ZA": "Lipeckaja oblast'",
-        "sr@latin": "Lipeckaja oblast'",
-        "tt@iqtelif": "Lipeckaja oblast'"
+        "zu_ZA": "Lipeckaja oblast'"
     },
     "MAG": {
         "af": "Magadanskaja oblast'",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Magadanskaja oblast'",
         "sq_XK": "Magadanskaja oblast'",
         "sr": "Magadanskaja oblast'",
+        "sr@latin": "Magadanskaja oblast'",
         "sr_Cyrl": "Magadanskaja oblast'",
         "sr_Cyrl_BA": "Magadanskaja oblast'",
         "sr_Cyrl_ME": "Magadanskaja oblast'",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Magadanskaja oblast'",
         "tr_TR": "Magadanskaja oblast'",
         "tt": "Magadanskaja oblast'",
+        "tt@iqtelif": "Magadanskaja oblast'",
         "tt_RU": "Magadanskaja oblast'",
         "twq": "Magadanskaja oblast'",
         "twq_NE": "Magadanskaja oblast'",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Magadanskaja oblast'",
         "zh_Hant_TW": "Magadanskaja oblast'",
         "zu": "Magadanskaja oblast'",
-        "zu_ZA": "Magadanskaja oblast'",
-        "sr@latin": "Magadanskaja oblast'",
-        "tt@iqtelif": "Magadanskaja oblast'"
+        "zu_ZA": "Magadanskaja oblast'"
     },
     "ME": {
         "af": "Marij Èl, Respublika",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Marij Èl, Respublika",
         "sq_XK": "Marij Èl, Respublika",
         "sr": "Marij Èl, Respublika",
+        "sr@latin": "Marij Èl, Respublika",
         "sr_Cyrl": "Marij Èl, Respublika",
         "sr_Cyrl_BA": "Marij Èl, Respublika",
         "sr_Cyrl_ME": "Marij Èl, Respublika",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Marij Èl, Respublika",
         "tr_TR": "Marij Èl, Respublika",
         "tt": "Marij Èl, Respublika",
+        "tt@iqtelif": "Marij Èl, Respublika",
         "tt_RU": "Marij Èl, Respublika",
         "twq": "Marij Èl, Respublika",
         "twq_NE": "Marij Èl, Respublika",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Marij Èl, Respublika",
         "zh_Hant_TW": "Marij Èl, Respublika",
         "zu": "Marij Èl, Respublika",
-        "zu_ZA": "Marij Èl, Respublika",
-        "sr@latin": "Marij Èl, Respublika",
-        "tt@iqtelif": "Marij Èl, Respublika"
+        "zu_ZA": "Marij Èl, Respublika"
     },
     "MO": {
         "af": "Mordovija, Respublika",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Mordovija, Respublika",
         "sq_XK": "Mordovija, Respublika",
         "sr": "Mordovija, Respublika",
+        "sr@latin": "Mordovija, Respublika",
         "sr_Cyrl": "Mordovija, Respublika",
         "sr_Cyrl_BA": "Mordovija, Respublika",
         "sr_Cyrl_ME": "Mordovija, Respublika",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Mordovija, Respublika",
         "tr_TR": "Mordovija, Respublika",
         "tt": "Mordovija, Respublika",
+        "tt@iqtelif": "Mordovija, Respublika",
         "tt_RU": "Mordovija, Respublika",
         "twq": "Mordovija, Respublika",
         "twq_NE": "Mordovija, Respublika",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Mordovija, Respublika",
         "zh_Hant_TW": "Mordovija, Respublika",
         "zu": "Mordovija, Respublika",
-        "zu_ZA": "Mordovija, Respublika",
-        "sr@latin": "Mordovija, Respublika",
-        "tt@iqtelif": "Mordovija, Respublika"
+        "zu_ZA": "Mordovija, Respublika"
     },
     "MOS": {
         "af": "Moskovskaja oblast'",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Moskovskaja oblast'",
         "sq_XK": "Moskovskaja oblast'",
         "sr": "Moskovskaja oblast'",
+        "sr@latin": "Moskovskaja oblast'",
         "sr_Cyrl": "Moskovskaja oblast'",
         "sr_Cyrl_BA": "Moskovskaja oblast'",
         "sr_Cyrl_ME": "Moskovskaja oblast'",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Moskovskaja oblast'",
         "tr_TR": "Moskovskaja oblast'",
         "tt": "Moskovskaja oblast'",
+        "tt@iqtelif": "Moskovskaja oblast'",
         "tt_RU": "Moskovskaja oblast'",
         "twq": "Moskovskaja oblast'",
         "twq_NE": "Moskovskaja oblast'",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Moskovskaja oblast'",
         "zh_Hant_TW": "Moskovskaja oblast'",
         "zu": "Moskovskaja oblast'",
-        "zu_ZA": "Moskovskaja oblast'",
-        "sr@latin": "Moskovskaja oblast'",
-        "tt@iqtelif": "Moskovskaja oblast'"
+        "zu_ZA": "Moskovskaja oblast'"
     },
     "MOW": {
         "af": "Moskva",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Moskva",
         "sq_XK": "Moskva",
         "sr": "Москва",
+        "sr@latin": "Moskva",
         "sr_Cyrl": "Москва",
         "sr_Cyrl_BA": "Москва",
         "sr_Cyrl_ME": "Москва",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Moskova",
         "tr_TR": "Moskova",
         "tt": "Moskva",
+        "tt@iqtelif": "Moskva",
         "tt_RU": "Moskva",
         "twq": "Moskva",
         "twq_NE": "Moskva",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Moskva",
         "zh_Hant_TW": "Moskva",
         "zu": "Moskva",
-        "zu_ZA": "Moskva",
-        "sr@latin": "Moskva",
-        "tt@iqtelif": "Moskva"
+        "zu_ZA": "Moskva"
     },
     "MUR": {
         "af": "Murmanskaja oblast'",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Murmanskaja oblast'",
         "sq_XK": "Murmanskaja oblast'",
         "sr": "Murmanskaja oblast'",
+        "sr@latin": "Murmanskaja oblast'",
         "sr_Cyrl": "Murmanskaja oblast'",
         "sr_Cyrl_BA": "Murmanskaja oblast'",
         "sr_Cyrl_ME": "Murmanskaja oblast'",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Murmanskaja oblast'",
         "tr_TR": "Murmanskaja oblast'",
         "tt": "Murmanskaja oblast'",
+        "tt@iqtelif": "Murmanskaja oblast'",
         "tt_RU": "Murmanskaja oblast'",
         "twq": "Murmanskaja oblast'",
         "twq_NE": "Murmanskaja oblast'",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Murmanskaja oblast'",
         "zh_Hant_TW": "Murmanskaja oblast'",
         "zu": "Murmanskaja oblast'",
-        "zu_ZA": "Murmanskaja oblast'",
-        "sr@latin": "Murmanskaja oblast'",
-        "tt@iqtelif": "Murmanskaja oblast'"
+        "zu_ZA": "Murmanskaja oblast'"
     },
     "NEN": {
         "af": "Neneckij avtonomnyj okrug",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Neneckij avtonomnyj okrug",
         "sq_XK": "Neneckij avtonomnyj okrug",
         "sr": "Neneckij avtonomnyj okrug",
+        "sr@latin": "Neneckij avtonomnyj okrug",
         "sr_Cyrl": "Neneckij avtonomnyj okrug",
         "sr_Cyrl_BA": "Neneckij avtonomnyj okrug",
         "sr_Cyrl_ME": "Neneckij avtonomnyj okrug",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Neneckij avtonomnyj okrug",
         "tr_TR": "Neneckij avtonomnyj okrug",
         "tt": "Neneckij avtonomnyj okrug",
+        "tt@iqtelif": "Neneckij avtonomnyj okrug",
         "tt_RU": "Neneckij avtonomnyj okrug",
         "twq": "Neneckij avtonomnyj okrug",
         "twq_NE": "Neneckij avtonomnyj okrug",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Neneckij avtonomnyj okrug",
         "zh_Hant_TW": "Neneckij avtonomnyj okrug",
         "zu": "Neneckij avtonomnyj okrug",
-        "zu_ZA": "Neneckij avtonomnyj okrug",
-        "sr@latin": "Neneckij avtonomnyj okrug",
-        "tt@iqtelif": "Neneckij avtonomnyj okrug"
+        "zu_ZA": "Neneckij avtonomnyj okrug"
     },
     "NGR": {
         "af": "Novgorodskaja oblast'",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Novgorodskaja oblast'",
         "sq_XK": "Novgorodskaja oblast'",
         "sr": "Novgorodskaja oblast'",
+        "sr@latin": "Novgorodskaja oblast'",
         "sr_Cyrl": "Novgorodskaja oblast'",
         "sr_Cyrl_BA": "Novgorodskaja oblast'",
         "sr_Cyrl_ME": "Novgorodskaja oblast'",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Novgorodskaja oblast'",
         "tr_TR": "Novgorodskaja oblast'",
         "tt": "Novgorodskaja oblast'",
+        "tt@iqtelif": "Novgorodskaja oblast'",
         "tt_RU": "Novgorodskaja oblast'",
         "twq": "Novgorodskaja oblast'",
         "twq_NE": "Novgorodskaja oblast'",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Novgorodskaja oblast'",
         "zh_Hant_TW": "Novgorodskaja oblast'",
         "zu": "Novgorodskaja oblast'",
-        "zu_ZA": "Novgorodskaja oblast'",
-        "sr@latin": "Novgorodskaja oblast'",
-        "tt@iqtelif": "Novgorodskaja oblast'"
+        "zu_ZA": "Novgorodskaja oblast'"
     },
     "NIZ": {
         "af": "Nizhegorodskaya oblast'",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Nizhegorodskaya oblast'",
         "sq_XK": "Nizhegorodskaya oblast'",
         "sr": "Нижегородска област",
+        "sr@latin": "Nižegorodska oblast",
         "sr_Cyrl": "Нижегородска област",
         "sr_Cyrl_BA": "Нижегородска област",
         "sr_Cyrl_ME": "Нижегородска област",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Nizhegorodskaya oblast'",
         "tr_TR": "Nizhegorodskaya oblast'",
         "tt": "Nizhegorodskaya oblast'",
+        "tt@iqtelif": "Nizhegorodskaya oblast'",
         "tt_RU": "Nizhegorodskaya oblast'",
         "twq": "Nizhegorodskaya oblast'",
         "twq_NE": "Nizhegorodskaya oblast'",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Nizhegorodskaya oblast'",
         "zh_Hant_TW": "Nizhegorodskaya oblast'",
         "zu": "Nizhegorodskaya oblast'",
-        "zu_ZA": "Nizhegorodskaya oblast'",
-        "sr@latin": "Nižegorodska oblast",
-        "tt@iqtelif": "Nizhegorodskaya oblast'"
+        "zu_ZA": "Nizhegorodskaya oblast'"
     },
     "NVS": {
         "af": "Novosibirskaja oblast'",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Novosibirskaja oblast'",
         "sq_XK": "Novosibirskaja oblast'",
         "sr": "Novosibirskaja oblast'",
+        "sr@latin": "Novosibirskaja oblast'",
         "sr_Cyrl": "Novosibirskaja oblast'",
         "sr_Cyrl_BA": "Novosibirskaja oblast'",
         "sr_Cyrl_ME": "Novosibirskaja oblast'",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Novosibirskaja oblast'",
         "tr_TR": "Novosibirskaja oblast'",
         "tt": "Novosibirskaja oblast'",
+        "tt@iqtelif": "Novosibirskaja oblast'",
         "tt_RU": "Novosibirskaja oblast'",
         "twq": "Novosibirskaja oblast'",
         "twq_NE": "Novosibirskaja oblast'",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Novosibirskaja oblast'",
         "zh_Hant_TW": "Novosibirskaja oblast'",
         "zu": "Novosibirskaja oblast'",
-        "zu_ZA": "Novosibirskaja oblast'",
-        "sr@latin": "Novosibirskaja oblast'",
-        "tt@iqtelif": "Novosibirskaja oblast'"
+        "zu_ZA": "Novosibirskaja oblast'"
     },
     "OMS": {
         "af": "Omskaja oblast'",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Omskaja oblast'",
         "sq_XK": "Omskaja oblast'",
         "sr": "Omskaja oblast'",
+        "sr@latin": "Omskaja oblast'",
         "sr_Cyrl": "Omskaja oblast'",
         "sr_Cyrl_BA": "Omskaja oblast'",
         "sr_Cyrl_ME": "Omskaja oblast'",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Omskaja oblast'",
         "tr_TR": "Omskaja oblast'",
         "tt": "Omskaja oblast'",
+        "tt@iqtelif": "Omskaja oblast'",
         "tt_RU": "Omskaja oblast'",
         "twq": "Omskaja oblast'",
         "twq_NE": "Omskaja oblast'",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Omskaja oblast'",
         "zh_Hant_TW": "Omskaja oblast'",
         "zu": "Omskaja oblast'",
-        "zu_ZA": "Omskaja oblast'",
-        "sr@latin": "Omskaja oblast'",
-        "tt@iqtelif": "Omskaja oblast'"
+        "zu_ZA": "Omskaja oblast'"
     },
     "ORE": {
         "af": "Orenburgskaja oblast'",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Orenburgskaja oblast'",
         "sq_XK": "Orenburgskaja oblast'",
         "sr": "Orenburgskaja oblast'",
+        "sr@latin": "Orenburgskaja oblast'",
         "sr_Cyrl": "Orenburgskaja oblast'",
         "sr_Cyrl_BA": "Orenburgskaja oblast'",
         "sr_Cyrl_ME": "Orenburgskaja oblast'",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Orenburgskaja oblast'",
         "tr_TR": "Orenburgskaja oblast'",
         "tt": "Orenburgskaja oblast'",
+        "tt@iqtelif": "Orenburgskaja oblast'",
         "tt_RU": "Orenburgskaja oblast'",
         "twq": "Orenburgskaja oblast'",
         "twq_NE": "Orenburgskaja oblast'",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Orenburgskaja oblast'",
         "zh_Hant_TW": "Orenburgskaja oblast'",
         "zu": "Orenburgskaja oblast'",
-        "zu_ZA": "Orenburgskaja oblast'",
-        "sr@latin": "Orenburgskaja oblast'",
-        "tt@iqtelif": "Orenburgskaja oblast'"
+        "zu_ZA": "Orenburgskaja oblast'"
     },
     "ORL": {
         "af": "Orlovskaja oblast'",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Orlovskaja oblast'",
         "sq_XK": "Orlovskaja oblast'",
         "sr": "Orlovskaja oblast'",
+        "sr@latin": "Orlovskaja oblast'",
         "sr_Cyrl": "Orlovskaja oblast'",
         "sr_Cyrl_BA": "Orlovskaja oblast'",
         "sr_Cyrl_ME": "Orlovskaja oblast'",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Orlovskaja oblast'",
         "tr_TR": "Orlovskaja oblast'",
         "tt": "Orlovskaja oblast'",
+        "tt@iqtelif": "Orlovskaja oblast'",
         "tt_RU": "Orlovskaja oblast'",
         "twq": "Orlovskaja oblast'",
         "twq_NE": "Orlovskaja oblast'",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Orlovskaja oblast'",
         "zh_Hant_TW": "Orlovskaja oblast'",
         "zu": "Orlovskaja oblast'",
-        "zu_ZA": "Orlovskaja oblast'",
-        "sr@latin": "Orlovskaja oblast'",
-        "tt@iqtelif": "Orlovskaja oblast'"
+        "zu_ZA": "Orlovskaja oblast'"
     },
     "PER": {
         "af": "Permskij kraj",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Permskij kraj",
         "sq_XK": "Permskij kraj",
         "sr": "Permskij kraj",
+        "sr@latin": "Permskij kraj",
         "sr_Cyrl": "Permskij kraj",
         "sr_Cyrl_BA": "Permskij kraj",
         "sr_Cyrl_ME": "Permskij kraj",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Permskij kraj",
         "tr_TR": "Permskij kraj",
         "tt": "Permskij kraj",
+        "tt@iqtelif": "Permskij kraj",
         "tt_RU": "Permskij kraj",
         "twq": "Permskij kraj",
         "twq_NE": "Permskij kraj",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Permskij kraj",
         "zh_Hant_TW": "Permskij kraj",
         "zu": "Permskij kraj",
-        "zu_ZA": "Permskij kraj",
-        "sr@latin": "Permskij kraj",
-        "tt@iqtelif": "Permskij kraj"
+        "zu_ZA": "Permskij kraj"
     },
     "PNZ": {
         "af": "Penzenskaja oblast'",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Penzenskaja oblast'",
         "sq_XK": "Penzenskaja oblast'",
         "sr": "Penzenskaja oblast'",
+        "sr@latin": "Penzenskaja oblast'",
         "sr_Cyrl": "Penzenskaja oblast'",
         "sr_Cyrl_BA": "Penzenskaja oblast'",
         "sr_Cyrl_ME": "Penzenskaja oblast'",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Penzenskaja oblast'",
         "tr_TR": "Penzenskaja oblast'",
         "tt": "Penzenskaja oblast'",
+        "tt@iqtelif": "Penzenskaja oblast'",
         "tt_RU": "Penzenskaja oblast'",
         "twq": "Penzenskaja oblast'",
         "twq_NE": "Penzenskaja oblast'",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Penzenskaja oblast'",
         "zh_Hant_TW": "Penzenskaja oblast'",
         "zu": "Penzenskaja oblast'",
-        "zu_ZA": "Penzenskaja oblast'",
-        "sr@latin": "Penzenskaja oblast'",
-        "tt@iqtelif": "Penzenskaja oblast'"
+        "zu_ZA": "Penzenskaja oblast'"
     },
     "PRI": {
         "af": "Primorskij kraj",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Primorskij kraj",
         "sq_XK": "Primorskij kraj",
         "sr": "Primorskij kraj",
+        "sr@latin": "Primorskij kraj",
         "sr_Cyrl": "Primorskij kraj",
         "sr_Cyrl_BA": "Primorskij kraj",
         "sr_Cyrl_ME": "Primorskij kraj",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Primorskij kraj",
         "tr_TR": "Primorskij kraj",
         "tt": "Primorskij kraj",
+        "tt@iqtelif": "Primorskij kraj",
         "tt_RU": "Primorskij kraj",
         "twq": "Primorskij kraj",
         "twq_NE": "Primorskij kraj",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Primorskij kraj",
         "zh_Hant_TW": "Primorskij kraj",
         "zu": "Primorskij kraj",
-        "zu_ZA": "Primorskij kraj",
-        "sr@latin": "Primorskij kraj",
-        "tt@iqtelif": "Primorskij kraj"
+        "zu_ZA": "Primorskij kraj"
     },
     "PSK": {
         "af": "Pskovskaja oblast'",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Pskovskaja oblast'",
         "sq_XK": "Pskovskaja oblast'",
         "sr": "Pskovskaja oblast'",
+        "sr@latin": "Pskovskaja oblast'",
         "sr_Cyrl": "Pskovskaja oblast'",
         "sr_Cyrl_BA": "Pskovskaja oblast'",
         "sr_Cyrl_ME": "Pskovskaja oblast'",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Pskovskaja oblast'",
         "tr_TR": "Pskovskaja oblast'",
         "tt": "Pskovskaja oblast'",
+        "tt@iqtelif": "Pskovskaja oblast'",
         "tt_RU": "Pskovskaja oblast'",
         "twq": "Pskovskaja oblast'",
         "twq_NE": "Pskovskaja oblast'",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Pskovskaja oblast'",
         "zh_Hant_TW": "Pskovskaja oblast'",
         "zu": "Pskovskaja oblast'",
-        "zu_ZA": "Pskovskaja oblast'",
-        "sr@latin": "Pskovskaja oblast'",
-        "tt@iqtelif": "Pskovskaja oblast'"
+        "zu_ZA": "Pskovskaja oblast'"
     },
     "ROS": {
         "af": "Rostovskaja oblast'",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Rostovskaja oblast'",
         "sq_XK": "Rostovskaja oblast'",
         "sr": "Rostovskaja oblast'",
+        "sr@latin": "Rostovskaja oblast'",
         "sr_Cyrl": "Rostovskaja oblast'",
         "sr_Cyrl_BA": "Rostovskaja oblast'",
         "sr_Cyrl_ME": "Rostovskaja oblast'",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Rostovskaja oblast'",
         "tr_TR": "Rostovskaja oblast'",
         "tt": "Rostovskaja oblast'",
+        "tt@iqtelif": "Rostovskaja oblast'",
         "tt_RU": "Rostovskaja oblast'",
         "twq": "Rostovskaja oblast'",
         "twq_NE": "Rostovskaja oblast'",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Rostovskaja oblast'",
         "zh_Hant_TW": "Rostovskaja oblast'",
         "zu": "Rostovskaja oblast'",
-        "zu_ZA": "Rostovskaja oblast'",
-        "sr@latin": "Rostovskaja oblast'",
-        "tt@iqtelif": "Rostovskaja oblast'"
+        "zu_ZA": "Rostovskaja oblast'"
     },
     "RYA": {
         "af": "Rjazanskaja oblast'",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Rjazanskaja oblast'",
         "sq_XK": "Rjazanskaja oblast'",
         "sr": "Rjazanskaja oblast'",
+        "sr@latin": "Rjazanskaja oblast'",
         "sr_Cyrl": "Rjazanskaja oblast'",
         "sr_Cyrl_BA": "Rjazanskaja oblast'",
         "sr_Cyrl_ME": "Rjazanskaja oblast'",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Rjazanskaja oblast'",
         "tr_TR": "Rjazanskaja oblast'",
         "tt": "Rjazanskaja oblast'",
+        "tt@iqtelif": "Rjazanskaja oblast'",
         "tt_RU": "Rjazanskaja oblast'",
         "twq": "Rjazanskaja oblast'",
         "twq_NE": "Rjazanskaja oblast'",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Rjazanskaja oblast'",
         "zh_Hant_TW": "Rjazanskaja oblast'",
         "zu": "Rjazanskaja oblast'",
-        "zu_ZA": "Rjazanskaja oblast'",
-        "sr@latin": "Rjazanskaja oblast'",
-        "tt@iqtelif": "Rjazanskaja oblast'"
+        "zu_ZA": "Rjazanskaja oblast'"
     },
     "SA": {
         "af": "Saha, Respublika",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Saha, Respublika",
         "sq_XK": "Saha, Respublika",
         "sr": "Saha, Respublika",
+        "sr@latin": "Saha, Respublika",
         "sr_Cyrl": "Saha, Respublika",
         "sr_Cyrl_BA": "Saha, Respublika",
         "sr_Cyrl_ME": "Saha, Respublika",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Saha, Respublika",
         "tr_TR": "Saha, Respublika",
         "tt": "Saha, Respublika",
+        "tt@iqtelif": "Saha, Respublika",
         "tt_RU": "Saha, Respublika",
         "twq": "Saha, Respublika",
         "twq_NE": "Saha, Respublika",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Saha, Respublika",
         "zh_Hant_TW": "Saha, Respublika",
         "zu": "Saha, Respublika",
-        "zu_ZA": "Saha, Respublika",
-        "sr@latin": "Saha, Respublika",
-        "tt@iqtelif": "Saha, Respublika"
+        "zu_ZA": "Saha, Respublika"
     },
     "SAK": {
         "af": "Sahalinskaja oblast'",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Sahalinskaja oblast'",
         "sq_XK": "Sahalinskaja oblast'",
         "sr": "Sahalinskaja oblast'",
+        "sr@latin": "Sahalinskaja oblast'",
         "sr_Cyrl": "Sahalinskaja oblast'",
         "sr_Cyrl_BA": "Sahalinskaja oblast'",
         "sr_Cyrl_ME": "Sahalinskaja oblast'",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Sahalinskaja oblast'",
         "tr_TR": "Sahalinskaja oblast'",
         "tt": "Sahalinskaja oblast'",
+        "tt@iqtelif": "Sahalinskaja oblast'",
         "tt_RU": "Sahalinskaja oblast'",
         "twq": "Sahalinskaja oblast'",
         "twq_NE": "Sahalinskaja oblast'",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Sahalinskaja oblast'",
         "zh_Hant_TW": "Sahalinskaja oblast'",
         "zu": "Sahalinskaja oblast'",
-        "zu_ZA": "Sahalinskaja oblast'",
-        "sr@latin": "Sahalinskaja oblast'",
-        "tt@iqtelif": "Sahalinskaja oblast'"
+        "zu_ZA": "Sahalinskaja oblast'"
     },
     "SAM": {
         "af": "Samarskaja oblast'",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Samarskaja oblast'",
         "sq_XK": "Samarskaja oblast'",
         "sr": "Samarskaja oblast'",
+        "sr@latin": "Samarskaja oblast'",
         "sr_Cyrl": "Samarskaja oblast'",
         "sr_Cyrl_BA": "Samarskaja oblast'",
         "sr_Cyrl_ME": "Samarskaja oblast'",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Samarskaja oblast'",
         "tr_TR": "Samarskaja oblast'",
         "tt": "Samarskaja oblast'",
+        "tt@iqtelif": "Samarskaja oblast'",
         "tt_RU": "Samarskaja oblast'",
         "twq": "Samarskaja oblast'",
         "twq_NE": "Samarskaja oblast'",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Samarskaja oblast'",
         "zh_Hant_TW": "Samarskaja oblast'",
         "zu": "Samarskaja oblast'",
-        "zu_ZA": "Samarskaja oblast'",
-        "sr@latin": "Samarskaja oblast'",
-        "tt@iqtelif": "Samarskaja oblast'"
+        "zu_ZA": "Samarskaja oblast'"
     },
     "SAR": {
         "af": "Saratovskaja oblast'",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Saratovskaja oblast'",
         "sq_XK": "Saratovskaja oblast'",
         "sr": "Saratovskaja oblast'",
+        "sr@latin": "Saratovskaja oblast'",
         "sr_Cyrl": "Saratovskaja oblast'",
         "sr_Cyrl_BA": "Saratovskaja oblast'",
         "sr_Cyrl_ME": "Saratovskaja oblast'",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Saratovskaja oblast'",
         "tr_TR": "Saratovskaja oblast'",
         "tt": "Saratovskaja oblast'",
+        "tt@iqtelif": "Saratovskaja oblast'",
         "tt_RU": "Saratovskaja oblast'",
         "twq": "Saratovskaja oblast'",
         "twq_NE": "Saratovskaja oblast'",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Saratovskaja oblast'",
         "zh_Hant_TW": "Saratovskaja oblast'",
         "zu": "Saratovskaja oblast'",
-        "zu_ZA": "Saratovskaja oblast'",
-        "sr@latin": "Saratovskaja oblast'",
-        "tt@iqtelif": "Saratovskaja oblast'"
+        "zu_ZA": "Saratovskaja oblast'"
     },
     "SE": {
         "af": "Severnaja Osetija, Respublika",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Severnaja Osetija, Respublika",
         "sq_XK": "Severnaja Osetija, Respublika",
         "sr": "Severnaja Osetija, Respublika",
+        "sr@latin": "Severnaja Osetija, Respublika",
         "sr_Cyrl": "Severnaja Osetija, Respublika",
         "sr_Cyrl_BA": "Severnaja Osetija, Respublika",
         "sr_Cyrl_ME": "Severnaja Osetija, Respublika",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Severnaja Osetija, Respublika",
         "tr_TR": "Severnaja Osetija, Respublika",
         "tt": "Severnaja Osetija, Respublika",
+        "tt@iqtelif": "Severnaja Osetija, Respublika",
         "tt_RU": "Severnaja Osetija, Respublika",
         "twq": "Severnaja Osetija, Respublika",
         "twq_NE": "Severnaja Osetija, Respublika",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Severnaja Osetija, Respublika",
         "zh_Hant_TW": "Severnaja Osetija, Respublika",
         "zu": "Severnaja Osetija, Respublika",
-        "zu_ZA": "Severnaja Osetija, Respublika",
-        "sr@latin": "Severnaja Osetija, Respublika",
-        "tt@iqtelif": "Severnaja Osetija, Respublika"
+        "zu_ZA": "Severnaja Osetija, Respublika"
     },
     "SMO": {
         "af": "Smolenskaja oblast'",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Smolenskaja oblast'",
         "sq_XK": "Smolenskaja oblast'",
         "sr": "Smolenskaja oblast'",
+        "sr@latin": "Smolenskaja oblast'",
         "sr_Cyrl": "Smolenskaja oblast'",
         "sr_Cyrl_BA": "Smolenskaja oblast'",
         "sr_Cyrl_ME": "Smolenskaja oblast'",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Smolenskaja oblast'",
         "tr_TR": "Smolenskaja oblast'",
         "tt": "Smolenskaja oblast'",
+        "tt@iqtelif": "Smolenskaja oblast'",
         "tt_RU": "Smolenskaja oblast'",
         "twq": "Smolenskaja oblast'",
         "twq_NE": "Smolenskaja oblast'",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Smolenskaja oblast'",
         "zh_Hant_TW": "Smolenskaja oblast'",
         "zu": "Smolenskaja oblast'",
-        "zu_ZA": "Smolenskaja oblast'",
-        "sr@latin": "Smolenskaja oblast'",
-        "tt@iqtelif": "Smolenskaja oblast'"
+        "zu_ZA": "Smolenskaja oblast'"
     },
     "SPE": {
         "af": "Sankt-Peterburg",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Sankt-Peterburg",
         "sq_XK": "Sankt-Peterburg",
         "sr": "Санкт Петерсбург",
+        "sr@latin": "Sankt Petersburg",
         "sr_Cyrl": "Санкт Петерсбург",
         "sr_Cyrl_BA": "Санкт Петерсбург",
         "sr_Cyrl_ME": "Санкт Петерсбург",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Sankt-Peterburg",
         "tr_TR": "Sankt-Peterburg",
         "tt": "Sankt-Peterburg",
+        "tt@iqtelif": "Sankt-Peterburg",
         "tt_RU": "Sankt-Peterburg",
         "twq": "Sankt-Peterburg",
         "twq_NE": "Sankt-Peterburg",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Sankt-Peterburg",
         "zh_Hant_TW": "Sankt-Peterburg",
         "zu": "Sankt-Peterburg",
-        "zu_ZA": "Sankt-Peterburg",
-        "sr@latin": "Sankt Petersburg",
-        "tt@iqtelif": "Sankt-Peterburg"
+        "zu_ZA": "Sankt-Peterburg"
     },
     "STA": {
         "af": "Stavropol'skij kraj",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Stavropol'skij kraj",
         "sq_XK": "Stavropol'skij kraj",
         "sr": "Stavropol'skij kraj",
+        "sr@latin": "Stavropol'skij kraj",
         "sr_Cyrl": "Stavropol'skij kraj",
         "sr_Cyrl_BA": "Stavropol'skij kraj",
         "sr_Cyrl_ME": "Stavropol'skij kraj",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Stavropol'skij kraj",
         "tr_TR": "Stavropol'skij kraj",
         "tt": "Stavropol'skij kraj",
+        "tt@iqtelif": "Stavropol'skij kraj",
         "tt_RU": "Stavropol'skij kraj",
         "twq": "Stavropol'skij kraj",
         "twq_NE": "Stavropol'skij kraj",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Stavropol'skij kraj",
         "zh_Hant_TW": "Stavropol'skij kraj",
         "zu": "Stavropol'skij kraj",
-        "zu_ZA": "Stavropol'skij kraj",
-        "sr@latin": "Stavropol'skij kraj",
-        "tt@iqtelif": "Stavropol'skij kraj"
+        "zu_ZA": "Stavropol'skij kraj"
     },
     "SVE": {
         "af": "Sverdlovskaja oblast'",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Sverdlovskaja oblast'",
         "sq_XK": "Sverdlovskaja oblast'",
         "sr": "Sverdlovskaja oblast'",
+        "sr@latin": "Sverdlovskaja oblast'",
         "sr_Cyrl": "Sverdlovskaja oblast'",
         "sr_Cyrl_BA": "Sverdlovskaja oblast'",
         "sr_Cyrl_ME": "Sverdlovskaja oblast'",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Sverdlovskaja oblast'",
         "tr_TR": "Sverdlovskaja oblast'",
         "tt": "Sverdlovskaja oblast'",
+        "tt@iqtelif": "Sverdlovskaja oblast'",
         "tt_RU": "Sverdlovskaja oblast'",
         "twq": "Sverdlovskaja oblast'",
         "twq_NE": "Sverdlovskaja oblast'",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Sverdlovskaja oblast'",
         "zh_Hant_TW": "Sverdlovskaja oblast'",
         "zu": "Sverdlovskaja oblast'",
-        "zu_ZA": "Sverdlovskaja oblast'",
-        "sr@latin": "Sverdlovskaja oblast'",
-        "tt@iqtelif": "Sverdlovskaja oblast'"
+        "zu_ZA": "Sverdlovskaja oblast'"
     },
     "TA": {
         "af": "Tatarstan, Respublika",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Tatarstan, Respublika",
         "sq_XK": "Tatarstan, Respublika",
         "sr": "Татарстан, Република",
+        "sr@latin": "Tatarstan, Republika",
         "sr_Cyrl": "Татарстан, Република",
         "sr_Cyrl_BA": "Татарстан, Република",
         "sr_Cyrl_ME": "Татарстан, Република",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Tataristan Cumhuriyeti",
         "tr_TR": "Tataristan Cumhuriyeti",
         "tt": "Tatarstan, Respublika",
+        "tt@iqtelif": "Tatarstan, Respublika",
         "tt_RU": "Tatarstan, Respublika",
         "twq": "Tatarstan, Respublika",
         "twq_NE": "Tatarstan, Respublika",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Tatarstan, Respublika",
         "zh_Hant_TW": "Tatarstan, Respublika",
         "zu": "Tatarstan, Respublika",
-        "zu_ZA": "Tatarstan, Respublika",
-        "sr@latin": "Tatarstan, Republika",
-        "tt@iqtelif": "Tatarstan, Respublika"
+        "zu_ZA": "Tatarstan, Respublika"
     },
     "TAM": {
         "af": "Tambovskaja oblast'",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Tambovskaja oblast'",
         "sq_XK": "Tambovskaja oblast'",
         "sr": "Tambovskaja oblast'",
+        "sr@latin": "Tambovskaja oblast'",
         "sr_Cyrl": "Tambovskaja oblast'",
         "sr_Cyrl_BA": "Tambovskaja oblast'",
         "sr_Cyrl_ME": "Tambovskaja oblast'",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Tambovskaja oblast'",
         "tr_TR": "Tambovskaja oblast'",
         "tt": "Tambovskaja oblast'",
+        "tt@iqtelif": "Tambovskaja oblast'",
         "tt_RU": "Tambovskaja oblast'",
         "twq": "Tambovskaja oblast'",
         "twq_NE": "Tambovskaja oblast'",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Tambovskaja oblast'",
         "zh_Hant_TW": "Tambovskaja oblast'",
         "zu": "Tambovskaja oblast'",
-        "zu_ZA": "Tambovskaja oblast'",
-        "sr@latin": "Tambovskaja oblast'",
-        "tt@iqtelif": "Tambovskaja oblast'"
+        "zu_ZA": "Tambovskaja oblast'"
     },
     "TOM": {
         "af": "Tomskaja oblast'",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Tomskaja oblast'",
         "sq_XK": "Tomskaja oblast'",
         "sr": "Tomskaja oblast'",
+        "sr@latin": "Tomskaja oblast'",
         "sr_Cyrl": "Tomskaja oblast'",
         "sr_Cyrl_BA": "Tomskaja oblast'",
         "sr_Cyrl_ME": "Tomskaja oblast'",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Tomskaja oblast'",
         "tr_TR": "Tomskaja oblast'",
         "tt": "Tomskaja oblast'",
+        "tt@iqtelif": "Tomskaja oblast'",
         "tt_RU": "Tomskaja oblast'",
         "twq": "Tomskaja oblast'",
         "twq_NE": "Tomskaja oblast'",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Tomskaja oblast'",
         "zh_Hant_TW": "Tomskaja oblast'",
         "zu": "Tomskaja oblast'",
-        "zu_ZA": "Tomskaja oblast'",
-        "sr@latin": "Tomskaja oblast'",
-        "tt@iqtelif": "Tomskaja oblast'"
+        "zu_ZA": "Tomskaja oblast'"
     },
     "TUL": {
         "af": "Tul'skaja oblast'",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Tul'skaja oblast'",
         "sq_XK": "Tul'skaja oblast'",
         "sr": "Tul'skaja oblast'",
+        "sr@latin": "Tul'skaja oblast'",
         "sr_Cyrl": "Tul'skaja oblast'",
         "sr_Cyrl_BA": "Tul'skaja oblast'",
         "sr_Cyrl_ME": "Tul'skaja oblast'",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Tul'skaja oblast'",
         "tr_TR": "Tul'skaja oblast'",
         "tt": "Tul'skaja oblast'",
+        "tt@iqtelif": "Tul'skaja oblast'",
         "tt_RU": "Tul'skaja oblast'",
         "twq": "Tul'skaja oblast'",
         "twq_NE": "Tul'skaja oblast'",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Tul'skaja oblast'",
         "zh_Hant_TW": "Tul'skaja oblast'",
         "zu": "Tul'skaja oblast'",
-        "zu_ZA": "Tul'skaja oblast'",
-        "sr@latin": "Tul'skaja oblast'",
-        "tt@iqtelif": "Tul'skaja oblast'"
+        "zu_ZA": "Tul'skaja oblast'"
     },
     "TVE": {
         "af": "Tverskaja oblast'",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Tverskaja oblast'",
         "sq_XK": "Tverskaja oblast'",
         "sr": "Tverskaja oblast'",
+        "sr@latin": "Tverskaja oblast'",
         "sr_Cyrl": "Tverskaja oblast'",
         "sr_Cyrl_BA": "Tverskaja oblast'",
         "sr_Cyrl_ME": "Tverskaja oblast'",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Tverskaja oblast'",
         "tr_TR": "Tverskaja oblast'",
         "tt": "Tverskaja oblast'",
+        "tt@iqtelif": "Tverskaja oblast'",
         "tt_RU": "Tverskaja oblast'",
         "twq": "Tverskaja oblast'",
         "twq_NE": "Tverskaja oblast'",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Tverskaja oblast'",
         "zh_Hant_TW": "Tverskaja oblast'",
         "zu": "Tverskaja oblast'",
-        "zu_ZA": "Tverskaja oblast'",
-        "sr@latin": "Tverskaja oblast'",
-        "tt@iqtelif": "Tverskaja oblast'"
+        "zu_ZA": "Tverskaja oblast'"
     },
     "TY": {
         "af": "Tyva, Respublika",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Tyva, Respublika",
         "sq_XK": "Tyva, Respublika",
         "sr": "Tyva, Respublika",
+        "sr@latin": "Tyva, Respublika",
         "sr_Cyrl": "Tyva, Respublika",
         "sr_Cyrl_BA": "Tyva, Respublika",
         "sr_Cyrl_ME": "Tyva, Respublika",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Tyva, Respublika",
         "tr_TR": "Tyva, Respublika",
         "tt": "Tyva, Respublika",
+        "tt@iqtelif": "Tyva, Respublika",
         "tt_RU": "Tyva, Respublika",
         "twq": "Tyva, Respublika",
         "twq_NE": "Tyva, Respublika",
@@ -63715,9 +63717,7 @@
         "zh_Hant_MY": "Tyva, Respublika",
         "zh_Hant_TW": "Tyva, Respublika",
         "zu": "Tyva, Respublika",
-        "zu_ZA": "Tyva, Respublika",
-        "sr@latin": "Tyva, Respublika",
-        "tt@iqtelif": "Tyva, Respublika"
+        "zu_ZA": "Tyva, Respublika"
     },
     "TYU": {
         "af": "Tjumenskaja oblast'",
@@ -64463,6 +64463,7 @@
         "sq_MK": "Tjumenskaja oblast'",
         "sq_XK": "Tjumenskaja oblast'",
         "sr": "Tjumenskaja oblast'",
+        "sr@latin": "Tjumenskaja oblast'",
         "sr_Cyrl": "Tjumenskaja oblast'",
         "sr_Cyrl_BA": "Tjumenskaja oblast'",
         "sr_Cyrl_ME": "Tjumenskaja oblast'",
@@ -64523,6 +64524,7 @@
         "tr_CY": "Tjumenskaja oblast'",
         "tr_TR": "Tjumenskaja oblast'",
         "tt": "Tjumenskaja oblast'",
+        "tt@iqtelif": "Tjumenskaja oblast'",
         "tt_RU": "Tjumenskaja oblast'",
         "twq": "Tjumenskaja oblast'",
         "twq_NE": "Tjumenskaja oblast'",
@@ -64600,9 +64602,7 @@
         "zh_Hant_MY": "Tjumenskaja oblast'",
         "zh_Hant_TW": "Tjumenskaja oblast'",
         "zu": "Tjumenskaja oblast'",
-        "zu_ZA": "Tjumenskaja oblast'",
-        "sr@latin": "Tjumenskaja oblast'",
-        "tt@iqtelif": "Tjumenskaja oblast'"
+        "zu_ZA": "Tjumenskaja oblast'"
     },
     "UD": {
         "af": "Udmurtskaja Respublika",
@@ -65348,6 +65348,7 @@
         "sq_MK": "Udmurtskaja Respublika",
         "sq_XK": "Udmurtskaja Respublika",
         "sr": "Udmurtskaja Respublika",
+        "sr@latin": "Udmurtskaja Respublika",
         "sr_Cyrl": "Udmurtskaja Respublika",
         "sr_Cyrl_BA": "Udmurtskaja Respublika",
         "sr_Cyrl_ME": "Udmurtskaja Respublika",
@@ -65408,6 +65409,7 @@
         "tr_CY": "Udmurtskaja Respublika",
         "tr_TR": "Udmurtskaja Respublika",
         "tt": "Udmurtskaja Respublika",
+        "tt@iqtelif": "Udmurtskaja Respublika",
         "tt_RU": "Udmurtskaja Respublika",
         "twq": "Udmurtskaja Respublika",
         "twq_NE": "Udmurtskaja Respublika",
@@ -65485,9 +65487,7 @@
         "zh_Hant_MY": "Udmurtskaja Respublika",
         "zh_Hant_TW": "Udmurtskaja Respublika",
         "zu": "Udmurtskaja Respublika",
-        "zu_ZA": "Udmurtskaja Respublika",
-        "sr@latin": "Udmurtskaja Respublika",
-        "tt@iqtelif": "Udmurtskaja Respublika"
+        "zu_ZA": "Udmurtskaja Respublika"
     },
     "ULY": {
         "af": "Ul'janovskaja oblast'",
@@ -66233,6 +66233,7 @@
         "sq_MK": "Ul'janovskaja oblast'",
         "sq_XK": "Ul'janovskaja oblast'",
         "sr": "Ul'janovskaja oblast'",
+        "sr@latin": "Ul'janovskaja oblast'",
         "sr_Cyrl": "Ul'janovskaja oblast'",
         "sr_Cyrl_BA": "Ul'janovskaja oblast'",
         "sr_Cyrl_ME": "Ul'janovskaja oblast'",
@@ -66293,6 +66294,7 @@
         "tr_CY": "Ul'janovskaja oblast'",
         "tr_TR": "Ul'janovskaja oblast'",
         "tt": "Ul'janovskaja oblast'",
+        "tt@iqtelif": "Ul'janovskaja oblast'",
         "tt_RU": "Ul'janovskaja oblast'",
         "twq": "Ul'janovskaja oblast'",
         "twq_NE": "Ul'janovskaja oblast'",
@@ -66370,9 +66372,7 @@
         "zh_Hant_MY": "Ul'janovskaja oblast'",
         "zh_Hant_TW": "Ul'janovskaja oblast'",
         "zu": "Ul'janovskaja oblast'",
-        "zu_ZA": "Ul'janovskaja oblast'",
-        "sr@latin": "Ul'janovskaja oblast'",
-        "tt@iqtelif": "Ul'janovskaja oblast'"
+        "zu_ZA": "Ul'janovskaja oblast'"
     },
     "VGG": {
         "af": "Volgogradskaja oblast'",
@@ -67118,6 +67118,7 @@
         "sq_MK": "Volgogradskaja oblast'",
         "sq_XK": "Volgogradskaja oblast'",
         "sr": "Volgogradskaja oblast'",
+        "sr@latin": "Volgogradskaja oblast'",
         "sr_Cyrl": "Volgogradskaja oblast'",
         "sr_Cyrl_BA": "Volgogradskaja oblast'",
         "sr_Cyrl_ME": "Volgogradskaja oblast'",
@@ -67178,6 +67179,7 @@
         "tr_CY": "Volgogradskaja oblast'",
         "tr_TR": "Volgogradskaja oblast'",
         "tt": "Volgogradskaja oblast'",
+        "tt@iqtelif": "Volgogradskaja oblast'",
         "tt_RU": "Volgogradskaja oblast'",
         "twq": "Volgogradskaja oblast'",
         "twq_NE": "Volgogradskaja oblast'",
@@ -67255,9 +67257,7 @@
         "zh_Hant_MY": "Volgogradskaja oblast'",
         "zh_Hant_TW": "Volgogradskaja oblast'",
         "zu": "Volgogradskaja oblast'",
-        "zu_ZA": "Volgogradskaja oblast'",
-        "sr@latin": "Volgogradskaja oblast'",
-        "tt@iqtelif": "Volgogradskaja oblast'"
+        "zu_ZA": "Volgogradskaja oblast'"
     },
     "VLA": {
         "af": "Vladimirskaja oblast'",
@@ -68003,6 +68003,7 @@
         "sq_MK": "Vladimirskaja oblast'",
         "sq_XK": "Vladimirskaja oblast'",
         "sr": "Vladimirskaja oblast'",
+        "sr@latin": "Vladimirskaja oblast'",
         "sr_Cyrl": "Vladimirskaja oblast'",
         "sr_Cyrl_BA": "Vladimirskaja oblast'",
         "sr_Cyrl_ME": "Vladimirskaja oblast'",
@@ -68063,6 +68064,7 @@
         "tr_CY": "Vladimirskaja oblast'",
         "tr_TR": "Vladimirskaja oblast'",
         "tt": "Vladimirskaja oblast'",
+        "tt@iqtelif": "Vladimirskaja oblast'",
         "tt_RU": "Vladimirskaja oblast'",
         "twq": "Vladimirskaja oblast'",
         "twq_NE": "Vladimirskaja oblast'",
@@ -68140,9 +68142,7 @@
         "zh_Hant_MY": "Vladimirskaja oblast'",
         "zh_Hant_TW": "Vladimirskaja oblast'",
         "zu": "Vladimirskaja oblast'",
-        "zu_ZA": "Vladimirskaja oblast'",
-        "sr@latin": "Vladimirskaja oblast'",
-        "tt@iqtelif": "Vladimirskaja oblast'"
+        "zu_ZA": "Vladimirskaja oblast'"
     },
     "VLG": {
         "af": "Vologodskaja oblast'",
@@ -68888,6 +68888,7 @@
         "sq_MK": "Vologodskaja oblast'",
         "sq_XK": "Vologodskaja oblast'",
         "sr": "Vologodskaja oblast'",
+        "sr@latin": "Vologodskaja oblast'",
         "sr_Cyrl": "Vologodskaja oblast'",
         "sr_Cyrl_BA": "Vologodskaja oblast'",
         "sr_Cyrl_ME": "Vologodskaja oblast'",
@@ -68948,6 +68949,7 @@
         "tr_CY": "Vologodskaja oblast'",
         "tr_TR": "Vologodskaja oblast'",
         "tt": "Vologodskaja oblast'",
+        "tt@iqtelif": "Vologodskaja oblast'",
         "tt_RU": "Vologodskaja oblast'",
         "twq": "Vologodskaja oblast'",
         "twq_NE": "Vologodskaja oblast'",
@@ -69025,9 +69027,7 @@
         "zh_Hant_MY": "Vologodskaja oblast'",
         "zh_Hant_TW": "Vologodskaja oblast'",
         "zu": "Vologodskaja oblast'",
-        "zu_ZA": "Vologodskaja oblast'",
-        "sr@latin": "Vologodskaja oblast'",
-        "tt@iqtelif": "Vologodskaja oblast'"
+        "zu_ZA": "Vologodskaja oblast'"
     },
     "VOR": {
         "af": "Voronezhskaya oblast'",
@@ -69773,6 +69773,7 @@
         "sq_MK": "Voronezhskaya oblast'",
         "sq_XK": "Voronezhskaya oblast'",
         "sr": "Вороњешка област",
+        "sr@latin": "Voronješka oblast",
         "sr_Cyrl": "Вороњешка област",
         "sr_Cyrl_BA": "Вороњешка област",
         "sr_Cyrl_ME": "Вороњешка област",
@@ -69833,6 +69834,7 @@
         "tr_CY": "Voronezhskaya oblast'",
         "tr_TR": "Voronezhskaya oblast'",
         "tt": "Voronezhskaya oblast'",
+        "tt@iqtelif": "Voronezhskaya oblast'",
         "tt_RU": "Voronezhskaya oblast'",
         "twq": "Voronezhskaya oblast'",
         "twq_NE": "Voronezhskaya oblast'",
@@ -69910,9 +69912,7 @@
         "zh_Hant_MY": "Voronezhskaya oblast'",
         "zh_Hant_TW": "Voronezhskaya oblast'",
         "zu": "Voronezhskaya oblast'",
-        "zu_ZA": "Voronezhskaya oblast'",
-        "sr@latin": "Voronješka oblast",
-        "tt@iqtelif": "Voronezhskaya oblast'"
+        "zu_ZA": "Voronezhskaya oblast'"
     },
     "YAN": {
         "af": "Jamalo-Neneckij avtonomnyj okrug",
@@ -70658,6 +70658,7 @@
         "sq_MK": "Jamalo-Neneckij avtonomnyj okrug",
         "sq_XK": "Jamalo-Neneckij avtonomnyj okrug",
         "sr": "Jamalo-Neneckij avtonomnyj okrug",
+        "sr@latin": "Jamalo-Neneckij avtonomnyj okrug",
         "sr_Cyrl": "Jamalo-Neneckij avtonomnyj okrug",
         "sr_Cyrl_BA": "Jamalo-Neneckij avtonomnyj okrug",
         "sr_Cyrl_ME": "Jamalo-Neneckij avtonomnyj okrug",
@@ -70718,6 +70719,7 @@
         "tr_CY": "Jamalo-Neneckij avtonomnyj okrug",
         "tr_TR": "Jamalo-Neneckij avtonomnyj okrug",
         "tt": "Jamalo-Neneckij avtonomnyj okrug",
+        "tt@iqtelif": "Jamalo-Neneckij avtonomnyj okrug",
         "tt_RU": "Jamalo-Neneckij avtonomnyj okrug",
         "twq": "Jamalo-Neneckij avtonomnyj okrug",
         "twq_NE": "Jamalo-Neneckij avtonomnyj okrug",
@@ -70795,9 +70797,7 @@
         "zh_Hant_MY": "Jamalo-Neneckij avtonomnyj okrug",
         "zh_Hant_TW": "Jamalo-Neneckij avtonomnyj okrug",
         "zu": "Jamalo-Neneckij avtonomnyj okrug",
-        "zu_ZA": "Jamalo-Neneckij avtonomnyj okrug",
-        "sr@latin": "Jamalo-Neneckij avtonomnyj okrug",
-        "tt@iqtelif": "Jamalo-Neneckij avtonomnyj okrug"
+        "zu_ZA": "Jamalo-Neneckij avtonomnyj okrug"
     },
     "YAR": {
         "af": "Jaroslavskaja oblast'",
@@ -71543,6 +71543,7 @@
         "sq_MK": "Jaroslavskaja oblast'",
         "sq_XK": "Jaroslavskaja oblast'",
         "sr": "Jaroslavskaja oblast'",
+        "sr@latin": "Jaroslavskaja oblast'",
         "sr_Cyrl": "Jaroslavskaja oblast'",
         "sr_Cyrl_BA": "Jaroslavskaja oblast'",
         "sr_Cyrl_ME": "Jaroslavskaja oblast'",
@@ -71603,6 +71604,7 @@
         "tr_CY": "Jaroslavskaja oblast'",
         "tr_TR": "Jaroslavskaja oblast'",
         "tt": "Jaroslavskaja oblast'",
+        "tt@iqtelif": "Jaroslavskaja oblast'",
         "tt_RU": "Jaroslavskaja oblast'",
         "twq": "Jaroslavskaja oblast'",
         "twq_NE": "Jaroslavskaja oblast'",
@@ -71680,9 +71682,7 @@
         "zh_Hant_MY": "Jaroslavskaja oblast'",
         "zh_Hant_TW": "Jaroslavskaja oblast'",
         "zu": "Jaroslavskaja oblast'",
-        "zu_ZA": "Jaroslavskaja oblast'",
-        "sr@latin": "Jaroslavskaja oblast'",
-        "tt@iqtelif": "Jaroslavskaja oblast'"
+        "zu_ZA": "Jaroslavskaja oblast'"
     },
     "YEV": {
         "af": "Evrejskaja avtonomnaja oblast'",
@@ -72428,6 +72428,7 @@
         "sq_MK": "Evrejskaja avtonomnaja oblast'",
         "sq_XK": "Evrejskaja avtonomnaja oblast'",
         "sr": "Evrejskaja avtonomnaja oblast'",
+        "sr@latin": "Evrejskaja avtonomnaja oblast'",
         "sr_Cyrl": "Evrejskaja avtonomnaja oblast'",
         "sr_Cyrl_BA": "Evrejskaja avtonomnaja oblast'",
         "sr_Cyrl_ME": "Evrejskaja avtonomnaja oblast'",
@@ -72488,6 +72489,7 @@
         "tr_CY": "Evrejskaja avtonomnaja oblast'",
         "tr_TR": "Evrejskaja avtonomnaja oblast'",
         "tt": "Evrejskaja avtonomnaja oblast'",
+        "tt@iqtelif": "Evrejskaja avtonomnaja oblast'",
         "tt_RU": "Evrejskaja avtonomnaja oblast'",
         "twq": "Evrejskaja avtonomnaja oblast'",
         "twq_NE": "Evrejskaja avtonomnaja oblast'",
@@ -72565,9 +72567,7 @@
         "zh_Hant_MY": "Evrejskaja avtonomnaja oblast'",
         "zh_Hant_TW": "Evrejskaja avtonomnaja oblast'",
         "zu": "Evrejskaja avtonomnaja oblast'",
-        "zu_ZA": "Evrejskaja avtonomnaja oblast'",
-        "sr@latin": "Evrejskaja avtonomnaja oblast'",
-        "tt@iqtelif": "Evrejskaja avtonomnaja oblast'"
+        "zu_ZA": "Evrejskaja avtonomnaja oblast'"
     },
     "ZAB": {
         "af": "Zabajkal'skij kraj",
@@ -73313,6 +73313,7 @@
         "sq_MK": "Zabajkal'skij kraj",
         "sq_XK": "Zabajkal'skij kraj",
         "sr": "Забајкалски крај",
+        "sr@latin": "Zabajkalski kraj",
         "sr_Cyrl": "Забајкалски крај",
         "sr_Cyrl_BA": "Забајкалски крај",
         "sr_Cyrl_ME": "Забајкалски крај",
@@ -73373,6 +73374,7 @@
         "tr_CY": "Zabajkal'skij kraj",
         "tr_TR": "Zabajkal'skij kraj",
         "tt": "Zabajkal'skij kraj",
+        "tt@iqtelif": "Zabajkal'skij kraj",
         "tt_RU": "Zabajkal'skij kraj",
         "twq": "Zabajkal'skij kraj",
         "twq_NE": "Zabajkal'skij kraj",
@@ -73450,8 +73452,6 @@
         "zh_Hant_MY": "Zabajkal'skij kraj",
         "zh_Hant_TW": "Zabajkal'skij kraj",
         "zu": "Zabajkal'skij kraj",
-        "zu_ZA": "Zabajkal'skij kraj",
-        "sr@latin": "Zabajkalski kraj",
-        "tt@iqtelif": "Zabajkal'skij kraj"
+        "zu_ZA": "Zabajkal'skij kraj"
     }
 }

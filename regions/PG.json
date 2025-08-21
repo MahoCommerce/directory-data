@@ -743,6 +743,7 @@
         "sq_MK": "Chimbu",
         "sq_XK": "Chimbu",
         "sr": "Чимбу",
+        "sr@latin": "Čimbu",
         "sr_Cyrl": "Чимбу",
         "sr_Cyrl_BA": "Чимбу",
         "sr_Cyrl_ME": "Чимбу",
@@ -803,6 +804,7 @@
         "tr_CY": "Chimbu",
         "tr_TR": "Chimbu",
         "tt": "Chimbu",
+        "tt@iqtelif": "Chimbu",
         "tt_RU": "Chimbu",
         "twq": "Chimbu",
         "twq_NE": "Chimbu",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Chimbu",
         "zh_Hant_TW": "Chimbu",
         "zu": "Chimbu",
-        "zu_ZA": "Chimbu",
-        "sr@latin": "Čimbu",
-        "tt@iqtelif": "Chimbu"
+        "zu_ZA": "Chimbu"
     },
     "CPM": {
         "af": "Central",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Central",
         "sq_XK": "Central",
         "sr": "Централни",
+        "sr@latin": "Centralni",
         "sr_Cyrl": "Централни",
         "sr_Cyrl_BA": "Централни",
         "sr_Cyrl_ME": "Централни",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Merkezi",
         "tr_TR": "Merkezi",
         "tt": "Central",
+        "tt@iqtelif": "Central",
         "tt_RU": "Central",
         "twq": "Central",
         "twq_NE": "Central",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central",
-        "sr@latin": "Centralni",
-        "tt@iqtelif": "Central"
+        "zu_ZA": "Central"
     },
     "EBR": {
         "af": "East New Britain",
@@ -2513,6 +2513,7 @@
         "sq_MK": "East New Britain",
         "sq_XK": "East New Britain",
         "sr": "Источна Нова Британија",
+        "sr@latin": "Istočna Nova Britanija",
         "sr_Cyrl": "Источна Нова Британија",
         "sr_Cyrl_BA": "Источна Нова Британија",
         "sr_Cyrl_ME": "Источна Нова Британија",
@@ -2573,6 +2574,7 @@
         "tr_CY": "East New Britain",
         "tr_TR": "East New Britain",
         "tt": "East New Britain",
+        "tt@iqtelif": "East New Britain",
         "tt_RU": "East New Britain",
         "twq": "East New Britain",
         "twq_NE": "East New Britain",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "East New Britain",
         "zh_Hant_TW": "East New Britain",
         "zu": "East New Britain",
-        "zu_ZA": "East New Britain",
-        "sr@latin": "Istočna Nova Britanija",
-        "tt@iqtelif": "East New Britain"
+        "zu_ZA": "East New Britain"
     },
     "EHG": {
         "af": "Eastern Highlands",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Eastern Highlands",
         "sq_XK": "Eastern Highlands",
         "sr": "Eastern Highlands",
+        "sr@latin": "Eastern Highlands",
         "sr_Cyrl": "Eastern Highlands",
         "sr_Cyrl_BA": "Eastern Highlands",
         "sr_Cyrl_ME": "Eastern Highlands",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Eastern Highlands",
         "tr_TR": "Eastern Highlands",
         "tt": "Eastern Highlands",
+        "tt@iqtelif": "Eastern Highlands",
         "tt_RU": "Eastern Highlands",
         "twq": "Eastern Highlands",
         "twq_NE": "Eastern Highlands",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Eastern Highlands",
         "zh_Hant_TW": "Eastern Highlands",
         "zu": "Eastern Highlands",
-        "zu_ZA": "Eastern Highlands",
-        "sr@latin": "Eastern Highlands",
-        "tt@iqtelif": "Eastern Highlands"
+        "zu_ZA": "Eastern Highlands"
     },
     "EPW": {
         "af": "Enga",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Enga",
         "sq_XK": "Enga",
         "sr": "Енга",
+        "sr@latin": "Enga",
         "sr_Cyrl": "Енга",
         "sr_Cyrl_BA": "Енга",
         "sr_Cyrl_ME": "Енга",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Enga",
         "tr_TR": "Enga",
         "tt": "Enga",
+        "tt@iqtelif": "Enga",
         "tt_RU": "Enga",
         "twq": "Enga",
         "twq_NE": "Enga",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Enga",
         "zh_Hant_TW": "Enga",
         "zu": "Enga",
-        "zu_ZA": "Enga",
-        "sr@latin": "Enga",
-        "tt@iqtelif": "Enga"
+        "zu_ZA": "Enga"
     },
     "ESW": {
         "af": "East Sepik",
@@ -5168,6 +5168,7 @@
         "sq_MK": "East Sepik",
         "sq_XK": "East Sepik",
         "sr": "Источни Сепик",
+        "sr@latin": "Istočni Sepik",
         "sr_Cyrl": "Источни Сепик",
         "sr_Cyrl_BA": "Источни Сепик",
         "sr_Cyrl_ME": "Источни Сепик",
@@ -5228,6 +5229,7 @@
         "tr_CY": "East Sepik",
         "tr_TR": "East Sepik",
         "tt": "East Sepik",
+        "tt@iqtelif": "East Sepik",
         "tt_RU": "East Sepik",
         "twq": "East Sepik",
         "twq_NE": "East Sepik",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "East Sepik",
         "zh_Hant_TW": "East Sepik",
         "zu": "East Sepik",
-        "zu_ZA": "East Sepik",
-        "sr@latin": "Istočni Sepik",
-        "tt@iqtelif": "East Sepik"
+        "zu_ZA": "East Sepik"
     },
     "GPK": {
         "af": "Gulf",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Gulf",
         "sq_XK": "Gulf",
         "sr": "Голф",
+        "sr@latin": "Golf",
         "sr_Cyrl": "Голф",
         "sr_Cyrl_BA": "Голф",
         "sr_Cyrl_ME": "Голф",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Gulf",
         "tr_TR": "Gulf",
         "tt": "Gulf",
+        "tt@iqtelif": "Gulf",
         "tt_RU": "Gulf",
         "twq": "Gulf",
         "twq_NE": "Gulf",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Gulf",
         "zh_Hant_TW": "Gulf",
         "zu": "Gulf",
-        "zu_ZA": "Gulf",
-        "sr@latin": "Golf",
-        "tt@iqtelif": "Gulf"
+        "zu_ZA": "Gulf"
     },
     "HLA": {
         "af": "Hela",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Hela",
         "sq_XK": "Hela",
         "sr": "Hela",
+        "sr@latin": "Hela",
         "sr_Cyrl": "Hela",
         "sr_Cyrl_BA": "Hela",
         "sr_Cyrl_ME": "Hela",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Hela",
         "tr_TR": "Hela",
         "tt": "Hela",
+        "tt@iqtelif": "Hela",
         "tt_RU": "Hela",
         "twq": "Hela",
         "twq_NE": "Hela",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Hela",
         "zh_Hant_TW": "Hela",
         "zu": "Hela",
-        "zu_ZA": "Hela",
-        "sr@latin": "Hela",
-        "tt@iqtelif": "Hela"
+        "zu_ZA": "Hela"
     },
     "JWK": {
         "af": "Jiwaka",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Jiwaka",
         "sq_XK": "Jiwaka",
         "sr": "Jiwaka",
+        "sr@latin": "Jiwaka",
         "sr_Cyrl": "Jiwaka",
         "sr_Cyrl_BA": "Jiwaka",
         "sr_Cyrl_ME": "Jiwaka",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Jiwaka",
         "tr_TR": "Jiwaka",
         "tt": "Jiwaka",
+        "tt@iqtelif": "Jiwaka",
         "tt_RU": "Jiwaka",
         "twq": "Jiwaka",
         "twq_NE": "Jiwaka",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Jiwaka",
         "zh_Hant_TW": "Jiwaka",
         "zu": "Jiwaka",
-        "zu_ZA": "Jiwaka",
-        "sr@latin": "Jiwaka",
-        "tt@iqtelif": "Jiwaka"
+        "zu_ZA": "Jiwaka"
     },
     "MBA": {
         "af": "Milne Bay",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Milne Bay",
         "sq_XK": "Milne Bay",
         "sr": "Милне Беј",
+        "sr@latin": "Milne Bej",
         "sr_Cyrl": "Милне Беј",
         "sr_Cyrl_BA": "Милне Беј",
         "sr_Cyrl_ME": "Милне Беј",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Milne Bay",
         "tr_TR": "Milne Bay",
         "tt": "Milne Bay",
+        "tt@iqtelif": "Milne Bay",
         "tt_RU": "Milne Bay",
         "twq": "Milne Bay",
         "twq_NE": "Milne Bay",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Milne Bay",
         "zh_Hant_TW": "Milne Bay",
         "zu": "Milne Bay",
-        "zu_ZA": "Milne Bay",
-        "sr@latin": "Milne Bej",
-        "tt@iqtelif": "Milne Bay"
+        "zu_ZA": "Milne Bay"
     },
     "MPL": {
         "af": "Morobe",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Morobe",
         "sq_XK": "Morobe",
         "sr": "Моробе",
+        "sr@latin": "Morobe",
         "sr_Cyrl": "Моробе",
         "sr_Cyrl_BA": "Моробе",
         "sr_Cyrl_ME": "Моробе",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Morobe",
         "tr_TR": "Morobe",
         "tt": "Morobe",
+        "tt@iqtelif": "Morobe",
         "tt_RU": "Morobe",
         "twq": "Morobe",
         "twq_NE": "Morobe",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Morobe",
         "zh_Hant_TW": "Morobe",
         "zu": "Morobe",
-        "zu_ZA": "Morobe",
-        "sr@latin": "Morobe",
-        "tt@iqtelif": "Morobe"
+        "zu_ZA": "Morobe"
     },
     "MPM": {
         "af": "Madang",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Madang",
         "sq_XK": "Madang",
         "sr": "Маданг",
+        "sr@latin": "Madang",
         "sr_Cyrl": "Маданг",
         "sr_Cyrl_BA": "Маданг",
         "sr_Cyrl_ME": "Маданг",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Madang",
         "tr_TR": "Madang",
         "tt": "Madang",
+        "tt@iqtelif": "Madang",
         "tt_RU": "Madang",
         "twq": "Madang",
         "twq_NE": "Madang",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Madang",
         "zh_Hant_TW": "Madang",
         "zu": "Madang",
-        "zu_ZA": "Madang",
-        "sr@latin": "Madang",
-        "tt@iqtelif": "Madang"
+        "zu_ZA": "Madang"
     },
     "MRL": {
         "af": "Manus",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Manus",
         "sq_XK": "Manus",
         "sr": "Манус",
+        "sr@latin": "Manus",
         "sr_Cyrl": "Манус",
         "sr_Cyrl_BA": "Манус",
         "sr_Cyrl_ME": "Манус",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Manus",
         "tr_TR": "Manus",
         "tt": "Manus",
+        "tt@iqtelif": "Manus",
         "tt_RU": "Manus",
         "twq": "Manus",
         "twq_NE": "Manus",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Manus",
         "zh_Hant_TW": "Manus",
         "zu": "Manus",
-        "zu_ZA": "Manus",
-        "sr@latin": "Manus",
-        "tt@iqtelif": "Manus"
+        "zu_ZA": "Manus"
     },
     "NCD": {
         "af": "National Capital District (Port Moresby)",
@@ -12248,6 +12248,7 @@
         "sq_MK": "National Capital District (Port Moresby)",
         "sq_XK": "National Capital District (Port Moresby)",
         "sr": "National Capital District (Port Moresby)",
+        "sr@latin": "National Capital District (Port Moresby)",
         "sr_Cyrl": "National Capital District (Port Moresby)",
         "sr_Cyrl_BA": "National Capital District (Port Moresby)",
         "sr_Cyrl_ME": "National Capital District (Port Moresby)",
@@ -12308,6 +12309,7 @@
         "tr_CY": "National Capital District (Port Moresby)",
         "tr_TR": "National Capital District (Port Moresby)",
         "tt": "National Capital District (Port Moresby)",
+        "tt@iqtelif": "National Capital District (Port Moresby)",
         "tt_RU": "National Capital District (Port Moresby)",
         "twq": "National Capital District (Port Moresby)",
         "twq_NE": "National Capital District (Port Moresby)",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "National Capital District (Port Moresby)",
         "zh_Hant_TW": "National Capital District (Port Moresby)",
         "zu": "National Capital District (Port Moresby)",
-        "zu_ZA": "National Capital District (Port Moresby)",
-        "sr@latin": "National Capital District (Port Moresby)",
-        "tt@iqtelif": "National Capital District (Port Moresby)"
+        "zu_ZA": "National Capital District (Port Moresby)"
     },
     "NIK": {
         "af": "New Ireland",
@@ -13133,6 +13133,7 @@
         "sq_MK": "New Ireland",
         "sq_XK": "New Ireland",
         "sr": "Нова Ирска",
+        "sr@latin": "Nova Irska",
         "sr_Cyrl": "Нова Ирска",
         "sr_Cyrl_BA": "Нова Ирска",
         "sr_Cyrl_ME": "Нова Ирска",
@@ -13193,6 +13194,7 @@
         "tr_CY": "New Ireland",
         "tr_TR": "New Ireland",
         "tt": "New Ireland",
+        "tt@iqtelif": "New Ireland",
         "tt_RU": "New Ireland",
         "twq": "New Ireland",
         "twq_NE": "New Ireland",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "New Ireland",
         "zh_Hant_TW": "New Ireland",
         "zu": "New Ireland",
-        "zu_ZA": "New Ireland",
-        "sr@latin": "Nova Irska",
-        "tt@iqtelif": "New Ireland"
+        "zu_ZA": "New Ireland"
     },
     "NPP": {
         "af": "Northern",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Northern",
         "sq_XK": "Northern",
         "sr": "Northern",
+        "sr@latin": "Northern",
         "sr_Cyrl": "Northern",
         "sr_Cyrl_BA": "Northern",
         "sr_Cyrl_ME": "Northern",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Kuzey",
         "tr_TR": "Kuzey",
         "tt": "Northern",
+        "tt@iqtelif": "Northern",
         "tt_RU": "Northern",
         "twq": "Northern",
         "twq_NE": "Northern",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern",
-        "sr@latin": "Northern",
-        "tt@iqtelif": "Northern"
+        "zu_ZA": "Northern"
     },
     "NSB": {
         "af": "Bougainville",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Bougainville",
         "sq_XK": "Bougainville",
         "sr": "Буганвил",
+        "sr@latin": "Buganvil",
         "sr_Cyrl": "Буганвил",
         "sr_Cyrl_BA": "Буганвил",
         "sr_Cyrl_ME": "Буганвил",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Bougainville",
         "tr_TR": "Bougainville",
         "tt": "Bougainville",
+        "tt@iqtelif": "Bougainville",
         "tt_RU": "Bougainville",
         "twq": "Bougainville",
         "twq_NE": "Bougainville",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Bougainville",
         "zh_Hant_TW": "Bougainville",
         "zu": "Bougainville",
-        "zu_ZA": "Bougainville",
-        "sr@latin": "Buganvil",
-        "tt@iqtelif": "Bougainville"
+        "zu_ZA": "Bougainville"
     },
     "SAN": {
         "af": "West Sepik",
@@ -15788,6 +15788,7 @@
         "sq_MK": "West Sepik",
         "sq_XK": "West Sepik",
         "sr": "West Sepik",
+        "sr@latin": "West Sepik",
         "sr_Cyrl": "West Sepik",
         "sr_Cyrl_BA": "West Sepik",
         "sr_Cyrl_ME": "West Sepik",
@@ -15848,6 +15849,7 @@
         "tr_CY": "West Sepik",
         "tr_TR": "West Sepik",
         "tt": "West Sepik",
+        "tt@iqtelif": "West Sepik",
         "tt_RU": "West Sepik",
         "twq": "West Sepik",
         "twq_NE": "West Sepik",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "West Sepik",
         "zh_Hant_TW": "West Sepik",
         "zu": "West Sepik",
-        "zu_ZA": "West Sepik",
-        "sr@latin": "West Sepik",
-        "tt@iqtelif": "West Sepik"
+        "zu_ZA": "West Sepik"
     },
     "SHM": {
         "af": "Southern Highlands",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Southern Highlands",
         "sq_XK": "Southern Highlands",
         "sr": "Southern Highlands",
+        "sr@latin": "Southern Highlands",
         "sr_Cyrl": "Southern Highlands",
         "sr_Cyrl_BA": "Southern Highlands",
         "sr_Cyrl_ME": "Southern Highlands",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Southern Highlands",
         "tr_TR": "Southern Highlands",
         "tt": "Southern Highlands",
+        "tt@iqtelif": "Southern Highlands",
         "tt_RU": "Southern Highlands",
         "twq": "Southern Highlands",
         "twq_NE": "Southern Highlands",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Southern Highlands",
         "zh_Hant_TW": "Southern Highlands",
         "zu": "Southern Highlands",
-        "zu_ZA": "Southern Highlands",
-        "sr@latin": "Southern Highlands",
-        "tt@iqtelif": "Southern Highlands"
+        "zu_ZA": "Southern Highlands"
     },
     "WBK": {
         "af": "West New Britain",
@@ -17558,6 +17558,7 @@
         "sq_MK": "West New Britain",
         "sq_XK": "West New Britain",
         "sr": "Западна Нова Британија",
+        "sr@latin": "Zapadna Nova Britanija",
         "sr_Cyrl": "Западна Нова Британија",
         "sr_Cyrl_BA": "Западна Нова Британија",
         "sr_Cyrl_ME": "Западна Нова Британија",
@@ -17618,6 +17619,7 @@
         "tr_CY": "West New Britain",
         "tr_TR": "West New Britain",
         "tt": "West New Britain",
+        "tt@iqtelif": "West New Britain",
         "tt_RU": "West New Britain",
         "twq": "West New Britain",
         "twq_NE": "West New Britain",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "West New Britain",
         "zh_Hant_TW": "West New Britain",
         "zu": "West New Britain",
-        "zu_ZA": "West New Britain",
-        "sr@latin": "Zapadna Nova Britanija",
-        "tt@iqtelif": "West New Britain"
+        "zu_ZA": "West New Britain"
     },
     "WHM": {
         "af": "Western Highlands",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Western Highlands",
         "sq_XK": "Western Highlands",
         "sr": "Western Highlands",
+        "sr@latin": "Western Highlands",
         "sr_Cyrl": "Western Highlands",
         "sr_Cyrl_BA": "Western Highlands",
         "sr_Cyrl_ME": "Western Highlands",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Western Highlands",
         "tr_TR": "Western Highlands",
         "tt": "Western Highlands",
+        "tt@iqtelif": "Western Highlands",
         "tt_RU": "Western Highlands",
         "twq": "Western Highlands",
         "twq_NE": "Western Highlands",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Western Highlands",
         "zh_Hant_TW": "Western Highlands",
         "zu": "Western Highlands",
-        "zu_ZA": "Western Highlands",
-        "sr@latin": "Western Highlands",
-        "tt@iqtelif": "Western Highlands"
+        "zu_ZA": "Western Highlands"
     },
     "WPD": {
         "af": "Western",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Western",
         "sq_XK": "Western",
         "sr": "Western",
+        "sr@latin": "Western",
         "sr_Cyrl": "Western",
         "sr_Cyrl_BA": "Western",
         "sr_Cyrl_ME": "Western",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Batı",
         "tr_TR": "Batı",
         "tt": "Western",
+        "tt@iqtelif": "Western",
         "tt_RU": "Western",
         "twq": "Western",
         "twq_NE": "Western",
@@ -19465,8 +19467,6 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western",
-        "sr@latin": "Western",
-        "tt@iqtelif": "Western"
+        "zu_ZA": "Western"
     }
 }

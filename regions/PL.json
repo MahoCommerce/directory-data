@@ -743,6 +743,7 @@
         "sq_MK": "Dolnośląskie",
         "sq_XK": "Dolnośląskie",
         "sr": "Долношлески",
+        "sr@latin": "Dolnošleski",
         "sr_Cyrl": "Долношлески",
         "sr_Cyrl_BA": "Долношлески",
         "sr_Cyrl_ME": "Долношлески",
@@ -803,6 +804,7 @@
         "tr_CY": "Dolnoslaskie",
         "tr_TR": "Dolnoslaskie",
         "tt": "Dolnośląskie",
+        "tt@iqtelif": "Dolnośląskie",
         "tt_RU": "Dolnośląskie",
         "twq": "Dolnośląskie",
         "twq_NE": "Dolnośląskie",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Dolnośląskie",
         "zh_Hant_TW": "Dolnośląskie",
         "zu": "Dolnośląskie",
-        "zu_ZA": "Dolnośląskie",
-        "sr@latin": "Dolnošleski",
-        "tt@iqtelif": "Dolnośląskie"
+        "zu_ZA": "Dolnośląskie"
     },
     "04": {
         "af": "Kujawsko-Pomorskie",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kujawsko-Pomorskie",
         "sq_XK": "Kujawsko-Pomorskie",
         "sr": "Kujawsko-Pomorskie",
+        "sr@latin": "Kujawsko-Pomorskie",
         "sr_Cyrl": "Kujawsko-Pomorskie",
         "sr_Cyrl_BA": "Kujawsko-Pomorskie",
         "sr_Cyrl_ME": "Kujawsko-Pomorskie",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kujawsko-Pomorskie",
         "tr_TR": "Kujawsko-Pomorskie",
         "tt": "Kujawsko-Pomorskie",
+        "tt@iqtelif": "Kujawsko-Pomorskie",
         "tt_RU": "Kujawsko-Pomorskie",
         "twq": "Kujawsko-Pomorskie",
         "twq_NE": "Kujawsko-Pomorskie",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kujawsko-Pomorskie",
         "zh_Hant_TW": "Kujawsko-Pomorskie",
         "zu": "Kujawsko-Pomorskie",
-        "zu_ZA": "Kujawsko-Pomorskie",
-        "sr@latin": "Kujawsko-Pomorskie",
-        "tt@iqtelif": "Kujawsko-Pomorskie"
+        "zu_ZA": "Kujawsko-Pomorskie"
     },
     "06": {
         "af": "Lubelskie",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Lubelskie",
         "sq_XK": "Lubelskie",
         "sr": "Lubelskie",
+        "sr@latin": "Lubelskie",
         "sr_Cyrl": "Lubelskie",
         "sr_Cyrl_BA": "Lubelskie",
         "sr_Cyrl_ME": "Lubelskie",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Lubelskie",
         "tr_TR": "Lubelskie",
         "tt": "Lubelskie",
+        "tt@iqtelif": "Lubelskie",
         "tt_RU": "Lubelskie",
         "twq": "Lubelskie",
         "twq_NE": "Lubelskie",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Lubelskie",
         "zh_Hant_TW": "Lubelskie",
         "zu": "Lubelskie",
-        "zu_ZA": "Lubelskie",
-        "sr@latin": "Lubelskie",
-        "tt@iqtelif": "Lubelskie"
+        "zu_ZA": "Lubelskie"
     },
     "08": {
         "af": "Lubuskie",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Lubuskie",
         "sq_XK": "Lubuskie",
         "sr": "Лубушки",
+        "sr@latin": "Lubuški",
         "sr_Cyrl": "Лубушки",
         "sr_Cyrl_BA": "Лубушки",
         "sr_Cyrl_ME": "Лубушки",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Lubuskie",
         "tr_TR": "Lubuskie",
         "tt": "Lubuskie",
+        "tt@iqtelif": "Lubuskie",
         "tt_RU": "Lubuskie",
         "twq": "Lubuskie",
         "twq_NE": "Lubuskie",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Lubuskie",
         "zh_Hant_TW": "Lubuskie",
         "zu": "Lubuskie",
-        "zu_ZA": "Lubuskie",
-        "sr@latin": "Lubuški",
-        "tt@iqtelif": "Lubuskie"
+        "zu_ZA": "Lubuskie"
     },
     "10": {
         "af": "Łódzkie",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Łódzkie",
         "sq_XK": "Łódzkie",
         "sr": "Łódzkie",
+        "sr@latin": "Łódzkie",
         "sr_Cyrl": "Łódzkie",
         "sr_Cyrl_BA": "Łódzkie",
         "sr_Cyrl_ME": "Łódzkie",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Lodzkie",
         "tr_TR": "Lodzkie",
         "tt": "Łódzkie",
+        "tt@iqtelif": "Łódzkie",
         "tt_RU": "Łódzkie",
         "twq": "Łódzkie",
         "twq_NE": "Łódzkie",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Łódzkie",
         "zh_Hant_TW": "Łódzkie",
         "zu": "Łódzkie",
-        "zu_ZA": "Łódzkie",
-        "sr@latin": "Łódzkie",
-        "tt@iqtelif": "Łódzkie"
+        "zu_ZA": "Łódzkie"
     },
     "12": {
         "af": "Małopolskie",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Małopolskie",
         "sq_XK": "Małopolskie",
         "sr": "Малопољски",
+        "sr@latin": "Malopoljski",
         "sr_Cyrl": "Малопољски",
         "sr_Cyrl_BA": "Малопољски",
         "sr_Cyrl_ME": "Малопољски",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Małopolskie",
         "tr_TR": "Małopolskie",
         "tt": "Małopolskie",
+        "tt@iqtelif": "Małopolskie",
         "tt_RU": "Małopolskie",
         "twq": "Małopolskie",
         "twq_NE": "Małopolskie",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Małopolskie",
         "zh_Hant_TW": "Małopolskie",
         "zu": "Małopolskie",
-        "zu_ZA": "Małopolskie",
-        "sr@latin": "Malopoljski",
-        "tt@iqtelif": "Małopolskie"
+        "zu_ZA": "Małopolskie"
     },
     "14": {
         "af": "Mazowieckie",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Mazowieckie",
         "sq_XK": "Mazowieckie",
         "sr": "Mazowieckie",
+        "sr@latin": "Mazowieckie",
         "sr_Cyrl": "Mazowieckie",
         "sr_Cyrl_BA": "Mazowieckie",
         "sr_Cyrl_ME": "Mazowieckie",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Mazowieckie",
         "tr_TR": "Mazowieckie",
         "tt": "Mazowieckie",
+        "tt@iqtelif": "Mazowieckie",
         "tt_RU": "Mazowieckie",
         "twq": "Mazowieckie",
         "twq_NE": "Mazowieckie",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Mazowieckie",
         "zh_Hant_TW": "Mazowieckie",
         "zu": "Mazowieckie",
-        "zu_ZA": "Mazowieckie",
-        "sr@latin": "Mazowieckie",
-        "tt@iqtelif": "Mazowieckie"
+        "zu_ZA": "Mazowieckie"
     },
     "16": {
         "af": "Opolskie",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Opolskie",
         "sq_XK": "Opolskie",
         "sr": "Opolskie",
+        "sr@latin": "Opolskie",
         "sr_Cyrl": "Opolskie",
         "sr_Cyrl_BA": "Opolskie",
         "sr_Cyrl_ME": "Opolskie",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Opolskie",
         "tr_TR": "Opolskie",
         "tt": "Opolskie",
+        "tt@iqtelif": "Opolskie",
         "tt_RU": "Opolskie",
         "twq": "Opolskie",
         "twq_NE": "Opolskie",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Opolskie",
         "zh_Hant_TW": "Opolskie",
         "zu": "Opolskie",
-        "zu_ZA": "Opolskie",
-        "sr@latin": "Opolskie",
-        "tt@iqtelif": "Opolskie"
+        "zu_ZA": "Opolskie"
     },
     "18": {
         "af": "Podkarpackie",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Podkarpackie",
         "sq_XK": "Podkarpackie",
         "sr": "Podkarpackie",
+        "sr@latin": "Podkarpackie",
         "sr_Cyrl": "Podkarpackie",
         "sr_Cyrl_BA": "Podkarpackie",
         "sr_Cyrl_ME": "Podkarpackie",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Podkarpackie",
         "tr_TR": "Podkarpackie",
         "tt": "Podkarpackie",
+        "tt@iqtelif": "Podkarpackie",
         "tt_RU": "Podkarpackie",
         "twq": "Podkarpackie",
         "twq_NE": "Podkarpackie",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Podkarpackie",
         "zh_Hant_TW": "Podkarpackie",
         "zu": "Podkarpackie",
-        "zu_ZA": "Podkarpackie",
-        "sr@latin": "Podkarpackie",
-        "tt@iqtelif": "Podkarpackie"
+        "zu_ZA": "Podkarpackie"
     },
     "20": {
         "af": "Podlaskie",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Podlaskie",
         "sq_XK": "Podlaskie",
         "sr": "Podlaskie",
+        "sr@latin": "Podlaskie",
         "sr_Cyrl": "Podlaskie",
         "sr_Cyrl_BA": "Podlaskie",
         "sr_Cyrl_ME": "Podlaskie",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Podlaskie",
         "tr_TR": "Podlaskie",
         "tt": "Podlaskie",
+        "tt@iqtelif": "Podlaskie",
         "tt_RU": "Podlaskie",
         "twq": "Podlaskie",
         "twq_NE": "Podlaskie",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Podlaskie",
         "zh_Hant_TW": "Podlaskie",
         "zu": "Podlaskie",
-        "zu_ZA": "Podlaskie",
-        "sr@latin": "Podlaskie",
-        "tt@iqtelif": "Podlaskie"
+        "zu_ZA": "Podlaskie"
     },
     "22": {
         "af": "Pomorskie",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Pomorskie",
         "sq_XK": "Pomorskie",
         "sr": "Pomorskie",
+        "sr@latin": "Pomorskie",
         "sr_Cyrl": "Pomorskie",
         "sr_Cyrl_BA": "Pomorskie",
         "sr_Cyrl_ME": "Pomorskie",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Pomorskie",
         "tr_TR": "Pomorskie",
         "tt": "Pomorskie",
+        "tt@iqtelif": "Pomorskie",
         "tt_RU": "Pomorskie",
         "twq": "Pomorskie",
         "twq_NE": "Pomorskie",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Pomorskie",
         "zh_Hant_TW": "Pomorskie",
         "zu": "Pomorskie",
-        "zu_ZA": "Pomorskie",
-        "sr@latin": "Pomorskie",
-        "tt@iqtelif": "Pomorskie"
+        "zu_ZA": "Pomorskie"
     },
     "24": {
         "af": "Śląskie",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Śląskie",
         "sq_XK": "Śląskie",
         "sr": "Śląskie",
+        "sr@latin": "Śląskie",
         "sr_Cyrl": "Śląskie",
         "sr_Cyrl_BA": "Śląskie",
         "sr_Cyrl_ME": "Śląskie",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Slaskie",
         "tr_TR": "Slaskie",
         "tt": "Śląskie",
+        "tt@iqtelif": "Śląskie",
         "tt_RU": "Śląskie",
         "twq": "Śląskie",
         "twq_NE": "Śląskie",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Śląskie",
         "zh_Hant_TW": "Śląskie",
         "zu": "Śląskie",
-        "zu_ZA": "Śląskie",
-        "sr@latin": "Śląskie",
-        "tt@iqtelif": "Śląskie"
+        "zu_ZA": "Śląskie"
     },
     "26": {
         "af": "Świętokrzyskie",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Świętokrzyskie",
         "sq_XK": "Świętokrzyskie",
         "sr": "Świętokrzyskie",
+        "sr@latin": "Świętokrzyskie",
         "sr_Cyrl": "Świętokrzyskie",
         "sr_Cyrl_BA": "Świętokrzyskie",
         "sr_Cyrl_ME": "Świętokrzyskie",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Świętokrzyskie",
         "tr_TR": "Świętokrzyskie",
         "tt": "Świętokrzyskie",
+        "tt@iqtelif": "Świętokrzyskie",
         "tt_RU": "Świętokrzyskie",
         "twq": "Świętokrzyskie",
         "twq_NE": "Świętokrzyskie",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Świętokrzyskie",
         "zh_Hant_TW": "Świętokrzyskie",
         "zu": "Świętokrzyskie",
-        "zu_ZA": "Świętokrzyskie",
-        "sr@latin": "Świętokrzyskie",
-        "tt@iqtelif": "Świętokrzyskie"
+        "zu_ZA": "Świętokrzyskie"
     },
     "28": {
         "af": "Warmińsko-Mazurskie",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Warmińsko-Mazurskie",
         "sq_XK": "Warmińsko-Mazurskie",
         "sr": "Warmińsko-Mazurskie",
+        "sr@latin": "Warmińsko-Mazurskie",
         "sr_Cyrl": "Warmińsko-Mazurskie",
         "sr_Cyrl_BA": "Warmińsko-Mazurskie",
         "sr_Cyrl_ME": "Warmińsko-Mazurskie",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Warmińsko-Mazurskie",
         "tr_TR": "Warmińsko-Mazurskie",
         "tt": "Warmińsko-Mazurskie",
+        "tt@iqtelif": "Warmińsko-Mazurskie",
         "tt_RU": "Warmińsko-Mazurskie",
         "twq": "Warmińsko-Mazurskie",
         "twq_NE": "Warmińsko-Mazurskie",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Warmińsko-Mazurskie",
         "zh_Hant_TW": "Warmińsko-Mazurskie",
         "zu": "Warmińsko-Mazurskie",
-        "zu_ZA": "Warmińsko-Mazurskie",
-        "sr@latin": "Warmińsko-Mazurskie",
-        "tt@iqtelif": "Warmińsko-Mazurskie"
+        "zu_ZA": "Warmińsko-Mazurskie"
     },
     "30": {
         "af": "Wielkopolskie",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Wielkopolskie",
         "sq_XK": "Wielkopolskie",
         "sr": "Wielkopolskie",
+        "sr@latin": "Wielkopolskie",
         "sr_Cyrl": "Wielkopolskie",
         "sr_Cyrl_BA": "Wielkopolskie",
         "sr_Cyrl_ME": "Wielkopolskie",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Wielkopolskie",
         "tr_TR": "Wielkopolskie",
         "tt": "Wielkopolskie",
+        "tt@iqtelif": "Wielkopolskie",
         "tt_RU": "Wielkopolskie",
         "twq": "Wielkopolskie",
         "twq_NE": "Wielkopolskie",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Wielkopolskie",
         "zh_Hant_TW": "Wielkopolskie",
         "zu": "Wielkopolskie",
-        "zu_ZA": "Wielkopolskie",
-        "sr@latin": "Wielkopolskie",
-        "tt@iqtelif": "Wielkopolskie"
+        "zu_ZA": "Wielkopolskie"
     },
     "32": {
         "af": "Zachodniopomorskie",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Zachodniopomorskie",
         "sq_XK": "Zachodniopomorskie",
         "sr": "Zachodniopomorskie",
+        "sr@latin": "Zachodniopomorskie",
         "sr_Cyrl": "Zachodniopomorskie",
         "sr_Cyrl_BA": "Zachodniopomorskie",
         "sr_Cyrl_ME": "Zachodniopomorskie",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Zachodniopomorskie",
         "tr_TR": "Zachodniopomorskie",
         "tt": "Zachodniopomorskie",
+        "tt@iqtelif": "Zachodniopomorskie",
         "tt_RU": "Zachodniopomorskie",
         "twq": "Zachodniopomorskie",
         "twq_NE": "Zachodniopomorskie",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Zachodniopomorskie",
         "zh_Hant_TW": "Zachodniopomorskie",
         "zu": "Zachodniopomorskie",
-        "zu_ZA": "Zachodniopomorskie",
-        "sr@latin": "Zachodniopomorskie",
-        "tt@iqtelif": "Zachodniopomorskie"
+        "zu_ZA": "Zachodniopomorskie"
     }
 }

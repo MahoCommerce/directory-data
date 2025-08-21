@@ -743,6 +743,7 @@
         "sq_MK": "Paro",
         "sq_XK": "Paro",
         "sr": "Паро",
+        "sr@latin": "Paro",
         "sr_Cyrl": "Паро",
         "sr_Cyrl_BA": "Паро",
         "sr_Cyrl_ME": "Паро",
@@ -803,6 +804,7 @@
         "tr_CY": "Paro",
         "tr_TR": "Paro",
         "tt": "Paro",
+        "tt@iqtelif": "Paro",
         "tt_RU": "Paro",
         "twq": "Paro",
         "twq_NE": "Paro",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Paro",
         "zh_Hant_TW": "Paro",
         "zu": "Paro",
-        "zu_ZA": "Paro",
-        "sr@latin": "Paro",
-        "tt@iqtelif": "Paro"
+        "zu_ZA": "Paro"
     },
     "12": {
         "af": "Chhukha",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Chhukha",
         "sq_XK": "Chhukha",
         "sr": "Чука",
+        "sr@latin": "Čuka",
         "sr_Cyrl": "Чука",
         "sr_Cyrl_BA": "Чука",
         "sr_Cyrl_ME": "Чука",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Chhukha",
         "tr_TR": "Chhukha",
         "tt": "Chhukha",
+        "tt@iqtelif": "Chhukha",
         "tt_RU": "Chhukha",
         "twq": "Chhukha",
         "twq_NE": "Chhukha",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Chhukha",
         "zh_Hant_TW": "Chhukha",
         "zu": "Chhukha",
-        "zu_ZA": "Chhukha",
-        "sr@latin": "Čuka",
-        "tt@iqtelif": "Chhukha"
+        "zu_ZA": "Chhukha"
     },
     "13": {
         "af": "Haa",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Haa",
         "sq_XK": "Haa",
         "sr": "Haa",
+        "sr@latin": "Haa",
         "sr_Cyrl": "Haa",
         "sr_Cyrl_BA": "Haa",
         "sr_Cyrl_ME": "Haa",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Haa",
         "tr_TR": "Haa",
         "tt": "Haa",
+        "tt@iqtelif": "Haa",
         "tt_RU": "Haa",
         "twq": "Haa",
         "twq_NE": "Haa",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Haa",
         "zh_Hant_TW": "Haa",
         "zu": "Haa",
-        "zu_ZA": "Haa",
-        "sr@latin": "Haa",
-        "tt@iqtelif": "Haa"
+        "zu_ZA": "Haa"
     },
     "14": {
         "af": "Samtse",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Samtse",
         "sq_XK": "Samtse",
         "sr": "Samtse",
+        "sr@latin": "Samtse",
         "sr_Cyrl": "Samtse",
         "sr_Cyrl_BA": "Samtse",
         "sr_Cyrl_ME": "Samtse",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Samtse",
         "tr_TR": "Samtse",
         "tt": "Samtse",
+        "tt@iqtelif": "Samtse",
         "tt_RU": "Samtse",
         "twq": "Samtse",
         "twq_NE": "Samtse",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Samtse",
         "zh_Hant_TW": "Samtse",
         "zu": "Samtse",
-        "zu_ZA": "Samtse",
-        "sr@latin": "Samtse",
-        "tt@iqtelif": "Samtse"
+        "zu_ZA": "Samtse"
     },
     "15": {
         "af": "Thimphu",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Thimphu",
         "sq_XK": "Thimphu",
         "sr": "Тимфу",
+        "sr@latin": "Timfu",
         "sr_Cyrl": "Тимфу",
         "sr_Cyrl_BA": "Тимфу",
         "sr_Cyrl_ME": "Тимфу",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Thimphu",
         "tr_TR": "Thimphu",
         "tt": "Thimphu",
+        "tt@iqtelif": "Thimphu",
         "tt_RU": "Thimphu",
         "twq": "Thimphu",
         "twq_NE": "Thimphu",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Thimphu",
         "zh_Hant_TW": "Thimphu",
         "zu": "Thimphu",
-        "zu_ZA": "Thimphu",
-        "sr@latin": "Timfu",
-        "tt@iqtelif": "Thimphu"
+        "zu_ZA": "Thimphu"
     },
     "21": {
         "af": "Tsirang",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Tsirang",
         "sq_XK": "Tsirang",
         "sr": "Циранг",
+        "sr@latin": "Cirang",
         "sr_Cyrl": "Циранг",
         "sr_Cyrl_BA": "Циранг",
         "sr_Cyrl_ME": "Циранг",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Tsirang",
         "tr_TR": "Tsirang",
         "tt": "Tsirang",
+        "tt@iqtelif": "Tsirang",
         "tt_RU": "Tsirang",
         "twq": "Tsirang",
         "twq_NE": "Tsirang",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Tsirang",
         "zh_Hant_TW": "Tsirang",
         "zu": "Tsirang",
-        "zu_ZA": "Tsirang",
-        "sr@latin": "Cirang",
-        "tt@iqtelif": "Tsirang"
+        "zu_ZA": "Tsirang"
     },
     "22": {
         "af": "Dagana",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Dagana",
         "sq_XK": "Dagana",
         "sr": "Дагана",
+        "sr@latin": "Dagana",
         "sr_Cyrl": "Дагана",
         "sr_Cyrl_BA": "Дагана",
         "sr_Cyrl_ME": "Дагана",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Dagana",
         "tr_TR": "Dagana",
         "tt": "Dagana",
+        "tt@iqtelif": "Dagana",
         "tt_RU": "Dagana",
         "twq": "Dagana",
         "twq_NE": "Dagana",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Dagana",
         "zh_Hant_TW": "Dagana",
         "zu": "Dagana",
-        "zu_ZA": "Dagana",
-        "sr@latin": "Dagana",
-        "tt@iqtelif": "Dagana"
+        "zu_ZA": "Dagana"
     },
     "23": {
         "af": "Punakha",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Punakha",
         "sq_XK": "Punakha",
         "sr": "Пунака",
+        "sr@latin": "Punaka",
         "sr_Cyrl": "Пунака",
         "sr_Cyrl_BA": "Пунака",
         "sr_Cyrl_ME": "Пунака",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Punakha",
         "tr_TR": "Punakha",
         "tt": "Punakha",
+        "tt@iqtelif": "Punakha",
         "tt_RU": "Punakha",
         "twq": "Punakha",
         "twq_NE": "Punakha",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Punakha",
         "zh_Hant_TW": "Punakha",
         "zu": "Punakha",
-        "zu_ZA": "Punakha",
-        "sr@latin": "Punaka",
-        "tt@iqtelif": "Punakha"
+        "zu_ZA": "Punakha"
     },
     "24": {
         "af": "Wangdue Phodrang",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Wangdue Phodrang",
         "sq_XK": "Wangdue Phodrang",
         "sr": "Вангду Фодранг",
+        "sr@latin": "Vangdu Fodrang",
         "sr_Cyrl": "Вангду Фодранг",
         "sr_Cyrl_BA": "Вангду Фодранг",
         "sr_Cyrl_ME": "Вангду Фодранг",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Wangdue Phodrang",
         "tr_TR": "Wangdue Phodrang",
         "tt": "Wangdue Phodrang",
+        "tt@iqtelif": "Wangdue Phodrang",
         "tt_RU": "Wangdue Phodrang",
         "twq": "Wangdue Phodrang",
         "twq_NE": "Wangdue Phodrang",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Wangdue Phodrang",
         "zh_Hant_TW": "Wangdue Phodrang",
         "zu": "Wangdue Phodrang",
-        "zu_ZA": "Wangdue Phodrang",
-        "sr@latin": "Vangdu Fodrang",
-        "tt@iqtelif": "Wangdue Phodrang"
+        "zu_ZA": "Wangdue Phodrang"
     },
     "31": {
         "af": "Sarpang",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Sarpang",
         "sq_XK": "Sarpang",
         "sr": "Сарпанг",
+        "sr@latin": "Sarpang",
         "sr_Cyrl": "Сарпанг",
         "sr_Cyrl_BA": "Сарпанг",
         "sr_Cyrl_ME": "Сарпанг",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Sarpang",
         "tr_TR": "Sarpang",
         "tt": "Sarpang",
+        "tt@iqtelif": "Sarpang",
         "tt_RU": "Sarpang",
         "twq": "Sarpang",
         "twq_NE": "Sarpang",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Sarpang",
         "zh_Hant_TW": "Sarpang",
         "zu": "Sarpang",
-        "zu_ZA": "Sarpang",
-        "sr@latin": "Sarpang",
-        "tt@iqtelif": "Sarpang"
+        "zu_ZA": "Sarpang"
     },
     "32": {
         "af": "Trongsa",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Trongsa",
         "sq_XK": "Trongsa",
         "sr": "Тронгса",
+        "sr@latin": "Trongsa",
         "sr_Cyrl": "Тронгса",
         "sr_Cyrl_BA": "Тронгса",
         "sr_Cyrl_ME": "Тронгса",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Trongsa",
         "tr_TR": "Trongsa",
         "tt": "Trongsa",
+        "tt@iqtelif": "Trongsa",
         "tt_RU": "Trongsa",
         "twq": "Trongsa",
         "twq_NE": "Trongsa",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Trongsa",
         "zh_Hant_TW": "Trongsa",
         "zu": "Trongsa",
-        "zu_ZA": "Trongsa",
-        "sr@latin": "Trongsa",
-        "tt@iqtelif": "Trongsa"
+        "zu_ZA": "Trongsa"
     },
     "33": {
         "af": "Bumthang",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Bumthang",
         "sq_XK": "Bumthang",
         "sr": "Бумтанг",
+        "sr@latin": "Bumtang",
         "sr_Cyrl": "Бумтанг",
         "sr_Cyrl_BA": "Бумтанг",
         "sr_Cyrl_ME": "Бумтанг",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Bumthang",
         "tr_TR": "Bumthang",
         "tt": "Bumthang",
+        "tt@iqtelif": "Bumthang",
         "tt_RU": "Bumthang",
         "twq": "Bumthang",
         "twq_NE": "Bumthang",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Bumthang",
         "zh_Hant_TW": "Bumthang",
         "zu": "Bumthang",
-        "zu_ZA": "Bumthang",
-        "sr@latin": "Bumtang",
-        "tt@iqtelif": "Bumthang"
+        "zu_ZA": "Bumthang"
     },
     "34": {
         "af": "Zhemgang",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Zhemgang",
         "sq_XK": "Zhemgang",
         "sr": "Цемганг",
+        "sr@latin": "Cemgang",
         "sr_Cyrl": "Цемганг",
         "sr_Cyrl_BA": "Цемганг",
         "sr_Cyrl_ME": "Цемганг",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Zhemgang",
         "tr_TR": "Zhemgang",
         "tt": "Zhemgang",
+        "tt@iqtelif": "Zhemgang",
         "tt_RU": "Zhemgang",
         "twq": "Zhemgang",
         "twq_NE": "Zhemgang",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Zhemgang",
         "zh_Hant_TW": "Zhemgang",
         "zu": "Zhemgang",
-        "zu_ZA": "Zhemgang",
-        "sr@latin": "Cemgang",
-        "tt@iqtelif": "Zhemgang"
+        "zu_ZA": "Zhemgang"
     },
     "41": {
         "af": "Trashigang",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Trashigang",
         "sq_XK": "Trashigang",
         "sr": "Трашиганг",
+        "sr@latin": "Trašigang",
         "sr_Cyrl": "Трашиганг",
         "sr_Cyrl_BA": "Трашиганг",
         "sr_Cyrl_ME": "Трашиганг",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Trashigang",
         "tr_TR": "Trashigang",
         "tt": "Trashigang",
+        "tt@iqtelif": "Trashigang",
         "tt_RU": "Trashigang",
         "twq": "Trashigang",
         "twq_NE": "Trashigang",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Trashigang",
         "zh_Hant_TW": "Trashigang",
         "zu": "Trashigang",
-        "zu_ZA": "Trashigang",
-        "sr@latin": "Trašigang",
-        "tt@iqtelif": "Trashigang"
+        "zu_ZA": "Trashigang"
     },
     "42": {
         "af": "Monggar",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Monggar",
         "sq_XK": "Monggar",
         "sr": "Монгар",
+        "sr@latin": "Mongar",
         "sr_Cyrl": "Монгар",
         "sr_Cyrl_BA": "Монгар",
         "sr_Cyrl_ME": "Монгар",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Monggar",
         "tr_TR": "Monggar",
         "tt": "Monggar",
+        "tt@iqtelif": "Monggar",
         "tt_RU": "Monggar",
         "twq": "Monggar",
         "twq_NE": "Monggar",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Monggar",
         "zh_Hant_TW": "Monggar",
         "zu": "Monggar",
-        "zu_ZA": "Monggar",
-        "sr@latin": "Mongar",
-        "tt@iqtelif": "Monggar"
+        "zu_ZA": "Monggar"
     },
     "43": {
         "af": "Pema Gatshel",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Pema Gatshel",
         "sq_XK": "Pema Gatshel",
         "sr": "Pema Gatshel",
+        "sr@latin": "Pema Gatshel",
         "sr_Cyrl": "Pema Gatshel",
         "sr_Cyrl_BA": "Pema Gatshel",
         "sr_Cyrl_ME": "Pema Gatshel",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Pema Gatshel",
         "tr_TR": "Pema Gatshel",
         "tt": "Pema Gatshel",
+        "tt@iqtelif": "Pema Gatshel",
         "tt_RU": "Pema Gatshel",
         "twq": "Pema Gatshel",
         "twq_NE": "Pema Gatshel",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Pema Gatshel",
         "zh_Hant_TW": "Pema Gatshel",
         "zu": "Pema Gatshel",
-        "zu_ZA": "Pema Gatshel",
-        "sr@latin": "Pema Gatshel",
-        "tt@iqtelif": "Pema Gatshel"
+        "zu_ZA": "Pema Gatshel"
     },
     "44": {
         "af": "Lhuentse",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Lhuentse",
         "sq_XK": "Lhuentse",
         "sr": "Луенце",
+        "sr@latin": "Luence",
         "sr_Cyrl": "Луенце",
         "sr_Cyrl_BA": "Луенце",
         "sr_Cyrl_ME": "Луенце",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Lhuentse",
         "tr_TR": "Lhuentse",
         "tt": "Lhuentse",
+        "tt@iqtelif": "Lhuentse",
         "tt_RU": "Lhuentse",
         "twq": "Lhuentse",
         "twq_NE": "Lhuentse",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Lhuentse",
         "zh_Hant_TW": "Lhuentse",
         "zu": "Lhuentse",
-        "zu_ZA": "Lhuentse",
-        "sr@latin": "Luence",
-        "tt@iqtelif": "Lhuentse"
+        "zu_ZA": "Lhuentse"
     },
     "45": {
         "af": "Samdrup Jongkhar",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Samdrup Jongkhar",
         "sq_XK": "Samdrup Jongkhar",
         "sr": "Samdrup Jongkhar",
+        "sr@latin": "Samdrup Jongkhar",
         "sr_Cyrl": "Samdrup Jongkhar",
         "sr_Cyrl_BA": "Samdrup Jongkhar",
         "sr_Cyrl_ME": "Samdrup Jongkhar",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Samdrup Jongkhar",
         "tr_TR": "Samdrup Jongkhar",
         "tt": "Samdrup Jongkhar",
+        "tt@iqtelif": "Samdrup Jongkhar",
         "tt_RU": "Samdrup Jongkhar",
         "twq": "Samdrup Jongkhar",
         "twq_NE": "Samdrup Jongkhar",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Samdrup Jongkhar",
         "zh_Hant_TW": "Samdrup Jongkhar",
         "zu": "Samdrup Jongkhar",
-        "zu_ZA": "Samdrup Jongkhar",
-        "sr@latin": "Samdrup Jongkhar",
-        "tt@iqtelif": "Samdrup Jongkhar"
+        "zu_ZA": "Samdrup Jongkhar"
     },
     "GA": {
         "af": "Gasa",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Gasa",
         "sq_XK": "Gasa",
         "sr": "Газа",
+        "sr@latin": "Gaza",
         "sr_Cyrl": "Газа",
         "sr_Cyrl_BA": "Газа",
         "sr_Cyrl_ME": "Газа",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Gasa",
         "tr_TR": "Gasa",
         "tt": "Gasa",
+        "tt@iqtelif": "Gasa",
         "tt_RU": "Gasa",
         "twq": "Gasa",
         "twq_NE": "Gasa",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Gasa",
         "zh_Hant_TW": "Gasa",
         "zu": "Gasa",
-        "zu_ZA": "Gasa",
-        "sr@latin": "Gaza",
-        "tt@iqtelif": "Gasa"
+        "zu_ZA": "Gasa"
     },
     "TY": {
         "af": "Trashi Yangtse",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Trashi Yangtse",
         "sq_XK": "Trashi Yangtse",
         "sr": "Траши Јангце",
+        "sr@latin": "Traši Jangce",
         "sr_Cyrl": "Траши Јангце",
         "sr_Cyrl_BA": "Траши Јангце",
         "sr_Cyrl_ME": "Траши Јангце",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Trashi Yangtse",
         "tr_TR": "Trashi Yangtse",
         "tt": "Trashi Yangtse",
+        "tt@iqtelif": "Trashi Yangtse",
         "tt_RU": "Trashi Yangtse",
         "twq": "Trashi Yangtse",
         "twq_NE": "Trashi Yangtse",
@@ -17695,8 +17697,6 @@
         "zh_Hant_MY": "Trashi Yangtse",
         "zh_Hant_TW": "Trashi Yangtse",
         "zu": "Trashi Yangtse",
-        "zu_ZA": "Trashi Yangtse",
-        "sr@latin": "Traši Jangce",
-        "tt@iqtelif": "Trashi Yangtse"
+        "zu_ZA": "Trashi Yangtse"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Guatemala",
         "sq_XK": "Guatemala",
         "sr": "Гватемала",
+        "sr@latin": "Gvatemala",
         "sr_Cyrl": "Гватемала",
         "sr_Cyrl_BA": "Гватемала",
         "sr_Cyrl_ME": "Гватемала",
@@ -803,6 +804,7 @@
         "tr_CY": "Guatemala",
         "tr_TR": "Guatemala",
         "tt": "Guatemala",
+        "tt@iqtelif": "Guatemala",
         "tt_RU": "Guatemala",
         "twq": "Guatemala",
         "twq_NE": "Guatemala",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Guatemala",
         "zh_Hant_TW": "Guatemala",
         "zu": "Guatemala",
-        "zu_ZA": "Guatemala",
-        "sr@latin": "Gvatemala",
-        "tt@iqtelif": "Guatemala"
+        "zu_ZA": "Guatemala"
     },
     "02": {
         "af": "El Progreso",
@@ -1628,6 +1628,7 @@
         "sq_MK": "El Progreso",
         "sq_XK": "El Progreso",
         "sr": "Ел Прогресо",
+        "sr@latin": "El Progreso",
         "sr_Cyrl": "Ел Прогресо",
         "sr_Cyrl_BA": "Ел Прогресо",
         "sr_Cyrl_ME": "Ел Прогресо",
@@ -1688,6 +1689,7 @@
         "tr_CY": "El Progreso",
         "tr_TR": "El Progreso",
         "tt": "El Progreso",
+        "tt@iqtelif": "El Progreso",
         "tt_RU": "El Progreso",
         "twq": "El Progreso",
         "twq_NE": "El Progreso",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "El Progreso",
         "zh_Hant_TW": "El Progreso",
         "zu": "El Progreso",
-        "zu_ZA": "El Progreso",
-        "sr@latin": "El Progreso",
-        "tt@iqtelif": "El Progreso"
+        "zu_ZA": "El Progreso"
     },
     "03": {
         "af": "Sacatepéquez",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Sacatepéquez",
         "sq_XK": "Sacatepéquez",
         "sr": "Sacatepéquez",
+        "sr@latin": "Sacatepéquez",
         "sr_Cyrl": "Sacatepéquez",
         "sr_Cyrl_BA": "Sacatepéquez",
         "sr_Cyrl_ME": "Sacatepéquez",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Sacatepéquez",
         "tr_TR": "Sacatepéquez",
         "tt": "Sacatepéquez",
+        "tt@iqtelif": "Sacatepéquez",
         "tt_RU": "Sacatepéquez",
         "twq": "Sacatepéquez",
         "twq_NE": "Sacatepéquez",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Sacatepéquez",
         "zh_Hant_TW": "Sacatepéquez",
         "zu": "Sacatepéquez",
-        "zu_ZA": "Sacatepéquez",
-        "sr@latin": "Sacatepéquez",
-        "tt@iqtelif": "Sacatepéquez"
+        "zu_ZA": "Sacatepéquez"
     },
     "04": {
         "af": "Chimaltenango",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Chimaltenango",
         "sq_XK": "Chimaltenango",
         "sr": "Кималтенанго",
+        "sr@latin": "Kimaltenango",
         "sr_Cyrl": "Кималтенанго",
         "sr_Cyrl_BA": "Кималтенанго",
         "sr_Cyrl_ME": "Кималтенанго",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Chimaltenango",
         "tr_TR": "Chimaltenango",
         "tt": "Chimaltenango",
+        "tt@iqtelif": "Chimaltenango",
         "tt_RU": "Chimaltenango",
         "twq": "Chimaltenango",
         "twq_NE": "Chimaltenango",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Chimaltenango",
         "zh_Hant_TW": "Chimaltenango",
         "zu": "Chimaltenango",
-        "zu_ZA": "Chimaltenango",
-        "sr@latin": "Kimaltenango",
-        "tt@iqtelif": "Chimaltenango"
+        "zu_ZA": "Chimaltenango"
     },
     "05": {
         "af": "Escuintla",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Escuintla",
         "sq_XK": "Escuintla",
         "sr": "Ескуинтла",
+        "sr@latin": "Eskuintla",
         "sr_Cyrl": "Ескуинтла",
         "sr_Cyrl_BA": "Ескуинтла",
         "sr_Cyrl_ME": "Ескуинтла",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Escuintla",
         "tr_TR": "Escuintla",
         "tt": "Escuintla",
+        "tt@iqtelif": "Escuintla",
         "tt_RU": "Escuintla",
         "twq": "Escuintla",
         "twq_NE": "Escuintla",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Escuintla",
         "zh_Hant_TW": "Escuintla",
         "zu": "Escuintla",
-        "zu_ZA": "Escuintla",
-        "sr@latin": "Eskuintla",
-        "tt@iqtelif": "Escuintla"
+        "zu_ZA": "Escuintla"
     },
     "06": {
         "af": "Santa Rosa",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Santa Rosa",
         "sq_XK": "Santa Rosa",
         "sr": "Санта Роза",
+        "sr@latin": "Santa Roza",
         "sr_Cyrl": "Санта Роза",
         "sr_Cyrl_BA": "Санта Роза",
         "sr_Cyrl_ME": "Санта Роза",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Santa Rosa",
         "tr_TR": "Santa Rosa",
         "tt": "Santa Rosa",
+        "tt@iqtelif": "Santa Rosa",
         "tt_RU": "Santa Rosa",
         "twq": "Santa Rosa",
         "twq_NE": "Santa Rosa",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Santa Rosa",
         "zh_Hant_TW": "Santa Rosa",
         "zu": "Santa Rosa",
-        "zu_ZA": "Santa Rosa",
-        "sr@latin": "Santa Roza",
-        "tt@iqtelif": "Santa Rosa"
+        "zu_ZA": "Santa Rosa"
     },
     "07": {
         "af": "Sololá",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Sololá",
         "sq_XK": "Sololá",
         "sr": "Солола",
+        "sr@latin": "Solola",
         "sr_Cyrl": "Солола",
         "sr_Cyrl_BA": "Солола",
         "sr_Cyrl_ME": "Солола",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Sololá",
         "tr_TR": "Sololá",
         "tt": "Sololá",
+        "tt@iqtelif": "Sololá",
         "tt_RU": "Sololá",
         "twq": "Sololá",
         "twq_NE": "Sololá",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Sololá",
         "zh_Hant_TW": "Sololá",
         "zu": "Sololá",
-        "zu_ZA": "Sololá",
-        "sr@latin": "Solola",
-        "tt@iqtelif": "Sololá"
+        "zu_ZA": "Sololá"
     },
     "08": {
         "af": "Totonicapán",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Totonicapán",
         "sq_XK": "Totonicapán",
         "sr": "Totonicapán",
+        "sr@latin": "Totonicapán",
         "sr_Cyrl": "Totonicapán",
         "sr_Cyrl_BA": "Totonicapán",
         "sr_Cyrl_ME": "Totonicapán",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Totonicapán",
         "tr_TR": "Totonicapán",
         "tt": "Totonicapán",
+        "tt@iqtelif": "Totonicapán",
         "tt_RU": "Totonicapán",
         "twq": "Totonicapán",
         "twq_NE": "Totonicapán",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Totonicapán",
         "zh_Hant_TW": "Totonicapán",
         "zu": "Totonicapán",
-        "zu_ZA": "Totonicapán",
-        "sr@latin": "Totonicapán",
-        "tt@iqtelif": "Totonicapán"
+        "zu_ZA": "Totonicapán"
     },
     "09": {
         "af": "Quetzaltenango",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Quetzaltenango",
         "sq_XK": "Quetzaltenango",
         "sr": "Квецалтенанго",
+        "sr@latin": "Kvecaltenango",
         "sr_Cyrl": "Квецалтенанго",
         "sr_Cyrl_BA": "Квецалтенанго",
         "sr_Cyrl_ME": "Квецалтенанго",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Quetzaltenango",
         "tr_TR": "Quetzaltenango",
         "tt": "Quetzaltenango",
+        "tt@iqtelif": "Quetzaltenango",
         "tt_RU": "Quetzaltenango",
         "twq": "Quetzaltenango",
         "twq_NE": "Quetzaltenango",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Quetzaltenango",
         "zh_Hant_TW": "Quetzaltenango",
         "zu": "Quetzaltenango",
-        "zu_ZA": "Quetzaltenango",
-        "sr@latin": "Kvecaltenango",
-        "tt@iqtelif": "Quetzaltenango"
+        "zu_ZA": "Quetzaltenango"
     },
     "10": {
         "af": "Suchitepéquez",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Suchitepéquez",
         "sq_XK": "Suchitepéquez",
         "sr": "Suchitepéquez",
+        "sr@latin": "Suchitepéquez",
         "sr_Cyrl": "Suchitepéquez",
         "sr_Cyrl_BA": "Suchitepéquez",
         "sr_Cyrl_ME": "Suchitepéquez",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Suchitepéquez",
         "tr_TR": "Suchitepéquez",
         "tt": "Suchitepéquez",
+        "tt@iqtelif": "Suchitepéquez",
         "tt_RU": "Suchitepéquez",
         "twq": "Suchitepéquez",
         "twq_NE": "Suchitepéquez",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Suchitepéquez",
         "zh_Hant_TW": "Suchitepéquez",
         "zu": "Suchitepéquez",
-        "zu_ZA": "Suchitepéquez",
-        "sr@latin": "Suchitepéquez",
-        "tt@iqtelif": "Suchitepéquez"
+        "zu_ZA": "Suchitepéquez"
     },
     "11": {
         "af": "Retalhuleu",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Retalhuleu",
         "sq_XK": "Retalhuleu",
         "sr": "Ретолуло",
+        "sr@latin": "Retolulo",
         "sr_Cyrl": "Ретолуло",
         "sr_Cyrl_BA": "Ретолуло",
         "sr_Cyrl_ME": "Ретолуло",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Retalhuleu",
         "tr_TR": "Retalhuleu",
         "tt": "Retalhuleu",
+        "tt@iqtelif": "Retalhuleu",
         "tt_RU": "Retalhuleu",
         "twq": "Retalhuleu",
         "twq_NE": "Retalhuleu",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Retalhuleu",
         "zh_Hant_TW": "Retalhuleu",
         "zu": "Retalhuleu",
-        "zu_ZA": "Retalhuleu",
-        "sr@latin": "Retolulo",
-        "tt@iqtelif": "Retalhuleu"
+        "zu_ZA": "Retalhuleu"
     },
     "12": {
         "af": "San Marcos",
@@ -10478,6 +10478,7 @@
         "sq_MK": "San Marcos",
         "sq_XK": "San Marcos",
         "sr": "Сан Маркос",
+        "sr@latin": "San Markos",
         "sr_Cyrl": "Сан Маркос",
         "sr_Cyrl_BA": "Сан Маркос",
         "sr_Cyrl_ME": "Сан Маркос",
@@ -10538,6 +10539,7 @@
         "tr_CY": "San Marcos",
         "tr_TR": "San Marcos",
         "tt": "San Marcos",
+        "tt@iqtelif": "San Marcos",
         "tt_RU": "San Marcos",
         "twq": "San Marcos",
         "twq_NE": "San Marcos",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "San Marcos",
         "zh_Hant_TW": "San Marcos",
         "zu": "San Marcos",
-        "zu_ZA": "San Marcos",
-        "sr@latin": "San Markos",
-        "tt@iqtelif": "San Marcos"
+        "zu_ZA": "San Marcos"
     },
     "13": {
         "af": "Huehuetenango",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Huehuetenango",
         "sq_XK": "Huehuetenango",
         "sr": "Хуехуетенанго",
+        "sr@latin": "Huehuetenango",
         "sr_Cyrl": "Хуехуетенанго",
         "sr_Cyrl_BA": "Хуехуетенанго",
         "sr_Cyrl_ME": "Хуехуетенанго",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Huehuetenango",
         "tr_TR": "Huehuetenango",
         "tt": "Huehuetenango",
+        "tt@iqtelif": "Huehuetenango",
         "tt_RU": "Huehuetenango",
         "twq": "Huehuetenango",
         "twq_NE": "Huehuetenango",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Huehuetenango",
         "zh_Hant_TW": "Huehuetenango",
         "zu": "Huehuetenango",
-        "zu_ZA": "Huehuetenango",
-        "sr@latin": "Huehuetenango",
-        "tt@iqtelif": "Huehuetenango"
+        "zu_ZA": "Huehuetenango"
     },
     "14": {
         "af": "Quiché",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Quiché",
         "sq_XK": "Quiché",
         "sr": "Quiché",
+        "sr@latin": "Quiché",
         "sr_Cyrl": "Quiché",
         "sr_Cyrl_BA": "Quiché",
         "sr_Cyrl_ME": "Quiché",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Quiche",
         "tr_TR": "Quiche",
         "tt": "Quiché",
+        "tt@iqtelif": "Quiché",
         "tt_RU": "Quiché",
         "twq": "Quiché",
         "twq_NE": "Quiché",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Quiché",
         "zh_Hant_TW": "Quiché",
         "zu": "Quiché",
-        "zu_ZA": "Quiché",
-        "sr@latin": "Quiché",
-        "tt@iqtelif": "Quiché"
+        "zu_ZA": "Quiché"
     },
     "15": {
         "af": "Baja Verapaz",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Baja Verapaz",
         "sq_XK": "Baja Verapaz",
         "sr": "Баха Верапаз",
+        "sr@latin": "Baha Verapaz",
         "sr_Cyrl": "Баха Верапаз",
         "sr_Cyrl_BA": "Баха Верапаз",
         "sr_Cyrl_ME": "Баха Верапаз",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Baja Verapaz",
         "tr_TR": "Baja Verapaz",
         "tt": "Baja Verapaz",
+        "tt@iqtelif": "Baja Verapaz",
         "tt_RU": "Baja Verapaz",
         "twq": "Baja Verapaz",
         "twq_NE": "Baja Verapaz",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Baja Verapaz",
         "zh_Hant_TW": "Baja Verapaz",
         "zu": "Baja Verapaz",
-        "zu_ZA": "Baja Verapaz",
-        "sr@latin": "Baha Verapaz",
-        "tt@iqtelif": "Baja Verapaz"
+        "zu_ZA": "Baja Verapaz"
     },
     "16": {
         "af": "Alta Verapaz",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Alta Verapaz",
         "sq_XK": "Alta Verapaz",
         "sr": "Алта Верапаз",
+        "sr@latin": "Alta Verapaz",
         "sr_Cyrl": "Алта Верапаз",
         "sr_Cyrl_BA": "Алта Верапаз",
         "sr_Cyrl_ME": "Алта Верапаз",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Alta Verapaz",
         "tr_TR": "Alta Verapaz",
         "tt": "Alta Verapaz",
+        "tt@iqtelif": "Alta Verapaz",
         "tt_RU": "Alta Verapaz",
         "twq": "Alta Verapaz",
         "twq_NE": "Alta Verapaz",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Alta Verapaz",
         "zh_Hant_TW": "Alta Verapaz",
         "zu": "Alta Verapaz",
-        "zu_ZA": "Alta Verapaz",
-        "sr@latin": "Alta Verapaz",
-        "tt@iqtelif": "Alta Verapaz"
+        "zu_ZA": "Alta Verapaz"
     },
     "17": {
         "af": "Petén",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Petén",
         "sq_XK": "Petén",
         "sr": "Петен",
+        "sr@latin": "Peten",
         "sr_Cyrl": "Петен",
         "sr_Cyrl_BA": "Петен",
         "sr_Cyrl_ME": "Петен",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Peten",
         "tr_TR": "Peten",
         "tt": "Petén",
+        "tt@iqtelif": "Petén",
         "tt_RU": "Petén",
         "twq": "Petén",
         "twq_NE": "Petén",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Petén",
         "zh_Hant_TW": "Petén",
         "zu": "Petén",
-        "zu_ZA": "Petén",
-        "sr@latin": "Peten",
-        "tt@iqtelif": "Petén"
+        "zu_ZA": "Petén"
     },
     "18": {
         "af": "Izabal",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Izabal",
         "sq_XK": "Izabal",
         "sr": "Изабал",
+        "sr@latin": "Izabal",
         "sr_Cyrl": "Изабал",
         "sr_Cyrl_BA": "Изабал",
         "sr_Cyrl_ME": "Изабал",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Izabal",
         "tr_TR": "Izabal",
         "tt": "Izabal",
+        "tt@iqtelif": "Izabal",
         "tt_RU": "Izabal",
         "twq": "Izabal",
         "twq_NE": "Izabal",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Izabal",
         "zh_Hant_TW": "Izabal",
         "zu": "Izabal",
-        "zu_ZA": "Izabal",
-        "sr@latin": "Izabal",
-        "tt@iqtelif": "Izabal"
+        "zu_ZA": "Izabal"
     },
     "19": {
         "af": "Zacapa",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Zacapa",
         "sq_XK": "Zacapa",
         "sr": "Закапа",
+        "sr@latin": "Zakapa",
         "sr_Cyrl": "Закапа",
         "sr_Cyrl_BA": "Закапа",
         "sr_Cyrl_ME": "Закапа",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Zacapa",
         "tr_TR": "Zacapa",
         "tt": "Zacapa",
+        "tt@iqtelif": "Zacapa",
         "tt_RU": "Zacapa",
         "twq": "Zacapa",
         "twq_NE": "Zacapa",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Zacapa",
         "zh_Hant_TW": "Zacapa",
         "zu": "Zacapa",
-        "zu_ZA": "Zacapa",
-        "sr@latin": "Zakapa",
-        "tt@iqtelif": "Zacapa"
+        "zu_ZA": "Zacapa"
     },
     "20": {
         "af": "Chiquimula",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Chiquimula",
         "sq_XK": "Chiquimula",
         "sr": "Chiquimula",
+        "sr@latin": "Chiquimula",
         "sr_Cyrl": "Chiquimula",
         "sr_Cyrl_BA": "Chiquimula",
         "sr_Cyrl_ME": "Chiquimula",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Chiquimula",
         "tr_TR": "Chiquimula",
         "tt": "Chiquimula",
+        "tt@iqtelif": "Chiquimula",
         "tt_RU": "Chiquimula",
         "twq": "Chiquimula",
         "twq_NE": "Chiquimula",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Chiquimula",
         "zh_Hant_TW": "Chiquimula",
         "zu": "Chiquimula",
-        "zu_ZA": "Chiquimula",
-        "sr@latin": "Chiquimula",
-        "tt@iqtelif": "Chiquimula"
+        "zu_ZA": "Chiquimula"
     },
     "21": {
         "af": "Jalapa",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Jalapa",
         "sq_XK": "Jalapa",
         "sr": "Џалапа",
+        "sr@latin": "Džalapa",
         "sr_Cyrl": "Џалапа",
         "sr_Cyrl_BA": "Џалапа",
         "sr_Cyrl_ME": "Џалапа",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Jalapa",
         "tr_TR": "Jalapa",
         "tt": "Jalapa",
+        "tt@iqtelif": "Jalapa",
         "tt_RU": "Jalapa",
         "twq": "Jalapa",
         "twq_NE": "Jalapa",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Jalapa",
         "zh_Hant_TW": "Jalapa",
         "zu": "Jalapa",
-        "zu_ZA": "Jalapa",
-        "sr@latin": "Džalapa",
-        "tt@iqtelif": "Jalapa"
+        "zu_ZA": "Jalapa"
     },
     "22": {
         "af": "Jutiapa",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Jutiapa",
         "sq_XK": "Jutiapa",
         "sr": "Jutiapa",
+        "sr@latin": "Jutiapa",
         "sr_Cyrl": "Jutiapa",
         "sr_Cyrl_BA": "Jutiapa",
         "sr_Cyrl_ME": "Jutiapa",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Jutiapa",
         "tr_TR": "Jutiapa",
         "tt": "Jutiapa",
+        "tt@iqtelif": "Jutiapa",
         "tt_RU": "Jutiapa",
         "twq": "Jutiapa",
         "twq_NE": "Jutiapa",
@@ -19465,8 +19467,6 @@
         "zh_Hant_MY": "Jutiapa",
         "zh_Hant_TW": "Jutiapa",
         "zu": "Jutiapa",
-        "zu_ZA": "Jutiapa",
-        "sr@latin": "Jutiapa",
-        "tt@iqtelif": "Jutiapa"
+        "zu_ZA": "Jutiapa"
     }
 }

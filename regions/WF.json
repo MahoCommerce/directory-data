@@ -743,6 +743,7 @@
         "sq_MK": "Alo",
         "sq_XK": "Alo",
         "sr": "Alo",
+        "sr@latin": "Alo",
         "sr_Cyrl": "Alo",
         "sr_Cyrl_BA": "Alo",
         "sr_Cyrl_ME": "Alo",
@@ -803,6 +804,7 @@
         "tr_CY": "Alo",
         "tr_TR": "Alo",
         "tt": "Alo",
+        "tt@iqtelif": "Alo",
         "tt_RU": "Alo",
         "twq": "Alo",
         "twq_NE": "Alo",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Alo",
         "zh_Hant_TW": "Alo",
         "zu": "Alo",
-        "zu_ZA": "Alo",
-        "sr@latin": "Alo",
-        "tt@iqtelif": "Alo"
+        "zu_ZA": "Alo"
     },
     "SG": {
         "af": "Sigave",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Sigave",
         "sq_XK": "Sigave",
         "sr": "Sigave",
+        "sr@latin": "Sigave",
         "sr_Cyrl": "Sigave",
         "sr_Cyrl_BA": "Sigave",
         "sr_Cyrl_ME": "Sigave",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Sigave",
         "tr_TR": "Sigave",
         "tt": "Sigave",
+        "tt@iqtelif": "Sigave",
         "tt_RU": "Sigave",
         "twq": "Sigave",
         "twq_NE": "Sigave",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Sigave",
         "zh_Hant_TW": "Sigave",
         "zu": "Sigave",
-        "zu_ZA": "Sigave",
-        "sr@latin": "Sigave",
-        "tt@iqtelif": "Sigave"
+        "zu_ZA": "Sigave"
     },
     "UV": {
         "af": "Uvea",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Uvea",
         "sq_XK": "Uvea",
         "sr": "Uvea",
+        "sr@latin": "Uvea",
         "sr_Cyrl": "Uvea",
         "sr_Cyrl_BA": "Uvea",
         "sr_Cyrl_ME": "Uvea",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Uvea",
         "tr_TR": "Uvea",
         "tt": "Uvea",
+        "tt@iqtelif": "Uvea",
         "tt_RU": "Uvea",
         "twq": "Uvea",
         "twq_NE": "Uvea",
@@ -2650,8 +2652,6 @@
         "zh_Hant_MY": "Uvea",
         "zh_Hant_TW": "Uvea",
         "zu": "Uvea",
-        "zu_ZA": "Uvea",
-        "sr@latin": "Uvea",
-        "tt@iqtelif": "Uvea"
+        "zu_ZA": "Uvea"
     }
 }

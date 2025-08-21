@@ -743,6 +743,7 @@
         "sq_MK": "Charlotte",
         "sq_XK": "Charlotte",
         "sr": "Шарлот",
+        "sr@latin": "Šarlot",
         "sr_Cyrl": "Шарлот",
         "sr_Cyrl_BA": "Шарлот",
         "sr_Cyrl_ME": "Шарлот",
@@ -803,6 +804,7 @@
         "tr_CY": "Charlotte",
         "tr_TR": "Charlotte",
         "tt": "Charlotte",
+        "tt@iqtelif": "Charlotte",
         "tt_RU": "Charlotte",
         "twq": "Charlotte",
         "twq_NE": "Charlotte",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Charlotte",
         "zh_Hant_TW": "Charlotte",
         "zu": "Charlotte",
-        "zu_ZA": "Charlotte",
-        "sr@latin": "Šarlot",
-        "tt@iqtelif": "Charlotte"
+        "zu_ZA": "Charlotte"
     },
     "02": {
         "af": "Saint Andrew",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint Andrew",
         "sq_XK": "Saint Andrew",
         "sr": "Свети Андреја",
+        "sr@latin": "Sveti Andreja",
         "sr_Cyrl": "Свети Андреја",
         "sr_Cyrl_BA": "Свети Андреја",
         "sr_Cyrl_ME": "Свети Андреја",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint Andrew",
         "tr_TR": "Saint Andrew",
         "tt": "Saint Andrew",
+        "tt@iqtelif": "Saint Andrew",
         "tt_RU": "Saint Andrew",
         "twq": "Saint Andrew",
         "twq_NE": "Saint Andrew",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew",
-        "sr@latin": "Sveti Andreja",
-        "tt@iqtelif": "Saint Andrew"
+        "zu_ZA": "Saint Andrew"
     },
     "03": {
         "af": "Saint David",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint David",
         "sq_XK": "Saint David",
         "sr": "Свети Давид",
+        "sr@latin": "Sveti David",
         "sr_Cyrl": "Свети Давид",
         "sr_Cyrl_BA": "Свети Давид",
         "sr_Cyrl_ME": "Свети Давид",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint David",
         "tr_TR": "Saint David",
         "tt": "Saint David",
+        "tt@iqtelif": "Saint David",
         "tt_RU": "Saint David",
         "twq": "Saint David",
         "twq_NE": "Saint David",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint David",
         "zh_Hant_TW": "Saint David",
         "zu": "Saint David",
-        "zu_ZA": "Saint David",
-        "sr@latin": "Sveti David",
-        "tt@iqtelif": "Saint David"
+        "zu_ZA": "Saint David"
     },
     "04": {
         "af": "Saint George",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Saint George",
         "sq_XK": "Saint George",
         "sr": "Сент Џорџ",
+        "sr@latin": "Sent Džordž",
         "sr_Cyrl": "Сент Џорџ",
         "sr_Cyrl_BA": "Сент Џорџ",
         "sr_Cyrl_ME": "Сент Џорџ",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Saint George",
         "tr_TR": "Saint George",
         "tt": "Saint George",
+        "tt@iqtelif": "Saint George",
         "tt_RU": "Saint George",
         "twq": "Saint George",
         "twq_NE": "Saint George",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George",
-        "sr@latin": "Sent Džordž",
-        "tt@iqtelif": "Saint George"
+        "zu_ZA": "Saint George"
     },
     "05": {
         "af": "Saint Patrick",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint Patrick",
         "sq_XK": "Saint Patrick",
         "sr": "Свети Патрик",
+        "sr@latin": "Sveti Patrik",
         "sr_Cyrl": "Свети Патрик",
         "sr_Cyrl_BA": "Свети Патрик",
         "sr_Cyrl_ME": "Свети Патрик",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint Patrick",
         "tr_TR": "Saint Patrick",
         "tt": "Saint Patrick",
+        "tt@iqtelif": "Saint Patrick",
         "tt_RU": "Saint Patrick",
         "twq": "Saint Patrick",
         "twq_NE": "Saint Patrick",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint Patrick",
         "zh_Hant_TW": "Saint Patrick",
         "zu": "Saint Patrick",
-        "zu_ZA": "Saint Patrick",
-        "sr@latin": "Sveti Patrik",
-        "tt@iqtelif": "Saint Patrick"
+        "zu_ZA": "Saint Patrick"
     },
     "06": {
         "af": "Grenadines",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Grenadines",
         "sq_XK": "Grenadines",
         "sr": "Гренадине",
+        "sr@latin": "Grenadine",
         "sr_Cyrl": "Гренадине",
         "sr_Cyrl_BA": "Гренадине",
         "sr_Cyrl_ME": "Гренадине",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Grenadines",
         "tr_TR": "Grenadines",
         "tt": "Grenadines",
+        "tt@iqtelif": "Grenadines",
         "tt_RU": "Grenadines",
         "twq": "Grenadines",
         "twq_NE": "Grenadines",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Grenadines",
         "zh_Hant_TW": "Grenadines",
         "zu": "Grenadines",
-        "zu_ZA": "Grenadines",
-        "sr@latin": "Grenadine",
-        "tt@iqtelif": "Grenadines"
+        "zu_ZA": "Grenadines"
     }
 }

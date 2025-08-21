@@ -743,6 +743,7 @@
         "sq_MK": "Berat",
         "sq_XK": "Berat",
         "sr": "Берат",
+        "sr@latin": "Berat",
         "sr_Cyrl": "Берат",
         "sr_Cyrl_BA": "Берат",
         "sr_Cyrl_ME": "Берат",
@@ -803,6 +804,7 @@
         "tr_CY": "Berat",
         "tr_TR": "Berat",
         "tt": "Berat",
+        "tt@iqtelif": "Berat",
         "tt_RU": "Berat",
         "twq": "Berat",
         "twq_NE": "Berat",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Berat",
         "zh_Hant_TW": "Berat",
         "zu": "Berat",
-        "zu_ZA": "Berat",
-        "sr@latin": "Berat",
-        "tt@iqtelif": "Berat"
+        "zu_ZA": "Berat"
     },
     "02": {
         "af": "Durrës",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Durrës",
         "sq_XK": "Durrës",
         "sr": "Драч",
+        "sr@latin": "Drač",
         "sr_Cyrl": "Драч",
         "sr_Cyrl_BA": "Драч",
         "sr_Cyrl_ME": "Драч",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Durrës",
         "tr_TR": "Durrës",
         "tt": "Durrës",
+        "tt@iqtelif": "Durrës",
         "tt_RU": "Durrës",
         "twq": "Durrës",
         "twq_NE": "Durrës",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Durrës",
         "zh_Hant_TW": "Durrës",
         "zu": "Durrës",
-        "zu_ZA": "Durrës",
-        "sr@latin": "Drač",
-        "tt@iqtelif": "Durrës"
+        "zu_ZA": "Durrës"
     },
     "03": {
         "af": "Elbasan",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Elbasan",
         "sq_XK": "Elbasan",
         "sr": "елбасанско писмо",
+        "sr@latin": "elbasansko pismo",
         "sr_Cyrl": "елбасанско писмо",
         "sr_Cyrl_BA": "елбасанско писмо",
         "sr_Cyrl_ME": "елбасанско писмо",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Elbasan",
         "tr_TR": "Elbasan",
         "tt": "Elbasan",
+        "tt@iqtelif": "Elbasan",
         "tt_RU": "Elbasan",
         "twq": "Elbasan",
         "twq_NE": "Elbasan",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Elbasan",
         "zh_Hant_TW": "Elbasan",
         "zu": "Elbasan",
-        "zu_ZA": "Elbasan",
-        "sr@latin": "elbasansko pismo",
-        "tt@iqtelif": "Elbasan"
+        "zu_ZA": "Elbasan"
     },
     "04": {
         "af": "Fier",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Fier",
         "sq_XK": "Fier",
         "sr": "Фјер",
+        "sr@latin": "Fjer",
         "sr_Cyrl": "Фјер",
         "sr_Cyrl_BA": "Фјер",
         "sr_Cyrl_ME": "Фјер",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Fier",
         "tr_TR": "Fier",
         "tt": "Fier",
+        "tt@iqtelif": "Fier",
         "tt_RU": "Fier",
         "twq": "Fier",
         "twq_NE": "Fier",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Fier",
         "zh_Hant_TW": "Fier",
         "zu": "Fier",
-        "zu_ZA": "Fier",
-        "sr@latin": "Fjer",
-        "tt@iqtelif": "Fier"
+        "zu_ZA": "Fier"
     },
     "05": {
         "af": "Gjirokastër",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Gjirokastër",
         "sq_XK": "Gjirokastër",
         "sr": "Гјирокастар",
+        "sr@latin": "Gjirokastar",
         "sr_Cyrl": "Гјирокастар",
         "sr_Cyrl_BA": "Гјирокастар",
         "sr_Cyrl_ME": "Гјирокастар",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Gjirokastër",
         "tr_TR": "Gjirokastër",
         "tt": "Gjirokastër",
+        "tt@iqtelif": "Gjirokastër",
         "tt_RU": "Gjirokastër",
         "twq": "Gjirokastër",
         "twq_NE": "Gjirokastër",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Gjirokastër",
         "zh_Hant_TW": "Gjirokastër",
         "zu": "Gjirokastër",
-        "zu_ZA": "Gjirokastër",
-        "sr@latin": "Gjirokastar",
-        "tt@iqtelif": "Gjirokastër"
+        "zu_ZA": "Gjirokastër"
     },
     "06": {
         "af": "Korçë",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Korçë",
         "sq_XK": "Korçë",
         "sr": "Корча",
+        "sr@latin": "Korča",
         "sr_Cyrl": "Корча",
         "sr_Cyrl_BA": "Корча",
         "sr_Cyrl_ME": "Корча",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Korçë",
         "tr_TR": "Korçë",
         "tt": "Korçë",
+        "tt@iqtelif": "Korçë",
         "tt_RU": "Korçë",
         "twq": "Korçë",
         "twq_NE": "Korçë",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Korçë",
         "zh_Hant_TW": "Korçë",
         "zu": "Korçë",
-        "zu_ZA": "Korçë",
-        "sr@latin": "Korča",
-        "tt@iqtelif": "Korçë"
+        "zu_ZA": "Korçë"
     },
     "07": {
         "af": "Kukës",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Kukës",
         "sq_XK": "Kukës",
         "sr": "Кукаш",
+        "sr@latin": "Kukaš",
         "sr_Cyrl": "Кукаш",
         "sr_Cyrl_BA": "Кукаш",
         "sr_Cyrl_ME": "Кукаш",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Kukës",
         "tr_TR": "Kukës",
         "tt": "Kukës",
+        "tt@iqtelif": "Kukës",
         "tt_RU": "Kukës",
         "twq": "Kukës",
         "twq_NE": "Kukës",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Kukës",
         "zh_Hant_TW": "Kukës",
         "zu": "Kukës",
-        "zu_ZA": "Kukës",
-        "sr@latin": "Kukaš",
-        "tt@iqtelif": "Kukës"
+        "zu_ZA": "Kukës"
     },
     "08": {
         "af": "Lezhë",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Lezhë",
         "sq_XK": "Lezhë",
         "sr": "Лежани",
+        "sr@latin": "Ležani",
         "sr_Cyrl": "Лежани",
         "sr_Cyrl_BA": "Лежани",
         "sr_Cyrl_ME": "Лежани",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Lezhë",
         "tr_TR": "Lezhë",
         "tt": "Lezhë",
+        "tt@iqtelif": "Lezhë",
         "tt_RU": "Lezhë",
         "twq": "Lezhë",
         "twq_NE": "Lezhë",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Lezhë",
         "zh_Hant_TW": "Lezhë",
         "zu": "Lezhë",
-        "zu_ZA": "Lezhë",
-        "sr@latin": "Ležani",
-        "tt@iqtelif": "Lezhë"
+        "zu_ZA": "Lezhë"
     },
     "09": {
         "af": "Dibër",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Dibër",
         "sq_XK": "Dibër",
         "sr": "Дибар",
+        "sr@latin": "Dibar",
         "sr_Cyrl": "Дибар",
         "sr_Cyrl_BA": "Дибар",
         "sr_Cyrl_ME": "Дибар",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Dibër",
         "tr_TR": "Dibër",
         "tt": "Dibër",
+        "tt@iqtelif": "Dibër",
         "tt_RU": "Dibër",
         "twq": "Dibër",
         "twq_NE": "Dibër",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Dibër",
         "zh_Hant_TW": "Dibër",
         "zu": "Dibër",
-        "zu_ZA": "Dibër",
-        "sr@latin": "Dibar",
-        "tt@iqtelif": "Dibër"
+        "zu_ZA": "Dibër"
     },
     "10": {
         "af": "Shkodër",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Shkodër",
         "sq_XK": "Shkodër",
         "sr": "Скадар",
+        "sr@latin": "Skadar",
         "sr_Cyrl": "Скадар",
         "sr_Cyrl_BA": "Скадар",
         "sr_Cyrl_ME": "Скадар",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Shkodër",
         "tr_TR": "Shkodër",
         "tt": "Shkodër",
+        "tt@iqtelif": "Shkodër",
         "tt_RU": "Shkodër",
         "twq": "Shkodër",
         "twq_NE": "Shkodër",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Shkodër",
         "zh_Hant_TW": "Shkodër",
         "zu": "Shkodër",
-        "zu_ZA": "Shkodër",
-        "sr@latin": "Skadar",
-        "tt@iqtelif": "Shkodër"
+        "zu_ZA": "Shkodër"
     },
     "11": {
         "af": "Tiranë",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Tiranë",
         "sq_XK": "Tiranë",
         "sr": "Тирана",
+        "sr@latin": "Tirana",
         "sr_Cyrl": "Тирана",
         "sr_Cyrl_BA": "Тирана",
         "sr_Cyrl_ME": "Тирана",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Tiran",
         "tr_TR": "Tiran",
         "tt": "Tiranë",
+        "tt@iqtelif": "Tiranë",
         "tt_RU": "Tiranë",
         "twq": "Tiranë",
         "twq_NE": "Tiranë",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Tiranë",
         "zh_Hant_TW": "Tiranë",
         "zu": "Tiranë",
-        "zu_ZA": "Tiranë",
-        "sr@latin": "Tirana",
-        "tt@iqtelif": "Tiranë"
+        "zu_ZA": "Tiranë"
     },
     "12": {
         "af": "Vlorë",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Vlorë",
         "sq_XK": "Vlorë",
         "sr": "Влора",
+        "sr@latin": "Vlora",
         "sr_Cyrl": "Влора",
         "sr_Cyrl_BA": "Влора",
         "sr_Cyrl_ME": "Влора",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Vlorë",
         "tr_TR": "Vlorë",
         "tt": "Vlorë",
+        "tt@iqtelif": "Vlorë",
         "tt_RU": "Vlorë",
         "twq": "Vlorë",
         "twq_NE": "Vlorë",
@@ -10615,8 +10617,6 @@
         "zh_Hant_MY": "Vlorë",
         "zh_Hant_TW": "Vlorë",
         "zu": "Vlorë",
-        "zu_ZA": "Vlorë",
-        "sr@latin": "Vlora",
-        "tt@iqtelif": "Vlorë"
+        "zu_ZA": "Vlorë"
     }
 }

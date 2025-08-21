@@ -743,6 +743,7 @@
         "sq_MK": "Ahal",
         "sq_XK": "Ahal",
         "sr": "Ахал",
+        "sr@latin": "Ahal",
         "sr_Cyrl": "Ахал",
         "sr_Cyrl_BA": "Ахал",
         "sr_Cyrl_ME": "Ахал",
@@ -803,6 +804,7 @@
         "tr_CY": "Ahal",
         "tr_TR": "Ahal",
         "tt": "Ahal",
+        "tt@iqtelif": "Ahal",
         "tt_RU": "Ahal",
         "twq": "Ahal",
         "twq_NE": "Ahal",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ahal",
         "zh_Hant_TW": "Ahal",
         "zu": "Ahal",
-        "zu_ZA": "Ahal",
-        "sr@latin": "Ahal",
-        "tt@iqtelif": "Ahal"
+        "zu_ZA": "Ahal"
     },
     "B": {
         "af": "Balkan",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Balkan",
         "sq_XK": "Balkan",
         "sr": "Балкан",
+        "sr@latin": "Balkan",
         "sr_Cyrl": "Балкан",
         "sr_Cyrl_BA": "Балкан",
         "sr_Cyrl_ME": "Балкан",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Balkan",
         "tr_TR": "Balkan",
         "tt": "Balkan",
+        "tt@iqtelif": "Balkan",
         "tt_RU": "Balkan",
         "twq": "Balkan",
         "twq_NE": "Balkan",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Balkan",
         "zh_Hant_TW": "Balkan",
         "zu": "Balkan",
-        "zu_ZA": "Balkan",
-        "sr@latin": "Balkan",
-        "tt@iqtelif": "Balkan"
+        "zu_ZA": "Balkan"
     },
     "D": {
         "af": "Daşoguz",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Daşoguz",
         "sq_XK": "Daşoguz",
         "sr": "Дашогуз",
+        "sr@latin": "Dašoguz",
         "sr_Cyrl": "Дашогуз",
         "sr_Cyrl_BA": "Дашогуз",
         "sr_Cyrl_ME": "Дашогуз",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Daşoguz",
         "tr_TR": "Daşoguz",
         "tt": "Daşoguz",
+        "tt@iqtelif": "Daşoguz",
         "tt_RU": "Daşoguz",
         "twq": "Daşoguz",
         "twq_NE": "Daşoguz",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Daşoguz",
         "zh_Hant_TW": "Daşoguz",
         "zu": "Daşoguz",
-        "zu_ZA": "Daşoguz",
-        "sr@latin": "Dašoguz",
-        "tt@iqtelif": "Daşoguz"
+        "zu_ZA": "Daşoguz"
     },
     "L": {
         "af": "Lebap",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Lebap",
         "sq_XK": "Lebap",
         "sr": "Лебап",
+        "sr@latin": "Lebap",
         "sr_Cyrl": "Лебап",
         "sr_Cyrl_BA": "Лебап",
         "sr_Cyrl_ME": "Лебап",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Lebap",
         "tr_TR": "Lebap",
         "tt": "Lebap",
+        "tt@iqtelif": "Lebap",
         "tt_RU": "Lebap",
         "twq": "Lebap",
         "twq_NE": "Lebap",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Lebap",
         "zh_Hant_TW": "Lebap",
         "zu": "Lebap",
-        "zu_ZA": "Lebap",
-        "sr@latin": "Lebap",
-        "tt@iqtelif": "Lebap"
+        "zu_ZA": "Lebap"
     },
     "M": {
         "af": "Mary",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Mary",
         "sq_XK": "Mary",
         "sr": "Мери",
+        "sr@latin": "Meri",
         "sr_Cyrl": "Мери",
         "sr_Cyrl_BA": "Мери",
         "sr_Cyrl_ME": "Мери",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Mary",
         "tr_TR": "Mary",
         "tt": "Mary",
+        "tt@iqtelif": "Mary",
         "tt_RU": "Mary",
         "twq": "Mary",
         "twq_NE": "Mary",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Mary",
         "zh_Hant_TW": "Mary",
         "zu": "Mary",
-        "zu_ZA": "Mary",
-        "sr@latin": "Meri",
-        "tt@iqtelif": "Mary"
+        "zu_ZA": "Mary"
     },
     "S": {
         "af": "Aşgabat",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Aşgabat",
         "sq_XK": "Aşgabat",
         "sr": "Ашгабат",
+        "sr@latin": "Ašgabat",
         "sr_Cyrl": "Ашгабат",
         "sr_Cyrl_BA": "Ашгабат",
         "sr_Cyrl_ME": "Ашгабат",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Aşgabat",
         "tr_TR": "Aşgabat",
         "tt": "Aşgabat",
+        "tt@iqtelif": "Aşgabat",
         "tt_RU": "Aşgabat",
         "twq": "Aşgabat",
         "twq_NE": "Aşgabat",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Aşgabat",
         "zh_Hant_TW": "Aşgabat",
         "zu": "Aşgabat",
-        "zu_ZA": "Aşgabat",
-        "sr@latin": "Ašgabat",
-        "tt@iqtelif": "Aşgabat"
+        "zu_ZA": "Aşgabat"
     }
 }

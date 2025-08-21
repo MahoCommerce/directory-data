@@ -743,6 +743,7 @@
         "sq_MK": "Anjouan",
         "sq_XK": "Anjouan",
         "sr": "Anjouan",
+        "sr@latin": "Anjouan",
         "sr_Cyrl": "Anjouan",
         "sr_Cyrl_BA": "Anjouan",
         "sr_Cyrl_ME": "Anjouan",
@@ -803,6 +804,7 @@
         "tr_CY": "Anjouan",
         "tr_TR": "Anjouan",
         "tt": "Anjouan",
+        "tt@iqtelif": "Anjouan",
         "tt_RU": "Anjouan",
         "twq": "Anjouan",
         "twq_NE": "Anjouan",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Anjouan",
         "zh_Hant_TW": "Anjouan",
         "zu": "Anjouan",
-        "zu_ZA": "Anjouan",
-        "sr@latin": "Anjouan",
-        "tt@iqtelif": "Anjouan"
+        "zu_ZA": "Anjouan"
     },
     "G": {
         "af": "Grande Comore",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Grande Comore",
         "sq_XK": "Grande Comore",
         "sr": "Grande Comore",
+        "sr@latin": "Grande Comore",
         "sr_Cyrl": "Grande Comore",
         "sr_Cyrl_BA": "Grande Comore",
         "sr_Cyrl_ME": "Grande Comore",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Grande Comore",
         "tr_TR": "Grande Comore",
         "tt": "Grande Comore",
+        "tt@iqtelif": "Grande Comore",
         "tt_RU": "Grande Comore",
         "twq": "Grande Comore",
         "twq_NE": "Grande Comore",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Grande Comore",
         "zh_Hant_TW": "Grande Comore",
         "zu": "Grande Comore",
-        "zu_ZA": "Grande Comore",
-        "sr@latin": "Grande Comore",
-        "tt@iqtelif": "Grande Comore"
+        "zu_ZA": "Grande Comore"
     },
     "M": {
         "af": "Mohéli",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Mohéli",
         "sq_XK": "Mohéli",
         "sr": "Mohéli",
+        "sr@latin": "Mohéli",
         "sr_Cyrl": "Mohéli",
         "sr_Cyrl_BA": "Mohéli",
         "sr_Cyrl_ME": "Mohéli",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Mohéli",
         "tr_TR": "Mohéli",
         "tt": "Mohéli",
+        "tt@iqtelif": "Mohéli",
         "tt_RU": "Mohéli",
         "twq": "Mohéli",
         "twq_NE": "Mohéli",
@@ -2650,8 +2652,6 @@
         "zh_Hant_MY": "Mohéli",
         "zh_Hant_TW": "Mohéli",
         "zu": "Mohéli",
-        "zu_ZA": "Mohéli",
-        "sr@latin": "Mohéli",
-        "tt@iqtelif": "Mohéli"
+        "zu_ZA": "Mohéli"
     }
 }

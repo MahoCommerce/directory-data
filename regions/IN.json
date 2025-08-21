@@ -743,6 +743,7 @@
         "sq_MK": "Andaman and Nicobar Islands",
         "sq_XK": "Andaman and Nicobar Islands",
         "sr": "Андаман и Никобар острва",
+        "sr@latin": "Andaman i Nikobar ostrva",
         "sr_Cyrl": "Андаман и Никобар острва",
         "sr_Cyrl_BA": "Андаман и Никобар острва",
         "sr_Cyrl_ME": "Андаман и Никобар острва",
@@ -803,6 +804,7 @@
         "tr_CY": "Andaman ve Nicobar Adaları",
         "tr_TR": "Andaman ve Nicobar Adaları",
         "tt": "Andaman and Nicobar Islands",
+        "tt@iqtelif": "Andaman and Nicobar Islands",
         "tt_RU": "Andaman and Nicobar Islands",
         "twq": "Andaman and Nicobar Islands",
         "twq_NE": "Andaman and Nicobar Islands",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Andaman and Nicobar Islands",
         "zh_Hant_TW": "Andaman and Nicobar Islands",
         "zu": "Andaman and Nicobar Islands",
-        "zu_ZA": "Andaman and Nicobar Islands",
-        "sr@latin": "Andaman i Nikobar ostrva",
-        "tt@iqtelif": "Andaman and Nicobar Islands"
+        "zu_ZA": "Andaman and Nicobar Islands"
     },
     "AP": {
         "af": "Andhra Pradesh",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Andhra Pradesh",
         "sq_XK": "Andhra Pradesh",
         "sr": "Андра Прадеш",
+        "sr@latin": "Andra Pradeš",
         "sr_Cyrl": "Андра Прадеш",
         "sr_Cyrl_BA": "Андра Прадеш",
         "sr_Cyrl_ME": "Андра Прадеш",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Andhra Pradesh",
         "tr_TR": "Andhra Pradesh",
         "tt": "Andhra Pradesh",
+        "tt@iqtelif": "Andhra Pradesh",
         "tt_RU": "Andhra Pradesh",
         "twq": "Andhra Pradesh",
         "twq_NE": "Andhra Pradesh",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Andhra Pradesh",
         "zh_Hant_TW": "Andhra Pradesh",
         "zu": "Andhra Pradesh",
-        "zu_ZA": "Andhra Pradesh",
-        "sr@latin": "Andra Pradeš",
-        "tt@iqtelif": "Andhra Pradesh"
+        "zu_ZA": "Andhra Pradesh"
     },
     "AR": {
         "af": "Arunāchal Pradesh",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Arunāchal Pradesh",
         "sq_XK": "Arunāchal Pradesh",
         "sr": "Arunāchal Pradesh",
+        "sr@latin": "Arunāchal Pradesh",
         "sr_Cyrl": "Arunāchal Pradesh",
         "sr_Cyrl_BA": "Arunāchal Pradesh",
         "sr_Cyrl_ME": "Arunāchal Pradesh",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Arunāchal Pradesh",
         "tr_TR": "Arunāchal Pradesh",
         "tt": "Arunāchal Pradesh",
+        "tt@iqtelif": "Arunāchal Pradesh",
         "tt_RU": "Arunāchal Pradesh",
         "twq": "Arunāchal Pradesh",
         "twq_NE": "Arunāchal Pradesh",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Arunāchal Pradesh",
         "zh_Hant_TW": "Arunāchal Pradesh",
         "zu": "Arunāchal Pradesh",
-        "zu_ZA": "Arunāchal Pradesh",
-        "sr@latin": "Arunāchal Pradesh",
-        "tt@iqtelif": "Arunāchal Pradesh"
+        "zu_ZA": "Arunāchal Pradesh"
     },
     "AS": {
         "af": "Assam",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Assam",
         "sq_XK": "Assam",
         "sr": "Асам",
+        "sr@latin": "Asam",
         "sr_Cyrl": "Асам",
         "sr_Cyrl_BA": "Асам",
         "sr_Cyrl_ME": "Асам",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Assam",
         "tr_TR": "Assam",
         "tt": "Assam",
+        "tt@iqtelif": "Assam",
         "tt_RU": "Assam",
         "twq": "Assam",
         "twq_NE": "Assam",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Assam",
         "zh_Hant_TW": "Assam",
         "zu": "Assam",
-        "zu_ZA": "Assam",
-        "sr@latin": "Asam",
-        "tt@iqtelif": "Assam"
+        "zu_ZA": "Assam"
     },
     "BR": {
         "af": "Bihār",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bihār",
         "sq_XK": "Bihār",
         "sr": "Bihār",
+        "sr@latin": "Bihār",
         "sr_Cyrl": "Bihār",
         "sr_Cyrl_BA": "Bihār",
         "sr_Cyrl_ME": "Bihār",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bihār",
         "tr_TR": "Bihār",
         "tt": "Bihār",
+        "tt@iqtelif": "Bihār",
         "tt_RU": "Bihār",
         "twq": "Bihār",
         "twq_NE": "Bihār",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bihār",
         "zh_Hant_TW": "Bihār",
         "zu": "Bihār",
-        "zu_ZA": "Bihār",
-        "sr@latin": "Bihār",
-        "tt@iqtelif": "Bihār"
+        "zu_ZA": "Bihār"
     },
     "CG": {
         "af": "Chhattīsgarh",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Chhattīsgarh",
         "sq_XK": "Chhattīsgarh",
         "sr": "Chhattīsgarh",
+        "sr@latin": "Chhattīsgarh",
         "sr_Cyrl": "Chhattīsgarh",
         "sr_Cyrl_BA": "Chhattīsgarh",
         "sr_Cyrl_ME": "Chhattīsgarh",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Chhattīsgarh",
         "tr_TR": "Chhattīsgarh",
         "tt": "Chhattīsgarh",
+        "tt@iqtelif": "Chhattīsgarh",
         "tt_RU": "Chhattīsgarh",
         "twq": "Chhattīsgarh",
         "twq_NE": "Chhattīsgarh",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Chhattīsgarh",
         "zh_Hant_TW": "Chhattīsgarh",
         "zu": "Chhattīsgarh",
-        "zu_ZA": "Chhattīsgarh",
-        "sr@latin": "Chhattīsgarh",
-        "tt@iqtelif": "Chhattīsgarh"
+        "zu_ZA": "Chhattīsgarh"
     },
     "CH": {
         "af": "Chandīgarh",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Chandīgarh",
         "sq_XK": "Chandīgarh",
         "sr": "Chandīgarh",
+        "sr@latin": "Chandīgarh",
         "sr_Cyrl": "Chandīgarh",
         "sr_Cyrl_BA": "Chandīgarh",
         "sr_Cyrl_ME": "Chandīgarh",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Chandīgarh",
         "tr_TR": "Chandīgarh",
         "tt": "Chandīgarh",
+        "tt@iqtelif": "Chandīgarh",
         "tt_RU": "Chandīgarh",
         "twq": "Chandīgarh",
         "twq_NE": "Chandīgarh",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Chandīgarh",
         "zh_Hant_TW": "Chandīgarh",
         "zu": "Chandīgarh",
-        "zu_ZA": "Chandīgarh",
-        "sr@latin": "Chandīgarh",
-        "tt@iqtelif": "Chandīgarh"
+        "zu_ZA": "Chandīgarh"
     },
     "DH": {
         "af": "Dādra and Nagar Haveli and Damān and Diu",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Dādra and Nagar Haveli and Damān and Diu",
         "sq_XK": "Dādra and Nagar Haveli and Damān and Diu",
         "sr": "Dādra and Nagar Haveli and Damān and Diu",
+        "sr@latin": "Dādra and Nagar Haveli and Damān and Diu",
         "sr_Cyrl": "Dādra and Nagar Haveli and Damān and Diu",
         "sr_Cyrl_BA": "Dādra and Nagar Haveli and Damān and Diu",
         "sr_Cyrl_ME": "Dādra and Nagar Haveli and Damān and Diu",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Dādra and Nagar Haveli and Damān and Diu",
         "tr_TR": "Dādra and Nagar Haveli and Damān and Diu",
         "tt": "Dādra and Nagar Haveli and Damān and Diu",
+        "tt@iqtelif": "Dādra and Nagar Haveli and Damān and Diu",
         "tt_RU": "Dādra and Nagar Haveli and Damān and Diu",
         "twq": "Dādra and Nagar Haveli and Damān and Diu",
         "twq_NE": "Dādra and Nagar Haveli and Damān and Diu",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Dādra and Nagar Haveli and Damān and Diu",
         "zh_Hant_TW": "Dādra and Nagar Haveli and Damān and Diu",
         "zu": "Dādra and Nagar Haveli and Damān and Diu",
-        "zu_ZA": "Dādra and Nagar Haveli and Damān and Diu",
-        "sr@latin": "Dādra and Nagar Haveli and Damān and Diu",
-        "tt@iqtelif": "Dādra and Nagar Haveli and Damān and Diu"
+        "zu_ZA": "Dādra and Nagar Haveli and Damān and Diu"
     },
     "DL": {
         "af": "Delhi",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Delhi",
         "sq_XK": "Delhi",
         "sr": "Делхи",
+        "sr@latin": "Delhi",
         "sr_Cyrl": "Делхи",
         "sr_Cyrl_BA": "Делхи",
         "sr_Cyrl_ME": "Делхи",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Delhi",
         "tr_TR": "Delhi",
         "tt": "Delhi",
+        "tt@iqtelif": "Delhi",
         "tt_RU": "Delhi",
         "twq": "Delhi",
         "twq_NE": "Delhi",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Delhi",
         "zh_Hant_TW": "Delhi",
         "zu": "Delhi",
-        "zu_ZA": "Delhi",
-        "sr@latin": "Delhi",
-        "tt@iqtelif": "Delhi"
+        "zu_ZA": "Delhi"
     },
     "GA": {
         "af": "Goa",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Goa",
         "sq_XK": "Goa",
         "sr": "Гоа",
+        "sr@latin": "Goa",
         "sr_Cyrl": "Гоа",
         "sr_Cyrl_BA": "Гоа",
         "sr_Cyrl_ME": "Гоа",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Goa",
         "tr_TR": "Goa",
         "tt": "Goa",
+        "tt@iqtelif": "Goa",
         "tt_RU": "Goa",
         "twq": "Goa",
         "twq_NE": "Goa",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Goa",
         "zh_Hant_TW": "Goa",
         "zu": "Goa",
-        "zu_ZA": "Goa",
-        "sr@latin": "Goa",
-        "tt@iqtelif": "Goa"
+        "zu_ZA": "Goa"
     },
     "GJ": {
         "af": "Gujarāt",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Gujarāt",
         "sq_XK": "Gujarāt",
         "sr": "Gujarāt",
+        "sr@latin": "Gujarāt",
         "sr_Cyrl": "Gujarāt",
         "sr_Cyrl_BA": "Gujarāt",
         "sr_Cyrl_ME": "Gujarāt",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Gujarāt",
         "tr_TR": "Gujarāt",
         "tt": "Gujarāt",
+        "tt@iqtelif": "Gujarāt",
         "tt_RU": "Gujarāt",
         "twq": "Gujarāt",
         "twq_NE": "Gujarāt",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Gujarāt",
         "zh_Hant_TW": "Gujarāt",
         "zu": "Gujarāt",
-        "zu_ZA": "Gujarāt",
-        "sr@latin": "Gujarāt",
-        "tt@iqtelif": "Gujarāt"
+        "zu_ZA": "Gujarāt"
     },
     "HP": {
         "af": "Himāchal Pradesh",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Himāchal Pradesh",
         "sq_XK": "Himāchal Pradesh",
         "sr": "Himāchal Pradesh",
+        "sr@latin": "Himāchal Pradesh",
         "sr_Cyrl": "Himāchal Pradesh",
         "sr_Cyrl_BA": "Himāchal Pradesh",
         "sr_Cyrl_ME": "Himāchal Pradesh",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Himāchal Pradesh",
         "tr_TR": "Himāchal Pradesh",
         "tt": "Himāchal Pradesh",
+        "tt@iqtelif": "Himāchal Pradesh",
         "tt_RU": "Himāchal Pradesh",
         "twq": "Himāchal Pradesh",
         "twq_NE": "Himāchal Pradesh",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Himāchal Pradesh",
         "zh_Hant_TW": "Himāchal Pradesh",
         "zu": "Himāchal Pradesh",
-        "zu_ZA": "Himāchal Pradesh",
-        "sr@latin": "Himāchal Pradesh",
-        "tt@iqtelif": "Himāchal Pradesh"
+        "zu_ZA": "Himāchal Pradesh"
     },
     "HR": {
         "af": "Haryāna",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Haryāna",
         "sq_XK": "Haryāna",
         "sr": "Haryāna",
+        "sr@latin": "Haryāna",
         "sr_Cyrl": "Haryāna",
         "sr_Cyrl_BA": "Haryāna",
         "sr_Cyrl_ME": "Haryāna",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Haryāna",
         "tr_TR": "Haryāna",
         "tt": "Haryāna",
+        "tt@iqtelif": "Haryāna",
         "tt_RU": "Haryāna",
         "twq": "Haryāna",
         "twq_NE": "Haryāna",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Haryāna",
         "zh_Hant_TW": "Haryāna",
         "zu": "Haryāna",
-        "zu_ZA": "Haryāna",
-        "sr@latin": "Haryāna",
-        "tt@iqtelif": "Haryāna"
+        "zu_ZA": "Haryāna"
     },
     "JH": {
         "af": "Jhārkhand",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Jhārkhand",
         "sq_XK": "Jhārkhand",
         "sr": "Jhārkhand",
+        "sr@latin": "Jhārkhand",
         "sr_Cyrl": "Jhārkhand",
         "sr_Cyrl_BA": "Jhārkhand",
         "sr_Cyrl_ME": "Jhārkhand",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Jhārkhand",
         "tr_TR": "Jhārkhand",
         "tt": "Jhārkhand",
+        "tt@iqtelif": "Jhārkhand",
         "tt_RU": "Jhārkhand",
         "twq": "Jhārkhand",
         "twq_NE": "Jhārkhand",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Jhārkhand",
         "zh_Hant_TW": "Jhārkhand",
         "zu": "Jhārkhand",
-        "zu_ZA": "Jhārkhand",
-        "sr@latin": "Jhārkhand",
-        "tt@iqtelif": "Jhārkhand"
+        "zu_ZA": "Jhārkhand"
     },
     "JK": {
         "af": "Jammu and Kashmīr",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Jammu and Kashmīr",
         "sq_XK": "Jammu and Kashmīr",
         "sr": "Jammu and Kashmīr",
+        "sr@latin": "Jammu and Kashmīr",
         "sr_Cyrl": "Jammu and Kashmīr",
         "sr_Cyrl_BA": "Jammu and Kashmīr",
         "sr_Cyrl_ME": "Jammu and Kashmīr",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Jammu and Kashmīr",
         "tr_TR": "Jammu and Kashmīr",
         "tt": "Jammu and Kashmīr",
+        "tt@iqtelif": "Jammu and Kashmīr",
         "tt_RU": "Jammu and Kashmīr",
         "twq": "Jammu and Kashmīr",
         "twq_NE": "Jammu and Kashmīr",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Jammu and Kashmīr",
         "zh_Hant_TW": "Jammu and Kashmīr",
         "zu": "Jammu and Kashmīr",
-        "zu_ZA": "Jammu and Kashmīr",
-        "sr@latin": "Jammu and Kashmīr",
-        "tt@iqtelif": "Jammu and Kashmīr"
+        "zu_ZA": "Jammu and Kashmīr"
     },
     "KA": {
         "af": "Karnātaka",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Karnātaka",
         "sq_XK": "Karnātaka",
         "sr": "Karnātaka",
+        "sr@latin": "Karnātaka",
         "sr_Cyrl": "Karnātaka",
         "sr_Cyrl_BA": "Karnātaka",
         "sr_Cyrl_ME": "Karnātaka",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Karnātaka",
         "tr_TR": "Karnātaka",
         "tt": "Karnātaka",
+        "tt@iqtelif": "Karnātaka",
         "tt_RU": "Karnātaka",
         "twq": "Karnātaka",
         "twq_NE": "Karnātaka",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Karnātaka",
         "zh_Hant_TW": "Karnātaka",
         "zu": "Karnātaka",
-        "zu_ZA": "Karnātaka",
-        "sr@latin": "Karnātaka",
-        "tt@iqtelif": "Karnātaka"
+        "zu_ZA": "Karnātaka"
     },
     "KL": {
         "af": "Kerala",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Kerala",
         "sq_XK": "Kerala",
         "sr": "Kerala",
+        "sr@latin": "Kerala",
         "sr_Cyrl": "Kerala",
         "sr_Cyrl_BA": "Kerala",
         "sr_Cyrl_ME": "Kerala",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Kerala",
         "tr_TR": "Kerala",
         "tt": "Kerala",
+        "tt@iqtelif": "Kerala",
         "tt_RU": "Kerala",
         "twq": "Kerala",
         "twq_NE": "Kerala",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Kerala",
         "zh_Hant_TW": "Kerala",
         "zu": "Kerala",
-        "zu_ZA": "Kerala",
-        "sr@latin": "Kerala",
-        "tt@iqtelif": "Kerala"
+        "zu_ZA": "Kerala"
     },
     "LA": {
         "af": "Ladākh",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Ladākh",
         "sq_XK": "Ladākh",
         "sr": "Ladākh",
+        "sr@latin": "Ladākh",
         "sr_Cyrl": "Ladākh",
         "sr_Cyrl_BA": "Ladākh",
         "sr_Cyrl_ME": "Ladākh",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Ladākh",
         "tr_TR": "Ladākh",
         "tt": "Ladākh",
+        "tt@iqtelif": "Ladākh",
         "tt_RU": "Ladākh",
         "twq": "Ladākh",
         "twq_NE": "Ladākh",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Ladākh",
         "zh_Hant_TW": "Ladākh",
         "zu": "Ladākh",
-        "zu_ZA": "Ladākh",
-        "sr@latin": "Ladākh",
-        "tt@iqtelif": "Ladākh"
+        "zu_ZA": "Ladākh"
     },
     "LD": {
         "af": "Lakshadweep",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Lakshadweep",
         "sq_XK": "Lakshadweep",
         "sr": "Лаксадвип",
+        "sr@latin": "Laksadvip",
         "sr_Cyrl": "Лаксадвип",
         "sr_Cyrl_BA": "Лаксадвип",
         "sr_Cyrl_ME": "Лаксадвип",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Lakshadweep",
         "tr_TR": "Lakshadweep",
         "tt": "Lakshadweep",
+        "tt@iqtelif": "Lakshadweep",
         "tt_RU": "Lakshadweep",
         "twq": "Lakshadweep",
         "twq_NE": "Lakshadweep",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Lakshadweep",
         "zh_Hant_TW": "Lakshadweep",
         "zu": "Lakshadweep",
-        "zu_ZA": "Lakshadweep",
-        "sr@latin": "Laksadvip",
-        "tt@iqtelif": "Lakshadweep"
+        "zu_ZA": "Lakshadweep"
     },
     "MH": {
         "af": "Mahārāshtra",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Mahārāshtra",
         "sq_XK": "Mahārāshtra",
         "sr": "Mahārāshtra",
+        "sr@latin": "Mahārāshtra",
         "sr_Cyrl": "Mahārāshtra",
         "sr_Cyrl_BA": "Mahārāshtra",
         "sr_Cyrl_ME": "Mahārāshtra",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Mahārāshtra",
         "tr_TR": "Mahārāshtra",
         "tt": "Mahārāshtra",
+        "tt@iqtelif": "Mahārāshtra",
         "tt_RU": "Mahārāshtra",
         "twq": "Mahārāshtra",
         "twq_NE": "Mahārāshtra",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Mahārāshtra",
         "zh_Hant_TW": "Mahārāshtra",
         "zu": "Mahārāshtra",
-        "zu_ZA": "Mahārāshtra",
-        "sr@latin": "Mahārāshtra",
-        "tt@iqtelif": "Mahārāshtra"
+        "zu_ZA": "Mahārāshtra"
     },
     "ML": {
         "af": "Meghālaya",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Meghālaya",
         "sq_XK": "Meghālaya",
         "sr": "Meghālaya",
+        "sr@latin": "Meghālaya",
         "sr_Cyrl": "Meghālaya",
         "sr_Cyrl_BA": "Meghālaya",
         "sr_Cyrl_ME": "Meghālaya",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Meghālaya",
         "tr_TR": "Meghālaya",
         "tt": "Meghālaya",
+        "tt@iqtelif": "Meghālaya",
         "tt_RU": "Meghālaya",
         "twq": "Meghālaya",
         "twq_NE": "Meghālaya",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Meghālaya",
         "zh_Hant_TW": "Meghālaya",
         "zu": "Meghālaya",
-        "zu_ZA": "Meghālaya",
-        "sr@latin": "Meghālaya",
-        "tt@iqtelif": "Meghālaya"
+        "zu_ZA": "Meghālaya"
     },
     "MN": {
         "af": "Manipur",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Manipur",
         "sq_XK": "Manipur",
         "sr": "Манипур",
+        "sr@latin": "Manipur",
         "sr_Cyrl": "Манипур",
         "sr_Cyrl_BA": "Манипур",
         "sr_Cyrl_ME": "Манипур",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Manipur",
         "tr_TR": "Manipur",
         "tt": "Manipur",
+        "tt@iqtelif": "Manipur",
         "tt_RU": "Manipur",
         "twq": "Manipur",
         "twq_NE": "Manipur",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Manipur",
         "zh_Hant_TW": "Manipur",
         "zu": "Manipur",
-        "zu_ZA": "Manipur",
-        "sr@latin": "Manipur",
-        "tt@iqtelif": "Manipur"
+        "zu_ZA": "Manipur"
     },
     "MP": {
         "af": "Madhya Pradesh",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Madhya Pradesh",
         "sq_XK": "Madhya Pradesh",
         "sr": "Мадиа Прадеш",
+        "sr@latin": "Madia Pradeš",
         "sr_Cyrl": "Мадиа Прадеш",
         "sr_Cyrl_BA": "Мадиа Прадеш",
         "sr_Cyrl_ME": "Мадиа Прадеш",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Madhya Pradesh",
         "tr_TR": "Madhya Pradesh",
         "tt": "Madhya Pradesh",
+        "tt@iqtelif": "Madhya Pradesh",
         "tt_RU": "Madhya Pradesh",
         "twq": "Madhya Pradesh",
         "twq_NE": "Madhya Pradesh",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Madhya Pradesh",
         "zh_Hant_TW": "Madhya Pradesh",
         "zu": "Madhya Pradesh",
-        "zu_ZA": "Madhya Pradesh",
-        "sr@latin": "Madia Pradeš",
-        "tt@iqtelif": "Madhya Pradesh"
+        "zu_ZA": "Madhya Pradesh"
     },
     "MZ": {
         "af": "Mizoram",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Mizoram",
         "sq_XK": "Mizoram",
         "sr": "Мизорам",
+        "sr@latin": "Mizoram",
         "sr_Cyrl": "Мизорам",
         "sr_Cyrl_BA": "Мизорам",
         "sr_Cyrl_ME": "Мизорам",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Mizoram",
         "tr_TR": "Mizoram",
         "tt": "Mizoram",
+        "tt@iqtelif": "Mizoram",
         "tt_RU": "Mizoram",
         "twq": "Mizoram",
         "twq_NE": "Mizoram",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Mizoram",
         "zh_Hant_TW": "Mizoram",
         "zu": "Mizoram",
-        "zu_ZA": "Mizoram",
-        "sr@latin": "Mizoram",
-        "tt@iqtelif": "Mizoram"
+        "zu_ZA": "Mizoram"
     },
     "NL": {
         "af": "Nāgāland",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Nāgāland",
         "sq_XK": "Nāgāland",
         "sr": "Nāgāland",
+        "sr@latin": "Nāgāland",
         "sr_Cyrl": "Nāgāland",
         "sr_Cyrl_BA": "Nāgāland",
         "sr_Cyrl_ME": "Nāgāland",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Nāgāland",
         "tr_TR": "Nāgāland",
         "tt": "Nāgāland",
+        "tt@iqtelif": "Nāgāland",
         "tt_RU": "Nāgāland",
         "twq": "Nāgāland",
         "twq_NE": "Nāgāland",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Nāgāland",
         "zh_Hant_TW": "Nāgāland",
         "zu": "Nāgāland",
-        "zu_ZA": "Nāgāland",
-        "sr@latin": "Nāgāland",
-        "tt@iqtelif": "Nāgāland"
+        "zu_ZA": "Nāgāland"
     },
     "OD": {
         "af": "Odisha",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Odisha",
         "sq_XK": "Odisha",
         "sr": "Odisha",
+        "sr@latin": "Odisha",
         "sr_Cyrl": "Odisha",
         "sr_Cyrl_BA": "Odisha",
         "sr_Cyrl_ME": "Odisha",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Odisha",
         "tr_TR": "Odisha",
         "tt": "Odisha",
+        "tt@iqtelif": "Odisha",
         "tt_RU": "Odisha",
         "twq": "Odisha",
         "twq_NE": "Odisha",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Odisha",
         "zh_Hant_TW": "Odisha",
         "zu": "Odisha",
-        "zu_ZA": "Odisha",
-        "sr@latin": "Odisha",
-        "tt@iqtelif": "Odisha"
+        "zu_ZA": "Odisha"
     },
     "PB": {
         "af": "Punjab",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Punjab",
         "sq_XK": "Punjab",
         "sr": "Панџаб",
+        "sr@latin": "Pandžab",
         "sr_Cyrl": "Панџаб",
         "sr_Cyrl_BA": "Панџаб",
         "sr_Cyrl_ME": "Панџаб",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Pencap",
         "tr_TR": "Pencap",
         "tt": "Punjab",
+        "tt@iqtelif": "Punjab",
         "tt_RU": "Punjab",
         "twq": "Punjab",
         "twq_NE": "Punjab",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Punjab",
         "zh_Hant_TW": "Punjab",
         "zu": "Punjab",
-        "zu_ZA": "Punjab",
-        "sr@latin": "Pandžab",
-        "tt@iqtelif": "Punjab"
+        "zu_ZA": "Punjab"
     },
     "PY": {
         "af": "Puducherry",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Puducherry",
         "sq_XK": "Puducherry",
         "sr": "Puducherry",
+        "sr@latin": "Puducherry",
         "sr_Cyrl": "Puducherry",
         "sr_Cyrl_BA": "Puducherry",
         "sr_Cyrl_ME": "Puducherry",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Puducherry",
         "tr_TR": "Puducherry",
         "tt": "Puducherry",
+        "tt@iqtelif": "Puducherry",
         "tt_RU": "Puducherry",
         "twq": "Puducherry",
         "twq_NE": "Puducherry",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Puducherry",
         "zh_Hant_TW": "Puducherry",
         "zu": "Puducherry",
-        "zu_ZA": "Puducherry",
-        "sr@latin": "Puducherry",
-        "tt@iqtelif": "Puducherry"
+        "zu_ZA": "Puducherry"
     },
     "RJ": {
         "af": "Rājasthān",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Rājasthān",
         "sq_XK": "Rājasthān",
         "sr": "Rājasthān",
+        "sr@latin": "Rājasthān",
         "sr_Cyrl": "Rājasthān",
         "sr_Cyrl_BA": "Rājasthān",
         "sr_Cyrl_ME": "Rājasthān",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Rājasthān",
         "tr_TR": "Rājasthān",
         "tt": "Rājasthān",
+        "tt@iqtelif": "Rājasthān",
         "tt_RU": "Rājasthān",
         "twq": "Rājasthān",
         "twq_NE": "Rājasthān",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Rājasthān",
         "zh_Hant_TW": "Rājasthān",
         "zu": "Rājasthān",
-        "zu_ZA": "Rājasthān",
-        "sr@latin": "Rājasthān",
-        "tt@iqtelif": "Rājasthān"
+        "zu_ZA": "Rājasthān"
     },
     "SK": {
         "af": "Sikkim",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Sikkim",
         "sq_XK": "Sikkim",
         "sr": "Сиким",
+        "sr@latin": "Sikim",
         "sr_Cyrl": "Сиким",
         "sr_Cyrl_BA": "Сиким",
         "sr_Cyrl_ME": "Сиким",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Sikkim",
         "tr_TR": "Sikkim",
         "tt": "Sikkim",
+        "tt@iqtelif": "Sikkim",
         "tt_RU": "Sikkim",
         "twq": "Sikkim",
         "twq_NE": "Sikkim",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Sikkim",
         "zh_Hant_TW": "Sikkim",
         "zu": "Sikkim",
-        "zu_ZA": "Sikkim",
-        "sr@latin": "Sikim",
-        "tt@iqtelif": "Sikkim"
+        "zu_ZA": "Sikkim"
     },
     "TN": {
         "af": "Tamil Nādu",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Tamil Nādu",
         "sq_XK": "Tamil Nādu",
         "sr": "Tamil Nādu",
+        "sr@latin": "Tamil Nādu",
         "sr_Cyrl": "Tamil Nādu",
         "sr_Cyrl_BA": "Tamil Nādu",
         "sr_Cyrl_ME": "Tamil Nādu",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Tamil Nādu",
         "tr_TR": "Tamil Nādu",
         "tt": "Tamil Nādu",
+        "tt@iqtelif": "Tamil Nādu",
         "tt_RU": "Tamil Nādu",
         "twq": "Tamil Nādu",
         "twq_NE": "Tamil Nādu",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Tamil Nādu",
         "zh_Hant_TW": "Tamil Nādu",
         "zu": "Tamil Nādu",
-        "zu_ZA": "Tamil Nādu",
-        "sr@latin": "Tamil Nādu",
-        "tt@iqtelif": "Tamil Nādu"
+        "zu_ZA": "Tamil Nādu"
     },
     "TR": {
         "af": "Tripura",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Tripura",
         "sq_XK": "Tripura",
         "sr": "Tripura",
+        "sr@latin": "Tripura",
         "sr_Cyrl": "Tripura",
         "sr_Cyrl_BA": "Tripura",
         "sr_Cyrl_ME": "Tripura",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Tripura",
         "tr_TR": "Tripura",
         "tt": "Tripura",
+        "tt@iqtelif": "Tripura",
         "tt_RU": "Tripura",
         "twq": "Tripura",
         "twq_NE": "Tripura",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Tripura",
         "zh_Hant_TW": "Tripura",
         "zu": "Tripura",
-        "zu_ZA": "Tripura",
-        "sr@latin": "Tripura",
-        "tt@iqtelif": "Tripura"
+        "zu_ZA": "Tripura"
     },
     "TS": {
         "af": "Telangāna",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Telangāna",
         "sq_XK": "Telangāna",
         "sr": "Telangāna",
+        "sr@latin": "Telangāna",
         "sr_Cyrl": "Telangāna",
         "sr_Cyrl_BA": "Telangāna",
         "sr_Cyrl_ME": "Telangāna",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Telangāna",
         "tr_TR": "Telangāna",
         "tt": "Telangāna",
+        "tt@iqtelif": "Telangāna",
         "tt_RU": "Telangāna",
         "twq": "Telangāna",
         "twq_NE": "Telangāna",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Telangāna",
         "zh_Hant_TW": "Telangāna",
         "zu": "Telangāna",
-        "zu_ZA": "Telangāna",
-        "sr@latin": "Telangāna",
-        "tt@iqtelif": "Telangāna"
+        "zu_ZA": "Telangāna"
     },
     "UK": {
         "af": "Uttarākhand",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Uttarākhand",
         "sq_XK": "Uttarākhand",
         "sr": "Uttarākhand",
+        "sr@latin": "Uttarākhand",
         "sr_Cyrl": "Uttarākhand",
         "sr_Cyrl_BA": "Uttarākhand",
         "sr_Cyrl_ME": "Uttarākhand",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Uttarākhand",
         "tr_TR": "Uttarākhand",
         "tt": "Uttarākhand",
+        "tt@iqtelif": "Uttarākhand",
         "tt_RU": "Uttarākhand",
         "twq": "Uttarākhand",
         "twq_NE": "Uttarākhand",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Uttarākhand",
         "zh_Hant_TW": "Uttarākhand",
         "zu": "Uttarākhand",
-        "zu_ZA": "Uttarākhand",
-        "sr@latin": "Uttarākhand",
-        "tt@iqtelif": "Uttarākhand"
+        "zu_ZA": "Uttarākhand"
     },
     "UP": {
         "af": "Uttar Pradesh",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Uttar Pradesh",
         "sq_XK": "Uttar Pradesh",
         "sr": "Утар Прадеш",
+        "sr@latin": "Utar Pradeš",
         "sr_Cyrl": "Утар Прадеш",
         "sr_Cyrl_BA": "Утар Прадеш",
         "sr_Cyrl_ME": "Утар Прадеш",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Uttar Pradesh",
         "tr_TR": "Uttar Pradesh",
         "tt": "Uttar Pradesh",
+        "tt@iqtelif": "Uttar Pradesh",
         "tt_RU": "Uttar Pradesh",
         "twq": "Uttar Pradesh",
         "twq_NE": "Uttar Pradesh",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Uttar Pradesh",
         "zh_Hant_TW": "Uttar Pradesh",
         "zu": "Uttar Pradesh",
-        "zu_ZA": "Uttar Pradesh",
-        "sr@latin": "Utar Pradeš",
-        "tt@iqtelif": "Uttar Pradesh"
+        "zu_ZA": "Uttar Pradesh"
     },
     "WB": {
         "af": "West Bengal",
@@ -31718,6 +31718,7 @@
         "sq_MK": "West Bengal",
         "sq_XK": "West Bengal",
         "sr": "Вест Бенгал",
+        "sr@latin": "Vest Bengal",
         "sr_Cyrl": "Вест Бенгал",
         "sr_Cyrl_BA": "Вест Бенгал",
         "sr_Cyrl_ME": "Вест Бенгал",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Batı Bengal",
         "tr_TR": "Batı Bengal",
         "tt": "West Bengal",
+        "tt@iqtelif": "West Bengal",
         "tt_RU": "West Bengal",
         "twq": "West Bengal",
         "twq_NE": "West Bengal",
@@ -31855,8 +31857,6 @@
         "zh_Hant_MY": "West Bengal",
         "zh_Hant_TW": "West Bengal",
         "zu": "West Bengal",
-        "zu_ZA": "West Bengal",
-        "sr@latin": "Vest Bengal",
-        "tt@iqtelif": "West Bengal"
+        "zu_ZA": "West Bengal"
     }
 }

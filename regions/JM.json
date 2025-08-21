@@ -743,6 +743,7 @@
         "sq_MK": "Kingston",
         "sq_XK": "Kingston",
         "sr": "Кингстон",
+        "sr@latin": "Kingston",
         "sr_Cyrl": "Кингстон",
         "sr_Cyrl_BA": "Кингстон",
         "sr_Cyrl_ME": "Кингстон",
@@ -803,6 +804,7 @@
         "tr_CY": "Kingston",
         "tr_TR": "Kingston",
         "tt": "Kingston",
+        "tt@iqtelif": "Kingston",
         "tt_RU": "Kingston",
         "twq": "Kingston",
         "twq_NE": "Kingston",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Kingston",
         "zh_Hant_TW": "Kingston",
         "zu": "Kingston",
-        "zu_ZA": "Kingston",
-        "sr@latin": "Kingston",
-        "tt@iqtelif": "Kingston"
+        "zu_ZA": "Kingston"
     },
     "02": {
         "af": "Saint Andrew",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint Andrew",
         "sq_XK": "Saint Andrew",
         "sr": "Свети Андреја",
+        "sr@latin": "Sveti Andreja",
         "sr_Cyrl": "Свети Андреја",
         "sr_Cyrl_BA": "Свети Андреја",
         "sr_Cyrl_ME": "Свети Андреја",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint Andrew",
         "tr_TR": "Saint Andrew",
         "tt": "Saint Andrew",
+        "tt@iqtelif": "Saint Andrew",
         "tt_RU": "Saint Andrew",
         "twq": "Saint Andrew",
         "twq_NE": "Saint Andrew",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew",
-        "sr@latin": "Sveti Andreja",
-        "tt@iqtelif": "Saint Andrew"
+        "zu_ZA": "Saint Andrew"
     },
     "03": {
         "af": "Saint Thomas",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint Thomas",
         "sq_XK": "Saint Thomas",
         "sr": "Свети Тома",
+        "sr@latin": "Sveti Toma",
         "sr_Cyrl": "Свети Тома",
         "sr_Cyrl_BA": "Свети Тома",
         "sr_Cyrl_ME": "Свети Тома",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint Thomas",
         "tr_TR": "Saint Thomas",
         "tt": "Saint Thomas",
+        "tt@iqtelif": "Saint Thomas",
         "tt_RU": "Saint Thomas",
         "twq": "Saint Thomas",
         "twq_NE": "Saint Thomas",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint Thomas",
         "zh_Hant_TW": "Saint Thomas",
         "zu": "Saint Thomas",
-        "zu_ZA": "Saint Thomas",
-        "sr@latin": "Sveti Toma",
-        "tt@iqtelif": "Saint Thomas"
+        "zu_ZA": "Saint Thomas"
     },
     "04": {
         "af": "Portland",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Portland",
         "sq_XK": "Portland",
         "sr": "Портланд",
+        "sr@latin": "Portland",
         "sr_Cyrl": "Портланд",
         "sr_Cyrl_BA": "Портланд",
         "sr_Cyrl_ME": "Портланд",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Portland",
         "tr_TR": "Portland",
         "tt": "Portland",
+        "tt@iqtelif": "Portland",
         "tt_RU": "Portland",
         "twq": "Portland",
         "twq_NE": "Portland",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Portland",
         "zh_Hant_TW": "Portland",
         "zu": "Portland",
-        "zu_ZA": "Portland",
-        "sr@latin": "Portland",
-        "tt@iqtelif": "Portland"
+        "zu_ZA": "Portland"
     },
     "05": {
         "af": "Saint Mary",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint Mary",
         "sq_XK": "Saint Mary",
         "sr": "Сент Мери",
+        "sr@latin": "Sent Meri",
         "sr_Cyrl": "Сент Мери",
         "sr_Cyrl_BA": "Сент Мери",
         "sr_Cyrl_ME": "Сент Мери",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint Mary",
         "tr_TR": "Saint Mary",
         "tt": "Saint Mary",
+        "tt@iqtelif": "Saint Mary",
         "tt_RU": "Saint Mary",
         "twq": "Saint Mary",
         "twq_NE": "Saint Mary",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint Mary",
         "zh_Hant_TW": "Saint Mary",
         "zu": "Saint Mary",
-        "zu_ZA": "Saint Mary",
-        "sr@latin": "Sent Meri",
-        "tt@iqtelif": "Saint Mary"
+        "zu_ZA": "Saint Mary"
     },
     "06": {
         "af": "Saint Ann",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Saint Ann",
         "sq_XK": "Saint Ann",
         "sr": "Света Ана",
+        "sr@latin": "Sveta Ana",
         "sr_Cyrl": "Света Ана",
         "sr_Cyrl_BA": "Света Ана",
         "sr_Cyrl_ME": "Света Ана",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Saint Ann",
         "tr_TR": "Saint Ann",
         "tt": "Saint Ann",
+        "tt@iqtelif": "Saint Ann",
         "tt_RU": "Saint Ann",
         "twq": "Saint Ann",
         "twq_NE": "Saint Ann",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Saint Ann",
         "zh_Hant_TW": "Saint Ann",
         "zu": "Saint Ann",
-        "zu_ZA": "Saint Ann",
-        "sr@latin": "Sveta Ana",
-        "tt@iqtelif": "Saint Ann"
+        "zu_ZA": "Saint Ann"
     },
     "07": {
         "af": "Trelawny",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Trelawny",
         "sq_XK": "Trelawny",
         "sr": "Trelawny",
+        "sr@latin": "Trelawny",
         "sr_Cyrl": "Trelawny",
         "sr_Cyrl_BA": "Trelawny",
         "sr_Cyrl_ME": "Trelawny",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Trelawny",
         "tr_TR": "Trelawny",
         "tt": "Trelawny",
+        "tt@iqtelif": "Trelawny",
         "tt_RU": "Trelawny",
         "twq": "Trelawny",
         "twq_NE": "Trelawny",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Trelawny",
         "zh_Hant_TW": "Trelawny",
         "zu": "Trelawny",
-        "zu_ZA": "Trelawny",
-        "sr@latin": "Trelawny",
-        "tt@iqtelif": "Trelawny"
+        "zu_ZA": "Trelawny"
     },
     "08": {
         "af": "Saint James",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Saint James",
         "sq_XK": "Saint James",
         "sr": "Свети Џејмс",
+        "sr@latin": "Sveti Džejms",
         "sr_Cyrl": "Свети Џејмс",
         "sr_Cyrl_BA": "Свети Џејмс",
         "sr_Cyrl_ME": "Свети Џејмс",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Saint James",
         "tr_TR": "Saint James",
         "tt": "Saint James",
+        "tt@iqtelif": "Saint James",
         "tt_RU": "Saint James",
         "twq": "Saint James",
         "twq_NE": "Saint James",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Saint James",
         "zh_Hant_TW": "Saint James",
         "zu": "Saint James",
-        "zu_ZA": "Saint James",
-        "sr@latin": "Sveti Džejms",
-        "tt@iqtelif": "Saint James"
+        "zu_ZA": "Saint James"
     },
     "09": {
         "af": "Hanover",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Hanover",
         "sq_XK": "Hanover",
         "sr": "Хановер",
+        "sr@latin": "Hanover",
         "sr_Cyrl": "Хановер",
         "sr_Cyrl_BA": "Хановер",
         "sr_Cyrl_ME": "Хановер",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Hanover",
         "tr_TR": "Hanover",
         "tt": "Hanover",
+        "tt@iqtelif": "Hanover",
         "tt_RU": "Hanover",
         "twq": "Hanover",
         "twq_NE": "Hanover",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Hanover",
         "zh_Hant_TW": "Hanover",
         "zu": "Hanover",
-        "zu_ZA": "Hanover",
-        "sr@latin": "Hanover",
-        "tt@iqtelif": "Hanover"
+        "zu_ZA": "Hanover"
     },
     "10": {
         "af": "Westmoreland",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Westmoreland",
         "sq_XK": "Westmoreland",
         "sr": "Вестмореланд",
+        "sr@latin": "Vestmoreland",
         "sr_Cyrl": "Вестмореланд",
         "sr_Cyrl_BA": "Вестмореланд",
         "sr_Cyrl_ME": "Вестмореланд",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Westmoreland",
         "tr_TR": "Westmoreland",
         "tt": "Westmoreland",
+        "tt@iqtelif": "Westmoreland",
         "tt_RU": "Westmoreland",
         "twq": "Westmoreland",
         "twq_NE": "Westmoreland",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Westmoreland",
         "zh_Hant_TW": "Westmoreland",
         "zu": "Westmoreland",
-        "zu_ZA": "Westmoreland",
-        "sr@latin": "Vestmoreland",
-        "tt@iqtelif": "Westmoreland"
+        "zu_ZA": "Westmoreland"
     },
     "11": {
         "af": "Saint Elizabeth",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Saint Elizabeth",
         "sq_XK": "Saint Elizabeth",
         "sr": "Сент Елизабет",
+        "sr@latin": "Sent Elizabet",
         "sr_Cyrl": "Сент Елизабет",
         "sr_Cyrl_BA": "Сент Елизабет",
         "sr_Cyrl_ME": "Сент Елизабет",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Saint Elizabeth",
         "tr_TR": "Saint Elizabeth",
         "tt": "Saint Elizabeth",
+        "tt@iqtelif": "Saint Elizabeth",
         "tt_RU": "Saint Elizabeth",
         "twq": "Saint Elizabeth",
         "twq_NE": "Saint Elizabeth",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Saint Elizabeth",
         "zh_Hant_TW": "Saint Elizabeth",
         "zu": "Saint Elizabeth",
-        "zu_ZA": "Saint Elizabeth",
-        "sr@latin": "Sent Elizabet",
-        "tt@iqtelif": "Saint Elizabeth"
+        "zu_ZA": "Saint Elizabeth"
     },
     "12": {
         "af": "Manchester",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Manchester",
         "sq_XK": "Manchester",
         "sr": "Манчестер",
+        "sr@latin": "Mančester",
         "sr_Cyrl": "Манчестер",
         "sr_Cyrl_BA": "Манчестер",
         "sr_Cyrl_ME": "Манчестер",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Manchester",
         "tr_TR": "Manchester",
         "tt": "Manchester",
+        "tt@iqtelif": "Manchester",
         "tt_RU": "Manchester",
         "twq": "Manchester",
         "twq_NE": "Manchester",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Manchester",
         "zh_Hant_TW": "Manchester",
         "zu": "Manchester",
-        "zu_ZA": "Manchester",
-        "sr@latin": "Mančester",
-        "tt@iqtelif": "Manchester"
+        "zu_ZA": "Manchester"
     },
     "13": {
         "af": "Clarendon",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Clarendon",
         "sq_XK": "Clarendon",
         "sr": "Кларендон",
+        "sr@latin": "Klarendon",
         "sr_Cyrl": "Кларендон",
         "sr_Cyrl_BA": "Кларендон",
         "sr_Cyrl_ME": "Кларендон",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Clarendon",
         "tr_TR": "Clarendon",
         "tt": "Clarendon",
+        "tt@iqtelif": "Clarendon",
         "tt_RU": "Clarendon",
         "twq": "Clarendon",
         "twq_NE": "Clarendon",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Clarendon",
         "zh_Hant_TW": "Clarendon",
         "zu": "Clarendon",
-        "zu_ZA": "Clarendon",
-        "sr@latin": "Klarendon",
-        "tt@iqtelif": "Clarendon"
+        "zu_ZA": "Clarendon"
     },
     "14": {
         "af": "Saint Catherine",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Saint Catherine",
         "sq_XK": "Saint Catherine",
         "sr": "Сент Катрен",
+        "sr@latin": "Sent Katren",
         "sr_Cyrl": "Сент Катрен",
         "sr_Cyrl_BA": "Сент Катрен",
         "sr_Cyrl_ME": "Сент Катрен",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Saint Catherine",
         "tr_TR": "Saint Catherine",
         "tt": "Saint Catherine",
+        "tt@iqtelif": "Saint Catherine",
         "tt_RU": "Saint Catherine",
         "twq": "Saint Catherine",
         "twq_NE": "Saint Catherine",
@@ -12385,8 +12387,6 @@
         "zh_Hant_MY": "Saint Catherine",
         "zh_Hant_TW": "Saint Catherine",
         "zu": "Saint Catherine",
-        "zu_ZA": "Saint Catherine",
-        "sr@latin": "Sent Katren",
-        "tt@iqtelif": "Saint Catherine"
+        "zu_ZA": "Saint Catherine"
     }
 }

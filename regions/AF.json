@@ -743,6 +743,7 @@
         "sq_MK": "Balkh",
         "sq_XK": "Balkh",
         "sr": "Балк",
+        "sr@latin": "Balk",
         "sr_Cyrl": "Балк",
         "sr_Cyrl_BA": "Балк",
         "sr_Cyrl_ME": "Балк",
@@ -803,6 +804,7 @@
         "tr_CY": "Balkh",
         "tr_TR": "Balkh",
         "tt": "Balkh",
+        "tt@iqtelif": "Balkh",
         "tt_RU": "Balkh",
         "twq": "Balkh",
         "twq_NE": "Balkh",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Balkh",
         "zh_Hant_TW": "Balkh",
         "zu": "Balkh",
-        "zu_ZA": "Balkh",
-        "sr@latin": "Balk",
-        "tt@iqtelif": "Balkh"
+        "zu_ZA": "Balkh"
     },
     "BAM": {
         "af": "Bāmyān",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bāmyān",
         "sq_XK": "Bāmyān",
         "sr": "Бамјан",
+        "sr@latin": "Bamjan",
         "sr_Cyrl": "Бамјан",
         "sr_Cyrl_BA": "Бамјан",
         "sr_Cyrl_ME": "Бамјан",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bāmyān",
         "tr_TR": "Bāmyān",
         "tt": "Bāmyān",
+        "tt@iqtelif": "Bāmyān",
         "tt_RU": "Bāmyān",
         "twq": "Bāmyān",
         "twq_NE": "Bāmyān",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bāmyān",
         "zh_Hant_TW": "Bāmyān",
         "zu": "Bāmyān",
-        "zu_ZA": "Bāmyān",
-        "sr@latin": "Bamjan",
-        "tt@iqtelif": "Bāmyān"
+        "zu_ZA": "Bāmyān"
     },
     "BDG": {
         "af": "Bādghīs",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Bādghīs",
         "sq_XK": "Bādghīs",
         "sr": "Бадгис",
+        "sr@latin": "Badgis",
         "sr_Cyrl": "Бадгис",
         "sr_Cyrl_BA": "Бадгис",
         "sr_Cyrl_ME": "Бадгис",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Bādghīs",
         "tr_TR": "Bādghīs",
         "tt": "Bādghīs",
+        "tt@iqtelif": "Bādghīs",
         "tt_RU": "Bādghīs",
         "twq": "Bādghīs",
         "twq_NE": "Bādghīs",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Bādghīs",
         "zh_Hant_TW": "Bādghīs",
         "zu": "Bādghīs",
-        "zu_ZA": "Bādghīs",
-        "sr@latin": "Badgis",
-        "tt@iqtelif": "Bādghīs"
+        "zu_ZA": "Bādghīs"
     },
     "BDS": {
         "af": "Badakhshān",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Badakhshān",
         "sq_XK": "Badakhshān",
         "sr": "Бадакшан",
+        "sr@latin": "Badakšan",
         "sr_Cyrl": "Бадакшан",
         "sr_Cyrl_BA": "Бадакшан",
         "sr_Cyrl_ME": "Бадакшан",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Badakhshān",
         "tr_TR": "Badakhshān",
         "tt": "Badakhshān",
+        "tt@iqtelif": "Badakhshān",
         "tt_RU": "Badakhshān",
         "twq": "Badakhshān",
         "twq_NE": "Badakhshān",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Badakhshān",
         "zh_Hant_TW": "Badakhshān",
         "zu": "Badakhshān",
-        "zu_ZA": "Badakhshān",
-        "sr@latin": "Badakšan",
-        "tt@iqtelif": "Badakhshān"
+        "zu_ZA": "Badakhshān"
     },
     "BGL": {
         "af": "Baghlān",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Baghlān",
         "sq_XK": "Baghlān",
         "sr": "Баглан",
+        "sr@latin": "Baglan",
         "sr_Cyrl": "Баглан",
         "sr_Cyrl_BA": "Баглан",
         "sr_Cyrl_ME": "Баглан",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Baghlān",
         "tr_TR": "Baghlān",
         "tt": "Baghlān",
+        "tt@iqtelif": "Baghlān",
         "tt_RU": "Baghlān",
         "twq": "Baghlān",
         "twq_NE": "Baghlān",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Baghlān",
         "zh_Hant_TW": "Baghlān",
         "zu": "Baghlān",
-        "zu_ZA": "Baghlān",
-        "sr@latin": "Baglan",
-        "tt@iqtelif": "Baghlān"
+        "zu_ZA": "Baghlān"
     },
     "DAY": {
         "af": "Dāykundī",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Dāykundī",
         "sq_XK": "Dāykundī",
         "sr": "Дајкунди",
+        "sr@latin": "Dajkundi",
         "sr_Cyrl": "Дајкунди",
         "sr_Cyrl_BA": "Дајкунди",
         "sr_Cyrl_ME": "Дајкунди",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Dāykundī",
         "tr_TR": "Dāykundī",
         "tt": "Dāykundī",
+        "tt@iqtelif": "Dāykundī",
         "tt_RU": "Dāykundī",
         "twq": "Dāykundī",
         "twq_NE": "Dāykundī",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Dāykundī",
         "zh_Hant_TW": "Dāykundī",
         "zu": "Dāykundī",
-        "zu_ZA": "Dāykundī",
-        "sr@latin": "Dajkundi",
-        "tt@iqtelif": "Dāykundī"
+        "zu_ZA": "Dāykundī"
     },
     "FRA": {
         "af": "Farāh",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Farāh",
         "sq_XK": "Farāh",
         "sr": "Фара",
+        "sr@latin": "Fara",
         "sr_Cyrl": "Фара",
         "sr_Cyrl_BA": "Фара",
         "sr_Cyrl_ME": "Фара",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Farāh",
         "tr_TR": "Farāh",
         "tt": "Farāh",
+        "tt@iqtelif": "Farāh",
         "tt_RU": "Farāh",
         "twq": "Farāh",
         "twq_NE": "Farāh",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Farāh",
         "zh_Hant_TW": "Farāh",
         "zu": "Farāh",
-        "zu_ZA": "Farāh",
-        "sr@latin": "Fara",
-        "tt@iqtelif": "Farāh"
+        "zu_ZA": "Farāh"
     },
     "FYB": {
         "af": "Fāryāb",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Fāryāb",
         "sq_XK": "Fāryāb",
         "sr": "Фарјаб",
+        "sr@latin": "Farjab",
         "sr_Cyrl": "Фарјаб",
         "sr_Cyrl_BA": "Фарјаб",
         "sr_Cyrl_ME": "Фарјаб",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Fāryāb",
         "tr_TR": "Fāryāb",
         "tt": "Fāryāb",
+        "tt@iqtelif": "Fāryāb",
         "tt_RU": "Fāryāb",
         "twq": "Fāryāb",
         "twq_NE": "Fāryāb",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Fāryāb",
         "zh_Hant_TW": "Fāryāb",
         "zu": "Fāryāb",
-        "zu_ZA": "Fāryāb",
-        "sr@latin": "Farjab",
-        "tt@iqtelif": "Fāryāb"
+        "zu_ZA": "Fāryāb"
     },
     "GHA": {
         "af": "Ghaznī",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Ghaznī",
         "sq_XK": "Ghaznī",
         "sr": "Газни",
+        "sr@latin": "Gazni",
         "sr_Cyrl": "Газни",
         "sr_Cyrl_BA": "Газни",
         "sr_Cyrl_ME": "Газни",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Ghaznī",
         "tr_TR": "Ghaznī",
         "tt": "Ghaznī",
+        "tt@iqtelif": "Ghaznī",
         "tt_RU": "Ghaznī",
         "twq": "Ghaznī",
         "twq_NE": "Ghaznī",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Ghaznī",
         "zh_Hant_TW": "Ghaznī",
         "zu": "Ghaznī",
-        "zu_ZA": "Ghaznī",
-        "sr@latin": "Gazni",
-        "tt@iqtelif": "Ghaznī"
+        "zu_ZA": "Ghaznī"
     },
     "GHO": {
         "af": "Ghōr",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Ghōr",
         "sq_XK": "Ghōr",
         "sr": "Гор",
+        "sr@latin": "Gor",
         "sr_Cyrl": "Гор",
         "sr_Cyrl_BA": "Гор",
         "sr_Cyrl_ME": "Гор",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Ghōr",
         "tr_TR": "Ghōr",
         "tt": "Ghōr",
+        "tt@iqtelif": "Ghōr",
         "tt_RU": "Ghōr",
         "twq": "Ghōr",
         "twq_NE": "Ghōr",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Ghōr",
         "zh_Hant_TW": "Ghōr",
         "zu": "Ghōr",
-        "zu_ZA": "Ghōr",
-        "sr@latin": "Gor",
-        "tt@iqtelif": "Ghōr"
+        "zu_ZA": "Ghōr"
     },
     "HEL": {
         "af": "Helmand",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Helmand",
         "sq_XK": "Helmand",
         "sr": "Хелман",
+        "sr@latin": "Helman",
         "sr_Cyrl": "Хелман",
         "sr_Cyrl_BA": "Хелман",
         "sr_Cyrl_ME": "Хелман",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Helmand",
         "tr_TR": "Helmand",
         "tt": "Helmand",
+        "tt@iqtelif": "Helmand",
         "tt_RU": "Helmand",
         "twq": "Helmand",
         "twq_NE": "Helmand",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Helmand",
         "zh_Hant_TW": "Helmand",
         "zu": "Helmand",
-        "zu_ZA": "Helmand",
-        "sr@latin": "Helman",
-        "tt@iqtelif": "Helmand"
+        "zu_ZA": "Helmand"
     },
     "HER": {
         "af": "Herāt",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Herāt",
         "sq_XK": "Herāt",
         "sr": "Херат",
+        "sr@latin": "Herat",
         "sr_Cyrl": "Херат",
         "sr_Cyrl_BA": "Херат",
         "sr_Cyrl_ME": "Херат",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Herāt",
         "tr_TR": "Herāt",
         "tt": "Herāt",
+        "tt@iqtelif": "Herāt",
         "tt_RU": "Herāt",
         "twq": "Herāt",
         "twq_NE": "Herāt",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Herāt",
         "zh_Hant_TW": "Herāt",
         "zu": "Herāt",
-        "zu_ZA": "Herāt",
-        "sr@latin": "Herat",
-        "tt@iqtelif": "Herāt"
+        "zu_ZA": "Herāt"
     },
     "JOW": {
         "af": "Jowzjān",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Jowzjān",
         "sq_XK": "Jowzjān",
         "sr": "Џовзџан",
+        "sr@latin": "Džovzdžan",
         "sr_Cyrl": "Џовзџан",
         "sr_Cyrl_BA": "Џовзџан",
         "sr_Cyrl_ME": "Џовзџан",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Jowzjān",
         "tr_TR": "Jowzjān",
         "tt": "Jowzjān",
+        "tt@iqtelif": "Jowzjān",
         "tt_RU": "Jowzjān",
         "twq": "Jowzjān",
         "twq_NE": "Jowzjān",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Jowzjān",
         "zh_Hant_TW": "Jowzjān",
         "zu": "Jowzjān",
-        "zu_ZA": "Jowzjān",
-        "sr@latin": "Džovzdžan",
-        "tt@iqtelif": "Jowzjān"
+        "zu_ZA": "Jowzjān"
     },
     "KAB": {
         "af": "Kābul",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Kābul",
         "sq_XK": "Kābul",
         "sr": "Кабул",
+        "sr@latin": "Kabul",
         "sr_Cyrl": "Кабул",
         "sr_Cyrl_BA": "Кабул",
         "sr_Cyrl_ME": "Кабул",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Kabil",
         "tr_TR": "Kabil",
         "tt": "Kābul",
+        "tt@iqtelif": "Kābul",
         "tt_RU": "Kābul",
         "twq": "Kābul",
         "twq_NE": "Kābul",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Kābul",
         "zh_Hant_TW": "Kābul",
         "zu": "Kābul",
-        "zu_ZA": "Kābul",
-        "sr@latin": "Kabul",
-        "tt@iqtelif": "Kābul"
+        "zu_ZA": "Kābul"
     },
     "KAN": {
         "af": "Kandahār",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Kandahār",
         "sq_XK": "Kandahār",
         "sr": "Кандахар",
+        "sr@latin": "Kandahar",
         "sr_Cyrl": "Кандахар",
         "sr_Cyrl_BA": "Кандахар",
         "sr_Cyrl_ME": "Кандахар",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Kandahār",
         "tr_TR": "Kandahār",
         "tt": "Kandahār",
+        "tt@iqtelif": "Kandahār",
         "tt_RU": "Kandahār",
         "twq": "Kandahār",
         "twq_NE": "Kandahār",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Kandahār",
         "zh_Hant_TW": "Kandahār",
         "zu": "Kandahār",
-        "zu_ZA": "Kandahār",
-        "sr@latin": "Kandahar",
-        "tt@iqtelif": "Kandahār"
+        "zu_ZA": "Kandahār"
     },
     "KAP": {
         "af": "Kāpīsā",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Kāpīsā",
         "sq_XK": "Kāpīsā",
         "sr": "Каписа",
+        "sr@latin": "Kapisa",
         "sr_Cyrl": "Каписа",
         "sr_Cyrl_BA": "Каписа",
         "sr_Cyrl_ME": "Каписа",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Kāpīsā",
         "tr_TR": "Kāpīsā",
         "tt": "Kāpīsā",
+        "tt@iqtelif": "Kāpīsā",
         "tt_RU": "Kāpīsā",
         "twq": "Kāpīsā",
         "twq_NE": "Kāpīsā",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Kāpīsā",
         "zh_Hant_TW": "Kāpīsā",
         "zu": "Kāpīsā",
-        "zu_ZA": "Kāpīsā",
-        "sr@latin": "Kapisa",
-        "tt@iqtelif": "Kāpīsā"
+        "zu_ZA": "Kāpīsā"
     },
     "KDZ": {
         "af": "Kunduz",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Kunduz",
         "sq_XK": "Kunduz",
         "sr": "Кундуз",
+        "sr@latin": "Kunduz",
         "sr_Cyrl": "Кундуз",
         "sr_Cyrl_BA": "Кундуз",
         "sr_Cyrl_ME": "Кундуз",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Kunduz",
         "tr_TR": "Kunduz",
         "tt": "Kunduz",
+        "tt@iqtelif": "Kunduz",
         "tt_RU": "Kunduz",
         "twq": "Kunduz",
         "twq_NE": "Kunduz",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Kunduz",
         "zh_Hant_TW": "Kunduz",
         "zu": "Kunduz",
-        "zu_ZA": "Kunduz",
-        "sr@latin": "Kunduz",
-        "tt@iqtelif": "Kunduz"
+        "zu_ZA": "Kunduz"
     },
     "KHO": {
         "af": "Khōst",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Khōst",
         "sq_XK": "Khōst",
         "sr": "Кост",
+        "sr@latin": "Kost",
         "sr_Cyrl": "Кост",
         "sr_Cyrl_BA": "Кост",
         "sr_Cyrl_ME": "Кост",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Khōst",
         "tr_TR": "Khōst",
         "tt": "Khōst",
+        "tt@iqtelif": "Khōst",
         "tt_RU": "Khōst",
         "twq": "Khōst",
         "twq_NE": "Khōst",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Khōst",
         "zh_Hant_TW": "Khōst",
         "zu": "Khōst",
-        "zu_ZA": "Khōst",
-        "sr@latin": "Kost",
-        "tt@iqtelif": "Khōst"
+        "zu_ZA": "Khōst"
     },
     "KNR": {
         "af": "Kunaṟ",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Kunaṟ",
         "sq_XK": "Kunaṟ",
         "sr": "Kunaṟ",
+        "sr@latin": "Kunaṟ",
         "sr_Cyrl": "Kunaṟ",
         "sr_Cyrl_BA": "Kunaṟ",
         "sr_Cyrl_ME": "Kunaṟ",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Kunaṟ",
         "tr_TR": "Kunaṟ",
         "tt": "Kunaṟ",
+        "tt@iqtelif": "Kunaṟ",
         "tt_RU": "Kunaṟ",
         "twq": "Kunaṟ",
         "twq_NE": "Kunaṟ",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Kunaṟ",
         "zh_Hant_TW": "Kunaṟ",
         "zu": "Kunaṟ",
-        "zu_ZA": "Kunaṟ",
-        "sr@latin": "Kunaṟ",
-        "tt@iqtelif": "Kunaṟ"
+        "zu_ZA": "Kunaṟ"
     },
     "LAG": {
         "af": "Laghmān",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Laghmān",
         "sq_XK": "Laghmān",
         "sr": "Лагман",
+        "sr@latin": "Lagman",
         "sr_Cyrl": "Лагман",
         "sr_Cyrl_BA": "Лагман",
         "sr_Cyrl_ME": "Лагман",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Laghmān",
         "tr_TR": "Laghmān",
         "tt": "Laghmān",
+        "tt@iqtelif": "Laghmān",
         "tt_RU": "Laghmān",
         "twq": "Laghmān",
         "twq_NE": "Laghmān",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Laghmān",
         "zh_Hant_TW": "Laghmān",
         "zu": "Laghmān",
-        "zu_ZA": "Laghmān",
-        "sr@latin": "Lagman",
-        "tt@iqtelif": "Laghmān"
+        "zu_ZA": "Laghmān"
     },
     "LOG": {
         "af": "Lōgar",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Lōgar",
         "sq_XK": "Lōgar",
         "sr": "Логар",
+        "sr@latin": "Logar",
         "sr_Cyrl": "Логар",
         "sr_Cyrl_BA": "Логар",
         "sr_Cyrl_ME": "Логар",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Lōgar",
         "tr_TR": "Lōgar",
         "tt": "Lōgar",
+        "tt@iqtelif": "Lōgar",
         "tt_RU": "Lōgar",
         "twq": "Lōgar",
         "twq_NE": "Lōgar",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Lōgar",
         "zh_Hant_TW": "Lōgar",
         "zu": "Lōgar",
-        "zu_ZA": "Lōgar",
-        "sr@latin": "Logar",
-        "tt@iqtelif": "Lōgar"
+        "zu_ZA": "Lōgar"
     },
     "NAN": {
         "af": "Nangarhār",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Nangarhār",
         "sq_XK": "Nangarhār",
         "sr": "Нангарар",
+        "sr@latin": "Nangarar",
         "sr_Cyrl": "Нангарар",
         "sr_Cyrl_BA": "Нангарар",
         "sr_Cyrl_ME": "Нангарар",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Nangarhār",
         "tr_TR": "Nangarhār",
         "tt": "Nangarhār",
+        "tt@iqtelif": "Nangarhār",
         "tt_RU": "Nangarhār",
         "twq": "Nangarhār",
         "twq_NE": "Nangarhār",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Nangarhār",
         "zh_Hant_TW": "Nangarhār",
         "zu": "Nangarhār",
-        "zu_ZA": "Nangarhār",
-        "sr@latin": "Nangarar",
-        "tt@iqtelif": "Nangarhār"
+        "zu_ZA": "Nangarhār"
     },
     "NIM": {
         "af": "Nīmrōz",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Nīmrōz",
         "sq_XK": "Nīmrōz",
         "sr": "Нимроз",
+        "sr@latin": "Nimroz",
         "sr_Cyrl": "Нимроз",
         "sr_Cyrl_BA": "Нимроз",
         "sr_Cyrl_ME": "Нимроз",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Nīmrōz",
         "tr_TR": "Nīmrōz",
         "tt": "Nīmrōz",
+        "tt@iqtelif": "Nīmrōz",
         "tt_RU": "Nīmrōz",
         "twq": "Nīmrōz",
         "twq_NE": "Nīmrōz",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Nīmrōz",
         "zh_Hant_TW": "Nīmrōz",
         "zu": "Nīmrōz",
-        "zu_ZA": "Nīmrōz",
-        "sr@latin": "Nimroz",
-        "tt@iqtelif": "Nīmrōz"
+        "zu_ZA": "Nīmrōz"
     },
     "NUR": {
         "af": "Nūristān",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Nūristān",
         "sq_XK": "Nūristān",
         "sr": "Нуристан",
+        "sr@latin": "Nuristan",
         "sr_Cyrl": "Нуристан",
         "sr_Cyrl_BA": "Нуристан",
         "sr_Cyrl_ME": "Нуристан",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Nūristān",
         "tr_TR": "Nūristān",
         "tt": "Nūristān",
+        "tt@iqtelif": "Nūristān",
         "tt_RU": "Nūristān",
         "twq": "Nūristān",
         "twq_NE": "Nūristān",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Nūristān",
         "zh_Hant_TW": "Nūristān",
         "zu": "Nūristān",
-        "zu_ZA": "Nūristān",
-        "sr@latin": "Nuristan",
-        "tt@iqtelif": "Nūristān"
+        "zu_ZA": "Nūristān"
     },
     "PAN": {
         "af": "Panjshayr",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Panjshayr",
         "sq_XK": "Panjshayr",
         "sr": "Панџшаир",
+        "sr@latin": "Pandžšair",
         "sr_Cyrl": "Панџшаир",
         "sr_Cyrl_BA": "Панџшаир",
         "sr_Cyrl_ME": "Панџшаир",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Panjshayr",
         "tr_TR": "Panjshayr",
         "tt": "Panjshayr",
+        "tt@iqtelif": "Panjshayr",
         "tt_RU": "Panjshayr",
         "twq": "Panjshayr",
         "twq_NE": "Panjshayr",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Panjshayr",
         "zh_Hant_TW": "Panjshayr",
         "zu": "Panjshayr",
-        "zu_ZA": "Panjshayr",
-        "sr@latin": "Pandžšair",
-        "tt@iqtelif": "Panjshayr"
+        "zu_ZA": "Panjshayr"
     },
     "PAR": {
         "af": "Parwān",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Parwān",
         "sq_XK": "Parwān",
         "sr": "Парван",
+        "sr@latin": "Parvan",
         "sr_Cyrl": "Парван",
         "sr_Cyrl_BA": "Парван",
         "sr_Cyrl_ME": "Парван",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Parwān",
         "tr_TR": "Parwān",
         "tt": "Parwān",
+        "tt@iqtelif": "Parwān",
         "tt_RU": "Parwān",
         "twq": "Parwān",
         "twq_NE": "Parwān",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Parwān",
         "zh_Hant_TW": "Parwān",
         "zu": "Parwān",
-        "zu_ZA": "Parwān",
-        "sr@latin": "Parvan",
-        "tt@iqtelif": "Parwān"
+        "zu_ZA": "Parwān"
     },
     "PIA": {
         "af": "Paktiyā",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Paktiyā",
         "sq_XK": "Paktiyā",
         "sr": "Пактија",
+        "sr@latin": "Paktija",
         "sr_Cyrl": "Пактија",
         "sr_Cyrl_BA": "Пактија",
         "sr_Cyrl_ME": "Пактија",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Paktiyā",
         "tr_TR": "Paktiyā",
         "tt": "Paktiyā",
+        "tt@iqtelif": "Paktiyā",
         "tt_RU": "Paktiyā",
         "twq": "Paktiyā",
         "twq_NE": "Paktiyā",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Paktiyā",
         "zh_Hant_TW": "Paktiyā",
         "zu": "Paktiyā",
-        "zu_ZA": "Paktiyā",
-        "sr@latin": "Paktija",
-        "tt@iqtelif": "Paktiyā"
+        "zu_ZA": "Paktiyā"
     },
     "PKA": {
         "af": "Paktīkā",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Paktīkā",
         "sq_XK": "Paktīkā",
         "sr": "Пактика",
+        "sr@latin": "Paktika",
         "sr_Cyrl": "Пактика",
         "sr_Cyrl_BA": "Пактика",
         "sr_Cyrl_ME": "Пактика",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Paktīkā",
         "tr_TR": "Paktīkā",
         "tt": "Paktīkā",
+        "tt@iqtelif": "Paktīkā",
         "tt_RU": "Paktīkā",
         "twq": "Paktīkā",
         "twq_NE": "Paktīkā",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Paktīkā",
         "zh_Hant_TW": "Paktīkā",
         "zu": "Paktīkā",
-        "zu_ZA": "Paktīkā",
-        "sr@latin": "Paktika",
-        "tt@iqtelif": "Paktīkā"
+        "zu_ZA": "Paktīkā"
     },
     "SAM": {
         "af": "Samangān",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Samangān",
         "sq_XK": "Samangān",
         "sr": "Саманган",
+        "sr@latin": "Samangan",
         "sr_Cyrl": "Саманган",
         "sr_Cyrl_BA": "Саманган",
         "sr_Cyrl_ME": "Саманган",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Samangān",
         "tr_TR": "Samangān",
         "tt": "Samangān",
+        "tt@iqtelif": "Samangān",
         "tt_RU": "Samangān",
         "twq": "Samangān",
         "twq_NE": "Samangān",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Samangān",
         "zh_Hant_TW": "Samangān",
         "zu": "Samangān",
-        "zu_ZA": "Samangān",
-        "sr@latin": "Samangan",
-        "tt@iqtelif": "Samangān"
+        "zu_ZA": "Samangān"
     },
     "SAR": {
         "af": "Sar-e Pul",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Sar-e Pul",
         "sq_XK": "Sar-e Pul",
         "sr": "Саре Пул",
+        "sr@latin": "Sare Pul",
         "sr_Cyrl": "Саре Пул",
         "sr_Cyrl_BA": "Саре Пул",
         "sr_Cyrl_ME": "Саре Пул",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Sar-e Pul",
         "tr_TR": "Sar-e Pul",
         "tt": "Sar-e Pul",
+        "tt@iqtelif": "Sar-e Pul",
         "tt_RU": "Sar-e Pul",
         "twq": "Sar-e Pul",
         "twq_NE": "Sar-e Pul",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Sar-e Pul",
         "zh_Hant_TW": "Sar-e Pul",
         "zu": "Sar-e Pul",
-        "zu_ZA": "Sar-e Pul",
-        "sr@latin": "Sare Pul",
-        "tt@iqtelif": "Sar-e Pul"
+        "zu_ZA": "Sar-e Pul"
     },
     "TAK": {
         "af": "Takhār",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Takhār",
         "sq_XK": "Takhār",
         "sr": "Такар",
+        "sr@latin": "Takar",
         "sr_Cyrl": "Такар",
         "sr_Cyrl_BA": "Такар",
         "sr_Cyrl_ME": "Такар",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Takhār",
         "tr_TR": "Takhār",
         "tt": "Takhār",
+        "tt@iqtelif": "Takhār",
         "tt_RU": "Takhār",
         "twq": "Takhār",
         "twq_NE": "Takhār",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Takhār",
         "zh_Hant_TW": "Takhār",
         "zu": "Takhār",
-        "zu_ZA": "Takhār",
-        "sr@latin": "Takar",
-        "tt@iqtelif": "Takhār"
+        "zu_ZA": "Takhār"
     },
     "URU": {
         "af": "Uruzgān",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Uruzgān",
         "sq_XK": "Uruzgān",
         "sr": "Урузган",
+        "sr@latin": "Uruzgan",
         "sr_Cyrl": "Урузган",
         "sr_Cyrl_BA": "Урузган",
         "sr_Cyrl_ME": "Урузган",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Uruzgān",
         "tr_TR": "Uruzgān",
         "tt": "Uruzgān",
+        "tt@iqtelif": "Uruzgān",
         "tt_RU": "Uruzgān",
         "twq": "Uruzgān",
         "twq_NE": "Uruzgān",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Uruzgān",
         "zh_Hant_TW": "Uruzgān",
         "zu": "Uruzgān",
-        "zu_ZA": "Uruzgān",
-        "sr@latin": "Uruzgan",
-        "tt@iqtelif": "Uruzgān"
+        "zu_ZA": "Uruzgān"
     },
     "WAR": {
         "af": "Wardak",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Wardak",
         "sq_XK": "Wardak",
         "sr": "Вардак",
+        "sr@latin": "Vardak",
         "sr_Cyrl": "Вардак",
         "sr_Cyrl_BA": "Вардак",
         "sr_Cyrl_ME": "Вардак",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Wardak",
         "tr_TR": "Wardak",
         "tt": "Wardak",
+        "tt@iqtelif": "Wardak",
         "tt_RU": "Wardak",
         "twq": "Wardak",
         "twq_NE": "Wardak",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Wardak",
         "zh_Hant_TW": "Wardak",
         "zu": "Wardak",
-        "zu_ZA": "Wardak",
-        "sr@latin": "Vardak",
-        "tt@iqtelif": "Wardak"
+        "zu_ZA": "Wardak"
     },
     "ZAB": {
         "af": "Zābul",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Zābul",
         "sq_XK": "Zābul",
         "sr": "Забул",
+        "sr@latin": "Zabul",
         "sr_Cyrl": "Забул",
         "sr_Cyrl_BA": "Забул",
         "sr_Cyrl_ME": "Забул",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Zābul",
         "tr_TR": "Zābul",
         "tt": "Zābul",
+        "tt@iqtelif": "Zābul",
         "tt_RU": "Zābul",
         "twq": "Zābul",
         "twq_NE": "Zābul",
@@ -30085,8 +30087,6 @@
         "zh_Hant_MY": "Zābul",
         "zh_Hant_TW": "Zābul",
         "zu": "Zābul",
-        "zu_ZA": "Zābul",
-        "sr@latin": "Zabul",
-        "tt@iqtelif": "Zābul"
+        "zu_ZA": "Zābul"
     }
 }

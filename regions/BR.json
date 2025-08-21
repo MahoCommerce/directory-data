@@ -743,6 +743,7 @@
         "sq_MK": "Acre",
         "sq_XK": "Acre",
         "sr": "Акре",
+        "sr@latin": "Akre",
         "sr_Cyrl": "Акре",
         "sr_Cyrl_BA": "Акре",
         "sr_Cyrl_ME": "Акре",
@@ -803,6 +804,7 @@
         "tr_CY": "Acre",
         "tr_TR": "Acre",
         "tt": "Acre",
+        "tt@iqtelif": "Acre",
         "tt_RU": "Acre",
         "twq": "Acre",
         "twq_NE": "Acre",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Acre",
         "zh_Hant_TW": "Acre",
         "zu": "Acre",
-        "zu_ZA": "Acre",
-        "sr@latin": "Akre",
-        "tt@iqtelif": "Acre"
+        "zu_ZA": "Acre"
     },
     "AL": {
         "af": "Alagoas",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Alagoas",
         "sq_XK": "Alagoas",
         "sr": "Алагоас",
+        "sr@latin": "Alagoas",
         "sr_Cyrl": "Алагоас",
         "sr_Cyrl_BA": "Алагоас",
         "sr_Cyrl_ME": "Алагоас",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Alagoas",
         "tr_TR": "Alagoas",
         "tt": "Alagoas",
+        "tt@iqtelif": "Alagoas",
         "tt_RU": "Alagoas",
         "twq": "Alagoas",
         "twq_NE": "Alagoas",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Alagoas",
         "zh_Hant_TW": "Alagoas",
         "zu": "Alagoas",
-        "zu_ZA": "Alagoas",
-        "sr@latin": "Alagoas",
-        "tt@iqtelif": "Alagoas"
+        "zu_ZA": "Alagoas"
     },
     "AM": {
         "af": "Amazonas",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Amazonas",
         "sq_XK": "Amazonas",
         "sr": "Амазонас",
+        "sr@latin": "Amazonas",
         "sr_Cyrl": "Амазонас",
         "sr_Cyrl_BA": "Амазонас",
         "sr_Cyrl_ME": "Амазонас",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Amazonas",
         "tr_TR": "Amazonas",
         "tt": "Amazonas",
+        "tt@iqtelif": "Amazonas",
         "tt_RU": "Amazonas",
         "twq": "Amazonas",
         "twq_NE": "Amazonas",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Amazonas",
         "zh_Hant_TW": "Amazonas",
         "zu": "Amazonas",
-        "zu_ZA": "Amazonas",
-        "sr@latin": "Amazonas",
-        "tt@iqtelif": "Amazonas"
+        "zu_ZA": "Amazonas"
     },
     "AP": {
         "af": "Amapá",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Amapá",
         "sq_XK": "Amapá",
         "sr": "Амапа",
+        "sr@latin": "Amapa",
         "sr_Cyrl": "Амапа",
         "sr_Cyrl_BA": "Амапа",
         "sr_Cyrl_ME": "Амапа",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Amapá",
         "tr_TR": "Amapá",
         "tt": "Amapá",
+        "tt@iqtelif": "Amapá",
         "tt_RU": "Amapá",
         "twq": "Amapá",
         "twq_NE": "Amapá",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Amapá",
         "zh_Hant_TW": "Amapá",
         "zu": "Amapá",
-        "zu_ZA": "Amapá",
-        "sr@latin": "Amapa",
-        "tt@iqtelif": "Amapá"
+        "zu_ZA": "Amapá"
     },
     "BA": {
         "af": "Bahia",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bahia",
         "sq_XK": "Bahia",
         "sr": "Баија",
+        "sr@latin": "Baija",
         "sr_Cyrl": "Баија",
         "sr_Cyrl_BA": "Баија",
         "sr_Cyrl_ME": "Баија",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bahia",
         "tr_TR": "Bahia",
         "tt": "Bahia",
+        "tt@iqtelif": "Bahia",
         "tt_RU": "Bahia",
         "twq": "Bahia",
         "twq_NE": "Bahia",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bahia",
         "zh_Hant_TW": "Bahia",
         "zu": "Bahia",
-        "zu_ZA": "Bahia",
-        "sr@latin": "Baija",
-        "tt@iqtelif": "Bahia"
+        "zu_ZA": "Bahia"
     },
     "CE": {
         "af": "Ceará",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Ceará",
         "sq_XK": "Ceará",
         "sr": "Сиара",
+        "sr@latin": "Siara",
         "sr_Cyrl": "Сиара",
         "sr_Cyrl_BA": "Сиара",
         "sr_Cyrl_ME": "Сиара",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Ceará",
         "tr_TR": "Ceará",
         "tt": "Ceará",
+        "tt@iqtelif": "Ceará",
         "tt_RU": "Ceará",
         "twq": "Ceará",
         "twq_NE": "Ceará",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Ceará",
         "zh_Hant_TW": "Ceará",
         "zu": "Ceará",
-        "zu_ZA": "Ceará",
-        "sr@latin": "Siara",
-        "tt@iqtelif": "Ceará"
+        "zu_ZA": "Ceará"
     },
     "DF": {
         "af": "Distrito Federal",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Distrito Federal",
         "sq_XK": "Distrito Federal",
         "sr": "Федерални округ",
+        "sr@latin": "Federalni okrug",
         "sr_Cyrl": "Федерални округ",
         "sr_Cyrl_BA": "Федерални округ",
         "sr_Cyrl_ME": "Федерални округ",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Distrito Federal",
         "tr_TR": "Distrito Federal",
         "tt": "Distrito Federal",
+        "tt@iqtelif": "Distrito Federal",
         "tt_RU": "Distrito Federal",
         "twq": "Distrito Federal",
         "twq_NE": "Distrito Federal",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Distrito Federal",
         "zh_Hant_TW": "Distrito Federal",
         "zu": "Distrito Federal",
-        "zu_ZA": "Distrito Federal",
-        "sr@latin": "Federalni okrug",
-        "tt@iqtelif": "Distrito Federal"
+        "zu_ZA": "Distrito Federal"
     },
     "ES": {
         "af": "Espírito Santo",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Espírito Santo",
         "sq_XK": "Espírito Santo",
         "sr": "Еспирито Санто",
+        "sr@latin": "Espirito Santo",
         "sr_Cyrl": "Еспирито Санто",
         "sr_Cyrl_BA": "Еспирито Санто",
         "sr_Cyrl_ME": "Еспирито Санто",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Espírito Santo",
         "tr_TR": "Espírito Santo",
         "tt": "Espírito Santo",
+        "tt@iqtelif": "Espírito Santo",
         "tt_RU": "Espírito Santo",
         "twq": "Espírito Santo",
         "twq_NE": "Espírito Santo",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Espírito Santo",
         "zh_Hant_TW": "Espírito Santo",
         "zu": "Espírito Santo",
-        "zu_ZA": "Espírito Santo",
-        "sr@latin": "Espirito Santo",
-        "tt@iqtelif": "Espírito Santo"
+        "zu_ZA": "Espírito Santo"
     },
     "GO": {
         "af": "Goiás",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Goiás",
         "sq_XK": "Goiás",
         "sr": "Гојас",
+        "sr@latin": "Gojas",
         "sr_Cyrl": "Гојас",
         "sr_Cyrl_BA": "Гојас",
         "sr_Cyrl_ME": "Гојас",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Goiás",
         "tr_TR": "Goiás",
         "tt": "Goiás",
+        "tt@iqtelif": "Goiás",
         "tt_RU": "Goiás",
         "twq": "Goiás",
         "twq_NE": "Goiás",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Goiás",
         "zh_Hant_TW": "Goiás",
         "zu": "Goiás",
-        "zu_ZA": "Goiás",
-        "sr@latin": "Gojas",
-        "tt@iqtelif": "Goiás"
+        "zu_ZA": "Goiás"
     },
     "MA": {
         "af": "Maranhão",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Maranhão",
         "sq_XK": "Maranhão",
         "sr": "Маранао",
+        "sr@latin": "Maranao",
         "sr_Cyrl": "Маранао",
         "sr_Cyrl_BA": "Маранао",
         "sr_Cyrl_ME": "Маранао",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Maranhão",
         "tr_TR": "Maranhão",
         "tt": "Maranhão",
+        "tt@iqtelif": "Maranhão",
         "tt_RU": "Maranhão",
         "twq": "Maranhão",
         "twq_NE": "Maranhão",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Maranhão",
         "zh_Hant_TW": "Maranhão",
         "zu": "Maranhão",
-        "zu_ZA": "Maranhão",
-        "sr@latin": "Maranao",
-        "tt@iqtelif": "Maranhão"
+        "zu_ZA": "Maranhão"
     },
     "MG": {
         "af": "Minas Gerais",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Minas Gerais",
         "sq_XK": "Minas Gerais",
         "sr": "Минас Герајис",
+        "sr@latin": "Minas Gerajis",
         "sr_Cyrl": "Минас Герајис",
         "sr_Cyrl_BA": "Минас Герајис",
         "sr_Cyrl_ME": "Минас Герајис",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Minas Gerais",
         "tr_TR": "Minas Gerais",
         "tt": "Minas Gerais",
+        "tt@iqtelif": "Minas Gerais",
         "tt_RU": "Minas Gerais",
         "twq": "Minas Gerais",
         "twq_NE": "Minas Gerais",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Minas Gerais",
         "zh_Hant_TW": "Minas Gerais",
         "zu": "Minas Gerais",
-        "zu_ZA": "Minas Gerais",
-        "sr@latin": "Minas Gerajis",
-        "tt@iqtelif": "Minas Gerais"
+        "zu_ZA": "Minas Gerais"
     },
     "MS": {
         "af": "Mato Grosso do Sul",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Mato Grosso do Sul",
         "sq_XK": "Mato Grosso do Sul",
         "sr": "Мато Гросо до Сул",
+        "sr@latin": "Mato Groso do Sul",
         "sr_Cyrl": "Мато Гросо до Сул",
         "sr_Cyrl_BA": "Мато Гросо до Сул",
         "sr_Cyrl_ME": "Мато Гросо до Сул",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Mato Grosso do Sul",
         "tr_TR": "Mato Grosso do Sul",
         "tt": "Mato Grosso do Sul",
+        "tt@iqtelif": "Mato Grosso do Sul",
         "tt_RU": "Mato Grosso do Sul",
         "twq": "Mato Grosso do Sul",
         "twq_NE": "Mato Grosso do Sul",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Mato Grosso do Sul",
         "zh_Hant_TW": "Mato Grosso do Sul",
         "zu": "Mato Grosso do Sul",
-        "zu_ZA": "Mato Grosso do Sul",
-        "sr@latin": "Mato Groso do Sul",
-        "tt@iqtelif": "Mato Grosso do Sul"
+        "zu_ZA": "Mato Grosso do Sul"
     },
     "MT": {
         "af": "Mato Grosso",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Mato Grosso",
         "sq_XK": "Mato Grosso",
         "sr": "Мато Гросо",
+        "sr@latin": "Mato Groso",
         "sr_Cyrl": "Мато Гросо",
         "sr_Cyrl_BA": "Мато Гросо",
         "sr_Cyrl_ME": "Мато Гросо",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Mato Grosso",
         "tr_TR": "Mato Grosso",
         "tt": "Mato Grosso",
+        "tt@iqtelif": "Mato Grosso",
         "tt_RU": "Mato Grosso",
         "twq": "Mato Grosso",
         "twq_NE": "Mato Grosso",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Mato Grosso",
         "zh_Hant_TW": "Mato Grosso",
         "zu": "Mato Grosso",
-        "zu_ZA": "Mato Grosso",
-        "sr@latin": "Mato Groso",
-        "tt@iqtelif": "Mato Grosso"
+        "zu_ZA": "Mato Grosso"
     },
     "PA": {
         "af": "Pará",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Pará",
         "sq_XK": "Pará",
         "sr": "Пара",
+        "sr@latin": "Para",
         "sr_Cyrl": "Пара",
         "sr_Cyrl_BA": "Пара",
         "sr_Cyrl_ME": "Пара",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Pará",
         "tr_TR": "Pará",
         "tt": "Pará",
+        "tt@iqtelif": "Pará",
         "tt_RU": "Pará",
         "twq": "Pará",
         "twq_NE": "Pará",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Pará",
         "zh_Hant_TW": "Pará",
         "zu": "Pará",
-        "zu_ZA": "Pará",
-        "sr@latin": "Para",
-        "tt@iqtelif": "Pará"
+        "zu_ZA": "Pará"
     },
     "PB": {
         "af": "Paraíba",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Paraíba",
         "sq_XK": "Paraíba",
         "sr": "Параиба",
+        "sr@latin": "Paraiba",
         "sr_Cyrl": "Параиба",
         "sr_Cyrl_BA": "Параиба",
         "sr_Cyrl_ME": "Параиба",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Paraíba",
         "tr_TR": "Paraíba",
         "tt": "Paraíba",
+        "tt@iqtelif": "Paraíba",
         "tt_RU": "Paraíba",
         "twq": "Paraíba",
         "twq_NE": "Paraíba",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Paraíba",
         "zh_Hant_TW": "Paraíba",
         "zu": "Paraíba",
-        "zu_ZA": "Paraíba",
-        "sr@latin": "Paraiba",
-        "tt@iqtelif": "Paraíba"
+        "zu_ZA": "Paraíba"
     },
     "PE": {
         "af": "Pernambuco",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Pernambuco",
         "sq_XK": "Pernambuco",
         "sr": "Пернамбуко",
+        "sr@latin": "Pernambuko",
         "sr_Cyrl": "Пернамбуко",
         "sr_Cyrl_BA": "Пернамбуко",
         "sr_Cyrl_ME": "Пернамбуко",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Pernambuco",
         "tr_TR": "Pernambuco",
         "tt": "Pernambuco",
+        "tt@iqtelif": "Pernambuco",
         "tt_RU": "Pernambuco",
         "twq": "Pernambuco",
         "twq_NE": "Pernambuco",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Pernambuco",
         "zh_Hant_TW": "Pernambuco",
         "zu": "Pernambuco",
-        "zu_ZA": "Pernambuco",
-        "sr@latin": "Pernambuko",
-        "tt@iqtelif": "Pernambuco"
+        "zu_ZA": "Pernambuco"
     },
     "PI": {
         "af": "Piauí",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Piauí",
         "sq_XK": "Piauí",
         "sr": "Пјави",
+        "sr@latin": "Pjavi",
         "sr_Cyrl": "Пјави",
         "sr_Cyrl_BA": "Пјави",
         "sr_Cyrl_ME": "Пјави",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Piauí",
         "tr_TR": "Piauí",
         "tt": "Piauí",
+        "tt@iqtelif": "Piauí",
         "tt_RU": "Piauí",
         "twq": "Piauí",
         "twq_NE": "Piauí",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Piauí",
         "zh_Hant_TW": "Piauí",
         "zu": "Piauí",
-        "zu_ZA": "Piauí",
-        "sr@latin": "Pjavi",
-        "tt@iqtelif": "Piauí"
+        "zu_ZA": "Piauí"
     },
     "PR": {
         "af": "Paraná",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Paraná",
         "sq_XK": "Paraná",
         "sr": "Парана",
+        "sr@latin": "Parana",
         "sr_Cyrl": "Парана",
         "sr_Cyrl_BA": "Парана",
         "sr_Cyrl_ME": "Парана",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Paraná",
         "tr_TR": "Paraná",
         "tt": "Paraná",
+        "tt@iqtelif": "Paraná",
         "tt_RU": "Paraná",
         "twq": "Paraná",
         "twq_NE": "Paraná",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Paraná",
         "zh_Hant_TW": "Paraná",
         "zu": "Paraná",
-        "zu_ZA": "Paraná",
-        "sr@latin": "Parana",
-        "tt@iqtelif": "Paraná"
+        "zu_ZA": "Paraná"
     },
     "RJ": {
         "af": "Rio de Janeiro",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Rio de Janeiro",
         "sq_XK": "Rio de Janeiro",
         "sr": "Рио де Жанеиро",
+        "sr@latin": "Rio de Žaneiro",
         "sr_Cyrl": "Рио де Жанеиро",
         "sr_Cyrl_BA": "Рио де Жанеиро",
         "sr_Cyrl_ME": "Рио де Жанеиро",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Rio de Janeiro",
         "tr_TR": "Rio de Janeiro",
         "tt": "Rio de Janeiro",
+        "tt@iqtelif": "Rio de Janeiro",
         "tt_RU": "Rio de Janeiro",
         "twq": "Rio de Janeiro",
         "twq_NE": "Rio de Janeiro",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Rio de Janeiro",
         "zh_Hant_TW": "Rio de Janeiro",
         "zu": "Rio de Janeiro",
-        "zu_ZA": "Rio de Janeiro",
-        "sr@latin": "Rio de Žaneiro",
-        "tt@iqtelif": "Rio de Janeiro"
+        "zu_ZA": "Rio de Janeiro"
     },
     "RN": {
         "af": "Rio Grande do Norte",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Rio Grande do Norte",
         "sq_XK": "Rio Grande do Norte",
         "sr": "Рио Гранде до Норте",
+        "sr@latin": "Rio Grande do Norte",
         "sr_Cyrl": "Рио Гранде до Норте",
         "sr_Cyrl_BA": "Рио Гранде до Норте",
         "sr_Cyrl_ME": "Рио Гранде до Норте",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Rio Grande do Norte",
         "tr_TR": "Rio Grande do Norte",
         "tt": "Rio Grande do Norte",
+        "tt@iqtelif": "Rio Grande do Norte",
         "tt_RU": "Rio Grande do Norte",
         "twq": "Rio Grande do Norte",
         "twq_NE": "Rio Grande do Norte",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Rio Grande do Norte",
         "zh_Hant_TW": "Rio Grande do Norte",
         "zu": "Rio Grande do Norte",
-        "zu_ZA": "Rio Grande do Norte",
-        "sr@latin": "Rio Grande do Norte",
-        "tt@iqtelif": "Rio Grande do Norte"
+        "zu_ZA": "Rio Grande do Norte"
     },
     "RO": {
         "af": "Rondônia",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Rondônia",
         "sq_XK": "Rondônia",
         "sr": "Рондонија",
+        "sr@latin": "Rondonija",
         "sr_Cyrl": "Рондонија",
         "sr_Cyrl_BA": "Рондонија",
         "sr_Cyrl_ME": "Рондонија",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Rondônia",
         "tr_TR": "Rondônia",
         "tt": "Rondônia",
+        "tt@iqtelif": "Rondônia",
         "tt_RU": "Rondônia",
         "twq": "Rondônia",
         "twq_NE": "Rondônia",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Rondônia",
         "zh_Hant_TW": "Rondônia",
         "zu": "Rondônia",
-        "zu_ZA": "Rondônia",
-        "sr@latin": "Rondonija",
-        "tt@iqtelif": "Rondônia"
+        "zu_ZA": "Rondônia"
     },
     "RR": {
         "af": "Roraima",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Roraima",
         "sq_XK": "Roraima",
         "sr": "Рорајима",
+        "sr@latin": "Rorajima",
         "sr_Cyrl": "Рорајима",
         "sr_Cyrl_BA": "Рорајима",
         "sr_Cyrl_ME": "Рорајима",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Roraima",
         "tr_TR": "Roraima",
         "tt": "Roraima",
+        "tt@iqtelif": "Roraima",
         "tt_RU": "Roraima",
         "twq": "Roraima",
         "twq_NE": "Roraima",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Roraima",
         "zh_Hant_TW": "Roraima",
         "zu": "Roraima",
-        "zu_ZA": "Roraima",
-        "sr@latin": "Rorajima",
-        "tt@iqtelif": "Roraima"
+        "zu_ZA": "Roraima"
     },
     "RS": {
         "af": "Rio Grande do Sul",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Rio Grande do Sul",
         "sq_XK": "Rio Grande do Sul",
         "sr": "Рио Гранде до Сул",
+        "sr@latin": "Rio Grande do Sul",
         "sr_Cyrl": "Рио Гранде до Сул",
         "sr_Cyrl_BA": "Рио Гранде до Сул",
         "sr_Cyrl_ME": "Рио Гранде до Сул",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Rio Grande do Sul",
         "tr_TR": "Rio Grande do Sul",
         "tt": "Rio Grande do Sul",
+        "tt@iqtelif": "Rio Grande do Sul",
         "tt_RU": "Rio Grande do Sul",
         "twq": "Rio Grande do Sul",
         "twq_NE": "Rio Grande do Sul",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Rio Grande do Sul",
         "zh_Hant_TW": "Rio Grande do Sul",
         "zu": "Rio Grande do Sul",
-        "zu_ZA": "Rio Grande do Sul",
-        "sr@latin": "Rio Grande do Sul",
-        "tt@iqtelif": "Rio Grande do Sul"
+        "zu_ZA": "Rio Grande do Sul"
     },
     "SC": {
         "af": "Santa Catarina",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Santa Catarina",
         "sq_XK": "Santa Catarina",
         "sr": "Санта Катарина",
+        "sr@latin": "Santa Katarina",
         "sr_Cyrl": "Санта Катарина",
         "sr_Cyrl_BA": "Санта Катарина",
         "sr_Cyrl_ME": "Санта Катарина",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Santa Catarina",
         "tr_TR": "Santa Catarina",
         "tt": "Santa Catarina",
+        "tt@iqtelif": "Santa Catarina",
         "tt_RU": "Santa Catarina",
         "twq": "Santa Catarina",
         "twq_NE": "Santa Catarina",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Santa Catarina",
         "zh_Hant_TW": "Santa Catarina",
         "zu": "Santa Catarina",
-        "zu_ZA": "Santa Catarina",
-        "sr@latin": "Santa Katarina",
-        "tt@iqtelif": "Santa Catarina"
+        "zu_ZA": "Santa Catarina"
     },
     "SE": {
         "af": "Sergipe",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Sergipe",
         "sq_XK": "Sergipe",
         "sr": "Сергипе",
+        "sr@latin": "Sergipe",
         "sr_Cyrl": "Сергипе",
         "sr_Cyrl_BA": "Сергипе",
         "sr_Cyrl_ME": "Сергипе",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Sergipe",
         "tr_TR": "Sergipe",
         "tt": "Sergipe",
+        "tt@iqtelif": "Sergipe",
         "tt_RU": "Sergipe",
         "twq": "Sergipe",
         "twq_NE": "Sergipe",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Sergipe",
         "zh_Hant_TW": "Sergipe",
         "zu": "Sergipe",
-        "zu_ZA": "Sergipe",
-        "sr@latin": "Sergipe",
-        "tt@iqtelif": "Sergipe"
+        "zu_ZA": "Sergipe"
     },
     "SP": {
         "af": "São Paulo",
@@ -22868,6 +22868,7 @@
         "sq_MK": "São Paulo",
         "sq_XK": "São Paulo",
         "sr": "Сао Пауло",
+        "sr@latin": "Sao Paulo",
         "sr_Cyrl": "Сао Пауло",
         "sr_Cyrl_BA": "Сао Пауло",
         "sr_Cyrl_ME": "Сао Пауло",
@@ -22928,6 +22929,7 @@
         "tr_CY": "São Paulo",
         "tr_TR": "São Paulo",
         "tt": "São Paulo",
+        "tt@iqtelif": "São Paulo",
         "tt_RU": "São Paulo",
         "twq": "São Paulo",
         "twq_NE": "São Paulo",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "São Paulo",
         "zh_Hant_TW": "São Paulo",
         "zu": "São Paulo",
-        "zu_ZA": "São Paulo",
-        "sr@latin": "Sao Paulo",
-        "tt@iqtelif": "São Paulo"
+        "zu_ZA": "São Paulo"
     },
     "TO": {
         "af": "Tocantins",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Tocantins",
         "sq_XK": "Tocantins",
         "sr": "Токантинс",
+        "sr@latin": "Tokantins",
         "sr_Cyrl": "Токантинс",
         "sr_Cyrl_BA": "Токантинс",
         "sr_Cyrl_ME": "Токантинс",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Tocantins",
         "tr_TR": "Tocantins",
         "tt": "Tocantins",
+        "tt@iqtelif": "Tocantins",
         "tt_RU": "Tocantins",
         "twq": "Tocantins",
         "twq_NE": "Tocantins",
@@ -23890,8 +23892,6 @@
         "zh_Hant_MY": "Tocantins",
         "zh_Hant_TW": "Tocantins",
         "zu": "Tocantins",
-        "zu_ZA": "Tocantins",
-        "sr@latin": "Tokantins",
-        "tt@iqtelif": "Tocantins"
+        "zu_ZA": "Tocantins"
     }
 }

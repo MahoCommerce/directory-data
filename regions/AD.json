@@ -743,6 +743,7 @@
         "sq_MK": "Canillo",
         "sq_XK": "Canillo",
         "sr": "Каниљо",
+        "sr@latin": "Kaniljo",
         "sr_Cyrl": "Каниљо",
         "sr_Cyrl_BA": "Каниљо",
         "sr_Cyrl_ME": "Каниљо",
@@ -803,6 +804,7 @@
         "tr_CY": "Canillo",
         "tr_TR": "Canillo",
         "tt": "Canillo",
+        "tt@iqtelif": "Canillo",
         "tt_RU": "Canillo",
         "twq": "Canillo",
         "twq_NE": "Canillo",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Canillo",
         "zh_Hant_TW": "Canillo",
         "zu": "Canillo",
-        "zu_ZA": "Canillo",
-        "sr@latin": "Kaniljo",
-        "tt@iqtelif": "Canillo"
+        "zu_ZA": "Canillo"
     },
     "03": {
         "af": "Encamp",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Encamp",
         "sq_XK": "Encamp",
         "sr": "Енкамп",
+        "sr@latin": "Enkamp",
         "sr_Cyrl": "Енкамп",
         "sr_Cyrl_BA": "Енкамп",
         "sr_Cyrl_ME": "Енкамп",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Encamp",
         "tr_TR": "Encamp",
         "tt": "Encamp",
+        "tt@iqtelif": "Encamp",
         "tt_RU": "Encamp",
         "twq": "Encamp",
         "twq_NE": "Encamp",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Encamp",
         "zh_Hant_TW": "Encamp",
         "zu": "Encamp",
-        "zu_ZA": "Encamp",
-        "sr@latin": "Enkamp",
-        "tt@iqtelif": "Encamp"
+        "zu_ZA": "Encamp"
     },
     "04": {
         "af": "La Massana",
@@ -2513,6 +2513,7 @@
         "sq_MK": "La Massana",
         "sq_XK": "La Massana",
         "sr": "Ла Масана",
+        "sr@latin": "La Masana",
         "sr_Cyrl": "Ла Масана",
         "sr_Cyrl_BA": "Ла Масана",
         "sr_Cyrl_ME": "Ла Масана",
@@ -2573,6 +2574,7 @@
         "tr_CY": "La Massana",
         "tr_TR": "La Massana",
         "tt": "La Massana",
+        "tt@iqtelif": "La Massana",
         "tt_RU": "La Massana",
         "twq": "La Massana",
         "twq_NE": "La Massana",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "La Massana",
         "zh_Hant_TW": "La Massana",
         "zu": "La Massana",
-        "zu_ZA": "La Massana",
-        "sr@latin": "La Masana",
-        "tt@iqtelif": "La Massana"
+        "zu_ZA": "La Massana"
     },
     "05": {
         "af": "Ordino",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Ordino",
         "sq_XK": "Ordino",
         "sr": "Ордино",
+        "sr@latin": "Ordino",
         "sr_Cyrl": "Ордино",
         "sr_Cyrl_BA": "Ордино",
         "sr_Cyrl_ME": "Ордино",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Ordino",
         "tr_TR": "Ordino",
         "tt": "Ordino",
+        "tt@iqtelif": "Ordino",
         "tt_RU": "Ordino",
         "twq": "Ordino",
         "twq_NE": "Ordino",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Ordino",
         "zh_Hant_TW": "Ordino",
         "zu": "Ordino",
-        "zu_ZA": "Ordino",
-        "sr@latin": "Ordino",
-        "tt@iqtelif": "Ordino"
+        "zu_ZA": "Ordino"
     },
     "06": {
         "af": "Sant Julià de Lòria",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Sant Julià de Lòria",
         "sq_XK": "Sant Julià de Lòria",
         "sr": "Сан Хулија де Лорја",
+        "sr@latin": "San Hulija de Lorja",
         "sr_Cyrl": "Сан Хулија де Лорја",
         "sr_Cyrl_BA": "Сан Хулија де Лорја",
         "sr_Cyrl_ME": "Сан Хулија де Лорја",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Sant Julià de Lòria",
         "tr_TR": "Sant Julià de Lòria",
         "tt": "Sant Julià de Lòria",
+        "tt@iqtelif": "Sant Julià de Lòria",
         "tt_RU": "Sant Julià de Lòria",
         "twq": "Sant Julià de Lòria",
         "twq_NE": "Sant Julià de Lòria",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Sant Julià de Lòria",
         "zh_Hant_TW": "Sant Julià de Lòria",
         "zu": "Sant Julià de Lòria",
-        "zu_ZA": "Sant Julià de Lòria",
-        "sr@latin": "San Hulija de Lorja",
-        "tt@iqtelif": "Sant Julià de Lòria"
+        "zu_ZA": "Sant Julià de Lòria"
     },
     "07": {
         "af": "Andorra la Vella",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Andorra la Vella",
         "sq_XK": "Andorra la Vella",
         "sr": "Андора ла Вела",
+        "sr@latin": "Andora la Vela",
         "sr_Cyrl": "Андора ла Вела",
         "sr_Cyrl_BA": "Андора ла Вела",
         "sr_Cyrl_ME": "Андора ла Вела",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Andorra la Vella",
         "tr_TR": "Andorra la Vella",
         "tt": "Andorra la Vella",
+        "tt@iqtelif": "Andorra la Vella",
         "tt_RU": "Andorra la Vella",
         "twq": "Andorra la Vella",
         "twq_NE": "Andorra la Vella",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Andorra la Vella",
         "zh_Hant_TW": "Andorra la Vella",
         "zu": "Andorra la Vella",
-        "zu_ZA": "Andorra la Vella",
-        "sr@latin": "Andora la Vela",
-        "tt@iqtelif": "Andorra la Vella"
+        "zu_ZA": "Andorra la Vella"
     },
     "08": {
         "af": "Escaldes-Engordany",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Escaldes-Engordany",
         "sq_XK": "Escaldes-Engordany",
         "sr": "Ескалдес-Енгордани",
+        "sr@latin": "Eskaldes-Engordani",
         "sr_Cyrl": "Ескалдес-Енгордани",
         "sr_Cyrl_BA": "Ескалдес-Енгордани",
         "sr_Cyrl_ME": "Ескалдес-Енгордани",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Escaldes-Engordany",
         "tr_TR": "Escaldes-Engordany",
         "tt": "Escaldes-Engordany",
+        "tt@iqtelif": "Escaldes-Engordany",
         "tt_RU": "Escaldes-Engordany",
         "twq": "Escaldes-Engordany",
         "twq_NE": "Escaldes-Engordany",
@@ -6190,8 +6192,6 @@
         "zh_Hant_MY": "Escaldes-Engordany",
         "zh_Hant_TW": "Escaldes-Engordany",
         "zu": "Escaldes-Engordany",
-        "zu_ZA": "Escaldes-Engordany",
-        "sr@latin": "Eskaldes-Engordani",
-        "tt@iqtelif": "Escaldes-Engordany"
+        "zu_ZA": "Escaldes-Engordany"
     }
 }

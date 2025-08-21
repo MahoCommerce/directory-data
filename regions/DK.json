@@ -743,6 +743,7 @@
         "sq_MK": "Nordjylland",
         "sq_XK": "Nordjylland",
         "sr": "Nordjylland",
+        "sr@latin": "Nordjylland",
         "sr_Cyrl": "Nordjylland",
         "sr_Cyrl_BA": "Nordjylland",
         "sr_Cyrl_ME": "Nordjylland",
@@ -803,6 +804,7 @@
         "tr_CY": "Nordjylland",
         "tr_TR": "Nordjylland",
         "tt": "Nordjylland",
+        "tt@iqtelif": "Nordjylland",
         "tt_RU": "Nordjylland",
         "twq": "Nordjylland",
         "twq_NE": "Nordjylland",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Nordjylland",
         "zh_Hant_TW": "Nordjylland",
         "zu": "Nordjylland",
-        "zu_ZA": "Nordjylland",
-        "sr@latin": "Nordjylland",
-        "tt@iqtelif": "Nordjylland"
+        "zu_ZA": "Nordjylland"
     },
     "82": {
         "af": "Midtjylland",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Midtjylland",
         "sq_XK": "Midtjylland",
         "sr": "Мидтјиленд",
+        "sr@latin": "Midtjilend",
         "sr_Cyrl": "Мидтјиленд",
         "sr_Cyrl_BA": "Мидтјиленд",
         "sr_Cyrl_ME": "Мидтјиленд",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Midtjylland",
         "tr_TR": "Midtjylland",
         "tt": "Midtjylland",
+        "tt@iqtelif": "Midtjylland",
         "tt_RU": "Midtjylland",
         "twq": "Midtjylland",
         "twq_NE": "Midtjylland",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Midtjylland",
         "zh_Hant_TW": "Midtjylland",
         "zu": "Midtjylland",
-        "zu_ZA": "Midtjylland",
-        "sr@latin": "Midtjilend",
-        "tt@iqtelif": "Midtjylland"
+        "zu_ZA": "Midtjylland"
     },
     "83": {
         "af": "Syddanmark",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Syddanmark",
         "sq_XK": "Syddanmark",
         "sr": "Syddanmark",
+        "sr@latin": "Syddanmark",
         "sr_Cyrl": "Syddanmark",
         "sr_Cyrl_BA": "Syddanmark",
         "sr_Cyrl_ME": "Syddanmark",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Syddanmark",
         "tr_TR": "Syddanmark",
         "tt": "Syddanmark",
+        "tt@iqtelif": "Syddanmark",
         "tt_RU": "Syddanmark",
         "twq": "Syddanmark",
         "twq_NE": "Syddanmark",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Syddanmark",
         "zh_Hant_TW": "Syddanmark",
         "zu": "Syddanmark",
-        "zu_ZA": "Syddanmark",
-        "sr@latin": "Syddanmark",
-        "tt@iqtelif": "Syddanmark"
+        "zu_ZA": "Syddanmark"
     },
     "84": {
         "af": "Hovedstaden",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Hovedstaden",
         "sq_XK": "Hovedstaden",
         "sr": "Ховедштаден",
+        "sr@latin": "Hovedštaden",
         "sr_Cyrl": "Ховедштаден",
         "sr_Cyrl_BA": "Ховедштаден",
         "sr_Cyrl_ME": "Ховедштаден",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Hovedstaden",
         "tr_TR": "Hovedstaden",
         "tt": "Hovedstaden",
+        "tt@iqtelif": "Hovedstaden",
         "tt_RU": "Hovedstaden",
         "twq": "Hovedstaden",
         "twq_NE": "Hovedstaden",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Hovedstaden",
         "zh_Hant_TW": "Hovedstaden",
         "zu": "Hovedstaden",
-        "zu_ZA": "Hovedstaden",
-        "sr@latin": "Hovedštaden",
-        "tt@iqtelif": "Hovedstaden"
+        "zu_ZA": "Hovedstaden"
     },
     "85": {
         "af": "Sjælland",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Sjælland",
         "sq_XK": "Sjælland",
         "sr": "Sjælland",
+        "sr@latin": "Sjælland",
         "sr_Cyrl": "Sjælland",
         "sr_Cyrl_BA": "Sjælland",
         "sr_Cyrl_ME": "Sjælland",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Sjælland",
         "tr_TR": "Sjælland",
         "tt": "Sjælland",
+        "tt@iqtelif": "Sjælland",
         "tt_RU": "Sjælland",
         "twq": "Sjælland",
         "twq_NE": "Sjælland",
@@ -4420,8 +4422,6 @@
         "zh_Hant_MY": "Sjælland",
         "zh_Hant_TW": "Sjælland",
         "zu": "Sjælland",
-        "zu_ZA": "Sjælland",
-        "sr@latin": "Sjælland",
-        "tt@iqtelif": "Sjælland"
+        "zu_ZA": "Sjælland"
     }
 }

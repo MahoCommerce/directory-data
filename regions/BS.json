@@ -743,6 +743,7 @@
         "sq_MK": "Acklins",
         "sq_XK": "Acklins",
         "sr": "Аклинс",
+        "sr@latin": "Aklins",
         "sr_Cyrl": "Аклинс",
         "sr_Cyrl_BA": "Аклинс",
         "sr_Cyrl_ME": "Аклинс",
@@ -803,6 +804,7 @@
         "tr_CY": "Acklins",
         "tr_TR": "Acklins",
         "tt": "Acklins",
+        "tt@iqtelif": "Acklins",
         "tt_RU": "Acklins",
         "twq": "Acklins",
         "twq_NE": "Acklins",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Acklins",
         "zh_Hant_TW": "Acklins",
         "zu": "Acklins",
-        "zu_ZA": "Acklins",
-        "sr@latin": "Aklins",
-        "tt@iqtelif": "Acklins"
+        "zu_ZA": "Acklins"
     },
     "BI": {
         "af": "Bimini",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bimini",
         "sq_XK": "Bimini",
         "sr": "Бимини",
+        "sr@latin": "Bimini",
         "sr_Cyrl": "Бимини",
         "sr_Cyrl_BA": "Бимини",
         "sr_Cyrl_ME": "Бимини",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bimini",
         "tr_TR": "Bimini",
         "tt": "Bimini",
+        "tt@iqtelif": "Bimini",
         "tt_RU": "Bimini",
         "twq": "Bimini",
         "twq_NE": "Bimini",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bimini",
         "zh_Hant_TW": "Bimini",
         "zu": "Bimini",
-        "zu_ZA": "Bimini",
-        "sr@latin": "Bimini",
-        "tt@iqtelif": "Bimini"
+        "zu_ZA": "Bimini"
     },
     "BP": {
         "af": "Black Point",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Black Point",
         "sq_XK": "Black Point",
         "sr": "Блек Поинт",
+        "sr@latin": "Blek Point",
         "sr_Cyrl": "Блек Поинт",
         "sr_Cyrl_BA": "Блек Поинт",
         "sr_Cyrl_ME": "Блек Поинт",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Black Point",
         "tr_TR": "Black Point",
         "tt": "Black Point",
+        "tt@iqtelif": "Black Point",
         "tt_RU": "Black Point",
         "twq": "Black Point",
         "twq_NE": "Black Point",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Black Point",
         "zh_Hant_TW": "Black Point",
         "zu": "Black Point",
-        "zu_ZA": "Black Point",
-        "sr@latin": "Blek Point",
-        "tt@iqtelif": "Black Point"
+        "zu_ZA": "Black Point"
     },
     "BY": {
         "af": "Berry Islands",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Berry Islands",
         "sq_XK": "Berry Islands",
         "sr": "Берска острва",
+        "sr@latin": "Berska ostrva",
         "sr_Cyrl": "Берска острва",
         "sr_Cyrl_BA": "Берска острва",
         "sr_Cyrl_ME": "Берска острва",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Berry Adaları",
         "tr_TR": "Berry Adaları",
         "tt": "Berry Islands",
+        "tt@iqtelif": "Berry Islands",
         "tt_RU": "Berry Islands",
         "twq": "Berry Islands",
         "twq_NE": "Berry Islands",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Berry Islands",
         "zh_Hant_TW": "Berry Islands",
         "zu": "Berry Islands",
-        "zu_ZA": "Berry Islands",
-        "sr@latin": "Berska ostrva",
-        "tt@iqtelif": "Berry Islands"
+        "zu_ZA": "Berry Islands"
     },
     "CE": {
         "af": "Central Eleuthera",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Central Eleuthera",
         "sq_XK": "Central Eleuthera",
         "sr": "Централна Елејтера",
+        "sr@latin": "Centralna Elejtera",
         "sr_Cyrl": "Централна Елејтера",
         "sr_Cyrl_BA": "Централна Елејтера",
         "sr_Cyrl_ME": "Централна Елејтера",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Merkez Eleuthera",
         "tr_TR": "Merkez Eleuthera",
         "tt": "Central Eleuthera",
+        "tt@iqtelif": "Central Eleuthera",
         "tt_RU": "Central Eleuthera",
         "twq": "Central Eleuthera",
         "twq_NE": "Central Eleuthera",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Central Eleuthera",
         "zh_Hant_TW": "Central Eleuthera",
         "zu": "Central Eleuthera",
-        "zu_ZA": "Central Eleuthera",
-        "sr@latin": "Centralna Elejtera",
-        "tt@iqtelif": "Central Eleuthera"
+        "zu_ZA": "Central Eleuthera"
     },
     "CI": {
         "af": "Cat Island",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Cat Island",
         "sq_XK": "Cat Island",
         "sr": "Кет острво",
+        "sr@latin": "Ket ostrvo",
         "sr_Cyrl": "Кет острво",
         "sr_Cyrl_BA": "Кет острво",
         "sr_Cyrl_ME": "Кет острво",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Cat Adası",
         "tr_TR": "Cat Adası",
         "tt": "Cat Island",
+        "tt@iqtelif": "Cat Island",
         "tt_RU": "Cat Island",
         "twq": "Cat Island",
         "twq_NE": "Cat Island",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Cat Island",
         "zh_Hant_TW": "Cat Island",
         "zu": "Cat Island",
-        "zu_ZA": "Cat Island",
-        "sr@latin": "Ket ostrvo",
-        "tt@iqtelif": "Cat Island"
+        "zu_ZA": "Cat Island"
     },
     "CK": {
         "af": "Crooked Island and Long Cay",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Crooked Island and Long Cay",
         "sq_XK": "Crooked Island and Long Cay",
         "sr": "Крукед Ајланд и Лонг Кеј",
+        "sr@latin": "Kruked Ajland i Long Kej",
         "sr_Cyrl": "Крукед Ајланд и Лонг Кеј",
         "sr_Cyrl_BA": "Крукед Ајланд и Лонг Кеј",
         "sr_Cyrl_ME": "Крукед Ајланд и Лонг Кеј",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Crooked Island and Long Cay",
         "tr_TR": "Crooked Island and Long Cay",
         "tt": "Crooked Island and Long Cay",
+        "tt@iqtelif": "Crooked Island and Long Cay",
         "tt_RU": "Crooked Island and Long Cay",
         "twq": "Crooked Island and Long Cay",
         "twq_NE": "Crooked Island and Long Cay",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Crooked Island and Long Cay",
         "zh_Hant_TW": "Crooked Island and Long Cay",
         "zu": "Crooked Island and Long Cay",
-        "zu_ZA": "Crooked Island and Long Cay",
-        "sr@latin": "Kruked Ajland i Long Kej",
-        "tt@iqtelif": "Crooked Island and Long Cay"
+        "zu_ZA": "Crooked Island and Long Cay"
     },
     "CO": {
         "af": "Central Abaco",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Central Abaco",
         "sq_XK": "Central Abaco",
         "sr": "Централни Абако",
+        "sr@latin": "Centralni Abako",
         "sr_Cyrl": "Централни Абако",
         "sr_Cyrl_BA": "Централни Абако",
         "sr_Cyrl_ME": "Централни Абако",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Merkez Abaco",
         "tr_TR": "Merkez Abaco",
         "tt": "Central Abaco",
+        "tt@iqtelif": "Central Abaco",
         "tt_RU": "Central Abaco",
         "twq": "Central Abaco",
         "twq_NE": "Central Abaco",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Central Abaco",
         "zh_Hant_TW": "Central Abaco",
         "zu": "Central Abaco",
-        "zu_ZA": "Central Abaco",
-        "sr@latin": "Centralni Abako",
-        "tt@iqtelif": "Central Abaco"
+        "zu_ZA": "Central Abaco"
     },
     "CS": {
         "af": "Central Andros",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Central Andros",
         "sq_XK": "Central Andros",
         "sr": "Централни Андрос",
+        "sr@latin": "Centralni Andros",
         "sr_Cyrl": "Централни Андрос",
         "sr_Cyrl_BA": "Централни Андрос",
         "sr_Cyrl_ME": "Централни Андрос",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Merkez Andros",
         "tr_TR": "Merkez Andros",
         "tt": "Central Andros",
+        "tt@iqtelif": "Central Andros",
         "tt_RU": "Central Andros",
         "twq": "Central Andros",
         "twq_NE": "Central Andros",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Central Andros",
         "zh_Hant_TW": "Central Andros",
         "zu": "Central Andros",
-        "zu_ZA": "Central Andros",
-        "sr@latin": "Centralni Andros",
-        "tt@iqtelif": "Central Andros"
+        "zu_ZA": "Central Andros"
     },
     "EG": {
         "af": "East Grand Bahama",
@@ -8708,6 +8708,7 @@
         "sq_MK": "East Grand Bahama",
         "sq_XK": "East Grand Bahama",
         "sr": "Источни велики Бахама",
+        "sr@latin": "Istočni veliki Bahama",
         "sr_Cyrl": "Источни велики Бахама",
         "sr_Cyrl_BA": "Источни велики Бахама",
         "sr_Cyrl_ME": "Источни велики Бахама",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Doğu Grand Bahama",
         "tr_TR": "Doğu Grand Bahama",
         "tt": "East Grand Bahama",
+        "tt@iqtelif": "East Grand Bahama",
         "tt_RU": "East Grand Bahama",
         "twq": "East Grand Bahama",
         "twq_NE": "East Grand Bahama",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "East Grand Bahama",
         "zh_Hant_TW": "East Grand Bahama",
         "zu": "East Grand Bahama",
-        "zu_ZA": "East Grand Bahama",
-        "sr@latin": "Istočni veliki Bahama",
-        "tt@iqtelif": "East Grand Bahama"
+        "zu_ZA": "East Grand Bahama"
     },
     "EX": {
         "af": "Exuma",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Exuma",
         "sq_XK": "Exuma",
         "sr": "Ексума",
+        "sr@latin": "Eksuma",
         "sr_Cyrl": "Ексума",
         "sr_Cyrl_BA": "Ексума",
         "sr_Cyrl_ME": "Ексума",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Exuma",
         "tr_TR": "Exuma",
         "tt": "Exuma",
+        "tt@iqtelif": "Exuma",
         "tt_RU": "Exuma",
         "twq": "Exuma",
         "twq_NE": "Exuma",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Exuma",
         "zh_Hant_TW": "Exuma",
         "zu": "Exuma",
-        "zu_ZA": "Exuma",
-        "sr@latin": "Eksuma",
-        "tt@iqtelif": "Exuma"
+        "zu_ZA": "Exuma"
     },
     "FP": {
         "af": "City of Freeport",
@@ -10478,6 +10478,7 @@
         "sq_MK": "City of Freeport",
         "sq_XK": "City of Freeport",
         "sr": "Фрипорт",
+        "sr@latin": "Friport",
         "sr_Cyrl": "Фрипорт",
         "sr_Cyrl_BA": "Фрипорт",
         "sr_Cyrl_ME": "Фрипорт",
@@ -10538,6 +10539,7 @@
         "tr_CY": "City of Freeport",
         "tr_TR": "City of Freeport",
         "tt": "City of Freeport",
+        "tt@iqtelif": "City of Freeport",
         "tt_RU": "City of Freeport",
         "twq": "City of Freeport",
         "twq_NE": "City of Freeport",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "City of Freeport",
         "zh_Hant_TW": "City of Freeport",
         "zu": "City of Freeport",
-        "zu_ZA": "City of Freeport",
-        "sr@latin": "Friport",
-        "tt@iqtelif": "City of Freeport"
+        "zu_ZA": "City of Freeport"
     },
     "GC": {
         "af": "Grand Cay",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Grand Cay",
         "sq_XK": "Grand Cay",
         "sr": "Гренд Кеј",
+        "sr@latin": "Grend Kej",
         "sr_Cyrl": "Гренд Кеј",
         "sr_Cyrl_BA": "Гренд Кеј",
         "sr_Cyrl_ME": "Гренд Кеј",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Grand Cay",
         "tr_TR": "Grand Cay",
         "tt": "Grand Cay",
+        "tt@iqtelif": "Grand Cay",
         "tt_RU": "Grand Cay",
         "twq": "Grand Cay",
         "twq_NE": "Grand Cay",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Grand Cay",
         "zh_Hant_TW": "Grand Cay",
         "zu": "Grand Cay",
-        "zu_ZA": "Grand Cay",
-        "sr@latin": "Grend Kej",
-        "tt@iqtelif": "Grand Cay"
+        "zu_ZA": "Grand Cay"
     },
     "HI": {
         "af": "Harbour Island",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Harbour Island",
         "sq_XK": "Harbour Island",
         "sr": "Харбурско острво",
+        "sr@latin": "Harbursko ostrvo",
         "sr_Cyrl": "Харбурско острво",
         "sr_Cyrl_BA": "Харбурско острво",
         "sr_Cyrl_ME": "Харбурско острво",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Harbour Adası",
         "tr_TR": "Harbour Adası",
         "tt": "Harbour Island",
+        "tt@iqtelif": "Harbour Island",
         "tt_RU": "Harbour Island",
         "twq": "Harbour Island",
         "twq_NE": "Harbour Island",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Harbour Island",
         "zh_Hant_TW": "Harbour Island",
         "zu": "Harbour Island",
-        "zu_ZA": "Harbour Island",
-        "sr@latin": "Harbursko ostrvo",
-        "tt@iqtelif": "Harbour Island"
+        "zu_ZA": "Harbour Island"
     },
     "HT": {
         "af": "Hope Town",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Hope Town",
         "sq_XK": "Hope Town",
         "sr": "Хоуптаун",
+        "sr@latin": "Houptaun",
         "sr_Cyrl": "Хоуптаун",
         "sr_Cyrl_BA": "Хоуптаун",
         "sr_Cyrl_ME": "Хоуптаун",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Hope Town",
         "tr_TR": "Hope Town",
         "tt": "Hope Town",
+        "tt@iqtelif": "Hope Town",
         "tt_RU": "Hope Town",
         "twq": "Hope Town",
         "twq_NE": "Hope Town",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Hope Town",
         "zh_Hant_TW": "Hope Town",
         "zu": "Hope Town",
-        "zu_ZA": "Hope Town",
-        "sr@latin": "Houptaun",
-        "tt@iqtelif": "Hope Town"
+        "zu_ZA": "Hope Town"
     },
     "IN": {
         "af": "Inagua",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Inagua",
         "sq_XK": "Inagua",
         "sr": "Инагва",
+        "sr@latin": "Inagva",
         "sr_Cyrl": "Инагва",
         "sr_Cyrl_BA": "Инагва",
         "sr_Cyrl_ME": "Инагва",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Inagua",
         "tr_TR": "Inagua",
         "tt": "Inagua",
+        "tt@iqtelif": "Inagua",
         "tt_RU": "Inagua",
         "twq": "Inagua",
         "twq_NE": "Inagua",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Inagua",
         "zh_Hant_TW": "Inagua",
         "zu": "Inagua",
-        "zu_ZA": "Inagua",
-        "sr@latin": "Inagva",
-        "tt@iqtelif": "Inagua"
+        "zu_ZA": "Inagua"
     },
     "LI": {
         "af": "Long Island",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Long Island",
         "sq_XK": "Long Island",
         "sr": "Лонг Ајланд",
+        "sr@latin": "Long Ajland",
         "sr_Cyrl": "Лонг Ајланд",
         "sr_Cyrl_BA": "Лонг Ајланд",
         "sr_Cyrl_ME": "Лонг Ајланд",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Long Island",
         "tr_TR": "Long Island",
         "tt": "Long Island",
+        "tt@iqtelif": "Long Island",
         "tt_RU": "Long Island",
         "twq": "Long Island",
         "twq_NE": "Long Island",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Long Island",
         "zh_Hant_TW": "Long Island",
         "zu": "Long Island",
-        "zu_ZA": "Long Island",
-        "sr@latin": "Long Ajland",
-        "tt@iqtelif": "Long Island"
+        "zu_ZA": "Long Island"
     },
     "MC": {
         "af": "Mangrove Cay",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Mangrove Cay",
         "sq_XK": "Mangrove Cay",
         "sr": "Мангрув Кеј",
+        "sr@latin": "Mangruv Kej",
         "sr_Cyrl": "Мангрув Кеј",
         "sr_Cyrl_BA": "Мангрув Кеј",
         "sr_Cyrl_ME": "Мангрув Кеј",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Mangrove Cay",
         "tr_TR": "Mangrove Cay",
         "tt": "Mangrove Cay",
+        "tt@iqtelif": "Mangrove Cay",
         "tt_RU": "Mangrove Cay",
         "twq": "Mangrove Cay",
         "twq_NE": "Mangrove Cay",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Mangrove Cay",
         "zh_Hant_TW": "Mangrove Cay",
         "zu": "Mangrove Cay",
-        "zu_ZA": "Mangrove Cay",
-        "sr@latin": "Mangruv Kej",
-        "tt@iqtelif": "Mangrove Cay"
+        "zu_ZA": "Mangrove Cay"
     },
     "MG": {
         "af": "Mayaguana",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Mayaguana",
         "sq_XK": "Mayaguana",
         "sr": "Мајагвана",
+        "sr@latin": "Majagvana",
         "sr_Cyrl": "Мајагвана",
         "sr_Cyrl_BA": "Мајагвана",
         "sr_Cyrl_ME": "Мајагвана",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Mayaguana",
         "tr_TR": "Mayaguana",
         "tt": "Mayaguana",
+        "tt@iqtelif": "Mayaguana",
         "tt_RU": "Mayaguana",
         "twq": "Mayaguana",
         "twq_NE": "Mayaguana",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Mayaguana",
         "zh_Hant_TW": "Mayaguana",
         "zu": "Mayaguana",
-        "zu_ZA": "Mayaguana",
-        "sr@latin": "Majagvana",
-        "tt@iqtelif": "Mayaguana"
+        "zu_ZA": "Mayaguana"
     },
     "MI": {
         "af": "Moore's Island",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Moore's Island",
         "sq_XK": "Moore's Island",
         "sr": "Мурово острво",
+        "sr@latin": "Murovo ostrvo",
         "sr_Cyrl": "Мурово острво",
         "sr_Cyrl_BA": "Мурово острво",
         "sr_Cyrl_ME": "Мурово острво",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Moore Adası",
         "tr_TR": "Moore Adası",
         "tt": "Moore's Island",
+        "tt@iqtelif": "Moore's Island",
         "tt_RU": "Moore's Island",
         "twq": "Moore's Island",
         "twq_NE": "Moore's Island",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Moore's Island",
         "zh_Hant_TW": "Moore's Island",
         "zu": "Moore's Island",
-        "zu_ZA": "Moore's Island",
-        "sr@latin": "Murovo ostrvo",
-        "tt@iqtelif": "Moore's Island"
+        "zu_ZA": "Moore's Island"
     },
     "NE": {
         "af": "North Eleuthera",
@@ -18443,6 +18443,7 @@
         "sq_MK": "North Eleuthera",
         "sq_XK": "North Eleuthera",
         "sr": "Норд Елејтера",
+        "sr@latin": "Nord Elejtera",
         "sr_Cyrl": "Норд Елејтера",
         "sr_Cyrl_BA": "Норд Елејтера",
         "sr_Cyrl_ME": "Норд Елејтера",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Kuzey Eleuthera",
         "tr_TR": "Kuzey Eleuthera",
         "tt": "North Eleuthera",
+        "tt@iqtelif": "North Eleuthera",
         "tt_RU": "North Eleuthera",
         "twq": "North Eleuthera",
         "twq_NE": "North Eleuthera",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "North Eleuthera",
         "zh_Hant_TW": "North Eleuthera",
         "zu": "North Eleuthera",
-        "zu_ZA": "North Eleuthera",
-        "sr@latin": "Nord Elejtera",
-        "tt@iqtelif": "North Eleuthera"
+        "zu_ZA": "North Eleuthera"
     },
     "NO": {
         "af": "North Abaco",
@@ -19328,6 +19328,7 @@
         "sq_MK": "North Abaco",
         "sq_XK": "North Abaco",
         "sr": "Норд Абако",
+        "sr@latin": "Nord Abako",
         "sr_Cyrl": "Норд Абако",
         "sr_Cyrl_BA": "Норд Абако",
         "sr_Cyrl_ME": "Норд Абако",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Kuzey Abaco",
         "tr_TR": "Kuzey Abaco",
         "tt": "North Abaco",
+        "tt@iqtelif": "North Abaco",
         "tt_RU": "North Abaco",
         "twq": "North Abaco",
         "twq_NE": "North Abaco",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "North Abaco",
         "zh_Hant_TW": "North Abaco",
         "zu": "North Abaco",
-        "zu_ZA": "North Abaco",
-        "sr@latin": "Nord Abako",
-        "tt@iqtelif": "North Abaco"
+        "zu_ZA": "North Abaco"
     },
     "NP": {
         "af": "New Providence",
@@ -20213,6 +20213,7 @@
         "sq_MK": "New Providence",
         "sq_XK": "New Providence",
         "sr": "New Providence",
+        "sr@latin": "New Providence",
         "sr_Cyrl": "New Providence",
         "sr_Cyrl_BA": "New Providence",
         "sr_Cyrl_ME": "New Providence",
@@ -20273,6 +20274,7 @@
         "tr_CY": "New Providence",
         "tr_TR": "New Providence",
         "tt": "New Providence",
+        "tt@iqtelif": "New Providence",
         "tt_RU": "New Providence",
         "twq": "New Providence",
         "twq_NE": "New Providence",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "New Providence",
         "zh_Hant_TW": "New Providence",
         "zu": "New Providence",
-        "zu_ZA": "New Providence",
-        "sr@latin": "New Providence",
-        "tt@iqtelif": "New Providence"
+        "zu_ZA": "New Providence"
     },
     "NS": {
         "af": "North Andros",
@@ -21098,6 +21098,7 @@
         "sq_MK": "North Andros",
         "sq_XK": "North Andros",
         "sr": "Норд Андрос",
+        "sr@latin": "Nord Andros",
         "sr_Cyrl": "Норд Андрос",
         "sr_Cyrl_BA": "Норд Андрос",
         "sr_Cyrl_ME": "Норд Андрос",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Kuzey Andros",
         "tr_TR": "Kuzey Andros",
         "tt": "North Andros",
+        "tt@iqtelif": "North Andros",
         "tt_RU": "North Andros",
         "twq": "North Andros",
         "twq_NE": "North Andros",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "North Andros",
         "zh_Hant_TW": "North Andros",
         "zu": "North Andros",
-        "zu_ZA": "North Andros",
-        "sr@latin": "Nord Andros",
-        "tt@iqtelif": "North Andros"
+        "zu_ZA": "North Andros"
     },
     "RC": {
         "af": "Rum Cay",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Rum Cay",
         "sq_XK": "Rum Cay",
         "sr": "Рум Кеј",
+        "sr@latin": "Rum Kej",
         "sr_Cyrl": "Рум Кеј",
         "sr_Cyrl_BA": "Рум Кеј",
         "sr_Cyrl_ME": "Рум Кеј",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Rum Cay",
         "tr_TR": "Rum Cay",
         "tt": "Rum Cay",
+        "tt@iqtelif": "Rum Cay",
         "tt_RU": "Rum Cay",
         "twq": "Rum Cay",
         "twq_NE": "Rum Cay",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Rum Cay",
         "zh_Hant_TW": "Rum Cay",
         "zu": "Rum Cay",
-        "zu_ZA": "Rum Cay",
-        "sr@latin": "Rum Kej",
-        "tt@iqtelif": "Rum Cay"
+        "zu_ZA": "Rum Cay"
     },
     "RI": {
         "af": "Ragged Island",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Ragged Island",
         "sq_XK": "Ragged Island",
         "sr": "Рејџед острво",
+        "sr@latin": "Rejdžed ostrvo",
         "sr_Cyrl": "Рејџед острво",
         "sr_Cyrl_BA": "Рејџед острво",
         "sr_Cyrl_ME": "Рејџед острво",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Ragged Adası",
         "tr_TR": "Ragged Adası",
         "tt": "Ragged Island",
+        "tt@iqtelif": "Ragged Island",
         "tt_RU": "Ragged Island",
         "twq": "Ragged Island",
         "twq_NE": "Ragged Island",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Ragged Island",
         "zh_Hant_TW": "Ragged Island",
         "zu": "Ragged Island",
-        "zu_ZA": "Ragged Island",
-        "sr@latin": "Rejdžed ostrvo",
-        "tt@iqtelif": "Ragged Island"
+        "zu_ZA": "Ragged Island"
     },
     "SA": {
         "af": "South Andros",
@@ -23753,6 +23753,7 @@
         "sq_MK": "South Andros",
         "sq_XK": "South Andros",
         "sr": "Јужни Андрос",
+        "sr@latin": "Južni Andros",
         "sr_Cyrl": "Јужни Андрос",
         "sr_Cyrl_BA": "Јужни Андрос",
         "sr_Cyrl_ME": "Јужни Андрос",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Güney Andros",
         "tr_TR": "Güney Andros",
         "tt": "South Andros",
+        "tt@iqtelif": "South Andros",
         "tt_RU": "South Andros",
         "twq": "South Andros",
         "twq_NE": "South Andros",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "South Andros",
         "zh_Hant_TW": "South Andros",
         "zu": "South Andros",
-        "zu_ZA": "South Andros",
-        "sr@latin": "Južni Andros",
-        "tt@iqtelif": "South Andros"
+        "zu_ZA": "South Andros"
     },
     "SE": {
         "af": "South Eleuthera",
@@ -24638,6 +24638,7 @@
         "sq_MK": "South Eleuthera",
         "sq_XK": "South Eleuthera",
         "sr": "Јужна Елејтера",
+        "sr@latin": "Južna Elejtera",
         "sr_Cyrl": "Јужна Елејтера",
         "sr_Cyrl_BA": "Јужна Елејтера",
         "sr_Cyrl_ME": "Јужна Елејтера",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Güney Eleuthera",
         "tr_TR": "Güney Eleuthera",
         "tt": "South Eleuthera",
+        "tt@iqtelif": "South Eleuthera",
         "tt_RU": "South Eleuthera",
         "twq": "South Eleuthera",
         "twq_NE": "South Eleuthera",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "South Eleuthera",
         "zh_Hant_TW": "South Eleuthera",
         "zu": "South Eleuthera",
-        "zu_ZA": "South Eleuthera",
-        "sr@latin": "Južna Elejtera",
-        "tt@iqtelif": "South Eleuthera"
+        "zu_ZA": "South Eleuthera"
     },
     "SO": {
         "af": "South Abaco",
@@ -25523,6 +25523,7 @@
         "sq_MK": "South Abaco",
         "sq_XK": "South Abaco",
         "sr": "Јужни Абако",
+        "sr@latin": "Južni Abako",
         "sr_Cyrl": "Јужни Абако",
         "sr_Cyrl_BA": "Јужни Абако",
         "sr_Cyrl_ME": "Јужни Абако",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Güney Abaco",
         "tr_TR": "Güney Abaco",
         "tt": "South Abaco",
+        "tt@iqtelif": "South Abaco",
         "tt_RU": "South Abaco",
         "twq": "South Abaco",
         "twq_NE": "South Abaco",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "South Abaco",
         "zh_Hant_TW": "South Abaco",
         "zu": "South Abaco",
-        "zu_ZA": "South Abaco",
-        "sr@latin": "Južni Abako",
-        "tt@iqtelif": "South Abaco"
+        "zu_ZA": "South Abaco"
     },
     "SS": {
         "af": "San Salvador",
@@ -26408,6 +26408,7 @@
         "sq_MK": "San Salvador",
         "sq_XK": "San Salvador",
         "sr": "Сан Салвадор",
+        "sr@latin": "San Salvador",
         "sr_Cyrl": "Сан Салвадор",
         "sr_Cyrl_BA": "Сан Салвадор",
         "sr_Cyrl_ME": "Сан Салвадор",
@@ -26468,6 +26469,7 @@
         "tr_CY": "San Salvador",
         "tr_TR": "San Salvador",
         "tt": "San Salvador",
+        "tt@iqtelif": "San Salvador",
         "tt_RU": "San Salvador",
         "twq": "San Salvador",
         "twq_NE": "San Salvador",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "San Salvador",
         "zh_Hant_TW": "San Salvador",
         "zu": "San Salvador",
-        "zu_ZA": "San Salvador",
-        "sr@latin": "San Salvador",
-        "tt@iqtelif": "San Salvador"
+        "zu_ZA": "San Salvador"
     },
     "SW": {
         "af": "Spanish Wells",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Spanish Wells",
         "sq_XK": "Spanish Wells",
         "sr": "Шпански Велс",
+        "sr@latin": "Španski Vels",
         "sr_Cyrl": "Шпански Велс",
         "sr_Cyrl_BA": "Шпански Велс",
         "sr_Cyrl_ME": "Шпански Велс",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Spanish Wells",
         "tr_TR": "Spanish Wells",
         "tt": "Spanish Wells",
+        "tt@iqtelif": "Spanish Wells",
         "tt_RU": "Spanish Wells",
         "twq": "Spanish Wells",
         "twq_NE": "Spanish Wells",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Spanish Wells",
         "zh_Hant_TW": "Spanish Wells",
         "zu": "Spanish Wells",
-        "zu_ZA": "Spanish Wells",
-        "sr@latin": "Španski Vels",
-        "tt@iqtelif": "Spanish Wells"
+        "zu_ZA": "Spanish Wells"
     },
     "WG": {
         "af": "West Grand Bahama",
@@ -28178,6 +28178,7 @@
         "sq_MK": "West Grand Bahama",
         "sq_XK": "West Grand Bahama",
         "sr": "Западни велики Бахама",
+        "sr@latin": "Zapadni veliki Bahama",
         "sr_Cyrl": "Западни велики Бахама",
         "sr_Cyrl_BA": "Западни велики Бахама",
         "sr_Cyrl_ME": "Западни велики Бахама",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Batı Grand Bahama",
         "tr_TR": "Batı Grand Bahama",
         "tt": "West Grand Bahama",
+        "tt@iqtelif": "West Grand Bahama",
         "tt_RU": "West Grand Bahama",
         "twq": "West Grand Bahama",
         "twq_NE": "West Grand Bahama",
@@ -28315,8 +28317,6 @@
         "zh_Hant_MY": "West Grand Bahama",
         "zh_Hant_TW": "West Grand Bahama",
         "zu": "West Grand Bahama",
-        "zu_ZA": "West Grand Bahama",
-        "sr@latin": "Zapadni veliki Bahama",
-        "tt@iqtelif": "West Grand Bahama"
+        "zu_ZA": "West Grand Bahama"
     }
 }

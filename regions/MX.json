@@ -743,6 +743,7 @@
         "sq_MK": "Aguascalientes",
         "sq_XK": "Aguascalientes",
         "sr": "Агваскалиентес",
+        "sr@latin": "Agvaskalientes",
         "sr_Cyrl": "Агваскалиентес",
         "sr_Cyrl_BA": "Агваскалиентес",
         "sr_Cyrl_ME": "Агваскалиентес",
@@ -803,6 +804,7 @@
         "tr_CY": "Aguascalientes",
         "tr_TR": "Aguascalientes",
         "tt": "Aguascalientes",
+        "tt@iqtelif": "Aguascalientes",
         "tt_RU": "Aguascalientes",
         "twq": "Aguascalientes",
         "twq_NE": "Aguascalientes",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aguascalientes",
         "zh_Hant_TW": "Aguascalientes",
         "zu": "Aguascalientes",
-        "zu_ZA": "Aguascalientes",
-        "sr@latin": "Agvaskalientes",
-        "tt@iqtelif": "Aguascalientes"
+        "zu_ZA": "Aguascalientes"
     },
     "BCN": {
         "af": "Baja California",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Baja California",
         "sq_XK": "Baja California",
         "sr": "Баха Калифорнија",
+        "sr@latin": "Baha Kalifornija",
         "sr_Cyrl": "Баха Калифорнија",
         "sr_Cyrl_BA": "Баха Калифорнија",
         "sr_Cyrl_ME": "Баха Калифорнија",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Baja California",
         "tr_TR": "Baja California",
         "tt": "Baja California",
+        "tt@iqtelif": "Baja California",
         "tt_RU": "Baja California",
         "twq": "Baja California",
         "twq_NE": "Baja California",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Baja California",
         "zh_Hant_TW": "Baja California",
         "zu": "Baja California",
-        "zu_ZA": "Baja California",
-        "sr@latin": "Baha Kalifornija",
-        "tt@iqtelif": "Baja California"
+        "zu_ZA": "Baja California"
     },
     "BCS": {
         "af": "Baja California Sur",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Baja California Sur",
         "sq_XK": "Baja California Sur",
         "sr": "Баха Калифорнија Сур",
+        "sr@latin": "Baha Kalifornija Sur",
         "sr_Cyrl": "Баха Калифорнија Сур",
         "sr_Cyrl_BA": "Баха Калифорнија Сур",
         "sr_Cyrl_ME": "Баха Калифорнија Сур",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Baja California Sur",
         "tr_TR": "Baja California Sur",
         "tt": "Baja California Sur",
+        "tt@iqtelif": "Baja California Sur",
         "tt_RU": "Baja California Sur",
         "twq": "Baja California Sur",
         "twq_NE": "Baja California Sur",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Baja California Sur",
         "zh_Hant_TW": "Baja California Sur",
         "zu": "Baja California Sur",
-        "zu_ZA": "Baja California Sur",
-        "sr@latin": "Baha Kalifornija Sur",
-        "tt@iqtelif": "Baja California Sur"
+        "zu_ZA": "Baja California Sur"
     },
     "CAM": {
         "af": "Campeche",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Campeche",
         "sq_XK": "Campeche",
         "sr": "Кампече",
+        "sr@latin": "Kampeče",
         "sr_Cyrl": "Кампече",
         "sr_Cyrl_BA": "Кампече",
         "sr_Cyrl_ME": "Кампече",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Campeche",
         "tr_TR": "Campeche",
         "tt": "Campeche",
+        "tt@iqtelif": "Campeche",
         "tt_RU": "Campeche",
         "twq": "Campeche",
         "twq_NE": "Campeche",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Campeche",
         "zh_Hant_TW": "Campeche",
         "zu": "Campeche",
-        "zu_ZA": "Campeche",
-        "sr@latin": "Kampeče",
-        "tt@iqtelif": "Campeche"
+        "zu_ZA": "Campeche"
     },
     "CHH": {
         "af": "Chihuahua",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Chihuahua",
         "sq_XK": "Chihuahua",
         "sr": "Чиуауа",
+        "sr@latin": "Čiuaua",
         "sr_Cyrl": "Чиуауа",
         "sr_Cyrl_BA": "Чиуауа",
         "sr_Cyrl_ME": "Чиуауа",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Chihuahua",
         "tr_TR": "Chihuahua",
         "tt": "Chihuahua",
+        "tt@iqtelif": "Chihuahua",
         "tt_RU": "Chihuahua",
         "twq": "Chihuahua",
         "twq_NE": "Chihuahua",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Chihuahua",
         "zh_Hant_TW": "Chihuahua",
         "zu": "Chihuahua",
-        "zu_ZA": "Chihuahua",
-        "sr@latin": "Čiuaua",
-        "tt@iqtelif": "Chihuahua"
+        "zu_ZA": "Chihuahua"
     },
     "CHP": {
         "af": "Chiapas",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Chiapas",
         "sq_XK": "Chiapas",
         "sr": "Кјапас",
+        "sr@latin": "Kjapas",
         "sr_Cyrl": "Кјапас",
         "sr_Cyrl_BA": "Кјапас",
         "sr_Cyrl_ME": "Кјапас",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Chiapas",
         "tr_TR": "Chiapas",
         "tt": "Chiapas",
+        "tt@iqtelif": "Chiapas",
         "tt_RU": "Chiapas",
         "twq": "Chiapas",
         "twq_NE": "Chiapas",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Chiapas",
         "zh_Hant_TW": "Chiapas",
         "zu": "Chiapas",
-        "zu_ZA": "Chiapas",
-        "sr@latin": "Kjapas",
-        "tt@iqtelif": "Chiapas"
+        "zu_ZA": "Chiapas"
     },
     "CMX": {
         "af": "Ciudad de México",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Ciudad de México",
         "sq_XK": "Ciudad de México",
         "sr": "Ciudad de México",
+        "sr@latin": "Ciudad de México",
         "sr_Cyrl": "Ciudad de México",
         "sr_Cyrl_BA": "Ciudad de México",
         "sr_Cyrl_ME": "Ciudad de México",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Ciudad de México",
         "tr_TR": "Ciudad de México",
         "tt": "Ciudad de México",
+        "tt@iqtelif": "Ciudad de México",
         "tt_RU": "Ciudad de México",
         "twq": "Ciudad de México",
         "twq_NE": "Ciudad de México",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Ciudad de México",
         "zh_Hant_TW": "Ciudad de México",
         "zu": "Ciudad de México",
-        "zu_ZA": "Ciudad de México",
-        "sr@latin": "Ciudad de México",
-        "tt@iqtelif": "Ciudad de México"
+        "zu_ZA": "Ciudad de México"
     },
     "COA": {
         "af": "Coahuila de Zaragoza",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Coahuila de Zaragoza",
         "sq_XK": "Coahuila de Zaragoza",
         "sr": "Coahuila de Zaragoza",
+        "sr@latin": "Coahuila de Zaragoza",
         "sr_Cyrl": "Coahuila de Zaragoza",
         "sr_Cyrl_BA": "Coahuila de Zaragoza",
         "sr_Cyrl_ME": "Coahuila de Zaragoza",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Coahuila de Zaragoza",
         "tr_TR": "Coahuila de Zaragoza",
         "tt": "Coahuila de Zaragoza",
+        "tt@iqtelif": "Coahuila de Zaragoza",
         "tt_RU": "Coahuila de Zaragoza",
         "twq": "Coahuila de Zaragoza",
         "twq_NE": "Coahuila de Zaragoza",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Coahuila de Zaragoza",
         "zh_Hant_TW": "Coahuila de Zaragoza",
         "zu": "Coahuila de Zaragoza",
-        "zu_ZA": "Coahuila de Zaragoza",
-        "sr@latin": "Coahuila de Zaragoza",
-        "tt@iqtelif": "Coahuila de Zaragoza"
+        "zu_ZA": "Coahuila de Zaragoza"
     },
     "COL": {
         "af": "Colima",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Colima",
         "sq_XK": "Colima",
         "sr": "Колима",
+        "sr@latin": "Kolima",
         "sr_Cyrl": "Колима",
         "sr_Cyrl_BA": "Колима",
         "sr_Cyrl_ME": "Колима",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Colima",
         "tr_TR": "Colima",
         "tt": "Colima",
+        "tt@iqtelif": "Colima",
         "tt_RU": "Colima",
         "twq": "Colima",
         "twq_NE": "Colima",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Colima",
         "zh_Hant_TW": "Colima",
         "zu": "Colima",
-        "zu_ZA": "Colima",
-        "sr@latin": "Kolima",
-        "tt@iqtelif": "Colima"
+        "zu_ZA": "Colima"
     },
     "DUR": {
         "af": "Durango",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Durango",
         "sq_XK": "Durango",
         "sr": "Дуранго",
+        "sr@latin": "Durango",
         "sr_Cyrl": "Дуранго",
         "sr_Cyrl_BA": "Дуранго",
         "sr_Cyrl_ME": "Дуранго",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Durango",
         "tr_TR": "Durango",
         "tt": "Durango",
+        "tt@iqtelif": "Durango",
         "tt_RU": "Durango",
         "twq": "Durango",
         "twq_NE": "Durango",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Durango",
         "zh_Hant_TW": "Durango",
         "zu": "Durango",
-        "zu_ZA": "Durango",
-        "sr@latin": "Durango",
-        "tt@iqtelif": "Durango"
+        "zu_ZA": "Durango"
     },
     "GRO": {
         "af": "Guerrero",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Guerrero",
         "sq_XK": "Guerrero",
         "sr": "Гвереро",
+        "sr@latin": "Gverero",
         "sr_Cyrl": "Гвереро",
         "sr_Cyrl_BA": "Гвереро",
         "sr_Cyrl_ME": "Гвереро",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Guerrero",
         "tr_TR": "Guerrero",
         "tt": "Guerrero",
+        "tt@iqtelif": "Guerrero",
         "tt_RU": "Guerrero",
         "twq": "Guerrero",
         "twq_NE": "Guerrero",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Guerrero",
         "zh_Hant_TW": "Guerrero",
         "zu": "Guerrero",
-        "zu_ZA": "Guerrero",
-        "sr@latin": "Gverero",
-        "tt@iqtelif": "Guerrero"
+        "zu_ZA": "Guerrero"
     },
     "GUA": {
         "af": "Guanajuato",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Guanajuato",
         "sq_XK": "Guanajuato",
         "sr": "Гванахуато",
+        "sr@latin": "Gvanahuato",
         "sr_Cyrl": "Гванахуато",
         "sr_Cyrl_BA": "Гванахуато",
         "sr_Cyrl_ME": "Гванахуато",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Guanajuato",
         "tr_TR": "Guanajuato",
         "tt": "Guanajuato",
+        "tt@iqtelif": "Guanajuato",
         "tt_RU": "Guanajuato",
         "twq": "Guanajuato",
         "twq_NE": "Guanajuato",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Guanajuato",
         "zh_Hant_TW": "Guanajuato",
         "zu": "Guanajuato",
-        "zu_ZA": "Guanajuato",
-        "sr@latin": "Gvanahuato",
-        "tt@iqtelif": "Guanajuato"
+        "zu_ZA": "Guanajuato"
     },
     "HID": {
         "af": "Hidalgo",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Hidalgo",
         "sq_XK": "Hidalgo",
         "sr": "Хидалго",
+        "sr@latin": "Hidalgo",
         "sr_Cyrl": "Хидалго",
         "sr_Cyrl_BA": "Хидалго",
         "sr_Cyrl_ME": "Хидалго",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Hidalgo",
         "tr_TR": "Hidalgo",
         "tt": "Hidalgo",
+        "tt@iqtelif": "Hidalgo",
         "tt_RU": "Hidalgo",
         "twq": "Hidalgo",
         "twq_NE": "Hidalgo",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Hidalgo",
         "zh_Hant_TW": "Hidalgo",
         "zu": "Hidalgo",
-        "zu_ZA": "Hidalgo",
-        "sr@latin": "Hidalgo",
-        "tt@iqtelif": "Hidalgo"
+        "zu_ZA": "Hidalgo"
     },
     "JAL": {
         "af": "Jalisco",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Jalisco",
         "sq_XK": "Jalisco",
         "sr": "Халиско",
+        "sr@latin": "Halisko",
         "sr_Cyrl": "Халиско",
         "sr_Cyrl_BA": "Халиско",
         "sr_Cyrl_ME": "Халиско",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Jalisco",
         "tr_TR": "Jalisco",
         "tt": "Jalisco",
+        "tt@iqtelif": "Jalisco",
         "tt_RU": "Jalisco",
         "twq": "Jalisco",
         "twq_NE": "Jalisco",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Jalisco",
         "zh_Hant_TW": "Jalisco",
         "zu": "Jalisco",
-        "zu_ZA": "Jalisco",
-        "sr@latin": "Halisko",
-        "tt@iqtelif": "Jalisco"
+        "zu_ZA": "Jalisco"
     },
     "MEX": {
         "af": "México",
@@ -13133,6 +13133,7 @@
         "sq_MK": "México",
         "sq_XK": "México",
         "sr": "Мексико",
+        "sr@latin": "Meksiko",
         "sr_Cyrl": "Мексико",
         "sr_Cyrl_BA": "Мексико",
         "sr_Cyrl_ME": "Мексико",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Mexico",
         "tr_TR": "Mexico",
         "tt": "México",
+        "tt@iqtelif": "México",
         "tt_RU": "México",
         "twq": "México",
         "twq_NE": "México",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "México",
         "zh_Hant_TW": "México",
         "zu": "México",
-        "zu_ZA": "México",
-        "sr@latin": "Meksiko",
-        "tt@iqtelif": "México"
+        "zu_ZA": "México"
     },
     "MIC": {
         "af": "Michoacán de Ocampo",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Michoacán de Ocampo",
         "sq_XK": "Michoacán de Ocampo",
         "sr": "Michoacán de Ocampo",
+        "sr@latin": "Michoacán de Ocampo",
         "sr_Cyrl": "Michoacán de Ocampo",
         "sr_Cyrl_BA": "Michoacán de Ocampo",
         "sr_Cyrl_ME": "Michoacán de Ocampo",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Michoacan de Ocampo",
         "tr_TR": "Michoacan de Ocampo",
         "tt": "Michoacán de Ocampo",
+        "tt@iqtelif": "Michoacán de Ocampo",
         "tt_RU": "Michoacán de Ocampo",
         "twq": "Michoacán de Ocampo",
         "twq_NE": "Michoacán de Ocampo",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Michoacán de Ocampo",
         "zh_Hant_TW": "Michoacán de Ocampo",
         "zu": "Michoacán de Ocampo",
-        "zu_ZA": "Michoacán de Ocampo",
-        "sr@latin": "Michoacán de Ocampo",
-        "tt@iqtelif": "Michoacán de Ocampo"
+        "zu_ZA": "Michoacán de Ocampo"
     },
     "MOR": {
         "af": "Morelos",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Morelos",
         "sq_XK": "Morelos",
         "sr": "Морелос",
+        "sr@latin": "Morelos",
         "sr_Cyrl": "Морелос",
         "sr_Cyrl_BA": "Морелос",
         "sr_Cyrl_ME": "Морелос",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Morelos",
         "tr_TR": "Morelos",
         "tt": "Morelos",
+        "tt@iqtelif": "Morelos",
         "tt_RU": "Morelos",
         "twq": "Morelos",
         "twq_NE": "Morelos",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Morelos",
         "zh_Hant_TW": "Morelos",
         "zu": "Morelos",
-        "zu_ZA": "Morelos",
-        "sr@latin": "Morelos",
-        "tt@iqtelif": "Morelos"
+        "zu_ZA": "Morelos"
     },
     "NAY": {
         "af": "Nayarit",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Nayarit",
         "sq_XK": "Nayarit",
         "sr": "Нијарит",
+        "sr@latin": "Nijarit",
         "sr_Cyrl": "Нијарит",
         "sr_Cyrl_BA": "Нијарит",
         "sr_Cyrl_ME": "Нијарит",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Nayarit",
         "tr_TR": "Nayarit",
         "tt": "Nayarit",
+        "tt@iqtelif": "Nayarit",
         "tt_RU": "Nayarit",
         "twq": "Nayarit",
         "twq_NE": "Nayarit",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Nayarit",
         "zh_Hant_TW": "Nayarit",
         "zu": "Nayarit",
-        "zu_ZA": "Nayarit",
-        "sr@latin": "Nijarit",
-        "tt@iqtelif": "Nayarit"
+        "zu_ZA": "Nayarit"
     },
     "NLE": {
         "af": "Nuevo León",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Nuevo León",
         "sq_XK": "Nuevo León",
         "sr": "Нуево Леон",
+        "sr@latin": "Nuevo Leon",
         "sr_Cyrl": "Нуево Леон",
         "sr_Cyrl_BA": "Нуево Леон",
         "sr_Cyrl_ME": "Нуево Леон",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Nuevo Leon",
         "tr_TR": "Nuevo Leon",
         "tt": "Nuevo León",
+        "tt@iqtelif": "Nuevo León",
         "tt_RU": "Nuevo León",
         "twq": "Nuevo León",
         "twq_NE": "Nuevo León",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Nuevo León",
         "zh_Hant_TW": "Nuevo León",
         "zu": "Nuevo León",
-        "zu_ZA": "Nuevo León",
-        "sr@latin": "Nuevo Leon",
-        "tt@iqtelif": "Nuevo León"
+        "zu_ZA": "Nuevo León"
     },
     "OAX": {
         "af": "Oaxaca",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Oaxaca",
         "sq_XK": "Oaxaca",
         "sr": "Оаксака",
+        "sr@latin": "Oaksaka",
         "sr_Cyrl": "Оаксака",
         "sr_Cyrl_BA": "Оаксака",
         "sr_Cyrl_ME": "Оаксака",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Oaxaca",
         "tr_TR": "Oaxaca",
         "tt": "Oaxaca",
+        "tt@iqtelif": "Oaxaca",
         "tt_RU": "Oaxaca",
         "twq": "Oaxaca",
         "twq_NE": "Oaxaca",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Oaxaca",
         "zh_Hant_TW": "Oaxaca",
         "zu": "Oaxaca",
-        "zu_ZA": "Oaxaca",
-        "sr@latin": "Oaksaka",
-        "tt@iqtelif": "Oaxaca"
+        "zu_ZA": "Oaxaca"
     },
     "PUE": {
         "af": "Puebla",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Puebla",
         "sq_XK": "Puebla",
         "sr": "Пуебла",
+        "sr@latin": "Puebla",
         "sr_Cyrl": "Пуебла",
         "sr_Cyrl_BA": "Пуебла",
         "sr_Cyrl_ME": "Пуебла",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Puebla",
         "tr_TR": "Puebla",
         "tt": "Puebla",
+        "tt@iqtelif": "Puebla",
         "tt_RU": "Puebla",
         "twq": "Puebla",
         "twq_NE": "Puebla",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Puebla",
         "zh_Hant_TW": "Puebla",
         "zu": "Puebla",
-        "zu_ZA": "Puebla",
-        "sr@latin": "Puebla",
-        "tt@iqtelif": "Puebla"
+        "zu_ZA": "Puebla"
     },
     "QUE": {
         "af": "Querétaro",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Querétaro",
         "sq_XK": "Querétaro",
         "sr": "Кверетаро",
+        "sr@latin": "Kveretaro",
         "sr_Cyrl": "Кверетаро",
         "sr_Cyrl_BA": "Кверетаро",
         "sr_Cyrl_ME": "Кверетаро",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Querétaro",
         "tr_TR": "Querétaro",
         "tt": "Querétaro",
+        "tt@iqtelif": "Querétaro",
         "tt_RU": "Querétaro",
         "twq": "Querétaro",
         "twq_NE": "Querétaro",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Querétaro",
         "zh_Hant_TW": "Querétaro",
         "zu": "Querétaro",
-        "zu_ZA": "Querétaro",
-        "sr@latin": "Kveretaro",
-        "tt@iqtelif": "Querétaro"
+        "zu_ZA": "Querétaro"
     },
     "ROO": {
         "af": "Quintana Roo",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Quintana Roo",
         "sq_XK": "Quintana Roo",
         "sr": "Квинтана Ру",
+        "sr@latin": "Kvintana Ru",
         "sr_Cyrl": "Квинтана Ру",
         "sr_Cyrl_BA": "Квинтана Ру",
         "sr_Cyrl_ME": "Квинтана Ру",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Quintana Roo",
         "tr_TR": "Quintana Roo",
         "tt": "Quintana Roo",
+        "tt@iqtelif": "Quintana Roo",
         "tt_RU": "Quintana Roo",
         "twq": "Quintana Roo",
         "twq_NE": "Quintana Roo",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Quintana Roo",
         "zh_Hant_TW": "Quintana Roo",
         "zu": "Quintana Roo",
-        "zu_ZA": "Quintana Roo",
-        "sr@latin": "Kvintana Ru",
-        "tt@iqtelif": "Quintana Roo"
+        "zu_ZA": "Quintana Roo"
     },
     "SIN": {
         "af": "Sinaloa",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Sinaloa",
         "sq_XK": "Sinaloa",
         "sr": "Синалоа",
+        "sr@latin": "Sinaloa",
         "sr_Cyrl": "Синалоа",
         "sr_Cyrl_BA": "Синалоа",
         "sr_Cyrl_ME": "Синалоа",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Sinaloa",
         "tr_TR": "Sinaloa",
         "tt": "Sinaloa",
+        "tt@iqtelif": "Sinaloa",
         "tt_RU": "Sinaloa",
         "twq": "Sinaloa",
         "twq_NE": "Sinaloa",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Sinaloa",
         "zh_Hant_TW": "Sinaloa",
         "zu": "Sinaloa",
-        "zu_ZA": "Sinaloa",
-        "sr@latin": "Sinaloa",
-        "tt@iqtelif": "Sinaloa"
+        "zu_ZA": "Sinaloa"
     },
     "SLP": {
         "af": "San Luis Potosí",
@@ -21983,6 +21983,7 @@
         "sq_MK": "San Luis Potosí",
         "sq_XK": "San Luis Potosí",
         "sr": "Сан Луис Потоси",
+        "sr@latin": "San Luis Potosi",
         "sr_Cyrl": "Сан Луис Потоси",
         "sr_Cyrl_BA": "Сан Луис Потоси",
         "sr_Cyrl_ME": "Сан Луис Потоси",
@@ -22043,6 +22044,7 @@
         "tr_CY": "San Luis Potosi",
         "tr_TR": "San Luis Potosi",
         "tt": "San Luis Potosí",
+        "tt@iqtelif": "San Luis Potosí",
         "tt_RU": "San Luis Potosí",
         "twq": "San Luis Potosí",
         "twq_NE": "San Luis Potosí",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "San Luis Potosí",
         "zh_Hant_TW": "San Luis Potosí",
         "zu": "San Luis Potosí",
-        "zu_ZA": "San Luis Potosí",
-        "sr@latin": "San Luis Potosi",
-        "tt@iqtelif": "San Luis Potosí"
+        "zu_ZA": "San Luis Potosí"
     },
     "SON": {
         "af": "Sonora",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Sonora",
         "sq_XK": "Sonora",
         "sr": "Сонора",
+        "sr@latin": "Sonora",
         "sr_Cyrl": "Сонора",
         "sr_Cyrl_BA": "Сонора",
         "sr_Cyrl_ME": "Сонора",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Sonora",
         "tr_TR": "Sonora",
         "tt": "Sonora",
+        "tt@iqtelif": "Sonora",
         "tt_RU": "Sonora",
         "twq": "Sonora",
         "twq_NE": "Sonora",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Sonora",
         "zh_Hant_TW": "Sonora",
         "zu": "Sonora",
-        "zu_ZA": "Sonora",
-        "sr@latin": "Sonora",
-        "tt@iqtelif": "Sonora"
+        "zu_ZA": "Sonora"
     },
     "TAB": {
         "af": "Tabasco",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Tabasco",
         "sq_XK": "Tabasco",
         "sr": "Табаско",
+        "sr@latin": "Tabasko",
         "sr_Cyrl": "Табаско",
         "sr_Cyrl_BA": "Табаско",
         "sr_Cyrl_ME": "Табаско",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Tabasco",
         "tr_TR": "Tabasco",
         "tt": "Tabasco",
+        "tt@iqtelif": "Tabasco",
         "tt_RU": "Tabasco",
         "twq": "Tabasco",
         "twq_NE": "Tabasco",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Tabasco",
         "zh_Hant_TW": "Tabasco",
         "zu": "Tabasco",
-        "zu_ZA": "Tabasco",
-        "sr@latin": "Tabasko",
-        "tt@iqtelif": "Tabasco"
+        "zu_ZA": "Tabasco"
     },
     "TAM": {
         "af": "Tamaulipas",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Tamaulipas",
         "sq_XK": "Tamaulipas",
         "sr": "Тамаулипас",
+        "sr@latin": "Tamaulipas",
         "sr_Cyrl": "Тамаулипас",
         "sr_Cyrl_BA": "Тамаулипас",
         "sr_Cyrl_ME": "Тамаулипас",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Tamaulipas",
         "tr_TR": "Tamaulipas",
         "tt": "Tamaulipas",
+        "tt@iqtelif": "Tamaulipas",
         "tt_RU": "Tamaulipas",
         "twq": "Tamaulipas",
         "twq_NE": "Tamaulipas",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Tamaulipas",
         "zh_Hant_TW": "Tamaulipas",
         "zu": "Tamaulipas",
-        "zu_ZA": "Tamaulipas",
-        "sr@latin": "Tamaulipas",
-        "tt@iqtelif": "Tamaulipas"
+        "zu_ZA": "Tamaulipas"
     },
     "TLA": {
         "af": "Tlaxcala",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Tlaxcala",
         "sq_XK": "Tlaxcala",
         "sr": "Тлакскала",
+        "sr@latin": "Tlakskala",
         "sr_Cyrl": "Тлакскала",
         "sr_Cyrl_BA": "Тлакскала",
         "sr_Cyrl_ME": "Тлакскала",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Tlaxcala",
         "tr_TR": "Tlaxcala",
         "tt": "Tlaxcala",
+        "tt@iqtelif": "Tlaxcala",
         "tt_RU": "Tlaxcala",
         "twq": "Tlaxcala",
         "twq_NE": "Tlaxcala",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Tlaxcala",
         "zh_Hant_TW": "Tlaxcala",
         "zu": "Tlaxcala",
-        "zu_ZA": "Tlaxcala",
-        "sr@latin": "Tlakskala",
-        "tt@iqtelif": "Tlaxcala"
+        "zu_ZA": "Tlaxcala"
     },
     "VER": {
         "af": "Veracruz de Ignacio de la Llave",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Veracruz de Ignacio de la Llave",
         "sq_XK": "Veracruz de Ignacio de la Llave",
         "sr": "Veracruz de Ignacio de la Llave",
+        "sr@latin": "Veracruz de Ignacio de la Llave",
         "sr_Cyrl": "Veracruz de Ignacio de la Llave",
         "sr_Cyrl_BA": "Veracruz de Ignacio de la Llave",
         "sr_Cyrl_ME": "Veracruz de Ignacio de la Llave",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Veracruz de Ignacio de la Llave",
         "tr_TR": "Veracruz de Ignacio de la Llave",
         "tt": "Veracruz de Ignacio de la Llave",
+        "tt@iqtelif": "Veracruz de Ignacio de la Llave",
         "tt_RU": "Veracruz de Ignacio de la Llave",
         "twq": "Veracruz de Ignacio de la Llave",
         "twq_NE": "Veracruz de Ignacio de la Llave",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Veracruz de Ignacio de la Llave",
         "zh_Hant_TW": "Veracruz de Ignacio de la Llave",
         "zu": "Veracruz de Ignacio de la Llave",
-        "zu_ZA": "Veracruz de Ignacio de la Llave",
-        "sr@latin": "Veracruz de Ignacio de la Llave",
-        "tt@iqtelif": "Veracruz de Ignacio de la Llave"
+        "zu_ZA": "Veracruz de Ignacio de la Llave"
     },
     "YUC": {
         "af": "Yucatán",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Yucatán",
         "sq_XK": "Yucatán",
         "sr": "Јукатан",
+        "sr@latin": "Jukatan",
         "sr_Cyrl": "Јукатан",
         "sr_Cyrl_BA": "Јукатан",
         "sr_Cyrl_ME": "Јукатан",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Yucatan",
         "tr_TR": "Yucatan",
         "tt": "Yucatán",
+        "tt@iqtelif": "Yucatán",
         "tt_RU": "Yucatán",
         "twq": "Yucatán",
         "twq_NE": "Yucatán",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Yucatán",
         "zh_Hant_TW": "Yucatán",
         "zu": "Yucatán",
-        "zu_ZA": "Yucatán",
-        "sr@latin": "Jukatan",
-        "tt@iqtelif": "Yucatán"
+        "zu_ZA": "Yucatán"
     },
     "ZAC": {
         "af": "Zacatecas",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Zacatecas",
         "sq_XK": "Zacatecas",
         "sr": "Закатекас",
+        "sr@latin": "Zakatekas",
         "sr_Cyrl": "Закатекас",
         "sr_Cyrl_BA": "Закатекас",
         "sr_Cyrl_ME": "Закатекас",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Zacatecas",
         "tr_TR": "Zacatecas",
         "tt": "Zacatecas",
+        "tt@iqtelif": "Zacatecas",
         "tt_RU": "Zacatecas",
         "twq": "Zacatecas",
         "twq_NE": "Zacatecas",
@@ -28315,8 +28317,6 @@
         "zh_Hant_MY": "Zacatecas",
         "zh_Hant_TW": "Zacatecas",
         "zu": "Zacatecas",
-        "zu_ZA": "Zacatecas",
-        "sr@latin": "Zakatekas",
-        "tt@iqtelif": "Zacatecas"
+        "zu_ZA": "Zacatecas"
     }
 }

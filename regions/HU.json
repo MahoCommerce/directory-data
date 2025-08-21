@@ -743,6 +743,7 @@
         "sq_MK": "Baranya",
         "sq_XK": "Baranya",
         "sr": "Бараниа",
+        "sr@latin": "Barania",
         "sr_Cyrl": "Бараниа",
         "sr_Cyrl_BA": "Бараниа",
         "sr_Cyrl_ME": "Бараниа",
@@ -803,6 +804,7 @@
         "tr_CY": "Baranya",
         "tr_TR": "Baranya",
         "tt": "Baranya",
+        "tt@iqtelif": "Baranya",
         "tt_RU": "Baranya",
         "twq": "Baranya",
         "twq_NE": "Baranya",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Baranya",
         "zh_Hant_TW": "Baranya",
         "zu": "Baranya",
-        "zu_ZA": "Baranya",
-        "sr@latin": "Barania",
-        "tt@iqtelif": "Baranya"
+        "zu_ZA": "Baranya"
     },
     "BC": {
         "af": "Békéscsaba",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Békéscsaba",
         "sq_XK": "Békéscsaba",
         "sr": "Бекешсаба",
+        "sr@latin": "Bekešsaba",
         "sr_Cyrl": "Бекешсаба",
         "sr_Cyrl_BA": "Бекешсаба",
         "sr_Cyrl_ME": "Бекешсаба",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Békéscsaba",
         "tr_TR": "Békéscsaba",
         "tt": "Békéscsaba",
+        "tt@iqtelif": "Békéscsaba",
         "tt_RU": "Békéscsaba",
         "twq": "Békéscsaba",
         "twq_NE": "Békéscsaba",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Békéscsaba",
         "zh_Hant_TW": "Békéscsaba",
         "zu": "Békéscsaba",
-        "zu_ZA": "Békéscsaba",
-        "sr@latin": "Bekešsaba",
-        "tt@iqtelif": "Békéscsaba"
+        "zu_ZA": "Békéscsaba"
     },
     "BE": {
         "af": "Békés",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Békés",
         "sq_XK": "Békés",
         "sr": "Бекеш",
+        "sr@latin": "Bekeš",
         "sr_Cyrl": "Бекеш",
         "sr_Cyrl_BA": "Бекеш",
         "sr_Cyrl_ME": "Бекеш",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Békés",
         "tr_TR": "Békés",
         "tt": "Békés",
+        "tt@iqtelif": "Békés",
         "tt_RU": "Békés",
         "twq": "Békés",
         "twq_NE": "Békés",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Békés",
         "zh_Hant_TW": "Békés",
         "zu": "Békés",
-        "zu_ZA": "Békés",
-        "sr@latin": "Bekeš",
-        "tt@iqtelif": "Békés"
+        "zu_ZA": "Békés"
     },
     "BK": {
         "af": "Bács-Kiskun",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Bács-Kiskun",
         "sq_XK": "Bács-Kiskun",
         "sr": "Бакс-Кискун",
+        "sr@latin": "Baks-Kiskun",
         "sr_Cyrl": "Бакс-Кискун",
         "sr_Cyrl_BA": "Бакс-Кискун",
         "sr_Cyrl_ME": "Бакс-Кискун",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Bács-Kiskun",
         "tr_TR": "Bács-Kiskun",
         "tt": "Bács-Kiskun",
+        "tt@iqtelif": "Bács-Kiskun",
         "tt_RU": "Bács-Kiskun",
         "twq": "Bács-Kiskun",
         "twq_NE": "Bács-Kiskun",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Bács-Kiskun",
         "zh_Hant_TW": "Bács-Kiskun",
         "zu": "Bács-Kiskun",
-        "zu_ZA": "Bács-Kiskun",
-        "sr@latin": "Baks-Kiskun",
-        "tt@iqtelif": "Bács-Kiskun"
+        "zu_ZA": "Bács-Kiskun"
     },
     "BU": {
         "af": "Budapest",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Budapest",
         "sq_XK": "Budapest",
         "sr": "Будимпешта",
+        "sr@latin": "Budimpešta",
         "sr_Cyrl": "Будимпешта",
         "sr_Cyrl_BA": "Будимпешта",
         "sr_Cyrl_ME": "Будимпешта",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Budapest",
         "tr_TR": "Budapest",
         "tt": "Budapest",
+        "tt@iqtelif": "Budapest",
         "tt_RU": "Budapest",
         "twq": "Budapest",
         "twq_NE": "Budapest",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Budapest",
         "zh_Hant_TW": "Budapest",
         "zu": "Budapest",
-        "zu_ZA": "Budapest",
-        "sr@latin": "Budimpešta",
-        "tt@iqtelif": "Budapest"
+        "zu_ZA": "Budapest"
     },
     "BZ": {
         "af": "Borsod-Abaúj-Zemplén",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Borsod-Abaúj-Zemplén",
         "sq_XK": "Borsod-Abaúj-Zemplén",
         "sr": "Борсод-Абауј-Земплен",
+        "sr@latin": "Borsod-Abauj-Zemplen",
         "sr_Cyrl": "Борсод-Абауј-Земплен",
         "sr_Cyrl_BA": "Борсод-Абауј-Земплен",
         "sr_Cyrl_ME": "Борсод-Абауј-Земплен",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Borsod-Abaúj-Zemplén",
         "tr_TR": "Borsod-Abaúj-Zemplén",
         "tt": "Borsod-Abaúj-Zemplén",
+        "tt@iqtelif": "Borsod-Abaúj-Zemplén",
         "tt_RU": "Borsod-Abaúj-Zemplén",
         "twq": "Borsod-Abaúj-Zemplén",
         "twq_NE": "Borsod-Abaúj-Zemplén",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Borsod-Abaúj-Zemplén",
         "zh_Hant_TW": "Borsod-Abaúj-Zemplén",
         "zu": "Borsod-Abaúj-Zemplén",
-        "zu_ZA": "Borsod-Abaúj-Zemplén",
-        "sr@latin": "Borsod-Abauj-Zemplen",
-        "tt@iqtelif": "Borsod-Abaúj-Zemplén"
+        "zu_ZA": "Borsod-Abaúj-Zemplén"
     },
     "CS": {
         "af": "Csongrád-Csanád",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Csongrád-Csanád",
         "sq_XK": "Csongrád-Csanád",
         "sr": "Csongrád-Csanád",
+        "sr@latin": "Csongrád-Csanád",
         "sr_Cyrl": "Csongrád-Csanád",
         "sr_Cyrl_BA": "Csongrád-Csanád",
         "sr_Cyrl_ME": "Csongrád-Csanád",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Csongrád-Csanád",
         "tr_TR": "Csongrád-Csanád",
         "tt": "Csongrád-Csanád",
+        "tt@iqtelif": "Csongrád-Csanád",
         "tt_RU": "Csongrád-Csanád",
         "twq": "Csongrád-Csanád",
         "twq_NE": "Csongrád-Csanád",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Csongrád-Csanád",
         "zh_Hant_TW": "Csongrád-Csanád",
         "zu": "Csongrád-Csanád",
-        "zu_ZA": "Csongrád-Csanád",
-        "sr@latin": "Csongrád-Csanád",
-        "tt@iqtelif": "Csongrád-Csanád"
+        "zu_ZA": "Csongrád-Csanád"
     },
     "DE": {
         "af": "Debrecen",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Debrecen",
         "sq_XK": "Debrecen",
         "sr": "Дебрецен",
+        "sr@latin": "Debrecen",
         "sr_Cyrl": "Дебрецен",
         "sr_Cyrl_BA": "Дебрецен",
         "sr_Cyrl_ME": "Дебрецен",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Debrecen",
         "tr_TR": "Debrecen",
         "tt": "Debrecen",
+        "tt@iqtelif": "Debrecen",
         "tt_RU": "Debrecen",
         "twq": "Debrecen",
         "twq_NE": "Debrecen",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Debrecen",
         "zh_Hant_TW": "Debrecen",
         "zu": "Debrecen",
-        "zu_ZA": "Debrecen",
-        "sr@latin": "Debrecen",
-        "tt@iqtelif": "Debrecen"
+        "zu_ZA": "Debrecen"
     },
     "DU": {
         "af": "Dunaújváros",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Dunaújváros",
         "sq_XK": "Dunaújváros",
         "sr": "Дунавјварош",
+        "sr@latin": "Dunavjvaroš",
         "sr_Cyrl": "Дунавјварош",
         "sr_Cyrl_BA": "Дунавјварош",
         "sr_Cyrl_ME": "Дунавјварош",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Dunaújváros",
         "tr_TR": "Dunaújváros",
         "tt": "Dunaújváros",
+        "tt@iqtelif": "Dunaújváros",
         "tt_RU": "Dunaújváros",
         "twq": "Dunaújváros",
         "twq_NE": "Dunaújváros",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Dunaújváros",
         "zh_Hant_TW": "Dunaújváros",
         "zu": "Dunaújváros",
-        "zu_ZA": "Dunaújváros",
-        "sr@latin": "Dunavjvaroš",
-        "tt@iqtelif": "Dunaújváros"
+        "zu_ZA": "Dunaújváros"
     },
     "EG": {
         "af": "Eger",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Eger",
         "sq_XK": "Eger",
         "sr": "Егер",
+        "sr@latin": "Eger",
         "sr_Cyrl": "Егер",
         "sr_Cyrl_BA": "Егер",
         "sr_Cyrl_ME": "Егер",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Eger",
         "tr_TR": "Eger",
         "tt": "Eger",
+        "tt@iqtelif": "Eger",
         "tt_RU": "Eger",
         "twq": "Eger",
         "twq_NE": "Eger",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Eger",
         "zh_Hant_TW": "Eger",
         "zu": "Eger",
-        "zu_ZA": "Eger",
-        "sr@latin": "Eger",
-        "tt@iqtelif": "Eger"
+        "zu_ZA": "Eger"
     },
     "ER": {
         "af": "Érd",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Érd",
         "sq_XK": "Érd",
         "sr": "Ерд",
+        "sr@latin": "Erd",
         "sr_Cyrl": "Ерд",
         "sr_Cyrl_BA": "Ерд",
         "sr_Cyrl_ME": "Ерд",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Erd",
         "tr_TR": "Erd",
         "tt": "Érd",
+        "tt@iqtelif": "Érd",
         "tt_RU": "Érd",
         "twq": "Érd",
         "twq_NE": "Érd",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Érd",
         "zh_Hant_TW": "Érd",
         "zu": "Érd",
-        "zu_ZA": "Érd",
-        "sr@latin": "Erd",
-        "tt@iqtelif": "Érd"
+        "zu_ZA": "Érd"
     },
     "FE": {
         "af": "Fejér",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Fejér",
         "sq_XK": "Fejér",
         "sr": "Феџер",
+        "sr@latin": "Fedžer",
         "sr_Cyrl": "Феџер",
         "sr_Cyrl_BA": "Феџер",
         "sr_Cyrl_ME": "Феџер",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Fejér",
         "tr_TR": "Fejér",
         "tt": "Fejér",
+        "tt@iqtelif": "Fejér",
         "tt_RU": "Fejér",
         "twq": "Fejér",
         "twq_NE": "Fejér",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Fejér",
         "zh_Hant_TW": "Fejér",
         "zu": "Fejér",
-        "zu_ZA": "Fejér",
-        "sr@latin": "Fedžer",
-        "tt@iqtelif": "Fejér"
+        "zu_ZA": "Fejér"
     },
     "GS": {
         "af": "Győr-Moson-Sopron",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Győr-Moson-Sopron",
         "sq_XK": "Győr-Moson-Sopron",
         "sr": "Győr-Moson-Sopron",
+        "sr@latin": "Győr-Moson-Sopron",
         "sr_Cyrl": "Győr-Moson-Sopron",
         "sr_Cyrl_BA": "Győr-Moson-Sopron",
         "sr_Cyrl_ME": "Győr-Moson-Sopron",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Győr-Moson-Sopron",
         "tr_TR": "Győr-Moson-Sopron",
         "tt": "Győr-Moson-Sopron",
+        "tt@iqtelif": "Győr-Moson-Sopron",
         "tt_RU": "Győr-Moson-Sopron",
         "twq": "Győr-Moson-Sopron",
         "twq_NE": "Győr-Moson-Sopron",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Győr-Moson-Sopron",
         "zh_Hant_TW": "Győr-Moson-Sopron",
         "zu": "Győr-Moson-Sopron",
-        "zu_ZA": "Győr-Moson-Sopron",
-        "sr@latin": "Győr-Moson-Sopron",
-        "tt@iqtelif": "Győr-Moson-Sopron"
+        "zu_ZA": "Győr-Moson-Sopron"
     },
     "GY": {
         "af": "Győr",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Győr",
         "sq_XK": "Győr",
         "sr": "Győr",
+        "sr@latin": "Győr",
         "sr_Cyrl": "Győr",
         "sr_Cyrl_BA": "Győr",
         "sr_Cyrl_ME": "Győr",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Győr",
         "tr_TR": "Győr",
         "tt": "Győr",
+        "tt@iqtelif": "Győr",
         "tt_RU": "Győr",
         "twq": "Győr",
         "twq_NE": "Győr",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Győr",
         "zh_Hant_TW": "Győr",
         "zu": "Győr",
-        "zu_ZA": "Győr",
-        "sr@latin": "Győr",
-        "tt@iqtelif": "Győr"
+        "zu_ZA": "Győr"
     },
     "HB": {
         "af": "Hajdú-Bihar",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Hajdú-Bihar",
         "sq_XK": "Hajdú-Bihar",
         "sr": "Хајду-Бихар",
+        "sr@latin": "Hajdu-Bihar",
         "sr_Cyrl": "Хајду-Бихар",
         "sr_Cyrl_BA": "Хајду-Бихар",
         "sr_Cyrl_ME": "Хајду-Бихар",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Hajdu-Bihar",
         "tr_TR": "Hajdu-Bihar",
         "tt": "Hajdú-Bihar",
+        "tt@iqtelif": "Hajdú-Bihar",
         "tt_RU": "Hajdú-Bihar",
         "twq": "Hajdú-Bihar",
         "twq_NE": "Hajdú-Bihar",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Hajdú-Bihar",
         "zh_Hant_TW": "Hajdú-Bihar",
         "zu": "Hajdú-Bihar",
-        "zu_ZA": "Hajdú-Bihar",
-        "sr@latin": "Hajdu-Bihar",
-        "tt@iqtelif": "Hajdú-Bihar"
+        "zu_ZA": "Hajdú-Bihar"
     },
     "HE": {
         "af": "Heves",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Heves",
         "sq_XK": "Heves",
         "sr": "Хевеш",
+        "sr@latin": "Heveš",
         "sr_Cyrl": "Хевеш",
         "sr_Cyrl_BA": "Хевеш",
         "sr_Cyrl_ME": "Хевеш",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Heves",
         "tr_TR": "Heves",
         "tt": "Heves",
+        "tt@iqtelif": "Heves",
         "tt_RU": "Heves",
         "twq": "Heves",
         "twq_NE": "Heves",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Heves",
         "zh_Hant_TW": "Heves",
         "zu": "Heves",
-        "zu_ZA": "Heves",
-        "sr@latin": "Heveš",
-        "tt@iqtelif": "Heves"
+        "zu_ZA": "Heves"
     },
     "HV": {
         "af": "Hódmezővásárhely",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Hódmezővásárhely",
         "sq_XK": "Hódmezővásárhely",
         "sr": "Hódmezővásárhely",
+        "sr@latin": "Hódmezővásárhely",
         "sr_Cyrl": "Hódmezővásárhely",
         "sr_Cyrl_BA": "Hódmezővásárhely",
         "sr_Cyrl_ME": "Hódmezővásárhely",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Hódmezővásárhely",
         "tr_TR": "Hódmezővásárhely",
         "tt": "Hódmezővásárhely",
+        "tt@iqtelif": "Hódmezővásárhely",
         "tt_RU": "Hódmezővásárhely",
         "twq": "Hódmezővásárhely",
         "twq_NE": "Hódmezővásárhely",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Hódmezővásárhely",
         "zh_Hant_TW": "Hódmezővásárhely",
         "zu": "Hódmezővásárhely",
-        "zu_ZA": "Hódmezővásárhely",
-        "sr@latin": "Hódmezővásárhely",
-        "tt@iqtelif": "Hódmezővásárhely"
+        "zu_ZA": "Hódmezővásárhely"
     },
     "JN": {
         "af": "Jász-Nagykun-Szolnok",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Jász-Nagykun-Szolnok",
         "sq_XK": "Jász-Nagykun-Szolnok",
         "sr": "Jász-Nagykun-Szolnok",
+        "sr@latin": "Jász-Nagykun-Szolnok",
         "sr_Cyrl": "Jász-Nagykun-Szolnok",
         "sr_Cyrl_BA": "Jász-Nagykun-Szolnok",
         "sr_Cyrl_ME": "Jász-Nagykun-Szolnok",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Jász-Nagykun-Szolnok",
         "tr_TR": "Jász-Nagykun-Szolnok",
         "tt": "Jász-Nagykun-Szolnok",
+        "tt@iqtelif": "Jász-Nagykun-Szolnok",
         "tt_RU": "Jász-Nagykun-Szolnok",
         "twq": "Jász-Nagykun-Szolnok",
         "twq_NE": "Jász-Nagykun-Szolnok",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Jász-Nagykun-Szolnok",
         "zh_Hant_TW": "Jász-Nagykun-Szolnok",
         "zu": "Jász-Nagykun-Szolnok",
-        "zu_ZA": "Jász-Nagykun-Szolnok",
-        "sr@latin": "Jász-Nagykun-Szolnok",
-        "tt@iqtelif": "Jász-Nagykun-Szolnok"
+        "zu_ZA": "Jász-Nagykun-Szolnok"
     },
     "KE": {
         "af": "Komárom-Esztergom",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Komárom-Esztergom",
         "sq_XK": "Komárom-Esztergom",
         "sr": "Комаром-Ештергом",
+        "sr@latin": "Komarom-Eštergom",
         "sr_Cyrl": "Комаром-Ештергом",
         "sr_Cyrl_BA": "Комаром-Ештергом",
         "sr_Cyrl_ME": "Комаром-Ештергом",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Komárom-Esztergom",
         "tr_TR": "Komárom-Esztergom",
         "tt": "Komárom-Esztergom",
+        "tt@iqtelif": "Komárom-Esztergom",
         "tt_RU": "Komárom-Esztergom",
         "twq": "Komárom-Esztergom",
         "twq_NE": "Komárom-Esztergom",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Komárom-Esztergom",
         "zh_Hant_TW": "Komárom-Esztergom",
         "zu": "Komárom-Esztergom",
-        "zu_ZA": "Komárom-Esztergom",
-        "sr@latin": "Komarom-Eštergom",
-        "tt@iqtelif": "Komárom-Esztergom"
+        "zu_ZA": "Komárom-Esztergom"
     },
     "KM": {
         "af": "Kecskemét",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Kecskemét",
         "sq_XK": "Kecskemét",
         "sr": "Кечкемет",
+        "sr@latin": "Kečkemet",
         "sr_Cyrl": "Кечкемет",
         "sr_Cyrl_BA": "Кечкемет",
         "sr_Cyrl_ME": "Кечкемет",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Kecskemét",
         "tr_TR": "Kecskemét",
         "tt": "Kecskemét",
+        "tt@iqtelif": "Kecskemét",
         "tt_RU": "Kecskemét",
         "twq": "Kecskemét",
         "twq_NE": "Kecskemét",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Kecskemét",
         "zh_Hant_TW": "Kecskemét",
         "zu": "Kecskemét",
-        "zu_ZA": "Kecskemét",
-        "sr@latin": "Kečkemet",
-        "tt@iqtelif": "Kecskemét"
+        "zu_ZA": "Kecskemét"
     },
     "KV": {
         "af": "Kaposvár",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Kaposvár",
         "sq_XK": "Kaposvár",
         "sr": "Капошвар",
+        "sr@latin": "Kapošvar",
         "sr_Cyrl": "Капошвар",
         "sr_Cyrl_BA": "Капошвар",
         "sr_Cyrl_ME": "Капошвар",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Kaposvár",
         "tr_TR": "Kaposvár",
         "tt": "Kaposvár",
+        "tt@iqtelif": "Kaposvár",
         "tt_RU": "Kaposvár",
         "twq": "Kaposvár",
         "twq_NE": "Kaposvár",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Kaposvár",
         "zh_Hant_TW": "Kaposvár",
         "zu": "Kaposvár",
-        "zu_ZA": "Kaposvár",
-        "sr@latin": "Kapošvar",
-        "tt@iqtelif": "Kaposvár"
+        "zu_ZA": "Kaposvár"
     },
     "MI": {
         "af": "Miskolc",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Miskolc",
         "sq_XK": "Miskolc",
         "sr": "Мишколц",
+        "sr@latin": "Miškolc",
         "sr_Cyrl": "Мишколц",
         "sr_Cyrl_BA": "Мишколц",
         "sr_Cyrl_ME": "Мишколц",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Miskolc",
         "tr_TR": "Miskolc",
         "tt": "Miskolc",
+        "tt@iqtelif": "Miskolc",
         "tt_RU": "Miskolc",
         "twq": "Miskolc",
         "twq_NE": "Miskolc",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Miskolc",
         "zh_Hant_TW": "Miskolc",
         "zu": "Miskolc",
-        "zu_ZA": "Miskolc",
-        "sr@latin": "Miškolc",
-        "tt@iqtelif": "Miskolc"
+        "zu_ZA": "Miskolc"
     },
     "NK": {
         "af": "Nagykanizsa",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Nagykanizsa",
         "sq_XK": "Nagykanizsa",
         "sr": "Nagykanizsa",
+        "sr@latin": "Nagykanizsa",
         "sr_Cyrl": "Nagykanizsa",
         "sr_Cyrl_BA": "Nagykanizsa",
         "sr_Cyrl_ME": "Nagykanizsa",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Nagykanizsa",
         "tr_TR": "Nagykanizsa",
         "tt": "Nagykanizsa",
+        "tt@iqtelif": "Nagykanizsa",
         "tt_RU": "Nagykanizsa",
         "twq": "Nagykanizsa",
         "twq_NE": "Nagykanizsa",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Nagykanizsa",
         "zh_Hant_TW": "Nagykanizsa",
         "zu": "Nagykanizsa",
-        "zu_ZA": "Nagykanizsa",
-        "sr@latin": "Nagykanizsa",
-        "tt@iqtelif": "Nagykanizsa"
+        "zu_ZA": "Nagykanizsa"
     },
     "NO": {
         "af": "Nógrád",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Nógrád",
         "sq_XK": "Nógrád",
         "sr": "Ноград",
+        "sr@latin": "Nograd",
         "sr_Cyrl": "Ноград",
         "sr_Cyrl_BA": "Ноград",
         "sr_Cyrl_ME": "Ноград",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Nograd",
         "tr_TR": "Nograd",
         "tt": "Nógrád",
+        "tt@iqtelif": "Nógrád",
         "tt_RU": "Nógrád",
         "twq": "Nógrád",
         "twq_NE": "Nógrád",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Nógrád",
         "zh_Hant_TW": "Nógrád",
         "zu": "Nógrád",
-        "zu_ZA": "Nógrád",
-        "sr@latin": "Nograd",
-        "tt@iqtelif": "Nógrád"
+        "zu_ZA": "Nógrád"
     },
     "NY": {
         "af": "Nyíregyháza",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Nyíregyháza",
         "sq_XK": "Nyíregyháza",
         "sr": "Nyíregyháza",
+        "sr@latin": "Nyíregyháza",
         "sr_Cyrl": "Nyíregyháza",
         "sr_Cyrl_BA": "Nyíregyháza",
         "sr_Cyrl_ME": "Nyíregyháza",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Nyíregyháza",
         "tr_TR": "Nyíregyháza",
         "tt": "Nyíregyháza",
+        "tt@iqtelif": "Nyíregyháza",
         "tt_RU": "Nyíregyháza",
         "twq": "Nyíregyháza",
         "twq_NE": "Nyíregyháza",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Nyíregyháza",
         "zh_Hant_TW": "Nyíregyháza",
         "zu": "Nyíregyháza",
-        "zu_ZA": "Nyíregyháza",
-        "sr@latin": "Nyíregyháza",
-        "tt@iqtelif": "Nyíregyháza"
+        "zu_ZA": "Nyíregyháza"
     },
     "PE": {
         "af": "Pest",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Pest",
         "sq_XK": "Pest",
         "sr": "Пешта",
+        "sr@latin": "Pešta",
         "sr_Cyrl": "Пешта",
         "sr_Cyrl_BA": "Пешта",
         "sr_Cyrl_ME": "Пешта",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Pest",
         "tr_TR": "Pest",
         "tt": "Pest",
+        "tt@iqtelif": "Pest",
         "tt_RU": "Pest",
         "twq": "Pest",
         "twq_NE": "Pest",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Pest",
         "zh_Hant_TW": "Pest",
         "zu": "Pest",
-        "zu_ZA": "Pest",
-        "sr@latin": "Pešta",
-        "tt@iqtelif": "Pest"
+        "zu_ZA": "Pest"
     },
     "PS": {
         "af": "Pécs",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Pécs",
         "sq_XK": "Pécs",
         "sr": "Печуј",
+        "sr@latin": "Pečuj",
         "sr_Cyrl": "Печуј",
         "sr_Cyrl_BA": "Печуј",
         "sr_Cyrl_ME": "Печуј",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Pécs",
         "tr_TR": "Pécs",
         "tt": "Pécs",
+        "tt@iqtelif": "Pécs",
         "tt_RU": "Pécs",
         "twq": "Pécs",
         "twq_NE": "Pécs",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Pécs",
         "zh_Hant_TW": "Pécs",
         "zu": "Pécs",
-        "zu_ZA": "Pécs",
-        "sr@latin": "Pečuj",
-        "tt@iqtelif": "Pécs"
+        "zu_ZA": "Pécs"
     },
     "SD": {
         "af": "Szeged",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Szeged",
         "sq_XK": "Szeged",
         "sr": "Сегедин",
+        "sr@latin": "Segedin",
         "sr_Cyrl": "Сегедин",
         "sr_Cyrl_BA": "Сегедин",
         "sr_Cyrl_ME": "Сегедин",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Szeged",
         "tr_TR": "Szeged",
         "tt": "Szeged",
+        "tt@iqtelif": "Szeged",
         "tt_RU": "Szeged",
         "twq": "Szeged",
         "twq_NE": "Szeged",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Szeged",
         "zh_Hant_TW": "Szeged",
         "zu": "Szeged",
-        "zu_ZA": "Szeged",
-        "sr@latin": "Segedin",
-        "tt@iqtelif": "Szeged"
+        "zu_ZA": "Szeged"
     },
     "SF": {
         "af": "Székesfehérvár",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Székesfehérvár",
         "sq_XK": "Székesfehérvár",
         "sr": "Секешфехервар",
+        "sr@latin": "Sekešfehervar",
         "sr_Cyrl": "Секешфехервар",
         "sr_Cyrl_BA": "Секешфехервар",
         "sr_Cyrl_ME": "Секешфехервар",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Székesfehérvár",
         "tr_TR": "Székesfehérvár",
         "tt": "Székesfehérvár",
+        "tt@iqtelif": "Székesfehérvár",
         "tt_RU": "Székesfehérvár",
         "twq": "Székesfehérvár",
         "twq_NE": "Székesfehérvár",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Székesfehérvár",
         "zh_Hant_TW": "Székesfehérvár",
         "zu": "Székesfehérvár",
-        "zu_ZA": "Székesfehérvár",
-        "sr@latin": "Sekešfehervar",
-        "tt@iqtelif": "Székesfehérvár"
+        "zu_ZA": "Székesfehérvár"
     },
     "SH": {
         "af": "Szombathely",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Szombathely",
         "sq_XK": "Szombathely",
         "sr": "Szombathely",
+        "sr@latin": "Szombathely",
         "sr_Cyrl": "Szombathely",
         "sr_Cyrl_BA": "Szombathely",
         "sr_Cyrl_ME": "Szombathely",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Szombathely",
         "tr_TR": "Szombathely",
         "tt": "Szombathely",
+        "tt@iqtelif": "Szombathely",
         "tt_RU": "Szombathely",
         "twq": "Szombathely",
         "twq_NE": "Szombathely",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Szombathely",
         "zh_Hant_TW": "Szombathely",
         "zu": "Szombathely",
-        "zu_ZA": "Szombathely",
-        "sr@latin": "Szombathely",
-        "tt@iqtelif": "Szombathely"
+        "zu_ZA": "Szombathely"
     },
     "SK": {
         "af": "Szolnok",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Szolnok",
         "sq_XK": "Szolnok",
         "sr": "Солнок",
+        "sr@latin": "Solnok",
         "sr_Cyrl": "Солнок",
         "sr_Cyrl_BA": "Солнок",
         "sr_Cyrl_ME": "Солнок",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Szolnok",
         "tr_TR": "Szolnok",
         "tt": "Szolnok",
+        "tt@iqtelif": "Szolnok",
         "tt_RU": "Szolnok",
         "twq": "Szolnok",
         "twq_NE": "Szolnok",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Szolnok",
         "zh_Hant_TW": "Szolnok",
         "zu": "Szolnok",
-        "zu_ZA": "Szolnok",
-        "sr@latin": "Solnok",
-        "tt@iqtelif": "Szolnok"
+        "zu_ZA": "Szolnok"
     },
     "SN": {
         "af": "Sopron",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Sopron",
         "sq_XK": "Sopron",
         "sr": "Сопрон",
+        "sr@latin": "Sopron",
         "sr_Cyrl": "Сопрон",
         "sr_Cyrl_BA": "Сопрон",
         "sr_Cyrl_ME": "Сопрон",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Sopron",
         "tr_TR": "Sopron",
         "tt": "Sopron",
+        "tt@iqtelif": "Sopron",
         "tt_RU": "Sopron",
         "twq": "Sopron",
         "twq_NE": "Sopron",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Sopron",
         "zh_Hant_TW": "Sopron",
         "zu": "Sopron",
-        "zu_ZA": "Sopron",
-        "sr@latin": "Sopron",
-        "tt@iqtelif": "Sopron"
+        "zu_ZA": "Sopron"
     },
     "SO": {
         "af": "Somogy",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Somogy",
         "sq_XK": "Somogy",
         "sr": "Сомоги",
+        "sr@latin": "Somogi",
         "sr_Cyrl": "Сомоги",
         "sr_Cyrl_BA": "Сомоги",
         "sr_Cyrl_ME": "Сомоги",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Somogy",
         "tr_TR": "Somogy",
         "tt": "Somogy",
+        "tt@iqtelif": "Somogy",
         "tt_RU": "Somogy",
         "twq": "Somogy",
         "twq_NE": "Somogy",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Somogy",
         "zh_Hant_TW": "Somogy",
         "zu": "Somogy",
-        "zu_ZA": "Somogy",
-        "sr@latin": "Somogi",
-        "tt@iqtelif": "Somogy"
+        "zu_ZA": "Somogy"
     },
     "SS": {
         "af": "Szekszárd",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Szekszárd",
         "sq_XK": "Szekszárd",
         "sr": "Szekszárd",
+        "sr@latin": "Szekszárd",
         "sr_Cyrl": "Szekszárd",
         "sr_Cyrl_BA": "Szekszárd",
         "sr_Cyrl_ME": "Szekszárd",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Szekszárd",
         "tr_TR": "Szekszárd",
         "tt": "Szekszárd",
+        "tt@iqtelif": "Szekszárd",
         "tt_RU": "Szekszárd",
         "twq": "Szekszárd",
         "twq_NE": "Szekszárd",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Szekszárd",
         "zh_Hant_TW": "Szekszárd",
         "zu": "Szekszárd",
-        "zu_ZA": "Szekszárd",
-        "sr@latin": "Szekszárd",
-        "tt@iqtelif": "Szekszárd"
+        "zu_ZA": "Szekszárd"
     },
     "ST": {
         "af": "Salgótarján",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Salgótarján",
         "sq_XK": "Salgótarján",
         "sr": "Salgótarján",
+        "sr@latin": "Salgótarján",
         "sr_Cyrl": "Salgótarján",
         "sr_Cyrl_BA": "Salgótarján",
         "sr_Cyrl_ME": "Salgótarján",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Salgótarján",
         "tr_TR": "Salgótarján",
         "tt": "Salgótarján",
+        "tt@iqtelif": "Salgótarján",
         "tt_RU": "Salgótarján",
         "twq": "Salgótarján",
         "twq_NE": "Salgótarján",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Salgótarján",
         "zh_Hant_TW": "Salgótarján",
         "zu": "Salgótarján",
-        "zu_ZA": "Salgótarján",
-        "sr@latin": "Salgótarján",
-        "tt@iqtelif": "Salgótarján"
+        "zu_ZA": "Salgótarján"
     },
     "SZ": {
         "af": "Szabolcs-Szatmár-Bereg",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Szabolcs-Szatmár-Bereg",
         "sq_XK": "Szabolcs-Szatmár-Bereg",
         "sr": "Szabolcs-Szatmár-Bereg",
+        "sr@latin": "Szabolcs-Szatmár-Bereg",
         "sr_Cyrl": "Szabolcs-Szatmár-Bereg",
         "sr_Cyrl_BA": "Szabolcs-Szatmár-Bereg",
         "sr_Cyrl_ME": "Szabolcs-Szatmár-Bereg",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Szabolcs-Szatmár-Bereg",
         "tr_TR": "Szabolcs-Szatmár-Bereg",
         "tt": "Szabolcs-Szatmár-Bereg",
+        "tt@iqtelif": "Szabolcs-Szatmár-Bereg",
         "tt_RU": "Szabolcs-Szatmár-Bereg",
         "twq": "Szabolcs-Szatmár-Bereg",
         "twq_NE": "Szabolcs-Szatmár-Bereg",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Szabolcs-Szatmár-Bereg",
         "zh_Hant_TW": "Szabolcs-Szatmár-Bereg",
         "zu": "Szabolcs-Szatmár-Bereg",
-        "zu_ZA": "Szabolcs-Szatmár-Bereg",
-        "sr@latin": "Szabolcs-Szatmár-Bereg",
-        "tt@iqtelif": "Szabolcs-Szatmár-Bereg"
+        "zu_ZA": "Szabolcs-Szatmár-Bereg"
     },
     "TB": {
         "af": "Tatabánya",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Tatabánya",
         "sq_XK": "Tatabánya",
         "sr": "Татабанија",
+        "sr@latin": "Tatabanija",
         "sr_Cyrl": "Татабанија",
         "sr_Cyrl_BA": "Татабанија",
         "sr_Cyrl_ME": "Татабанија",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Tatabánya",
         "tr_TR": "Tatabánya",
         "tt": "Tatabánya",
+        "tt@iqtelif": "Tatabánya",
         "tt_RU": "Tatabánya",
         "twq": "Tatabánya",
         "twq_NE": "Tatabánya",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Tatabánya",
         "zh_Hant_TW": "Tatabánya",
         "zu": "Tatabánya",
-        "zu_ZA": "Tatabánya",
-        "sr@latin": "Tatabanija",
-        "tt@iqtelif": "Tatabánya"
+        "zu_ZA": "Tatabánya"
     },
     "TO": {
         "af": "Tolna",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Tolna",
         "sq_XK": "Tolna",
         "sr": "Толна",
+        "sr@latin": "Tolna",
         "sr_Cyrl": "Толна",
         "sr_Cyrl_BA": "Толна",
         "sr_Cyrl_ME": "Толна",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Tolna",
         "tr_TR": "Tolna",
         "tt": "Tolna",
+        "tt@iqtelif": "Tolna",
         "tt_RU": "Tolna",
         "twq": "Tolna",
         "twq_NE": "Tolna",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Tolna",
         "zh_Hant_TW": "Tolna",
         "zu": "Tolna",
-        "zu_ZA": "Tolna",
-        "sr@latin": "Tolna",
-        "tt@iqtelif": "Tolna"
+        "zu_ZA": "Tolna"
     },
     "VA": {
         "af": "Vas",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Vas",
         "sq_XK": "Vas",
         "sr": "Вас",
+        "sr@latin": "Vas",
         "sr_Cyrl": "Вас",
         "sr_Cyrl_BA": "Вас",
         "sr_Cyrl_ME": "Вас",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Vas",
         "tr_TR": "Vas",
         "tt": "Vas",
+        "tt@iqtelif": "Vas",
         "tt_RU": "Vas",
         "twq": "Vas",
         "twq_NE": "Vas",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Vas",
         "zh_Hant_TW": "Vas",
         "zu": "Vas",
-        "zu_ZA": "Vas",
-        "sr@latin": "Vas",
-        "tt@iqtelif": "Vas"
+        "zu_ZA": "Vas"
     },
     "VE": {
         "af": "Veszprém",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Veszprém",
         "sq_XK": "Veszprém",
         "sr": "Вешпрем",
+        "sr@latin": "Vešprem",
         "sr_Cyrl": "Вешпрем",
         "sr_Cyrl_BA": "Вешпрем",
         "sr_Cyrl_ME": "Вешпрем",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Veszprém",
         "tr_TR": "Veszprém",
         "tt": "Veszprém",
+        "tt@iqtelif": "Veszprém",
         "tt_RU": "Veszprém",
         "twq": "Veszprém",
         "twq_NE": "Veszprém",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Veszprém",
         "zh_Hant_TW": "Veszprém",
         "zu": "Veszprém",
-        "zu_ZA": "Veszprém",
-        "sr@latin": "Vešprem",
-        "tt@iqtelif": "Veszprém"
+        "zu_ZA": "Veszprém"
     },
     "VM": {
         "af": "Veszprém",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Veszprém",
         "sq_XK": "Veszprém",
         "sr": "Вешпрем",
+        "sr@latin": "Vešprem",
         "sr_Cyrl": "Вешпрем",
         "sr_Cyrl_BA": "Вешпрем",
         "sr_Cyrl_ME": "Вешпрем",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Veszprém",
         "tr_TR": "Veszprém",
         "tt": "Veszprém",
+        "tt@iqtelif": "Veszprém",
         "tt_RU": "Veszprém",
         "twq": "Veszprém",
         "twq_NE": "Veszprém",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Veszprém",
         "zh_Hant_TW": "Veszprém",
         "zu": "Veszprém",
-        "zu_ZA": "Veszprém",
-        "sr@latin": "Vešprem",
-        "tt@iqtelif": "Veszprém"
+        "zu_ZA": "Veszprém"
     },
     "ZA": {
         "af": "Zala",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Zala",
         "sq_XK": "Zala",
         "sr": "Зала",
+        "sr@latin": "Zala",
         "sr_Cyrl": "Зала",
         "sr_Cyrl_BA": "Зала",
         "sr_Cyrl_ME": "Зала",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Zala",
         "tr_TR": "Zala",
         "tt": "Zala",
+        "tt@iqtelif": "Zala",
         "tt_RU": "Zala",
         "twq": "Zala",
         "twq_NE": "Zala",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Zala",
         "zh_Hant_TW": "Zala",
         "zu": "Zala",
-        "zu_ZA": "Zala",
-        "sr@latin": "Zala",
-        "tt@iqtelif": "Zala"
+        "zu_ZA": "Zala"
     },
     "ZE": {
         "af": "Zalaegerszeg",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Zalaegerszeg",
         "sq_XK": "Zalaegerszeg",
         "sr": "Залаегершег",
+        "sr@latin": "Zalaegeršeg",
         "sr_Cyrl": "Залаегершег",
         "sr_Cyrl_BA": "Залаегершег",
         "sr_Cyrl_ME": "Залаегершег",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Zalaegerszeg",
         "tr_TR": "Zalaegerszeg",
         "tt": "Zalaegerszeg",
+        "tt@iqtelif": "Zalaegerszeg",
         "tt_RU": "Zalaegerszeg",
         "twq": "Zalaegerszeg",
         "twq_NE": "Zalaegerszeg",
@@ -38050,8 +38052,6 @@
         "zh_Hant_MY": "Zalaegerszeg",
         "zh_Hant_TW": "Zalaegerszeg",
         "zu": "Zalaegerszeg",
-        "zu_ZA": "Zalaegerszeg",
-        "sr@latin": "Zalaegeršeg",
-        "tt@iqtelif": "Zalaegerszeg"
+        "zu_ZA": "Zalaegerszeg"
     }
 }

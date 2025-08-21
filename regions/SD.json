@@ -743,6 +743,7 @@
         "sq_MK": "Central Darfur",
         "sq_XK": "Central Darfur",
         "sr": "Central Darfur",
+        "sr@latin": "Central Darfur",
         "sr_Cyrl": "Central Darfur",
         "sr_Cyrl_BA": "Central Darfur",
         "sr_Cyrl_ME": "Central Darfur",
@@ -803,6 +804,7 @@
         "tr_CY": "Central Darfur",
         "tr_TR": "Central Darfur",
         "tt": "Central Darfur",
+        "tt@iqtelif": "Central Darfur",
         "tt_RU": "Central Darfur",
         "twq": "Central Darfur",
         "twq_NE": "Central Darfur",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Central Darfur",
         "zh_Hant_TW": "Central Darfur",
         "zu": "Central Darfur",
-        "zu_ZA": "Central Darfur",
-        "sr@latin": "Central Darfur",
-        "tt@iqtelif": "Central Darfur"
+        "zu_ZA": "Central Darfur"
     },
     "DE": {
         "af": "East Darfur",
@@ -1628,6 +1628,7 @@
         "sq_MK": "East Darfur",
         "sq_XK": "East Darfur",
         "sr": "East Darfur",
+        "sr@latin": "East Darfur",
         "sr_Cyrl": "East Darfur",
         "sr_Cyrl_BA": "East Darfur",
         "sr_Cyrl_ME": "East Darfur",
@@ -1688,6 +1689,7 @@
         "tr_CY": "East Darfur",
         "tr_TR": "East Darfur",
         "tt": "East Darfur",
+        "tt@iqtelif": "East Darfur",
         "tt_RU": "East Darfur",
         "twq": "East Darfur",
         "twq_NE": "East Darfur",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "East Darfur",
         "zh_Hant_TW": "East Darfur",
         "zu": "East Darfur",
-        "zu_ZA": "East Darfur",
-        "sr@latin": "East Darfur",
-        "tt@iqtelif": "East Darfur"
+        "zu_ZA": "East Darfur"
     },
     "DN": {
         "af": "North Darfur",
@@ -2513,6 +2513,7 @@
         "sq_MK": "North Darfur",
         "sq_XK": "North Darfur",
         "sr": "North Darfur",
+        "sr@latin": "North Darfur",
         "sr_Cyrl": "North Darfur",
         "sr_Cyrl_BA": "North Darfur",
         "sr_Cyrl_ME": "North Darfur",
@@ -2573,6 +2574,7 @@
         "tr_CY": "North Darfur",
         "tr_TR": "North Darfur",
         "tt": "North Darfur",
+        "tt@iqtelif": "North Darfur",
         "tt_RU": "North Darfur",
         "twq": "North Darfur",
         "twq_NE": "North Darfur",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "North Darfur",
         "zh_Hant_TW": "North Darfur",
         "zu": "North Darfur",
-        "zu_ZA": "North Darfur",
-        "sr@latin": "North Darfur",
-        "tt@iqtelif": "North Darfur"
+        "zu_ZA": "North Darfur"
     },
     "DS": {
         "af": "South Darfur",
@@ -3398,6 +3398,7 @@
         "sq_MK": "South Darfur",
         "sq_XK": "South Darfur",
         "sr": "South Darfur",
+        "sr@latin": "South Darfur",
         "sr_Cyrl": "South Darfur",
         "sr_Cyrl_BA": "South Darfur",
         "sr_Cyrl_ME": "South Darfur",
@@ -3458,6 +3459,7 @@
         "tr_CY": "South Darfur",
         "tr_TR": "South Darfur",
         "tt": "South Darfur",
+        "tt@iqtelif": "South Darfur",
         "tt_RU": "South Darfur",
         "twq": "South Darfur",
         "twq_NE": "South Darfur",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "South Darfur",
         "zh_Hant_TW": "South Darfur",
         "zu": "South Darfur",
-        "zu_ZA": "South Darfur",
-        "sr@latin": "South Darfur",
-        "tt@iqtelif": "South Darfur"
+        "zu_ZA": "South Darfur"
     },
     "DW": {
         "af": "West Darfur",
@@ -4283,6 +4283,7 @@
         "sq_MK": "West Darfur",
         "sq_XK": "West Darfur",
         "sr": "West Darfur",
+        "sr@latin": "West Darfur",
         "sr_Cyrl": "West Darfur",
         "sr_Cyrl_BA": "West Darfur",
         "sr_Cyrl_ME": "West Darfur",
@@ -4343,6 +4344,7 @@
         "tr_CY": "West Darfur",
         "tr_TR": "West Darfur",
         "tt": "West Darfur",
+        "tt@iqtelif": "West Darfur",
         "tt_RU": "West Darfur",
         "twq": "West Darfur",
         "twq_NE": "West Darfur",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "West Darfur",
         "zh_Hant_TW": "West Darfur",
         "zu": "West Darfur",
-        "zu_ZA": "West Darfur",
-        "sr@latin": "West Darfur",
-        "tt@iqtelif": "West Darfur"
+        "zu_ZA": "West Darfur"
     },
     "GD": {
         "af": "Gedaref",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Gedaref",
         "sq_XK": "Gedaref",
         "sr": "Gedaref",
+        "sr@latin": "Gedaref",
         "sr_Cyrl": "Gedaref",
         "sr_Cyrl_BA": "Gedaref",
         "sr_Cyrl_ME": "Gedaref",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Gedaref",
         "tr_TR": "Gedaref",
         "tt": "Gedaref",
+        "tt@iqtelif": "Gedaref",
         "tt_RU": "Gedaref",
         "twq": "Gedaref",
         "twq_NE": "Gedaref",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Gedaref",
         "zh_Hant_TW": "Gedaref",
         "zu": "Gedaref",
-        "zu_ZA": "Gedaref",
-        "sr@latin": "Gedaref",
-        "tt@iqtelif": "Gedaref"
+        "zu_ZA": "Gedaref"
     },
     "GK": {
         "af": "West Kordofan",
@@ -6053,6 +6053,7 @@
         "sq_MK": "West Kordofan",
         "sq_XK": "West Kordofan",
         "sr": "West Kordofan",
+        "sr@latin": "West Kordofan",
         "sr_Cyrl": "West Kordofan",
         "sr_Cyrl_BA": "West Kordofan",
         "sr_Cyrl_ME": "West Kordofan",
@@ -6113,6 +6114,7 @@
         "tr_CY": "West Kordofan",
         "tr_TR": "West Kordofan",
         "tt": "West Kordofan",
+        "tt@iqtelif": "West Kordofan",
         "tt_RU": "West Kordofan",
         "twq": "West Kordofan",
         "twq_NE": "West Kordofan",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "West Kordofan",
         "zh_Hant_TW": "West Kordofan",
         "zu": "West Kordofan",
-        "zu_ZA": "West Kordofan",
-        "sr@latin": "West Kordofan",
-        "tt@iqtelif": "West Kordofan"
+        "zu_ZA": "West Kordofan"
     },
     "GZ": {
         "af": "Gezira",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Gezira",
         "sq_XK": "Gezira",
         "sr": "Gezira",
+        "sr@latin": "Gezira",
         "sr_Cyrl": "Gezira",
         "sr_Cyrl_BA": "Gezira",
         "sr_Cyrl_ME": "Gezira",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Gezira",
         "tr_TR": "Gezira",
         "tt": "Gezira",
+        "tt@iqtelif": "Gezira",
         "tt_RU": "Gezira",
         "twq": "Gezira",
         "twq_NE": "Gezira",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Gezira",
         "zh_Hant_TW": "Gezira",
         "zu": "Gezira",
-        "zu_ZA": "Gezira",
-        "sr@latin": "Gezira",
-        "tt@iqtelif": "Gezira"
+        "zu_ZA": "Gezira"
     },
     "KA": {
         "af": "Kassala",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Kassala",
         "sq_XK": "Kassala",
         "sr": "Kassala",
+        "sr@latin": "Kassala",
         "sr_Cyrl": "Kassala",
         "sr_Cyrl_BA": "Kassala",
         "sr_Cyrl_ME": "Kassala",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kassala",
         "tr_TR": "Kassala",
         "tt": "Kassala",
+        "tt@iqtelif": "Kassala",
         "tt_RU": "Kassala",
         "twq": "Kassala",
         "twq_NE": "Kassala",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Kassala",
         "zh_Hant_TW": "Kassala",
         "zu": "Kassala",
-        "zu_ZA": "Kassala",
-        "sr@latin": "Kassala",
-        "tt@iqtelif": "Kassala"
+        "zu_ZA": "Kassala"
     },
     "KH": {
         "af": "Khartoum",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Khartoum",
         "sq_XK": "Khartoum",
         "sr": "Khartoum",
+        "sr@latin": "Khartoum",
         "sr_Cyrl": "Khartoum",
         "sr_Cyrl_BA": "Khartoum",
         "sr_Cyrl_ME": "Khartoum",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Khartoum",
         "tr_TR": "Khartoum",
         "tt": "Khartoum",
+        "tt@iqtelif": "Khartoum",
         "tt_RU": "Khartoum",
         "twq": "Khartoum",
         "twq_NE": "Khartoum",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Khartoum",
         "zh_Hant_TW": "Khartoum",
         "zu": "Khartoum",
-        "zu_ZA": "Khartoum",
-        "sr@latin": "Khartoum",
-        "tt@iqtelif": "Khartoum"
+        "zu_ZA": "Khartoum"
     },
     "KN": {
         "af": "North Kordofan",
@@ -9593,6 +9593,7 @@
         "sq_MK": "North Kordofan",
         "sq_XK": "North Kordofan",
         "sr": "North Kordofan",
+        "sr@latin": "North Kordofan",
         "sr_Cyrl": "North Kordofan",
         "sr_Cyrl_BA": "North Kordofan",
         "sr_Cyrl_ME": "North Kordofan",
@@ -9653,6 +9654,7 @@
         "tr_CY": "North Kordofan",
         "tr_TR": "North Kordofan",
         "tt": "North Kordofan",
+        "tt@iqtelif": "North Kordofan",
         "tt_RU": "North Kordofan",
         "twq": "North Kordofan",
         "twq_NE": "North Kordofan",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "North Kordofan",
         "zh_Hant_TW": "North Kordofan",
         "zu": "North Kordofan",
-        "zu_ZA": "North Kordofan",
-        "sr@latin": "North Kordofan",
-        "tt@iqtelif": "North Kordofan"
+        "zu_ZA": "North Kordofan"
     },
     "KS": {
         "af": "South Kordofan",
@@ -10478,6 +10478,7 @@
         "sq_MK": "South Kordofan",
         "sq_XK": "South Kordofan",
         "sr": "South Kordofan",
+        "sr@latin": "South Kordofan",
         "sr_Cyrl": "South Kordofan",
         "sr_Cyrl_BA": "South Kordofan",
         "sr_Cyrl_ME": "South Kordofan",
@@ -10538,6 +10539,7 @@
         "tr_CY": "South Kordofan",
         "tr_TR": "South Kordofan",
         "tt": "South Kordofan",
+        "tt@iqtelif": "South Kordofan",
         "tt_RU": "South Kordofan",
         "twq": "South Kordofan",
         "twq_NE": "South Kordofan",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "South Kordofan",
         "zh_Hant_TW": "South Kordofan",
         "zu": "South Kordofan",
-        "zu_ZA": "South Kordofan",
-        "sr@latin": "South Kordofan",
-        "tt@iqtelif": "South Kordofan"
+        "zu_ZA": "South Kordofan"
     },
     "NB": {
         "af": "Blue Nile",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Blue Nile",
         "sq_XK": "Blue Nile",
         "sr": "Blue Nile",
+        "sr@latin": "Blue Nile",
         "sr_Cyrl": "Blue Nile",
         "sr_Cyrl_BA": "Blue Nile",
         "sr_Cyrl_ME": "Blue Nile",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Blue Nile",
         "tr_TR": "Blue Nile",
         "tt": "Blue Nile",
+        "tt@iqtelif": "Blue Nile",
         "tt_RU": "Blue Nile",
         "twq": "Blue Nile",
         "twq_NE": "Blue Nile",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Blue Nile",
         "zh_Hant_TW": "Blue Nile",
         "zu": "Blue Nile",
-        "zu_ZA": "Blue Nile",
-        "sr@latin": "Blue Nile",
-        "tt@iqtelif": "Blue Nile"
+        "zu_ZA": "Blue Nile"
     },
     "NO": {
         "af": "Northern",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Northern",
         "sq_XK": "Northern",
         "sr": "Northern",
+        "sr@latin": "Northern",
         "sr_Cyrl": "Northern",
         "sr_Cyrl_BA": "Northern",
         "sr_Cyrl_ME": "Northern",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Kuzey",
         "tr_TR": "Kuzey",
         "tt": "Northern",
+        "tt@iqtelif": "Northern",
         "tt_RU": "Northern",
         "twq": "Northern",
         "twq_NE": "Northern",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern",
-        "sr@latin": "Northern",
-        "tt@iqtelif": "Northern"
+        "zu_ZA": "Northern"
     },
     "NR": {
         "af": "River Nile",
@@ -13133,6 +13133,7 @@
         "sq_MK": "River Nile",
         "sq_XK": "River Nile",
         "sr": "River Nile",
+        "sr@latin": "River Nile",
         "sr_Cyrl": "River Nile",
         "sr_Cyrl_BA": "River Nile",
         "sr_Cyrl_ME": "River Nile",
@@ -13193,6 +13194,7 @@
         "tr_CY": "River Nile",
         "tr_TR": "River Nile",
         "tt": "River Nile",
+        "tt@iqtelif": "River Nile",
         "tt_RU": "River Nile",
         "twq": "River Nile",
         "twq_NE": "River Nile",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "River Nile",
         "zh_Hant_TW": "River Nile",
         "zu": "River Nile",
-        "zu_ZA": "River Nile",
-        "sr@latin": "River Nile",
-        "tt@iqtelif": "River Nile"
+        "zu_ZA": "River Nile"
     },
     "NW": {
         "af": "White Nile",
@@ -14018,6 +14018,7 @@
         "sq_MK": "White Nile",
         "sq_XK": "White Nile",
         "sr": "White Nile",
+        "sr@latin": "White Nile",
         "sr_Cyrl": "White Nile",
         "sr_Cyrl_BA": "White Nile",
         "sr_Cyrl_ME": "White Nile",
@@ -14078,6 +14079,7 @@
         "tr_CY": "White Nile",
         "tr_TR": "White Nile",
         "tt": "White Nile",
+        "tt@iqtelif": "White Nile",
         "tt_RU": "White Nile",
         "twq": "White Nile",
         "twq_NE": "White Nile",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "White Nile",
         "zh_Hant_TW": "White Nile",
         "zu": "White Nile",
-        "zu_ZA": "White Nile",
-        "sr@latin": "White Nile",
-        "tt@iqtelif": "White Nile"
+        "zu_ZA": "White Nile"
     },
     "RS": {
         "af": "Red Sea",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Red Sea",
         "sq_XK": "Red Sea",
         "sr": "Red Sea",
+        "sr@latin": "Red Sea",
         "sr_Cyrl": "Red Sea",
         "sr_Cyrl_BA": "Red Sea",
         "sr_Cyrl_ME": "Red Sea",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Red Sea",
         "tr_TR": "Red Sea",
         "tt": "Red Sea",
+        "tt@iqtelif": "Red Sea",
         "tt_RU": "Red Sea",
         "twq": "Red Sea",
         "twq_NE": "Red Sea",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Red Sea",
         "zh_Hant_TW": "Red Sea",
         "zu": "Red Sea",
-        "zu_ZA": "Red Sea",
-        "sr@latin": "Red Sea",
-        "tt@iqtelif": "Red Sea"
+        "zu_ZA": "Red Sea"
     },
     "SI": {
         "af": "Sennar",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Sennar",
         "sq_XK": "Sennar",
         "sr": "Sennar",
+        "sr@latin": "Sennar",
         "sr_Cyrl": "Sennar",
         "sr_Cyrl_BA": "Sennar",
         "sr_Cyrl_ME": "Sennar",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Sennar",
         "tr_TR": "Sennar",
         "tt": "Sennar",
+        "tt@iqtelif": "Sennar",
         "tt_RU": "Sennar",
         "twq": "Sennar",
         "twq_NE": "Sennar",
@@ -15925,8 +15927,6 @@
         "zh_Hant_MY": "Sennar",
         "zh_Hant_TW": "Sennar",
         "zu": "Sennar",
-        "zu_ZA": "Sennar",
-        "sr@latin": "Sennar",
-        "tt@iqtelif": "Sennar"
+        "zu_ZA": "Sennar"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Avannaata Kommunia",
         "sq_XK": "Avannaata Kommunia",
         "sr": "Avannaata Kommunia",
+        "sr@latin": "Avannaata Kommunia",
         "sr_Cyrl": "Avannaata Kommunia",
         "sr_Cyrl_BA": "Avannaata Kommunia",
         "sr_Cyrl_ME": "Avannaata Kommunia",
@@ -803,6 +804,7 @@
         "tr_CY": "Avannaata Kommunia",
         "tr_TR": "Avannaata Kommunia",
         "tt": "Avannaata Kommunia",
+        "tt@iqtelif": "Avannaata Kommunia",
         "tt_RU": "Avannaata Kommunia",
         "twq": "Avannaata Kommunia",
         "twq_NE": "Avannaata Kommunia",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Avannaata Kommunia",
         "zh_Hant_TW": "Avannaata Kommunia",
         "zu": "Avannaata Kommunia",
-        "zu_ZA": "Avannaata Kommunia",
-        "sr@latin": "Avannaata Kommunia",
-        "tt@iqtelif": "Avannaata Kommunia"
+        "zu_ZA": "Avannaata Kommunia"
     },
     "KU": {
         "af": "Kommune Kujalleq",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kommune Kujalleq",
         "sq_XK": "Kommune Kujalleq",
         "sr": "Kommune Kujalleq",
+        "sr@latin": "Kommune Kujalleq",
         "sr_Cyrl": "Kommune Kujalleq",
         "sr_Cyrl_BA": "Kommune Kujalleq",
         "sr_Cyrl_ME": "Kommune Kujalleq",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kommune Kujalleq",
         "tr_TR": "Kommune Kujalleq",
         "tt": "Kommune Kujalleq",
+        "tt@iqtelif": "Kommune Kujalleq",
         "tt_RU": "Kommune Kujalleq",
         "twq": "Kommune Kujalleq",
         "twq_NE": "Kommune Kujalleq",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kommune Kujalleq",
         "zh_Hant_TW": "Kommune Kujalleq",
         "zu": "Kommune Kujalleq",
-        "zu_ZA": "Kommune Kujalleq",
-        "sr@latin": "Kommune Kujalleq",
-        "tt@iqtelif": "Kommune Kujalleq"
+        "zu_ZA": "Kommune Kujalleq"
     },
     "QE": {
         "af": "Qeqqata Kommunia",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Qeqqata Kommunia",
         "sq_XK": "Qeqqata Kommunia",
         "sr": "Qeqqata Kommunia",
+        "sr@latin": "Qeqqata Kommunia",
         "sr_Cyrl": "Qeqqata Kommunia",
         "sr_Cyrl_BA": "Qeqqata Kommunia",
         "sr_Cyrl_ME": "Qeqqata Kommunia",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Qeqqata Kommunia",
         "tr_TR": "Qeqqata Kommunia",
         "tt": "Qeqqata Kommunia",
+        "tt@iqtelif": "Qeqqata Kommunia",
         "tt_RU": "Qeqqata Kommunia",
         "twq": "Qeqqata Kommunia",
         "twq_NE": "Qeqqata Kommunia",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Qeqqata Kommunia",
         "zh_Hant_TW": "Qeqqata Kommunia",
         "zu": "Qeqqata Kommunia",
-        "zu_ZA": "Qeqqata Kommunia",
-        "sr@latin": "Qeqqata Kommunia",
-        "tt@iqtelif": "Qeqqata Kommunia"
+        "zu_ZA": "Qeqqata Kommunia"
     },
     "QT": {
         "af": "Kommune Qeqertalik",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Kommune Qeqertalik",
         "sq_XK": "Kommune Qeqertalik",
         "sr": "Kommune Qeqertalik",
+        "sr@latin": "Kommune Qeqertalik",
         "sr_Cyrl": "Kommune Qeqertalik",
         "sr_Cyrl_BA": "Kommune Qeqertalik",
         "sr_Cyrl_ME": "Kommune Qeqertalik",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Kommune Qeqertalik",
         "tr_TR": "Kommune Qeqertalik",
         "tt": "Kommune Qeqertalik",
+        "tt@iqtelif": "Kommune Qeqertalik",
         "tt_RU": "Kommune Qeqertalik",
         "twq": "Kommune Qeqertalik",
         "twq_NE": "Kommune Qeqertalik",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Kommune Qeqertalik",
         "zh_Hant_TW": "Kommune Qeqertalik",
         "zu": "Kommune Qeqertalik",
-        "zu_ZA": "Kommune Qeqertalik",
-        "sr@latin": "Kommune Qeqertalik",
-        "tt@iqtelif": "Kommune Qeqertalik"
+        "zu_ZA": "Kommune Qeqertalik"
     },
     "SM": {
         "af": "Kommuneqarfik Sermersooq",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Kommuneqarfik Sermersooq",
         "sq_XK": "Kommuneqarfik Sermersooq",
         "sr": "Kommuneqarfik Sermersooq",
+        "sr@latin": "Kommuneqarfik Sermersooq",
         "sr_Cyrl": "Kommuneqarfik Sermersooq",
         "sr_Cyrl_BA": "Kommuneqarfik Sermersooq",
         "sr_Cyrl_ME": "Kommuneqarfik Sermersooq",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Kommuneqarfik Sermersooq",
         "tr_TR": "Kommuneqarfik Sermersooq",
         "tt": "Kommuneqarfik Sermersooq",
+        "tt@iqtelif": "Kommuneqarfik Sermersooq",
         "tt_RU": "Kommuneqarfik Sermersooq",
         "twq": "Kommuneqarfik Sermersooq",
         "twq_NE": "Kommuneqarfik Sermersooq",
@@ -4420,8 +4422,6 @@
         "zh_Hant_MY": "Kommuneqarfik Sermersooq",
         "zh_Hant_TW": "Kommuneqarfik Sermersooq",
         "zu": "Kommuneqarfik Sermersooq",
-        "zu_ZA": "Kommuneqarfik Sermersooq",
-        "sr@latin": "Kommuneqarfik Sermersooq",
-        "tt@iqtelif": "Kommuneqarfik Sermersooq"
+        "zu_ZA": "Kommuneqarfik Sermersooq"
     }
 }

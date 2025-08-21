@@ -743,6 +743,7 @@
         "sq_MK": "Anse aux Pins",
         "sq_XK": "Anse aux Pins",
         "sr": "Анс о Пан",
+        "sr@latin": "Ans o Pan",
         "sr_Cyrl": "Анс о Пан",
         "sr_Cyrl_BA": "Анс о Пан",
         "sr_Cyrl_ME": "Анс о Пан",
@@ -803,6 +804,7 @@
         "tr_CY": "Anse aux Pins",
         "tr_TR": "Anse aux Pins",
         "tt": "Anse aux Pins",
+        "tt@iqtelif": "Anse aux Pins",
         "tt_RU": "Anse aux Pins",
         "twq": "Anse aux Pins",
         "twq_NE": "Anse aux Pins",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Anse aux Pins",
         "zh_Hant_TW": "Anse aux Pins",
         "zu": "Anse aux Pins",
-        "zu_ZA": "Anse aux Pins",
-        "sr@latin": "Ans o Pan",
-        "tt@iqtelif": "Anse aux Pins"
+        "zu_ZA": "Anse aux Pins"
     },
     "02": {
         "af": "Anse Boileau",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Anse Boileau",
         "sq_XK": "Anse Boileau",
         "sr": "Анс Буало",
+        "sr@latin": "Ans Bualo",
         "sr_Cyrl": "Анс Буало",
         "sr_Cyrl_BA": "Анс Буало",
         "sr_Cyrl_ME": "Анс Буало",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Anse Boileau",
         "tr_TR": "Anse Boileau",
         "tt": "Anse Boileau",
+        "tt@iqtelif": "Anse Boileau",
         "tt_RU": "Anse Boileau",
         "twq": "Anse Boileau",
         "twq_NE": "Anse Boileau",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Anse Boileau",
         "zh_Hant_TW": "Anse Boileau",
         "zu": "Anse Boileau",
-        "zu_ZA": "Anse Boileau",
-        "sr@latin": "Ans Bualo",
-        "tt@iqtelif": "Anse Boileau"
+        "zu_ZA": "Anse Boileau"
     },
     "03": {
         "af": "Anse Etoile",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Anse Etoile",
         "sq_XK": "Anse Etoile",
         "sr": "Анс Етуај",
+        "sr@latin": "Ans Etuaj",
         "sr_Cyrl": "Анс Етуај",
         "sr_Cyrl_BA": "Анс Етуај",
         "sr_Cyrl_ME": "Анс Етуај",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Anse Etoile",
         "tr_TR": "Anse Etoile",
         "tt": "Anse Etoile",
+        "tt@iqtelif": "Anse Etoile",
         "tt_RU": "Anse Etoile",
         "twq": "Anse Etoile",
         "twq_NE": "Anse Etoile",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Anse Etoile",
         "zh_Hant_TW": "Anse Etoile",
         "zu": "Anse Etoile",
-        "zu_ZA": "Anse Etoile",
-        "sr@latin": "Ans Etuaj",
-        "tt@iqtelif": "Anse Etoile"
+        "zu_ZA": "Anse Etoile"
     },
     "04": {
         "af": "Au Cap",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Au Cap",
         "sq_XK": "Au Cap",
         "sr": "Au Cap",
+        "sr@latin": "Au Cap",
         "sr_Cyrl": "Au Cap",
         "sr_Cyrl_BA": "Au Cap",
         "sr_Cyrl_ME": "Au Cap",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Au Cap",
         "tr_TR": "Au Cap",
         "tt": "Au Cap",
+        "tt@iqtelif": "Au Cap",
         "tt_RU": "Au Cap",
         "twq": "Au Cap",
         "twq_NE": "Au Cap",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Au Cap",
         "zh_Hant_TW": "Au Cap",
         "zu": "Au Cap",
-        "zu_ZA": "Au Cap",
-        "sr@latin": "Au Cap",
-        "tt@iqtelif": "Au Cap"
+        "zu_ZA": "Au Cap"
     },
     "05": {
         "af": "Anse Royale",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Anse Royale",
         "sq_XK": "Anse Royale",
         "sr": "Анс Руајал",
+        "sr@latin": "Ans Ruajal",
         "sr_Cyrl": "Анс Руајал",
         "sr_Cyrl_BA": "Анс Руајал",
         "sr_Cyrl_ME": "Анс Руајал",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Anse Royale",
         "tr_TR": "Anse Royale",
         "tt": "Anse Royale",
+        "tt@iqtelif": "Anse Royale",
         "tt_RU": "Anse Royale",
         "twq": "Anse Royale",
         "twq_NE": "Anse Royale",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Anse Royale",
         "zh_Hant_TW": "Anse Royale",
         "zu": "Anse Royale",
-        "zu_ZA": "Anse Royale",
-        "sr@latin": "Ans Ruajal",
-        "tt@iqtelif": "Anse Royale"
+        "zu_ZA": "Anse Royale"
     },
     "06": {
         "af": "Baie Lazare",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Baie Lazare",
         "sq_XK": "Baie Lazare",
         "sr": "Баје Лазаре",
+        "sr@latin": "Baje Lazare",
         "sr_Cyrl": "Баје Лазаре",
         "sr_Cyrl_BA": "Баје Лазаре",
         "sr_Cyrl_ME": "Баје Лазаре",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Baie Lazare",
         "tr_TR": "Baie Lazare",
         "tt": "Baie Lazare",
+        "tt@iqtelif": "Baie Lazare",
         "tt_RU": "Baie Lazare",
         "twq": "Baie Lazare",
         "twq_NE": "Baie Lazare",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Baie Lazare",
         "zh_Hant_TW": "Baie Lazare",
         "zu": "Baie Lazare",
-        "zu_ZA": "Baie Lazare",
-        "sr@latin": "Baje Lazare",
-        "tt@iqtelif": "Baie Lazare"
+        "zu_ZA": "Baie Lazare"
     },
     "07": {
         "af": "Baie Sainte Anne",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Baie Sainte Anne",
         "sq_XK": "Baie Sainte Anne",
         "sr": "Баја Сент Ана",
+        "sr@latin": "Baja Sent Ana",
         "sr_Cyrl": "Баја Сент Ана",
         "sr_Cyrl_BA": "Баја Сент Ана",
         "sr_Cyrl_ME": "Баја Сент Ана",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Baie Sainte Anne",
         "tr_TR": "Baie Sainte Anne",
         "tt": "Baie Sainte Anne",
+        "tt@iqtelif": "Baie Sainte Anne",
         "tt_RU": "Baie Sainte Anne",
         "twq": "Baie Sainte Anne",
         "twq_NE": "Baie Sainte Anne",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Baie Sainte Anne",
         "zh_Hant_TW": "Baie Sainte Anne",
         "zu": "Baie Sainte Anne",
-        "zu_ZA": "Baie Sainte Anne",
-        "sr@latin": "Baja Sent Ana",
-        "tt@iqtelif": "Baie Sainte Anne"
+        "zu_ZA": "Baie Sainte Anne"
     },
     "08": {
         "af": "Beau Vallon",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Beau Vallon",
         "sq_XK": "Beau Vallon",
         "sr": "Бо Валон",
+        "sr@latin": "Bo Valon",
         "sr_Cyrl": "Бо Валон",
         "sr_Cyrl_BA": "Бо Валон",
         "sr_Cyrl_ME": "Бо Валон",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Beau Vallon",
         "tr_TR": "Beau Vallon",
         "tt": "Beau Vallon",
+        "tt@iqtelif": "Beau Vallon",
         "tt_RU": "Beau Vallon",
         "twq": "Beau Vallon",
         "twq_NE": "Beau Vallon",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Beau Vallon",
         "zh_Hant_TW": "Beau Vallon",
         "zu": "Beau Vallon",
-        "zu_ZA": "Beau Vallon",
-        "sr@latin": "Bo Valon",
-        "tt@iqtelif": "Beau Vallon"
+        "zu_ZA": "Beau Vallon"
     },
     "09": {
         "af": "Bel Air",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Bel Air",
         "sq_XK": "Bel Air",
         "sr": "Бел Ер",
+        "sr@latin": "Bel Er",
         "sr_Cyrl": "Бел Ер",
         "sr_Cyrl_BA": "Бел Ер",
         "sr_Cyrl_ME": "Бел Ер",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Bel Air",
         "tr_TR": "Bel Air",
         "tt": "Bel Air",
+        "tt@iqtelif": "Bel Air",
         "tt_RU": "Bel Air",
         "twq": "Bel Air",
         "twq_NE": "Bel Air",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Bel Air",
         "zh_Hant_TW": "Bel Air",
         "zu": "Bel Air",
-        "zu_ZA": "Bel Air",
-        "sr@latin": "Bel Er",
-        "tt@iqtelif": "Bel Air"
+        "zu_ZA": "Bel Air"
     },
     "10": {
         "af": "Bel Ombre",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Bel Ombre",
         "sq_XK": "Bel Ombre",
         "sr": "Бел Омбре",
+        "sr@latin": "Bel Ombre",
         "sr_Cyrl": "Бел Омбре",
         "sr_Cyrl_BA": "Бел Омбре",
         "sr_Cyrl_ME": "Бел Омбре",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Bel Ombre",
         "tr_TR": "Bel Ombre",
         "tt": "Bel Ombre",
+        "tt@iqtelif": "Bel Ombre",
         "tt_RU": "Bel Ombre",
         "twq": "Bel Ombre",
         "twq_NE": "Bel Ombre",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Bel Ombre",
         "zh_Hant_TW": "Bel Ombre",
         "zu": "Bel Ombre",
-        "zu_ZA": "Bel Ombre",
-        "sr@latin": "Bel Ombre",
-        "tt@iqtelif": "Bel Ombre"
+        "zu_ZA": "Bel Ombre"
     },
     "11": {
         "af": "Cascade",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Cascade",
         "sq_XK": "Cascade",
         "sr": "Каскејд",
+        "sr@latin": "Kaskejd",
         "sr_Cyrl": "Каскејд",
         "sr_Cyrl_BA": "Каскејд",
         "sr_Cyrl_ME": "Каскејд",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Cascade",
         "tr_TR": "Cascade",
         "tt": "Cascade",
+        "tt@iqtelif": "Cascade",
         "tt_RU": "Cascade",
         "twq": "Cascade",
         "twq_NE": "Cascade",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Cascade",
         "zh_Hant_TW": "Cascade",
         "zu": "Cascade",
-        "zu_ZA": "Cascade",
-        "sr@latin": "Kaskejd",
-        "tt@iqtelif": "Cascade"
+        "zu_ZA": "Cascade"
     },
     "12": {
         "af": "Glacis",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Glacis",
         "sq_XK": "Glacis",
         "sr": "Glacis",
+        "sr@latin": "Glacis",
         "sr_Cyrl": "Glacis",
         "sr_Cyrl_BA": "Glacis",
         "sr_Cyrl_ME": "Glacis",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Glacis",
         "tr_TR": "Glacis",
         "tt": "Glacis",
+        "tt@iqtelif": "Glacis",
         "tt_RU": "Glacis",
         "twq": "Glacis",
         "twq_NE": "Glacis",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Glacis",
         "zh_Hant_TW": "Glacis",
         "zu": "Glacis",
-        "zu_ZA": "Glacis",
-        "sr@latin": "Glacis",
-        "tt@iqtelif": "Glacis"
+        "zu_ZA": "Glacis"
     },
     "13": {
         "af": "Grand Anse Mahe",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Grand Anse Mahe",
         "sq_XK": "Grand Anse Mahe",
         "sr": "Гренд Анс Мах",
+        "sr@latin": "Grend Ans Mah",
         "sr_Cyrl": "Гренд Анс Мах",
         "sr_Cyrl_BA": "Гренд Анс Мах",
         "sr_Cyrl_ME": "Гренд Анс Мах",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Grand Anse Mahe",
         "tr_TR": "Grand Anse Mahe",
         "tt": "Grand Anse Mahe",
+        "tt@iqtelif": "Grand Anse Mahe",
         "tt_RU": "Grand Anse Mahe",
         "twq": "Grand Anse Mahe",
         "twq_NE": "Grand Anse Mahe",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Grand Anse Mahe",
         "zh_Hant_TW": "Grand Anse Mahe",
         "zu": "Grand Anse Mahe",
-        "zu_ZA": "Grand Anse Mahe",
-        "sr@latin": "Grend Ans Mah",
-        "tt@iqtelif": "Grand Anse Mahe"
+        "zu_ZA": "Grand Anse Mahe"
     },
     "14": {
         "af": "Grand Anse Praslin",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Grand Anse Praslin",
         "sq_XK": "Grand Anse Praslin",
         "sr": "Грен Анс Праслин",
+        "sr@latin": "Gren Ans Praslin",
         "sr_Cyrl": "Грен Анс Праслин",
         "sr_Cyrl_BA": "Грен Анс Праслин",
         "sr_Cyrl_ME": "Грен Анс Праслин",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Grand Anse Praslin",
         "tr_TR": "Grand Anse Praslin",
         "tt": "Grand Anse Praslin",
+        "tt@iqtelif": "Grand Anse Praslin",
         "tt_RU": "Grand Anse Praslin",
         "twq": "Grand Anse Praslin",
         "twq_NE": "Grand Anse Praslin",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Grand Anse Praslin",
         "zh_Hant_TW": "Grand Anse Praslin",
         "zu": "Grand Anse Praslin",
-        "zu_ZA": "Grand Anse Praslin",
-        "sr@latin": "Gren Ans Praslin",
-        "tt@iqtelif": "Grand Anse Praslin"
+        "zu_ZA": "Grand Anse Praslin"
     },
     "15": {
         "af": "La Digue",
@@ -13133,6 +13133,7 @@
         "sq_MK": "La Digue",
         "sq_XK": "La Digue",
         "sr": "Ла Диг",
+        "sr@latin": "La Dig",
         "sr_Cyrl": "Ла Диг",
         "sr_Cyrl_BA": "Ла Диг",
         "sr_Cyrl_ME": "Ла Диг",
@@ -13193,6 +13194,7 @@
         "tr_CY": "La Digue",
         "tr_TR": "La Digue",
         "tt": "La Digue",
+        "tt@iqtelif": "La Digue",
         "tt_RU": "La Digue",
         "twq": "La Digue",
         "twq_NE": "La Digue",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "La Digue",
         "zh_Hant_TW": "La Digue",
         "zu": "La Digue",
-        "zu_ZA": "La Digue",
-        "sr@latin": "La Dig",
-        "tt@iqtelif": "La Digue"
+        "zu_ZA": "La Digue"
     },
     "16": {
         "af": "English River",
@@ -14018,6 +14018,7 @@
         "sq_MK": "English River",
         "sq_XK": "English River",
         "sr": "Инглиш Ривер",
+        "sr@latin": "Ingliš River",
         "sr_Cyrl": "Инглиш Ривер",
         "sr_Cyrl_BA": "Инглиш Ривер",
         "sr_Cyrl_ME": "Инглиш Ривер",
@@ -14078,6 +14079,7 @@
         "tr_CY": "English River",
         "tr_TR": "English River",
         "tt": "English River",
+        "tt@iqtelif": "English River",
         "tt_RU": "English River",
         "twq": "English River",
         "twq_NE": "English River",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "English River",
         "zh_Hant_TW": "English River",
         "zu": "English River",
-        "zu_ZA": "English River",
-        "sr@latin": "Ingliš River",
-        "tt@iqtelif": "English River"
+        "zu_ZA": "English River"
     },
     "17": {
         "af": "Mont Buxton",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Mont Buxton",
         "sq_XK": "Mont Buxton",
         "sr": "Монт Бакстон",
+        "sr@latin": "Mont Bakston",
         "sr_Cyrl": "Монт Бакстон",
         "sr_Cyrl_BA": "Монт Бакстон",
         "sr_Cyrl_ME": "Монт Бакстон",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Mont Buxton",
         "tr_TR": "Mont Buxton",
         "tt": "Mont Buxton",
+        "tt@iqtelif": "Mont Buxton",
         "tt_RU": "Mont Buxton",
         "twq": "Mont Buxton",
         "twq_NE": "Mont Buxton",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Mont Buxton",
         "zh_Hant_TW": "Mont Buxton",
         "zu": "Mont Buxton",
-        "zu_ZA": "Mont Buxton",
-        "sr@latin": "Mont Bakston",
-        "tt@iqtelif": "Mont Buxton"
+        "zu_ZA": "Mont Buxton"
     },
     "18": {
         "af": "Mont Fleuri",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Mont Fleuri",
         "sq_XK": "Mont Fleuri",
         "sr": "Монт Флери",
+        "sr@latin": "Mont Fleri",
         "sr_Cyrl": "Монт Флери",
         "sr_Cyrl_BA": "Монт Флери",
         "sr_Cyrl_ME": "Монт Флери",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Mont Fleuri",
         "tr_TR": "Mont Fleuri",
         "tt": "Mont Fleuri",
+        "tt@iqtelif": "Mont Fleuri",
         "tt_RU": "Mont Fleuri",
         "twq": "Mont Fleuri",
         "twq_NE": "Mont Fleuri",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Mont Fleuri",
         "zh_Hant_TW": "Mont Fleuri",
         "zu": "Mont Fleuri",
-        "zu_ZA": "Mont Fleuri",
-        "sr@latin": "Mont Fleri",
-        "tt@iqtelif": "Mont Fleuri"
+        "zu_ZA": "Mont Fleuri"
     },
     "19": {
         "af": "Plaisance",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Plaisance",
         "sq_XK": "Plaisance",
         "sr": "Плезенс",
+        "sr@latin": "Plezens",
         "sr_Cyrl": "Плезенс",
         "sr_Cyrl_BA": "Плезенс",
         "sr_Cyrl_ME": "Плезенс",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Plaisance",
         "tr_TR": "Plaisance",
         "tt": "Plaisance",
+        "tt@iqtelif": "Plaisance",
         "tt_RU": "Plaisance",
         "twq": "Plaisance",
         "twq_NE": "Plaisance",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Plaisance",
         "zh_Hant_TW": "Plaisance",
         "zu": "Plaisance",
-        "zu_ZA": "Plaisance",
-        "sr@latin": "Plezens",
-        "tt@iqtelif": "Plaisance"
+        "zu_ZA": "Plaisance"
     },
     "20": {
         "af": "Pointe Larue",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Pointe Larue",
         "sq_XK": "Pointe Larue",
         "sr": "Пуант Лари",
+        "sr@latin": "Puant Lari",
         "sr_Cyrl": "Пуант Лари",
         "sr_Cyrl_BA": "Пуант Лари",
         "sr_Cyrl_ME": "Пуант Лари",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Pointe Larue",
         "tr_TR": "Pointe Larue",
         "tt": "Pointe Larue",
+        "tt@iqtelif": "Pointe Larue",
         "tt_RU": "Pointe Larue",
         "twq": "Pointe Larue",
         "twq_NE": "Pointe Larue",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Pointe Larue",
         "zh_Hant_TW": "Pointe Larue",
         "zu": "Pointe Larue",
-        "zu_ZA": "Pointe Larue",
-        "sr@latin": "Puant Lari",
-        "tt@iqtelif": "Pointe Larue"
+        "zu_ZA": "Pointe Larue"
     },
     "21": {
         "af": "Port Glaud",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Port Glaud",
         "sq_XK": "Port Glaud",
         "sr": "Порт Глод",
+        "sr@latin": "Port Glod",
         "sr_Cyrl": "Порт Глод",
         "sr_Cyrl_BA": "Порт Глод",
         "sr_Cyrl_ME": "Порт Глод",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Port Glaud",
         "tr_TR": "Port Glaud",
         "tt": "Port Glaud",
+        "tt@iqtelif": "Port Glaud",
         "tt_RU": "Port Glaud",
         "twq": "Port Glaud",
         "twq_NE": "Port Glaud",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Port Glaud",
         "zh_Hant_TW": "Port Glaud",
         "zu": "Port Glaud",
-        "zu_ZA": "Port Glaud",
-        "sr@latin": "Port Glod",
-        "tt@iqtelif": "Port Glaud"
+        "zu_ZA": "Port Glaud"
     },
     "22": {
         "af": "Saint Louis",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Saint Louis",
         "sq_XK": "Saint Louis",
         "sr": "Сент Луис",
+        "sr@latin": "Sent Luis",
         "sr_Cyrl": "Сент Луис",
         "sr_Cyrl_BA": "Сент Луис",
         "sr_Cyrl_ME": "Сент Луис",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Saint Louis",
         "tr_TR": "Saint Louis",
         "tt": "Saint Louis",
+        "tt@iqtelif": "Saint Louis",
         "tt_RU": "Saint Louis",
         "twq": "Saint Louis",
         "twq_NE": "Saint Louis",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Saint Louis",
         "zh_Hant_TW": "Saint Louis",
         "zu": "Saint Louis",
-        "zu_ZA": "Saint Louis",
-        "sr@latin": "Sent Luis",
-        "tt@iqtelif": "Saint Louis"
+        "zu_ZA": "Saint Louis"
     },
     "23": {
         "af": "Takamaka",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Takamaka",
         "sq_XK": "Takamaka",
         "sr": "Такамака",
+        "sr@latin": "Takamaka",
         "sr_Cyrl": "Такамака",
         "sr_Cyrl_BA": "Такамака",
         "sr_Cyrl_ME": "Такамака",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Takamaka",
         "tr_TR": "Takamaka",
         "tt": "Takamaka",
+        "tt@iqtelif": "Takamaka",
         "tt_RU": "Takamaka",
         "twq": "Takamaka",
         "twq_NE": "Takamaka",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Takamaka",
         "zh_Hant_TW": "Takamaka",
         "zu": "Takamaka",
-        "zu_ZA": "Takamaka",
-        "sr@latin": "Takamaka",
-        "tt@iqtelif": "Takamaka"
+        "zu_ZA": "Takamaka"
     },
     "24": {
         "af": "Les Mamelles",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Les Mamelles",
         "sq_XK": "Les Mamelles",
         "sr": "Ле Мамел",
+        "sr@latin": "Le Mamel",
         "sr_Cyrl": "Ле Мамел",
         "sr_Cyrl_BA": "Ле Мамел",
         "sr_Cyrl_ME": "Ле Мамел",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Les Mamelles",
         "tr_TR": "Les Mamelles",
         "tt": "Les Mamelles",
+        "tt@iqtelif": "Les Mamelles",
         "tt_RU": "Les Mamelles",
         "twq": "Les Mamelles",
         "twq_NE": "Les Mamelles",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Les Mamelles",
         "zh_Hant_TW": "Les Mamelles",
         "zu": "Les Mamelles",
-        "zu_ZA": "Les Mamelles",
-        "sr@latin": "Le Mamel",
-        "tt@iqtelif": "Les Mamelles"
+        "zu_ZA": "Les Mamelles"
     },
     "25": {
         "af": "Roche Caiman",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Roche Caiman",
         "sq_XK": "Roche Caiman",
         "sr": "Roche Caiman",
+        "sr@latin": "Roche Caiman",
         "sr_Cyrl": "Roche Caiman",
         "sr_Cyrl_BA": "Roche Caiman",
         "sr_Cyrl_ME": "Roche Caiman",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Roche Caiman",
         "tr_TR": "Roche Caiman",
         "tt": "Roche Caiman",
+        "tt@iqtelif": "Roche Caiman",
         "tt_RU": "Roche Caiman",
         "twq": "Roche Caiman",
         "twq_NE": "Roche Caiman",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Roche Caiman",
         "zh_Hant_TW": "Roche Caiman",
         "zu": "Roche Caiman",
-        "zu_ZA": "Roche Caiman",
-        "sr@latin": "Roche Caiman",
-        "tt@iqtelif": "Roche Caiman"
+        "zu_ZA": "Roche Caiman"
     },
     "26": {
         "af": "Ile Perseverance I",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Ile Perseverance I",
         "sq_XK": "Ile Perseverance I",
         "sr": "Ile Perseverance I",
+        "sr@latin": "Ile Perseverance I",
         "sr_Cyrl": "Ile Perseverance I",
         "sr_Cyrl_BA": "Ile Perseverance I",
         "sr_Cyrl_ME": "Ile Perseverance I",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Ile Perseverance I",
         "tr_TR": "Ile Perseverance I",
         "tt": "Ile Perseverance I",
+        "tt@iqtelif": "Ile Perseverance I",
         "tt_RU": "Ile Perseverance I",
         "twq": "Ile Perseverance I",
         "twq_NE": "Ile Perseverance I",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Ile Perseverance I",
         "zh_Hant_TW": "Ile Perseverance I",
         "zu": "Ile Perseverance I",
-        "zu_ZA": "Ile Perseverance I",
-        "sr@latin": "Ile Perseverance I",
-        "tt@iqtelif": "Ile Perseverance I"
+        "zu_ZA": "Ile Perseverance I"
     },
     "27": {
         "af": "Ile Perseverance II",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Ile Perseverance II",
         "sq_XK": "Ile Perseverance II",
         "sr": "Ile Perseverance II",
+        "sr@latin": "Ile Perseverance II",
         "sr_Cyrl": "Ile Perseverance II",
         "sr_Cyrl_BA": "Ile Perseverance II",
         "sr_Cyrl_ME": "Ile Perseverance II",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Ile Perseverance II",
         "tr_TR": "Ile Perseverance II",
         "tt": "Ile Perseverance II",
+        "tt@iqtelif": "Ile Perseverance II",
         "tt_RU": "Ile Perseverance II",
         "twq": "Ile Perseverance II",
         "twq_NE": "Ile Perseverance II",
@@ -23890,8 +23892,6 @@
         "zh_Hant_MY": "Ile Perseverance II",
         "zh_Hant_TW": "Ile Perseverance II",
         "zu": "Ile Perseverance II",
-        "zu_ZA": "Ile Perseverance II",
-        "sr@latin": "Ile Perseverance II",
-        "tt@iqtelif": "Ile Perseverance II"
+        "zu_ZA": "Ile Perseverance II"
     }
 }

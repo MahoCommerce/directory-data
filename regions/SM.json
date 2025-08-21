@@ -743,6 +743,7 @@
         "sq_MK": "Acquaviva",
         "sq_XK": "Acquaviva",
         "sr": "Аквавива",
+        "sr@latin": "Akvaviva",
         "sr_Cyrl": "Аквавива",
         "sr_Cyrl_BA": "Аквавива",
         "sr_Cyrl_ME": "Аквавива",
@@ -803,6 +804,7 @@
         "tr_CY": "Acquaviva",
         "tr_TR": "Acquaviva",
         "tt": "Acquaviva",
+        "tt@iqtelif": "Acquaviva",
         "tt_RU": "Acquaviva",
         "twq": "Acquaviva",
         "twq_NE": "Acquaviva",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Acquaviva",
         "zh_Hant_TW": "Acquaviva",
         "zu": "Acquaviva",
-        "zu_ZA": "Acquaviva",
-        "sr@latin": "Akvaviva",
-        "tt@iqtelif": "Acquaviva"
+        "zu_ZA": "Acquaviva"
     },
     "02": {
         "af": "Chiesanuova",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Chiesanuova",
         "sq_XK": "Chiesanuova",
         "sr": "Кјезануова",
+        "sr@latin": "Kjezanuova",
         "sr_Cyrl": "Кјезануова",
         "sr_Cyrl_BA": "Кјезануова",
         "sr_Cyrl_ME": "Кјезануова",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Chiesanuova",
         "tr_TR": "Chiesanuova",
         "tt": "Chiesanuova",
+        "tt@iqtelif": "Chiesanuova",
         "tt_RU": "Chiesanuova",
         "twq": "Chiesanuova",
         "twq_NE": "Chiesanuova",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Chiesanuova",
         "zh_Hant_TW": "Chiesanuova",
         "zu": "Chiesanuova",
-        "zu_ZA": "Chiesanuova",
-        "sr@latin": "Kjezanuova",
-        "tt@iqtelif": "Chiesanuova"
+        "zu_ZA": "Chiesanuova"
     },
     "03": {
         "af": "Domagnano",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Domagnano",
         "sq_XK": "Domagnano",
         "sr": "Домањано",
+        "sr@latin": "Domanjano",
         "sr_Cyrl": "Домањано",
         "sr_Cyrl_BA": "Домањано",
         "sr_Cyrl_ME": "Домањано",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Domagnano",
         "tr_TR": "Domagnano",
         "tt": "Domagnano",
+        "tt@iqtelif": "Domagnano",
         "tt_RU": "Domagnano",
         "twq": "Domagnano",
         "twq_NE": "Domagnano",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Domagnano",
         "zh_Hant_TW": "Domagnano",
         "zu": "Domagnano",
-        "zu_ZA": "Domagnano",
-        "sr@latin": "Domanjano",
-        "tt@iqtelif": "Domagnano"
+        "zu_ZA": "Domagnano"
     },
     "04": {
         "af": "Faetano",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Faetano",
         "sq_XK": "Faetano",
         "sr": "Фаетано",
+        "sr@latin": "Faetano",
         "sr_Cyrl": "Фаетано",
         "sr_Cyrl_BA": "Фаетано",
         "sr_Cyrl_ME": "Фаетано",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Faetano",
         "tr_TR": "Faetano",
         "tt": "Faetano",
+        "tt@iqtelif": "Faetano",
         "tt_RU": "Faetano",
         "twq": "Faetano",
         "twq_NE": "Faetano",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Faetano",
         "zh_Hant_TW": "Faetano",
         "zu": "Faetano",
-        "zu_ZA": "Faetano",
-        "sr@latin": "Faetano",
-        "tt@iqtelif": "Faetano"
+        "zu_ZA": "Faetano"
     },
     "05": {
         "af": "Fiorentino",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Fiorentino",
         "sq_XK": "Fiorentino",
         "sr": "Фјорентино",
+        "sr@latin": "Fjorentino",
         "sr_Cyrl": "Фјорентино",
         "sr_Cyrl_BA": "Фјорентино",
         "sr_Cyrl_ME": "Фјорентино",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Fiorentino",
         "tr_TR": "Fiorentino",
         "tt": "Fiorentino",
+        "tt@iqtelif": "Fiorentino",
         "tt_RU": "Fiorentino",
         "twq": "Fiorentino",
         "twq_NE": "Fiorentino",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Fiorentino",
         "zh_Hant_TW": "Fiorentino",
         "zu": "Fiorentino",
-        "zu_ZA": "Fiorentino",
-        "sr@latin": "Fjorentino",
-        "tt@iqtelif": "Fiorentino"
+        "zu_ZA": "Fiorentino"
     },
     "06": {
         "af": "Borgo Maggiore",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Borgo Maggiore",
         "sq_XK": "Borgo Maggiore",
         "sr": "Борго Мађоре",
+        "sr@latin": "Borgo Mađore",
         "sr_Cyrl": "Борго Мађоре",
         "sr_Cyrl_BA": "Борго Мађоре",
         "sr_Cyrl_ME": "Борго Мађоре",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Borgo Maggiore",
         "tr_TR": "Borgo Maggiore",
         "tt": "Borgo Maggiore",
+        "tt@iqtelif": "Borgo Maggiore",
         "tt_RU": "Borgo Maggiore",
         "twq": "Borgo Maggiore",
         "twq_NE": "Borgo Maggiore",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Borgo Maggiore",
         "zh_Hant_TW": "Borgo Maggiore",
         "zu": "Borgo Maggiore",
-        "zu_ZA": "Borgo Maggiore",
-        "sr@latin": "Borgo Mađore",
-        "tt@iqtelif": "Borgo Maggiore"
+        "zu_ZA": "Borgo Maggiore"
     },
     "07": {
         "af": "Città di San Marino",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Città di San Marino",
         "sq_XK": "Città di San Marino",
         "sr": "Città di San Marino",
+        "sr@latin": "Città di San Marino",
         "sr_Cyrl": "Città di San Marino",
         "sr_Cyrl_BA": "Città di San Marino",
         "sr_Cyrl_ME": "Città di San Marino",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Città di San Marino",
         "tr_TR": "Città di San Marino",
         "tt": "Città di San Marino",
+        "tt@iqtelif": "Città di San Marino",
         "tt_RU": "Città di San Marino",
         "twq": "Città di San Marino",
         "twq_NE": "Città di San Marino",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Città di San Marino",
         "zh_Hant_TW": "Città di San Marino",
         "zu": "Città di San Marino",
-        "zu_ZA": "Città di San Marino",
-        "sr@latin": "Città di San Marino",
-        "tt@iqtelif": "Città di San Marino"
+        "zu_ZA": "Città di San Marino"
     },
     "08": {
         "af": "Montegiardino",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Montegiardino",
         "sq_XK": "Montegiardino",
         "sr": "Монтеђардино",
+        "sr@latin": "Monteđardino",
         "sr_Cyrl": "Монтеђардино",
         "sr_Cyrl_BA": "Монтеђардино",
         "sr_Cyrl_ME": "Монтеђардино",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Montegiardino",
         "tr_TR": "Montegiardino",
         "tt": "Montegiardino",
+        "tt@iqtelif": "Montegiardino",
         "tt_RU": "Montegiardino",
         "twq": "Montegiardino",
         "twq_NE": "Montegiardino",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Montegiardino",
         "zh_Hant_TW": "Montegiardino",
         "zu": "Montegiardino",
-        "zu_ZA": "Montegiardino",
-        "sr@latin": "Monteđardino",
-        "tt@iqtelif": "Montegiardino"
+        "zu_ZA": "Montegiardino"
     },
     "09": {
         "af": "Serravalle",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Serravalle",
         "sq_XK": "Serravalle",
         "sr": "Серавале",
+        "sr@latin": "Seravale",
         "sr_Cyrl": "Серавале",
         "sr_Cyrl_BA": "Серавале",
         "sr_Cyrl_ME": "Серавале",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Serravalle",
         "tr_TR": "Serravalle",
         "tt": "Serravalle",
+        "tt@iqtelif": "Serravalle",
         "tt_RU": "Serravalle",
         "twq": "Serravalle",
         "twq_NE": "Serravalle",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Serravalle",
         "zh_Hant_TW": "Serravalle",
         "zu": "Serravalle",
-        "zu_ZA": "Serravalle",
-        "sr@latin": "Seravale",
-        "tt@iqtelif": "Serravalle"
+        "zu_ZA": "Serravalle"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Belize",
         "sq_XK": "Belize",
         "sr": "Белизе",
+        "sr@latin": "Belize",
         "sr_Cyrl": "Белизе",
         "sr_Cyrl_BA": "Белизе",
         "sr_Cyrl_ME": "Белизе",
@@ -803,6 +804,7 @@
         "tr_CY": "Belize",
         "tr_TR": "Belize",
         "tt": "Belize",
+        "tt@iqtelif": "Belize",
         "tt_RU": "Belize",
         "twq": "Belize",
         "twq_NE": "Belize",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Belize",
         "zh_Hant_TW": "Belize",
         "zu": "Belize",
-        "zu_ZA": "Belize",
-        "sr@latin": "Belize",
-        "tt@iqtelif": "Belize"
+        "zu_ZA": "Belize"
     },
     "CY": {
         "af": "Cayo",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Cayo",
         "sq_XK": "Cayo",
         "sr": "Кајо",
+        "sr@latin": "Kajo",
         "sr_Cyrl": "Кајо",
         "sr_Cyrl_BA": "Кајо",
         "sr_Cyrl_ME": "Кајо",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Cayo",
         "tr_TR": "Cayo",
         "tt": "Cayo",
+        "tt@iqtelif": "Cayo",
         "tt_RU": "Cayo",
         "twq": "Cayo",
         "twq_NE": "Cayo",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Cayo",
         "zh_Hant_TW": "Cayo",
         "zu": "Cayo",
-        "zu_ZA": "Cayo",
-        "sr@latin": "Kajo",
-        "tt@iqtelif": "Cayo"
+        "zu_ZA": "Cayo"
     },
     "CZL": {
         "af": "Corozal",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Corozal",
         "sq_XK": "Corozal",
         "sr": "Короцал",
+        "sr@latin": "Korocal",
         "sr_Cyrl": "Короцал",
         "sr_Cyrl_BA": "Короцал",
         "sr_Cyrl_ME": "Короцал",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Corozal",
         "tr_TR": "Corozal",
         "tt": "Corozal",
+        "tt@iqtelif": "Corozal",
         "tt_RU": "Corozal",
         "twq": "Corozal",
         "twq_NE": "Corozal",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Corozal",
         "zh_Hant_TW": "Corozal",
         "zu": "Corozal",
-        "zu_ZA": "Corozal",
-        "sr@latin": "Korocal",
-        "tt@iqtelif": "Corozal"
+        "zu_ZA": "Corozal"
     },
     "OW": {
         "af": "Orange Walk",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Orange Walk",
         "sq_XK": "Orange Walk",
         "sr": "Оранж Вок",
+        "sr@latin": "Oranž Vok",
         "sr_Cyrl": "Оранж Вок",
         "sr_Cyrl_BA": "Оранж Вок",
         "sr_Cyrl_ME": "Оранж Вок",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Orange Walk",
         "tr_TR": "Orange Walk",
         "tt": "Orange Walk",
+        "tt@iqtelif": "Orange Walk",
         "tt_RU": "Orange Walk",
         "twq": "Orange Walk",
         "twq_NE": "Orange Walk",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Orange Walk",
         "zh_Hant_TW": "Orange Walk",
         "zu": "Orange Walk",
-        "zu_ZA": "Orange Walk",
-        "sr@latin": "Oranž Vok",
-        "tt@iqtelif": "Orange Walk"
+        "zu_ZA": "Orange Walk"
     },
     "SC": {
         "af": "Stann Creek",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Stann Creek",
         "sq_XK": "Stann Creek",
         "sr": "Стан Крик",
+        "sr@latin": "Stan Krik",
         "sr_Cyrl": "Стан Крик",
         "sr_Cyrl_BA": "Стан Крик",
         "sr_Cyrl_ME": "Стан Крик",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Stann Creek",
         "tr_TR": "Stann Creek",
         "tt": "Stann Creek",
+        "tt@iqtelif": "Stann Creek",
         "tt_RU": "Stann Creek",
         "twq": "Stann Creek",
         "twq_NE": "Stann Creek",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Stann Creek",
         "zh_Hant_TW": "Stann Creek",
         "zu": "Stann Creek",
-        "zu_ZA": "Stann Creek",
-        "sr@latin": "Stan Krik",
-        "tt@iqtelif": "Stann Creek"
+        "zu_ZA": "Stann Creek"
     },
     "TOL": {
         "af": "Toledo",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Toledo",
         "sq_XK": "Toledo",
         "sr": "Толедо",
+        "sr@latin": "Toledo",
         "sr_Cyrl": "Толедо",
         "sr_Cyrl_BA": "Толедо",
         "sr_Cyrl_ME": "Толедо",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Toledo",
         "tr_TR": "Toledo",
         "tt": "Toledo",
+        "tt@iqtelif": "Toledo",
         "tt_RU": "Toledo",
         "twq": "Toledo",
         "twq_NE": "Toledo",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Toledo",
         "zh_Hant_TW": "Toledo",
         "zu": "Toledo",
-        "zu_ZA": "Toledo",
-        "sr@latin": "Toledo",
-        "tt@iqtelif": "Toledo"
+        "zu_ZA": "Toledo"
     }
 }

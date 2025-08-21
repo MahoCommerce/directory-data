@@ -743,6 +743,7 @@
         "sq_MK": "Maseru",
         "sq_XK": "Maseru",
         "sr": "Масери",
+        "sr@latin": "Maseri",
         "sr_Cyrl": "Масери",
         "sr_Cyrl_BA": "Масери",
         "sr_Cyrl_ME": "Масери",
@@ -803,6 +804,7 @@
         "tr_CY": "Maseru",
         "tr_TR": "Maseru",
         "tt": "Maseru",
+        "tt@iqtelif": "Maseru",
         "tt_RU": "Maseru",
         "twq": "Maseru",
         "twq_NE": "Maseru",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Maseru",
         "zh_Hant_TW": "Maseru",
         "zu": "Maseru",
-        "zu_ZA": "Maseru",
-        "sr@latin": "Maseri",
-        "tt@iqtelif": "Maseru"
+        "zu_ZA": "Maseru"
     },
     "B": {
         "af": "Botha-Bothe",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Botha-Bothe",
         "sq_XK": "Botha-Bothe",
         "sr": "Botha-Bothe",
+        "sr@latin": "Botha-Bothe",
         "sr_Cyrl": "Botha-Bothe",
         "sr_Cyrl_BA": "Botha-Bothe",
         "sr_Cyrl_ME": "Botha-Bothe",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Botha-Bothe",
         "tr_TR": "Botha-Bothe",
         "tt": "Botha-Bothe",
+        "tt@iqtelif": "Botha-Bothe",
         "tt_RU": "Botha-Bothe",
         "twq": "Botha-Bothe",
         "twq_NE": "Botha-Bothe",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Botha-Bothe",
         "zh_Hant_TW": "Botha-Bothe",
         "zu": "Botha-Bothe",
-        "zu_ZA": "Botha-Bothe",
-        "sr@latin": "Botha-Bothe",
-        "tt@iqtelif": "Botha-Bothe"
+        "zu_ZA": "Botha-Bothe"
     },
     "C": {
         "af": "Leribe",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Leribe",
         "sq_XK": "Leribe",
         "sr": "Лерибе",
+        "sr@latin": "Leribe",
         "sr_Cyrl": "Лерибе",
         "sr_Cyrl_BA": "Лерибе",
         "sr_Cyrl_ME": "Лерибе",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Leribe",
         "tr_TR": "Leribe",
         "tt": "Leribe",
+        "tt@iqtelif": "Leribe",
         "tt_RU": "Leribe",
         "twq": "Leribe",
         "twq_NE": "Leribe",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Leribe",
         "zh_Hant_TW": "Leribe",
         "zu": "Leribe",
-        "zu_ZA": "Leribe",
-        "sr@latin": "Leribe",
-        "tt@iqtelif": "Leribe"
+        "zu_ZA": "Leribe"
     },
     "D": {
         "af": "Berea",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Berea",
         "sq_XK": "Berea",
         "sr": "Береа",
+        "sr@latin": "Berea",
         "sr_Cyrl": "Береа",
         "sr_Cyrl_BA": "Береа",
         "sr_Cyrl_ME": "Береа",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Berea",
         "tr_TR": "Berea",
         "tt": "Berea",
+        "tt@iqtelif": "Berea",
         "tt_RU": "Berea",
         "twq": "Berea",
         "twq_NE": "Berea",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Berea",
         "zh_Hant_TW": "Berea",
         "zu": "Berea",
-        "zu_ZA": "Berea",
-        "sr@latin": "Berea",
-        "tt@iqtelif": "Berea"
+        "zu_ZA": "Berea"
     },
     "E": {
         "af": "Mafeteng",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Mafeteng",
         "sq_XK": "Mafeteng",
         "sr": "Мафетенг",
+        "sr@latin": "Mafeteng",
         "sr_Cyrl": "Мафетенг",
         "sr_Cyrl_BA": "Мафетенг",
         "sr_Cyrl_ME": "Мафетенг",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Mafeteng",
         "tr_TR": "Mafeteng",
         "tt": "Mafeteng",
+        "tt@iqtelif": "Mafeteng",
         "tt_RU": "Mafeteng",
         "twq": "Mafeteng",
         "twq_NE": "Mafeteng",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Mafeteng",
         "zh_Hant_TW": "Mafeteng",
         "zu": "Mafeteng",
-        "zu_ZA": "Mafeteng",
-        "sr@latin": "Mafeteng",
-        "tt@iqtelif": "Mafeteng"
+        "zu_ZA": "Mafeteng"
     },
     "F": {
         "af": "Mohale's Hoek",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Mohale's Hoek",
         "sq_XK": "Mohale's Hoek",
         "sr": "Mohale's Hoek",
+        "sr@latin": "Mohale's Hoek",
         "sr_Cyrl": "Mohale's Hoek",
         "sr_Cyrl_BA": "Mohale's Hoek",
         "sr_Cyrl_ME": "Mohale's Hoek",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Mohale's Hoek",
         "tr_TR": "Mohale's Hoek",
         "tt": "Mohale's Hoek",
+        "tt@iqtelif": "Mohale's Hoek",
         "tt_RU": "Mohale's Hoek",
         "twq": "Mohale's Hoek",
         "twq_NE": "Mohale's Hoek",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Mohale's Hoek",
         "zh_Hant_TW": "Mohale's Hoek",
         "zu": "Mohale's Hoek",
-        "zu_ZA": "Mohale's Hoek",
-        "sr@latin": "Mohale's Hoek",
-        "tt@iqtelif": "Mohale's Hoek"
+        "zu_ZA": "Mohale's Hoek"
     },
     "G": {
         "af": "Quthing",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Quthing",
         "sq_XK": "Quthing",
         "sr": "Quthing",
+        "sr@latin": "Quthing",
         "sr_Cyrl": "Quthing",
         "sr_Cyrl_BA": "Quthing",
         "sr_Cyrl_ME": "Quthing",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Quthing",
         "tr_TR": "Quthing",
         "tt": "Quthing",
+        "tt@iqtelif": "Quthing",
         "tt_RU": "Quthing",
         "twq": "Quthing",
         "twq_NE": "Quthing",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Quthing",
         "zh_Hant_TW": "Quthing",
         "zu": "Quthing",
-        "zu_ZA": "Quthing",
-        "sr@latin": "Quthing",
-        "tt@iqtelif": "Quthing"
+        "zu_ZA": "Quthing"
     },
     "H": {
         "af": "Qacha's Nek",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Qacha's Nek",
         "sq_XK": "Qacha's Nek",
         "sr": "Qacha's Nek",
+        "sr@latin": "Qacha's Nek",
         "sr_Cyrl": "Qacha's Nek",
         "sr_Cyrl_BA": "Qacha's Nek",
         "sr_Cyrl_ME": "Qacha's Nek",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Qacha's Nek",
         "tr_TR": "Qacha's Nek",
         "tt": "Qacha's Nek",
+        "tt@iqtelif": "Qacha's Nek",
         "tt_RU": "Qacha's Nek",
         "twq": "Qacha's Nek",
         "twq_NE": "Qacha's Nek",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Qacha's Nek",
         "zh_Hant_TW": "Qacha's Nek",
         "zu": "Qacha's Nek",
-        "zu_ZA": "Qacha's Nek",
-        "sr@latin": "Qacha's Nek",
-        "tt@iqtelif": "Qacha's Nek"
+        "zu_ZA": "Qacha's Nek"
     },
     "J": {
         "af": "Mokhotlong",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Mokhotlong",
         "sq_XK": "Mokhotlong",
         "sr": "Мокотлонг",
+        "sr@latin": "Mokotlong",
         "sr_Cyrl": "Мокотлонг",
         "sr_Cyrl_BA": "Мокотлонг",
         "sr_Cyrl_ME": "Мокотлонг",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Mokhotlong",
         "tr_TR": "Mokhotlong",
         "tt": "Mokhotlong",
+        "tt@iqtelif": "Mokhotlong",
         "tt_RU": "Mokhotlong",
         "twq": "Mokhotlong",
         "twq_NE": "Mokhotlong",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Mokhotlong",
         "zh_Hant_TW": "Mokhotlong",
         "zu": "Mokhotlong",
-        "zu_ZA": "Mokhotlong",
-        "sr@latin": "Mokotlong",
-        "tt@iqtelif": "Mokhotlong"
+        "zu_ZA": "Mokhotlong"
     },
     "K": {
         "af": "Thaba-Tseka",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Thaba-Tseka",
         "sq_XK": "Thaba-Tseka",
         "sr": "Thaba-Tseka",
+        "sr@latin": "Thaba-Tseka",
         "sr_Cyrl": "Thaba-Tseka",
         "sr_Cyrl_BA": "Thaba-Tseka",
         "sr_Cyrl_ME": "Thaba-Tseka",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Thaba-Tseka",
         "tr_TR": "Thaba-Tseka",
         "tt": "Thaba-Tseka",
+        "tt@iqtelif": "Thaba-Tseka",
         "tt_RU": "Thaba-Tseka",
         "twq": "Thaba-Tseka",
         "twq_NE": "Thaba-Tseka",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Thaba-Tseka",
         "zh_Hant_TW": "Thaba-Tseka",
         "zu": "Thaba-Tseka",
-        "zu_ZA": "Thaba-Tseka",
-        "sr@latin": "Thaba-Tseka",
-        "tt@iqtelif": "Thaba-Tseka"
+        "zu_ZA": "Thaba-Tseka"
     }
 }

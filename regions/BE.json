@@ -743,6 +743,7 @@
         "sq_MK": "Bruxelles-Capitale, Région de",
         "sq_XK": "Bruxelles-Capitale, Région de",
         "sr": "Bruxelles-Capitale, Région de",
+        "sr@latin": "Bruxelles-Capitale, Région de",
         "sr_Cyrl": "Bruxelles-Capitale, Région de",
         "sr_Cyrl_BA": "Bruxelles-Capitale, Région de",
         "sr_Cyrl_ME": "Bruxelles-Capitale, Région de",
@@ -803,6 +804,7 @@
         "tr_CY": "Bruxelles-Capitale, Région de",
         "tr_TR": "Bruxelles-Capitale, Région de",
         "tt": "Bruxelles-Capitale, Région de",
+        "tt@iqtelif": "Bruxelles-Capitale, Région de",
         "tt_RU": "Bruxelles-Capitale, Région de",
         "twq": "Bruxelles-Capitale, Région de",
         "twq_NE": "Bruxelles-Capitale, Région de",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Bruxelles-Capitale, Région de",
         "zh_Hant_TW": "Bruxelles-Capitale, Région de",
         "zu": "Bruxelles-Capitale, Région de",
-        "zu_ZA": "Bruxelles-Capitale, Région de",
-        "sr@latin": "Bruxelles-Capitale, Région de",
-        "tt@iqtelif": "Bruxelles-Capitale, Région de"
+        "zu_ZA": "Bruxelles-Capitale, Région de"
     },
     "VAN": {
         "af": "Antwerpen",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Antwerpen",
         "sq_XK": "Antwerpen",
         "sr": "Антверпен",
+        "sr@latin": "Antverpen",
         "sr_Cyrl": "Антверпен",
         "sr_Cyrl_BA": "Антверпен",
         "sr_Cyrl_ME": "Антверпен",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Antwerpen",
         "tr_TR": "Antwerpen",
         "tt": "Antwerpen",
+        "tt@iqtelif": "Antwerpen",
         "tt_RU": "Antwerpen",
         "twq": "Antwerpen",
         "twq_NE": "Antwerpen",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Antwerpen",
         "zh_Hant_TW": "Antwerpen",
         "zu": "Antwerpen",
-        "zu_ZA": "Antwerpen",
-        "sr@latin": "Antverpen",
-        "tt@iqtelif": "Antwerpen"
+        "zu_ZA": "Antwerpen"
     },
     "VBR": {
         "af": "Vlaams-Brabant",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Vlaams-Brabant",
         "sq_XK": "Vlaams-Brabant",
         "sr": "Вламс-Брабант",
+        "sr@latin": "Vlams-Brabant",
         "sr_Cyrl": "Вламс-Брабант",
         "sr_Cyrl_BA": "Вламс-Брабант",
         "sr_Cyrl_ME": "Вламс-Брабант",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Vlaams-Brabant",
         "tr_TR": "Vlaams-Brabant",
         "tt": "Vlaams-Brabant",
+        "tt@iqtelif": "Vlaams-Brabant",
         "tt_RU": "Vlaams-Brabant",
         "twq": "Vlaams-Brabant",
         "twq_NE": "Vlaams-Brabant",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Vlaams-Brabant",
         "zh_Hant_TW": "Vlaams-Brabant",
         "zu": "Vlaams-Brabant",
-        "zu_ZA": "Vlaams-Brabant",
-        "sr@latin": "Vlams-Brabant",
-        "tt@iqtelif": "Vlaams-Brabant"
+        "zu_ZA": "Vlaams-Brabant"
     },
     "VLG": {
         "af": "Vlaams Gewest",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Vlaams Gewest",
         "sq_XK": "Vlaams Gewest",
         "sr": "Фландријска област",
+        "sr@latin": "Flandrijska oblast",
         "sr_Cyrl": "Фландријска област",
         "sr_Cyrl_BA": "Фландријска област",
         "sr_Cyrl_ME": "Фландријска област",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Vlaams Gewest",
         "tr_TR": "Vlaams Gewest",
         "tt": "Vlaams Gewest",
+        "tt@iqtelif": "Vlaams Gewest",
         "tt_RU": "Vlaams Gewest",
         "twq": "Vlaams Gewest",
         "twq_NE": "Vlaams Gewest",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Vlaams Gewest",
         "zh_Hant_TW": "Vlaams Gewest",
         "zu": "Vlaams Gewest",
-        "zu_ZA": "Vlaams Gewest",
-        "sr@latin": "Flandrijska oblast",
-        "tt@iqtelif": "Vlaams Gewest"
+        "zu_ZA": "Vlaams Gewest"
     },
     "VLI": {
         "af": "Limburg",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Limburg",
         "sq_XK": "Limburg",
         "sr": "Лимбург",
+        "sr@latin": "Limburg",
         "sr_Cyrl": "Лимбург",
         "sr_Cyrl_BA": "Лимбург",
         "sr_Cyrl_ME": "Лимбург",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Limburg",
         "tr_TR": "Limburg",
         "tt": "Limburg",
+        "tt@iqtelif": "Limburg",
         "tt_RU": "Limburg",
         "twq": "Limburg",
         "twq_NE": "Limburg",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Limburg",
         "zh_Hant_TW": "Limburg",
         "zu": "Limburg",
-        "zu_ZA": "Limburg",
-        "sr@latin": "Limburg",
-        "tt@iqtelif": "Limburg"
+        "zu_ZA": "Limburg"
     },
     "VOV": {
         "af": "Oost-Vlaanderen",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Oost-Vlaanderen",
         "sq_XK": "Oost-Vlaanderen",
         "sr": "Источна Фландрија",
+        "sr@latin": "Istočna Flandrija",
         "sr_Cyrl": "Источна Фландрија",
         "sr_Cyrl_BA": "Источна Фландрија",
         "sr_Cyrl_ME": "Источна Фландрија",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Oost-Vlaanderen",
         "tr_TR": "Oost-Vlaanderen",
         "tt": "Oost-Vlaanderen",
+        "tt@iqtelif": "Oost-Vlaanderen",
         "tt_RU": "Oost-Vlaanderen",
         "twq": "Oost-Vlaanderen",
         "twq_NE": "Oost-Vlaanderen",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Oost-Vlaanderen",
         "zh_Hant_TW": "Oost-Vlaanderen",
         "zu": "Oost-Vlaanderen",
-        "zu_ZA": "Oost-Vlaanderen",
-        "sr@latin": "Istočna Flandrija",
-        "tt@iqtelif": "Oost-Vlaanderen"
+        "zu_ZA": "Oost-Vlaanderen"
     },
     "VWV": {
         "af": "West-Vlaanderen",
@@ -6053,6 +6053,7 @@
         "sq_MK": "West-Vlaanderen",
         "sq_XK": "West-Vlaanderen",
         "sr": "Западна Фландрија",
+        "sr@latin": "Zapadna Flandrija",
         "sr_Cyrl": "Западна Фландрија",
         "sr_Cyrl_BA": "Западна Фландрија",
         "sr_Cyrl_ME": "Западна Фландрија",
@@ -6113,6 +6114,7 @@
         "tr_CY": "West-Vlaanderen",
         "tr_TR": "West-Vlaanderen",
         "tt": "West-Vlaanderen",
+        "tt@iqtelif": "West-Vlaanderen",
         "tt_RU": "West-Vlaanderen",
         "twq": "West-Vlaanderen",
         "twq_NE": "West-Vlaanderen",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "West-Vlaanderen",
         "zh_Hant_TW": "West-Vlaanderen",
         "zu": "West-Vlaanderen",
-        "zu_ZA": "West-Vlaanderen",
-        "sr@latin": "Zapadna Flandrija",
-        "tt@iqtelif": "West-Vlaanderen"
+        "zu_ZA": "West-Vlaanderen"
     },
     "WAL": {
         "af": "wallonne, Région",
@@ -6938,6 +6938,7 @@
         "sq_MK": "wallonne, Région",
         "sq_XK": "wallonne, Région",
         "sr": "Валонска област",
+        "sr@latin": "Valonska oblast",
         "sr_Cyrl": "Валонска област",
         "sr_Cyrl_BA": "Валонска област",
         "sr_Cyrl_ME": "Валонска област",
@@ -6998,6 +6999,7 @@
         "tr_CY": "wallonne, Région",
         "tr_TR": "wallonne, Région",
         "tt": "wallonne, Région",
+        "tt@iqtelif": "wallonne, Région",
         "tt_RU": "wallonne, Région",
         "twq": "wallonne, Région",
         "twq_NE": "wallonne, Région",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "wallonne, Région",
         "zh_Hant_TW": "wallonne, Région",
         "zu": "wallonne, Région",
-        "zu_ZA": "wallonne, Région",
-        "sr@latin": "Valonska oblast",
-        "tt@iqtelif": "wallonne, Région"
+        "zu_ZA": "wallonne, Région"
     },
     "WBR": {
         "af": "Brabant wallon",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Brabant wallon",
         "sq_XK": "Brabant wallon",
         "sr": "Брабан валон",
+        "sr@latin": "Braban valon",
         "sr_Cyrl": "Брабан валон",
         "sr_Cyrl_BA": "Брабан валон",
         "sr_Cyrl_ME": "Брабан валон",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Brabant wallon",
         "tr_TR": "Brabant wallon",
         "tt": "Brabant wallon",
+        "tt@iqtelif": "Brabant wallon",
         "tt_RU": "Brabant wallon",
         "twq": "Brabant wallon",
         "twq_NE": "Brabant wallon",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Brabant wallon",
         "zh_Hant_TW": "Brabant wallon",
         "zu": "Brabant wallon",
-        "zu_ZA": "Brabant wallon",
-        "sr@latin": "Braban valon",
-        "tt@iqtelif": "Brabant wallon"
+        "zu_ZA": "Brabant wallon"
     },
     "WHT": {
         "af": "Hainaut",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Hainaut",
         "sq_XK": "Hainaut",
         "sr": "Хенот",
+        "sr@latin": "Henot",
         "sr_Cyrl": "Хенот",
         "sr_Cyrl_BA": "Хенот",
         "sr_Cyrl_ME": "Хенот",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Hainaut",
         "tr_TR": "Hainaut",
         "tt": "Hainaut",
+        "tt@iqtelif": "Hainaut",
         "tt_RU": "Hainaut",
         "twq": "Hainaut",
         "twq_NE": "Hainaut",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Hainaut",
         "zh_Hant_TW": "Hainaut",
         "zu": "Hainaut",
-        "zu_ZA": "Hainaut",
-        "sr@latin": "Henot",
-        "tt@iqtelif": "Hainaut"
+        "zu_ZA": "Hainaut"
     },
     "WLG": {
         "af": "Liège",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Liège",
         "sq_XK": "Liège",
         "sr": "Лиж",
+        "sr@latin": "Liž",
         "sr_Cyrl": "Лиж",
         "sr_Cyrl_BA": "Лиж",
         "sr_Cyrl_ME": "Лиж",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Liège",
         "tr_TR": "Liège",
         "tt": "Liège",
+        "tt@iqtelif": "Liège",
         "tt_RU": "Liège",
         "twq": "Liège",
         "twq_NE": "Liège",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Liège",
         "zh_Hant_TW": "Liège",
         "zu": "Liège",
-        "zu_ZA": "Liège",
-        "sr@latin": "Liž",
-        "tt@iqtelif": "Liège"
+        "zu_ZA": "Liège"
     },
     "WLX": {
         "af": "Luxembourg",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Luxembourg",
         "sq_XK": "Luxembourg",
         "sr": "Луксембург",
+        "sr@latin": "Luksemburg",
         "sr_Cyrl": "Луксембург",
         "sr_Cyrl_BA": "Луксембург",
         "sr_Cyrl_ME": "Луксембург",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Lüksemburg",
         "tr_TR": "Lüksemburg",
         "tt": "Luxembourg",
+        "tt@iqtelif": "Luxembourg",
         "tt_RU": "Luxembourg",
         "twq": "Luxembourg",
         "twq_NE": "Luxembourg",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Luxembourg",
         "zh_Hant_TW": "Luxembourg",
         "zu": "Luxembourg",
-        "zu_ZA": "Luxembourg",
-        "sr@latin": "Luksemburg",
-        "tt@iqtelif": "Luxembourg"
+        "zu_ZA": "Luxembourg"
     },
     "WNA": {
         "af": "Namur",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Namur",
         "sq_XK": "Namur",
         "sr": "Намур",
+        "sr@latin": "Namur",
         "sr_Cyrl": "Намур",
         "sr_Cyrl_BA": "Намур",
         "sr_Cyrl_ME": "Намур",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Namur",
         "tr_TR": "Namur",
         "tt": "Namur",
+        "tt@iqtelif": "Namur",
         "tt_RU": "Namur",
         "twq": "Namur",
         "twq_NE": "Namur",
@@ -11500,8 +11502,6 @@
         "zh_Hant_MY": "Namur",
         "zh_Hant_TW": "Namur",
         "zu": "Namur",
-        "zu_ZA": "Namur",
-        "sr@latin": "Namur",
-        "tt@iqtelif": "Namur"
+        "zu_ZA": "Namur"
     }
 }

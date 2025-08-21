@@ -743,6 +743,7 @@
         "sq_MK": "Ilhas de Barlavento",
         "sq_XK": "Ilhas de Barlavento",
         "sr": "Ilhas de Barlavento",
+        "sr@latin": "Ilhas de Barlavento",
         "sr_Cyrl": "Ilhas de Barlavento",
         "sr_Cyrl_BA": "Ilhas de Barlavento",
         "sr_Cyrl_ME": "Ilhas de Barlavento",
@@ -803,6 +804,7 @@
         "tr_CY": "Ilhas de Barlavento",
         "tr_TR": "Ilhas de Barlavento",
         "tt": "Ilhas de Barlavento",
+        "tt@iqtelif": "Ilhas de Barlavento",
         "tt_RU": "Ilhas de Barlavento",
         "twq": "Ilhas de Barlavento",
         "twq_NE": "Ilhas de Barlavento",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ilhas de Barlavento",
         "zh_Hant_TW": "Ilhas de Barlavento",
         "zu": "Ilhas de Barlavento",
-        "zu_ZA": "Ilhas de Barlavento",
-        "sr@latin": "Ilhas de Barlavento",
-        "tt@iqtelif": "Ilhas de Barlavento"
+        "zu_ZA": "Ilhas de Barlavento"
     },
     "BR": {
         "af": "Brava",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Brava",
         "sq_XK": "Brava",
         "sr": "Брава",
+        "sr@latin": "Brava",
         "sr_Cyrl": "Брава",
         "sr_Cyrl_BA": "Брава",
         "sr_Cyrl_ME": "Брава",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Brava",
         "tr_TR": "Brava",
         "tt": "Brava",
+        "tt@iqtelif": "Brava",
         "tt_RU": "Brava",
         "twq": "Brava",
         "twq_NE": "Brava",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Brava",
         "zh_Hant_TW": "Brava",
         "zu": "Brava",
-        "zu_ZA": "Brava",
-        "sr@latin": "Brava",
-        "tt@iqtelif": "Brava"
+        "zu_ZA": "Brava"
     },
     "BV": {
         "af": "Boa Vista",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Boa Vista",
         "sq_XK": "Boa Vista",
         "sr": "Боа Виста",
+        "sr@latin": "Boa Vista",
         "sr_Cyrl": "Боа Виста",
         "sr_Cyrl_BA": "Боа Виста",
         "sr_Cyrl_ME": "Боа Виста",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Boa Vista",
         "tr_TR": "Boa Vista",
         "tt": "Boa Vista",
+        "tt@iqtelif": "Boa Vista",
         "tt_RU": "Boa Vista",
         "twq": "Boa Vista",
         "twq_NE": "Boa Vista",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Boa Vista",
         "zh_Hant_TW": "Boa Vista",
         "zu": "Boa Vista",
-        "zu_ZA": "Boa Vista",
-        "sr@latin": "Boa Vista",
-        "tt@iqtelif": "Boa Vista"
+        "zu_ZA": "Boa Vista"
     },
     "CA": {
         "af": "Santa Catarina",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Santa Catarina",
         "sq_XK": "Santa Catarina",
         "sr": "Санта Катарина",
+        "sr@latin": "Santa Katarina",
         "sr_Cyrl": "Санта Катарина",
         "sr_Cyrl_BA": "Санта Катарина",
         "sr_Cyrl_ME": "Санта Катарина",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Santa Catarina",
         "tr_TR": "Santa Catarina",
         "tt": "Santa Catarina",
+        "tt@iqtelif": "Santa Catarina",
         "tt_RU": "Santa Catarina",
         "twq": "Santa Catarina",
         "twq_NE": "Santa Catarina",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Santa Catarina",
         "zh_Hant_TW": "Santa Catarina",
         "zu": "Santa Catarina",
-        "zu_ZA": "Santa Catarina",
-        "sr@latin": "Santa Katarina",
-        "tt@iqtelif": "Santa Catarina"
+        "zu_ZA": "Santa Catarina"
     },
     "CF": {
         "af": "Santa Catarina do Fogo",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Santa Catarina do Fogo",
         "sq_XK": "Santa Catarina do Fogo",
         "sr": "Santa Catarina do Fogo",
+        "sr@latin": "Santa Catarina do Fogo",
         "sr_Cyrl": "Santa Catarina do Fogo",
         "sr_Cyrl_BA": "Santa Catarina do Fogo",
         "sr_Cyrl_ME": "Santa Catarina do Fogo",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Santa Catarina do Fogo",
         "tr_TR": "Santa Catarina do Fogo",
         "tt": "Santa Catarina do Fogo",
+        "tt@iqtelif": "Santa Catarina do Fogo",
         "tt_RU": "Santa Catarina do Fogo",
         "twq": "Santa Catarina do Fogo",
         "twq_NE": "Santa Catarina do Fogo",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Santa Catarina do Fogo",
         "zh_Hant_TW": "Santa Catarina do Fogo",
         "zu": "Santa Catarina do Fogo",
-        "zu_ZA": "Santa Catarina do Fogo",
-        "sr@latin": "Santa Catarina do Fogo",
-        "tt@iqtelif": "Santa Catarina do Fogo"
+        "zu_ZA": "Santa Catarina do Fogo"
     },
     "CR": {
         "af": "Santa Cruz",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Santa Cruz",
         "sq_XK": "Santa Cruz",
         "sr": "Санта Круз",
+        "sr@latin": "Santa Kruz",
         "sr_Cyrl": "Санта Круз",
         "sr_Cyrl_BA": "Санта Круз",
         "sr_Cyrl_ME": "Санта Круз",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Santa Cruz",
         "tr_TR": "Santa Cruz",
         "tt": "Santa Cruz",
+        "tt@iqtelif": "Santa Cruz",
         "tt_RU": "Santa Cruz",
         "twq": "Santa Cruz",
         "twq_NE": "Santa Cruz",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Santa Cruz",
         "zh_Hant_TW": "Santa Cruz",
         "zu": "Santa Cruz",
-        "zu_ZA": "Santa Cruz",
-        "sr@latin": "Santa Kruz",
-        "tt@iqtelif": "Santa Cruz"
+        "zu_ZA": "Santa Cruz"
     },
     "MA": {
         "af": "Maio",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Maio",
         "sq_XK": "Maio",
         "sr": "Мајо",
+        "sr@latin": "Majo",
         "sr_Cyrl": "Мајо",
         "sr_Cyrl_BA": "Мајо",
         "sr_Cyrl_ME": "Мајо",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Maio",
         "tr_TR": "Maio",
         "tt": "Maio",
+        "tt@iqtelif": "Maio",
         "tt_RU": "Maio",
         "twq": "Maio",
         "twq_NE": "Maio",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Maio",
         "zh_Hant_TW": "Maio",
         "zu": "Maio",
-        "zu_ZA": "Maio",
-        "sr@latin": "Majo",
-        "tt@iqtelif": "Maio"
+        "zu_ZA": "Maio"
     },
     "MO": {
         "af": "Mosteiros",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Mosteiros",
         "sq_XK": "Mosteiros",
         "sr": "Мостеирос",
+        "sr@latin": "Mosteiros",
         "sr_Cyrl": "Мостеирос",
         "sr_Cyrl_BA": "Мостеирос",
         "sr_Cyrl_ME": "Мостеирос",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Mosteiros",
         "tr_TR": "Mosteiros",
         "tt": "Mosteiros",
+        "tt@iqtelif": "Mosteiros",
         "tt_RU": "Mosteiros",
         "twq": "Mosteiros",
         "twq_NE": "Mosteiros",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Mosteiros",
         "zh_Hant_TW": "Mosteiros",
         "zu": "Mosteiros",
-        "zu_ZA": "Mosteiros",
-        "sr@latin": "Mosteiros",
-        "tt@iqtelif": "Mosteiros"
+        "zu_ZA": "Mosteiros"
     },
     "PA": {
         "af": "Paul",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Paul",
         "sq_XK": "Paul",
         "sr": "Пол",
+        "sr@latin": "Pol",
         "sr_Cyrl": "Пол",
         "sr_Cyrl_BA": "Пол",
         "sr_Cyrl_ME": "Пол",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Paul",
         "tr_TR": "Paul",
         "tt": "Paul",
+        "tt@iqtelif": "Paul",
         "tt_RU": "Paul",
         "twq": "Paul",
         "twq_NE": "Paul",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Paul",
         "zh_Hant_TW": "Paul",
         "zu": "Paul",
-        "zu_ZA": "Paul",
-        "sr@latin": "Pol",
-        "tt@iqtelif": "Paul"
+        "zu_ZA": "Paul"
     },
     "PN": {
         "af": "Porto Novo",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Porto Novo",
         "sq_XK": "Porto Novo",
         "sr": "Порто Ново",
+        "sr@latin": "Porto Novo",
         "sr_Cyrl": "Порто Ново",
         "sr_Cyrl_BA": "Порто Ново",
         "sr_Cyrl_ME": "Порто Ново",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Porto Novo",
         "tr_TR": "Porto Novo",
         "tt": "Porto Novo",
+        "tt@iqtelif": "Porto Novo",
         "tt_RU": "Porto Novo",
         "twq": "Porto Novo",
         "twq_NE": "Porto Novo",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Porto Novo",
         "zh_Hant_TW": "Porto Novo",
         "zu": "Porto Novo",
-        "zu_ZA": "Porto Novo",
-        "sr@latin": "Porto Novo",
-        "tt@iqtelif": "Porto Novo"
+        "zu_ZA": "Porto Novo"
     },
     "PR": {
         "af": "Praia",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Praia",
         "sq_XK": "Praia",
         "sr": "Praia",
+        "sr@latin": "Praia",
         "sr_Cyrl": "Praia",
         "sr_Cyrl_BA": "Praia",
         "sr_Cyrl_ME": "Praia",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Praia",
         "tr_TR": "Praia",
         "tt": "Praia",
+        "tt@iqtelif": "Praia",
         "tt_RU": "Praia",
         "twq": "Praia",
         "twq_NE": "Praia",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Praia",
         "zh_Hant_TW": "Praia",
         "zu": "Praia",
-        "zu_ZA": "Praia",
-        "sr@latin": "Praia",
-        "tt@iqtelif": "Praia"
+        "zu_ZA": "Praia"
     },
     "RB": {
         "af": "Ribeira Brava",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Ribeira Brava",
         "sq_XK": "Ribeira Brava",
         "sr": "Ribeira Brava",
+        "sr@latin": "Ribeira Brava",
         "sr_Cyrl": "Ribeira Brava",
         "sr_Cyrl_BA": "Ribeira Brava",
         "sr_Cyrl_ME": "Ribeira Brava",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Ribeira Brava",
         "tr_TR": "Ribeira Brava",
         "tt": "Ribeira Brava",
+        "tt@iqtelif": "Ribeira Brava",
         "tt_RU": "Ribeira Brava",
         "twq": "Ribeira Brava",
         "twq_NE": "Ribeira Brava",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Ribeira Brava",
         "zh_Hant_TW": "Ribeira Brava",
         "zu": "Ribeira Brava",
-        "zu_ZA": "Ribeira Brava",
-        "sr@latin": "Ribeira Brava",
-        "tt@iqtelif": "Ribeira Brava"
+        "zu_ZA": "Ribeira Brava"
     },
     "RG": {
         "af": "Ribeira Grande",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Ribeira Grande",
         "sq_XK": "Ribeira Grande",
         "sr": "Ribeira Grande",
+        "sr@latin": "Ribeira Grande",
         "sr_Cyrl": "Ribeira Grande",
         "sr_Cyrl_BA": "Ribeira Grande",
         "sr_Cyrl_ME": "Ribeira Grande",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Ribeira Grande",
         "tr_TR": "Ribeira Grande",
         "tt": "Ribeira Grande",
+        "tt@iqtelif": "Ribeira Grande",
         "tt_RU": "Ribeira Grande",
         "twq": "Ribeira Grande",
         "twq_NE": "Ribeira Grande",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Ribeira Grande",
         "zh_Hant_TW": "Ribeira Grande",
         "zu": "Ribeira Grande",
-        "zu_ZA": "Ribeira Grande",
-        "sr@latin": "Ribeira Grande",
-        "tt@iqtelif": "Ribeira Grande"
+        "zu_ZA": "Ribeira Grande"
     },
     "RS": {
         "af": "Ribeira Grande de Santiago",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Ribeira Grande de Santiago",
         "sq_XK": "Ribeira Grande de Santiago",
         "sr": "Ribeira Grande de Santiago",
+        "sr@latin": "Ribeira Grande de Santiago",
         "sr_Cyrl": "Ribeira Grande de Santiago",
         "sr_Cyrl_BA": "Ribeira Grande de Santiago",
         "sr_Cyrl_ME": "Ribeira Grande de Santiago",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Ribeira Grande de Santiago",
         "tr_TR": "Ribeira Grande de Santiago",
         "tt": "Ribeira Grande de Santiago",
+        "tt@iqtelif": "Ribeira Grande de Santiago",
         "tt_RU": "Ribeira Grande de Santiago",
         "twq": "Ribeira Grande de Santiago",
         "twq_NE": "Ribeira Grande de Santiago",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Ribeira Grande de Santiago",
         "zh_Hant_TW": "Ribeira Grande de Santiago",
         "zu": "Ribeira Grande de Santiago",
-        "zu_ZA": "Ribeira Grande de Santiago",
-        "sr@latin": "Ribeira Grande de Santiago",
-        "tt@iqtelif": "Ribeira Grande de Santiago"
+        "zu_ZA": "Ribeira Grande de Santiago"
     },
     "S": {
         "af": "Ilhas de Sotavento",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Ilhas de Sotavento",
         "sq_XK": "Ilhas de Sotavento",
         "sr": "Ilhas de Sotavento",
+        "sr@latin": "Ilhas de Sotavento",
         "sr_Cyrl": "Ilhas de Sotavento",
         "sr_Cyrl_BA": "Ilhas de Sotavento",
         "sr_Cyrl_ME": "Ilhas de Sotavento",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Ilhas de Sotavento",
         "tr_TR": "Ilhas de Sotavento",
         "tt": "Ilhas de Sotavento",
+        "tt@iqtelif": "Ilhas de Sotavento",
         "tt_RU": "Ilhas de Sotavento",
         "twq": "Ilhas de Sotavento",
         "twq_NE": "Ilhas de Sotavento",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Ilhas de Sotavento",
         "zh_Hant_TW": "Ilhas de Sotavento",
         "zu": "Ilhas de Sotavento",
-        "zu_ZA": "Ilhas de Sotavento",
-        "sr@latin": "Ilhas de Sotavento",
-        "tt@iqtelif": "Ilhas de Sotavento"
+        "zu_ZA": "Ilhas de Sotavento"
     },
     "SD": {
         "af": "São Domingos",
@@ -14018,6 +14018,7 @@
         "sq_MK": "São Domingos",
         "sq_XK": "São Domingos",
         "sr": "Санто Доминго",
+        "sr@latin": "Santo Domingo",
         "sr_Cyrl": "Санто Доминго",
         "sr_Cyrl_BA": "Санто Доминго",
         "sr_Cyrl_ME": "Санто Доминго",
@@ -14078,6 +14079,7 @@
         "tr_CY": "São Domingos",
         "tr_TR": "São Domingos",
         "tt": "São Domingos",
+        "tt@iqtelif": "São Domingos",
         "tt_RU": "São Domingos",
         "twq": "São Domingos",
         "twq_NE": "São Domingos",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "São Domingos",
         "zh_Hant_TW": "São Domingos",
         "zu": "São Domingos",
-        "zu_ZA": "São Domingos",
-        "sr@latin": "Santo Domingo",
-        "tt@iqtelif": "São Domingos"
+        "zu_ZA": "São Domingos"
     },
     "SF": {
         "af": "São Filipe",
@@ -14903,6 +14903,7 @@
         "sq_MK": "São Filipe",
         "sq_XK": "São Filipe",
         "sr": "Сао Филипе",
+        "sr@latin": "Sao Filipe",
         "sr_Cyrl": "Сао Филипе",
         "sr_Cyrl_BA": "Сао Филипе",
         "sr_Cyrl_ME": "Сао Филипе",
@@ -14963,6 +14964,7 @@
         "tr_CY": "São Filipe",
         "tr_TR": "São Filipe",
         "tt": "São Filipe",
+        "tt@iqtelif": "São Filipe",
         "tt_RU": "São Filipe",
         "twq": "São Filipe",
         "twq_NE": "São Filipe",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "São Filipe",
         "zh_Hant_TW": "São Filipe",
         "zu": "São Filipe",
-        "zu_ZA": "São Filipe",
-        "sr@latin": "Sao Filipe",
-        "tt@iqtelif": "São Filipe"
+        "zu_ZA": "São Filipe"
     },
     "SL": {
         "af": "Sal",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Sal",
         "sq_XK": "Sal",
         "sr": "Сал",
+        "sr@latin": "Sal",
         "sr_Cyrl": "Сал",
         "sr_Cyrl_BA": "Сал",
         "sr_Cyrl_ME": "Сал",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Sal",
         "tr_TR": "Sal",
         "tt": "Sal",
+        "tt@iqtelif": "Sal",
         "tt_RU": "Sal",
         "twq": "Sal",
         "twq_NE": "Sal",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Sal",
         "zh_Hant_TW": "Sal",
         "zu": "Sal",
-        "zu_ZA": "Sal",
-        "sr@latin": "Sal",
-        "tt@iqtelif": "Sal"
+        "zu_ZA": "Sal"
     },
     "SM": {
         "af": "São Miguel",
@@ -16673,6 +16673,7 @@
         "sq_MK": "São Miguel",
         "sq_XK": "São Miguel",
         "sr": "Сао Мигел",
+        "sr@latin": "Sao Migel",
         "sr_Cyrl": "Сао Мигел",
         "sr_Cyrl_BA": "Сао Мигел",
         "sr_Cyrl_ME": "Сао Мигел",
@@ -16733,6 +16734,7 @@
         "tr_CY": "São Miguel",
         "tr_TR": "São Miguel",
         "tt": "São Miguel",
+        "tt@iqtelif": "São Miguel",
         "tt_RU": "São Miguel",
         "twq": "São Miguel",
         "twq_NE": "São Miguel",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "São Miguel",
         "zh_Hant_TW": "São Miguel",
         "zu": "São Miguel",
-        "zu_ZA": "São Miguel",
-        "sr@latin": "Sao Migel",
-        "tt@iqtelif": "São Miguel"
+        "zu_ZA": "São Miguel"
     },
     "SO": {
         "af": "São Lourenço dos Órgãos",
@@ -17558,6 +17558,7 @@
         "sq_MK": "São Lourenço dos Órgãos",
         "sq_XK": "São Lourenço dos Órgãos",
         "sr": "São Lourenço dos Órgãos",
+        "sr@latin": "São Lourenço dos Órgãos",
         "sr_Cyrl": "São Lourenço dos Órgãos",
         "sr_Cyrl_BA": "São Lourenço dos Órgãos",
         "sr_Cyrl_ME": "São Lourenço dos Órgãos",
@@ -17618,6 +17619,7 @@
         "tr_CY": "São Lourenço dos Órgãos",
         "tr_TR": "São Lourenço dos Órgãos",
         "tt": "São Lourenço dos Órgãos",
+        "tt@iqtelif": "São Lourenço dos Órgãos",
         "tt_RU": "São Lourenço dos Órgãos",
         "twq": "São Lourenço dos Órgãos",
         "twq_NE": "São Lourenço dos Órgãos",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "São Lourenço dos Órgãos",
         "zh_Hant_TW": "São Lourenço dos Órgãos",
         "zu": "São Lourenço dos Órgãos",
-        "zu_ZA": "São Lourenço dos Órgãos",
-        "sr@latin": "São Lourenço dos Órgãos",
-        "tt@iqtelif": "São Lourenço dos Órgãos"
+        "zu_ZA": "São Lourenço dos Órgãos"
     },
     "SS": {
         "af": "São Salvador do Mundo",
@@ -18443,6 +18443,7 @@
         "sq_MK": "São Salvador do Mundo",
         "sq_XK": "São Salvador do Mundo",
         "sr": "São Salvador do Mundo",
+        "sr@latin": "São Salvador do Mundo",
         "sr_Cyrl": "São Salvador do Mundo",
         "sr_Cyrl_BA": "São Salvador do Mundo",
         "sr_Cyrl_ME": "São Salvador do Mundo",
@@ -18503,6 +18504,7 @@
         "tr_CY": "São Salvador do Mundo",
         "tr_TR": "São Salvador do Mundo",
         "tt": "São Salvador do Mundo",
+        "tt@iqtelif": "São Salvador do Mundo",
         "tt_RU": "São Salvador do Mundo",
         "twq": "São Salvador do Mundo",
         "twq_NE": "São Salvador do Mundo",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "São Salvador do Mundo",
         "zh_Hant_TW": "São Salvador do Mundo",
         "zu": "São Salvador do Mundo",
-        "zu_ZA": "São Salvador do Mundo",
-        "sr@latin": "São Salvador do Mundo",
-        "tt@iqtelif": "São Salvador do Mundo"
+        "zu_ZA": "São Salvador do Mundo"
     },
     "SV": {
         "af": "São Vicente",
@@ -19328,6 +19328,7 @@
         "sq_MK": "São Vicente",
         "sq_XK": "São Vicente",
         "sr": "Сао Висенте",
+        "sr@latin": "Sao Visente",
         "sr_Cyrl": "Сао Висенте",
         "sr_Cyrl_BA": "Сао Висенте",
         "sr_Cyrl_ME": "Сао Висенте",
@@ -19388,6 +19389,7 @@
         "tr_CY": "São Vicente",
         "tr_TR": "São Vicente",
         "tt": "São Vicente",
+        "tt@iqtelif": "São Vicente",
         "tt_RU": "São Vicente",
         "twq": "São Vicente",
         "twq_NE": "São Vicente",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "São Vicente",
         "zh_Hant_TW": "São Vicente",
         "zu": "São Vicente",
-        "zu_ZA": "São Vicente",
-        "sr@latin": "Sao Visente",
-        "tt@iqtelif": "São Vicente"
+        "zu_ZA": "São Vicente"
     },
     "TA": {
         "af": "Tarrafal",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Tarrafal",
         "sq_XK": "Tarrafal",
         "sr": "Тарафал",
+        "sr@latin": "Tarafal",
         "sr_Cyrl": "Тарафал",
         "sr_Cyrl_BA": "Тарафал",
         "sr_Cyrl_ME": "Тарафал",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Tarrafal",
         "tr_TR": "Tarrafal",
         "tt": "Tarrafal",
+        "tt@iqtelif": "Tarrafal",
         "tt_RU": "Tarrafal",
         "twq": "Tarrafal",
         "twq_NE": "Tarrafal",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Tarrafal",
         "zh_Hant_TW": "Tarrafal",
         "zu": "Tarrafal",
-        "zu_ZA": "Tarrafal",
-        "sr@latin": "Tarafal",
-        "tt@iqtelif": "Tarrafal"
+        "zu_ZA": "Tarrafal"
     },
     "TS": {
         "af": "Tarrafal de São Nicolau",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Tarrafal de São Nicolau",
         "sq_XK": "Tarrafal de São Nicolau",
         "sr": "Tarrafal de São Nicolau",
+        "sr@latin": "Tarrafal de São Nicolau",
         "sr_Cyrl": "Tarrafal de São Nicolau",
         "sr_Cyrl_BA": "Tarrafal de São Nicolau",
         "sr_Cyrl_ME": "Tarrafal de São Nicolau",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Tarrafal de São Nicolau",
         "tr_TR": "Tarrafal de São Nicolau",
         "tt": "Tarrafal de São Nicolau",
+        "tt@iqtelif": "Tarrafal de São Nicolau",
         "tt_RU": "Tarrafal de São Nicolau",
         "twq": "Tarrafal de São Nicolau",
         "twq_NE": "Tarrafal de São Nicolau",
@@ -21235,8 +21237,6 @@
         "zh_Hant_MY": "Tarrafal de São Nicolau",
         "zh_Hant_TW": "Tarrafal de São Nicolau",
         "zu": "Tarrafal de São Nicolau",
-        "zu_ZA": "Tarrafal de São Nicolau",
-        "sr@latin": "Tarrafal de São Nicolau",
-        "tt@iqtelif": "Tarrafal de São Nicolau"
+        "zu_ZA": "Tarrafal de São Nicolau"
     }
 }

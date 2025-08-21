@@ -743,6 +743,7 @@
         "sq_MK": "Johor",
         "sq_XK": "Johor",
         "sr": "Џохор",
+        "sr@latin": "Džohor",
         "sr_Cyrl": "Џохор",
         "sr_Cyrl_BA": "Џохор",
         "sr_Cyrl_ME": "Џохор",
@@ -803,6 +804,7 @@
         "tr_CY": "Johor",
         "tr_TR": "Johor",
         "tt": "Johor",
+        "tt@iqtelif": "Johor",
         "tt_RU": "Johor",
         "twq": "Johor",
         "twq_NE": "Johor",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Johor",
         "zh_Hant_TW": "Johor",
         "zu": "Johor",
-        "zu_ZA": "Johor",
-        "sr@latin": "Džohor",
-        "tt@iqtelif": "Johor"
+        "zu_ZA": "Johor"
     },
     "02": {
         "af": "Kedah",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kedah",
         "sq_XK": "Kedah",
         "sr": "Кедах",
+        "sr@latin": "Kedah",
         "sr_Cyrl": "Кедах",
         "sr_Cyrl_BA": "Кедах",
         "sr_Cyrl_ME": "Кедах",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kedah",
         "tr_TR": "Kedah",
         "tt": "Kedah",
+        "tt@iqtelif": "Kedah",
         "tt_RU": "Kedah",
         "twq": "Kedah",
         "twq_NE": "Kedah",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kedah",
         "zh_Hant_TW": "Kedah",
         "zu": "Kedah",
-        "zu_ZA": "Kedah",
-        "sr@latin": "Kedah",
-        "tt@iqtelif": "Kedah"
+        "zu_ZA": "Kedah"
     },
     "03": {
         "af": "Kelantan",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Kelantan",
         "sq_XK": "Kelantan",
         "sr": "Келантан",
+        "sr@latin": "Kelantan",
         "sr_Cyrl": "Келантан",
         "sr_Cyrl_BA": "Келантан",
         "sr_Cyrl_ME": "Келантан",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Kelantan",
         "tr_TR": "Kelantan",
         "tt": "Kelantan",
+        "tt@iqtelif": "Kelantan",
         "tt_RU": "Kelantan",
         "twq": "Kelantan",
         "twq_NE": "Kelantan",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Kelantan",
         "zh_Hant_TW": "Kelantan",
         "zu": "Kelantan",
-        "zu_ZA": "Kelantan",
-        "sr@latin": "Kelantan",
-        "tt@iqtelif": "Kelantan"
+        "zu_ZA": "Kelantan"
     },
     "04": {
         "af": "Melaka",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Melaka",
         "sq_XK": "Melaka",
         "sr": "Мелака",
+        "sr@latin": "Melaka",
         "sr_Cyrl": "Мелака",
         "sr_Cyrl_BA": "Мелака",
         "sr_Cyrl_ME": "Мелака",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Melaka",
         "tr_TR": "Melaka",
         "tt": "Melaka",
+        "tt@iqtelif": "Melaka",
         "tt_RU": "Melaka",
         "twq": "Melaka",
         "twq_NE": "Melaka",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Melaka",
         "zh_Hant_TW": "Melaka",
         "zu": "Melaka",
-        "zu_ZA": "Melaka",
-        "sr@latin": "Melaka",
-        "tt@iqtelif": "Melaka"
+        "zu_ZA": "Melaka"
     },
     "05": {
         "af": "Negeri Sembilan",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Negeri Sembilan",
         "sq_XK": "Negeri Sembilan",
         "sr": "Negeri Sembilan",
+        "sr@latin": "Negeri Sembilan",
         "sr_Cyrl": "Negeri Sembilan",
         "sr_Cyrl_BA": "Negeri Sembilan",
         "sr_Cyrl_ME": "Negeri Sembilan",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Negeri Sembilan",
         "tr_TR": "Negeri Sembilan",
         "tt": "Negeri Sembilan",
+        "tt@iqtelif": "Negeri Sembilan",
         "tt_RU": "Negeri Sembilan",
         "twq": "Negeri Sembilan",
         "twq_NE": "Negeri Sembilan",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Negeri Sembilan",
         "zh_Hant_TW": "Negeri Sembilan",
         "zu": "Negeri Sembilan",
-        "zu_ZA": "Negeri Sembilan",
-        "sr@latin": "Negeri Sembilan",
-        "tt@iqtelif": "Negeri Sembilan"
+        "zu_ZA": "Negeri Sembilan"
     },
     "06": {
         "af": "Pahang",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Pahang",
         "sq_XK": "Pahang",
         "sr": "Паханг",
+        "sr@latin": "Pahang",
         "sr_Cyrl": "Паханг",
         "sr_Cyrl_BA": "Паханг",
         "sr_Cyrl_ME": "Паханг",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Pahang",
         "tr_TR": "Pahang",
         "tt": "Pahang",
+        "tt@iqtelif": "Pahang",
         "tt_RU": "Pahang",
         "twq": "Pahang",
         "twq_NE": "Pahang",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Pahang",
         "zh_Hant_TW": "Pahang",
         "zu": "Pahang",
-        "zu_ZA": "Pahang",
-        "sr@latin": "Pahang",
-        "tt@iqtelif": "Pahang"
+        "zu_ZA": "Pahang"
     },
     "07": {
         "af": "Pulau Pinang",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Pulau Pinang",
         "sq_XK": "Pulau Pinang",
         "sr": "Pulau Pinang",
+        "sr@latin": "Pulau Pinang",
         "sr_Cyrl": "Pulau Pinang",
         "sr_Cyrl_BA": "Pulau Pinang",
         "sr_Cyrl_ME": "Pulau Pinang",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Pulau Pinang",
         "tr_TR": "Pulau Pinang",
         "tt": "Pulau Pinang",
+        "tt@iqtelif": "Pulau Pinang",
         "tt_RU": "Pulau Pinang",
         "twq": "Pulau Pinang",
         "twq_NE": "Pulau Pinang",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Pulau Pinang",
         "zh_Hant_TW": "Pulau Pinang",
         "zu": "Pulau Pinang",
-        "zu_ZA": "Pulau Pinang",
-        "sr@latin": "Pulau Pinang",
-        "tt@iqtelif": "Pulau Pinang"
+        "zu_ZA": "Pulau Pinang"
     },
     "08": {
         "af": "Perak",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Perak",
         "sq_XK": "Perak",
         "sr": "Перак",
+        "sr@latin": "Perak",
         "sr_Cyrl": "Перак",
         "sr_Cyrl_BA": "Перак",
         "sr_Cyrl_ME": "Перак",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Perak",
         "tr_TR": "Perak",
         "tt": "Perak",
+        "tt@iqtelif": "Perak",
         "tt_RU": "Perak",
         "twq": "Perak",
         "twq_NE": "Perak",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Perak",
         "zh_Hant_TW": "Perak",
         "zu": "Perak",
-        "zu_ZA": "Perak",
-        "sr@latin": "Perak",
-        "tt@iqtelif": "Perak"
+        "zu_ZA": "Perak"
     },
     "09": {
         "af": "Perlis",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Perlis",
         "sq_XK": "Perlis",
         "sr": "Перлис",
+        "sr@latin": "Perlis",
         "sr_Cyrl": "Перлис",
         "sr_Cyrl_BA": "Перлис",
         "sr_Cyrl_ME": "Перлис",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Perlis",
         "tr_TR": "Perlis",
         "tt": "Perlis",
+        "tt@iqtelif": "Perlis",
         "tt_RU": "Perlis",
         "twq": "Perlis",
         "twq_NE": "Perlis",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Perlis",
         "zh_Hant_TW": "Perlis",
         "zu": "Perlis",
-        "zu_ZA": "Perlis",
-        "sr@latin": "Perlis",
-        "tt@iqtelif": "Perlis"
+        "zu_ZA": "Perlis"
     },
     "10": {
         "af": "Selangor",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Selangor",
         "sq_XK": "Selangor",
         "sr": "Селангор",
+        "sr@latin": "Selangor",
         "sr_Cyrl": "Селангор",
         "sr_Cyrl_BA": "Селангор",
         "sr_Cyrl_ME": "Селангор",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Selangor",
         "tr_TR": "Selangor",
         "tt": "Selangor",
+        "tt@iqtelif": "Selangor",
         "tt_RU": "Selangor",
         "twq": "Selangor",
         "twq_NE": "Selangor",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Selangor",
         "zh_Hant_TW": "Selangor",
         "zu": "Selangor",
-        "zu_ZA": "Selangor",
-        "sr@latin": "Selangor",
-        "tt@iqtelif": "Selangor"
+        "zu_ZA": "Selangor"
     },
     "11": {
         "af": "Terengganu",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Terengganu",
         "sq_XK": "Terengganu",
         "sr": "Terengganu",
+        "sr@latin": "Terengganu",
         "sr_Cyrl": "Terengganu",
         "sr_Cyrl_BA": "Terengganu",
         "sr_Cyrl_ME": "Terengganu",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Terengganu",
         "tr_TR": "Terengganu",
         "tt": "Terengganu",
+        "tt@iqtelif": "Terengganu",
         "tt_RU": "Terengganu",
         "twq": "Terengganu",
         "twq_NE": "Terengganu",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Terengganu",
         "zh_Hant_TW": "Terengganu",
         "zu": "Terengganu",
-        "zu_ZA": "Terengganu",
-        "sr@latin": "Terengganu",
-        "tt@iqtelif": "Terengganu"
+        "zu_ZA": "Terengganu"
     },
     "12": {
         "af": "Sabah",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Sabah",
         "sq_XK": "Sabah",
         "sr": "Саба",
+        "sr@latin": "Saba",
         "sr_Cyrl": "Саба",
         "sr_Cyrl_BA": "Саба",
         "sr_Cyrl_ME": "Саба",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Sabah",
         "tr_TR": "Sabah",
         "tt": "Sabah",
+        "tt@iqtelif": "Sabah",
         "tt_RU": "Sabah",
         "twq": "Sabah",
         "twq_NE": "Sabah",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Sabah",
         "zh_Hant_TW": "Sabah",
         "zu": "Sabah",
-        "zu_ZA": "Sabah",
-        "sr@latin": "Saba",
-        "tt@iqtelif": "Sabah"
+        "zu_ZA": "Sabah"
     },
     "13": {
         "af": "Sarawak",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Sarawak",
         "sq_XK": "Sarawak",
         "sr": "Саравак",
+        "sr@latin": "Saravak",
         "sr_Cyrl": "Саравак",
         "sr_Cyrl_BA": "Саравак",
         "sr_Cyrl_ME": "Саравак",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Sarawak",
         "tr_TR": "Sarawak",
         "tt": "Sarawak",
+        "tt@iqtelif": "Sarawak",
         "tt_RU": "Sarawak",
         "twq": "Sarawak",
         "twq_NE": "Sarawak",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Sarawak",
         "zh_Hant_TW": "Sarawak",
         "zu": "Sarawak",
-        "zu_ZA": "Sarawak",
-        "sr@latin": "Saravak",
-        "tt@iqtelif": "Sarawak"
+        "zu_ZA": "Sarawak"
     },
     "14": {
         "af": "Wilayah Persekutuan Kuala Lumpur",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Wilayah Persekutuan Kuala Lumpur",
         "sq_XK": "Wilayah Persekutuan Kuala Lumpur",
         "sr": "Wilayah Persekutuan Kuala Lumpur",
+        "sr@latin": "Wilayah Persekutuan Kuala Lumpur",
         "sr_Cyrl": "Wilayah Persekutuan Kuala Lumpur",
         "sr_Cyrl_BA": "Wilayah Persekutuan Kuala Lumpur",
         "sr_Cyrl_ME": "Wilayah Persekutuan Kuala Lumpur",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Wilayah Persekutuan Kuala Lumpur",
         "tr_TR": "Wilayah Persekutuan Kuala Lumpur",
         "tt": "Wilayah Persekutuan Kuala Lumpur",
+        "tt@iqtelif": "Wilayah Persekutuan Kuala Lumpur",
         "tt_RU": "Wilayah Persekutuan Kuala Lumpur",
         "twq": "Wilayah Persekutuan Kuala Lumpur",
         "twq_NE": "Wilayah Persekutuan Kuala Lumpur",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Wilayah Persekutuan Kuala Lumpur",
         "zh_Hant_TW": "Wilayah Persekutuan Kuala Lumpur",
         "zu": "Wilayah Persekutuan Kuala Lumpur",
-        "zu_ZA": "Wilayah Persekutuan Kuala Lumpur",
-        "sr@latin": "Wilayah Persekutuan Kuala Lumpur",
-        "tt@iqtelif": "Wilayah Persekutuan Kuala Lumpur"
+        "zu_ZA": "Wilayah Persekutuan Kuala Lumpur"
     },
     "15": {
         "af": "Wilayah Persekutuan Labuan",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Wilayah Persekutuan Labuan",
         "sq_XK": "Wilayah Persekutuan Labuan",
         "sr": "Wilayah Persekutuan Labuan",
+        "sr@latin": "Wilayah Persekutuan Labuan",
         "sr_Cyrl": "Wilayah Persekutuan Labuan",
         "sr_Cyrl_BA": "Wilayah Persekutuan Labuan",
         "sr_Cyrl_ME": "Wilayah Persekutuan Labuan",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Wilayah Persekutuan Labuan",
         "tr_TR": "Wilayah Persekutuan Labuan",
         "tt": "Wilayah Persekutuan Labuan",
+        "tt@iqtelif": "Wilayah Persekutuan Labuan",
         "tt_RU": "Wilayah Persekutuan Labuan",
         "twq": "Wilayah Persekutuan Labuan",
         "twq_NE": "Wilayah Persekutuan Labuan",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Wilayah Persekutuan Labuan",
         "zh_Hant_TW": "Wilayah Persekutuan Labuan",
         "zu": "Wilayah Persekutuan Labuan",
-        "zu_ZA": "Wilayah Persekutuan Labuan",
-        "sr@latin": "Wilayah Persekutuan Labuan",
-        "tt@iqtelif": "Wilayah Persekutuan Labuan"
+        "zu_ZA": "Wilayah Persekutuan Labuan"
     },
     "16": {
         "af": "Wilayah Persekutuan Putrajaya",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Wilayah Persekutuan Putrajaya",
         "sq_XK": "Wilayah Persekutuan Putrajaya",
         "sr": "Wilayah Persekutuan Putrajaya",
+        "sr@latin": "Wilayah Persekutuan Putrajaya",
         "sr_Cyrl": "Wilayah Persekutuan Putrajaya",
         "sr_Cyrl_BA": "Wilayah Persekutuan Putrajaya",
         "sr_Cyrl_ME": "Wilayah Persekutuan Putrajaya",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Wilayah Persekutuan Putrajaya",
         "tr_TR": "Wilayah Persekutuan Putrajaya",
         "tt": "Wilayah Persekutuan Putrajaya",
+        "tt@iqtelif": "Wilayah Persekutuan Putrajaya",
         "tt_RU": "Wilayah Persekutuan Putrajaya",
         "twq": "Wilayah Persekutuan Putrajaya",
         "twq_NE": "Wilayah Persekutuan Putrajaya",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Wilayah Persekutuan Putrajaya",
         "zh_Hant_TW": "Wilayah Persekutuan Putrajaya",
         "zu": "Wilayah Persekutuan Putrajaya",
-        "zu_ZA": "Wilayah Persekutuan Putrajaya",
-        "sr@latin": "Wilayah Persekutuan Putrajaya",
-        "tt@iqtelif": "Wilayah Persekutuan Putrajaya"
+        "zu_ZA": "Wilayah Persekutuan Putrajaya"
     }
 }

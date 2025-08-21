@@ -743,6 +743,7 @@
         "sq_MK": "Eastern Cape",
         "sq_XK": "Eastern Cape",
         "sr": "Источни Кејп",
+        "sr@latin": "Istočni Kejp",
         "sr_Cyrl": "Источни Кејп",
         "sr_Cyrl_BA": "Источни Кејп",
         "sr_Cyrl_ME": "Источни Кејп",
@@ -803,6 +804,7 @@
         "tr_CY": "Eastern Cape",
         "tr_TR": "Eastern Cape",
         "tt": "Eastern Cape",
+        "tt@iqtelif": "Eastern Cape",
         "tt_RU": "Eastern Cape",
         "twq": "Eastern Cape",
         "twq_NE": "Eastern Cape",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Eastern Cape",
         "zh_Hant_TW": "Eastern Cape",
         "zu": "Eastern Cape",
-        "zu_ZA": "Eastern Cape",
-        "sr@latin": "Istočni Kejp",
-        "tt@iqtelif": "Eastern Cape"
+        "zu_ZA": "Eastern Cape"
     },
     "FS": {
         "af": "Free State",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Free State",
         "sq_XK": "Free State",
         "sr": "Free State",
+        "sr@latin": "Free State",
         "sr_Cyrl": "Free State",
         "sr_Cyrl_BA": "Free State",
         "sr_Cyrl_ME": "Free State",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Free State",
         "tr_TR": "Free State",
         "tt": "Free State",
+        "tt@iqtelif": "Free State",
         "tt_RU": "Free State",
         "twq": "Free State",
         "twq_NE": "Free State",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Free State",
         "zh_Hant_TW": "Free State",
         "zu": "Free State",
-        "zu_ZA": "Free State",
-        "sr@latin": "Free State",
-        "tt@iqtelif": "Free State"
+        "zu_ZA": "Free State"
     },
     "GP": {
         "af": "Gauteng",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Gauteng",
         "sq_XK": "Gauteng",
         "sr": "Gauteng",
+        "sr@latin": "Gauteng",
         "sr_Cyrl": "Gauteng",
         "sr_Cyrl_BA": "Gauteng",
         "sr_Cyrl_ME": "Gauteng",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Gauteng",
         "tr_TR": "Gauteng",
         "tt": "Gauteng",
+        "tt@iqtelif": "Gauteng",
         "tt_RU": "Gauteng",
         "twq": "Gauteng",
         "twq_NE": "Gauteng",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Gauteng",
         "zh_Hant_TW": "Gauteng",
         "zu": "Gauteng",
-        "zu_ZA": "Gauteng",
-        "sr@latin": "Gauteng",
-        "tt@iqtelif": "Gauteng"
+        "zu_ZA": "Gauteng"
     },
     "KZN": {
         "af": "Kwazulu-Natal",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Kwazulu-Natal",
         "sq_XK": "Kwazulu-Natal",
         "sr": "Квацулу-Натал",
+        "sr@latin": "Kvaculu-Natal",
         "sr_Cyrl": "Квацулу-Натал",
         "sr_Cyrl_BA": "Квацулу-Натал",
         "sr_Cyrl_ME": "Квацулу-Натал",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Kwazulu-Natal",
         "tr_TR": "Kwazulu-Natal",
         "tt": "Kwazulu-Natal",
+        "tt@iqtelif": "Kwazulu-Natal",
         "tt_RU": "Kwazulu-Natal",
         "twq": "Kwazulu-Natal",
         "twq_NE": "Kwazulu-Natal",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Kwazulu-Natal",
         "zh_Hant_TW": "Kwazulu-Natal",
         "zu": "Kwazulu-Natal",
-        "zu_ZA": "Kwazulu-Natal",
-        "sr@latin": "Kvaculu-Natal",
-        "tt@iqtelif": "Kwazulu-Natal"
+        "zu_ZA": "Kwazulu-Natal"
     },
     "LP": {
         "af": "Limpopo",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Limpopo",
         "sq_XK": "Limpopo",
         "sr": "Лимпопо",
+        "sr@latin": "Limpopo",
         "sr_Cyrl": "Лимпопо",
         "sr_Cyrl_BA": "Лимпопо",
         "sr_Cyrl_ME": "Лимпопо",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Limpopo",
         "tr_TR": "Limpopo",
         "tt": "Limpopo",
+        "tt@iqtelif": "Limpopo",
         "tt_RU": "Limpopo",
         "twq": "Limpopo",
         "twq_NE": "Limpopo",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Limpopo",
         "zh_Hant_TW": "Limpopo",
         "zu": "Limpopo",
-        "zu_ZA": "Limpopo",
-        "sr@latin": "Limpopo",
-        "tt@iqtelif": "Limpopo"
+        "zu_ZA": "Limpopo"
     },
     "MP": {
         "af": "Mpumalanga",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Mpumalanga",
         "sq_XK": "Mpumalanga",
         "sr": "Мпумаланга",
+        "sr@latin": "Mpumalanga",
         "sr_Cyrl": "Мпумаланга",
         "sr_Cyrl_BA": "Мпумаланга",
         "sr_Cyrl_ME": "Мпумаланга",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Mpumalanga",
         "tr_TR": "Mpumalanga",
         "tt": "Mpumalanga",
+        "tt@iqtelif": "Mpumalanga",
         "tt_RU": "Mpumalanga",
         "twq": "Mpumalanga",
         "twq_NE": "Mpumalanga",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Mpumalanga",
         "zh_Hant_TW": "Mpumalanga",
         "zu": "Mpumalanga",
-        "zu_ZA": "Mpumalanga",
-        "sr@latin": "Mpumalanga",
-        "tt@iqtelif": "Mpumalanga"
+        "zu_ZA": "Mpumalanga"
     },
     "NC": {
         "af": "Northern Cape",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Northern Cape",
         "sq_XK": "Northern Cape",
         "sr": "Northern Cape",
+        "sr@latin": "Northern Cape",
         "sr_Cyrl": "Northern Cape",
         "sr_Cyrl_BA": "Northern Cape",
         "sr_Cyrl_ME": "Northern Cape",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Northern Cape",
         "tr_TR": "Northern Cape",
         "tt": "Northern Cape",
+        "tt@iqtelif": "Northern Cape",
         "tt_RU": "Northern Cape",
         "twq": "Northern Cape",
         "twq_NE": "Northern Cape",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Northern Cape",
         "zh_Hant_TW": "Northern Cape",
         "zu": "Northern Cape",
-        "zu_ZA": "Northern Cape",
-        "sr@latin": "Northern Cape",
-        "tt@iqtelif": "Northern Cape"
+        "zu_ZA": "Northern Cape"
     },
     "NW": {
         "af": "North-West",
@@ -6938,6 +6938,7 @@
         "sq_MK": "North-West",
         "sq_XK": "North-West",
         "sr": "Северозапад",
+        "sr@latin": "Severozapad",
         "sr_Cyrl": "Северозапад",
         "sr_Cyrl_BA": "Северозапад",
         "sr_Cyrl_ME": "Северозапад",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kuzey-Batı",
         "tr_TR": "Kuzey-Batı",
         "tt": "North-West",
+        "tt@iqtelif": "North-West",
         "tt_RU": "North-West",
         "twq": "North-West",
         "twq_NE": "North-West",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "North-West",
         "zh_Hant_TW": "North-West",
         "zu": "North-West",
-        "zu_ZA": "North-West",
-        "sr@latin": "Severozapad",
-        "tt@iqtelif": "North-West"
+        "zu_ZA": "North-West"
     },
     "WC": {
         "af": "Western Cape",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Western Cape",
         "sq_XK": "Western Cape",
         "sr": "Western Cape",
+        "sr@latin": "Western Cape",
         "sr_Cyrl": "Western Cape",
         "sr_Cyrl_BA": "Western Cape",
         "sr_Cyrl_ME": "Western Cape",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Western Cape",
         "tr_TR": "Western Cape",
         "tt": "Western Cape",
+        "tt@iqtelif": "Western Cape",
         "tt_RU": "Western Cape",
         "twq": "Western Cape",
         "twq_NE": "Western Cape",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Western Cape",
         "zh_Hant_TW": "Western Cape",
         "zu": "Western Cape",
-        "zu_ZA": "Western Cape",
-        "sr@latin": "Western Cape",
-        "tt@iqtelif": "Western Cape"
+        "zu_ZA": "Western Cape"
     }
 }

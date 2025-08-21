@@ -743,6 +743,7 @@
         "sq_MK": "Aisén del General Carlos Ibañez del Campo",
         "sq_XK": "Aisén del General Carlos Ibañez del Campo",
         "sr": "Aisén del General Carlos Ibañez del Campo",
+        "sr@latin": "Aisén del General Carlos Ibañez del Campo",
         "sr_Cyrl": "Aisén del General Carlos Ibañez del Campo",
         "sr_Cyrl_BA": "Aisén del General Carlos Ibañez del Campo",
         "sr_Cyrl_ME": "Aisén del General Carlos Ibañez del Campo",
@@ -803,6 +804,7 @@
         "tr_CY": "Aisén del General Carlos Ibañez del Campo",
         "tr_TR": "Aisén del General Carlos Ibañez del Campo",
         "tt": "Aisén del General Carlos Ibañez del Campo",
+        "tt@iqtelif": "Aisén del General Carlos Ibañez del Campo",
         "tt_RU": "Aisén del General Carlos Ibañez del Campo",
         "twq": "Aisén del General Carlos Ibañez del Campo",
         "twq_NE": "Aisén del General Carlos Ibañez del Campo",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aisén del General Carlos Ibañez del Campo",
         "zh_Hant_TW": "Aisén del General Carlos Ibañez del Campo",
         "zu": "Aisén del General Carlos Ibañez del Campo",
-        "zu_ZA": "Aisén del General Carlos Ibañez del Campo",
-        "sr@latin": "Aisén del General Carlos Ibañez del Campo",
-        "tt@iqtelif": "Aisén del General Carlos Ibañez del Campo"
+        "zu_ZA": "Aisén del General Carlos Ibañez del Campo"
     },
     "AN": {
         "af": "Antofagasta",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Antofagasta",
         "sq_XK": "Antofagasta",
         "sr": "Антофагаста",
+        "sr@latin": "Antofagasta",
         "sr_Cyrl": "Антофагаста",
         "sr_Cyrl_BA": "Антофагаста",
         "sr_Cyrl_ME": "Антофагаста",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Antofagasta",
         "tr_TR": "Antofagasta",
         "tt": "Antofagasta",
+        "tt@iqtelif": "Antofagasta",
         "tt_RU": "Antofagasta",
         "twq": "Antofagasta",
         "twq_NE": "Antofagasta",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Antofagasta",
         "zh_Hant_TW": "Antofagasta",
         "zu": "Antofagasta",
-        "zu_ZA": "Antofagasta",
-        "sr@latin": "Antofagasta",
-        "tt@iqtelif": "Antofagasta"
+        "zu_ZA": "Antofagasta"
     },
     "AP": {
         "af": "Arica y Parinacota",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Arica y Parinacota",
         "sq_XK": "Arica y Parinacota",
         "sr": "Арика и Паринакота",
+        "sr@latin": "Arika i Parinakota",
         "sr_Cyrl": "Арика и Паринакота",
         "sr_Cyrl_BA": "Арика и Паринакота",
         "sr_Cyrl_ME": "Арика и Паринакота",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Arica y Parinacota",
         "tr_TR": "Arica y Parinacota",
         "tt": "Arica y Parinacota",
+        "tt@iqtelif": "Arica y Parinacota",
         "tt_RU": "Arica y Parinacota",
         "twq": "Arica y Parinacota",
         "twq_NE": "Arica y Parinacota",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Arica y Parinacota",
         "zh_Hant_TW": "Arica y Parinacota",
         "zu": "Arica y Parinacota",
-        "zu_ZA": "Arica y Parinacota",
-        "sr@latin": "Arika i Parinakota",
-        "tt@iqtelif": "Arica y Parinacota"
+        "zu_ZA": "Arica y Parinacota"
     },
     "AR": {
         "af": "La Araucanía",
@@ -3398,6 +3398,7 @@
         "sq_MK": "La Araucanía",
         "sq_XK": "La Araucanía",
         "sr": "La Araucanía",
+        "sr@latin": "La Araucanía",
         "sr_Cyrl": "La Araucanía",
         "sr_Cyrl_BA": "La Araucanía",
         "sr_Cyrl_ME": "La Araucanía",
@@ -3458,6 +3459,7 @@
         "tr_CY": "La Araucanía",
         "tr_TR": "La Araucanía",
         "tt": "La Araucanía",
+        "tt@iqtelif": "La Araucanía",
         "tt_RU": "La Araucanía",
         "twq": "La Araucanía",
         "twq_NE": "La Araucanía",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "La Araucanía",
         "zh_Hant_TW": "La Araucanía",
         "zu": "La Araucanía",
-        "zu_ZA": "La Araucanía",
-        "sr@latin": "La Araucanía",
-        "tt@iqtelif": "La Araucanía"
+        "zu_ZA": "La Araucanía"
     },
     "AT": {
         "af": "Atacama",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Atacama",
         "sq_XK": "Atacama",
         "sr": "Атакама",
+        "sr@latin": "Atakama",
         "sr_Cyrl": "Атакама",
         "sr_Cyrl_BA": "Атакама",
         "sr_Cyrl_ME": "Атакама",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Atacama",
         "tr_TR": "Atacama",
         "tt": "Atacama",
+        "tt@iqtelif": "Atacama",
         "tt_RU": "Atacama",
         "twq": "Atacama",
         "twq_NE": "Atacama",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Atacama",
         "zh_Hant_TW": "Atacama",
         "zu": "Atacama",
-        "zu_ZA": "Atacama",
-        "sr@latin": "Atakama",
-        "tt@iqtelif": "Atacama"
+        "zu_ZA": "Atacama"
     },
     "BI": {
         "af": "Biobío",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Biobío",
         "sq_XK": "Biobío",
         "sr": "Biobío",
+        "sr@latin": "Biobío",
         "sr_Cyrl": "Biobío",
         "sr_Cyrl_BA": "Biobío",
         "sr_Cyrl_ME": "Biobío",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Biobío",
         "tr_TR": "Biobío",
         "tt": "Biobío",
+        "tt@iqtelif": "Biobío",
         "tt_RU": "Biobío",
         "twq": "Biobío",
         "twq_NE": "Biobío",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Biobío",
         "zh_Hant_TW": "Biobío",
         "zu": "Biobío",
-        "zu_ZA": "Biobío",
-        "sr@latin": "Biobío",
-        "tt@iqtelif": "Biobío"
+        "zu_ZA": "Biobío"
     },
     "CO": {
         "af": "Coquimbo",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Coquimbo",
         "sq_XK": "Coquimbo",
         "sr": "Коквимбо",
+        "sr@latin": "Kokvimbo",
         "sr_Cyrl": "Коквимбо",
         "sr_Cyrl_BA": "Коквимбо",
         "sr_Cyrl_ME": "Коквимбо",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Coquimbo",
         "tr_TR": "Coquimbo",
         "tt": "Coquimbo",
+        "tt@iqtelif": "Coquimbo",
         "tt_RU": "Coquimbo",
         "twq": "Coquimbo",
         "twq_NE": "Coquimbo",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Coquimbo",
         "zh_Hant_TW": "Coquimbo",
         "zu": "Coquimbo",
-        "zu_ZA": "Coquimbo",
-        "sr@latin": "Kokvimbo",
-        "tt@iqtelif": "Coquimbo"
+        "zu_ZA": "Coquimbo"
     },
     "LI": {
         "af": "Libertador General Bernardo O'Higgins",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Libertador General Bernardo O'Higgins",
         "sq_XK": "Libertador General Bernardo O'Higgins",
         "sr": "Libertador General Bernardo O'Higgins",
+        "sr@latin": "Libertador General Bernardo O'Higgins",
         "sr_Cyrl": "Libertador General Bernardo O'Higgins",
         "sr_Cyrl_BA": "Libertador General Bernardo O'Higgins",
         "sr_Cyrl_ME": "Libertador General Bernardo O'Higgins",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Libertador General Bernardo O'Higgins",
         "tr_TR": "Libertador General Bernardo O'Higgins",
         "tt": "Libertador General Bernardo O'Higgins",
+        "tt@iqtelif": "Libertador General Bernardo O'Higgins",
         "tt_RU": "Libertador General Bernardo O'Higgins",
         "twq": "Libertador General Bernardo O'Higgins",
         "twq_NE": "Libertador General Bernardo O'Higgins",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Libertador General Bernardo O'Higgins",
         "zh_Hant_TW": "Libertador General Bernardo O'Higgins",
         "zu": "Libertador General Bernardo O'Higgins",
-        "zu_ZA": "Libertador General Bernardo O'Higgins",
-        "sr@latin": "Libertador General Bernardo O'Higgins",
-        "tt@iqtelif": "Libertador General Bernardo O'Higgins"
+        "zu_ZA": "Libertador General Bernardo O'Higgins"
     },
     "LL": {
         "af": "Los Lagos",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Los Lagos",
         "sq_XK": "Los Lagos",
         "sr": "Лос Лагос",
+        "sr@latin": "Los Lagos",
         "sr_Cyrl": "Лос Лагос",
         "sr_Cyrl_BA": "Лос Лагос",
         "sr_Cyrl_ME": "Лос Лагос",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Los Lagos",
         "tr_TR": "Los Lagos",
         "tt": "Los Lagos",
+        "tt@iqtelif": "Los Lagos",
         "tt_RU": "Los Lagos",
         "twq": "Los Lagos",
         "twq_NE": "Los Lagos",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Los Lagos",
         "zh_Hant_TW": "Los Lagos",
         "zu": "Los Lagos",
-        "zu_ZA": "Los Lagos",
-        "sr@latin": "Los Lagos",
-        "tt@iqtelif": "Los Lagos"
+        "zu_ZA": "Los Lagos"
     },
     "LR": {
         "af": "Los Ríos",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Los Ríos",
         "sq_XK": "Los Ríos",
         "sr": "Лос Риос",
+        "sr@latin": "Los Rios",
         "sr_Cyrl": "Лос Риос",
         "sr_Cyrl_BA": "Лос Риос",
         "sr_Cyrl_ME": "Лос Риос",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Los Ríos",
         "tr_TR": "Los Ríos",
         "tt": "Los Ríos",
+        "tt@iqtelif": "Los Ríos",
         "tt_RU": "Los Ríos",
         "twq": "Los Ríos",
         "twq_NE": "Los Ríos",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Los Ríos",
         "zh_Hant_TW": "Los Ríos",
         "zu": "Los Ríos",
-        "zu_ZA": "Los Ríos",
-        "sr@latin": "Los Rios",
-        "tt@iqtelif": "Los Ríos"
+        "zu_ZA": "Los Ríos"
     },
     "MA": {
         "af": "Magallanes",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Magallanes",
         "sq_XK": "Magallanes",
         "sr": "Magallanes",
+        "sr@latin": "Magallanes",
         "sr_Cyrl": "Magallanes",
         "sr_Cyrl_BA": "Magallanes",
         "sr_Cyrl_ME": "Magallanes",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Magallanes",
         "tr_TR": "Magallanes",
         "tt": "Magallanes",
+        "tt@iqtelif": "Magallanes",
         "tt_RU": "Magallanes",
         "twq": "Magallanes",
         "twq_NE": "Magallanes",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Magallanes",
         "zh_Hant_TW": "Magallanes",
         "zu": "Magallanes",
-        "zu_ZA": "Magallanes",
-        "sr@latin": "Magallanes",
-        "tt@iqtelif": "Magallanes"
+        "zu_ZA": "Magallanes"
     },
     "ML": {
         "af": "Maule",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Maule",
         "sq_XK": "Maule",
         "sr": "Мауле",
+        "sr@latin": "Maule",
         "sr_Cyrl": "Мауле",
         "sr_Cyrl_BA": "Мауле",
         "sr_Cyrl_ME": "Мауле",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Maule",
         "tr_TR": "Maule",
         "tt": "Maule",
+        "tt@iqtelif": "Maule",
         "tt_RU": "Maule",
         "twq": "Maule",
         "twq_NE": "Maule",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Maule",
         "zh_Hant_TW": "Maule",
         "zu": "Maule",
-        "zu_ZA": "Maule",
-        "sr@latin": "Maule",
-        "tt@iqtelif": "Maule"
+        "zu_ZA": "Maule"
     },
     "NB": {
         "af": "Ñuble",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Ñuble",
         "sq_XK": "Ñuble",
         "sr": "Ñuble",
+        "sr@latin": "Ñuble",
         "sr_Cyrl": "Ñuble",
         "sr_Cyrl_BA": "Ñuble",
         "sr_Cyrl_ME": "Ñuble",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Ñuble",
         "tr_TR": "Ñuble",
         "tt": "Ñuble",
+        "tt@iqtelif": "Ñuble",
         "tt_RU": "Ñuble",
         "twq": "Ñuble",
         "twq_NE": "Ñuble",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Ñuble",
         "zh_Hant_TW": "Ñuble",
         "zu": "Ñuble",
-        "zu_ZA": "Ñuble",
-        "sr@latin": "Ñuble",
-        "tt@iqtelif": "Ñuble"
+        "zu_ZA": "Ñuble"
     },
     "RM": {
         "af": "Región Metropolitana de Santiago",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Región Metropolitana de Santiago",
         "sq_XK": "Región Metropolitana de Santiago",
         "sr": "Región Metropolitana de Santiago",
+        "sr@latin": "Región Metropolitana de Santiago",
         "sr_Cyrl": "Región Metropolitana de Santiago",
         "sr_Cyrl_BA": "Región Metropolitana de Santiago",
         "sr_Cyrl_ME": "Región Metropolitana de Santiago",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Región Metropolitana de Santiago",
         "tr_TR": "Región Metropolitana de Santiago",
         "tt": "Región Metropolitana de Santiago",
+        "tt@iqtelif": "Región Metropolitana de Santiago",
         "tt_RU": "Región Metropolitana de Santiago",
         "twq": "Región Metropolitana de Santiago",
         "twq_NE": "Región Metropolitana de Santiago",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Región Metropolitana de Santiago",
         "zh_Hant_TW": "Región Metropolitana de Santiago",
         "zu": "Región Metropolitana de Santiago",
-        "zu_ZA": "Región Metropolitana de Santiago",
-        "sr@latin": "Región Metropolitana de Santiago",
-        "tt@iqtelif": "Región Metropolitana de Santiago"
+        "zu_ZA": "Región Metropolitana de Santiago"
     },
     "TA": {
         "af": "Tarapacá",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Tarapacá",
         "sq_XK": "Tarapacá",
         "sr": "Tarapacá",
+        "sr@latin": "Tarapacá",
         "sr_Cyrl": "Tarapacá",
         "sr_Cyrl_BA": "Tarapacá",
         "sr_Cyrl_ME": "Tarapacá",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Tarapacá",
         "tr_TR": "Tarapacá",
         "tt": "Tarapacá",
+        "tt@iqtelif": "Tarapacá",
         "tt_RU": "Tarapacá",
         "twq": "Tarapacá",
         "twq_NE": "Tarapacá",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Tarapacá",
         "zh_Hant_TW": "Tarapacá",
         "zu": "Tarapacá",
-        "zu_ZA": "Tarapacá",
-        "sr@latin": "Tarapacá",
-        "tt@iqtelif": "Tarapacá"
+        "zu_ZA": "Tarapacá"
     },
     "VS": {
         "af": "Valparaíso",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Valparaíso",
         "sq_XK": "Valparaíso",
         "sr": "Валпараисо",
+        "sr@latin": "Valparaiso",
         "sr_Cyrl": "Валпараисо",
         "sr_Cyrl_BA": "Валпараисо",
         "sr_Cyrl_ME": "Валпараисо",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Valparaíso",
         "tr_TR": "Valparaíso",
         "tt": "Valparaíso",
+        "tt@iqtelif": "Valparaíso",
         "tt_RU": "Valparaíso",
         "twq": "Valparaíso",
         "twq_NE": "Valparaíso",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Valparaíso",
         "zh_Hant_TW": "Valparaíso",
         "zu": "Valparaíso",
-        "zu_ZA": "Valparaíso",
-        "sr@latin": "Valparaiso",
-        "tt@iqtelif": "Valparaíso"
+        "zu_ZA": "Valparaíso"
     }
 }

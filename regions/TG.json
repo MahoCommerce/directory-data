@@ -743,6 +743,7 @@
         "sq_MK": "Centrale",
         "sq_XK": "Centrale",
         "sr": "Centrale",
+        "sr@latin": "Centrale",
         "sr_Cyrl": "Centrale",
         "sr_Cyrl_BA": "Centrale",
         "sr_Cyrl_ME": "Centrale",
@@ -803,6 +804,7 @@
         "tr_CY": "Centrale",
         "tr_TR": "Centrale",
         "tt": "Centrale",
+        "tt@iqtelif": "Centrale",
         "tt_RU": "Centrale",
         "twq": "Centrale",
         "twq_NE": "Centrale",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Centrale",
         "zh_Hant_TW": "Centrale",
         "zu": "Centrale",
-        "zu_ZA": "Centrale",
-        "sr@latin": "Centrale",
-        "tt@iqtelif": "Centrale"
+        "zu_ZA": "Centrale"
     },
     "K": {
         "af": "Kara",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kara",
         "sq_XK": "Kara",
         "sr": "Kara",
+        "sr@latin": "Kara",
         "sr_Cyrl": "Kara",
         "sr_Cyrl_BA": "Kara",
         "sr_Cyrl_ME": "Kara",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kara",
         "tr_TR": "Kara",
         "tt": "Kara",
+        "tt@iqtelif": "Kara",
         "tt_RU": "Kara",
         "twq": "Kara",
         "twq_NE": "Kara",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kara",
         "zh_Hant_TW": "Kara",
         "zu": "Kara",
-        "zu_ZA": "Kara",
-        "sr@latin": "Kara",
-        "tt@iqtelif": "Kara"
+        "zu_ZA": "Kara"
     },
     "M": {
         "af": "Maritime (Région)",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Maritime (Région)",
         "sq_XK": "Maritime (Région)",
         "sr": "Maritime (Région)",
+        "sr@latin": "Maritime (Région)",
         "sr_Cyrl": "Maritime (Région)",
         "sr_Cyrl_BA": "Maritime (Région)",
         "sr_Cyrl_ME": "Maritime (Région)",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Maritime (Région)",
         "tr_TR": "Maritime (Région)",
         "tt": "Maritime (Région)",
+        "tt@iqtelif": "Maritime (Région)",
         "tt_RU": "Maritime (Région)",
         "twq": "Maritime (Région)",
         "twq_NE": "Maritime (Région)",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Maritime (Région)",
         "zh_Hant_TW": "Maritime (Région)",
         "zu": "Maritime (Région)",
-        "zu_ZA": "Maritime (Région)",
-        "sr@latin": "Maritime (Région)",
-        "tt@iqtelif": "Maritime (Région)"
+        "zu_ZA": "Maritime (Région)"
     },
     "P": {
         "af": "Plateaux",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Plateaux",
         "sq_XK": "Plateaux",
         "sr": "Плато",
+        "sr@latin": "Plato",
         "sr_Cyrl": "Плато",
         "sr_Cyrl_BA": "Плато",
         "sr_Cyrl_ME": "Плато",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Plateaux",
         "tr_TR": "Plateaux",
         "tt": "Plateaux",
+        "tt@iqtelif": "Plateaux",
         "tt_RU": "Plateaux",
         "twq": "Plateaux",
         "twq_NE": "Plateaux",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Plateaux",
         "zh_Hant_TW": "Plateaux",
         "zu": "Plateaux",
-        "zu_ZA": "Plateaux",
-        "sr@latin": "Plato",
-        "tt@iqtelif": "Plateaux"
+        "zu_ZA": "Plateaux"
     },
     "S": {
         "af": "Savanes",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Savanes",
         "sq_XK": "Savanes",
         "sr": "Savanes",
+        "sr@latin": "Savanes",
         "sr_Cyrl": "Savanes",
         "sr_Cyrl_BA": "Savanes",
         "sr_Cyrl_ME": "Savanes",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Savanes",
         "tr_TR": "Savanes",
         "tt": "Savanes",
+        "tt@iqtelif": "Savanes",
         "tt_RU": "Savanes",
         "twq": "Savanes",
         "twq_NE": "Savanes",
@@ -4420,8 +4422,6 @@
         "zh_Hant_MY": "Savanes",
         "zh_Hant_TW": "Savanes",
         "zu": "Savanes",
-        "zu_ZA": "Savanes",
-        "sr@latin": "Savanes",
-        "tt@iqtelif": "Savanes"
+        "zu_ZA": "Savanes"
     }
 }

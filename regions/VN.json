@@ -743,6 +743,7 @@
         "sq_MK": "Lai Châu",
         "sq_XK": "Lai Châu",
         "sr": "Лаи Чау",
+        "sr@latin": "Lai Čau",
         "sr_Cyrl": "Лаи Чау",
         "sr_Cyrl_BA": "Лаи Чау",
         "sr_Cyrl_ME": "Лаи Чау",
@@ -803,6 +804,7 @@
         "tr_CY": "Lai Châu",
         "tr_TR": "Lai Châu",
         "tt": "Lai Châu",
+        "tt@iqtelif": "Lai Châu",
         "tt_RU": "Lai Châu",
         "twq": "Lai Châu",
         "twq_NE": "Lai Châu",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Lai Châu",
         "zh_Hant_TW": "Lai Châu",
         "zu": "Lai Châu",
-        "zu_ZA": "Lai Châu",
-        "sr@latin": "Lai Čau",
-        "tt@iqtelif": "Lai Châu"
+        "zu_ZA": "Lai Châu"
     },
     "02": {
         "af": "Lào Cai",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Lào Cai",
         "sq_XK": "Lào Cai",
         "sr": "Лао Кај",
+        "sr@latin": "Lao Kaj",
         "sr_Cyrl": "Лао Кај",
         "sr_Cyrl_BA": "Лао Кај",
         "sr_Cyrl_ME": "Лао Кај",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Lào Cai",
         "tr_TR": "Lào Cai",
         "tt": "Lào Cai",
+        "tt@iqtelif": "Lào Cai",
         "tt_RU": "Lào Cai",
         "twq": "Lào Cai",
         "twq_NE": "Lào Cai",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Lào Cai",
         "zh_Hant_TW": "Lào Cai",
         "zu": "Lào Cai",
-        "zu_ZA": "Lào Cai",
-        "sr@latin": "Lao Kaj",
-        "tt@iqtelif": "Lào Cai"
+        "zu_ZA": "Lào Cai"
     },
     "03": {
         "af": "Hà Giang",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Hà Giang",
         "sq_XK": "Hà Giang",
         "sr": "Ха Ђанг",
+        "sr@latin": "Ha Đang",
         "sr_Cyrl": "Ха Ђанг",
         "sr_Cyrl_BA": "Ха Ђанг",
         "sr_Cyrl_ME": "Ха Ђанг",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Ha Giang",
         "tr_TR": "Ha Giang",
         "tt": "Hà Giang",
+        "tt@iqtelif": "Hà Giang",
         "tt_RU": "Hà Giang",
         "twq": "Hà Giang",
         "twq_NE": "Hà Giang",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Hà Giang",
         "zh_Hant_TW": "Hà Giang",
         "zu": "Hà Giang",
-        "zu_ZA": "Hà Giang",
-        "sr@latin": "Ha Đang",
-        "tt@iqtelif": "Hà Giang"
+        "zu_ZA": "Hà Giang"
     },
     "04": {
         "af": "Cao Bằng",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Cao Bằng",
         "sq_XK": "Cao Bằng",
         "sr": "Као Банг",
+        "sr@latin": "Kao Bang",
         "sr_Cyrl": "Као Банг",
         "sr_Cyrl_BA": "Као Банг",
         "sr_Cyrl_ME": "Као Банг",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Cao Bang",
         "tr_TR": "Cao Bang",
         "tt": "Cao Bằng",
+        "tt@iqtelif": "Cao Bằng",
         "tt_RU": "Cao Bằng",
         "twq": "Cao Bằng",
         "twq_NE": "Cao Bằng",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Cao Bằng",
         "zh_Hant_TW": "Cao Bằng",
         "zu": "Cao Bằng",
-        "zu_ZA": "Cao Bằng",
-        "sr@latin": "Kao Bang",
-        "tt@iqtelif": "Cao Bằng"
+        "zu_ZA": "Cao Bằng"
     },
     "05": {
         "af": "Sơn La",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Sơn La",
         "sq_XK": "Sơn La",
         "sr": "Sơn La",
+        "sr@latin": "Sơn La",
         "sr_Cyrl": "Sơn La",
         "sr_Cyrl_BA": "Sơn La",
         "sr_Cyrl_ME": "Sơn La",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Sơn La",
         "tr_TR": "Sơn La",
         "tt": "Sơn La",
+        "tt@iqtelif": "Sơn La",
         "tt_RU": "Sơn La",
         "twq": "Sơn La",
         "twq_NE": "Sơn La",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Sơn La",
         "zh_Hant_TW": "Sơn La",
         "zu": "Sơn La",
-        "zu_ZA": "Sơn La",
-        "sr@latin": "Sơn La",
-        "tt@iqtelif": "Sơn La"
+        "zu_ZA": "Sơn La"
     },
     "06": {
         "af": "Yên Bái",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Yên Bái",
         "sq_XK": "Yên Bái",
         "sr": "Yên Bái",
+        "sr@latin": "Yên Bái",
         "sr_Cyrl": "Yên Bái",
         "sr_Cyrl_BA": "Yên Bái",
         "sr_Cyrl_ME": "Yên Bái",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Yên Bái",
         "tr_TR": "Yên Bái",
         "tt": "Yên Bái",
+        "tt@iqtelif": "Yên Bái",
         "tt_RU": "Yên Bái",
         "twq": "Yên Bái",
         "twq_NE": "Yên Bái",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Yên Bái",
         "zh_Hant_TW": "Yên Bái",
         "zu": "Yên Bái",
-        "zu_ZA": "Yên Bái",
-        "sr@latin": "Yên Bái",
-        "tt@iqtelif": "Yên Bái"
+        "zu_ZA": "Yên Bái"
     },
     "07": {
         "af": "Tuyên Quang",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Tuyên Quang",
         "sq_XK": "Tuyên Quang",
         "sr": "Tuyên Quang",
+        "sr@latin": "Tuyên Quang",
         "sr_Cyrl": "Tuyên Quang",
         "sr_Cyrl_BA": "Tuyên Quang",
         "sr_Cyrl_ME": "Tuyên Quang",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Tuyên Quang",
         "tr_TR": "Tuyên Quang",
         "tt": "Tuyên Quang",
+        "tt@iqtelif": "Tuyên Quang",
         "tt_RU": "Tuyên Quang",
         "twq": "Tuyên Quang",
         "twq_NE": "Tuyên Quang",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Tuyên Quang",
         "zh_Hant_TW": "Tuyên Quang",
         "zu": "Tuyên Quang",
-        "zu_ZA": "Tuyên Quang",
-        "sr@latin": "Tuyên Quang",
-        "tt@iqtelif": "Tuyên Quang"
+        "zu_ZA": "Tuyên Quang"
     },
     "09": {
         "af": "Lạng Sơn",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Lạng Sơn",
         "sq_XK": "Lạng Sơn",
         "sr": "Ланг Сон",
+        "sr@latin": "Lang Son",
         "sr_Cyrl": "Ланг Сон",
         "sr_Cyrl_BA": "Ланг Сон",
         "sr_Cyrl_ME": "Ланг Сон",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Lang Son",
         "tr_TR": "Lang Son",
         "tt": "Lạng Sơn",
+        "tt@iqtelif": "Lạng Sơn",
         "tt_RU": "Lạng Sơn",
         "twq": "Lạng Sơn",
         "twq_NE": "Lạng Sơn",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Lạng Sơn",
         "zh_Hant_TW": "Lạng Sơn",
         "zu": "Lạng Sơn",
-        "zu_ZA": "Lạng Sơn",
-        "sr@latin": "Lang Son",
-        "tt@iqtelif": "Lạng Sơn"
+        "zu_ZA": "Lạng Sơn"
     },
     "13": {
         "af": "Quảng Ninh",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Quảng Ninh",
         "sq_XK": "Quảng Ninh",
         "sr": "Quảng Ninh",
+        "sr@latin": "Quảng Ninh",
         "sr_Cyrl": "Quảng Ninh",
         "sr_Cyrl_BA": "Quảng Ninh",
         "sr_Cyrl_ME": "Quảng Ninh",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Quảng Ninh",
         "tr_TR": "Quảng Ninh",
         "tt": "Quảng Ninh",
+        "tt@iqtelif": "Quảng Ninh",
         "tt_RU": "Quảng Ninh",
         "twq": "Quảng Ninh",
         "twq_NE": "Quảng Ninh",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Quảng Ninh",
         "zh_Hant_TW": "Quảng Ninh",
         "zu": "Quảng Ninh",
-        "zu_ZA": "Quảng Ninh",
-        "sr@latin": "Quảng Ninh",
-        "tt@iqtelif": "Quảng Ninh"
+        "zu_ZA": "Quảng Ninh"
     },
     "14": {
         "af": "Hòa Bình",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Hòa Bình",
         "sq_XK": "Hòa Bình",
         "sr": "Hòa Bình",
+        "sr@latin": "Hòa Bình",
         "sr_Cyrl": "Hòa Bình",
         "sr_Cyrl_BA": "Hòa Bình",
         "sr_Cyrl_ME": "Hòa Bình",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Hòa Bình",
         "tr_TR": "Hòa Bình",
         "tt": "Hòa Bình",
+        "tt@iqtelif": "Hòa Bình",
         "tt_RU": "Hòa Bình",
         "twq": "Hòa Bình",
         "twq_NE": "Hòa Bình",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Hòa Bình",
         "zh_Hant_TW": "Hòa Bình",
         "zu": "Hòa Bình",
-        "zu_ZA": "Hòa Bình",
-        "sr@latin": "Hòa Bình",
-        "tt@iqtelif": "Hòa Bình"
+        "zu_ZA": "Hòa Bình"
     },
     "18": {
         "af": "Ninh Bình",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Ninh Bình",
         "sq_XK": "Ninh Bình",
         "sr": "Нин Бин",
+        "sr@latin": "Nin Bin",
         "sr_Cyrl": "Нин Бин",
         "sr_Cyrl_BA": "Нин Бин",
         "sr_Cyrl_ME": "Нин Бин",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Ninh Bình",
         "tr_TR": "Ninh Bình",
         "tt": "Ninh Bình",
+        "tt@iqtelif": "Ninh Bình",
         "tt_RU": "Ninh Bình",
         "twq": "Ninh Bình",
         "twq_NE": "Ninh Bình",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Ninh Bình",
         "zh_Hant_TW": "Ninh Bình",
         "zu": "Ninh Bình",
-        "zu_ZA": "Ninh Bình",
-        "sr@latin": "Nin Bin",
-        "tt@iqtelif": "Ninh Bình"
+        "zu_ZA": "Ninh Bình"
     },
     "20": {
         "af": "Thái Bình",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Thái Bình",
         "sq_XK": "Thái Bình",
         "sr": "Thái Bình",
+        "sr@latin": "Thái Bình",
         "sr_Cyrl": "Thái Bình",
         "sr_Cyrl_BA": "Thái Bình",
         "sr_Cyrl_ME": "Thái Bình",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Thái Bình",
         "tr_TR": "Thái Bình",
         "tt": "Thái Bình",
+        "tt@iqtelif": "Thái Bình",
         "tt_RU": "Thái Bình",
         "twq": "Thái Bình",
         "twq_NE": "Thái Bình",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Thái Bình",
         "zh_Hant_TW": "Thái Bình",
         "zu": "Thái Bình",
-        "zu_ZA": "Thái Bình",
-        "sr@latin": "Thái Bình",
-        "tt@iqtelif": "Thái Bình"
+        "zu_ZA": "Thái Bình"
     },
     "21": {
         "af": "Thanh Hóa",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Thanh Hóa",
         "sq_XK": "Thanh Hóa",
         "sr": "Thanh Hóa",
+        "sr@latin": "Thanh Hóa",
         "sr_Cyrl": "Thanh Hóa",
         "sr_Cyrl_BA": "Thanh Hóa",
         "sr_Cyrl_ME": "Thanh Hóa",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Thanh Hóa",
         "tr_TR": "Thanh Hóa",
         "tt": "Thanh Hóa",
+        "tt@iqtelif": "Thanh Hóa",
         "tt_RU": "Thanh Hóa",
         "twq": "Thanh Hóa",
         "twq_NE": "Thanh Hóa",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Thanh Hóa",
         "zh_Hant_TW": "Thanh Hóa",
         "zu": "Thanh Hóa",
-        "zu_ZA": "Thanh Hóa",
-        "sr@latin": "Thanh Hóa",
-        "tt@iqtelif": "Thanh Hóa"
+        "zu_ZA": "Thanh Hóa"
     },
     "22": {
         "af": "Nghệ An",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Nghệ An",
         "sq_XK": "Nghệ An",
         "sr": "Nghệ An",
+        "sr@latin": "Nghệ An",
         "sr_Cyrl": "Nghệ An",
         "sr_Cyrl_BA": "Nghệ An",
         "sr_Cyrl_ME": "Nghệ An",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Nghệ An",
         "tr_TR": "Nghệ An",
         "tt": "Nghệ An",
+        "tt@iqtelif": "Nghệ An",
         "tt_RU": "Nghệ An",
         "twq": "Nghệ An",
         "twq_NE": "Nghệ An",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Nghệ An",
         "zh_Hant_TW": "Nghệ An",
         "zu": "Nghệ An",
-        "zu_ZA": "Nghệ An",
-        "sr@latin": "Nghệ An",
-        "tt@iqtelif": "Nghệ An"
+        "zu_ZA": "Nghệ An"
     },
     "23": {
         "af": "Hà Tĩnh",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Hà Tĩnh",
         "sq_XK": "Hà Tĩnh",
         "sr": "Hà Tĩnh",
+        "sr@latin": "Hà Tĩnh",
         "sr_Cyrl": "Hà Tĩnh",
         "sr_Cyrl_BA": "Hà Tĩnh",
         "sr_Cyrl_ME": "Hà Tĩnh",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Hà Tĩnh",
         "tr_TR": "Hà Tĩnh",
         "tt": "Hà Tĩnh",
+        "tt@iqtelif": "Hà Tĩnh",
         "tt_RU": "Hà Tĩnh",
         "twq": "Hà Tĩnh",
         "twq_NE": "Hà Tĩnh",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Hà Tĩnh",
         "zh_Hant_TW": "Hà Tĩnh",
         "zu": "Hà Tĩnh",
-        "zu_ZA": "Hà Tĩnh",
-        "sr@latin": "Hà Tĩnh",
-        "tt@iqtelif": "Hà Tĩnh"
+        "zu_ZA": "Hà Tĩnh"
     },
     "24": {
         "af": "Quảng Bình",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Quảng Bình",
         "sq_XK": "Quảng Bình",
         "sr": "Quảng Bình",
+        "sr@latin": "Quảng Bình",
         "sr_Cyrl": "Quảng Bình",
         "sr_Cyrl_BA": "Quảng Bình",
         "sr_Cyrl_ME": "Quảng Bình",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Quảng Bình",
         "tr_TR": "Quảng Bình",
         "tt": "Quảng Bình",
+        "tt@iqtelif": "Quảng Bình",
         "tt_RU": "Quảng Bình",
         "twq": "Quảng Bình",
         "twq_NE": "Quảng Bình",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Quảng Bình",
         "zh_Hant_TW": "Quảng Bình",
         "zu": "Quảng Bình",
-        "zu_ZA": "Quảng Bình",
-        "sr@latin": "Quảng Bình",
-        "tt@iqtelif": "Quảng Bình"
+        "zu_ZA": "Quảng Bình"
     },
     "25": {
         "af": "Quảng Trị",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Quảng Trị",
         "sq_XK": "Quảng Trị",
         "sr": "Quảng Trị",
+        "sr@latin": "Quảng Trị",
         "sr_Cyrl": "Quảng Trị",
         "sr_Cyrl_BA": "Quảng Trị",
         "sr_Cyrl_ME": "Quảng Trị",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Quảng Trị",
         "tr_TR": "Quảng Trị",
         "tt": "Quảng Trị",
+        "tt@iqtelif": "Quảng Trị",
         "tt_RU": "Quảng Trị",
         "twq": "Quảng Trị",
         "twq_NE": "Quảng Trị",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Quảng Trị",
         "zh_Hant_TW": "Quảng Trị",
         "zu": "Quảng Trị",
-        "zu_ZA": "Quảng Trị",
-        "sr@latin": "Quảng Trị",
-        "tt@iqtelif": "Quảng Trị"
+        "zu_ZA": "Quảng Trị"
     },
     "26": {
         "af": "Thừa Thiên-Huế",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Thừa Thiên-Huế",
         "sq_XK": "Thừa Thiên-Huế",
         "sr": "Thừa Thiên-Huế",
+        "sr@latin": "Thừa Thiên-Huế",
         "sr_Cyrl": "Thừa Thiên-Huế",
         "sr_Cyrl_BA": "Thừa Thiên-Huế",
         "sr_Cyrl_ME": "Thừa Thiên-Huế",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Thừa Thiên-Huế",
         "tr_TR": "Thừa Thiên-Huế",
         "tt": "Thừa Thiên-Huế",
+        "tt@iqtelif": "Thừa Thiên-Huế",
         "tt_RU": "Thừa Thiên-Huế",
         "twq": "Thừa Thiên-Huế",
         "twq_NE": "Thừa Thiên-Huế",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Thừa Thiên-Huế",
         "zh_Hant_TW": "Thừa Thiên-Huế",
         "zu": "Thừa Thiên-Huế",
-        "zu_ZA": "Thừa Thiên-Huế",
-        "sr@latin": "Thừa Thiên-Huế",
-        "tt@iqtelif": "Thừa Thiên-Huế"
+        "zu_ZA": "Thừa Thiên-Huế"
     },
     "27": {
         "af": "Quảng Nam",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Quảng Nam",
         "sq_XK": "Quảng Nam",
         "sr": "Quảng Nam",
+        "sr@latin": "Quảng Nam",
         "sr_Cyrl": "Quảng Nam",
         "sr_Cyrl_BA": "Quảng Nam",
         "sr_Cyrl_ME": "Quảng Nam",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Quảng Nam",
         "tr_TR": "Quảng Nam",
         "tt": "Quảng Nam",
+        "tt@iqtelif": "Quảng Nam",
         "tt_RU": "Quảng Nam",
         "twq": "Quảng Nam",
         "twq_NE": "Quảng Nam",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Quảng Nam",
         "zh_Hant_TW": "Quảng Nam",
         "zu": "Quảng Nam",
-        "zu_ZA": "Quảng Nam",
-        "sr@latin": "Quảng Nam",
-        "tt@iqtelif": "Quảng Nam"
+        "zu_ZA": "Quảng Nam"
     },
     "28": {
         "af": "Kon Tum",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Kon Tum",
         "sq_XK": "Kon Tum",
         "sr": "Кон Тум",
+        "sr@latin": "Kon Tum",
         "sr_Cyrl": "Кон Тум",
         "sr_Cyrl_BA": "Кон Тум",
         "sr_Cyrl_ME": "Кон Тум",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Kon Tum",
         "tr_TR": "Kon Tum",
         "tt": "Kon Tum",
+        "tt@iqtelif": "Kon Tum",
         "tt_RU": "Kon Tum",
         "twq": "Kon Tum",
         "twq_NE": "Kon Tum",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Kon Tum",
         "zh_Hant_TW": "Kon Tum",
         "zu": "Kon Tum",
-        "zu_ZA": "Kon Tum",
-        "sr@latin": "Kon Tum",
-        "tt@iqtelif": "Kon Tum"
+        "zu_ZA": "Kon Tum"
     },
     "29": {
         "af": "Quảng Ngãi",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Quảng Ngãi",
         "sq_XK": "Quảng Ngãi",
         "sr": "Quảng Ngãi",
+        "sr@latin": "Quảng Ngãi",
         "sr_Cyrl": "Quảng Ngãi",
         "sr_Cyrl_BA": "Quảng Ngãi",
         "sr_Cyrl_ME": "Quảng Ngãi",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Quảng Ngãi",
         "tr_TR": "Quảng Ngãi",
         "tt": "Quảng Ngãi",
+        "tt@iqtelif": "Quảng Ngãi",
         "tt_RU": "Quảng Ngãi",
         "twq": "Quảng Ngãi",
         "twq_NE": "Quảng Ngãi",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Quảng Ngãi",
         "zh_Hant_TW": "Quảng Ngãi",
         "zu": "Quảng Ngãi",
-        "zu_ZA": "Quảng Ngãi",
-        "sr@latin": "Quảng Ngãi",
-        "tt@iqtelif": "Quảng Ngãi"
+        "zu_ZA": "Quảng Ngãi"
     },
     "30": {
         "af": "Gia Lai",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Gia Lai",
         "sq_XK": "Gia Lai",
         "sr": "Гја Лаи",
+        "sr@latin": "Gja Lai",
         "sr_Cyrl": "Гја Лаи",
         "sr_Cyrl_BA": "Гја Лаи",
         "sr_Cyrl_ME": "Гја Лаи",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Gia Lai",
         "tr_TR": "Gia Lai",
         "tt": "Gia Lai",
+        "tt@iqtelif": "Gia Lai",
         "tt_RU": "Gia Lai",
         "twq": "Gia Lai",
         "twq_NE": "Gia Lai",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Gia Lai",
         "zh_Hant_TW": "Gia Lai",
         "zu": "Gia Lai",
-        "zu_ZA": "Gia Lai",
-        "sr@latin": "Gja Lai",
-        "tt@iqtelif": "Gia Lai"
+        "zu_ZA": "Gia Lai"
     },
     "31": {
         "af": "Bình Định",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Bình Định",
         "sq_XK": "Bình Định",
         "sr": "Бин Ђин",
+        "sr@latin": "Bin Đin",
         "sr_Cyrl": "Бин Ђин",
         "sr_Cyrl_BA": "Бин Ђин",
         "sr_Cyrl_ME": "Бин Ђин",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Bình Định",
         "tr_TR": "Bình Định",
         "tt": "Bình Định",
+        "tt@iqtelif": "Bình Định",
         "tt_RU": "Bình Định",
         "twq": "Bình Định",
         "twq_NE": "Bình Định",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Bình Định",
         "zh_Hant_TW": "Bình Định",
         "zu": "Bình Định",
-        "zu_ZA": "Bình Định",
-        "sr@latin": "Bin Đin",
-        "tt@iqtelif": "Bình Định"
+        "zu_ZA": "Bình Định"
     },
     "32": {
         "af": "Phú Yên",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Phú Yên",
         "sq_XK": "Phú Yên",
         "sr": "Фу Јен",
+        "sr@latin": "Fu Jen",
         "sr_Cyrl": "Фу Јен",
         "sr_Cyrl_BA": "Фу Јен",
         "sr_Cyrl_ME": "Фу Јен",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Phú Yên",
         "tr_TR": "Phú Yên",
         "tt": "Phú Yên",
+        "tt@iqtelif": "Phú Yên",
         "tt_RU": "Phú Yên",
         "twq": "Phú Yên",
         "twq_NE": "Phú Yên",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Phú Yên",
         "zh_Hant_TW": "Phú Yên",
         "zu": "Phú Yên",
-        "zu_ZA": "Phú Yên",
-        "sr@latin": "Fu Jen",
-        "tt@iqtelif": "Phú Yên"
+        "zu_ZA": "Phú Yên"
     },
     "33": {
         "af": "Đắk Lắk",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Đắk Lắk",
         "sq_XK": "Đắk Lắk",
         "sr": "Đắk Lắk",
+        "sr@latin": "Đắk Lắk",
         "sr_Cyrl": "Đắk Lắk",
         "sr_Cyrl_BA": "Đắk Lắk",
         "sr_Cyrl_ME": "Đắk Lắk",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Đắk Lắk",
         "tr_TR": "Đắk Lắk",
         "tt": "Đắk Lắk",
+        "tt@iqtelif": "Đắk Lắk",
         "tt_RU": "Đắk Lắk",
         "twq": "Đắk Lắk",
         "twq_NE": "Đắk Lắk",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Đắk Lắk",
         "zh_Hant_TW": "Đắk Lắk",
         "zu": "Đắk Lắk",
-        "zu_ZA": "Đắk Lắk",
-        "sr@latin": "Đắk Lắk",
-        "tt@iqtelif": "Đắk Lắk"
+        "zu_ZA": "Đắk Lắk"
     },
     "34": {
         "af": "Khánh Hòa",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Khánh Hòa",
         "sq_XK": "Khánh Hòa",
         "sr": "Khánh Hòa",
+        "sr@latin": "Khánh Hòa",
         "sr_Cyrl": "Khánh Hòa",
         "sr_Cyrl_BA": "Khánh Hòa",
         "sr_Cyrl_ME": "Khánh Hòa",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Khánh Hòa",
         "tr_TR": "Khánh Hòa",
         "tt": "Khánh Hòa",
+        "tt@iqtelif": "Khánh Hòa",
         "tt_RU": "Khánh Hòa",
         "twq": "Khánh Hòa",
         "twq_NE": "Khánh Hòa",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Khánh Hòa",
         "zh_Hant_TW": "Khánh Hòa",
         "zu": "Khánh Hòa",
-        "zu_ZA": "Khánh Hòa",
-        "sr@latin": "Khánh Hòa",
-        "tt@iqtelif": "Khánh Hòa"
+        "zu_ZA": "Khánh Hòa"
     },
     "35": {
         "af": "Lâm Đồng",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Lâm Đồng",
         "sq_XK": "Lâm Đồng",
         "sr": "Лам Ђонг",
+        "sr@latin": "Lam Đong",
         "sr_Cyrl": "Лам Ђонг",
         "sr_Cyrl_BA": "Лам Ђонг",
         "sr_Cyrl_ME": "Лам Ђонг",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Lâm Đồng",
         "tr_TR": "Lâm Đồng",
         "tt": "Lâm Đồng",
+        "tt@iqtelif": "Lâm Đồng",
         "tt_RU": "Lâm Đồng",
         "twq": "Lâm Đồng",
         "twq_NE": "Lâm Đồng",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Lâm Đồng",
         "zh_Hant_TW": "Lâm Đồng",
         "zu": "Lâm Đồng",
-        "zu_ZA": "Lâm Đồng",
-        "sr@latin": "Lam Đong",
-        "tt@iqtelif": "Lâm Đồng"
+        "zu_ZA": "Lâm Đồng"
     },
     "36": {
         "af": "Ninh Thuận",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Ninh Thuận",
         "sq_XK": "Ninh Thuận",
         "sr": "Нин Туан",
+        "sr@latin": "Nin Tuan",
         "sr_Cyrl": "Нин Туан",
         "sr_Cyrl_BA": "Нин Туан",
         "sr_Cyrl_ME": "Нин Туан",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Ninh Thuan",
         "tr_TR": "Ninh Thuan",
         "tt": "Ninh Thuận",
+        "tt@iqtelif": "Ninh Thuận",
         "tt_RU": "Ninh Thuận",
         "twq": "Ninh Thuận",
         "twq_NE": "Ninh Thuận",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Ninh Thuận",
         "zh_Hant_TW": "Ninh Thuận",
         "zu": "Ninh Thuận",
-        "zu_ZA": "Ninh Thuận",
-        "sr@latin": "Nin Tuan",
-        "tt@iqtelif": "Ninh Thuận"
+        "zu_ZA": "Ninh Thuận"
     },
     "37": {
         "af": "Tây Ninh",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Tây Ninh",
         "sq_XK": "Tây Ninh",
         "sr": "Tây Ninh",
+        "sr@latin": "Tây Ninh",
         "sr_Cyrl": "Tây Ninh",
         "sr_Cyrl_BA": "Tây Ninh",
         "sr_Cyrl_ME": "Tây Ninh",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Tây Ninh",
         "tr_TR": "Tây Ninh",
         "tt": "Tây Ninh",
+        "tt@iqtelif": "Tây Ninh",
         "tt_RU": "Tây Ninh",
         "twq": "Tây Ninh",
         "twq_NE": "Tây Ninh",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Tây Ninh",
         "zh_Hant_TW": "Tây Ninh",
         "zu": "Tây Ninh",
-        "zu_ZA": "Tây Ninh",
-        "sr@latin": "Tây Ninh",
-        "tt@iqtelif": "Tây Ninh"
+        "zu_ZA": "Tây Ninh"
     },
     "39": {
         "af": "Đồng Nai",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Đồng Nai",
         "sq_XK": "Đồng Nai",
         "sr": "Ђонг Наи",
+        "sr@latin": "Đong Nai",
         "sr_Cyrl": "Ђонг Наи",
         "sr_Cyrl_BA": "Ђонг Наи",
         "sr_Cyrl_ME": "Ђонг Наи",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Dong Nai",
         "tr_TR": "Dong Nai",
         "tt": "Đồng Nai",
+        "tt@iqtelif": "Đồng Nai",
         "tt_RU": "Đồng Nai",
         "twq": "Đồng Nai",
         "twq_NE": "Đồng Nai",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Đồng Nai",
         "zh_Hant_TW": "Đồng Nai",
         "zu": "Đồng Nai",
-        "zu_ZA": "Đồng Nai",
-        "sr@latin": "Đong Nai",
-        "tt@iqtelif": "Đồng Nai"
+        "zu_ZA": "Đồng Nai"
     },
     "40": {
         "af": "Bình Thuận",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Bình Thuận",
         "sq_XK": "Bình Thuận",
         "sr": "Бин Туан",
+        "sr@latin": "Bin Tuan",
         "sr_Cyrl": "Бин Туан",
         "sr_Cyrl_BA": "Бин Туан",
         "sr_Cyrl_ME": "Бин Туан",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Binh Thuan",
         "tr_TR": "Binh Thuan",
         "tt": "Bình Thuận",
+        "tt@iqtelif": "Bình Thuận",
         "tt_RU": "Bình Thuận",
         "twq": "Bình Thuận",
         "twq_NE": "Bình Thuận",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Bình Thuận",
         "zh_Hant_TW": "Bình Thuận",
         "zu": "Bình Thuận",
-        "zu_ZA": "Bình Thuận",
-        "sr@latin": "Bin Tuan",
-        "tt@iqtelif": "Bình Thuận"
+        "zu_ZA": "Bình Thuận"
     },
     "41": {
         "af": "Long An",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Long An",
         "sq_XK": "Long An",
         "sr": "Лонг Ан",
+        "sr@latin": "Long An",
         "sr_Cyrl": "Лонг Ан",
         "sr_Cyrl_BA": "Лонг Ан",
         "sr_Cyrl_ME": "Лонг Ан",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Long An",
         "tr_TR": "Long An",
         "tt": "Long An",
+        "tt@iqtelif": "Long An",
         "tt_RU": "Long An",
         "twq": "Long An",
         "twq_NE": "Long An",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Long An",
         "zh_Hant_TW": "Long An",
         "zu": "Long An",
-        "zu_ZA": "Long An",
-        "sr@latin": "Long An",
-        "tt@iqtelif": "Long An"
+        "zu_ZA": "Long An"
     },
     "43": {
         "af": "Bà Rịa - Vũng Tàu",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Bà Rịa - Vũng Tàu",
         "sq_XK": "Bà Rịa - Vũng Tàu",
         "sr": "Bà Rịa - Vũng Tàu",
+        "sr@latin": "Bà Rịa - Vũng Tàu",
         "sr_Cyrl": "Bà Rịa - Vũng Tàu",
         "sr_Cyrl_BA": "Bà Rịa - Vũng Tàu",
         "sr_Cyrl_ME": "Bà Rịa - Vũng Tàu",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Bà Rịa - Vũng Tàu",
         "tr_TR": "Bà Rịa - Vũng Tàu",
         "tt": "Bà Rịa - Vũng Tàu",
+        "tt@iqtelif": "Bà Rịa - Vũng Tàu",
         "tt_RU": "Bà Rịa - Vũng Tàu",
         "twq": "Bà Rịa - Vũng Tàu",
         "twq_NE": "Bà Rịa - Vũng Tàu",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Bà Rịa - Vũng Tàu",
         "zh_Hant_TW": "Bà Rịa - Vũng Tàu",
         "zu": "Bà Rịa - Vũng Tàu",
-        "zu_ZA": "Bà Rịa - Vũng Tàu",
-        "sr@latin": "Bà Rịa - Vũng Tàu",
-        "tt@iqtelif": "Bà Rịa - Vũng Tàu"
+        "zu_ZA": "Bà Rịa - Vũng Tàu"
     },
     "44": {
         "af": "An Giang",
@@ -29948,6 +29948,7 @@
         "sq_MK": "An Giang",
         "sq_XK": "An Giang",
         "sr": "Ан Гјанг",
+        "sr@latin": "An Gjang",
         "sr_Cyrl": "Ан Гјанг",
         "sr_Cyrl_BA": "Ан Гјанг",
         "sr_Cyrl_ME": "Ан Гјанг",
@@ -30008,6 +30009,7 @@
         "tr_CY": "An Giang",
         "tr_TR": "An Giang",
         "tt": "An Giang",
+        "tt@iqtelif": "An Giang",
         "tt_RU": "An Giang",
         "twq": "An Giang",
         "twq_NE": "An Giang",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "An Giang",
         "zh_Hant_TW": "An Giang",
         "zu": "An Giang",
-        "zu_ZA": "An Giang",
-        "sr@latin": "An Gjang",
-        "tt@iqtelif": "An Giang"
+        "zu_ZA": "An Giang"
     },
     "45": {
         "af": "Đồng Tháp",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Đồng Tháp",
         "sq_XK": "Đồng Tháp",
         "sr": "Ђонг Тап",
+        "sr@latin": "Đong Tap",
         "sr_Cyrl": "Ђонг Тап",
         "sr_Cyrl_BA": "Ђонг Тап",
         "sr_Cyrl_ME": "Ђонг Тап",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Đồng Tháp",
         "tr_TR": "Đồng Tháp",
         "tt": "Đồng Tháp",
+        "tt@iqtelif": "Đồng Tháp",
         "tt_RU": "Đồng Tháp",
         "twq": "Đồng Tháp",
         "twq_NE": "Đồng Tháp",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Đồng Tháp",
         "zh_Hant_TW": "Đồng Tháp",
         "zu": "Đồng Tháp",
-        "zu_ZA": "Đồng Tháp",
-        "sr@latin": "Đong Tap",
-        "tt@iqtelif": "Đồng Tháp"
+        "zu_ZA": "Đồng Tháp"
     },
     "46": {
         "af": "Tiền Giang",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Tiền Giang",
         "sq_XK": "Tiền Giang",
         "sr": "Tiền Giang",
+        "sr@latin": "Tiền Giang",
         "sr_Cyrl": "Tiền Giang",
         "sr_Cyrl_BA": "Tiền Giang",
         "sr_Cyrl_ME": "Tiền Giang",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Tien Giang",
         "tr_TR": "Tien Giang",
         "tt": "Tiền Giang",
+        "tt@iqtelif": "Tiền Giang",
         "tt_RU": "Tiền Giang",
         "twq": "Tiền Giang",
         "twq_NE": "Tiền Giang",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Tiền Giang",
         "zh_Hant_TW": "Tiền Giang",
         "zu": "Tiền Giang",
-        "zu_ZA": "Tiền Giang",
-        "sr@latin": "Tiền Giang",
-        "tt@iqtelif": "Tiền Giang"
+        "zu_ZA": "Tiền Giang"
     },
     "47": {
         "af": "Kiến Giang",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Kiến Giang",
         "sq_XK": "Kiến Giang",
         "sr": "Kiến Giang",
+        "sr@latin": "Kiến Giang",
         "sr_Cyrl": "Kiến Giang",
         "sr_Cyrl_BA": "Kiến Giang",
         "sr_Cyrl_ME": "Kiến Giang",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Kiến Giang",
         "tr_TR": "Kiến Giang",
         "tt": "Kiến Giang",
+        "tt@iqtelif": "Kiến Giang",
         "tt_RU": "Kiến Giang",
         "twq": "Kiến Giang",
         "twq_NE": "Kiến Giang",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Kiến Giang",
         "zh_Hant_TW": "Kiến Giang",
         "zu": "Kiến Giang",
-        "zu_ZA": "Kiến Giang",
-        "sr@latin": "Kiến Giang",
-        "tt@iqtelif": "Kiến Giang"
+        "zu_ZA": "Kiến Giang"
     },
     "49": {
         "af": "Vĩnh Long",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Vĩnh Long",
         "sq_XK": "Vĩnh Long",
         "sr": "Вин Лонг",
+        "sr@latin": "Vin Long",
         "sr_Cyrl": "Вин Лонг",
         "sr_Cyrl_BA": "Вин Лонг",
         "sr_Cyrl_ME": "Вин Лонг",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Vĩnh Long",
         "tr_TR": "Vĩnh Long",
         "tt": "Vĩnh Long",
+        "tt@iqtelif": "Vĩnh Long",
         "tt_RU": "Vĩnh Long",
         "twq": "Vĩnh Long",
         "twq_NE": "Vĩnh Long",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Vĩnh Long",
         "zh_Hant_TW": "Vĩnh Long",
         "zu": "Vĩnh Long",
-        "zu_ZA": "Vĩnh Long",
-        "sr@latin": "Vin Long",
-        "tt@iqtelif": "Vĩnh Long"
+        "zu_ZA": "Vĩnh Long"
     },
     "50": {
         "af": "Bến Tre",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Bến Tre",
         "sq_XK": "Bến Tre",
         "sr": "Бен Тре",
+        "sr@latin": "Ben Tre",
         "sr_Cyrl": "Бен Тре",
         "sr_Cyrl_BA": "Бен Тре",
         "sr_Cyrl_ME": "Бен Тре",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Bến Tre",
         "tr_TR": "Bến Tre",
         "tt": "Bến Tre",
+        "tt@iqtelif": "Bến Tre",
         "tt_RU": "Bến Tre",
         "twq": "Bến Tre",
         "twq_NE": "Bến Tre",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Bến Tre",
         "zh_Hant_TW": "Bến Tre",
         "zu": "Bến Tre",
-        "zu_ZA": "Bến Tre",
-        "sr@latin": "Ben Tre",
-        "tt@iqtelif": "Bến Tre"
+        "zu_ZA": "Bến Tre"
     },
     "51": {
         "af": "Trà Vinh",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Trà Vinh",
         "sq_XK": "Trà Vinh",
         "sr": "Тра Вин",
+        "sr@latin": "Tra Vin",
         "sr_Cyrl": "Тра Вин",
         "sr_Cyrl_BA": "Тра Вин",
         "sr_Cyrl_ME": "Тра Вин",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Trà Vinh",
         "tr_TR": "Trà Vinh",
         "tt": "Trà Vinh",
+        "tt@iqtelif": "Trà Vinh",
         "tt_RU": "Trà Vinh",
         "twq": "Trà Vinh",
         "twq_NE": "Trà Vinh",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Trà Vinh",
         "zh_Hant_TW": "Trà Vinh",
         "zu": "Trà Vinh",
-        "zu_ZA": "Trà Vinh",
-        "sr@latin": "Tra Vin",
-        "tt@iqtelif": "Trà Vinh"
+        "zu_ZA": "Trà Vinh"
     },
     "52": {
         "af": "Sóc Trăng",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Sóc Trăng",
         "sq_XK": "Sóc Trăng",
         "sr": "Sóc Trăng",
+        "sr@latin": "Sóc Trăng",
         "sr_Cyrl": "Sóc Trăng",
         "sr_Cyrl_BA": "Sóc Trăng",
         "sr_Cyrl_ME": "Sóc Trăng",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Sóc Trăng",
         "tr_TR": "Sóc Trăng",
         "tt": "Sóc Trăng",
+        "tt@iqtelif": "Sóc Trăng",
         "tt_RU": "Sóc Trăng",
         "twq": "Sóc Trăng",
         "twq_NE": "Sóc Trăng",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Sóc Trăng",
         "zh_Hant_TW": "Sóc Trăng",
         "zu": "Sóc Trăng",
-        "zu_ZA": "Sóc Trăng",
-        "sr@latin": "Sóc Trăng",
-        "tt@iqtelif": "Sóc Trăng"
+        "zu_ZA": "Sóc Trăng"
     },
     "53": {
         "af": "Bắc Kạn",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Bắc Kạn",
         "sq_XK": "Bắc Kạn",
         "sr": "Бак Кан",
+        "sr@latin": "Bak Kan",
         "sr_Cyrl": "Бак Кан",
         "sr_Cyrl_BA": "Бак Кан",
         "sr_Cyrl_ME": "Бак Кан",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Bắc Kạn",
         "tr_TR": "Bắc Kạn",
         "tt": "Bắc Kạn",
+        "tt@iqtelif": "Bắc Kạn",
         "tt_RU": "Bắc Kạn",
         "twq": "Bắc Kạn",
         "twq_NE": "Bắc Kạn",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Bắc Kạn",
         "zh_Hant_TW": "Bắc Kạn",
         "zu": "Bắc Kạn",
-        "zu_ZA": "Bắc Kạn",
-        "sr@latin": "Bak Kan",
-        "tt@iqtelif": "Bắc Kạn"
+        "zu_ZA": "Bắc Kạn"
     },
     "54": {
         "af": "Bắc Giang",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Bắc Giang",
         "sq_XK": "Bắc Giang",
         "sr": "Бак Гјанг",
+        "sr@latin": "Bak Gjang",
         "sr_Cyrl": "Бак Гјанг",
         "sr_Cyrl_BA": "Бак Гјанг",
         "sr_Cyrl_ME": "Бак Гјанг",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Bac Giang",
         "tr_TR": "Bac Giang",
         "tt": "Bắc Giang",
+        "tt@iqtelif": "Bắc Giang",
         "tt_RU": "Bắc Giang",
         "twq": "Bắc Giang",
         "twq_NE": "Bắc Giang",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Bắc Giang",
         "zh_Hant_TW": "Bắc Giang",
         "zu": "Bắc Giang",
-        "zu_ZA": "Bắc Giang",
-        "sr@latin": "Bak Gjang",
-        "tt@iqtelif": "Bắc Giang"
+        "zu_ZA": "Bắc Giang"
     },
     "55": {
         "af": "Bạc Liêu",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Bạc Liêu",
         "sq_XK": "Bạc Liêu",
         "sr": "Бак Ље",
+        "sr@latin": "Bak Lje",
         "sr_Cyrl": "Бак Ље",
         "sr_Cyrl_BA": "Бак Ље",
         "sr_Cyrl_ME": "Бак Ље",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Bạc Liêu",
         "tr_TR": "Bạc Liêu",
         "tt": "Bạc Liêu",
+        "tt@iqtelif": "Bạc Liêu",
         "tt_RU": "Bạc Liêu",
         "twq": "Bạc Liêu",
         "twq_NE": "Bạc Liêu",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Bạc Liêu",
         "zh_Hant_TW": "Bạc Liêu",
         "zu": "Bạc Liêu",
-        "zu_ZA": "Bạc Liêu",
-        "sr@latin": "Bak Lje",
-        "tt@iqtelif": "Bạc Liêu"
+        "zu_ZA": "Bạc Liêu"
     },
     "56": {
         "af": "Bắc Ninh",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Bắc Ninh",
         "sq_XK": "Bắc Ninh",
         "sr": "Bắc Ninh",
+        "sr@latin": "Bắc Ninh",
         "sr_Cyrl": "Bắc Ninh",
         "sr_Cyrl_BA": "Bắc Ninh",
         "sr_Cyrl_ME": "Bắc Ninh",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Bắc Ninh",
         "tr_TR": "Bắc Ninh",
         "tt": "Bắc Ninh",
+        "tt@iqtelif": "Bắc Ninh",
         "tt_RU": "Bắc Ninh",
         "twq": "Bắc Ninh",
         "twq_NE": "Bắc Ninh",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Bắc Ninh",
         "zh_Hant_TW": "Bắc Ninh",
         "zu": "Bắc Ninh",
-        "zu_ZA": "Bắc Ninh",
-        "sr@latin": "Bắc Ninh",
-        "tt@iqtelif": "Bắc Ninh"
+        "zu_ZA": "Bắc Ninh"
     },
     "57": {
         "af": "Bình Dương",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Bình Dương",
         "sq_XK": "Bình Dương",
         "sr": "Бин Дуонг",
+        "sr@latin": "Bin Duong",
         "sr_Cyrl": "Бин Дуонг",
         "sr_Cyrl_BA": "Бин Дуонг",
         "sr_Cyrl_ME": "Бин Дуонг",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Bình Dương",
         "tr_TR": "Bình Dương",
         "tt": "Bình Dương",
+        "tt@iqtelif": "Bình Dương",
         "tt_RU": "Bình Dương",
         "twq": "Bình Dương",
         "twq_NE": "Bình Dương",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Bình Dương",
         "zh_Hant_TW": "Bình Dương",
         "zu": "Bình Dương",
-        "zu_ZA": "Bình Dương",
-        "sr@latin": "Bin Duong",
-        "tt@iqtelif": "Bình Dương"
+        "zu_ZA": "Bình Dương"
     },
     "58": {
         "af": "Bình Phước",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Bình Phước",
         "sq_XK": "Bình Phước",
         "sr": "Бин Пуок",
+        "sr@latin": "Bin Puok",
         "sr_Cyrl": "Бин Пуок",
         "sr_Cyrl_BA": "Бин Пуок",
         "sr_Cyrl_ME": "Бин Пуок",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Bình Phước",
         "tr_TR": "Bình Phước",
         "tt": "Bình Phước",
+        "tt@iqtelif": "Bình Phước",
         "tt_RU": "Bình Phước",
         "twq": "Bình Phước",
         "twq_NE": "Bình Phước",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Bình Phước",
         "zh_Hant_TW": "Bình Phước",
         "zu": "Bình Phước",
-        "zu_ZA": "Bình Phước",
-        "sr@latin": "Bin Puok",
-        "tt@iqtelif": "Bình Phước"
+        "zu_ZA": "Bình Phước"
     },
     "59": {
         "af": "Cà Mau",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Cà Mau",
         "sq_XK": "Cà Mau",
         "sr": "Ка Мау",
+        "sr@latin": "Ka Mau",
         "sr_Cyrl": "Ка Мау",
         "sr_Cyrl_BA": "Ка Мау",
         "sr_Cyrl_ME": "Ка Мау",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Cà Mau",
         "tr_TR": "Cà Mau",
         "tt": "Cà Mau",
+        "tt@iqtelif": "Cà Mau",
         "tt_RU": "Cà Mau",
         "twq": "Cà Mau",
         "twq_NE": "Cà Mau",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Cà Mau",
         "zh_Hant_TW": "Cà Mau",
         "zu": "Cà Mau",
-        "zu_ZA": "Cà Mau",
-        "sr@latin": "Ka Mau",
-        "tt@iqtelif": "Cà Mau"
+        "zu_ZA": "Cà Mau"
     },
     "61": {
         "af": "Hải Dương",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Hải Dương",
         "sq_XK": "Hải Dương",
         "sr": "Hải Dương",
+        "sr@latin": "Hải Dương",
         "sr_Cyrl": "Hải Dương",
         "sr_Cyrl_BA": "Hải Dương",
         "sr_Cyrl_ME": "Hải Dương",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Hải Dương",
         "tr_TR": "Hải Dương",
         "tt": "Hải Dương",
+        "tt@iqtelif": "Hải Dương",
         "tt_RU": "Hải Dương",
         "twq": "Hải Dương",
         "twq_NE": "Hải Dương",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Hải Dương",
         "zh_Hant_TW": "Hải Dương",
         "zu": "Hải Dương",
-        "zu_ZA": "Hải Dương",
-        "sr@latin": "Hải Dương",
-        "tt@iqtelif": "Hải Dương"
+        "zu_ZA": "Hải Dương"
     },
     "63": {
         "af": "Hà Nam",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Hà Nam",
         "sq_XK": "Hà Nam",
         "sr": "Ханам",
+        "sr@latin": "Hanam",
         "sr_Cyrl": "Ханам",
         "sr_Cyrl_BA": "Ханам",
         "sr_Cyrl_ME": "Ханам",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Ha Nam",
         "tr_TR": "Ha Nam",
         "tt": "Hà Nam",
+        "tt@iqtelif": "Hà Nam",
         "tt_RU": "Hà Nam",
         "twq": "Hà Nam",
         "twq_NE": "Hà Nam",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Hà Nam",
         "zh_Hant_TW": "Hà Nam",
         "zu": "Hà Nam",
-        "zu_ZA": "Hà Nam",
-        "sr@latin": "Hanam",
-        "tt@iqtelif": "Hà Nam"
+        "zu_ZA": "Hà Nam"
     },
     "66": {
         "af": "Hưng Yên",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Hưng Yên",
         "sq_XK": "Hưng Yên",
         "sr": "Hưng Yên",
+        "sr@latin": "Hưng Yên",
         "sr_Cyrl": "Hưng Yên",
         "sr_Cyrl_BA": "Hưng Yên",
         "sr_Cyrl_ME": "Hưng Yên",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Hưng Yên",
         "tr_TR": "Hưng Yên",
         "tt": "Hưng Yên",
+        "tt@iqtelif": "Hưng Yên",
         "tt_RU": "Hưng Yên",
         "twq": "Hưng Yên",
         "twq_NE": "Hưng Yên",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Hưng Yên",
         "zh_Hant_TW": "Hưng Yên",
         "zu": "Hưng Yên",
-        "zu_ZA": "Hưng Yên",
-        "sr@latin": "Hưng Yên",
-        "tt@iqtelif": "Hưng Yên"
+        "zu_ZA": "Hưng Yên"
     },
     "67": {
         "af": "Nam Định",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Nam Định",
         "sq_XK": "Nam Định",
         "sr": "Нам Ђин",
+        "sr@latin": "Nam Đin",
         "sr_Cyrl": "Нам Ђин",
         "sr_Cyrl_BA": "Нам Ђин",
         "sr_Cyrl_ME": "Нам Ђин",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Nam Định",
         "tr_TR": "Nam Định",
         "tt": "Nam Định",
+        "tt@iqtelif": "Nam Định",
         "tt_RU": "Nam Định",
         "twq": "Nam Định",
         "twq_NE": "Nam Định",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Nam Định",
         "zh_Hant_TW": "Nam Định",
         "zu": "Nam Định",
-        "zu_ZA": "Nam Định",
-        "sr@latin": "Nam Đin",
-        "tt@iqtelif": "Nam Định"
+        "zu_ZA": "Nam Định"
     },
     "68": {
         "af": "Phú Thọ",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Phú Thọ",
         "sq_XK": "Phú Thọ",
         "sr": "Фу То",
+        "sr@latin": "Fu To",
         "sr_Cyrl": "Фу То",
         "sr_Cyrl_BA": "Фу То",
         "sr_Cyrl_ME": "Фу То",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Phú Thọ",
         "tr_TR": "Phú Thọ",
         "tt": "Phú Thọ",
+        "tt@iqtelif": "Phú Thọ",
         "tt_RU": "Phú Thọ",
         "twq": "Phú Thọ",
         "twq_NE": "Phú Thọ",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Phú Thọ",
         "zh_Hant_TW": "Phú Thọ",
         "zu": "Phú Thọ",
-        "zu_ZA": "Phú Thọ",
-        "sr@latin": "Fu To",
-        "tt@iqtelif": "Phú Thọ"
+        "zu_ZA": "Phú Thọ"
     },
     "69": {
         "af": "Thái Nguyên",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Thái Nguyên",
         "sq_XK": "Thái Nguyên",
         "sr": "Thái Nguyên",
+        "sr@latin": "Thái Nguyên",
         "sr_Cyrl": "Thái Nguyên",
         "sr_Cyrl_BA": "Thái Nguyên",
         "sr_Cyrl_ME": "Thái Nguyên",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Thái Nguyên",
         "tr_TR": "Thái Nguyên",
         "tt": "Thái Nguyên",
+        "tt@iqtelif": "Thái Nguyên",
         "tt_RU": "Thái Nguyên",
         "twq": "Thái Nguyên",
         "twq_NE": "Thái Nguyên",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Thái Nguyên",
         "zh_Hant_TW": "Thái Nguyên",
         "zu": "Thái Nguyên",
-        "zu_ZA": "Thái Nguyên",
-        "sr@latin": "Thái Nguyên",
-        "tt@iqtelif": "Thái Nguyên"
+        "zu_ZA": "Thái Nguyên"
     },
     "70": {
         "af": "Vĩnh Phúc",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Vĩnh Phúc",
         "sq_XK": "Vĩnh Phúc",
         "sr": "Вин Пук",
+        "sr@latin": "Vin Puk",
         "sr_Cyrl": "Вин Пук",
         "sr_Cyrl_BA": "Вин Пук",
         "sr_Cyrl_ME": "Вин Пук",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Vĩnh Phúc",
         "tr_TR": "Vĩnh Phúc",
         "tt": "Vĩnh Phúc",
+        "tt@iqtelif": "Vĩnh Phúc",
         "tt_RU": "Vĩnh Phúc",
         "twq": "Vĩnh Phúc",
         "twq_NE": "Vĩnh Phúc",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Vĩnh Phúc",
         "zh_Hant_TW": "Vĩnh Phúc",
         "zu": "Vĩnh Phúc",
-        "zu_ZA": "Vĩnh Phúc",
-        "sr@latin": "Vin Puk",
-        "tt@iqtelif": "Vĩnh Phúc"
+        "zu_ZA": "Vĩnh Phúc"
     },
     "71": {
         "af": "Điện Biên",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Điện Biên",
         "sq_XK": "Điện Biên",
         "sr": "Ђјен Бјен",
+        "sr@latin": "Đjen Bjen",
         "sr_Cyrl": "Ђјен Бјен",
         "sr_Cyrl_BA": "Ђјен Бјен",
         "sr_Cyrl_ME": "Ђјен Бјен",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Điện Biên",
         "tr_TR": "Điện Biên",
         "tt": "Điện Biên",
+        "tt@iqtelif": "Điện Biên",
         "tt_RU": "Điện Biên",
         "twq": "Điện Biên",
         "twq_NE": "Điện Biên",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Điện Biên",
         "zh_Hant_TW": "Điện Biên",
         "zu": "Điện Biên",
-        "zu_ZA": "Điện Biên",
-        "sr@latin": "Đjen Bjen",
-        "tt@iqtelif": "Điện Biên"
+        "zu_ZA": "Điện Biên"
     },
     "72": {
         "af": "Đắk Nông",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Đắk Nông",
         "sq_XK": "Đắk Nông",
         "sr": "Ђак Нонг",
+        "sr@latin": "Đak Nong",
         "sr_Cyrl": "Ђак Нонг",
         "sr_Cyrl_BA": "Ђак Нонг",
         "sr_Cyrl_ME": "Ђак Нонг",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Đắk Nông",
         "tr_TR": "Đắk Nông",
         "tt": "Đắk Nông",
+        "tt@iqtelif": "Đắk Nông",
         "tt_RU": "Đắk Nông",
         "twq": "Đắk Nông",
         "twq_NE": "Đắk Nông",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Đắk Nông",
         "zh_Hant_TW": "Đắk Nông",
         "zu": "Đắk Nông",
-        "zu_ZA": "Đắk Nông",
-        "sr@latin": "Đak Nong",
-        "tt@iqtelif": "Đắk Nông"
+        "zu_ZA": "Đắk Nông"
     },
     "73": {
         "af": "Hậu Giang",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Hậu Giang",
         "sq_XK": "Hậu Giang",
         "sr": "Хау Ђанг",
+        "sr@latin": "Hau Đang",
         "sr_Cyrl": "Хау Ђанг",
         "sr_Cyrl_BA": "Хау Ђанг",
         "sr_Cyrl_ME": "Хау Ђанг",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Hau Giang",
         "tr_TR": "Hau Giang",
         "tt": "Hậu Giang",
+        "tt@iqtelif": "Hậu Giang",
         "tt_RU": "Hậu Giang",
         "twq": "Hậu Giang",
         "twq_NE": "Hậu Giang",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Hậu Giang",
         "zh_Hant_TW": "Hậu Giang",
         "zu": "Hậu Giang",
-        "zu_ZA": "Hậu Giang",
-        "sr@latin": "Hau Đang",
-        "tt@iqtelif": "Hậu Giang"
+        "zu_ZA": "Hậu Giang"
     },
     "CT": {
         "af": "Cần Thơ",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Cần Thơ",
         "sq_XK": "Cần Thơ",
         "sr": "Кан То",
+        "sr@latin": "Kan To",
         "sr_Cyrl": "Кан То",
         "sr_Cyrl_BA": "Кан То",
         "sr_Cyrl_ME": "Кан То",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Cần Thơ",
         "tr_TR": "Cần Thơ",
         "tt": "Cần Thơ",
+        "tt@iqtelif": "Cần Thơ",
         "tt_RU": "Cần Thơ",
         "twq": "Cần Thơ",
         "twq_NE": "Cần Thơ",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Cần Thơ",
         "zh_Hant_TW": "Cần Thơ",
         "zu": "Cần Thơ",
-        "zu_ZA": "Cần Thơ",
-        "sr@latin": "Kan To",
-        "tt@iqtelif": "Cần Thơ"
+        "zu_ZA": "Cần Thơ"
     },
     "DN": {
         "af": "Đà Nẵng",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Đà Nẵng",
         "sq_XK": "Đà Nẵng",
         "sr": "Ђа Нанг",
+        "sr@latin": "Đa Nang",
         "sr_Cyrl": "Ђа Нанг",
         "sr_Cyrl_BA": "Ђа Нанг",
         "sr_Cyrl_ME": "Ђа Нанг",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Đà Nẵng",
         "tr_TR": "Đà Nẵng",
         "tt": "Đà Nẵng",
+        "tt@iqtelif": "Đà Nẵng",
         "tt_RU": "Đà Nẵng",
         "twq": "Đà Nẵng",
         "twq_NE": "Đà Nẵng",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Đà Nẵng",
         "zh_Hant_TW": "Đà Nẵng",
         "zu": "Đà Nẵng",
-        "zu_ZA": "Đà Nẵng",
-        "sr@latin": "Đa Nang",
-        "tt@iqtelif": "Đà Nẵng"
+        "zu_ZA": "Đà Nẵng"
     },
     "HN": {
         "af": "Hà Nội",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Hà Nội",
         "sq_XK": "Hà Nội",
         "sr": "Ханој",
+        "sr@latin": "Hanoj",
         "sr_Cyrl": "Ханој",
         "sr_Cyrl_BA": "Ханој",
         "sr_Cyrl_ME": "Ханој",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Ha Noi",
         "tr_TR": "Ha Noi",
         "tt": "Hà Nội",
+        "tt@iqtelif": "Hà Nội",
         "tt_RU": "Hà Nội",
         "twq": "Hà Nội",
         "twq_NE": "Hà Nội",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Hà Nội",
         "zh_Hant_TW": "Hà Nội",
         "zu": "Hà Nội",
-        "zu_ZA": "Hà Nội",
-        "sr@latin": "Hanoj",
-        "tt@iqtelif": "Hà Nội"
+        "zu_ZA": "Hà Nội"
     },
     "HP": {
         "af": "Hải Phòng",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Hải Phòng",
         "sq_XK": "Hải Phòng",
         "sr": "Хајпонг",
+        "sr@latin": "Hajpong",
         "sr_Cyrl": "Хајпонг",
         "sr_Cyrl_BA": "Хајпонг",
         "sr_Cyrl_ME": "Хајпонг",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Hải Phòng",
         "tr_TR": "Hải Phòng",
         "tt": "Hải Phòng",
+        "tt@iqtelif": "Hải Phòng",
         "tt_RU": "Hải Phòng",
         "twq": "Hải Phòng",
         "twq_NE": "Hải Phòng",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Hải Phòng",
         "zh_Hant_TW": "Hải Phòng",
         "zu": "Hải Phòng",
-        "zu_ZA": "Hải Phòng",
-        "sr@latin": "Hajpong",
-        "tt@iqtelif": "Hải Phòng"
+        "zu_ZA": "Hải Phòng"
     },
     "SG": {
         "af": "Hồ Chí Minh",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Hồ Chí Minh",
         "sq_XK": "Hồ Chí Minh",
         "sr": "Hồ Chí Minh",
+        "sr@latin": "Hồ Chí Minh",
         "sr_Cyrl": "Hồ Chí Minh",
         "sr_Cyrl_BA": "Hồ Chí Minh",
         "sr_Cyrl_ME": "Hồ Chí Minh",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Hồ Chí Minh",
         "tr_TR": "Hồ Chí Minh",
         "tt": "Hồ Chí Minh",
+        "tt@iqtelif": "Hồ Chí Minh",
         "tt_RU": "Hồ Chí Minh",
         "twq": "Hồ Chí Minh",
         "twq_NE": "Hồ Chí Minh",
@@ -55750,8 +55752,6 @@
         "zh_Hant_MY": "Hồ Chí Minh",
         "zh_Hant_TW": "Hồ Chí Minh",
         "zu": "Hồ Chí Minh",
-        "zu_ZA": "Hồ Chí Minh",
-        "sr@latin": "Hồ Chí Minh",
-        "tt@iqtelif": "Hồ Chí Minh"
+        "zu_ZA": "Hồ Chí Minh"
     }
 }

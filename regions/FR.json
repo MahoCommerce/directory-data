@@ -743,6 +743,7 @@
         "sq_MK": "Ain",
         "sq_XK": "Ain",
         "sr": "Ајн",
+        "sr@latin": "Ajn",
         "sr_Cyrl": "Ајн",
         "sr_Cyrl_BA": "Ајн",
         "sr_Cyrl_ME": "Ајн",
@@ -803,6 +804,7 @@
         "tr_CY": "Ain",
         "tr_TR": "Ain",
         "tt": "Ain",
+        "tt@iqtelif": "Ain",
         "tt_RU": "Ain",
         "twq": "Ain",
         "twq_NE": "Ain",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ain",
         "zh_Hant_TW": "Ain",
         "zu": "Ain",
-        "zu_ZA": "Ain",
-        "sr@latin": "Ajn",
-        "tt@iqtelif": "Ain"
+        "zu_ZA": "Ain"
     },
     "02": {
         "af": "Aisne",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Aisne",
         "sq_XK": "Aisne",
         "sr": "Аисн",
+        "sr@latin": "Aisn",
         "sr_Cyrl": "Аисн",
         "sr_Cyrl_BA": "Аисн",
         "sr_Cyrl_ME": "Аисн",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Aisne",
         "tr_TR": "Aisne",
         "tt": "Aisne",
+        "tt@iqtelif": "Aisne",
         "tt_RU": "Aisne",
         "twq": "Aisne",
         "twq_NE": "Aisne",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Aisne",
         "zh_Hant_TW": "Aisne",
         "zu": "Aisne",
-        "zu_ZA": "Aisne",
-        "sr@latin": "Aisn",
-        "tt@iqtelif": "Aisne"
+        "zu_ZA": "Aisne"
     },
     "03": {
         "af": "Allier",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Allier",
         "sq_XK": "Allier",
         "sr": "Аљер",
+        "sr@latin": "Aljer",
         "sr_Cyrl": "Аљер",
         "sr_Cyrl_BA": "Аљер",
         "sr_Cyrl_ME": "Аљер",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Allier",
         "tr_TR": "Allier",
         "tt": "Allier",
+        "tt@iqtelif": "Allier",
         "tt_RU": "Allier",
         "twq": "Allier",
         "twq_NE": "Allier",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Allier",
         "zh_Hant_TW": "Allier",
         "zu": "Allier",
-        "zu_ZA": "Allier",
-        "sr@latin": "Aljer",
-        "tt@iqtelif": "Allier"
+        "zu_ZA": "Allier"
     },
     "04": {
         "af": "Alpes-de-Haute-Provence",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Alpes-de-Haute-Provence",
         "sq_XK": "Alpes-de-Haute-Provence",
         "sr": "Alpes-de-Haute-Provence",
+        "sr@latin": "Alpes-de-Haute-Provence",
         "sr_Cyrl": "Alpes-de-Haute-Provence",
         "sr_Cyrl_BA": "Alpes-de-Haute-Provence",
         "sr_Cyrl_ME": "Alpes-de-Haute-Provence",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Alpes-de-Haute-Provence",
         "tr_TR": "Alpes-de-Haute-Provence",
         "tt": "Alpes-de-Haute-Provence",
+        "tt@iqtelif": "Alpes-de-Haute-Provence",
         "tt_RU": "Alpes-de-Haute-Provence",
         "twq": "Alpes-de-Haute-Provence",
         "twq_NE": "Alpes-de-Haute-Provence",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Alpes-de-Haute-Provence",
         "zh_Hant_TW": "Alpes-de-Haute-Provence",
         "zu": "Alpes-de-Haute-Provence",
-        "zu_ZA": "Alpes-de-Haute-Provence",
-        "sr@latin": "Alpes-de-Haute-Provence",
-        "tt@iqtelif": "Alpes-de-Haute-Provence"
+        "zu_ZA": "Alpes-de-Haute-Provence"
     },
     "05": {
         "af": "Hautes-Alpes",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Hautes-Alpes",
         "sq_XK": "Hautes-Alpes",
         "sr": "Горњи Алпи",
+        "sr@latin": "Gornji Alpi",
         "sr_Cyrl": "Горњи Алпи",
         "sr_Cyrl_BA": "Горњи Алпи",
         "sr_Cyrl_ME": "Горњи Алпи",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Hautes-Alpes",
         "tr_TR": "Hautes-Alpes",
         "tt": "Hautes-Alpes",
+        "tt@iqtelif": "Hautes-Alpes",
         "tt_RU": "Hautes-Alpes",
         "twq": "Hautes-Alpes",
         "twq_NE": "Hautes-Alpes",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Hautes-Alpes",
         "zh_Hant_TW": "Hautes-Alpes",
         "zu": "Hautes-Alpes",
-        "zu_ZA": "Hautes-Alpes",
-        "sr@latin": "Gornji Alpi",
-        "tt@iqtelif": "Hautes-Alpes"
+        "zu_ZA": "Hautes-Alpes"
     },
     "06": {
         "af": "Alpes-Maritimes",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Alpes-Maritimes",
         "sq_XK": "Alpes-Maritimes",
         "sr": "Приморски Алпи",
+        "sr@latin": "Primorski Alpi",
         "sr_Cyrl": "Приморски Алпи",
         "sr_Cyrl_BA": "Приморски Алпи",
         "sr_Cyrl_ME": "Приморски Алпи",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Alpes-Maritimes",
         "tr_TR": "Alpes-Maritimes",
         "tt": "Alpes-Maritimes",
+        "tt@iqtelif": "Alpes-Maritimes",
         "tt_RU": "Alpes-Maritimes",
         "twq": "Alpes-Maritimes",
         "twq_NE": "Alpes-Maritimes",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Alpes-Maritimes",
         "zh_Hant_TW": "Alpes-Maritimes",
         "zu": "Alpes-Maritimes",
-        "zu_ZA": "Alpes-Maritimes",
-        "sr@latin": "Primorski Alpi",
-        "tt@iqtelif": "Alpes-Maritimes"
+        "zu_ZA": "Alpes-Maritimes"
     },
     "07": {
         "af": "Ardèche",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Ardèche",
         "sq_XK": "Ardèche",
         "sr": "Ардеш",
+        "sr@latin": "Ardeš",
         "sr_Cyrl": "Ардеш",
         "sr_Cyrl_BA": "Ардеш",
         "sr_Cyrl_ME": "Ардеш",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Ardeche",
         "tr_TR": "Ardeche",
         "tt": "Ardèche",
+        "tt@iqtelif": "Ardèche",
         "tt_RU": "Ardèche",
         "twq": "Ardèche",
         "twq_NE": "Ardèche",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Ardèche",
         "zh_Hant_TW": "Ardèche",
         "zu": "Ardèche",
-        "zu_ZA": "Ardèche",
-        "sr@latin": "Ardeš",
-        "tt@iqtelif": "Ardèche"
+        "zu_ZA": "Ardèche"
     },
     "08": {
         "af": "Ardennes",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Ardennes",
         "sq_XK": "Ardennes",
         "sr": "Арден",
+        "sr@latin": "Arden",
         "sr_Cyrl": "Арден",
         "sr_Cyrl_BA": "Арден",
         "sr_Cyrl_ME": "Арден",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Ardennes",
         "tr_TR": "Ardennes",
         "tt": "Ardennes",
+        "tt@iqtelif": "Ardennes",
         "tt_RU": "Ardennes",
         "twq": "Ardennes",
         "twq_NE": "Ardennes",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Ardennes",
         "zh_Hant_TW": "Ardennes",
         "zu": "Ardennes",
-        "zu_ZA": "Ardennes",
-        "sr@latin": "Arden",
-        "tt@iqtelif": "Ardennes"
+        "zu_ZA": "Ardennes"
     },
     "09": {
         "af": "Ariège",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Ariège",
         "sq_XK": "Ariège",
         "sr": "Арјеж",
+        "sr@latin": "Arjež",
         "sr_Cyrl": "Арјеж",
         "sr_Cyrl_BA": "Арјеж",
         "sr_Cyrl_ME": "Арјеж",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Ariege",
         "tr_TR": "Ariege",
         "tt": "Ariège",
+        "tt@iqtelif": "Ariège",
         "tt_RU": "Ariège",
         "twq": "Ariège",
         "twq_NE": "Ariège",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Ariège",
         "zh_Hant_TW": "Ariège",
         "zu": "Ariège",
-        "zu_ZA": "Ariège",
-        "sr@latin": "Arjež",
-        "tt@iqtelif": "Ariège"
+        "zu_ZA": "Ariège"
     },
     "10": {
         "af": "Aube",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Aube",
         "sq_XK": "Aube",
         "sr": "Аубе",
+        "sr@latin": "Aube",
         "sr_Cyrl": "Аубе",
         "sr_Cyrl_BA": "Аубе",
         "sr_Cyrl_ME": "Аубе",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Aube",
         "tr_TR": "Aube",
         "tt": "Aube",
+        "tt@iqtelif": "Aube",
         "tt_RU": "Aube",
         "twq": "Aube",
         "twq_NE": "Aube",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Aube",
         "zh_Hant_TW": "Aube",
         "zu": "Aube",
-        "zu_ZA": "Aube",
-        "sr@latin": "Aube",
-        "tt@iqtelif": "Aube"
+        "zu_ZA": "Aube"
     },
     "11": {
         "af": "Aude",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Aude",
         "sq_XK": "Aude",
         "sr": "Ауде",
+        "sr@latin": "Aude",
         "sr_Cyrl": "Ауде",
         "sr_Cyrl_BA": "Ауде",
         "sr_Cyrl_ME": "Ауде",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Aude",
         "tr_TR": "Aude",
         "tt": "Aude",
+        "tt@iqtelif": "Aude",
         "tt_RU": "Aude",
         "twq": "Aude",
         "twq_NE": "Aude",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Aude",
         "zh_Hant_TW": "Aude",
         "zu": "Aude",
-        "zu_ZA": "Aude",
-        "sr@latin": "Aude",
-        "tt@iqtelif": "Aude"
+        "zu_ZA": "Aude"
     },
     "12": {
         "af": "Aveyron",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Aveyron",
         "sq_XK": "Aveyron",
         "sr": "Авејрон",
+        "sr@latin": "Avejron",
         "sr_Cyrl": "Авејрон",
         "sr_Cyrl_BA": "Авејрон",
         "sr_Cyrl_ME": "Авејрон",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Aveyron",
         "tr_TR": "Aveyron",
         "tt": "Aveyron",
+        "tt@iqtelif": "Aveyron",
         "tt_RU": "Aveyron",
         "twq": "Aveyron",
         "twq_NE": "Aveyron",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Aveyron",
         "zh_Hant_TW": "Aveyron",
         "zu": "Aveyron",
-        "zu_ZA": "Aveyron",
-        "sr@latin": "Avejron",
-        "tt@iqtelif": "Aveyron"
+        "zu_ZA": "Aveyron"
     },
     "13": {
         "af": "Bouches-du-Rhône",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Bouches-du-Rhône",
         "sq_XK": "Bouches-du-Rhône",
         "sr": "Буш-ди-Рон",
+        "sr@latin": "Buš-di-Ron",
         "sr_Cyrl": "Буш-ди-Рон",
         "sr_Cyrl_BA": "Буш-ди-Рон",
         "sr_Cyrl_ME": "Буш-ди-Рон",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Bouches-du-Rhône",
         "tr_TR": "Bouches-du-Rhône",
         "tt": "Bouches-du-Rhône",
+        "tt@iqtelif": "Bouches-du-Rhône",
         "tt_RU": "Bouches-du-Rhône",
         "twq": "Bouches-du-Rhône",
         "twq_NE": "Bouches-du-Rhône",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Bouches-du-Rhône",
         "zh_Hant_TW": "Bouches-du-Rhône",
         "zu": "Bouches-du-Rhône",
-        "zu_ZA": "Bouches-du-Rhône",
-        "sr@latin": "Buš-di-Ron",
-        "tt@iqtelif": "Bouches-du-Rhône"
+        "zu_ZA": "Bouches-du-Rhône"
     },
     "14": {
         "af": "Calvados",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Calvados",
         "sq_XK": "Calvados",
         "sr": "Калвадо",
+        "sr@latin": "Kalvado",
         "sr_Cyrl": "Калвадо",
         "sr_Cyrl_BA": "Калвадо",
         "sr_Cyrl_ME": "Калвадо",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Calvados",
         "tr_TR": "Calvados",
         "tt": "Calvados",
+        "tt@iqtelif": "Calvados",
         "tt_RU": "Calvados",
         "twq": "Calvados",
         "twq_NE": "Calvados",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Calvados",
         "zh_Hant_TW": "Calvados",
         "zu": "Calvados",
-        "zu_ZA": "Calvados",
-        "sr@latin": "Kalvado",
-        "tt@iqtelif": "Calvados"
+        "zu_ZA": "Calvados"
     },
     "15": {
         "af": "Cantal",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Cantal",
         "sq_XK": "Cantal",
         "sr": "Кантал",
+        "sr@latin": "Kantal",
         "sr_Cyrl": "Кантал",
         "sr_Cyrl_BA": "Кантал",
         "sr_Cyrl_ME": "Кантал",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Cantal",
         "tr_TR": "Cantal",
         "tt": "Cantal",
+        "tt@iqtelif": "Cantal",
         "tt_RU": "Cantal",
         "twq": "Cantal",
         "twq_NE": "Cantal",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Cantal",
         "zh_Hant_TW": "Cantal",
         "zu": "Cantal",
-        "zu_ZA": "Cantal",
-        "sr@latin": "Kantal",
-        "tt@iqtelif": "Cantal"
+        "zu_ZA": "Cantal"
     },
     "16": {
         "af": "Charente",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Charente",
         "sq_XK": "Charente",
         "sr": "Шарант",
+        "sr@latin": "Šarant",
         "sr_Cyrl": "Шарант",
         "sr_Cyrl_BA": "Шарант",
         "sr_Cyrl_ME": "Шарант",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Charente",
         "tr_TR": "Charente",
         "tt": "Charente",
+        "tt@iqtelif": "Charente",
         "tt_RU": "Charente",
         "twq": "Charente",
         "twq_NE": "Charente",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Charente",
         "zh_Hant_TW": "Charente",
         "zu": "Charente",
-        "zu_ZA": "Charente",
-        "sr@latin": "Šarant",
-        "tt@iqtelif": "Charente"
+        "zu_ZA": "Charente"
     },
     "17": {
         "af": "Charente-Maritime",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Charente-Maritime",
         "sq_XK": "Charente-Maritime",
         "sr": "Приморски Шарант",
+        "sr@latin": "Primorski Šarant",
         "sr_Cyrl": "Приморски Шарант",
         "sr_Cyrl_BA": "Приморски Шарант",
         "sr_Cyrl_ME": "Приморски Шарант",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Charente-Maritime",
         "tr_TR": "Charente-Maritime",
         "tt": "Charente-Maritime",
+        "tt@iqtelif": "Charente-Maritime",
         "tt_RU": "Charente-Maritime",
         "twq": "Charente-Maritime",
         "twq_NE": "Charente-Maritime",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Charente-Maritime",
         "zh_Hant_TW": "Charente-Maritime",
         "zu": "Charente-Maritime",
-        "zu_ZA": "Charente-Maritime",
-        "sr@latin": "Primorski Šarant",
-        "tt@iqtelif": "Charente-Maritime"
+        "zu_ZA": "Charente-Maritime"
     },
     "18": {
         "af": "Cher",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Cher",
         "sq_XK": "Cher",
         "sr": "Шер",
+        "sr@latin": "Šer",
         "sr_Cyrl": "Шер",
         "sr_Cyrl_BA": "Шер",
         "sr_Cyrl_ME": "Шер",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Cher",
         "tr_TR": "Cher",
         "tt": "Cher",
+        "tt@iqtelif": "Cher",
         "tt_RU": "Cher",
         "twq": "Cher",
         "twq_NE": "Cher",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Cher",
         "zh_Hant_TW": "Cher",
         "zu": "Cher",
-        "zu_ZA": "Cher",
-        "sr@latin": "Šer",
-        "tt@iqtelif": "Cher"
+        "zu_ZA": "Cher"
     },
     "19": {
         "af": "Corrèze",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Corrèze",
         "sq_XK": "Corrèze",
         "sr": "Кореце",
+        "sr@latin": "Korece",
         "sr_Cyrl": "Кореце",
         "sr_Cyrl_BA": "Кореце",
         "sr_Cyrl_ME": "Кореце",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Corrèze",
         "tr_TR": "Corrèze",
         "tt": "Corrèze",
+        "tt@iqtelif": "Corrèze",
         "tt_RU": "Corrèze",
         "twq": "Corrèze",
         "twq_NE": "Corrèze",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Corrèze",
         "zh_Hant_TW": "Corrèze",
         "zu": "Corrèze",
-        "zu_ZA": "Corrèze",
-        "sr@latin": "Korece",
-        "tt@iqtelif": "Corrèze"
+        "zu_ZA": "Corrèze"
     },
     "20R": {
         "af": "Corse",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Corse",
         "sq_XK": "Corse",
         "sr": "Корзика",
+        "sr@latin": "Korzika",
         "sr_Cyrl": "Корзика",
         "sr_Cyrl_BA": "Корзика",
         "sr_Cyrl_ME": "Корзика",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Corse",
         "tr_TR": "Corse",
         "tt": "Corse",
+        "tt@iqtelif": "Corse",
         "tt_RU": "Corse",
         "twq": "Corse",
         "twq_NE": "Corse",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Corse",
         "zh_Hant_TW": "Corse",
         "zu": "Corse",
-        "zu_ZA": "Corse",
-        "sr@latin": "Korzika",
-        "tt@iqtelif": "Corse"
+        "zu_ZA": "Corse"
     },
     "21": {
         "af": "Côte-d'Or",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Côte-d'Or",
         "sq_XK": "Côte-d'Or",
         "sr": "Кот-д'Ор",
+        "sr@latin": "Kot-d'Or",
         "sr_Cyrl": "Кот-д'Ор",
         "sr_Cyrl_BA": "Кот-д'Ор",
         "sr_Cyrl_ME": "Кот-д'Ор",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Cote-d'Or",
         "tr_TR": "Cote-d'Or",
         "tt": "Côte-d'Or",
+        "tt@iqtelif": "Côte-d'Or",
         "tt_RU": "Côte-d'Or",
         "twq": "Côte-d'Or",
         "twq_NE": "Côte-d'Or",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Côte-d'Or",
         "zh_Hant_TW": "Côte-d'Or",
         "zu": "Côte-d'Or",
-        "zu_ZA": "Côte-d'Or",
-        "sr@latin": "Kot-d'Or",
-        "tt@iqtelif": "Côte-d'Or"
+        "zu_ZA": "Côte-d'Or"
     },
     "22": {
         "af": "Côtes-d'Armor",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Côtes-d'Armor",
         "sq_XK": "Côtes-d'Armor",
         "sr": "Кот-д'Армор",
+        "sr@latin": "Kot-d'Armor",
         "sr_Cyrl": "Кот-д'Армор",
         "sr_Cyrl_BA": "Кот-д'Армор",
         "sr_Cyrl_ME": "Кот-д'Армор",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Cotes-d'Armor",
         "tr_TR": "Cotes-d'Armor",
         "tt": "Côtes-d'Armor",
+        "tt@iqtelif": "Côtes-d'Armor",
         "tt_RU": "Côtes-d'Armor",
         "twq": "Côtes-d'Armor",
         "twq_NE": "Côtes-d'Armor",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Côtes-d'Armor",
         "zh_Hant_TW": "Côtes-d'Armor",
         "zu": "Côtes-d'Armor",
-        "zu_ZA": "Côtes-d'Armor",
-        "sr@latin": "Kot-d'Armor",
-        "tt@iqtelif": "Côtes-d'Armor"
+        "zu_ZA": "Côtes-d'Armor"
     },
     "23": {
         "af": "Creuse",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Creuse",
         "sq_XK": "Creuse",
         "sr": "Крез",
+        "sr@latin": "Krez",
         "sr_Cyrl": "Крез",
         "sr_Cyrl_BA": "Крез",
         "sr_Cyrl_ME": "Крез",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Creuse",
         "tr_TR": "Creuse",
         "tt": "Creuse",
+        "tt@iqtelif": "Creuse",
         "tt_RU": "Creuse",
         "twq": "Creuse",
         "twq_NE": "Creuse",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Creuse",
         "zh_Hant_TW": "Creuse",
         "zu": "Creuse",
-        "zu_ZA": "Creuse",
-        "sr@latin": "Krez",
-        "tt@iqtelif": "Creuse"
+        "zu_ZA": "Creuse"
     },
     "24": {
         "af": "Dordogne",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Dordogne",
         "sq_XK": "Dordogne",
         "sr": "Дордоњ",
+        "sr@latin": "Dordonj",
         "sr_Cyrl": "Дордоњ",
         "sr_Cyrl_BA": "Дордоњ",
         "sr_Cyrl_ME": "Дордоњ",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Dordogne",
         "tr_TR": "Dordogne",
         "tt": "Dordogne",
+        "tt@iqtelif": "Dordogne",
         "tt_RU": "Dordogne",
         "twq": "Dordogne",
         "twq_NE": "Dordogne",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Dordogne",
         "zh_Hant_TW": "Dordogne",
         "zu": "Dordogne",
-        "zu_ZA": "Dordogne",
-        "sr@latin": "Dordonj",
-        "tt@iqtelif": "Dordogne"
+        "zu_ZA": "Dordogne"
     },
     "25": {
         "af": "Doubs",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Doubs",
         "sq_XK": "Doubs",
         "sr": "Дубс",
+        "sr@latin": "Dubs",
         "sr_Cyrl": "Дубс",
         "sr_Cyrl_BA": "Дубс",
         "sr_Cyrl_ME": "Дубс",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Doubs",
         "tr_TR": "Doubs",
         "tt": "Doubs",
+        "tt@iqtelif": "Doubs",
         "tt_RU": "Doubs",
         "twq": "Doubs",
         "twq_NE": "Doubs",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Doubs",
         "zh_Hant_TW": "Doubs",
         "zu": "Doubs",
-        "zu_ZA": "Doubs",
-        "sr@latin": "Dubs",
-        "tt@iqtelif": "Doubs"
+        "zu_ZA": "Doubs"
     },
     "26": {
         "af": "Drôme",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Drôme",
         "sq_XK": "Drôme",
         "sr": "Дром",
+        "sr@latin": "Drom",
         "sr_Cyrl": "Дром",
         "sr_Cyrl_BA": "Дром",
         "sr_Cyrl_ME": "Дром",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Drôme",
         "tr_TR": "Drôme",
         "tt": "Drôme",
+        "tt@iqtelif": "Drôme",
         "tt_RU": "Drôme",
         "twq": "Drôme",
         "twq_NE": "Drôme",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Drôme",
         "zh_Hant_TW": "Drôme",
         "zu": "Drôme",
-        "zu_ZA": "Drôme",
-        "sr@latin": "Drom",
-        "tt@iqtelif": "Drôme"
+        "zu_ZA": "Drôme"
     },
     "27": {
         "af": "Eure",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Eure",
         "sq_XK": "Eure",
         "sr": "Ер",
+        "sr@latin": "Er",
         "sr_Cyrl": "Ер",
         "sr_Cyrl_BA": "Ер",
         "sr_Cyrl_ME": "Ер",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Eure",
         "tr_TR": "Eure",
         "tt": "Eure",
+        "tt@iqtelif": "Eure",
         "tt_RU": "Eure",
         "twq": "Eure",
         "twq_NE": "Eure",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Eure",
         "zh_Hant_TW": "Eure",
         "zu": "Eure",
-        "zu_ZA": "Eure",
-        "sr@latin": "Er",
-        "tt@iqtelif": "Eure"
+        "zu_ZA": "Eure"
     },
     "28": {
         "af": "Eure-et-Loir",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Eure-et-Loir",
         "sq_XK": "Eure-et-Loir",
         "sr": "Ер-е-Луар",
+        "sr@latin": "Er-e-Luar",
         "sr_Cyrl": "Ер-е-Луар",
         "sr_Cyrl_BA": "Ер-е-Луар",
         "sr_Cyrl_ME": "Ер-е-Луар",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Eure-et-Loir",
         "tr_TR": "Eure-et-Loir",
         "tt": "Eure-et-Loir",
+        "tt@iqtelif": "Eure-et-Loir",
         "tt_RU": "Eure-et-Loir",
         "twq": "Eure-et-Loir",
         "twq_NE": "Eure-et-Loir",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Eure-et-Loir",
         "zh_Hant_TW": "Eure-et-Loir",
         "zu": "Eure-et-Loir",
-        "zu_ZA": "Eure-et-Loir",
-        "sr@latin": "Er-e-Luar",
-        "tt@iqtelif": "Eure-et-Loir"
+        "zu_ZA": "Eure-et-Loir"
     },
     "29": {
         "af": "Finistère",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Finistère",
         "sq_XK": "Finistère",
         "sr": "Финистер",
+        "sr@latin": "Finister",
         "sr_Cyrl": "Финистер",
         "sr_Cyrl_BA": "Финистер",
         "sr_Cyrl_ME": "Финистер",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Finistère",
         "tr_TR": "Finistère",
         "tt": "Finistère",
+        "tt@iqtelif": "Finistère",
         "tt_RU": "Finistère",
         "twq": "Finistère",
         "twq_NE": "Finistère",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Finistère",
         "zh_Hant_TW": "Finistère",
         "zu": "Finistère",
-        "zu_ZA": "Finistère",
-        "sr@latin": "Finister",
-        "tt@iqtelif": "Finistère"
+        "zu_ZA": "Finistère"
     },
     "2A": {
         "af": "Corse-du-Sud",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Corse-du-Sud",
         "sq_XK": "Corse-du-Sud",
         "sr": "Јужна Корзика",
+        "sr@latin": "Južna Korzika",
         "sr_Cyrl": "Јужна Корзика",
         "sr_Cyrl_BA": "Јужна Корзика",
         "sr_Cyrl_ME": "Јужна Корзика",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Corse-du-Sud",
         "tr_TR": "Corse-du-Sud",
         "tt": "Corse-du-Sud",
+        "tt@iqtelif": "Corse-du-Sud",
         "tt_RU": "Corse-du-Sud",
         "twq": "Corse-du-Sud",
         "twq_NE": "Corse-du-Sud",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Corse-du-Sud",
         "zh_Hant_TW": "Corse-du-Sud",
         "zu": "Corse-du-Sud",
-        "zu_ZA": "Corse-du-Sud",
-        "sr@latin": "Južna Korzika",
-        "tt@iqtelif": "Corse-du-Sud"
+        "zu_ZA": "Corse-du-Sud"
     },
     "2B": {
         "af": "Haute-Corse",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Haute-Corse",
         "sq_XK": "Haute-Corse",
         "sr": "Горња Корзика",
+        "sr@latin": "Gornja Korzika",
         "sr_Cyrl": "Горња Корзика",
         "sr_Cyrl_BA": "Горња Корзика",
         "sr_Cyrl_ME": "Горња Корзика",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Haute-Corse",
         "tr_TR": "Haute-Corse",
         "tt": "Haute-Corse",
+        "tt@iqtelif": "Haute-Corse",
         "tt_RU": "Haute-Corse",
         "twq": "Haute-Corse",
         "twq_NE": "Haute-Corse",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Haute-Corse",
         "zh_Hant_TW": "Haute-Corse",
         "zu": "Haute-Corse",
-        "zu_ZA": "Haute-Corse",
-        "sr@latin": "Gornja Korzika",
-        "tt@iqtelif": "Haute-Corse"
+        "zu_ZA": "Haute-Corse"
     },
     "30": {
         "af": "Gard",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Gard",
         "sq_XK": "Gard",
         "sr": "Гард",
+        "sr@latin": "Gard",
         "sr_Cyrl": "Гард",
         "sr_Cyrl_BA": "Гард",
         "sr_Cyrl_ME": "Гард",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Gard",
         "tr_TR": "Gard",
         "tt": "Gard",
+        "tt@iqtelif": "Gard",
         "tt_RU": "Gard",
         "twq": "Gard",
         "twq_NE": "Gard",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Gard",
         "zh_Hant_TW": "Gard",
         "zu": "Gard",
-        "zu_ZA": "Gard",
-        "sr@latin": "Gard",
-        "tt@iqtelif": "Gard"
+        "zu_ZA": "Gard"
     },
     "31": {
         "af": "Haute-Garonne",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Haute-Garonne",
         "sq_XK": "Haute-Garonne",
         "sr": "Горња Гарона",
+        "sr@latin": "Gornja Garona",
         "sr_Cyrl": "Горња Гарона",
         "sr_Cyrl_BA": "Горња Гарона",
         "sr_Cyrl_ME": "Горња Гарона",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Haute-Garonne",
         "tr_TR": "Haute-Garonne",
         "tt": "Haute-Garonne",
+        "tt@iqtelif": "Haute-Garonne",
         "tt_RU": "Haute-Garonne",
         "twq": "Haute-Garonne",
         "twq_NE": "Haute-Garonne",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Haute-Garonne",
         "zh_Hant_TW": "Haute-Garonne",
         "zu": "Haute-Garonne",
-        "zu_ZA": "Haute-Garonne",
-        "sr@latin": "Gornja Garona",
-        "tt@iqtelif": "Haute-Garonne"
+        "zu_ZA": "Haute-Garonne"
     },
     "32": {
         "af": "Gers",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Gers",
         "sq_XK": "Gers",
         "sr": "Жер",
+        "sr@latin": "Žer",
         "sr_Cyrl": "Жер",
         "sr_Cyrl_BA": "Жер",
         "sr_Cyrl_ME": "Жер",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Gers",
         "tr_TR": "Gers",
         "tt": "Gers",
+        "tt@iqtelif": "Gers",
         "tt_RU": "Gers",
         "twq": "Gers",
         "twq_NE": "Gers",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "Gers",
         "zh_Hant_TW": "Gers",
         "zu": "Gers",
-        "zu_ZA": "Gers",
-        "sr@latin": "Žer",
-        "tt@iqtelif": "Gers"
+        "zu_ZA": "Gers"
     },
     "33": {
         "af": "Gironde",
@@ -30833,6 +30833,7 @@
         "sq_MK": "Gironde",
         "sq_XK": "Gironde",
         "sr": "Жирон",
+        "sr@latin": "Žiron",
         "sr_Cyrl": "Жирон",
         "sr_Cyrl_BA": "Жирон",
         "sr_Cyrl_ME": "Жирон",
@@ -30893,6 +30894,7 @@
         "tr_CY": "Gironde",
         "tr_TR": "Gironde",
         "tt": "Gironde",
+        "tt@iqtelif": "Gironde",
         "tt_RU": "Gironde",
         "twq": "Gironde",
         "twq_NE": "Gironde",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "Gironde",
         "zh_Hant_TW": "Gironde",
         "zu": "Gironde",
-        "zu_ZA": "Gironde",
-        "sr@latin": "Žiron",
-        "tt@iqtelif": "Gironde"
+        "zu_ZA": "Gironde"
     },
     "34": {
         "af": "Hérault",
@@ -31718,6 +31718,7 @@
         "sq_MK": "Hérault",
         "sq_XK": "Hérault",
         "sr": "Херот",
+        "sr@latin": "Herot",
         "sr_Cyrl": "Херот",
         "sr_Cyrl_BA": "Херот",
         "sr_Cyrl_ME": "Херот",
@@ -31778,6 +31779,7 @@
         "tr_CY": "Herault",
         "tr_TR": "Herault",
         "tt": "Hérault",
+        "tt@iqtelif": "Hérault",
         "tt_RU": "Hérault",
         "twq": "Hérault",
         "twq_NE": "Hérault",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "Hérault",
         "zh_Hant_TW": "Hérault",
         "zu": "Hérault",
-        "zu_ZA": "Hérault",
-        "sr@latin": "Herot",
-        "tt@iqtelif": "Hérault"
+        "zu_ZA": "Hérault"
     },
     "35": {
         "af": "Ille-et-Vilaine",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Ille-et-Vilaine",
         "sq_XK": "Ille-et-Vilaine",
         "sr": "Ил-е-Вилен",
+        "sr@latin": "Il-e-Vilen",
         "sr_Cyrl": "Ил-е-Вилен",
         "sr_Cyrl_BA": "Ил-е-Вилен",
         "sr_Cyrl_ME": "Ил-е-Вилен",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Ille-et-Vilaine",
         "tr_TR": "Ille-et-Vilaine",
         "tt": "Ille-et-Vilaine",
+        "tt@iqtelif": "Ille-et-Vilaine",
         "tt_RU": "Ille-et-Vilaine",
         "twq": "Ille-et-Vilaine",
         "twq_NE": "Ille-et-Vilaine",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Ille-et-Vilaine",
         "zh_Hant_TW": "Ille-et-Vilaine",
         "zu": "Ille-et-Vilaine",
-        "zu_ZA": "Ille-et-Vilaine",
-        "sr@latin": "Il-e-Vilen",
-        "tt@iqtelif": "Ille-et-Vilaine"
+        "zu_ZA": "Ille-et-Vilaine"
     },
     "36": {
         "af": "Indre",
@@ -33488,6 +33488,7 @@
         "sq_MK": "Indre",
         "sq_XK": "Indre",
         "sr": "Андр",
+        "sr@latin": "Andr",
         "sr_Cyrl": "Андр",
         "sr_Cyrl_BA": "Андр",
         "sr_Cyrl_ME": "Андр",
@@ -33548,6 +33549,7 @@
         "tr_CY": "Indre",
         "tr_TR": "Indre",
         "tt": "Indre",
+        "tt@iqtelif": "Indre",
         "tt_RU": "Indre",
         "twq": "Indre",
         "twq_NE": "Indre",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "Indre",
         "zh_Hant_TW": "Indre",
         "zu": "Indre",
-        "zu_ZA": "Indre",
-        "sr@latin": "Andr",
-        "tt@iqtelif": "Indre"
+        "zu_ZA": "Indre"
     },
     "37": {
         "af": "Indre-et-Loire",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Indre-et-Loire",
         "sq_XK": "Indre-et-Loire",
         "sr": "Андр и Лоара",
+        "sr@latin": "Andr i Loara",
         "sr_Cyrl": "Андр и Лоара",
         "sr_Cyrl_BA": "Андр и Лоара",
         "sr_Cyrl_ME": "Андр и Лоара",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Indre-et-Loire",
         "tr_TR": "Indre-et-Loire",
         "tt": "Indre-et-Loire",
+        "tt@iqtelif": "Indre-et-Loire",
         "tt_RU": "Indre-et-Loire",
         "twq": "Indre-et-Loire",
         "twq_NE": "Indre-et-Loire",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Indre-et-Loire",
         "zh_Hant_TW": "Indre-et-Loire",
         "zu": "Indre-et-Loire",
-        "zu_ZA": "Indre-et-Loire",
-        "sr@latin": "Andr i Loara",
-        "tt@iqtelif": "Indre-et-Loire"
+        "zu_ZA": "Indre-et-Loire"
     },
     "38": {
         "af": "Isère",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Isère",
         "sq_XK": "Isère",
         "sr": "Изер",
+        "sr@latin": "Izer",
         "sr_Cyrl": "Изер",
         "sr_Cyrl_BA": "Изер",
         "sr_Cyrl_ME": "Изер",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Isere",
         "tr_TR": "Isere",
         "tt": "Isère",
+        "tt@iqtelif": "Isère",
         "tt_RU": "Isère",
         "twq": "Isère",
         "twq_NE": "Isère",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Isère",
         "zh_Hant_TW": "Isère",
         "zu": "Isère",
-        "zu_ZA": "Isère",
-        "sr@latin": "Izer",
-        "tt@iqtelif": "Isère"
+        "zu_ZA": "Isère"
     },
     "39": {
         "af": "Jura",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Jura",
         "sq_XK": "Jura",
         "sr": "Дјура",
+        "sr@latin": "Djura",
         "sr_Cyrl": "Дјура",
         "sr_Cyrl_BA": "Дјура",
         "sr_Cyrl_ME": "Дјура",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Jura",
         "tr_TR": "Jura",
         "tt": "Jura",
+        "tt@iqtelif": "Jura",
         "tt_RU": "Jura",
         "twq": "Jura",
         "twq_NE": "Jura",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Jura",
         "zh_Hant_TW": "Jura",
         "zu": "Jura",
-        "zu_ZA": "Jura",
-        "sr@latin": "Djura",
-        "tt@iqtelif": "Jura"
+        "zu_ZA": "Jura"
     },
     "40": {
         "af": "Landes",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Landes",
         "sq_XK": "Landes",
         "sr": "Ланд",
+        "sr@latin": "Land",
         "sr_Cyrl": "Ланд",
         "sr_Cyrl_BA": "Ланд",
         "sr_Cyrl_ME": "Ланд",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Landes",
         "tr_TR": "Landes",
         "tt": "Landes",
+        "tt@iqtelif": "Landes",
         "tt_RU": "Landes",
         "twq": "Landes",
         "twq_NE": "Landes",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Landes",
         "zh_Hant_TW": "Landes",
         "zu": "Landes",
-        "zu_ZA": "Landes",
-        "sr@latin": "Land",
-        "tt@iqtelif": "Landes"
+        "zu_ZA": "Landes"
     },
     "41": {
         "af": "Loir-et-Cher",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Loir-et-Cher",
         "sq_XK": "Loir-et-Cher",
         "sr": "Луар-е-шер",
+        "sr@latin": "Luar-e-šer",
         "sr_Cyrl": "Луар-е-шер",
         "sr_Cyrl_BA": "Луар-е-шер",
         "sr_Cyrl_ME": "Луар-е-шер",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Loir-et-Cher",
         "tr_TR": "Loir-et-Cher",
         "tt": "Loir-et-Cher",
+        "tt@iqtelif": "Loir-et-Cher",
         "tt_RU": "Loir-et-Cher",
         "twq": "Loir-et-Cher",
         "twq_NE": "Loir-et-Cher",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Loir-et-Cher",
         "zh_Hant_TW": "Loir-et-Cher",
         "zu": "Loir-et-Cher",
-        "zu_ZA": "Loir-et-Cher",
-        "sr@latin": "Luar-e-šer",
-        "tt@iqtelif": "Loir-et-Cher"
+        "zu_ZA": "Loir-et-Cher"
     },
     "42": {
         "af": "Loire",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Loire",
         "sq_XK": "Loire",
         "sr": "Луара",
+        "sr@latin": "Luara",
         "sr_Cyrl": "Луара",
         "sr_Cyrl_BA": "Луара",
         "sr_Cyrl_ME": "Луара",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Loire",
         "tr_TR": "Loire",
         "tt": "Loire",
+        "tt@iqtelif": "Loire",
         "tt_RU": "Loire",
         "twq": "Loire",
         "twq_NE": "Loire",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Loire",
         "zh_Hant_TW": "Loire",
         "zu": "Loire",
-        "zu_ZA": "Loire",
-        "sr@latin": "Luara",
-        "tt@iqtelif": "Loire"
+        "zu_ZA": "Loire"
     },
     "43": {
         "af": "Haute-Loire",
@@ -39683,6 +39683,7 @@
         "sq_MK": "Haute-Loire",
         "sq_XK": "Haute-Loire",
         "sr": "Горња Луара",
+        "sr@latin": "Gornja Luara",
         "sr_Cyrl": "Горња Луара",
         "sr_Cyrl_BA": "Горња Луара",
         "sr_Cyrl_ME": "Горња Луара",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Haute-Loire",
         "tr_TR": "Haute-Loire",
         "tt": "Haute-Loire",
+        "tt@iqtelif": "Haute-Loire",
         "tt_RU": "Haute-Loire",
         "twq": "Haute-Loire",
         "twq_NE": "Haute-Loire",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "Haute-Loire",
         "zh_Hant_TW": "Haute-Loire",
         "zu": "Haute-Loire",
-        "zu_ZA": "Haute-Loire",
-        "sr@latin": "Gornja Luara",
-        "tt@iqtelif": "Haute-Loire"
+        "zu_ZA": "Haute-Loire"
     },
     "44": {
         "af": "Loire-Atlantique",
@@ -40568,6 +40568,7 @@
         "sq_MK": "Loire-Atlantique",
         "sq_XK": "Loire-Atlantique",
         "sr": "Атлантичка Луара",
+        "sr@latin": "Atlantička Luara",
         "sr_Cyrl": "Атлантичка Луара",
         "sr_Cyrl_BA": "Атлантичка Луара",
         "sr_Cyrl_ME": "Атлантичка Луара",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Loire-Atlantique",
         "tr_TR": "Loire-Atlantique",
         "tt": "Loire-Atlantique",
+        "tt@iqtelif": "Loire-Atlantique",
         "tt_RU": "Loire-Atlantique",
         "twq": "Loire-Atlantique",
         "twq_NE": "Loire-Atlantique",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "Loire-Atlantique",
         "zh_Hant_TW": "Loire-Atlantique",
         "zu": "Loire-Atlantique",
-        "zu_ZA": "Loire-Atlantique",
-        "sr@latin": "Atlantička Luara",
-        "tt@iqtelif": "Loire-Atlantique"
+        "zu_ZA": "Loire-Atlantique"
     },
     "45": {
         "af": "Loiret",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Loiret",
         "sq_XK": "Loiret",
         "sr": "Луар",
+        "sr@latin": "Luar",
         "sr_Cyrl": "Луар",
         "sr_Cyrl_BA": "Луар",
         "sr_Cyrl_ME": "Луар",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Loiret",
         "tr_TR": "Loiret",
         "tt": "Loiret",
+        "tt@iqtelif": "Loiret",
         "tt_RU": "Loiret",
         "twq": "Loiret",
         "twq_NE": "Loiret",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Loiret",
         "zh_Hant_TW": "Loiret",
         "zu": "Loiret",
-        "zu_ZA": "Loiret",
-        "sr@latin": "Luar",
-        "tt@iqtelif": "Loiret"
+        "zu_ZA": "Loiret"
     },
     "46": {
         "af": "Lot",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Lot",
         "sq_XK": "Lot",
         "sr": "Лот",
+        "sr@latin": "Lot",
         "sr_Cyrl": "Лот",
         "sr_Cyrl_BA": "Лот",
         "sr_Cyrl_ME": "Лот",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Lot",
         "tr_TR": "Lot",
         "tt": "Lot",
+        "tt@iqtelif": "Lot",
         "tt_RU": "Lot",
         "twq": "Lot",
         "twq_NE": "Lot",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Lot",
         "zh_Hant_TW": "Lot",
         "zu": "Lot",
-        "zu_ZA": "Lot",
-        "sr@latin": "Lot",
-        "tt@iqtelif": "Lot"
+        "zu_ZA": "Lot"
     },
     "47": {
         "af": "Lot-et-Garonne",
@@ -43223,6 +43223,7 @@
         "sq_MK": "Lot-et-Garonne",
         "sq_XK": "Lot-et-Garonne",
         "sr": "Лот-е-Гарон",
+        "sr@latin": "Lot-e-Garon",
         "sr_Cyrl": "Лот-е-Гарон",
         "sr_Cyrl_BA": "Лот-е-Гарон",
         "sr_Cyrl_ME": "Лот-е-Гарон",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Lot-et-Garonne",
         "tr_TR": "Lot-et-Garonne",
         "tt": "Lot-et-Garonne",
+        "tt@iqtelif": "Lot-et-Garonne",
         "tt_RU": "Lot-et-Garonne",
         "twq": "Lot-et-Garonne",
         "twq_NE": "Lot-et-Garonne",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "Lot-et-Garonne",
         "zh_Hant_TW": "Lot-et-Garonne",
         "zu": "Lot-et-Garonne",
-        "zu_ZA": "Lot-et-Garonne",
-        "sr@latin": "Lot-e-Garon",
-        "tt@iqtelif": "Lot-et-Garonne"
+        "zu_ZA": "Lot-et-Garonne"
     },
     "48": {
         "af": "Lozère",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Lozère",
         "sq_XK": "Lozère",
         "sr": "Лозер",
+        "sr@latin": "Lozer",
         "sr_Cyrl": "Лозер",
         "sr_Cyrl_BA": "Лозер",
         "sr_Cyrl_ME": "Лозер",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Lozere",
         "tr_TR": "Lozere",
         "tt": "Lozère",
+        "tt@iqtelif": "Lozère",
         "tt_RU": "Lozère",
         "twq": "Lozère",
         "twq_NE": "Lozère",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Lozère",
         "zh_Hant_TW": "Lozère",
         "zu": "Lozère",
-        "zu_ZA": "Lozère",
-        "sr@latin": "Lozer",
-        "tt@iqtelif": "Lozère"
+        "zu_ZA": "Lozère"
     },
     "49": {
         "af": "Maine-et-Loire",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Maine-et-Loire",
         "sq_XK": "Maine-et-Loire",
         "sr": "Мен-е-Луар",
+        "sr@latin": "Men-e-Luar",
         "sr_Cyrl": "Мен-е-Луар",
         "sr_Cyrl_BA": "Мен-е-Луар",
         "sr_Cyrl_ME": "Мен-е-Луар",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Maine-et-Loire",
         "tr_TR": "Maine-et-Loire",
         "tt": "Maine-et-Loire",
+        "tt@iqtelif": "Maine-et-Loire",
         "tt_RU": "Maine-et-Loire",
         "twq": "Maine-et-Loire",
         "twq_NE": "Maine-et-Loire",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Maine-et-Loire",
         "zh_Hant_TW": "Maine-et-Loire",
         "zu": "Maine-et-Loire",
-        "zu_ZA": "Maine-et-Loire",
-        "sr@latin": "Men-e-Luar",
-        "tt@iqtelif": "Maine-et-Loire"
+        "zu_ZA": "Maine-et-Loire"
     },
     "50": {
         "af": "Manche",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Manche",
         "sq_XK": "Manche",
         "sr": "Манш",
+        "sr@latin": "Manš",
         "sr_Cyrl": "Манш",
         "sr_Cyrl_BA": "Манш",
         "sr_Cyrl_ME": "Манш",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Manche",
         "tr_TR": "Manche",
         "tt": "Manche",
+        "tt@iqtelif": "Manche",
         "tt_RU": "Manche",
         "twq": "Manche",
         "twq_NE": "Manche",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Manche",
         "zh_Hant_TW": "Manche",
         "zu": "Manche",
-        "zu_ZA": "Manche",
-        "sr@latin": "Manš",
-        "tt@iqtelif": "Manche"
+        "zu_ZA": "Manche"
     },
     "51": {
         "af": "Marne",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Marne",
         "sq_XK": "Marne",
         "sr": "Марн",
+        "sr@latin": "Marn",
         "sr_Cyrl": "Марн",
         "sr_Cyrl_BA": "Марн",
         "sr_Cyrl_ME": "Марн",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Marne",
         "tr_TR": "Marne",
         "tt": "Marne",
+        "tt@iqtelif": "Marne",
         "tt_RU": "Marne",
         "twq": "Marne",
         "twq_NE": "Marne",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Marne",
         "zh_Hant_TW": "Marne",
         "zu": "Marne",
-        "zu_ZA": "Marne",
-        "sr@latin": "Marn",
-        "tt@iqtelif": "Marne"
+        "zu_ZA": "Marne"
     },
     "52": {
         "af": "Haute-Marne",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Haute-Marne",
         "sq_XK": "Haute-Marne",
         "sr": "Горња Марна",
+        "sr@latin": "Gornja Marna",
         "sr_Cyrl": "Горња Марна",
         "sr_Cyrl_BA": "Горња Марна",
         "sr_Cyrl_ME": "Горња Марна",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Haute-Marne",
         "tr_TR": "Haute-Marne",
         "tt": "Haute-Marne",
+        "tt@iqtelif": "Haute-Marne",
         "tt_RU": "Haute-Marne",
         "twq": "Haute-Marne",
         "twq_NE": "Haute-Marne",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Haute-Marne",
         "zh_Hant_TW": "Haute-Marne",
         "zu": "Haute-Marne",
-        "zu_ZA": "Haute-Marne",
-        "sr@latin": "Gornja Marna",
-        "tt@iqtelif": "Haute-Marne"
+        "zu_ZA": "Haute-Marne"
     },
     "53": {
         "af": "Mayenne",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Mayenne",
         "sq_XK": "Mayenne",
         "sr": "Мајен",
+        "sr@latin": "Majen",
         "sr_Cyrl": "Мајен",
         "sr_Cyrl_BA": "Мајен",
         "sr_Cyrl_ME": "Мајен",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Mayenne",
         "tr_TR": "Mayenne",
         "tt": "Mayenne",
+        "tt@iqtelif": "Mayenne",
         "tt_RU": "Mayenne",
         "twq": "Mayenne",
         "twq_NE": "Mayenne",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Mayenne",
         "zh_Hant_TW": "Mayenne",
         "zu": "Mayenne",
-        "zu_ZA": "Mayenne",
-        "sr@latin": "Majen",
-        "tt@iqtelif": "Mayenne"
+        "zu_ZA": "Mayenne"
     },
     "54": {
         "af": "Meurthe-et-Moselle",
@@ -49418,6 +49418,7 @@
         "sq_MK": "Meurthe-et-Moselle",
         "sq_XK": "Meurthe-et-Moselle",
         "sr": "Мерт-е-Мозел",
+        "sr@latin": "Mert-e-Mozel",
         "sr_Cyrl": "Мерт-е-Мозел",
         "sr_Cyrl_BA": "Мерт-е-Мозел",
         "sr_Cyrl_ME": "Мерт-е-Мозел",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Meurthe-et-Moselle",
         "tr_TR": "Meurthe-et-Moselle",
         "tt": "Meurthe-et-Moselle",
+        "tt@iqtelif": "Meurthe-et-Moselle",
         "tt_RU": "Meurthe-et-Moselle",
         "twq": "Meurthe-et-Moselle",
         "twq_NE": "Meurthe-et-Moselle",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "Meurthe-et-Moselle",
         "zh_Hant_TW": "Meurthe-et-Moselle",
         "zu": "Meurthe-et-Moselle",
-        "zu_ZA": "Meurthe-et-Moselle",
-        "sr@latin": "Mert-e-Mozel",
-        "tt@iqtelif": "Meurthe-et-Moselle"
+        "zu_ZA": "Meurthe-et-Moselle"
     },
     "55": {
         "af": "Meuse",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Meuse",
         "sq_XK": "Meuse",
         "sr": "Мез",
+        "sr@latin": "Mez",
         "sr_Cyrl": "Мез",
         "sr_Cyrl_BA": "Мез",
         "sr_Cyrl_ME": "Мез",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Meuse",
         "tr_TR": "Meuse",
         "tt": "Meuse",
+        "tt@iqtelif": "Meuse",
         "tt_RU": "Meuse",
         "twq": "Meuse",
         "twq_NE": "Meuse",
@@ -50440,9 +50442,7 @@
         "zh_Hant_MY": "Meuse",
         "zh_Hant_TW": "Meuse",
         "zu": "Meuse",
-        "zu_ZA": "Meuse",
-        "sr@latin": "Mez",
-        "tt@iqtelif": "Meuse"
+        "zu_ZA": "Meuse"
     },
     "56": {
         "af": "Morbihan",
@@ -51188,6 +51188,7 @@
         "sq_MK": "Morbihan",
         "sq_XK": "Morbihan",
         "sr": "Морбиан",
+        "sr@latin": "Morbian",
         "sr_Cyrl": "Морбиан",
         "sr_Cyrl_BA": "Морбиан",
         "sr_Cyrl_ME": "Морбиан",
@@ -51248,6 +51249,7 @@
         "tr_CY": "Morbihan",
         "tr_TR": "Morbihan",
         "tt": "Morbihan",
+        "tt@iqtelif": "Morbihan",
         "tt_RU": "Morbihan",
         "twq": "Morbihan",
         "twq_NE": "Morbihan",
@@ -51325,9 +51327,7 @@
         "zh_Hant_MY": "Morbihan",
         "zh_Hant_TW": "Morbihan",
         "zu": "Morbihan",
-        "zu_ZA": "Morbihan",
-        "sr@latin": "Morbian",
-        "tt@iqtelif": "Morbihan"
+        "zu_ZA": "Morbihan"
     },
     "57": {
         "af": "Moselle",
@@ -52073,6 +52073,7 @@
         "sq_MK": "Moselle",
         "sq_XK": "Moselle",
         "sr": "Мозел",
+        "sr@latin": "Mozel",
         "sr_Cyrl": "Мозел",
         "sr_Cyrl_BA": "Мозел",
         "sr_Cyrl_ME": "Мозел",
@@ -52133,6 +52134,7 @@
         "tr_CY": "Moselle",
         "tr_TR": "Moselle",
         "tt": "Moselle",
+        "tt@iqtelif": "Moselle",
         "tt_RU": "Moselle",
         "twq": "Moselle",
         "twq_NE": "Moselle",
@@ -52210,9 +52212,7 @@
         "zh_Hant_MY": "Moselle",
         "zh_Hant_TW": "Moselle",
         "zu": "Moselle",
-        "zu_ZA": "Moselle",
-        "sr@latin": "Mozel",
-        "tt@iqtelif": "Moselle"
+        "zu_ZA": "Moselle"
     },
     "58": {
         "af": "Nièvre",
@@ -52958,6 +52958,7 @@
         "sq_MK": "Nièvre",
         "sq_XK": "Nièvre",
         "sr": "Њевр",
+        "sr@latin": "Njevr",
         "sr_Cyrl": "Њевр",
         "sr_Cyrl_BA": "Њевр",
         "sr_Cyrl_ME": "Њевр",
@@ -53018,6 +53019,7 @@
         "tr_CY": "Nievre",
         "tr_TR": "Nievre",
         "tt": "Nièvre",
+        "tt@iqtelif": "Nièvre",
         "tt_RU": "Nièvre",
         "twq": "Nièvre",
         "twq_NE": "Nièvre",
@@ -53095,9 +53097,7 @@
         "zh_Hant_MY": "Nièvre",
         "zh_Hant_TW": "Nièvre",
         "zu": "Nièvre",
-        "zu_ZA": "Nièvre",
-        "sr@latin": "Njevr",
-        "tt@iqtelif": "Nièvre"
+        "zu_ZA": "Nièvre"
     },
     "59": {
         "af": "Nord",
@@ -53843,6 +53843,7 @@
         "sq_MK": "Nord",
         "sq_XK": "Nord",
         "sr": "Север",
+        "sr@latin": "Sever",
         "sr_Cyrl": "Север",
         "sr_Cyrl_BA": "Север",
         "sr_Cyrl_ME": "Север",
@@ -53903,6 +53904,7 @@
         "tr_CY": "Nord",
         "tr_TR": "Nord",
         "tt": "Nord",
+        "tt@iqtelif": "Nord",
         "tt_RU": "Nord",
         "twq": "Nord",
         "twq_NE": "Nord",
@@ -53980,9 +53982,7 @@
         "zh_Hant_MY": "Nord",
         "zh_Hant_TW": "Nord",
         "zu": "Nord",
-        "zu_ZA": "Nord",
-        "sr@latin": "Sever",
-        "tt@iqtelif": "Nord"
+        "zu_ZA": "Nord"
     },
     "60": {
         "af": "Oise",
@@ -54728,6 +54728,7 @@
         "sq_MK": "Oise",
         "sq_XK": "Oise",
         "sr": "Уаз",
+        "sr@latin": "Uaz",
         "sr_Cyrl": "Уаз",
         "sr_Cyrl_BA": "Уаз",
         "sr_Cyrl_ME": "Уаз",
@@ -54788,6 +54789,7 @@
         "tr_CY": "Oise",
         "tr_TR": "Oise",
         "tt": "Oise",
+        "tt@iqtelif": "Oise",
         "tt_RU": "Oise",
         "twq": "Oise",
         "twq_NE": "Oise",
@@ -54865,9 +54867,7 @@
         "zh_Hant_MY": "Oise",
         "zh_Hant_TW": "Oise",
         "zu": "Oise",
-        "zu_ZA": "Oise",
-        "sr@latin": "Uaz",
-        "tt@iqtelif": "Oise"
+        "zu_ZA": "Oise"
     },
     "61": {
         "af": "Orne",
@@ -55613,6 +55613,7 @@
         "sq_MK": "Orne",
         "sq_XK": "Orne",
         "sr": "Орне",
+        "sr@latin": "Orne",
         "sr_Cyrl": "Орне",
         "sr_Cyrl_BA": "Орне",
         "sr_Cyrl_ME": "Орне",
@@ -55673,6 +55674,7 @@
         "tr_CY": "Orne",
         "tr_TR": "Orne",
         "tt": "Orne",
+        "tt@iqtelif": "Orne",
         "tt_RU": "Orne",
         "twq": "Orne",
         "twq_NE": "Orne",
@@ -55750,9 +55752,7 @@
         "zh_Hant_MY": "Orne",
         "zh_Hant_TW": "Orne",
         "zu": "Orne",
-        "zu_ZA": "Orne",
-        "sr@latin": "Orne",
-        "tt@iqtelif": "Orne"
+        "zu_ZA": "Orne"
     },
     "62": {
         "af": "Pas-de-Calais",
@@ -56498,6 +56498,7 @@
         "sq_MK": "Pas-de-Calais",
         "sq_XK": "Pas-de-Calais",
         "sr": "Па-д-Кале",
+        "sr@latin": "Pa-d-Kale",
         "sr_Cyrl": "Па-д-Кале",
         "sr_Cyrl_BA": "Па-д-Кале",
         "sr_Cyrl_ME": "Па-д-Кале",
@@ -56558,6 +56559,7 @@
         "tr_CY": "Pas-de-Calais",
         "tr_TR": "Pas-de-Calais",
         "tt": "Pas-de-Calais",
+        "tt@iqtelif": "Pas-de-Calais",
         "tt_RU": "Pas-de-Calais",
         "twq": "Pas-de-Calais",
         "twq_NE": "Pas-de-Calais",
@@ -56635,9 +56637,7 @@
         "zh_Hant_MY": "Pas-de-Calais",
         "zh_Hant_TW": "Pas-de-Calais",
         "zu": "Pas-de-Calais",
-        "zu_ZA": "Pas-de-Calais",
-        "sr@latin": "Pa-d-Kale",
-        "tt@iqtelif": "Pas-de-Calais"
+        "zu_ZA": "Pas-de-Calais"
     },
     "63": {
         "af": "Puy-de-Dôme",
@@ -57383,6 +57383,7 @@
         "sq_MK": "Puy-de-Dôme",
         "sq_XK": "Puy-de-Dôme",
         "sr": "Пиј-д-Дом",
+        "sr@latin": "Pij-d-Dom",
         "sr_Cyrl": "Пиј-д-Дом",
         "sr_Cyrl_BA": "Пиј-д-Дом",
         "sr_Cyrl_ME": "Пиј-д-Дом",
@@ -57443,6 +57444,7 @@
         "tr_CY": "Puy-de-Dôme",
         "tr_TR": "Puy-de-Dôme",
         "tt": "Puy-de-Dôme",
+        "tt@iqtelif": "Puy-de-Dôme",
         "tt_RU": "Puy-de-Dôme",
         "twq": "Puy-de-Dôme",
         "twq_NE": "Puy-de-Dôme",
@@ -57520,9 +57522,7 @@
         "zh_Hant_MY": "Puy-de-Dôme",
         "zh_Hant_TW": "Puy-de-Dôme",
         "zu": "Puy-de-Dôme",
-        "zu_ZA": "Puy-de-Dôme",
-        "sr@latin": "Pij-d-Dom",
-        "tt@iqtelif": "Puy-de-Dôme"
+        "zu_ZA": "Puy-de-Dôme"
     },
     "64": {
         "af": "Pyrénées-Atlantiques",
@@ -58268,6 +58268,7 @@
         "sq_MK": "Pyrénées-Atlantiques",
         "sq_XK": "Pyrénées-Atlantiques",
         "sr": "Атлантски Пиринеји",
+        "sr@latin": "Atlantski Pirineji",
         "sr_Cyrl": "Атлантски Пиринеји",
         "sr_Cyrl_BA": "Атлантски Пиринеји",
         "sr_Cyrl_ME": "Атлантски Пиринеји",
@@ -58328,6 +58329,7 @@
         "tr_CY": "Pyrenees-Atlantiques",
         "tr_TR": "Pyrenees-Atlantiques",
         "tt": "Pyrénées-Atlantiques",
+        "tt@iqtelif": "Pyrénées-Atlantiques",
         "tt_RU": "Pyrénées-Atlantiques",
         "twq": "Pyrénées-Atlantiques",
         "twq_NE": "Pyrénées-Atlantiques",
@@ -58405,9 +58407,7 @@
         "zh_Hant_MY": "Pyrénées-Atlantiques",
         "zh_Hant_TW": "Pyrénées-Atlantiques",
         "zu": "Pyrénées-Atlantiques",
-        "zu_ZA": "Pyrénées-Atlantiques",
-        "sr@latin": "Atlantski Pirineji",
-        "tt@iqtelif": "Pyrénées-Atlantiques"
+        "zu_ZA": "Pyrénées-Atlantiques"
     },
     "65": {
         "af": "Hautes-Pyrénées",
@@ -59153,6 +59153,7 @@
         "sq_MK": "Hautes-Pyrénées",
         "sq_XK": "Hautes-Pyrénées",
         "sr": "Горњи Пиринеји",
+        "sr@latin": "Gornji Pirineji",
         "sr_Cyrl": "Горњи Пиринеји",
         "sr_Cyrl_BA": "Горњи Пиринеји",
         "sr_Cyrl_ME": "Горњи Пиринеји",
@@ -59213,6 +59214,7 @@
         "tr_CY": "Hautes-Pyrénées",
         "tr_TR": "Hautes-Pyrénées",
         "tt": "Hautes-Pyrénées",
+        "tt@iqtelif": "Hautes-Pyrénées",
         "tt_RU": "Hautes-Pyrénées",
         "twq": "Hautes-Pyrénées",
         "twq_NE": "Hautes-Pyrénées",
@@ -59290,9 +59292,7 @@
         "zh_Hant_MY": "Hautes-Pyrénées",
         "zh_Hant_TW": "Hautes-Pyrénées",
         "zu": "Hautes-Pyrénées",
-        "zu_ZA": "Hautes-Pyrénées",
-        "sr@latin": "Gornji Pirineji",
-        "tt@iqtelif": "Hautes-Pyrénées"
+        "zu_ZA": "Hautes-Pyrénées"
     },
     "66": {
         "af": "Pyrénées-Orientales",
@@ -60038,6 +60038,7 @@
         "sq_MK": "Pyrénées-Orientales",
         "sq_XK": "Pyrénées-Orientales",
         "sr": "Источни Пиринеји",
+        "sr@latin": "Istočni Pirineji",
         "sr_Cyrl": "Источни Пиринеји",
         "sr_Cyrl_BA": "Источни Пиринеји",
         "sr_Cyrl_ME": "Источни Пиринеји",
@@ -60098,6 +60099,7 @@
         "tr_CY": "Pyrenees-Orientales",
         "tr_TR": "Pyrenees-Orientales",
         "tt": "Pyrénées-Orientales",
+        "tt@iqtelif": "Pyrénées-Orientales",
         "tt_RU": "Pyrénées-Orientales",
         "twq": "Pyrénées-Orientales",
         "twq_NE": "Pyrénées-Orientales",
@@ -60175,9 +60177,7 @@
         "zh_Hant_MY": "Pyrénées-Orientales",
         "zh_Hant_TW": "Pyrénées-Orientales",
         "zu": "Pyrénées-Orientales",
-        "zu_ZA": "Pyrénées-Orientales",
-        "sr@latin": "Istočni Pirineji",
-        "tt@iqtelif": "Pyrénées-Orientales"
+        "zu_ZA": "Pyrénées-Orientales"
     },
     "67": {
         "af": "Bas-Rhin",
@@ -60923,6 +60923,7 @@
         "sq_MK": "Bas-Rhin",
         "sq_XK": "Bas-Rhin",
         "sr": "Доњи Рин",
+        "sr@latin": "Donji Rin",
         "sr_Cyrl": "Доњи Рин",
         "sr_Cyrl_BA": "Доњи Рин",
         "sr_Cyrl_ME": "Доњи Рин",
@@ -60983,6 +60984,7 @@
         "tr_CY": "Bas-Rhin",
         "tr_TR": "Bas-Rhin",
         "tt": "Bas-Rhin",
+        "tt@iqtelif": "Bas-Rhin",
         "tt_RU": "Bas-Rhin",
         "twq": "Bas-Rhin",
         "twq_NE": "Bas-Rhin",
@@ -61060,9 +61062,7 @@
         "zh_Hant_MY": "Bas-Rhin",
         "zh_Hant_TW": "Bas-Rhin",
         "zu": "Bas-Rhin",
-        "zu_ZA": "Bas-Rhin",
-        "sr@latin": "Donji Rin",
-        "tt@iqtelif": "Bas-Rhin"
+        "zu_ZA": "Bas-Rhin"
     },
     "68": {
         "af": "Haut-Rhin",
@@ -61808,6 +61808,7 @@
         "sq_MK": "Haut-Rhin",
         "sq_XK": "Haut-Rhin",
         "sr": "Горња Рајна",
+        "sr@latin": "Gornja Rajna",
         "sr_Cyrl": "Горња Рајна",
         "sr_Cyrl_BA": "Горња Рајна",
         "sr_Cyrl_ME": "Горња Рајна",
@@ -61868,6 +61869,7 @@
         "tr_CY": "Haut-Rhin",
         "tr_TR": "Haut-Rhin",
         "tt": "Haut-Rhin",
+        "tt@iqtelif": "Haut-Rhin",
         "tt_RU": "Haut-Rhin",
         "twq": "Haut-Rhin",
         "twq_NE": "Haut-Rhin",
@@ -61945,9 +61947,7 @@
         "zh_Hant_MY": "Haut-Rhin",
         "zh_Hant_TW": "Haut-Rhin",
         "zu": "Haut-Rhin",
-        "zu_ZA": "Haut-Rhin",
-        "sr@latin": "Gornja Rajna",
-        "tt@iqtelif": "Haut-Rhin"
+        "zu_ZA": "Haut-Rhin"
     },
     "69": {
         "af": "Rhône",
@@ -62693,6 +62693,7 @@
         "sq_MK": "Rhône",
         "sq_XK": "Rhône",
         "sr": "Рон",
+        "sr@latin": "Ron",
         "sr_Cyrl": "Рон",
         "sr_Cyrl_BA": "Рон",
         "sr_Cyrl_ME": "Рон",
@@ -62753,6 +62754,7 @@
         "tr_CY": "Rhone",
         "tr_TR": "Rhone",
         "tt": "Rhône",
+        "tt@iqtelif": "Rhône",
         "tt_RU": "Rhône",
         "twq": "Rhône",
         "twq_NE": "Rhône",
@@ -62830,9 +62832,7 @@
         "zh_Hant_MY": "Rhône",
         "zh_Hant_TW": "Rhône",
         "zu": "Rhône",
-        "zu_ZA": "Rhône",
-        "sr@latin": "Ron",
-        "tt@iqtelif": "Rhône"
+        "zu_ZA": "Rhône"
     },
     "69M": {
         "af": "Métropole de Lyon",
@@ -63578,6 +63578,7 @@
         "sq_MK": "Métropole de Lyon",
         "sq_XK": "Métropole de Lyon",
         "sr": "Métropole de Lyon",
+        "sr@latin": "Métropole de Lyon",
         "sr_Cyrl": "Métropole de Lyon",
         "sr_Cyrl_BA": "Métropole de Lyon",
         "sr_Cyrl_ME": "Métropole de Lyon",
@@ -63638,6 +63639,7 @@
         "tr_CY": "Métropole de Lyon",
         "tr_TR": "Métropole de Lyon",
         "tt": "Métropole de Lyon",
+        "tt@iqtelif": "Métropole de Lyon",
         "tt_RU": "Métropole de Lyon",
         "twq": "Métropole de Lyon",
         "twq_NE": "Métropole de Lyon",
@@ -63715,9 +63717,7 @@
         "zh_Hant_MY": "Métropole de Lyon",
         "zh_Hant_TW": "Métropole de Lyon",
         "zu": "Métropole de Lyon",
-        "zu_ZA": "Métropole de Lyon",
-        "sr@latin": "Métropole de Lyon",
-        "tt@iqtelif": "Métropole de Lyon"
+        "zu_ZA": "Métropole de Lyon"
     },
     "6AE": {
         "af": "Alsace",
@@ -64463,6 +64463,7 @@
         "sq_MK": "Alsace",
         "sq_XK": "Alsace",
         "sr": "Alsace",
+        "sr@latin": "Alsace",
         "sr_Cyrl": "Alsace",
         "sr_Cyrl_BA": "Alsace",
         "sr_Cyrl_ME": "Alsace",
@@ -64523,6 +64524,7 @@
         "tr_CY": "Alsace",
         "tr_TR": "Alsace",
         "tt": "Alsace",
+        "tt@iqtelif": "Alsace",
         "tt_RU": "Alsace",
         "twq": "Alsace",
         "twq_NE": "Alsace",
@@ -64600,9 +64602,7 @@
         "zh_Hant_MY": "Alsace",
         "zh_Hant_TW": "Alsace",
         "zu": "Alsace",
-        "zu_ZA": "Alsace",
-        "sr@latin": "Alsace",
-        "tt@iqtelif": "Alsace"
+        "zu_ZA": "Alsace"
     },
     "70": {
         "af": "Haute-Saône",
@@ -65348,6 +65348,7 @@
         "sq_MK": "Haute-Saône",
         "sq_XK": "Haute-Saône",
         "sr": "Горња Савона",
+        "sr@latin": "Gornja Savona",
         "sr_Cyrl": "Горња Савона",
         "sr_Cyrl_BA": "Горња Савона",
         "sr_Cyrl_ME": "Горња Савона",
@@ -65408,6 +65409,7 @@
         "tr_CY": "Haute-Saône",
         "tr_TR": "Haute-Saône",
         "tt": "Haute-Saône",
+        "tt@iqtelif": "Haute-Saône",
         "tt_RU": "Haute-Saône",
         "twq": "Haute-Saône",
         "twq_NE": "Haute-Saône",
@@ -65485,9 +65487,7 @@
         "zh_Hant_MY": "Haute-Saône",
         "zh_Hant_TW": "Haute-Saône",
         "zu": "Haute-Saône",
-        "zu_ZA": "Haute-Saône",
-        "sr@latin": "Gornja Savona",
-        "tt@iqtelif": "Haute-Saône"
+        "zu_ZA": "Haute-Saône"
     },
     "71": {
         "af": "Saône-et-Loire",
@@ -66233,6 +66233,7 @@
         "sq_MK": "Saône-et-Loire",
         "sq_XK": "Saône-et-Loire",
         "sr": "Саон-е-Луар",
+        "sr@latin": "Saon-e-Luar",
         "sr_Cyrl": "Саон-е-Луар",
         "sr_Cyrl_BA": "Саон-е-Луар",
         "sr_Cyrl_ME": "Саон-е-Луар",
@@ -66293,6 +66294,7 @@
         "tr_CY": "Saone-et-Loire",
         "tr_TR": "Saone-et-Loire",
         "tt": "Saône-et-Loire",
+        "tt@iqtelif": "Saône-et-Loire",
         "tt_RU": "Saône-et-Loire",
         "twq": "Saône-et-Loire",
         "twq_NE": "Saône-et-Loire",
@@ -66370,9 +66372,7 @@
         "zh_Hant_MY": "Saône-et-Loire",
         "zh_Hant_TW": "Saône-et-Loire",
         "zu": "Saône-et-Loire",
-        "zu_ZA": "Saône-et-Loire",
-        "sr@latin": "Saon-e-Luar",
-        "tt@iqtelif": "Saône-et-Loire"
+        "zu_ZA": "Saône-et-Loire"
     },
     "72": {
         "af": "Sarthe",
@@ -67118,6 +67118,7 @@
         "sq_MK": "Sarthe",
         "sq_XK": "Sarthe",
         "sr": "Сарте",
+        "sr@latin": "Sarte",
         "sr_Cyrl": "Сарте",
         "sr_Cyrl_BA": "Сарте",
         "sr_Cyrl_ME": "Сарте",
@@ -67178,6 +67179,7 @@
         "tr_CY": "Sarthe",
         "tr_TR": "Sarthe",
         "tt": "Sarthe",
+        "tt@iqtelif": "Sarthe",
         "tt_RU": "Sarthe",
         "twq": "Sarthe",
         "twq_NE": "Sarthe",
@@ -67255,9 +67257,7 @@
         "zh_Hant_MY": "Sarthe",
         "zh_Hant_TW": "Sarthe",
         "zu": "Sarthe",
-        "zu_ZA": "Sarthe",
-        "sr@latin": "Sarte",
-        "tt@iqtelif": "Sarthe"
+        "zu_ZA": "Sarthe"
     },
     "73": {
         "af": "Savoie",
@@ -68003,6 +68003,7 @@
         "sq_MK": "Savoie",
         "sq_XK": "Savoie",
         "sr": "Савоја",
+        "sr@latin": "Savoja",
         "sr_Cyrl": "Савоја",
         "sr_Cyrl_BA": "Савоја",
         "sr_Cyrl_ME": "Савоја",
@@ -68063,6 +68064,7 @@
         "tr_CY": "Savoie",
         "tr_TR": "Savoie",
         "tt": "Savoie",
+        "tt@iqtelif": "Savoie",
         "tt_RU": "Savoie",
         "twq": "Savoie",
         "twq_NE": "Savoie",
@@ -68140,9 +68142,7 @@
         "zh_Hant_MY": "Savoie",
         "zh_Hant_TW": "Savoie",
         "zu": "Savoie",
-        "zu_ZA": "Savoie",
-        "sr@latin": "Savoja",
-        "tt@iqtelif": "Savoie"
+        "zu_ZA": "Savoie"
     },
     "74": {
         "af": "Haute-Savoie",
@@ -68888,6 +68888,7 @@
         "sq_MK": "Haute-Savoie",
         "sq_XK": "Haute-Savoie",
         "sr": "Горња Савоја",
+        "sr@latin": "Gornja Savoja",
         "sr_Cyrl": "Горња Савоја",
         "sr_Cyrl_BA": "Горња Савоја",
         "sr_Cyrl_ME": "Горња Савоја",
@@ -68948,6 +68949,7 @@
         "tr_CY": "Haute-Savoie",
         "tr_TR": "Haute-Savoie",
         "tt": "Haute-Savoie",
+        "tt@iqtelif": "Haute-Savoie",
         "tt_RU": "Haute-Savoie",
         "twq": "Haute-Savoie",
         "twq_NE": "Haute-Savoie",
@@ -69025,9 +69027,7 @@
         "zh_Hant_MY": "Haute-Savoie",
         "zh_Hant_TW": "Haute-Savoie",
         "zu": "Haute-Savoie",
-        "zu_ZA": "Haute-Savoie",
-        "sr@latin": "Gornja Savoja",
-        "tt@iqtelif": "Haute-Savoie"
+        "zu_ZA": "Haute-Savoie"
     },
     "75C": {
         "af": "Paris",
@@ -69773,6 +69773,7 @@
         "sq_MK": "Paris",
         "sq_XK": "Paris",
         "sr": "Париз",
+        "sr@latin": "Pariz",
         "sr_Cyrl": "Париз",
         "sr_Cyrl_BA": "Париз",
         "sr_Cyrl_ME": "Париз",
@@ -69833,6 +69834,7 @@
         "tr_CY": "Paris",
         "tr_TR": "Paris",
         "tt": "Paris",
+        "tt@iqtelif": "Paris",
         "tt_RU": "Paris",
         "twq": "Paris",
         "twq_NE": "Paris",
@@ -69910,9 +69912,7 @@
         "zh_Hant_MY": "Paris",
         "zh_Hant_TW": "Paris",
         "zu": "Paris",
-        "zu_ZA": "Paris",
-        "sr@latin": "Pariz",
-        "tt@iqtelif": "Paris"
+        "zu_ZA": "Paris"
     },
     "76": {
         "af": "Seine-Maritime",
@@ -70658,6 +70658,7 @@
         "sq_MK": "Seine-Maritime",
         "sq_XK": "Seine-Maritime",
         "sr": "Seine-Maritime",
+        "sr@latin": "Seine-Maritime",
         "sr_Cyrl": "Seine-Maritime",
         "sr_Cyrl_BA": "Seine-Maritime",
         "sr_Cyrl_ME": "Seine-Maritime",
@@ -70718,6 +70719,7 @@
         "tr_CY": "Seine-Maritime",
         "tr_TR": "Seine-Maritime",
         "tt": "Seine-Maritime",
+        "tt@iqtelif": "Seine-Maritime",
         "tt_RU": "Seine-Maritime",
         "twq": "Seine-Maritime",
         "twq_NE": "Seine-Maritime",
@@ -70795,9 +70797,7 @@
         "zh_Hant_MY": "Seine-Maritime",
         "zh_Hant_TW": "Seine-Maritime",
         "zu": "Seine-Maritime",
-        "zu_ZA": "Seine-Maritime",
-        "sr@latin": "Seine-Maritime",
-        "tt@iqtelif": "Seine-Maritime"
+        "zu_ZA": "Seine-Maritime"
     },
     "77": {
         "af": "Seine-et-Marne",
@@ -71543,6 +71543,7 @@
         "sq_MK": "Seine-et-Marne",
         "sq_XK": "Seine-et-Marne",
         "sr": "Сена и Марна",
+        "sr@latin": "Sena i Marna",
         "sr_Cyrl": "Сена и Марна",
         "sr_Cyrl_BA": "Сена и Марна",
         "sr_Cyrl_ME": "Сена и Марна",
@@ -71603,6 +71604,7 @@
         "tr_CY": "Seine-et-Marne",
         "tr_TR": "Seine-et-Marne",
         "tt": "Seine-et-Marne",
+        "tt@iqtelif": "Seine-et-Marne",
         "tt_RU": "Seine-et-Marne",
         "twq": "Seine-et-Marne",
         "twq_NE": "Seine-et-Marne",
@@ -71680,9 +71682,7 @@
         "zh_Hant_MY": "Seine-et-Marne",
         "zh_Hant_TW": "Seine-et-Marne",
         "zu": "Seine-et-Marne",
-        "zu_ZA": "Seine-et-Marne",
-        "sr@latin": "Sena i Marna",
-        "tt@iqtelif": "Seine-et-Marne"
+        "zu_ZA": "Seine-et-Marne"
     },
     "78": {
         "af": "Yvelines",
@@ -72428,6 +72428,7 @@
         "sq_MK": "Yvelines",
         "sq_XK": "Yvelines",
         "sr": "Ивелин",
+        "sr@latin": "Ivelin",
         "sr_Cyrl": "Ивелин",
         "sr_Cyrl_BA": "Ивелин",
         "sr_Cyrl_ME": "Ивелин",
@@ -72488,6 +72489,7 @@
         "tr_CY": "Yvelines",
         "tr_TR": "Yvelines",
         "tt": "Yvelines",
+        "tt@iqtelif": "Yvelines",
         "tt_RU": "Yvelines",
         "twq": "Yvelines",
         "twq_NE": "Yvelines",
@@ -72565,9 +72567,7 @@
         "zh_Hant_MY": "Yvelines",
         "zh_Hant_TW": "Yvelines",
         "zu": "Yvelines",
-        "zu_ZA": "Yvelines",
-        "sr@latin": "Ivelin",
-        "tt@iqtelif": "Yvelines"
+        "zu_ZA": "Yvelines"
     },
     "79": {
         "af": "Deux-Sèvres",
@@ -73313,6 +73313,7 @@
         "sq_MK": "Deux-Sèvres",
         "sq_XK": "Deux-Sèvres",
         "sr": "Два-Севра",
+        "sr@latin": "Dva-Sevra",
         "sr_Cyrl": "Два-Севра",
         "sr_Cyrl_BA": "Два-Севра",
         "sr_Cyrl_ME": "Два-Севра",
@@ -73373,6 +73374,7 @@
         "tr_CY": "Deux-Sèvres",
         "tr_TR": "Deux-Sèvres",
         "tt": "Deux-Sèvres",
+        "tt@iqtelif": "Deux-Sèvres",
         "tt_RU": "Deux-Sèvres",
         "twq": "Deux-Sèvres",
         "twq_NE": "Deux-Sèvres",
@@ -73450,9 +73452,7 @@
         "zh_Hant_MY": "Deux-Sèvres",
         "zh_Hant_TW": "Deux-Sèvres",
         "zu": "Deux-Sèvres",
-        "zu_ZA": "Deux-Sèvres",
-        "sr@latin": "Dva-Sevra",
-        "tt@iqtelif": "Deux-Sèvres"
+        "zu_ZA": "Deux-Sèvres"
     },
     "80": {
         "af": "Somme",
@@ -74198,6 +74198,7 @@
         "sq_MK": "Somme",
         "sq_XK": "Somme",
         "sr": "Соме",
+        "sr@latin": "Some",
         "sr_Cyrl": "Соме",
         "sr_Cyrl_BA": "Соме",
         "sr_Cyrl_ME": "Соме",
@@ -74258,6 +74259,7 @@
         "tr_CY": "Somme",
         "tr_TR": "Somme",
         "tt": "Somme",
+        "tt@iqtelif": "Somme",
         "tt_RU": "Somme",
         "twq": "Somme",
         "twq_NE": "Somme",
@@ -74335,9 +74337,7 @@
         "zh_Hant_MY": "Somme",
         "zh_Hant_TW": "Somme",
         "zu": "Somme",
-        "zu_ZA": "Somme",
-        "sr@latin": "Some",
-        "tt@iqtelif": "Somme"
+        "zu_ZA": "Somme"
     },
     "81": {
         "af": "Tarn",
@@ -75083,6 +75083,7 @@
         "sq_MK": "Tarn",
         "sq_XK": "Tarn",
         "sr": "Тарн",
+        "sr@latin": "Tarn",
         "sr_Cyrl": "Тарн",
         "sr_Cyrl_BA": "Тарн",
         "sr_Cyrl_ME": "Тарн",
@@ -75143,6 +75144,7 @@
         "tr_CY": "Tarn",
         "tr_TR": "Tarn",
         "tt": "Tarn",
+        "tt@iqtelif": "Tarn",
         "tt_RU": "Tarn",
         "twq": "Tarn",
         "twq_NE": "Tarn",
@@ -75220,9 +75222,7 @@
         "zh_Hant_MY": "Tarn",
         "zh_Hant_TW": "Tarn",
         "zu": "Tarn",
-        "zu_ZA": "Tarn",
-        "sr@latin": "Tarn",
-        "tt@iqtelif": "Tarn"
+        "zu_ZA": "Tarn"
     },
     "82": {
         "af": "Tarn-et-Garonne",
@@ -75968,6 +75968,7 @@
         "sq_MK": "Tarn-et-Garonne",
         "sq_XK": "Tarn-et-Garonne",
         "sr": "Tarn-et-Garonne",
+        "sr@latin": "Tarn-et-Garonne",
         "sr_Cyrl": "Tarn-et-Garonne",
         "sr_Cyrl_BA": "Tarn-et-Garonne",
         "sr_Cyrl_ME": "Tarn-et-Garonne",
@@ -76028,6 +76029,7 @@
         "tr_CY": "Tarn-et-Garonne",
         "tr_TR": "Tarn-et-Garonne",
         "tt": "Tarn-et-Garonne",
+        "tt@iqtelif": "Tarn-et-Garonne",
         "tt_RU": "Tarn-et-Garonne",
         "twq": "Tarn-et-Garonne",
         "twq_NE": "Tarn-et-Garonne",
@@ -76105,9 +76107,7 @@
         "zh_Hant_MY": "Tarn-et-Garonne",
         "zh_Hant_TW": "Tarn-et-Garonne",
         "zu": "Tarn-et-Garonne",
-        "zu_ZA": "Tarn-et-Garonne",
-        "sr@latin": "Tarn-et-Garonne",
-        "tt@iqtelif": "Tarn-et-Garonne"
+        "zu_ZA": "Tarn-et-Garonne"
     },
     "83": {
         "af": "Var",
@@ -76853,6 +76853,7 @@
         "sq_MK": "Var",
         "sq_XK": "Var",
         "sr": "Вар",
+        "sr@latin": "Var",
         "sr_Cyrl": "Вар",
         "sr_Cyrl_BA": "Вар",
         "sr_Cyrl_ME": "Вар",
@@ -76913,6 +76914,7 @@
         "tr_CY": "Var",
         "tr_TR": "Var",
         "tt": "Var",
+        "tt@iqtelif": "Var",
         "tt_RU": "Var",
         "twq": "Var",
         "twq_NE": "Var",
@@ -76990,9 +76992,7 @@
         "zh_Hant_MY": "Var",
         "zh_Hant_TW": "Var",
         "zu": "Var",
-        "zu_ZA": "Var",
-        "sr@latin": "Var",
-        "tt@iqtelif": "Var"
+        "zu_ZA": "Var"
     },
     "84": {
         "af": "Vaucluse",
@@ -77738,6 +77738,7 @@
         "sq_MK": "Vaucluse",
         "sq_XK": "Vaucluse",
         "sr": "Воклиз",
+        "sr@latin": "Vokliz",
         "sr_Cyrl": "Воклиз",
         "sr_Cyrl_BA": "Воклиз",
         "sr_Cyrl_ME": "Воклиз",
@@ -77798,6 +77799,7 @@
         "tr_CY": "Vaucluse",
         "tr_TR": "Vaucluse",
         "tt": "Vaucluse",
+        "tt@iqtelif": "Vaucluse",
         "tt_RU": "Vaucluse",
         "twq": "Vaucluse",
         "twq_NE": "Vaucluse",
@@ -77875,9 +77877,7 @@
         "zh_Hant_MY": "Vaucluse",
         "zh_Hant_TW": "Vaucluse",
         "zu": "Vaucluse",
-        "zu_ZA": "Vaucluse",
-        "sr@latin": "Vokliz",
-        "tt@iqtelif": "Vaucluse"
+        "zu_ZA": "Vaucluse"
     },
     "85": {
         "af": "Vendée",
@@ -78623,6 +78623,7 @@
         "sq_MK": "Vendée",
         "sq_XK": "Vendée",
         "sr": "Ванде",
+        "sr@latin": "Vande",
         "sr_Cyrl": "Ванде",
         "sr_Cyrl_BA": "Ванде",
         "sr_Cyrl_ME": "Ванде",
@@ -78683,6 +78684,7 @@
         "tr_CY": "Vendee",
         "tr_TR": "Vendee",
         "tt": "Vendée",
+        "tt@iqtelif": "Vendée",
         "tt_RU": "Vendée",
         "twq": "Vendée",
         "twq_NE": "Vendée",
@@ -78760,9 +78762,7 @@
         "zh_Hant_MY": "Vendée",
         "zh_Hant_TW": "Vendée",
         "zu": "Vendée",
-        "zu_ZA": "Vendée",
-        "sr@latin": "Vande",
-        "tt@iqtelif": "Vendée"
+        "zu_ZA": "Vendée"
     },
     "86": {
         "af": "Vienne",
@@ -79508,6 +79508,7 @@
         "sq_MK": "Vienne",
         "sq_XK": "Vienne",
         "sr": "Вјен",
+        "sr@latin": "Vjen",
         "sr_Cyrl": "Вјен",
         "sr_Cyrl_BA": "Вјен",
         "sr_Cyrl_ME": "Вјен",
@@ -79568,6 +79569,7 @@
         "tr_CY": "Vienne",
         "tr_TR": "Vienne",
         "tt": "Vienne",
+        "tt@iqtelif": "Vienne",
         "tt_RU": "Vienne",
         "twq": "Vienne",
         "twq_NE": "Vienne",
@@ -79645,9 +79647,7 @@
         "zh_Hant_MY": "Vienne",
         "zh_Hant_TW": "Vienne",
         "zu": "Vienne",
-        "zu_ZA": "Vienne",
-        "sr@latin": "Vjen",
-        "tt@iqtelif": "Vienne"
+        "zu_ZA": "Vienne"
     },
     "87": {
         "af": "Haute-Vienne",
@@ -80393,6 +80393,7 @@
         "sq_MK": "Haute-Vienne",
         "sq_XK": "Haute-Vienne",
         "sr": "Горња Вјена",
+        "sr@latin": "Gornja Vjena",
         "sr_Cyrl": "Горња Вјена",
         "sr_Cyrl_BA": "Горња Вјена",
         "sr_Cyrl_ME": "Горња Вјена",
@@ -80453,6 +80454,7 @@
         "tr_CY": "Haute-Vienne",
         "tr_TR": "Haute-Vienne",
         "tt": "Haute-Vienne",
+        "tt@iqtelif": "Haute-Vienne",
         "tt_RU": "Haute-Vienne",
         "twq": "Haute-Vienne",
         "twq_NE": "Haute-Vienne",
@@ -80530,9 +80532,7 @@
         "zh_Hant_MY": "Haute-Vienne",
         "zh_Hant_TW": "Haute-Vienne",
         "zu": "Haute-Vienne",
-        "zu_ZA": "Haute-Vienne",
-        "sr@latin": "Gornja Vjena",
-        "tt@iqtelif": "Haute-Vienne"
+        "zu_ZA": "Haute-Vienne"
     },
     "88": {
         "af": "Vosges",
@@ -81278,6 +81278,7 @@
         "sq_MK": "Vosges",
         "sq_XK": "Vosges",
         "sr": "Восг",
+        "sr@latin": "Vosg",
         "sr_Cyrl": "Восг",
         "sr_Cyrl_BA": "Восг",
         "sr_Cyrl_ME": "Восг",
@@ -81338,6 +81339,7 @@
         "tr_CY": "Vosges",
         "tr_TR": "Vosges",
         "tt": "Vosges",
+        "tt@iqtelif": "Vosges",
         "tt_RU": "Vosges",
         "twq": "Vosges",
         "twq_NE": "Vosges",
@@ -81415,9 +81417,7 @@
         "zh_Hant_MY": "Vosges",
         "zh_Hant_TW": "Vosges",
         "zu": "Vosges",
-        "zu_ZA": "Vosges",
-        "sr@latin": "Vosg",
-        "tt@iqtelif": "Vosges"
+        "zu_ZA": "Vosges"
     },
     "89": {
         "af": "Yonne",
@@ -82163,6 +82163,7 @@
         "sq_MK": "Yonne",
         "sq_XK": "Yonne",
         "sr": "Јоне",
+        "sr@latin": "Jone",
         "sr_Cyrl": "Јоне",
         "sr_Cyrl_BA": "Јоне",
         "sr_Cyrl_ME": "Јоне",
@@ -82223,6 +82224,7 @@
         "tr_CY": "Yonne",
         "tr_TR": "Yonne",
         "tt": "Yonne",
+        "tt@iqtelif": "Yonne",
         "tt_RU": "Yonne",
         "twq": "Yonne",
         "twq_NE": "Yonne",
@@ -82300,9 +82302,7 @@
         "zh_Hant_MY": "Yonne",
         "zh_Hant_TW": "Yonne",
         "zu": "Yonne",
-        "zu_ZA": "Yonne",
-        "sr@latin": "Jone",
-        "tt@iqtelif": "Yonne"
+        "zu_ZA": "Yonne"
     },
     "90": {
         "af": "Territoire de Belfort",
@@ -83048,6 +83048,7 @@
         "sq_MK": "Territoire de Belfort",
         "sq_XK": "Territoire de Belfort",
         "sr": "Белфортска територија",
+        "sr@latin": "Belfortska teritorija",
         "sr_Cyrl": "Белфортска територија",
         "sr_Cyrl_BA": "Белфортска територија",
         "sr_Cyrl_ME": "Белфортска територија",
@@ -83108,6 +83109,7 @@
         "tr_CY": "Territoire de Belfort",
         "tr_TR": "Territoire de Belfort",
         "tt": "Territoire de Belfort",
+        "tt@iqtelif": "Territoire de Belfort",
         "tt_RU": "Territoire de Belfort",
         "twq": "Territoire de Belfort",
         "twq_NE": "Territoire de Belfort",
@@ -83185,9 +83187,7 @@
         "zh_Hant_MY": "Territoire de Belfort",
         "zh_Hant_TW": "Territoire de Belfort",
         "zu": "Territoire de Belfort",
-        "zu_ZA": "Territoire de Belfort",
-        "sr@latin": "Belfortska teritorija",
-        "tt@iqtelif": "Territoire de Belfort"
+        "zu_ZA": "Territoire de Belfort"
     },
     "91": {
         "af": "Essonne",
@@ -83933,6 +83933,7 @@
         "sq_MK": "Essonne",
         "sq_XK": "Essonne",
         "sr": "Есон",
+        "sr@latin": "Eson",
         "sr_Cyrl": "Есон",
         "sr_Cyrl_BA": "Есон",
         "sr_Cyrl_ME": "Есон",
@@ -83993,6 +83994,7 @@
         "tr_CY": "Essonne",
         "tr_TR": "Essonne",
         "tt": "Essonne",
+        "tt@iqtelif": "Essonne",
         "tt_RU": "Essonne",
         "twq": "Essonne",
         "twq_NE": "Essonne",
@@ -84070,9 +84072,7 @@
         "zh_Hant_MY": "Essonne",
         "zh_Hant_TW": "Essonne",
         "zu": "Essonne",
-        "zu_ZA": "Essonne",
-        "sr@latin": "Eson",
-        "tt@iqtelif": "Essonne"
+        "zu_ZA": "Essonne"
     },
     "92": {
         "af": "Hauts-de-Seine",
@@ -84818,6 +84818,7 @@
         "sq_MK": "Hauts-de-Seine",
         "sq_XK": "Hauts-de-Seine",
         "sr": "Горња Сена",
+        "sr@latin": "Gornja Sena",
         "sr_Cyrl": "Горња Сена",
         "sr_Cyrl_BA": "Горња Сена",
         "sr_Cyrl_ME": "Горња Сена",
@@ -84878,6 +84879,7 @@
         "tr_CY": "Hauts-de-Seine",
         "tr_TR": "Hauts-de-Seine",
         "tt": "Hauts-de-Seine",
+        "tt@iqtelif": "Hauts-de-Seine",
         "tt_RU": "Hauts-de-Seine",
         "twq": "Hauts-de-Seine",
         "twq_NE": "Hauts-de-Seine",
@@ -84955,9 +84957,7 @@
         "zh_Hant_MY": "Hauts-de-Seine",
         "zh_Hant_TW": "Hauts-de-Seine",
         "zu": "Hauts-de-Seine",
-        "zu_ZA": "Hauts-de-Seine",
-        "sr@latin": "Gornja Sena",
-        "tt@iqtelif": "Hauts-de-Seine"
+        "zu_ZA": "Hauts-de-Seine"
     },
     "93": {
         "af": "Seine-Saint-Denis",
@@ -85703,6 +85703,7 @@
         "sq_MK": "Seine-Saint-Denis",
         "sq_XK": "Seine-Saint-Denis",
         "sr": "Seine-Saint-Denis",
+        "sr@latin": "Seine-Saint-Denis",
         "sr_Cyrl": "Seine-Saint-Denis",
         "sr_Cyrl_BA": "Seine-Saint-Denis",
         "sr_Cyrl_ME": "Seine-Saint-Denis",
@@ -85763,6 +85764,7 @@
         "tr_CY": "Seine-Saint-Denis",
         "tr_TR": "Seine-Saint-Denis",
         "tt": "Seine-Saint-Denis",
+        "tt@iqtelif": "Seine-Saint-Denis",
         "tt_RU": "Seine-Saint-Denis",
         "twq": "Seine-Saint-Denis",
         "twq_NE": "Seine-Saint-Denis",
@@ -85840,9 +85842,7 @@
         "zh_Hant_MY": "Seine-Saint-Denis",
         "zh_Hant_TW": "Seine-Saint-Denis",
         "zu": "Seine-Saint-Denis",
-        "zu_ZA": "Seine-Saint-Denis",
-        "sr@latin": "Seine-Saint-Denis",
-        "tt@iqtelif": "Seine-Saint-Denis"
+        "zu_ZA": "Seine-Saint-Denis"
     },
     "94": {
         "af": "Val-de-Marne",
@@ -86588,6 +86588,7 @@
         "sq_MK": "Val-de-Marne",
         "sq_XK": "Val-de-Marne",
         "sr": "Вал-д-Марн",
+        "sr@latin": "Val-d-Marn",
         "sr_Cyrl": "Вал-д-Марн",
         "sr_Cyrl_BA": "Вал-д-Марн",
         "sr_Cyrl_ME": "Вал-д-Марн",
@@ -86648,6 +86649,7 @@
         "tr_CY": "Val-de-Marne",
         "tr_TR": "Val-de-Marne",
         "tt": "Val-de-Marne",
+        "tt@iqtelif": "Val-de-Marne",
         "tt_RU": "Val-de-Marne",
         "twq": "Val-de-Marne",
         "twq_NE": "Val-de-Marne",
@@ -86725,9 +86727,7 @@
         "zh_Hant_MY": "Val-de-Marne",
         "zh_Hant_TW": "Val-de-Marne",
         "zu": "Val-de-Marne",
-        "zu_ZA": "Val-de-Marne",
-        "sr@latin": "Val-d-Marn",
-        "tt@iqtelif": "Val-de-Marne"
+        "zu_ZA": "Val-de-Marne"
     },
     "95": {
         "af": "Val-d'Oise",
@@ -87473,6 +87473,7 @@
         "sq_MK": "Val-d'Oise",
         "sq_XK": "Val-d'Oise",
         "sr": "Val-d'Oise",
+        "sr@latin": "Val-d'Oise",
         "sr_Cyrl": "Val-d'Oise",
         "sr_Cyrl_BA": "Val-d'Oise",
         "sr_Cyrl_ME": "Val-d'Oise",
@@ -87533,6 +87534,7 @@
         "tr_CY": "Val-d'Oise",
         "tr_TR": "Val-d'Oise",
         "tt": "Val-d'Oise",
+        "tt@iqtelif": "Val-d'Oise",
         "tt_RU": "Val-d'Oise",
         "twq": "Val-d'Oise",
         "twq_NE": "Val-d'Oise",
@@ -87610,9 +87612,7 @@
         "zh_Hant_MY": "Val-d'Oise",
         "zh_Hant_TW": "Val-d'Oise",
         "zu": "Val-d'Oise",
-        "zu_ZA": "Val-d'Oise",
-        "sr@latin": "Val-d'Oise",
-        "tt@iqtelif": "Val-d'Oise"
+        "zu_ZA": "Val-d'Oise"
     },
     "971": {
         "af": "Guadeloupe",
@@ -88358,6 +88358,7 @@
         "sq_MK": "Guadeloupe",
         "sq_XK": "Guadeloupe",
         "sr": "Гвадалупе",
+        "sr@latin": "Gvadalupe",
         "sr_Cyrl": "Гвадалупе",
         "sr_Cyrl_BA": "Гвадалупе",
         "sr_Cyrl_ME": "Гвадалупе",
@@ -88418,6 +88419,7 @@
         "tr_CY": "Guadeloupe",
         "tr_TR": "Guadeloupe",
         "tt": "Guadeloupe",
+        "tt@iqtelif": "Guadeloupe",
         "tt_RU": "Guadeloupe",
         "twq": "Guadeloupe",
         "twq_NE": "Guadeloupe",
@@ -88495,9 +88497,7 @@
         "zh_Hant_MY": "Guadeloupe",
         "zh_Hant_TW": "Guadeloupe",
         "zu": "Guadeloupe",
-        "zu_ZA": "Guadeloupe",
-        "sr@latin": "Gvadalupe",
-        "tt@iqtelif": "Guadeloupe"
+        "zu_ZA": "Guadeloupe"
     },
     "972": {
         "af": "Martinique",
@@ -89243,6 +89243,7 @@
         "sq_MK": "Martinique",
         "sq_XK": "Martinique",
         "sr": "Мартиник",
+        "sr@latin": "Martinik",
         "sr_Cyrl": "Мартиник",
         "sr_Cyrl_BA": "Мартиник",
         "sr_Cyrl_ME": "Мартиник",
@@ -89303,6 +89304,7 @@
         "tr_CY": "Martinique",
         "tr_TR": "Martinique",
         "tt": "Martinique",
+        "tt@iqtelif": "Martinique",
         "tt_RU": "Martinique",
         "twq": "Martinique",
         "twq_NE": "Martinique",
@@ -89380,9 +89382,7 @@
         "zh_Hant_MY": "Martinique",
         "zh_Hant_TW": "Martinique",
         "zu": "Martinique",
-        "zu_ZA": "Martinique",
-        "sr@latin": "Martinik",
-        "tt@iqtelif": "Martinique"
+        "zu_ZA": "Martinique"
     },
     "973": {
         "af": "Guyane (française)",
@@ -90128,6 +90128,7 @@
         "sq_MK": "Guyane (française)",
         "sq_XK": "Guyane (française)",
         "sr": "Guyane (française)",
+        "sr@latin": "Guyane (française)",
         "sr_Cyrl": "Guyane (française)",
         "sr_Cyrl_BA": "Guyane (française)",
         "sr_Cyrl_ME": "Guyane (française)",
@@ -90188,6 +90189,7 @@
         "tr_CY": "Guyane (française)",
         "tr_TR": "Guyane (française)",
         "tt": "Guyane (française)",
+        "tt@iqtelif": "Guyane (française)",
         "tt_RU": "Guyane (française)",
         "twq": "Guyane (française)",
         "twq_NE": "Guyane (française)",
@@ -90265,9 +90267,7 @@
         "zh_Hant_MY": "Guyane (française)",
         "zh_Hant_TW": "Guyane (française)",
         "zu": "Guyane (française)",
-        "zu_ZA": "Guyane (française)",
-        "sr@latin": "Guyane (française)",
-        "tt@iqtelif": "Guyane (française)"
+        "zu_ZA": "Guyane (française)"
     },
     "974": {
         "af": "La Réunion",
@@ -91013,6 +91013,7 @@
         "sq_MK": "La Réunion",
         "sq_XK": "La Réunion",
         "sr": "La Réunion",
+        "sr@latin": "La Réunion",
         "sr_Cyrl": "La Réunion",
         "sr_Cyrl_BA": "La Réunion",
         "sr_Cyrl_ME": "La Réunion",
@@ -91073,6 +91074,7 @@
         "tr_CY": "La Reunion",
         "tr_TR": "La Reunion",
         "tt": "La Réunion",
+        "tt@iqtelif": "La Réunion",
         "tt_RU": "La Réunion",
         "twq": "La Réunion",
         "twq_NE": "La Réunion",
@@ -91150,9 +91152,7 @@
         "zh_Hant_MY": "La Réunion",
         "zh_Hant_TW": "La Réunion",
         "zu": "La Réunion",
-        "zu_ZA": "La Réunion",
-        "sr@latin": "La Réunion",
-        "tt@iqtelif": "La Réunion"
+        "zu_ZA": "La Réunion"
     },
     "976": {
         "af": "Mayotte",
@@ -91898,6 +91898,7 @@
         "sq_MK": "Mayotte",
         "sq_XK": "Mayotte",
         "sr": "Мајот",
+        "sr@latin": "Majot",
         "sr_Cyrl": "Мајот",
         "sr_Cyrl_BA": "Мајот",
         "sr_Cyrl_ME": "Мајот",
@@ -91958,6 +91959,7 @@
         "tr_CY": "Mayotte",
         "tr_TR": "Mayotte",
         "tt": "Mayotte",
+        "tt@iqtelif": "Mayotte",
         "tt_RU": "Mayotte",
         "twq": "Mayotte",
         "twq_NE": "Mayotte",
@@ -92035,9 +92037,7 @@
         "zh_Hant_MY": "Mayotte",
         "zh_Hant_TW": "Mayotte",
         "zu": "Mayotte",
-        "zu_ZA": "Mayotte",
-        "sr@latin": "Majot",
-        "tt@iqtelif": "Mayotte"
+        "zu_ZA": "Mayotte"
     },
     "ARA": {
         "af": "Auvergne-Rhône-Alpes",
@@ -92783,6 +92783,7 @@
         "sq_MK": "Auvergne-Rhône-Alpes",
         "sq_XK": "Auvergne-Rhône-Alpes",
         "sr": "Auvergne-Rhône-Alpes",
+        "sr@latin": "Auvergne-Rhône-Alpes",
         "sr_Cyrl": "Auvergne-Rhône-Alpes",
         "sr_Cyrl_BA": "Auvergne-Rhône-Alpes",
         "sr_Cyrl_ME": "Auvergne-Rhône-Alpes",
@@ -92843,6 +92844,7 @@
         "tr_CY": "Auvergne-Rhone-Alpes",
         "tr_TR": "Auvergne-Rhone-Alpes",
         "tt": "Auvergne-Rhône-Alpes",
+        "tt@iqtelif": "Auvergne-Rhône-Alpes",
         "tt_RU": "Auvergne-Rhône-Alpes",
         "twq": "Auvergne-Rhône-Alpes",
         "twq_NE": "Auvergne-Rhône-Alpes",
@@ -92920,9 +92922,7 @@
         "zh_Hant_MY": "Auvergne-Rhône-Alpes",
         "zh_Hant_TW": "Auvergne-Rhône-Alpes",
         "zu": "Auvergne-Rhône-Alpes",
-        "zu_ZA": "Auvergne-Rhône-Alpes",
-        "sr@latin": "Auvergne-Rhône-Alpes",
-        "tt@iqtelif": "Auvergne-Rhône-Alpes"
+        "zu_ZA": "Auvergne-Rhône-Alpes"
     },
     "BFC": {
         "af": "Bourgogne-Franche-Comté",
@@ -93668,6 +93668,7 @@
         "sq_MK": "Bourgogne-Franche-Comté",
         "sq_XK": "Bourgogne-Franche-Comté",
         "sr": "Bourgogne-Franche-Comté",
+        "sr@latin": "Bourgogne-Franche-Comté",
         "sr_Cyrl": "Bourgogne-Franche-Comté",
         "sr_Cyrl_BA": "Bourgogne-Franche-Comté",
         "sr_Cyrl_ME": "Bourgogne-Franche-Comté",
@@ -93728,6 +93729,7 @@
         "tr_CY": "Bourgogne-Franche-Comté",
         "tr_TR": "Bourgogne-Franche-Comté",
         "tt": "Bourgogne-Franche-Comté",
+        "tt@iqtelif": "Bourgogne-Franche-Comté",
         "tt_RU": "Bourgogne-Franche-Comté",
         "twq": "Bourgogne-Franche-Comté",
         "twq_NE": "Bourgogne-Franche-Comté",
@@ -93805,9 +93807,7 @@
         "zh_Hant_MY": "Bourgogne-Franche-Comté",
         "zh_Hant_TW": "Bourgogne-Franche-Comté",
         "zu": "Bourgogne-Franche-Comté",
-        "zu_ZA": "Bourgogne-Franche-Comté",
-        "sr@latin": "Bourgogne-Franche-Comté",
-        "tt@iqtelif": "Bourgogne-Franche-Comté"
+        "zu_ZA": "Bourgogne-Franche-Comté"
     },
     "BL": {
         "af": "Saint-Barthélemy",
@@ -94553,6 +94553,7 @@
         "sq_MK": "Saint-Barthélemy",
         "sq_XK": "Saint-Barthélemy",
         "sr": "Сент Бартелеми",
+        "sr@latin": "Sent Bartelemi",
         "sr_Cyrl": "Сент Бартелеми",
         "sr_Cyrl_BA": "Сент Бартелеми",
         "sr_Cyrl_ME": "Сент Бартелеми",
@@ -94613,6 +94614,7 @@
         "tr_CY": "Saint-Barthelemy",
         "tr_TR": "Saint-Barthelemy",
         "tt": "Saint-Barthélemy",
+        "tt@iqtelif": "Saint-Barthélemy",
         "tt_RU": "Saint-Barthélemy",
         "twq": "Saint-Barthélemy",
         "twq_NE": "Saint-Barthélemy",
@@ -94690,9 +94692,7 @@
         "zh_Hant_MY": "Saint-Barthélemy",
         "zh_Hant_TW": "Saint-Barthélemy",
         "zu": "Saint-Barthélemy",
-        "zu_ZA": "Saint-Barthélemy",
-        "sr@latin": "Sent Bartelemi",
-        "tt@iqtelif": "Saint-Barthélemy"
+        "zu_ZA": "Saint-Barthélemy"
     },
     "BRE": {
         "af": "Bretagne",
@@ -95438,6 +95438,7 @@
         "sq_MK": "Bretagne",
         "sq_XK": "Bretagne",
         "sr": "Бретања",
+        "sr@latin": "Bretanja",
         "sr_Cyrl": "Бретања",
         "sr_Cyrl_BA": "Бретања",
         "sr_Cyrl_ME": "Бретања",
@@ -95498,6 +95499,7 @@
         "tr_CY": "Bretagne",
         "tr_TR": "Bretagne",
         "tt": "Bretagne",
+        "tt@iqtelif": "Bretagne",
         "tt_RU": "Bretagne",
         "twq": "Bretagne",
         "twq_NE": "Bretagne",
@@ -95575,9 +95577,7 @@
         "zh_Hant_MY": "Bretagne",
         "zh_Hant_TW": "Bretagne",
         "zu": "Bretagne",
-        "zu_ZA": "Bretagne",
-        "sr@latin": "Bretanja",
-        "tt@iqtelif": "Bretagne"
+        "zu_ZA": "Bretagne"
     },
     "CP": {
         "af": "Clipperton",
@@ -96323,6 +96323,7 @@
         "sq_MK": "Clipperton",
         "sq_XK": "Clipperton",
         "sr": "Клипертон",
+        "sr@latin": "Kliperton",
         "sr_Cyrl": "Клипертон",
         "sr_Cyrl_BA": "Клипертон",
         "sr_Cyrl_ME": "Клипертон",
@@ -96383,6 +96384,7 @@
         "tr_CY": "Clipperton",
         "tr_TR": "Clipperton",
         "tt": "Clipperton",
+        "tt@iqtelif": "Clipperton",
         "tt_RU": "Clipperton",
         "twq": "Clipperton",
         "twq_NE": "Clipperton",
@@ -96460,9 +96462,7 @@
         "zh_Hant_MY": "Clipperton",
         "zh_Hant_TW": "Clipperton",
         "zu": "Clipperton",
-        "zu_ZA": "Clipperton",
-        "sr@latin": "Kliperton",
-        "tt@iqtelif": "Clipperton"
+        "zu_ZA": "Clipperton"
     },
     "CVL": {
         "af": "Centre-Val de Loire",
@@ -97208,6 +97208,7 @@
         "sq_MK": "Centre-Val de Loire",
         "sq_XK": "Centre-Val de Loire",
         "sr": "Centre-Val de Loire",
+        "sr@latin": "Centre-Val de Loire",
         "sr_Cyrl": "Centre-Val de Loire",
         "sr_Cyrl_BA": "Centre-Val de Loire",
         "sr_Cyrl_ME": "Centre-Val de Loire",
@@ -97268,6 +97269,7 @@
         "tr_CY": "Centre-Val de Loire",
         "tr_TR": "Centre-Val de Loire",
         "tt": "Centre-Val de Loire",
+        "tt@iqtelif": "Centre-Val de Loire",
         "tt_RU": "Centre-Val de Loire",
         "twq": "Centre-Val de Loire",
         "twq_NE": "Centre-Val de Loire",
@@ -97345,9 +97347,7 @@
         "zh_Hant_MY": "Centre-Val de Loire",
         "zh_Hant_TW": "Centre-Val de Loire",
         "zu": "Centre-Val de Loire",
-        "zu_ZA": "Centre-Val de Loire",
-        "sr@latin": "Centre-Val de Loire",
-        "tt@iqtelif": "Centre-Val de Loire"
+        "zu_ZA": "Centre-Val de Loire"
     },
     "GES": {
         "af": "Grand-Est",
@@ -98093,6 +98093,7 @@
         "sq_MK": "Grand-Est",
         "sq_XK": "Grand-Est",
         "sr": "Grand-Est",
+        "sr@latin": "Grand-Est",
         "sr_Cyrl": "Grand-Est",
         "sr_Cyrl_BA": "Grand-Est",
         "sr_Cyrl_ME": "Grand-Est",
@@ -98153,6 +98154,7 @@
         "tr_CY": "Grand-Est",
         "tr_TR": "Grand-Est",
         "tt": "Grand-Est",
+        "tt@iqtelif": "Grand-Est",
         "tt_RU": "Grand-Est",
         "twq": "Grand-Est",
         "twq_NE": "Grand-Est",
@@ -98230,9 +98232,7 @@
         "zh_Hant_MY": "Grand-Est",
         "zh_Hant_TW": "Grand-Est",
         "zu": "Grand-Est",
-        "zu_ZA": "Grand-Est",
-        "sr@latin": "Grand-Est",
-        "tt@iqtelif": "Grand-Est"
+        "zu_ZA": "Grand-Est"
     },
     "HDF": {
         "af": "Hauts-de-France",
@@ -98978,6 +98978,7 @@
         "sq_MK": "Hauts-de-France",
         "sq_XK": "Hauts-de-France",
         "sr": "Hauts-de-France",
+        "sr@latin": "Hauts-de-France",
         "sr_Cyrl": "Hauts-de-France",
         "sr_Cyrl_BA": "Hauts-de-France",
         "sr_Cyrl_ME": "Hauts-de-France",
@@ -99038,6 +99039,7 @@
         "tr_CY": "Hauts-de-France",
         "tr_TR": "Hauts-de-France",
         "tt": "Hauts-de-France",
+        "tt@iqtelif": "Hauts-de-France",
         "tt_RU": "Hauts-de-France",
         "twq": "Hauts-de-France",
         "twq_NE": "Hauts-de-France",
@@ -99115,9 +99117,7 @@
         "zh_Hant_MY": "Hauts-de-France",
         "zh_Hant_TW": "Hauts-de-France",
         "zu": "Hauts-de-France",
-        "zu_ZA": "Hauts-de-France",
-        "sr@latin": "Hauts-de-France",
-        "tt@iqtelif": "Hauts-de-France"
+        "zu_ZA": "Hauts-de-France"
     },
     "IDF": {
         "af": "Île-de-France",
@@ -99863,6 +99863,7 @@
         "sq_MK": "Île-de-France",
         "sq_XK": "Île-de-France",
         "sr": "Ил де Франс",
+        "sr@latin": "Il de Frans",
         "sr_Cyrl": "Ил де Франс",
         "sr_Cyrl_BA": "Ил де Франс",
         "sr_Cyrl_ME": "Ил де Франс",
@@ -99923,6 +99924,7 @@
         "tr_CY": "Île-de-France",
         "tr_TR": "Île-de-France",
         "tt": "Île-de-France",
+        "tt@iqtelif": "Île-de-France",
         "tt_RU": "Île-de-France",
         "twq": "Île-de-France",
         "twq_NE": "Île-de-France",
@@ -100000,9 +100002,7 @@
         "zh_Hant_MY": "Île-de-France",
         "zh_Hant_TW": "Île-de-France",
         "zu": "Île-de-France",
-        "zu_ZA": "Île-de-France",
-        "sr@latin": "Il de Frans",
-        "tt@iqtelif": "Île-de-France"
+        "zu_ZA": "Île-de-France"
     },
     "MF": {
         "af": "Saint-Martin",
@@ -100748,6 +100748,7 @@
         "sq_MK": "Saint-Martin",
         "sq_XK": "Saint-Martin",
         "sr": "Сент Мартен",
+        "sr@latin": "Sent Marten",
         "sr_Cyrl": "Сент Мартен",
         "sr_Cyrl_BA": "Сент Мартен",
         "sr_Cyrl_ME": "Сент Мартен",
@@ -100808,6 +100809,7 @@
         "tr_CY": "Saint-Martin",
         "tr_TR": "Saint-Martin",
         "tt": "Saint-Martin",
+        "tt@iqtelif": "Saint-Martin",
         "tt_RU": "Saint-Martin",
         "twq": "Saint-Martin",
         "twq_NE": "Saint-Martin",
@@ -100885,9 +100887,7 @@
         "zh_Hant_MY": "Saint-Martin",
         "zh_Hant_TW": "Saint-Martin",
         "zu": "Saint-Martin",
-        "zu_ZA": "Saint-Martin",
-        "sr@latin": "Sent Marten",
-        "tt@iqtelif": "Saint-Martin"
+        "zu_ZA": "Saint-Martin"
     },
     "NAQ": {
         "af": "Nouvelle-Aquitaine",
@@ -101633,6 +101633,7 @@
         "sq_MK": "Nouvelle-Aquitaine",
         "sq_XK": "Nouvelle-Aquitaine",
         "sr": "Nouvelle-Aquitaine",
+        "sr@latin": "Nouvelle-Aquitaine",
         "sr_Cyrl": "Nouvelle-Aquitaine",
         "sr_Cyrl_BA": "Nouvelle-Aquitaine",
         "sr_Cyrl_ME": "Nouvelle-Aquitaine",
@@ -101693,6 +101694,7 @@
         "tr_CY": "Nouvelle-Aquitaine",
         "tr_TR": "Nouvelle-Aquitaine",
         "tt": "Nouvelle-Aquitaine",
+        "tt@iqtelif": "Nouvelle-Aquitaine",
         "tt_RU": "Nouvelle-Aquitaine",
         "twq": "Nouvelle-Aquitaine",
         "twq_NE": "Nouvelle-Aquitaine",
@@ -101770,9 +101772,7 @@
         "zh_Hant_MY": "Nouvelle-Aquitaine",
         "zh_Hant_TW": "Nouvelle-Aquitaine",
         "zu": "Nouvelle-Aquitaine",
-        "zu_ZA": "Nouvelle-Aquitaine",
-        "sr@latin": "Nouvelle-Aquitaine",
-        "tt@iqtelif": "Nouvelle-Aquitaine"
+        "zu_ZA": "Nouvelle-Aquitaine"
     },
     "NC": {
         "af": "Nouvelle-Calédonie",
@@ -102518,6 +102518,7 @@
         "sq_MK": "Nouvelle-Calédonie",
         "sq_XK": "Nouvelle-Calédonie",
         "sr": "Нова Каледонија",
+        "sr@latin": "Nova Kaledonija",
         "sr_Cyrl": "Нова Каледонија",
         "sr_Cyrl_BA": "Нова Каледонија",
         "sr_Cyrl_ME": "Нова Каледонија",
@@ -102578,6 +102579,7 @@
         "tr_CY": "Nouvelle-Calédonie",
         "tr_TR": "Nouvelle-Calédonie",
         "tt": "Nouvelle-Calédonie",
+        "tt@iqtelif": "Nouvelle-Calédonie",
         "tt_RU": "Nouvelle-Calédonie",
         "twq": "Nouvelle-Calédonie",
         "twq_NE": "Nouvelle-Calédonie",
@@ -102655,9 +102657,7 @@
         "zh_Hant_MY": "Nouvelle-Calédonie",
         "zh_Hant_TW": "Nouvelle-Calédonie",
         "zu": "Nouvelle-Calédonie",
-        "zu_ZA": "Nouvelle-Calédonie",
-        "sr@latin": "Nova Kaledonija",
-        "tt@iqtelif": "Nouvelle-Calédonie"
+        "zu_ZA": "Nouvelle-Calédonie"
     },
     "NOR": {
         "af": "Normandie",
@@ -103403,6 +103403,7 @@
         "sq_MK": "Normandie",
         "sq_XK": "Normandie",
         "sr": "Normandie",
+        "sr@latin": "Normandie",
         "sr_Cyrl": "Normandie",
         "sr_Cyrl_BA": "Normandie",
         "sr_Cyrl_ME": "Normandie",
@@ -103463,6 +103464,7 @@
         "tr_CY": "Normandie",
         "tr_TR": "Normandie",
         "tt": "Normandie",
+        "tt@iqtelif": "Normandie",
         "tt_RU": "Normandie",
         "twq": "Normandie",
         "twq_NE": "Normandie",
@@ -103540,9 +103542,7 @@
         "zh_Hant_MY": "Normandie",
         "zh_Hant_TW": "Normandie",
         "zu": "Normandie",
-        "zu_ZA": "Normandie",
-        "sr@latin": "Normandie",
-        "tt@iqtelif": "Normandie"
+        "zu_ZA": "Normandie"
     },
     "OCC": {
         "af": "Occitanie",
@@ -104288,6 +104288,7 @@
         "sq_MK": "Occitanie",
         "sq_XK": "Occitanie",
         "sr": "Occitanie",
+        "sr@latin": "Occitanie",
         "sr_Cyrl": "Occitanie",
         "sr_Cyrl_BA": "Occitanie",
         "sr_Cyrl_ME": "Occitanie",
@@ -104348,6 +104349,7 @@
         "tr_CY": "Occitanie",
         "tr_TR": "Occitanie",
         "tt": "Occitanie",
+        "tt@iqtelif": "Occitanie",
         "tt_RU": "Occitanie",
         "twq": "Occitanie",
         "twq_NE": "Occitanie",
@@ -104425,9 +104427,7 @@
         "zh_Hant_MY": "Occitanie",
         "zh_Hant_TW": "Occitanie",
         "zu": "Occitanie",
-        "zu_ZA": "Occitanie",
-        "sr@latin": "Occitanie",
-        "tt@iqtelif": "Occitanie"
+        "zu_ZA": "Occitanie"
     },
     "PAC": {
         "af": "Provence-Alpes-Côte-d’Azur",
@@ -105173,6 +105173,7 @@
         "sq_MK": "Provence-Alpes-Côte-d’Azur",
         "sq_XK": "Provence-Alpes-Côte-d’Azur",
         "sr": "Provence-Alpes-Côte-d’Azur",
+        "sr@latin": "Provence-Alpes-Côte-d’Azur",
         "sr_Cyrl": "Provence-Alpes-Côte-d’Azur",
         "sr_Cyrl_BA": "Provence-Alpes-Côte-d’Azur",
         "sr_Cyrl_ME": "Provence-Alpes-Côte-d’Azur",
@@ -105233,6 +105234,7 @@
         "tr_CY": "Provence-Alpes-Côte-d’Azur",
         "tr_TR": "Provence-Alpes-Côte-d’Azur",
         "tt": "Provence-Alpes-Côte-d’Azur",
+        "tt@iqtelif": "Provence-Alpes-Côte-d’Azur",
         "tt_RU": "Provence-Alpes-Côte-d’Azur",
         "twq": "Provence-Alpes-Côte-d’Azur",
         "twq_NE": "Provence-Alpes-Côte-d’Azur",
@@ -105310,9 +105312,7 @@
         "zh_Hant_MY": "Provence-Alpes-Côte-d’Azur",
         "zh_Hant_TW": "Provence-Alpes-Côte-d’Azur",
         "zu": "Provence-Alpes-Côte-d’Azur",
-        "zu_ZA": "Provence-Alpes-Côte-d’Azur",
-        "sr@latin": "Provence-Alpes-Côte-d’Azur",
-        "tt@iqtelif": "Provence-Alpes-Côte-d’Azur"
+        "zu_ZA": "Provence-Alpes-Côte-d’Azur"
     },
     "PDL": {
         "af": "Pays-de-la-Loire",
@@ -106058,6 +106058,7 @@
         "sq_MK": "Pays-de-la-Loire",
         "sq_XK": "Pays-de-la-Loire",
         "sr": "Pays-de-la-Loire",
+        "sr@latin": "Pays-de-la-Loire",
         "sr_Cyrl": "Pays-de-la-Loire",
         "sr_Cyrl_BA": "Pays-de-la-Loire",
         "sr_Cyrl_ME": "Pays-de-la-Loire",
@@ -106118,6 +106119,7 @@
         "tr_CY": "Pays-de-la-Loire",
         "tr_TR": "Pays-de-la-Loire",
         "tt": "Pays-de-la-Loire",
+        "tt@iqtelif": "Pays-de-la-Loire",
         "tt_RU": "Pays-de-la-Loire",
         "twq": "Pays-de-la-Loire",
         "twq_NE": "Pays-de-la-Loire",
@@ -106195,9 +106197,7 @@
         "zh_Hant_MY": "Pays-de-la-Loire",
         "zh_Hant_TW": "Pays-de-la-Loire",
         "zu": "Pays-de-la-Loire",
-        "zu_ZA": "Pays-de-la-Loire",
-        "sr@latin": "Pays-de-la-Loire",
-        "tt@iqtelif": "Pays-de-la-Loire"
+        "zu_ZA": "Pays-de-la-Loire"
     },
     "PF": {
         "af": "Polynésie française",
@@ -106943,6 +106943,7 @@
         "sq_MK": "Polynésie française",
         "sq_XK": "Polynésie française",
         "sr": "Француска Полинезија",
+        "sr@latin": "Francuska Polinezija",
         "sr_Cyrl": "Француска Полинезија",
         "sr_Cyrl_BA": "Француска Полинезија",
         "sr_Cyrl_ME": "Француска Полинезија",
@@ -107003,6 +107004,7 @@
         "tr_CY": "Polynésie française",
         "tr_TR": "Polynésie française",
         "tt": "Polynésie française",
+        "tt@iqtelif": "Polynésie française",
         "tt_RU": "Polynésie française",
         "twq": "Polynésie française",
         "twq_NE": "Polynésie française",
@@ -107080,9 +107082,7 @@
         "zh_Hant_MY": "Polynésie française",
         "zh_Hant_TW": "Polynésie française",
         "zu": "Polynésie française",
-        "zu_ZA": "Polynésie française",
-        "sr@latin": "Francuska Polinezija",
-        "tt@iqtelif": "Polynésie française"
+        "zu_ZA": "Polynésie française"
     },
     "PM": {
         "af": "Saint-Pierre-et-Miquelon",
@@ -107828,6 +107828,7 @@
         "sq_MK": "Saint-Pierre-et-Miquelon",
         "sq_XK": "Saint-Pierre-et-Miquelon",
         "sr": "Свети Пјер и Микелон",
+        "sr@latin": "Sveti Pjer i Mikelon",
         "sr_Cyrl": "Свети Пјер и Микелон",
         "sr_Cyrl_BA": "Свети Пјер и Микелон",
         "sr_Cyrl_ME": "Свети Пјер и Микелон",
@@ -107888,6 +107889,7 @@
         "tr_CY": "Saint-Pierre-et-Miquelon",
         "tr_TR": "Saint-Pierre-et-Miquelon",
         "tt": "Saint-Pierre-et-Miquelon",
+        "tt@iqtelif": "Saint-Pierre-et-Miquelon",
         "tt_RU": "Saint-Pierre-et-Miquelon",
         "twq": "Saint-Pierre-et-Miquelon",
         "twq_NE": "Saint-Pierre-et-Miquelon",
@@ -107965,9 +107967,7 @@
         "zh_Hant_MY": "Saint-Pierre-et-Miquelon",
         "zh_Hant_TW": "Saint-Pierre-et-Miquelon",
         "zu": "Saint-Pierre-et-Miquelon",
-        "zu_ZA": "Saint-Pierre-et-Miquelon",
-        "sr@latin": "Sveti Pjer i Mikelon",
-        "tt@iqtelif": "Saint-Pierre-et-Miquelon"
+        "zu_ZA": "Saint-Pierre-et-Miquelon"
     },
     "TF": {
         "af": "Terres australes françaises",
@@ -108713,6 +108713,7 @@
         "sq_MK": "Terres australes françaises",
         "sq_XK": "Terres australes françaises",
         "sr": "Француске аустралијске земље",
+        "sr@latin": "Francuske australijske zemlje",
         "sr_Cyrl": "Француске аустралијске земље",
         "sr_Cyrl_BA": "Француске аустралијске земље",
         "sr_Cyrl_ME": "Француске аустралијске земље",
@@ -108773,6 +108774,7 @@
         "tr_CY": "Terres australes françaises",
         "tr_TR": "Terres australes françaises",
         "tt": "Terres australes françaises",
+        "tt@iqtelif": "Terres australes françaises",
         "tt_RU": "Terres australes françaises",
         "twq": "Terres australes françaises",
         "twq_NE": "Terres australes françaises",
@@ -108850,9 +108852,7 @@
         "zh_Hant_MY": "Terres australes françaises",
         "zh_Hant_TW": "Terres australes françaises",
         "zu": "Terres australes françaises",
-        "zu_ZA": "Terres australes françaises",
-        "sr@latin": "Francuske australijske zemlje",
-        "tt@iqtelif": "Terres australes françaises"
+        "zu_ZA": "Terres australes françaises"
     },
     "WF": {
         "af": "Wallis-et-Futuna",
@@ -109598,6 +109598,7 @@
         "sq_MK": "Wallis-et-Futuna",
         "sq_XK": "Wallis-et-Futuna",
         "sr": "Валис и Футуна",
+        "sr@latin": "Valis i Futuna",
         "sr_Cyrl": "Валис и Футуна",
         "sr_Cyrl_BA": "Валис и Футуна",
         "sr_Cyrl_ME": "Валис и Футуна",
@@ -109658,6 +109659,7 @@
         "tr_CY": "Wallis-et-Futuna",
         "tr_TR": "Wallis-et-Futuna",
         "tt": "Wallis-et-Futuna",
+        "tt@iqtelif": "Wallis-et-Futuna",
         "tt_RU": "Wallis-et-Futuna",
         "twq": "Wallis-et-Futuna",
         "twq_NE": "Wallis-et-Futuna",
@@ -109735,8 +109737,6 @@
         "zh_Hant_MY": "Wallis-et-Futuna",
         "zh_Hant_TW": "Wallis-et-Futuna",
         "zu": "Wallis-et-Futuna",
-        "zu_ZA": "Wallis-et-Futuna",
-        "sr@latin": "Valis i Futuna",
-        "tt@iqtelif": "Wallis-et-Futuna"
+        "zu_ZA": "Wallis-et-Futuna"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Lékoumou",
         "sq_XK": "Lékoumou",
         "sr": "Лекуму",
+        "sr@latin": "Lekumu",
         "sr_Cyrl": "Лекуму",
         "sr_Cyrl_BA": "Лекуму",
         "sr_Cyrl_ME": "Лекуму",
@@ -803,6 +804,7 @@
         "tr_CY": "Lékoumou",
         "tr_TR": "Lékoumou",
         "tt": "Lékoumou",
+        "tt@iqtelif": "Lékoumou",
         "tt_RU": "Lékoumou",
         "twq": "Lékoumou",
         "twq_NE": "Lékoumou",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Lékoumou",
         "zh_Hant_TW": "Lékoumou",
         "zu": "Lékoumou",
-        "zu_ZA": "Lékoumou",
-        "sr@latin": "Lekumu",
-        "tt@iqtelif": "Lékoumou"
+        "zu_ZA": "Lékoumou"
     },
     "5": {
         "af": "Kouilou",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Kouilou",
         "sq_XK": "Kouilou",
         "sr": "Куилу",
+        "sr@latin": "Kuilu",
         "sr_Cyrl": "Куилу",
         "sr_Cyrl_BA": "Куилу",
         "sr_Cyrl_ME": "Куилу",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Kouilou",
         "tr_TR": "Kouilou",
         "tt": "Kouilou",
+        "tt@iqtelif": "Kouilou",
         "tt_RU": "Kouilou",
         "twq": "Kouilou",
         "twq_NE": "Kouilou",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Kouilou",
         "zh_Hant_TW": "Kouilou",
         "zu": "Kouilou",
-        "zu_ZA": "Kouilou",
-        "sr@latin": "Kuilu",
-        "tt@iqtelif": "Kouilou"
+        "zu_ZA": "Kouilou"
     },
     "7": {
         "af": "Likouala",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Likouala",
         "sq_XK": "Likouala",
         "sr": "Ликуала",
+        "sr@latin": "Likuala",
         "sr_Cyrl": "Ликуала",
         "sr_Cyrl_BA": "Ликуала",
         "sr_Cyrl_ME": "Ликуала",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Likouala",
         "tr_TR": "Likouala",
         "tt": "Likouala",
+        "tt@iqtelif": "Likouala",
         "tt_RU": "Likouala",
         "twq": "Likouala",
         "twq_NE": "Likouala",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Likouala",
         "zh_Hant_TW": "Likouala",
         "zu": "Likouala",
-        "zu_ZA": "Likouala",
-        "sr@latin": "Likuala",
-        "tt@iqtelif": "Likouala"
+        "zu_ZA": "Likouala"
     },
     "8": {
         "af": "Cuvette",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Cuvette",
         "sq_XK": "Cuvette",
         "sr": "Кувет",
+        "sr@latin": "Kuvet",
         "sr_Cyrl": "Кувет",
         "sr_Cyrl_BA": "Кувет",
         "sr_Cyrl_ME": "Кувет",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Cuvette",
         "tr_TR": "Cuvette",
         "tt": "Cuvette",
+        "tt@iqtelif": "Cuvette",
         "tt_RU": "Cuvette",
         "twq": "Cuvette",
         "twq_NE": "Cuvette",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Cuvette",
         "zh_Hant_TW": "Cuvette",
         "zu": "Cuvette",
-        "zu_ZA": "Cuvette",
-        "sr@latin": "Kuvet",
-        "tt@iqtelif": "Cuvette"
+        "zu_ZA": "Cuvette"
     },
     "9": {
         "af": "Niari",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Niari",
         "sq_XK": "Niari",
         "sr": "Њари",
+        "sr@latin": "Njari",
         "sr_Cyrl": "Њари",
         "sr_Cyrl_BA": "Њари",
         "sr_Cyrl_ME": "Њари",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Niari",
         "tr_TR": "Niari",
         "tt": "Niari",
+        "tt@iqtelif": "Niari",
         "tt_RU": "Niari",
         "twq": "Niari",
         "twq_NE": "Niari",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Niari",
         "zh_Hant_TW": "Niari",
         "zu": "Niari",
-        "zu_ZA": "Niari",
-        "sr@latin": "Njari",
-        "tt@iqtelif": "Niari"
+        "zu_ZA": "Niari"
     },
     "11": {
         "af": "Bouenza",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Bouenza",
         "sq_XK": "Bouenza",
         "sr": "Буенца",
+        "sr@latin": "Buenca",
         "sr_Cyrl": "Буенца",
         "sr_Cyrl_BA": "Буенца",
         "sr_Cyrl_ME": "Буенца",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Bouenza",
         "tr_TR": "Bouenza",
         "tt": "Bouenza",
+        "tt@iqtelif": "Bouenza",
         "tt_RU": "Bouenza",
         "twq": "Bouenza",
         "twq_NE": "Bouenza",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Bouenza",
         "zh_Hant_TW": "Bouenza",
         "zu": "Bouenza",
-        "zu_ZA": "Bouenza",
-        "sr@latin": "Buenca",
-        "tt@iqtelif": "Bouenza"
+        "zu_ZA": "Bouenza"
     },
     "12": {
         "af": "Pool",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Pool",
         "sq_XK": "Pool",
         "sr": "Пул",
+        "sr@latin": "Pul",
         "sr_Cyrl": "Пул",
         "sr_Cyrl_BA": "Пул",
         "sr_Cyrl_ME": "Пул",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Pool",
         "tr_TR": "Pool",
         "tt": "Pool",
+        "tt@iqtelif": "Pool",
         "tt_RU": "Pool",
         "twq": "Pool",
         "twq_NE": "Pool",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Pool",
         "zh_Hant_TW": "Pool",
         "zu": "Pool",
-        "zu_ZA": "Pool",
-        "sr@latin": "Pul",
-        "tt@iqtelif": "Pool"
+        "zu_ZA": "Pool"
     },
     "13": {
         "af": "Sangha",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Sangha",
         "sq_XK": "Sangha",
         "sr": "Санга",
+        "sr@latin": "Sanga",
         "sr_Cyrl": "Санга",
         "sr_Cyrl_BA": "Санга",
         "sr_Cyrl_ME": "Санга",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Sangha",
         "tr_TR": "Sangha",
         "tt": "Sangha",
+        "tt@iqtelif": "Sangha",
         "tt_RU": "Sangha",
         "twq": "Sangha",
         "twq_NE": "Sangha",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Sangha",
         "zh_Hant_TW": "Sangha",
         "zu": "Sangha",
-        "zu_ZA": "Sangha",
-        "sr@latin": "Sanga",
-        "tt@iqtelif": "Sangha"
+        "zu_ZA": "Sangha"
     },
     "14": {
         "af": "Plateaux",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Plateaux",
         "sq_XK": "Plateaux",
         "sr": "Плато",
+        "sr@latin": "Plato",
         "sr_Cyrl": "Плато",
         "sr_Cyrl_BA": "Плато",
         "sr_Cyrl_ME": "Плато",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Plateaux",
         "tr_TR": "Plateaux",
         "tt": "Plateaux",
+        "tt@iqtelif": "Plateaux",
         "tt_RU": "Plateaux",
         "twq": "Plateaux",
         "twq_NE": "Plateaux",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Plateaux",
         "zh_Hant_TW": "Plateaux",
         "zu": "Plateaux",
-        "zu_ZA": "Plateaux",
-        "sr@latin": "Plato",
-        "tt@iqtelif": "Plateaux"
+        "zu_ZA": "Plateaux"
     },
     "15": {
         "af": "Cuvette-Ouest",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Cuvette-Ouest",
         "sq_XK": "Cuvette-Ouest",
         "sr": "Западни Кувет",
+        "sr@latin": "Zapadni Kuvet",
         "sr_Cyrl": "Западни Кувет",
         "sr_Cyrl_BA": "Западни Кувет",
         "sr_Cyrl_ME": "Западни Кувет",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Cuvette-Ouest",
         "tr_TR": "Cuvette-Ouest",
         "tt": "Cuvette-Ouest",
+        "tt@iqtelif": "Cuvette-Ouest",
         "tt_RU": "Cuvette-Ouest",
         "twq": "Cuvette-Ouest",
         "twq_NE": "Cuvette-Ouest",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Cuvette-Ouest",
         "zh_Hant_TW": "Cuvette-Ouest",
         "zu": "Cuvette-Ouest",
-        "zu_ZA": "Cuvette-Ouest",
-        "sr@latin": "Zapadni Kuvet",
-        "tt@iqtelif": "Cuvette-Ouest"
+        "zu_ZA": "Cuvette-Ouest"
     },
     "16": {
         "af": "Pointe-Noire",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Pointe-Noire",
         "sq_XK": "Pointe-Noire",
         "sr": "Pointe-Noire",
+        "sr@latin": "Pointe-Noire",
         "sr_Cyrl": "Pointe-Noire",
         "sr_Cyrl_BA": "Pointe-Noire",
         "sr_Cyrl_ME": "Pointe-Noire",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Pointe-Noire",
         "tr_TR": "Pointe-Noire",
         "tt": "Pointe-Noire",
+        "tt@iqtelif": "Pointe-Noire",
         "tt_RU": "Pointe-Noire",
         "twq": "Pointe-Noire",
         "twq_NE": "Pointe-Noire",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Pointe-Noire",
         "zh_Hant_TW": "Pointe-Noire",
         "zu": "Pointe-Noire",
-        "zu_ZA": "Pointe-Noire",
-        "sr@latin": "Pointe-Noire",
-        "tt@iqtelif": "Pointe-Noire"
+        "zu_ZA": "Pointe-Noire"
     },
     "BZV": {
         "af": "Brazzaville",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Brazzaville",
         "sq_XK": "Brazzaville",
         "sr": "Бразавил",
+        "sr@latin": "Brazavil",
         "sr_Cyrl": "Бразавил",
         "sr_Cyrl_BA": "Бразавил",
         "sr_Cyrl_ME": "Бразавил",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Brazzaville",
         "tr_TR": "Brazzaville",
         "tt": "Brazzaville",
+        "tt@iqtelif": "Brazzaville",
         "tt_RU": "Brazzaville",
         "twq": "Brazzaville",
         "twq_NE": "Brazzaville",
@@ -10615,8 +10617,6 @@
         "zh_Hant_MY": "Brazzaville",
         "zh_Hant_TW": "Brazzaville",
         "zu": "Brazzaville",
-        "zu_ZA": "Brazzaville",
-        "sr@latin": "Brazavil",
-        "tt@iqtelif": "Brazzaville"
+        "zu_ZA": "Brazzaville"
     }
 }

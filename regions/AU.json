@@ -743,6 +743,7 @@
         "sq_MK": "Australian Capital Territory",
         "sq_XK": "Australian Capital Territory",
         "sr": "Аустралијска главна територија",
+        "sr@latin": "Australijska glavna teritorija",
         "sr_Cyrl": "Аустралијска главна територија",
         "sr_Cyrl_BA": "Аустралијска главна територија",
         "sr_Cyrl_ME": "Аустралијска главна територија",
@@ -803,6 +804,7 @@
         "tr_CY": "Avustralya Başkent Bölgesi",
         "tr_TR": "Avustralya Başkent Bölgesi",
         "tt": "Australian Capital Territory",
+        "tt@iqtelif": "Australian Capital Territory",
         "tt_RU": "Australian Capital Territory",
         "twq": "Australian Capital Territory",
         "twq_NE": "Australian Capital Territory",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Australian Capital Territory",
         "zh_Hant_TW": "Australian Capital Territory",
         "zu": "Australian Capital Territory",
-        "zu_ZA": "Australian Capital Territory",
-        "sr@latin": "Australijska glavna teritorija",
-        "tt@iqtelif": "Australian Capital Territory"
+        "zu_ZA": "Australian Capital Territory"
     },
     "NSW": {
         "af": "New South Wales",
@@ -1628,6 +1628,7 @@
         "sq_MK": "New South Wales",
         "sq_XK": "New South Wales",
         "sr": "Нови Јужни Велс",
+        "sr@latin": "Novi Južni Vels",
         "sr_Cyrl": "Нови Јужни Велс",
         "sr_Cyrl_BA": "Нови Јужни Велс",
         "sr_Cyrl_ME": "Нови Јужни Велс",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Yeni Güney Galler",
         "tr_TR": "Yeni Güney Galler",
         "tt": "New South Wales",
+        "tt@iqtelif": "New South Wales",
         "tt_RU": "New South Wales",
         "twq": "New South Wales",
         "twq_NE": "New South Wales",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "New South Wales",
         "zh_Hant_TW": "New South Wales",
         "zu": "New South Wales",
-        "zu_ZA": "New South Wales",
-        "sr@latin": "Novi Južni Vels",
-        "tt@iqtelif": "New South Wales"
+        "zu_ZA": "New South Wales"
     },
     "NT": {
         "af": "Northern Territory",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Northern Territory",
         "sq_XK": "Northern Territory",
         "sr": "Северна Територија",
+        "sr@latin": "Severna Teritorija",
         "sr_Cyrl": "Северна Територија",
         "sr_Cyrl_BA": "Северна Територија",
         "sr_Cyrl_ME": "Северна Територија",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Kuzey Bölgesi",
         "tr_TR": "Kuzey Bölgesi",
         "tt": "Northern Territory",
+        "tt@iqtelif": "Northern Territory",
         "tt_RU": "Northern Territory",
         "twq": "Northern Territory",
         "twq_NE": "Northern Territory",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Northern Territory",
         "zh_Hant_TW": "Northern Territory",
         "zu": "Northern Territory",
-        "zu_ZA": "Northern Territory",
-        "sr@latin": "Severna Teritorija",
-        "tt@iqtelif": "Northern Territory"
+        "zu_ZA": "Northern Territory"
     },
     "QLD": {
         "af": "Queensland",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Queensland",
         "sq_XK": "Queensland",
         "sr": "Квинсленд",
+        "sr@latin": "Kvinslend",
         "sr_Cyrl": "Квинсленд",
         "sr_Cyrl_BA": "Квинсленд",
         "sr_Cyrl_ME": "Квинсленд",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Queensland",
         "tr_TR": "Queensland",
         "tt": "Queensland",
+        "tt@iqtelif": "Queensland",
         "tt_RU": "Queensland",
         "twq": "Queensland",
         "twq_NE": "Queensland",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Queensland",
         "zh_Hant_TW": "Queensland",
         "zu": "Queensland",
-        "zu_ZA": "Queensland",
-        "sr@latin": "Kvinslend",
-        "tt@iqtelif": "Queensland"
+        "zu_ZA": "Queensland"
     },
     "SA": {
         "af": "South Australia",
@@ -4283,6 +4283,7 @@
         "sq_MK": "South Australia",
         "sq_XK": "South Australia",
         "sr": "Јужна Аустралија",
+        "sr@latin": "Južna Australija",
         "sr_Cyrl": "Јужна Аустралија",
         "sr_Cyrl_BA": "Јужна Аустралија",
         "sr_Cyrl_ME": "Јужна Аустралија",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Güney Avustralya",
         "tr_TR": "Güney Avustralya",
         "tt": "South Australia",
+        "tt@iqtelif": "South Australia",
         "tt_RU": "South Australia",
         "twq": "South Australia",
         "twq_NE": "South Australia",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "South Australia",
         "zh_Hant_TW": "South Australia",
         "zu": "South Australia",
-        "zu_ZA": "South Australia",
-        "sr@latin": "Južna Australija",
-        "tt@iqtelif": "South Australia"
+        "zu_ZA": "South Australia"
     },
     "TAS": {
         "af": "Tasmania",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Tasmania",
         "sq_XK": "Tasmania",
         "sr": "Тасманија",
+        "sr@latin": "Tasmanija",
         "sr_Cyrl": "Тасманија",
         "sr_Cyrl_BA": "Тасманија",
         "sr_Cyrl_ME": "Тасманија",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Tazmanya",
         "tr_TR": "Tazmanya",
         "tt": "Tasmania",
+        "tt@iqtelif": "Tasmania",
         "tt_RU": "Tasmania",
         "twq": "Tasmania",
         "twq_NE": "Tasmania",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Tasmania",
         "zh_Hant_TW": "Tasmania",
         "zu": "Tasmania",
-        "zu_ZA": "Tasmania",
-        "sr@latin": "Tasmanija",
-        "tt@iqtelif": "Tasmania"
+        "zu_ZA": "Tasmania"
     },
     "VIC": {
         "af": "Victoria",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Victoria",
         "sq_XK": "Victoria",
         "sr": "Викторија",
+        "sr@latin": "Viktorija",
         "sr_Cyrl": "Викторија",
         "sr_Cyrl_BA": "Викторија",
         "sr_Cyrl_ME": "Викторија",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Victoria",
         "tr_TR": "Victoria",
         "tt": "Victoria",
+        "tt@iqtelif": "Victoria",
         "tt_RU": "Victoria",
         "twq": "Victoria",
         "twq_NE": "Victoria",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Victoria",
         "zh_Hant_TW": "Victoria",
         "zu": "Victoria",
-        "zu_ZA": "Victoria",
-        "sr@latin": "Viktorija",
-        "tt@iqtelif": "Victoria"
+        "zu_ZA": "Victoria"
     },
     "WA": {
         "af": "Western Australia",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Western Australia",
         "sq_XK": "Western Australia",
         "sr": "Западна Аустралија",
+        "sr@latin": "Zapadna Australija",
         "sr_Cyrl": "Западна Аустралија",
         "sr_Cyrl_BA": "Западна Аустралија",
         "sr_Cyrl_ME": "Западна Аустралија",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Batı Avustralya",
         "tr_TR": "Batı Avustralya",
         "tt": "Western Australia",
+        "tt@iqtelif": "Western Australia",
         "tt_RU": "Western Australia",
         "twq": "Western Australia",
         "twq_NE": "Western Australia",
@@ -7075,8 +7077,6 @@
         "zh_Hant_MY": "Western Australia",
         "zh_Hant_TW": "Western Australia",
         "zu": "Western Australia",
-        "zu_ZA": "Western Australia",
-        "sr@latin": "Zapadna Australija",
-        "tt@iqtelif": "Western Australia"
+        "zu_ZA": "Western Australia"
     }
 }

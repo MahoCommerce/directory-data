@@ -743,6 +743,7 @@
         "sq_MK": "La Colle",
         "sq_XK": "La Colle",
         "sr": "Ла Коле",
+        "sr@latin": "La Kole",
         "sr_Cyrl": "Ла Коле",
         "sr_Cyrl_BA": "Ла Коле",
         "sr_Cyrl_ME": "Ла Коле",
@@ -803,6 +804,7 @@
         "tr_CY": "La Colle",
         "tr_TR": "La Colle",
         "tt": "La Colle",
+        "tt@iqtelif": "La Colle",
         "tt_RU": "La Colle",
         "twq": "La Colle",
         "twq_NE": "La Colle",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "La Colle",
         "zh_Hant_TW": "La Colle",
         "zu": "La Colle",
-        "zu_ZA": "La Colle",
-        "sr@latin": "La Kole",
-        "tt@iqtelif": "La Colle"
+        "zu_ZA": "La Colle"
     },
     "CO": {
         "af": "La Condamine",
@@ -1628,6 +1628,7 @@
         "sq_MK": "La Condamine",
         "sq_XK": "La Condamine",
         "sr": "Ла Кондамин",
+        "sr@latin": "La Kondamin",
         "sr_Cyrl": "Ла Кондамин",
         "sr_Cyrl_BA": "Ла Кондамин",
         "sr_Cyrl_ME": "Ла Кондамин",
@@ -1688,6 +1689,7 @@
         "tr_CY": "La Condamine",
         "tr_TR": "La Condamine",
         "tt": "La Condamine",
+        "tt@iqtelif": "La Condamine",
         "tt_RU": "La Condamine",
         "twq": "La Condamine",
         "twq_NE": "La Condamine",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "La Condamine",
         "zh_Hant_TW": "La Condamine",
         "zu": "La Condamine",
-        "zu_ZA": "La Condamine",
-        "sr@latin": "La Kondamin",
-        "tt@iqtelif": "La Condamine"
+        "zu_ZA": "La Condamine"
     },
     "FO": {
         "af": "Fontvieille",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Fontvieille",
         "sq_XK": "Fontvieille",
         "sr": "Фонтвјеј",
+        "sr@latin": "Fontvjej",
         "sr_Cyrl": "Фонтвјеј",
         "sr_Cyrl_BA": "Фонтвјеј",
         "sr_Cyrl_ME": "Фонтвјеј",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Fontvieille",
         "tr_TR": "Fontvieille",
         "tt": "Fontvieille",
+        "tt@iqtelif": "Fontvieille",
         "tt_RU": "Fontvieille",
         "twq": "Fontvieille",
         "twq_NE": "Fontvieille",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Fontvieille",
         "zh_Hant_TW": "Fontvieille",
         "zu": "Fontvieille",
-        "zu_ZA": "Fontvieille",
-        "sr@latin": "Fontvjej",
-        "tt@iqtelif": "Fontvieille"
+        "zu_ZA": "Fontvieille"
     },
     "GA": {
         "af": "La Gare",
@@ -3398,6 +3398,7 @@
         "sq_MK": "La Gare",
         "sq_XK": "La Gare",
         "sr": "Ла Гаре",
+        "sr@latin": "La Gare",
         "sr_Cyrl": "Ла Гаре",
         "sr_Cyrl_BA": "Ла Гаре",
         "sr_Cyrl_ME": "Ла Гаре",
@@ -3458,6 +3459,7 @@
         "tr_CY": "La Gare",
         "tr_TR": "La Gare",
         "tt": "La Gare",
+        "tt@iqtelif": "La Gare",
         "tt_RU": "La Gare",
         "twq": "La Gare",
         "twq_NE": "La Gare",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "La Gare",
         "zh_Hant_TW": "La Gare",
         "zu": "La Gare",
-        "zu_ZA": "La Gare",
-        "sr@latin": "La Gare",
-        "tt@iqtelif": "La Gare"
+        "zu_ZA": "La Gare"
     },
     "JE": {
         "af": "Jardin Exotique",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Jardin Exotique",
         "sq_XK": "Jardin Exotique",
         "sr": "Егзотични врт",
+        "sr@latin": "Egzotični vrt",
         "sr_Cyrl": "Егзотични врт",
         "sr_Cyrl_BA": "Егзотични врт",
         "sr_Cyrl_ME": "Егзотични врт",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Jardin Exotique",
         "tr_TR": "Jardin Exotique",
         "tt": "Jardin Exotique",
+        "tt@iqtelif": "Jardin Exotique",
         "tt_RU": "Jardin Exotique",
         "twq": "Jardin Exotique",
         "twq_NE": "Jardin Exotique",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Jardin Exotique",
         "zh_Hant_TW": "Jardin Exotique",
         "zu": "Jardin Exotique",
-        "zu_ZA": "Jardin Exotique",
-        "sr@latin": "Egzotični vrt",
-        "tt@iqtelif": "Jardin Exotique"
+        "zu_ZA": "Jardin Exotique"
     },
     "LA": {
         "af": "Larvotto",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Larvotto",
         "sq_XK": "Larvotto",
         "sr": "Ларвото",
+        "sr@latin": "Larvoto",
         "sr_Cyrl": "Ларвото",
         "sr_Cyrl_BA": "Ларвото",
         "sr_Cyrl_ME": "Ларвото",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Larvotto",
         "tr_TR": "Larvotto",
         "tt": "Larvotto",
+        "tt@iqtelif": "Larvotto",
         "tt_RU": "Larvotto",
         "twq": "Larvotto",
         "twq_NE": "Larvotto",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Larvotto",
         "zh_Hant_TW": "Larvotto",
         "zu": "Larvotto",
-        "zu_ZA": "Larvotto",
-        "sr@latin": "Larvoto",
-        "tt@iqtelif": "Larvotto"
+        "zu_ZA": "Larvotto"
     },
     "MA": {
         "af": "Malbousquet",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Malbousquet",
         "sq_XK": "Malbousquet",
         "sr": "Малбуск",
+        "sr@latin": "Malbusk",
         "sr_Cyrl": "Малбуск",
         "sr_Cyrl_BA": "Малбуск",
         "sr_Cyrl_ME": "Малбуск",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Malbousquet",
         "tr_TR": "Malbousquet",
         "tt": "Malbousquet",
+        "tt@iqtelif": "Malbousquet",
         "tt_RU": "Malbousquet",
         "twq": "Malbousquet",
         "twq_NE": "Malbousquet",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Malbousquet",
         "zh_Hant_TW": "Malbousquet",
         "zu": "Malbousquet",
-        "zu_ZA": "Malbousquet",
-        "sr@latin": "Malbusk",
-        "tt@iqtelif": "Malbousquet"
+        "zu_ZA": "Malbousquet"
     },
     "MC": {
         "af": "Monte-Carlo",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Monte-Carlo",
         "sq_XK": "Monte-Carlo",
         "sr": "Монте Карло",
+        "sr@latin": "Monte Karlo",
         "sr_Cyrl": "Монте Карло",
         "sr_Cyrl_BA": "Монте Карло",
         "sr_Cyrl_ME": "Монте Карло",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Monte-Carlo",
         "tr_TR": "Monte-Carlo",
         "tt": "Monte-Carlo",
+        "tt@iqtelif": "Monte-Carlo",
         "tt_RU": "Monte-Carlo",
         "twq": "Monte-Carlo",
         "twq_NE": "Monte-Carlo",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Monte-Carlo",
         "zh_Hant_TW": "Monte-Carlo",
         "zu": "Monte-Carlo",
-        "zu_ZA": "Monte-Carlo",
-        "sr@latin": "Monte Karlo",
-        "tt@iqtelif": "Monte-Carlo"
+        "zu_ZA": "Monte-Carlo"
     },
     "MG": {
         "af": "Moneghetti",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Moneghetti",
         "sq_XK": "Moneghetti",
         "sr": "Монегети",
+        "sr@latin": "Monegeti",
         "sr_Cyrl": "Монегети",
         "sr_Cyrl_BA": "Монегети",
         "sr_Cyrl_ME": "Монегети",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Moneghetti",
         "tr_TR": "Moneghetti",
         "tt": "Moneghetti",
+        "tt@iqtelif": "Moneghetti",
         "tt_RU": "Moneghetti",
         "twq": "Moneghetti",
         "twq_NE": "Moneghetti",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Moneghetti",
         "zh_Hant_TW": "Moneghetti",
         "zu": "Moneghetti",
-        "zu_ZA": "Moneghetti",
-        "sr@latin": "Monegeti",
-        "tt@iqtelif": "Moneghetti"
+        "zu_ZA": "Moneghetti"
     },
     "MO": {
         "af": "Monaco-Ville",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Monaco-Ville",
         "sq_XK": "Monaco-Ville",
         "sr": "Монако-Виј",
+        "sr@latin": "Monako-Vij",
         "sr_Cyrl": "Монако-Виј",
         "sr_Cyrl_BA": "Монако-Виј",
         "sr_Cyrl_ME": "Монако-Виј",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Monaco-Ville",
         "tr_TR": "Monaco-Ville",
         "tt": "Monaco-Ville",
+        "tt@iqtelif": "Monaco-Ville",
         "tt_RU": "Monaco-Ville",
         "twq": "Monaco-Ville",
         "twq_NE": "Monaco-Ville",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Monaco-Ville",
         "zh_Hant_TW": "Monaco-Ville",
         "zu": "Monaco-Ville",
-        "zu_ZA": "Monaco-Ville",
-        "sr@latin": "Monako-Vij",
-        "tt@iqtelif": "Monaco-Ville"
+        "zu_ZA": "Monaco-Ville"
     },
     "MU": {
         "af": "Moulins",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Moulins",
         "sq_XK": "Moulins",
         "sr": "Мулан",
+        "sr@latin": "Mulan",
         "sr_Cyrl": "Мулан",
         "sr_Cyrl_BA": "Мулан",
         "sr_Cyrl_ME": "Мулан",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Moulins",
         "tr_TR": "Moulins",
         "tt": "Moulins",
+        "tt@iqtelif": "Moulins",
         "tt_RU": "Moulins",
         "twq": "Moulins",
         "twq_NE": "Moulins",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Moulins",
         "zh_Hant_TW": "Moulins",
         "zu": "Moulins",
-        "zu_ZA": "Moulins",
-        "sr@latin": "Mulan",
-        "tt@iqtelif": "Moulins"
+        "zu_ZA": "Moulins"
     },
     "PH": {
         "af": "Port-Hercule",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Port-Hercule",
         "sq_XK": "Port-Hercule",
         "sr": "Port-Hercule",
+        "sr@latin": "Port-Hercule",
         "sr_Cyrl": "Port-Hercule",
         "sr_Cyrl_BA": "Port-Hercule",
         "sr_Cyrl_ME": "Port-Hercule",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Port-Hercule",
         "tr_TR": "Port-Hercule",
         "tt": "Port-Hercule",
+        "tt@iqtelif": "Port-Hercule",
         "tt_RU": "Port-Hercule",
         "twq": "Port-Hercule",
         "twq_NE": "Port-Hercule",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Port-Hercule",
         "zh_Hant_TW": "Port-Hercule",
         "zu": "Port-Hercule",
-        "zu_ZA": "Port-Hercule",
-        "sr@latin": "Port-Hercule",
-        "tt@iqtelif": "Port-Hercule"
+        "zu_ZA": "Port-Hercule"
     },
     "SD": {
         "af": "Sainte-Dévote",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Sainte-Dévote",
         "sq_XK": "Sainte-Dévote",
         "sr": "Сент Девот",
+        "sr@latin": "Sent Devot",
         "sr_Cyrl": "Сент Девот",
         "sr_Cyrl_BA": "Сент Девот",
         "sr_Cyrl_ME": "Сент Девот",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Sainte-Devote",
         "tr_TR": "Sainte-Devote",
         "tt": "Sainte-Dévote",
+        "tt@iqtelif": "Sainte-Dévote",
         "tt_RU": "Sainte-Dévote",
         "twq": "Sainte-Dévote",
         "twq_NE": "Sainte-Dévote",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Sainte-Dévote",
         "zh_Hant_TW": "Sainte-Dévote",
         "zu": "Sainte-Dévote",
-        "zu_ZA": "Sainte-Dévote",
-        "sr@latin": "Sent Devot",
-        "tt@iqtelif": "Sainte-Dévote"
+        "zu_ZA": "Sainte-Dévote"
     },
     "SO": {
         "af": "La Source",
@@ -12248,6 +12248,7 @@
         "sq_MK": "La Source",
         "sq_XK": "La Source",
         "sr": "Ла Соурс",
+        "sr@latin": "La Sours",
         "sr_Cyrl": "Ла Соурс",
         "sr_Cyrl_BA": "Ла Соурс",
         "sr_Cyrl_ME": "Ла Соурс",
@@ -12308,6 +12309,7 @@
         "tr_CY": "La Source",
         "tr_TR": "La Source",
         "tt": "La Source",
+        "tt@iqtelif": "La Source",
         "tt_RU": "La Source",
         "twq": "La Source",
         "twq_NE": "La Source",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "La Source",
         "zh_Hant_TW": "La Source",
         "zu": "La Source",
-        "zu_ZA": "La Source",
-        "sr@latin": "La Sours",
-        "tt@iqtelif": "La Source"
+        "zu_ZA": "La Source"
     },
     "SP": {
         "af": "Spélugues",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Spélugues",
         "sq_XK": "Spélugues",
         "sr": "Spélugues",
+        "sr@latin": "Spélugues",
         "sr_Cyrl": "Spélugues",
         "sr_Cyrl_BA": "Spélugues",
         "sr_Cyrl_ME": "Spélugues",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Spélugues",
         "tr_TR": "Spélugues",
         "tt": "Spélugues",
+        "tt@iqtelif": "Spélugues",
         "tt_RU": "Spélugues",
         "twq": "Spélugues",
         "twq_NE": "Spélugues",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Spélugues",
         "zh_Hant_TW": "Spélugues",
         "zu": "Spélugues",
-        "zu_ZA": "Spélugues",
-        "sr@latin": "Spélugues",
-        "tt@iqtelif": "Spélugues"
+        "zu_ZA": "Spélugues"
     },
     "SR": {
         "af": "Saint-Roman",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Saint-Roman",
         "sq_XK": "Saint-Roman",
         "sr": "Saint-Roman",
+        "sr@latin": "Saint-Roman",
         "sr_Cyrl": "Saint-Roman",
         "sr_Cyrl_BA": "Saint-Roman",
         "sr_Cyrl_ME": "Saint-Roman",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Saint-Roman",
         "tr_TR": "Saint-Roman",
         "tt": "Saint-Roman",
+        "tt@iqtelif": "Saint-Roman",
         "tt_RU": "Saint-Roman",
         "twq": "Saint-Roman",
         "twq_NE": "Saint-Roman",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Saint-Roman",
         "zh_Hant_TW": "Saint-Roman",
         "zu": "Saint-Roman",
-        "zu_ZA": "Saint-Roman",
-        "sr@latin": "Saint-Roman",
-        "tt@iqtelif": "Saint-Roman"
+        "zu_ZA": "Saint-Roman"
     },
     "VR": {
         "af": "Vallon de la Rousse",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Vallon de la Rousse",
         "sq_XK": "Vallon de la Rousse",
         "sr": "Валон д ла Рус",
+        "sr@latin": "Valon d la Rus",
         "sr_Cyrl": "Валон д ла Рус",
         "sr_Cyrl_BA": "Валон д ла Рус",
         "sr_Cyrl_ME": "Валон д ла Рус",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Vallon de la Rousse",
         "tr_TR": "Vallon de la Rousse",
         "tt": "Vallon de la Rousse",
+        "tt@iqtelif": "Vallon de la Rousse",
         "tt_RU": "Vallon de la Rousse",
         "twq": "Vallon de la Rousse",
         "twq_NE": "Vallon de la Rousse",
@@ -15040,8 +15042,6 @@
         "zh_Hant_MY": "Vallon de la Rousse",
         "zh_Hant_TW": "Vallon de la Rousse",
         "zu": "Vallon de la Rousse",
-        "zu_ZA": "Vallon de la Rousse",
-        "sr@latin": "Valon d la Rus",
-        "tt@iqtelif": "Vallon de la Rousse"
+        "zu_ZA": "Vallon de la Rousse"
     }
 }

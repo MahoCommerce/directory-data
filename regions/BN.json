@@ -743,6 +743,7 @@
         "sq_MK": "Belait",
         "sq_XK": "Belait",
         "sr": "Белет",
+        "sr@latin": "Belet",
         "sr_Cyrl": "Белет",
         "sr_Cyrl_BA": "Белет",
         "sr_Cyrl_ME": "Белет",
@@ -803,6 +804,7 @@
         "tr_CY": "Belait",
         "tr_TR": "Belait",
         "tt": "Belait",
+        "tt@iqtelif": "Belait",
         "tt_RU": "Belait",
         "twq": "Belait",
         "twq_NE": "Belait",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Belait",
         "zh_Hant_TW": "Belait",
         "zu": "Belait",
-        "zu_ZA": "Belait",
-        "sr@latin": "Belet",
-        "tt@iqtelif": "Belait"
+        "zu_ZA": "Belait"
     },
     "BM": {
         "af": "Brunei-Muara",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Brunei-Muara",
         "sq_XK": "Brunei-Muara",
         "sr": "Брунеј-Муара",
+        "sr@latin": "Brunej-Muara",
         "sr_Cyrl": "Брунеј-Муара",
         "sr_Cyrl_BA": "Брунеј-Муара",
         "sr_Cyrl_ME": "Брунеј-Муара",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Brunei-Muara",
         "tr_TR": "Brunei-Muara",
         "tt": "Brunei-Muara",
+        "tt@iqtelif": "Brunei-Muara",
         "tt_RU": "Brunei-Muara",
         "twq": "Brunei-Muara",
         "twq_NE": "Brunei-Muara",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Brunei-Muara",
         "zh_Hant_TW": "Brunei-Muara",
         "zu": "Brunei-Muara",
-        "zu_ZA": "Brunei-Muara",
-        "sr@latin": "Brunej-Muara",
-        "tt@iqtelif": "Brunei-Muara"
+        "zu_ZA": "Brunei-Muara"
     },
     "TE": {
         "af": "Temburong",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Temburong",
         "sq_XK": "Temburong",
         "sr": "Тембуронг",
+        "sr@latin": "Temburong",
         "sr_Cyrl": "Тембуронг",
         "sr_Cyrl_BA": "Тембуронг",
         "sr_Cyrl_ME": "Тембуронг",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Temburong",
         "tr_TR": "Temburong",
         "tt": "Temburong",
+        "tt@iqtelif": "Temburong",
         "tt_RU": "Temburong",
         "twq": "Temburong",
         "twq_NE": "Temburong",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Temburong",
         "zh_Hant_TW": "Temburong",
         "zu": "Temburong",
-        "zu_ZA": "Temburong",
-        "sr@latin": "Temburong",
-        "tt@iqtelif": "Temburong"
+        "zu_ZA": "Temburong"
     },
     "TU": {
         "af": "Tutong",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Tutong",
         "sq_XK": "Tutong",
         "sr": "Тутонг",
+        "sr@latin": "Tutong",
         "sr_Cyrl": "Тутонг",
         "sr_Cyrl_BA": "Тутонг",
         "sr_Cyrl_ME": "Тутонг",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Tutong",
         "tr_TR": "Tutong",
         "tt": "Tutong",
+        "tt@iqtelif": "Tutong",
         "tt_RU": "Tutong",
         "twq": "Tutong",
         "twq_NE": "Tutong",
@@ -3535,8 +3537,6 @@
         "zh_Hant_MY": "Tutong",
         "zh_Hant_TW": "Tutong",
         "zu": "Tutong",
-        "zu_ZA": "Tutong",
-        "sr@latin": "Tutong",
-        "tt@iqtelif": "Tutong"
+        "zu_ZA": "Tutong"
     }
 }

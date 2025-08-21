@@ -743,6 +743,7 @@
         "sq_MK": "Annobon",
         "sq_XK": "Annobon",
         "sr": "Annobon",
+        "sr@latin": "Annobon",
         "sr_Cyrl": "Annobon",
         "sr_Cyrl_BA": "Annobon",
         "sr_Cyrl_ME": "Annobon",
@@ -803,6 +804,7 @@
         "tr_CY": "Annobon",
         "tr_TR": "Annobon",
         "tt": "Annobon",
+        "tt@iqtelif": "Annobon",
         "tt_RU": "Annobon",
         "twq": "Annobon",
         "twq_NE": "Annobon",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Annobon",
         "zh_Hant_TW": "Annobon",
         "zu": "Annobon",
-        "zu_ZA": "Annobon",
-        "sr@latin": "Annobon",
-        "tt@iqtelif": "Annobon"
+        "zu_ZA": "Annobon"
     },
     "BN": {
         "af": "Bioko Nord",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bioko Nord",
         "sq_XK": "Bioko Nord",
         "sr": "Bioko Nord",
+        "sr@latin": "Bioko Nord",
         "sr_Cyrl": "Bioko Nord",
         "sr_Cyrl_BA": "Bioko Nord",
         "sr_Cyrl_ME": "Bioko Nord",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bioko Nord",
         "tr_TR": "Bioko Nord",
         "tt": "Bioko Nord",
+        "tt@iqtelif": "Bioko Nord",
         "tt_RU": "Bioko Nord",
         "twq": "Bioko Nord",
         "twq_NE": "Bioko Nord",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bioko Nord",
         "zh_Hant_TW": "Bioko Nord",
         "zu": "Bioko Nord",
-        "zu_ZA": "Bioko Nord",
-        "sr@latin": "Bioko Nord",
-        "tt@iqtelif": "Bioko Nord"
+        "zu_ZA": "Bioko Nord"
     },
     "BS": {
         "af": "Bioko Sud",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Bioko Sud",
         "sq_XK": "Bioko Sud",
         "sr": "Bioko Sud",
+        "sr@latin": "Bioko Sud",
         "sr_Cyrl": "Bioko Sud",
         "sr_Cyrl_BA": "Bioko Sud",
         "sr_Cyrl_ME": "Bioko Sud",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Bioko Sud",
         "tr_TR": "Bioko Sud",
         "tt": "Bioko Sud",
+        "tt@iqtelif": "Bioko Sud",
         "tt_RU": "Bioko Sud",
         "twq": "Bioko Sud",
         "twq_NE": "Bioko Sud",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Bioko Sud",
         "zh_Hant_TW": "Bioko Sud",
         "zu": "Bioko Sud",
-        "zu_ZA": "Bioko Sud",
-        "sr@latin": "Bioko Sud",
-        "tt@iqtelif": "Bioko Sud"
+        "zu_ZA": "Bioko Sud"
     },
     "C": {
         "af": "Région Continentale",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Région Continentale",
         "sq_XK": "Région Continentale",
         "sr": "Région Continentale",
+        "sr@latin": "Région Continentale",
         "sr_Cyrl": "Région Continentale",
         "sr_Cyrl_BA": "Région Continentale",
         "sr_Cyrl_ME": "Région Continentale",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Région Continentale",
         "tr_TR": "Région Continentale",
         "tt": "Région Continentale",
+        "tt@iqtelif": "Région Continentale",
         "tt_RU": "Région Continentale",
         "twq": "Région Continentale",
         "twq_NE": "Région Continentale",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Région Continentale",
         "zh_Hant_TW": "Région Continentale",
         "zu": "Région Continentale",
-        "zu_ZA": "Région Continentale",
-        "sr@latin": "Région Continentale",
-        "tt@iqtelif": "Région Continentale"
+        "zu_ZA": "Région Continentale"
     },
     "CS": {
         "af": "Centro Sud",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Centro Sud",
         "sq_XK": "Centro Sud",
         "sr": "Centro Sud",
+        "sr@latin": "Centro Sud",
         "sr_Cyrl": "Centro Sud",
         "sr_Cyrl_BA": "Centro Sud",
         "sr_Cyrl_ME": "Centro Sud",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Centro Sud",
         "tr_TR": "Centro Sud",
         "tt": "Centro Sud",
+        "tt@iqtelif": "Centro Sud",
         "tt_RU": "Centro Sud",
         "twq": "Centro Sud",
         "twq_NE": "Centro Sud",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Centro Sud",
         "zh_Hant_TW": "Centro Sud",
         "zu": "Centro Sud",
-        "zu_ZA": "Centro Sud",
-        "sr@latin": "Centro Sud",
-        "tt@iqtelif": "Centro Sud"
+        "zu_ZA": "Centro Sud"
     },
     "DJ": {
         "af": "Djibloho",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Djibloho",
         "sq_XK": "Djibloho",
         "sr": "Djibloho",
+        "sr@latin": "Djibloho",
         "sr_Cyrl": "Djibloho",
         "sr_Cyrl_BA": "Djibloho",
         "sr_Cyrl_ME": "Djibloho",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Djibloho",
         "tr_TR": "Djibloho",
         "tt": "Djibloho",
+        "tt@iqtelif": "Djibloho",
         "tt_RU": "Djibloho",
         "twq": "Djibloho",
         "twq_NE": "Djibloho",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Djibloho",
         "zh_Hant_TW": "Djibloho",
         "zu": "Djibloho",
-        "zu_ZA": "Djibloho",
-        "sr@latin": "Djibloho",
-        "tt@iqtelif": "Djibloho"
+        "zu_ZA": "Djibloho"
     },
     "I": {
         "af": "Région Insulaire",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Région Insulaire",
         "sq_XK": "Région Insulaire",
         "sr": "Région Insulaire",
+        "sr@latin": "Région Insulaire",
         "sr_Cyrl": "Région Insulaire",
         "sr_Cyrl_BA": "Région Insulaire",
         "sr_Cyrl_ME": "Région Insulaire",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Région Insulaire",
         "tr_TR": "Région Insulaire",
         "tt": "Région Insulaire",
+        "tt@iqtelif": "Région Insulaire",
         "tt_RU": "Région Insulaire",
         "twq": "Région Insulaire",
         "twq_NE": "Région Insulaire",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Région Insulaire",
         "zh_Hant_TW": "Région Insulaire",
         "zu": "Région Insulaire",
-        "zu_ZA": "Région Insulaire",
-        "sr@latin": "Région Insulaire",
-        "tt@iqtelif": "Région Insulaire"
+        "zu_ZA": "Région Insulaire"
     },
     "KN": {
         "af": "Kié-Ntem",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Kié-Ntem",
         "sq_XK": "Kié-Ntem",
         "sr": "Kié-Ntem",
+        "sr@latin": "Kié-Ntem",
         "sr_Cyrl": "Kié-Ntem",
         "sr_Cyrl_BA": "Kié-Ntem",
         "sr_Cyrl_ME": "Kié-Ntem",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kié-Ntem",
         "tr_TR": "Kié-Ntem",
         "tt": "Kié-Ntem",
+        "tt@iqtelif": "Kié-Ntem",
         "tt_RU": "Kié-Ntem",
         "twq": "Kié-Ntem",
         "twq_NE": "Kié-Ntem",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Kié-Ntem",
         "zh_Hant_TW": "Kié-Ntem",
         "zu": "Kié-Ntem",
-        "zu_ZA": "Kié-Ntem",
-        "sr@latin": "Kié-Ntem",
-        "tt@iqtelif": "Kié-Ntem"
+        "zu_ZA": "Kié-Ntem"
     },
     "LI": {
         "af": "Littoral",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Littoral",
         "sq_XK": "Littoral",
         "sr": "Литорал",
+        "sr@latin": "Litoral",
         "sr_Cyrl": "Литорал",
         "sr_Cyrl_BA": "Литорал",
         "sr_Cyrl_ME": "Литорал",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Littoral",
         "tr_TR": "Littoral",
         "tt": "Littoral",
+        "tt@iqtelif": "Littoral",
         "tt_RU": "Littoral",
         "twq": "Littoral",
         "twq_NE": "Littoral",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Littoral",
         "zh_Hant_TW": "Littoral",
         "zu": "Littoral",
-        "zu_ZA": "Littoral",
-        "sr@latin": "Litoral",
-        "tt@iqtelif": "Littoral"
+        "zu_ZA": "Littoral"
     },
     "WN": {
         "af": "Wele-Nzas",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Wele-Nzas",
         "sq_XK": "Wele-Nzas",
         "sr": "Wele-Nzas",
+        "sr@latin": "Wele-Nzas",
         "sr_Cyrl": "Wele-Nzas",
         "sr_Cyrl_BA": "Wele-Nzas",
         "sr_Cyrl_ME": "Wele-Nzas",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Wele-Nzas",
         "tr_TR": "Wele-Nzas",
         "tt": "Wele-Nzas",
+        "tt@iqtelif": "Wele-Nzas",
         "tt_RU": "Wele-Nzas",
         "twq": "Wele-Nzas",
         "twq_NE": "Wele-Nzas",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Wele-Nzas",
         "zh_Hant_TW": "Wele-Nzas",
         "zu": "Wele-Nzas",
-        "zu_ZA": "Wele-Nzas",
-        "sr@latin": "Wele-Nzas",
-        "tt@iqtelif": "Wele-Nzas"
+        "zu_ZA": "Wele-Nzas"
     }
 }

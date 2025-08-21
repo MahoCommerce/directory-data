@@ -743,6 +743,7 @@
         "sq_MK": "Brandenburg",
         "sq_XK": "Brandenburg",
         "sr": "Бранденбург",
+        "sr@latin": "Brandenburg",
         "sr_Cyrl": "Бранденбург",
         "sr_Cyrl_BA": "Бранденбург",
         "sr_Cyrl_ME": "Бранденбург",
@@ -803,6 +804,7 @@
         "tr_CY": "Brandenburg",
         "tr_TR": "Brandenburg",
         "tt": "Brandenburg",
+        "tt@iqtelif": "Brandenburg",
         "tt_RU": "Brandenburg",
         "twq": "Brandenburg",
         "twq_NE": "Brandenburg",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Brandenburg",
         "zh_Hant_TW": "Brandenburg",
         "zu": "Brandenburg",
-        "zu_ZA": "Brandenburg",
-        "sr@latin": "Brandenburg",
-        "tt@iqtelif": "Brandenburg"
+        "zu_ZA": "Brandenburg"
     },
     "BE": {
         "af": "Berlin",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Berlin",
         "sq_XK": "Berlin",
         "sr": "Берлин",
+        "sr@latin": "Berlin",
         "sr_Cyrl": "Берлин",
         "sr_Cyrl_BA": "Берлин",
         "sr_Cyrl_ME": "Берлин",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Berlin",
         "tr_TR": "Berlin",
         "tt": "Berlin",
+        "tt@iqtelif": "Berlin",
         "tt_RU": "Berlin",
         "twq": "Berlin",
         "twq_NE": "Berlin",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Berlin",
         "zh_Hant_TW": "Berlin",
         "zu": "Berlin",
-        "zu_ZA": "Berlin",
-        "sr@latin": "Berlin",
-        "tt@iqtelif": "Berlin"
+        "zu_ZA": "Berlin"
     },
     "BW": {
         "af": "Baden-Württemberg",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Baden-Württemberg",
         "sq_XK": "Baden-Württemberg",
         "sr": "Баден Виртемберг",
+        "sr@latin": "Baden Virtemberg",
         "sr_Cyrl": "Баден Виртемберг",
         "sr_Cyrl_BA": "Баден Виртемберг",
         "sr_Cyrl_ME": "Баден Виртемберг",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Baden-Württemberg",
         "tr_TR": "Baden-Württemberg",
         "tt": "Baden-Württemberg",
+        "tt@iqtelif": "Baden-Württemberg",
         "tt_RU": "Baden-Württemberg",
         "twq": "Baden-Württemberg",
         "twq_NE": "Baden-Württemberg",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Baden-Württemberg",
         "zh_Hant_TW": "Baden-Württemberg",
         "zu": "Baden-Württemberg",
-        "zu_ZA": "Baden-Württemberg",
-        "sr@latin": "Baden Virtemberg",
-        "tt@iqtelif": "Baden-Württemberg"
+        "zu_ZA": "Baden-Württemberg"
     },
     "BY": {
         "af": "Bayern",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Bayern",
         "sq_XK": "Bayern",
         "sr": "Бајерн",
+        "sr@latin": "Bajern",
         "sr_Cyrl": "Бајерн",
         "sr_Cyrl_BA": "Бајерн",
         "sr_Cyrl_ME": "Бајерн",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Bayern",
         "tr_TR": "Bayern",
         "tt": "Bayern",
+        "tt@iqtelif": "Bayern",
         "tt_RU": "Bayern",
         "twq": "Bayern",
         "twq_NE": "Bayern",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Bayern",
         "zh_Hant_TW": "Bayern",
         "zu": "Bayern",
-        "zu_ZA": "Bayern",
-        "sr@latin": "Bajern",
-        "tt@iqtelif": "Bayern"
+        "zu_ZA": "Bayern"
     },
     "HB": {
         "af": "Bremen",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Bremen",
         "sq_XK": "Bremen",
         "sr": "Бремен",
+        "sr@latin": "Bremen",
         "sr_Cyrl": "Бремен",
         "sr_Cyrl_BA": "Бремен",
         "sr_Cyrl_ME": "Бремен",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Bremen",
         "tr_TR": "Bremen",
         "tt": "Bremen",
+        "tt@iqtelif": "Bremen",
         "tt_RU": "Bremen",
         "twq": "Bremen",
         "twq_NE": "Bremen",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Bremen",
         "zh_Hant_TW": "Bremen",
         "zu": "Bremen",
-        "zu_ZA": "Bremen",
-        "sr@latin": "Bremen",
-        "tt@iqtelif": "Bremen"
+        "zu_ZA": "Bremen"
     },
     "HE": {
         "af": "Hessen",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Hessen",
         "sq_XK": "Hessen",
         "sr": "Есен",
+        "sr@latin": "Esen",
         "sr_Cyrl": "Есен",
         "sr_Cyrl_BA": "Есен",
         "sr_Cyrl_ME": "Есен",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Hessen",
         "tr_TR": "Hessen",
         "tt": "Hessen",
+        "tt@iqtelif": "Hessen",
         "tt_RU": "Hessen",
         "twq": "Hessen",
         "twq_NE": "Hessen",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Hessen",
         "zh_Hant_TW": "Hessen",
         "zu": "Hessen",
-        "zu_ZA": "Hessen",
-        "sr@latin": "Esen",
-        "tt@iqtelif": "Hessen"
+        "zu_ZA": "Hessen"
     },
     "HH": {
         "af": "Hamburg",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Hamburg",
         "sq_XK": "Hamburg",
         "sr": "Хамбург",
+        "sr@latin": "Hamburg",
         "sr_Cyrl": "Хамбург",
         "sr_Cyrl_BA": "Хамбург",
         "sr_Cyrl_ME": "Хамбург",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Hamburg",
         "tr_TR": "Hamburg",
         "tt": "Hamburg",
+        "tt@iqtelif": "Hamburg",
         "tt_RU": "Hamburg",
         "twq": "Hamburg",
         "twq_NE": "Hamburg",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Hamburg",
         "zh_Hant_TW": "Hamburg",
         "zu": "Hamburg",
-        "zu_ZA": "Hamburg",
-        "sr@latin": "Hamburg",
-        "tt@iqtelif": "Hamburg"
+        "zu_ZA": "Hamburg"
     },
     "MV": {
         "af": "Mecklenburg-Vorpommern",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Mecklenburg-Vorpommern",
         "sq_XK": "Mecklenburg-Vorpommern",
         "sr": "Mecklenburg-Vorpommern",
+        "sr@latin": "Mecklenburg-Vorpommern",
         "sr_Cyrl": "Mecklenburg-Vorpommern",
         "sr_Cyrl_BA": "Mecklenburg-Vorpommern",
         "sr_Cyrl_ME": "Mecklenburg-Vorpommern",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Mecklenburg-Vorpommern",
         "tr_TR": "Mecklenburg-Vorpommern",
         "tt": "Mecklenburg-Vorpommern",
+        "tt@iqtelif": "Mecklenburg-Vorpommern",
         "tt_RU": "Mecklenburg-Vorpommern",
         "twq": "Mecklenburg-Vorpommern",
         "twq_NE": "Mecklenburg-Vorpommern",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Mecklenburg-Vorpommern",
         "zh_Hant_TW": "Mecklenburg-Vorpommern",
         "zu": "Mecklenburg-Vorpommern",
-        "zu_ZA": "Mecklenburg-Vorpommern",
-        "sr@latin": "Mecklenburg-Vorpommern",
-        "tt@iqtelif": "Mecklenburg-Vorpommern"
+        "zu_ZA": "Mecklenburg-Vorpommern"
     },
     "NI": {
         "af": "Niedersachsen",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Niedersachsen",
         "sq_XK": "Niedersachsen",
         "sr": "Нидерсашсен",
+        "sr@latin": "Nidersašsen",
         "sr_Cyrl": "Нидерсашсен",
         "sr_Cyrl_BA": "Нидерсашсен",
         "sr_Cyrl_ME": "Нидерсашсен",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Niedersachsen",
         "tr_TR": "Niedersachsen",
         "tt": "Niedersachsen",
+        "tt@iqtelif": "Niedersachsen",
         "tt_RU": "Niedersachsen",
         "twq": "Niedersachsen",
         "twq_NE": "Niedersachsen",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Niedersachsen",
         "zh_Hant_TW": "Niedersachsen",
         "zu": "Niedersachsen",
-        "zu_ZA": "Niedersachsen",
-        "sr@latin": "Nidersašsen",
-        "tt@iqtelif": "Niedersachsen"
+        "zu_ZA": "Niedersachsen"
     },
     "NW": {
         "af": "Nordrhein-Westfalen",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Nordrhein-Westfalen",
         "sq_XK": "Nordrhein-Westfalen",
         "sr": "Северна Рајна-Вестфалија",
+        "sr@latin": "Severna Rajna-Vestfalija",
         "sr_Cyrl": "Северна Рајна-Вестфалија",
         "sr_Cyrl_BA": "Северна Рајна-Вестфалија",
         "sr_Cyrl_ME": "Северна Рајна-Вестфалија",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Nordrhein-Westfalen",
         "tr_TR": "Nordrhein-Westfalen",
         "tt": "Nordrhein-Westfalen",
+        "tt@iqtelif": "Nordrhein-Westfalen",
         "tt_RU": "Nordrhein-Westfalen",
         "twq": "Nordrhein-Westfalen",
         "twq_NE": "Nordrhein-Westfalen",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Nordrhein-Westfalen",
         "zh_Hant_TW": "Nordrhein-Westfalen",
         "zu": "Nordrhein-Westfalen",
-        "zu_ZA": "Nordrhein-Westfalen",
-        "sr@latin": "Severna Rajna-Vestfalija",
-        "tt@iqtelif": "Nordrhein-Westfalen"
+        "zu_ZA": "Nordrhein-Westfalen"
     },
     "RP": {
         "af": "Rheinland-Pfalz",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Rheinland-Pfalz",
         "sq_XK": "Rheinland-Pfalz",
         "sr": "Рајнланд-Фалц",
+        "sr@latin": "Rajnland-Falc",
         "sr_Cyrl": "Рајнланд-Фалц",
         "sr_Cyrl_BA": "Рајнланд-Фалц",
         "sr_Cyrl_ME": "Рајнланд-Фалц",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Rheinland-Pfalz",
         "tr_TR": "Rheinland-Pfalz",
         "tt": "Rheinland-Pfalz",
+        "tt@iqtelif": "Rheinland-Pfalz",
         "tt_RU": "Rheinland-Pfalz",
         "twq": "Rheinland-Pfalz",
         "twq_NE": "Rheinland-Pfalz",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Rheinland-Pfalz",
         "zh_Hant_TW": "Rheinland-Pfalz",
         "zu": "Rheinland-Pfalz",
-        "zu_ZA": "Rheinland-Pfalz",
-        "sr@latin": "Rajnland-Falc",
-        "tt@iqtelif": "Rheinland-Pfalz"
+        "zu_ZA": "Rheinland-Pfalz"
     },
     "SH": {
         "af": "Schleswig-Holstein",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Schleswig-Holstein",
         "sq_XK": "Schleswig-Holstein",
         "sr": "Шлезвиг-Холштајн",
+        "sr@latin": "Šlezvig-Holštajn",
         "sr_Cyrl": "Шлезвиг-Холштајн",
         "sr_Cyrl_BA": "Шлезвиг-Холштајн",
         "sr_Cyrl_ME": "Шлезвиг-Холштајн",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Schleswig-Holstein",
         "tr_TR": "Schleswig-Holstein",
         "tt": "Schleswig-Holstein",
+        "tt@iqtelif": "Schleswig-Holstein",
         "tt_RU": "Schleswig-Holstein",
         "twq": "Schleswig-Holstein",
         "twq_NE": "Schleswig-Holstein",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Schleswig-Holstein",
         "zh_Hant_TW": "Schleswig-Holstein",
         "zu": "Schleswig-Holstein",
-        "zu_ZA": "Schleswig-Holstein",
-        "sr@latin": "Šlezvig-Holštajn",
-        "tt@iqtelif": "Schleswig-Holstein"
+        "zu_ZA": "Schleswig-Holstein"
     },
     "SL": {
         "af": "Saarland",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Saarland",
         "sq_XK": "Saarland",
         "sr": "Сарланд",
+        "sr@latin": "Sarland",
         "sr_Cyrl": "Сарланд",
         "sr_Cyrl_BA": "Сарланд",
         "sr_Cyrl_ME": "Сарланд",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Saarland",
         "tr_TR": "Saarland",
         "tt": "Saarland",
+        "tt@iqtelif": "Saarland",
         "tt_RU": "Saarland",
         "twq": "Saarland",
         "twq_NE": "Saarland",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Saarland",
         "zh_Hant_TW": "Saarland",
         "zu": "Saarland",
-        "zu_ZA": "Saarland",
-        "sr@latin": "Sarland",
-        "tt@iqtelif": "Saarland"
+        "zu_ZA": "Saarland"
     },
     "SN": {
         "af": "Sachsen",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Sachsen",
         "sq_XK": "Sachsen",
         "sr": "Саксонија",
+        "sr@latin": "Saksonija",
         "sr_Cyrl": "Саксонија",
         "sr_Cyrl_BA": "Саксонија",
         "sr_Cyrl_ME": "Саксонија",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Sachsen",
         "tr_TR": "Sachsen",
         "tt": "Sachsen",
+        "tt@iqtelif": "Sachsen",
         "tt_RU": "Sachsen",
         "twq": "Sachsen",
         "twq_NE": "Sachsen",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Sachsen",
         "zh_Hant_TW": "Sachsen",
         "zu": "Sachsen",
-        "zu_ZA": "Sachsen",
-        "sr@latin": "Saksonija",
-        "tt@iqtelif": "Sachsen"
+        "zu_ZA": "Sachsen"
     },
     "ST": {
         "af": "Sachsen-Anhalt",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Sachsen-Anhalt",
         "sq_XK": "Sachsen-Anhalt",
         "sr": "Саксонија-Анхалт",
+        "sr@latin": "Saksonija-Anhalt",
         "sr_Cyrl": "Саксонија-Анхалт",
         "sr_Cyrl_BA": "Саксонија-Анхалт",
         "sr_Cyrl_ME": "Саксонија-Анхалт",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Sachsen-Anhalt",
         "tr_TR": "Sachsen-Anhalt",
         "tt": "Sachsen-Anhalt",
+        "tt@iqtelif": "Sachsen-Anhalt",
         "tt_RU": "Sachsen-Anhalt",
         "twq": "Sachsen-Anhalt",
         "twq_NE": "Sachsen-Anhalt",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Sachsen-Anhalt",
         "zh_Hant_TW": "Sachsen-Anhalt",
         "zu": "Sachsen-Anhalt",
-        "zu_ZA": "Sachsen-Anhalt",
-        "sr@latin": "Saksonija-Anhalt",
-        "tt@iqtelif": "Sachsen-Anhalt"
+        "zu_ZA": "Sachsen-Anhalt"
     },
     "TH": {
         "af": "Thüringen",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Thüringen",
         "sq_XK": "Thüringen",
         "sr": "Thüringen",
+        "sr@latin": "Thüringen",
         "sr_Cyrl": "Thüringen",
         "sr_Cyrl_BA": "Thüringen",
         "sr_Cyrl_ME": "Thüringen",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Thüringen",
         "tr_TR": "Thüringen",
         "tt": "Thüringen",
+        "tt@iqtelif": "Thüringen",
         "tt_RU": "Thüringen",
         "twq": "Thüringen",
         "twq_NE": "Thüringen",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Thüringen",
         "zh_Hant_TW": "Thüringen",
         "zu": "Thüringen",
-        "zu_ZA": "Thüringen",
-        "sr@latin": "Thüringen",
-        "tt@iqtelif": "Thüringen"
+        "zu_ZA": "Thüringen"
     }
 }

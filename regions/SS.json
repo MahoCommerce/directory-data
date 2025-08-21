@@ -743,6 +743,7 @@
         "sq_MK": "Northern Bahr el Ghazal",
         "sq_XK": "Northern Bahr el Ghazal",
         "sr": "Northern Bahr el Ghazal",
+        "sr@latin": "Northern Bahr el Ghazal",
         "sr_Cyrl": "Northern Bahr el Ghazal",
         "sr_Cyrl_BA": "Northern Bahr el Ghazal",
         "sr_Cyrl_ME": "Northern Bahr el Ghazal",
@@ -803,6 +804,7 @@
         "tr_CY": "Northern Bahr el Ghazal",
         "tr_TR": "Northern Bahr el Ghazal",
         "tt": "Northern Bahr el Ghazal",
+        "tt@iqtelif": "Northern Bahr el Ghazal",
         "tt_RU": "Northern Bahr el Ghazal",
         "twq": "Northern Bahr el Ghazal",
         "twq_NE": "Northern Bahr el Ghazal",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Northern Bahr el Ghazal",
         "zh_Hant_TW": "Northern Bahr el Ghazal",
         "zu": "Northern Bahr el Ghazal",
-        "zu_ZA": "Northern Bahr el Ghazal",
-        "sr@latin": "Northern Bahr el Ghazal",
-        "tt@iqtelif": "Northern Bahr el Ghazal"
+        "zu_ZA": "Northern Bahr el Ghazal"
     },
     "BW": {
         "af": "Western Bahr el Ghazal",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Western Bahr el Ghazal",
         "sq_XK": "Western Bahr el Ghazal",
         "sr": "Western Bahr el Ghazal",
+        "sr@latin": "Western Bahr el Ghazal",
         "sr_Cyrl": "Western Bahr el Ghazal",
         "sr_Cyrl_BA": "Western Bahr el Ghazal",
         "sr_Cyrl_ME": "Western Bahr el Ghazal",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Western Bahr el Ghazal",
         "tr_TR": "Western Bahr el Ghazal",
         "tt": "Western Bahr el Ghazal",
+        "tt@iqtelif": "Western Bahr el Ghazal",
         "tt_RU": "Western Bahr el Ghazal",
         "twq": "Western Bahr el Ghazal",
         "twq_NE": "Western Bahr el Ghazal",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Western Bahr el Ghazal",
         "zh_Hant_TW": "Western Bahr el Ghazal",
         "zu": "Western Bahr el Ghazal",
-        "zu_ZA": "Western Bahr el Ghazal",
-        "sr@latin": "Western Bahr el Ghazal",
-        "tt@iqtelif": "Western Bahr el Ghazal"
+        "zu_ZA": "Western Bahr el Ghazal"
     },
     "EC": {
         "af": "Central Equatoria",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Central Equatoria",
         "sq_XK": "Central Equatoria",
         "sr": "Централни Екватор",
+        "sr@latin": "Centralni Ekvator",
         "sr_Cyrl": "Централни Екватор",
         "sr_Cyrl_BA": "Централни Екватор",
         "sr_Cyrl_ME": "Централни Екватор",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Central Equatoria",
         "tr_TR": "Central Equatoria",
         "tt": "Central Equatoria",
+        "tt@iqtelif": "Central Equatoria",
         "tt_RU": "Central Equatoria",
         "twq": "Central Equatoria",
         "twq_NE": "Central Equatoria",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Central Equatoria",
         "zh_Hant_TW": "Central Equatoria",
         "zu": "Central Equatoria",
-        "zu_ZA": "Central Equatoria",
-        "sr@latin": "Centralni Ekvator",
-        "tt@iqtelif": "Central Equatoria"
+        "zu_ZA": "Central Equatoria"
     },
     "EE": {
         "af": "Eastern Equatoria",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Eastern Equatoria",
         "sq_XK": "Eastern Equatoria",
         "sr": "Источна Екваторија",
+        "sr@latin": "Istočna Ekvatorija",
         "sr_Cyrl": "Источна Екваторија",
         "sr_Cyrl_BA": "Источна Екваторија",
         "sr_Cyrl_ME": "Источна Екваторија",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Eastern Equatoria",
         "tr_TR": "Eastern Equatoria",
         "tt": "Eastern Equatoria",
+        "tt@iqtelif": "Eastern Equatoria",
         "tt_RU": "Eastern Equatoria",
         "twq": "Eastern Equatoria",
         "twq_NE": "Eastern Equatoria",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Eastern Equatoria",
         "zh_Hant_TW": "Eastern Equatoria",
         "zu": "Eastern Equatoria",
-        "zu_ZA": "Eastern Equatoria",
-        "sr@latin": "Istočna Ekvatorija",
-        "tt@iqtelif": "Eastern Equatoria"
+        "zu_ZA": "Eastern Equatoria"
     },
     "EW": {
         "af": "Western Equatoria",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Western Equatoria",
         "sq_XK": "Western Equatoria",
         "sr": "Западна Екваторија",
+        "sr@latin": "Zapadna Ekvatorija",
         "sr_Cyrl": "Западна Екваторија",
         "sr_Cyrl_BA": "Западна Екваторија",
         "sr_Cyrl_ME": "Западна Екваторија",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Western Equatoria",
         "tr_TR": "Western Equatoria",
         "tt": "Western Equatoria",
+        "tt@iqtelif": "Western Equatoria",
         "tt_RU": "Western Equatoria",
         "twq": "Western Equatoria",
         "twq_NE": "Western Equatoria",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Western Equatoria",
         "zh_Hant_TW": "Western Equatoria",
         "zu": "Western Equatoria",
-        "zu_ZA": "Western Equatoria",
-        "sr@latin": "Zapadna Ekvatorija",
-        "tt@iqtelif": "Western Equatoria"
+        "zu_ZA": "Western Equatoria"
     },
     "JG": {
         "af": "Jonglei",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Jonglei",
         "sq_XK": "Jonglei",
         "sr": "Jonglei",
+        "sr@latin": "Jonglei",
         "sr_Cyrl": "Jonglei",
         "sr_Cyrl_BA": "Jonglei",
         "sr_Cyrl_ME": "Jonglei",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Jonglei",
         "tr_TR": "Jonglei",
         "tt": "Jonglei",
+        "tt@iqtelif": "Jonglei",
         "tt_RU": "Jonglei",
         "twq": "Jonglei",
         "twq_NE": "Jonglei",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Jonglei",
         "zh_Hant_TW": "Jonglei",
         "zu": "Jonglei",
-        "zu_ZA": "Jonglei",
-        "sr@latin": "Jonglei",
-        "tt@iqtelif": "Jonglei"
+        "zu_ZA": "Jonglei"
     },
     "LK": {
         "af": "Lakes",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Lakes",
         "sq_XK": "Lakes",
         "sr": "Лејкс",
+        "sr@latin": "Lejks",
         "sr_Cyrl": "Лејкс",
         "sr_Cyrl_BA": "Лејкс",
         "sr_Cyrl_ME": "Лејкс",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Lakes",
         "tr_TR": "Lakes",
         "tt": "Lakes",
+        "tt@iqtelif": "Lakes",
         "tt_RU": "Lakes",
         "twq": "Lakes",
         "twq_NE": "Lakes",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Lakes",
         "zh_Hant_TW": "Lakes",
         "zu": "Lakes",
-        "zu_ZA": "Lakes",
-        "sr@latin": "Lejks",
-        "tt@iqtelif": "Lakes"
+        "zu_ZA": "Lakes"
     },
     "NU": {
         "af": "Upper Nile",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Upper Nile",
         "sq_XK": "Upper Nile",
         "sr": "Горњи Нил",
+        "sr@latin": "Gornji Nil",
         "sr_Cyrl": "Горњи Нил",
         "sr_Cyrl_BA": "Горњи Нил",
         "sr_Cyrl_ME": "Горњи Нил",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Upper Nile",
         "tr_TR": "Upper Nile",
         "tt": "Upper Nile",
+        "tt@iqtelif": "Upper Nile",
         "tt_RU": "Upper Nile",
         "twq": "Upper Nile",
         "twq_NE": "Upper Nile",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Upper Nile",
         "zh_Hant_TW": "Upper Nile",
         "zu": "Upper Nile",
-        "zu_ZA": "Upper Nile",
-        "sr@latin": "Gornji Nil",
-        "tt@iqtelif": "Upper Nile"
+        "zu_ZA": "Upper Nile"
     },
     "UY": {
         "af": "Unity",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Unity",
         "sq_XK": "Unity",
         "sr": "Јунити",
+        "sr@latin": "Juniti",
         "sr_Cyrl": "Јунити",
         "sr_Cyrl_BA": "Јунити",
         "sr_Cyrl_ME": "Јунити",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Unity",
         "tr_TR": "Unity",
         "tt": "Unity",
+        "tt@iqtelif": "Unity",
         "tt_RU": "Unity",
         "twq": "Unity",
         "twq_NE": "Unity",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Unity",
         "zh_Hant_TW": "Unity",
         "zu": "Unity",
-        "zu_ZA": "Unity",
-        "sr@latin": "Juniti",
-        "tt@iqtelif": "Unity"
+        "zu_ZA": "Unity"
     },
     "WR": {
         "af": "Warrap",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Warrap",
         "sq_XK": "Warrap",
         "sr": "Варап",
+        "sr@latin": "Varap",
         "sr_Cyrl": "Варап",
         "sr_Cyrl_BA": "Варап",
         "sr_Cyrl_ME": "Варап",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Warrap",
         "tr_TR": "Warrap",
         "tt": "Warrap",
+        "tt@iqtelif": "Warrap",
         "tt_RU": "Warrap",
         "twq": "Warrap",
         "twq_NE": "Warrap",
@@ -8845,8 +8847,6 @@
         "zh_Hant_MY": "Warrap",
         "zh_Hant_TW": "Warrap",
         "zu": "Warrap",
-        "zu_ZA": "Warrap",
-        "sr@latin": "Varap",
-        "tt@iqtelif": "Warrap"
+        "zu_ZA": "Warrap"
     }
 }

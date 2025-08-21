@@ -743,6 +743,7 @@
         "sq_MK": "Batken",
         "sq_XK": "Batken",
         "sr": "Баткен",
+        "sr@latin": "Batken",
         "sr_Cyrl": "Баткен",
         "sr_Cyrl_BA": "Баткен",
         "sr_Cyrl_ME": "Баткен",
@@ -803,6 +804,7 @@
         "tr_CY": "Batken",
         "tr_TR": "Batken",
         "tt": "Batken",
+        "tt@iqtelif": "Batken",
         "tt_RU": "Batken",
         "twq": "Batken",
         "twq_NE": "Batken",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Batken",
         "zh_Hant_TW": "Batken",
         "zu": "Batken",
-        "zu_ZA": "Batken",
-        "sr@latin": "Batken",
-        "tt@iqtelif": "Batken"
+        "zu_ZA": "Batken"
     },
     "C": {
         "af": "Chuyskaya oblast'",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Chuyskaya oblast'",
         "sq_XK": "Chuyskaya oblast'",
         "sr": "Chuyskaya oblast'",
+        "sr@latin": "Chuyskaya oblast'",
         "sr_Cyrl": "Chuyskaya oblast'",
         "sr_Cyrl_BA": "Chuyskaya oblast'",
         "sr_Cyrl_ME": "Chuyskaya oblast'",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Chuyskaya oblast'",
         "tr_TR": "Chuyskaya oblast'",
         "tt": "Chuyskaya oblast'",
+        "tt@iqtelif": "Chuyskaya oblast'",
         "tt_RU": "Chuyskaya oblast'",
         "twq": "Chuyskaya oblast'",
         "twq_NE": "Chuyskaya oblast'",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Chuyskaya oblast'",
         "zh_Hant_TW": "Chuyskaya oblast'",
         "zu": "Chuyskaya oblast'",
-        "zu_ZA": "Chuyskaya oblast'",
-        "sr@latin": "Chuyskaya oblast'",
-        "tt@iqtelif": "Chuyskaya oblast'"
+        "zu_ZA": "Chuyskaya oblast'"
     },
     "GB": {
         "af": "Bishkek Shaary",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Bishkek Shaary",
         "sq_XK": "Bishkek Shaary",
         "sr": "Bishkek Shaary",
+        "sr@latin": "Bishkek Shaary",
         "sr_Cyrl": "Bishkek Shaary",
         "sr_Cyrl_BA": "Bishkek Shaary",
         "sr_Cyrl_ME": "Bishkek Shaary",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Bishkek Shaary",
         "tr_TR": "Bishkek Shaary",
         "tt": "Bishkek Shaary",
+        "tt@iqtelif": "Bishkek Shaary",
         "tt_RU": "Bishkek Shaary",
         "twq": "Bishkek Shaary",
         "twq_NE": "Bishkek Shaary",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Bishkek Shaary",
         "zh_Hant_TW": "Bishkek Shaary",
         "zu": "Bishkek Shaary",
-        "zu_ZA": "Bishkek Shaary",
-        "sr@latin": "Bishkek Shaary",
-        "tt@iqtelif": "Bishkek Shaary"
+        "zu_ZA": "Bishkek Shaary"
     },
     "GO": {
         "af": "Gorod Osh",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Gorod Osh",
         "sq_XK": "Gorod Osh",
         "sr": "Gorod Osh",
+        "sr@latin": "Gorod Osh",
         "sr_Cyrl": "Gorod Osh",
         "sr_Cyrl_BA": "Gorod Osh",
         "sr_Cyrl_ME": "Gorod Osh",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Gorod Osh",
         "tr_TR": "Gorod Osh",
         "tt": "Gorod Osh",
+        "tt@iqtelif": "Gorod Osh",
         "tt_RU": "Gorod Osh",
         "twq": "Gorod Osh",
         "twq_NE": "Gorod Osh",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Gorod Osh",
         "zh_Hant_TW": "Gorod Osh",
         "zu": "Gorod Osh",
-        "zu_ZA": "Gorod Osh",
-        "sr@latin": "Gorod Osh",
-        "tt@iqtelif": "Gorod Osh"
+        "zu_ZA": "Gorod Osh"
     },
     "J": {
         "af": "Dzhalal-Abadskaya oblast'",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Dzhalal-Abadskaya oblast'",
         "sq_XK": "Dzhalal-Abadskaya oblast'",
         "sr": "Dzhalal-Abadskaya oblast'",
+        "sr@latin": "Dzhalal-Abadskaya oblast'",
         "sr_Cyrl": "Dzhalal-Abadskaya oblast'",
         "sr_Cyrl_BA": "Dzhalal-Abadskaya oblast'",
         "sr_Cyrl_ME": "Dzhalal-Abadskaya oblast'",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Dzhalal-Abadskaya oblast'",
         "tr_TR": "Dzhalal-Abadskaya oblast'",
         "tt": "Dzhalal-Abadskaya oblast'",
+        "tt@iqtelif": "Dzhalal-Abadskaya oblast'",
         "tt_RU": "Dzhalal-Abadskaya oblast'",
         "twq": "Dzhalal-Abadskaya oblast'",
         "twq_NE": "Dzhalal-Abadskaya oblast'",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Dzhalal-Abadskaya oblast'",
         "zh_Hant_TW": "Dzhalal-Abadskaya oblast'",
         "zu": "Dzhalal-Abadskaya oblast'",
-        "zu_ZA": "Dzhalal-Abadskaya oblast'",
-        "sr@latin": "Dzhalal-Abadskaya oblast'",
-        "tt@iqtelif": "Dzhalal-Abadskaya oblast'"
+        "zu_ZA": "Dzhalal-Abadskaya oblast'"
     },
     "N": {
         "af": "Naryn",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Naryn",
         "sq_XK": "Naryn",
         "sr": "Нарин",
+        "sr@latin": "Narin",
         "sr_Cyrl": "Нарин",
         "sr_Cyrl_BA": "Нарин",
         "sr_Cyrl_ME": "Нарин",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Narın",
         "tr_TR": "Narın",
         "tt": "Naryn",
+        "tt@iqtelif": "Naryn",
         "tt_RU": "Naryn",
         "twq": "Naryn",
         "twq_NE": "Naryn",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Naryn",
         "zh_Hant_TW": "Naryn",
         "zu": "Naryn",
-        "zu_ZA": "Naryn",
-        "sr@latin": "Narin",
-        "tt@iqtelif": "Naryn"
+        "zu_ZA": "Naryn"
     },
     "O": {
         "af": "Osh",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Osh",
         "sq_XK": "Osh",
         "sr": "Ош",
+        "sr@latin": "Oš",
         "sr_Cyrl": "Ош",
         "sr_Cyrl_BA": "Ош",
         "sr_Cyrl_ME": "Ош",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Osh",
         "tr_TR": "Osh",
         "tt": "Osh",
+        "tt@iqtelif": "Osh",
         "tt_RU": "Osh",
         "twq": "Osh",
         "twq_NE": "Osh",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Osh",
         "zh_Hant_TW": "Osh",
         "zu": "Osh",
-        "zu_ZA": "Osh",
-        "sr@latin": "Oš",
-        "tt@iqtelif": "Osh"
+        "zu_ZA": "Osh"
     },
     "T": {
         "af": "Talas",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Talas",
         "sq_XK": "Talas",
         "sr": "Талас",
+        "sr@latin": "Talas",
         "sr_Cyrl": "Талас",
         "sr_Cyrl_BA": "Талас",
         "sr_Cyrl_ME": "Талас",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Talas",
         "tr_TR": "Talas",
         "tt": "Talas",
+        "tt@iqtelif": "Talas",
         "tt_RU": "Talas",
         "twq": "Talas",
         "twq_NE": "Talas",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Talas",
         "zh_Hant_TW": "Talas",
         "zu": "Talas",
-        "zu_ZA": "Talas",
-        "sr@latin": "Talas",
-        "tt@iqtelif": "Talas"
+        "zu_ZA": "Talas"
     },
     "Y": {
         "af": "Issyk-Kul'skaja oblast'",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Issyk-Kul'skaja oblast'",
         "sq_XK": "Issyk-Kul'skaja oblast'",
         "sr": "Issyk-Kul'skaja oblast'",
+        "sr@latin": "Issyk-Kul'skaja oblast'",
         "sr_Cyrl": "Issyk-Kul'skaja oblast'",
         "sr_Cyrl_BA": "Issyk-Kul'skaja oblast'",
         "sr_Cyrl_ME": "Issyk-Kul'skaja oblast'",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Issyk-Kul'skaja oblast'",
         "tr_TR": "Issyk-Kul'skaja oblast'",
         "tt": "Issyk-Kul'skaja oblast'",
+        "tt@iqtelif": "Issyk-Kul'skaja oblast'",
         "tt_RU": "Issyk-Kul'skaja oblast'",
         "twq": "Issyk-Kul'skaja oblast'",
         "twq_NE": "Issyk-Kul'skaja oblast'",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Issyk-Kul'skaja oblast'",
         "zh_Hant_TW": "Issyk-Kul'skaja oblast'",
         "zu": "Issyk-Kul'skaja oblast'",
-        "zu_ZA": "Issyk-Kul'skaja oblast'",
-        "sr@latin": "Issyk-Kul'skaja oblast'",
-        "tt@iqtelif": "Issyk-Kul'skaja oblast'"
+        "zu_ZA": "Issyk-Kul'skaja oblast'"
     }
 }

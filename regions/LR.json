@@ -743,6 +743,7 @@
         "sq_MK": "Bong",
         "sq_XK": "Bong",
         "sr": "Бонг",
+        "sr@latin": "Bong",
         "sr_Cyrl": "Бонг",
         "sr_Cyrl_BA": "Бонг",
         "sr_Cyrl_ME": "Бонг",
@@ -803,6 +804,7 @@
         "tr_CY": "Bong",
         "tr_TR": "Bong",
         "tt": "Bong",
+        "tt@iqtelif": "Bong",
         "tt_RU": "Bong",
         "twq": "Bong",
         "twq_NE": "Bong",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Bong",
         "zh_Hant_TW": "Bong",
         "zu": "Bong",
-        "zu_ZA": "Bong",
-        "sr@latin": "Bong",
-        "tt@iqtelif": "Bong"
+        "zu_ZA": "Bong"
     },
     "BM": {
         "af": "Bomi",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Bomi",
         "sq_XK": "Bomi",
         "sr": "Боми",
+        "sr@latin": "Bomi",
         "sr_Cyrl": "Боми",
         "sr_Cyrl_BA": "Боми",
         "sr_Cyrl_ME": "Боми",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Bomi",
         "tr_TR": "Bomi",
         "tt": "Bomi",
+        "tt@iqtelif": "Bomi",
         "tt_RU": "Bomi",
         "twq": "Bomi",
         "twq_NE": "Bomi",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Bomi",
         "zh_Hant_TW": "Bomi",
         "zu": "Bomi",
-        "zu_ZA": "Bomi",
-        "sr@latin": "Bomi",
-        "tt@iqtelif": "Bomi"
+        "zu_ZA": "Bomi"
     },
     "CM": {
         "af": "Grand Cape Mount",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Grand Cape Mount",
         "sq_XK": "Grand Cape Mount",
         "sr": "Гренд Кејп Маунт",
+        "sr@latin": "Grend Kejp Maunt",
         "sr_Cyrl": "Гренд Кејп Маунт",
         "sr_Cyrl_BA": "Гренд Кејп Маунт",
         "sr_Cyrl_ME": "Гренд Кејп Маунт",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Grand Cape Mount",
         "tr_TR": "Grand Cape Mount",
         "tt": "Grand Cape Mount",
+        "tt@iqtelif": "Grand Cape Mount",
         "tt_RU": "Grand Cape Mount",
         "twq": "Grand Cape Mount",
         "twq_NE": "Grand Cape Mount",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Grand Cape Mount",
         "zh_Hant_TW": "Grand Cape Mount",
         "zu": "Grand Cape Mount",
-        "zu_ZA": "Grand Cape Mount",
-        "sr@latin": "Grend Kejp Maunt",
-        "tt@iqtelif": "Grand Cape Mount"
+        "zu_ZA": "Grand Cape Mount"
     },
     "GB": {
         "af": "Grand Bassa",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Grand Bassa",
         "sq_XK": "Grand Bassa",
         "sr": "Гренд Баса",
+        "sr@latin": "Grend Basa",
         "sr_Cyrl": "Гренд Баса",
         "sr_Cyrl_BA": "Гренд Баса",
         "sr_Cyrl_ME": "Гренд Баса",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Grand Bassa",
         "tr_TR": "Grand Bassa",
         "tt": "Grand Bassa",
+        "tt@iqtelif": "Grand Bassa",
         "tt_RU": "Grand Bassa",
         "twq": "Grand Bassa",
         "twq_NE": "Grand Bassa",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Grand Bassa",
         "zh_Hant_TW": "Grand Bassa",
         "zu": "Grand Bassa",
-        "zu_ZA": "Grand Bassa",
-        "sr@latin": "Grend Basa",
-        "tt@iqtelif": "Grand Bassa"
+        "zu_ZA": "Grand Bassa"
     },
     "GG": {
         "af": "Grand Gedeh",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Grand Gedeh",
         "sq_XK": "Grand Gedeh",
         "sr": "Гренд Гедех",
+        "sr@latin": "Grend Gedeh",
         "sr_Cyrl": "Гренд Гедех",
         "sr_Cyrl_BA": "Гренд Гедех",
         "sr_Cyrl_ME": "Гренд Гедех",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Grand Gedeh",
         "tr_TR": "Grand Gedeh",
         "tt": "Grand Gedeh",
+        "tt@iqtelif": "Grand Gedeh",
         "tt_RU": "Grand Gedeh",
         "twq": "Grand Gedeh",
         "twq_NE": "Grand Gedeh",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Grand Gedeh",
         "zh_Hant_TW": "Grand Gedeh",
         "zu": "Grand Gedeh",
-        "zu_ZA": "Grand Gedeh",
-        "sr@latin": "Grend Gedeh",
-        "tt@iqtelif": "Grand Gedeh"
+        "zu_ZA": "Grand Gedeh"
     },
     "GK": {
         "af": "Grand Kru",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Grand Kru",
         "sq_XK": "Grand Kru",
         "sr": "Гренд Кру",
+        "sr@latin": "Grend Kru",
         "sr_Cyrl": "Гренд Кру",
         "sr_Cyrl_BA": "Гренд Кру",
         "sr_Cyrl_ME": "Гренд Кру",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Grand Kru",
         "tr_TR": "Grand Kru",
         "tt": "Grand Kru",
+        "tt@iqtelif": "Grand Kru",
         "tt_RU": "Grand Kru",
         "twq": "Grand Kru",
         "twq_NE": "Grand Kru",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Grand Kru",
         "zh_Hant_TW": "Grand Kru",
         "zu": "Grand Kru",
-        "zu_ZA": "Grand Kru",
-        "sr@latin": "Grend Kru",
-        "tt@iqtelif": "Grand Kru"
+        "zu_ZA": "Grand Kru"
     },
     "GP": {
         "af": "Gbarpolu",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Gbarpolu",
         "sq_XK": "Gbarpolu",
         "sr": "Gbarpolu",
+        "sr@latin": "Gbarpolu",
         "sr_Cyrl": "Gbarpolu",
         "sr_Cyrl_BA": "Gbarpolu",
         "sr_Cyrl_ME": "Gbarpolu",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Gbarpolu",
         "tr_TR": "Gbarpolu",
         "tt": "Gbarpolu",
+        "tt@iqtelif": "Gbarpolu",
         "tt_RU": "Gbarpolu",
         "twq": "Gbarpolu",
         "twq_NE": "Gbarpolu",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Gbarpolu",
         "zh_Hant_TW": "Gbarpolu",
         "zu": "Gbarpolu",
-        "zu_ZA": "Gbarpolu",
-        "sr@latin": "Gbarpolu",
-        "tt@iqtelif": "Gbarpolu"
+        "zu_ZA": "Gbarpolu"
     },
     "LO": {
         "af": "Lofa",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Lofa",
         "sq_XK": "Lofa",
         "sr": "Лофа",
+        "sr@latin": "Lofa",
         "sr_Cyrl": "Лофа",
         "sr_Cyrl_BA": "Лофа",
         "sr_Cyrl_ME": "Лофа",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Lofa",
         "tr_TR": "Lofa",
         "tt": "Lofa",
+        "tt@iqtelif": "Lofa",
         "tt_RU": "Lofa",
         "twq": "Lofa",
         "twq_NE": "Lofa",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Lofa",
         "zh_Hant_TW": "Lofa",
         "zu": "Lofa",
-        "zu_ZA": "Lofa",
-        "sr@latin": "Lofa",
-        "tt@iqtelif": "Lofa"
+        "zu_ZA": "Lofa"
     },
     "MG": {
         "af": "Margibi",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Margibi",
         "sq_XK": "Margibi",
         "sr": "Маргиби",
+        "sr@latin": "Margibi",
         "sr_Cyrl": "Маргиби",
         "sr_Cyrl_BA": "Маргиби",
         "sr_Cyrl_ME": "Маргиби",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Margibi",
         "tr_TR": "Margibi",
         "tt": "Margibi",
+        "tt@iqtelif": "Margibi",
         "tt_RU": "Margibi",
         "twq": "Margibi",
         "twq_NE": "Margibi",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Margibi",
         "zh_Hant_TW": "Margibi",
         "zu": "Margibi",
-        "zu_ZA": "Margibi",
-        "sr@latin": "Margibi",
-        "tt@iqtelif": "Margibi"
+        "zu_ZA": "Margibi"
     },
     "MO": {
         "af": "Montserrado",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Montserrado",
         "sq_XK": "Montserrado",
         "sr": "Монтсерадо",
+        "sr@latin": "Montserado",
         "sr_Cyrl": "Монтсерадо",
         "sr_Cyrl_BA": "Монтсерадо",
         "sr_Cyrl_ME": "Монтсерадо",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Montserrado",
         "tr_TR": "Montserrado",
         "tt": "Montserrado",
+        "tt@iqtelif": "Montserrado",
         "tt_RU": "Montserrado",
         "twq": "Montserrado",
         "twq_NE": "Montserrado",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Montserrado",
         "zh_Hant_TW": "Montserrado",
         "zu": "Montserrado",
-        "zu_ZA": "Montserrado",
-        "sr@latin": "Montserado",
-        "tt@iqtelif": "Montserrado"
+        "zu_ZA": "Montserrado"
     },
     "MY": {
         "af": "Maryland",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Maryland",
         "sq_XK": "Maryland",
         "sr": "Мериленд",
+        "sr@latin": "Merilend",
         "sr_Cyrl": "Мериленд",
         "sr_Cyrl_BA": "Мериленд",
         "sr_Cyrl_ME": "Мериленд",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Maryland",
         "tr_TR": "Maryland",
         "tt": "Maryland",
+        "tt@iqtelif": "Maryland",
         "tt_RU": "Maryland",
         "twq": "Maryland",
         "twq_NE": "Maryland",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Maryland",
         "zh_Hant_TW": "Maryland",
         "zu": "Maryland",
-        "zu_ZA": "Maryland",
-        "sr@latin": "Merilend",
-        "tt@iqtelif": "Maryland"
+        "zu_ZA": "Maryland"
     },
     "NI": {
         "af": "Nimba",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Nimba",
         "sq_XK": "Nimba",
         "sr": "Нимба",
+        "sr@latin": "Nimba",
         "sr_Cyrl": "Нимба",
         "sr_Cyrl_BA": "Нимба",
         "sr_Cyrl_ME": "Нимба",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Nimba",
         "tr_TR": "Nimba",
         "tt": "Nimba",
+        "tt@iqtelif": "Nimba",
         "tt_RU": "Nimba",
         "twq": "Nimba",
         "twq_NE": "Nimba",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Nimba",
         "zh_Hant_TW": "Nimba",
         "zu": "Nimba",
-        "zu_ZA": "Nimba",
-        "sr@latin": "Nimba",
-        "tt@iqtelif": "Nimba"
+        "zu_ZA": "Nimba"
     },
     "RG": {
         "af": "River Gee",
@@ -11363,6 +11363,7 @@
         "sq_MK": "River Gee",
         "sq_XK": "River Gee",
         "sr": "River Gee",
+        "sr@latin": "River Gee",
         "sr_Cyrl": "River Gee",
         "sr_Cyrl_BA": "River Gee",
         "sr_Cyrl_ME": "River Gee",
@@ -11423,6 +11424,7 @@
         "tr_CY": "River Gee",
         "tr_TR": "River Gee",
         "tt": "River Gee",
+        "tt@iqtelif": "River Gee",
         "tt_RU": "River Gee",
         "twq": "River Gee",
         "twq_NE": "River Gee",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "River Gee",
         "zh_Hant_TW": "River Gee",
         "zu": "River Gee",
-        "zu_ZA": "River Gee",
-        "sr@latin": "River Gee",
-        "tt@iqtelif": "River Gee"
+        "zu_ZA": "River Gee"
     },
     "RI": {
         "af": "River Cess",
@@ -12248,6 +12248,7 @@
         "sq_MK": "River Cess",
         "sq_XK": "River Cess",
         "sr": "River Cess",
+        "sr@latin": "River Cess",
         "sr_Cyrl": "River Cess",
         "sr_Cyrl_BA": "River Cess",
         "sr_Cyrl_ME": "River Cess",
@@ -12308,6 +12309,7 @@
         "tr_CY": "River Cess",
         "tr_TR": "River Cess",
         "tt": "River Cess",
+        "tt@iqtelif": "River Cess",
         "tt_RU": "River Cess",
         "twq": "River Cess",
         "twq_NE": "River Cess",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "River Cess",
         "zh_Hant_TW": "River Cess",
         "zu": "River Cess",
-        "zu_ZA": "River Cess",
-        "sr@latin": "River Cess",
-        "tt@iqtelif": "River Cess"
+        "zu_ZA": "River Cess"
     },
     "SI": {
         "af": "Sinoe",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Sinoe",
         "sq_XK": "Sinoe",
         "sr": "Синое",
+        "sr@latin": "Sinoe",
         "sr_Cyrl": "Синое",
         "sr_Cyrl_BA": "Синое",
         "sr_Cyrl_ME": "Синое",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Sinoe",
         "tr_TR": "Sinoe",
         "tt": "Sinoe",
+        "tt@iqtelif": "Sinoe",
         "tt_RU": "Sinoe",
         "twq": "Sinoe",
         "twq_NE": "Sinoe",
@@ -13270,8 +13272,6 @@
         "zh_Hant_MY": "Sinoe",
         "zh_Hant_TW": "Sinoe",
         "zu": "Sinoe",
-        "zu_ZA": "Sinoe",
-        "sr@latin": "Sinoe",
-        "tt@iqtelif": "Sinoe"
+        "zu_ZA": "Sinoe"
     }
 }

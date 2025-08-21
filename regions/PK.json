@@ -743,6 +743,7 @@
         "sq_MK": "Balochistan",
         "sq_XK": "Balochistan",
         "sr": "Балочистан",
+        "sr@latin": "Baločistan",
         "sr_Cyrl": "Балочистан",
         "sr_Cyrl_BA": "Балочистан",
         "sr_Cyrl_ME": "Балочистан",
@@ -803,6 +804,7 @@
         "tr_CY": "Belucistan",
         "tr_TR": "Belucistan",
         "tt": "Balochistan",
+        "tt@iqtelif": "Balochistan",
         "tt_RU": "Balochistan",
         "twq": "Balochistan",
         "twq_NE": "Balochistan",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Balochistan",
         "zh_Hant_TW": "Balochistan",
         "zu": "Balochistan",
-        "zu_ZA": "Balochistan",
-        "sr@latin": "Baločistan",
-        "tt@iqtelif": "Balochistan"
+        "zu_ZA": "Balochistan"
     },
     "GB": {
         "af": "Gilgit-Baltistan",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Gilgit-Baltistan",
         "sq_XK": "Gilgit-Baltistan",
         "sr": "Гилгит-Балтистан",
+        "sr@latin": "Gilgit-Baltistan",
         "sr_Cyrl": "Гилгит-Балтистан",
         "sr_Cyrl_BA": "Гилгит-Балтистан",
         "sr_Cyrl_ME": "Гилгит-Балтистан",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Gilgit-Baltistan",
         "tr_TR": "Gilgit-Baltistan",
         "tt": "Gilgit-Baltistan",
+        "tt@iqtelif": "Gilgit-Baltistan",
         "tt_RU": "Gilgit-Baltistan",
         "twq": "Gilgit-Baltistan",
         "twq_NE": "Gilgit-Baltistan",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Gilgit-Baltistan",
         "zh_Hant_TW": "Gilgit-Baltistan",
         "zu": "Gilgit-Baltistan",
-        "zu_ZA": "Gilgit-Baltistan",
-        "sr@latin": "Gilgit-Baltistan",
-        "tt@iqtelif": "Gilgit-Baltistan"
+        "zu_ZA": "Gilgit-Baltistan"
     },
     "IS": {
         "af": "Islamabad",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Islamabad",
         "sq_XK": "Islamabad",
         "sr": "Исламабад",
+        "sr@latin": "Islamabad",
         "sr_Cyrl": "Исламабад",
         "sr_Cyrl_BA": "Исламабад",
         "sr_Cyrl_ME": "Исламабад",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Islamabad",
         "tr_TR": "Islamabad",
         "tt": "Islamabad",
+        "tt@iqtelif": "Islamabad",
         "tt_RU": "Islamabad",
         "twq": "Islamabad",
         "twq_NE": "Islamabad",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Islamabad",
         "zh_Hant_TW": "Islamabad",
         "zu": "Islamabad",
-        "zu_ZA": "Islamabad",
-        "sr@latin": "Islamabad",
-        "tt@iqtelif": "Islamabad"
+        "zu_ZA": "Islamabad"
     },
     "JK": {
         "af": "Azad Jammu and Kashmir",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Azad Jammu and Kashmir",
         "sq_XK": "Azad Jammu and Kashmir",
         "sr": "Azad Jammu and Kashmir",
+        "sr@latin": "Azad Jammu and Kashmir",
         "sr_Cyrl": "Azad Jammu and Kashmir",
         "sr_Cyrl_BA": "Azad Jammu and Kashmir",
         "sr_Cyrl_ME": "Azad Jammu and Kashmir",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Azad Jammu and Kashmir",
         "tr_TR": "Azad Jammu and Kashmir",
         "tt": "Azad Jammu and Kashmir",
+        "tt@iqtelif": "Azad Jammu and Kashmir",
         "tt_RU": "Azad Jammu and Kashmir",
         "twq": "Azad Jammu and Kashmir",
         "twq_NE": "Azad Jammu and Kashmir",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Azad Jammu and Kashmir",
         "zh_Hant_TW": "Azad Jammu and Kashmir",
         "zu": "Azad Jammu and Kashmir",
-        "zu_ZA": "Azad Jammu and Kashmir",
-        "sr@latin": "Azad Jammu and Kashmir",
-        "tt@iqtelif": "Azad Jammu and Kashmir"
+        "zu_ZA": "Azad Jammu and Kashmir"
     },
     "KP": {
         "af": "Khyber Pakhtunkhwa",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Khyber Pakhtunkhwa",
         "sq_XK": "Khyber Pakhtunkhwa",
         "sr": "Khyber Pakhtunkhwa",
+        "sr@latin": "Khyber Pakhtunkhwa",
         "sr_Cyrl": "Khyber Pakhtunkhwa",
         "sr_Cyrl_BA": "Khyber Pakhtunkhwa",
         "sr_Cyrl_ME": "Khyber Pakhtunkhwa",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Khyber Pakhtunkhwa",
         "tr_TR": "Khyber Pakhtunkhwa",
         "tt": "Khyber Pakhtunkhwa",
+        "tt@iqtelif": "Khyber Pakhtunkhwa",
         "tt_RU": "Khyber Pakhtunkhwa",
         "twq": "Khyber Pakhtunkhwa",
         "twq_NE": "Khyber Pakhtunkhwa",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Khyber Pakhtunkhwa",
         "zh_Hant_TW": "Khyber Pakhtunkhwa",
         "zu": "Khyber Pakhtunkhwa",
-        "zu_ZA": "Khyber Pakhtunkhwa",
-        "sr@latin": "Khyber Pakhtunkhwa",
-        "tt@iqtelif": "Khyber Pakhtunkhwa"
+        "zu_ZA": "Khyber Pakhtunkhwa"
     },
     "PB": {
         "af": "Punjab",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Punjab",
         "sq_XK": "Punjab",
         "sr": "Панџаб",
+        "sr@latin": "Pandžab",
         "sr_Cyrl": "Панџаб",
         "sr_Cyrl_BA": "Панџаб",
         "sr_Cyrl_ME": "Панџаб",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Pencap",
         "tr_TR": "Pencap",
         "tt": "Punjab",
+        "tt@iqtelif": "Punjab",
         "tt_RU": "Punjab",
         "twq": "Punjab",
         "twq_NE": "Punjab",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Punjab",
         "zh_Hant_TW": "Punjab",
         "zu": "Punjab",
-        "zu_ZA": "Punjab",
-        "sr@latin": "Pandžab",
-        "tt@iqtelif": "Punjab"
+        "zu_ZA": "Punjab"
     },
     "SD": {
         "af": "Sindh",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Sindh",
         "sq_XK": "Sindh",
         "sr": "Синд",
+        "sr@latin": "Sind",
         "sr_Cyrl": "Синд",
         "sr_Cyrl_BA": "Синд",
         "sr_Cyrl_ME": "Синд",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Sindh",
         "tr_TR": "Sindh",
         "tt": "Sindh",
+        "tt@iqtelif": "Sindh",
         "tt_RU": "Sindh",
         "twq": "Sindh",
         "twq_NE": "Sindh",
@@ -6190,8 +6192,6 @@
         "zh_Hant_MY": "Sindh",
         "zh_Hant_TW": "Sindh",
         "zu": "Sindh",
-        "zu_ZA": "Sindh",
-        "sr@latin": "Sind",
-        "tt@iqtelif": "Sindh"
+        "zu_ZA": "Sindh"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Ahuachapán",
         "sq_XK": "Ahuachapán",
         "sr": "Ахуачапан",
+        "sr@latin": "Ahuačapan",
         "sr_Cyrl": "Ахуачапан",
         "sr_Cyrl_BA": "Ахуачапан",
         "sr_Cyrl_ME": "Ахуачапан",
@@ -803,6 +804,7 @@
         "tr_CY": "Ahuachapán",
         "tr_TR": "Ahuachapán",
         "tt": "Ahuachapán",
+        "tt@iqtelif": "Ahuachapán",
         "tt_RU": "Ahuachapán",
         "twq": "Ahuachapán",
         "twq_NE": "Ahuachapán",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ahuachapán",
         "zh_Hant_TW": "Ahuachapán",
         "zu": "Ahuachapán",
-        "zu_ZA": "Ahuachapán",
-        "sr@latin": "Ahuačapan",
-        "tt@iqtelif": "Ahuachapán"
+        "zu_ZA": "Ahuachapán"
     },
     "CA": {
         "af": "Cabañas",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Cabañas",
         "sq_XK": "Cabañas",
         "sr": "Кабањас",
+        "sr@latin": "Kabanjas",
         "sr_Cyrl": "Кабањас",
         "sr_Cyrl_BA": "Кабањас",
         "sr_Cyrl_ME": "Кабањас",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Cabanas",
         "tr_TR": "Cabanas",
         "tt": "Cabañas",
+        "tt@iqtelif": "Cabañas",
         "tt_RU": "Cabañas",
         "twq": "Cabañas",
         "twq_NE": "Cabañas",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Cabañas",
         "zh_Hant_TW": "Cabañas",
         "zu": "Cabañas",
-        "zu_ZA": "Cabañas",
-        "sr@latin": "Kabanjas",
-        "tt@iqtelif": "Cabañas"
+        "zu_ZA": "Cabañas"
     },
     "CH": {
         "af": "Chalatenango",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Chalatenango",
         "sq_XK": "Chalatenango",
         "sr": "Чалатенанго",
+        "sr@latin": "Čalatenango",
         "sr_Cyrl": "Чалатенанго",
         "sr_Cyrl_BA": "Чалатенанго",
         "sr_Cyrl_ME": "Чалатенанго",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Chalatenango",
         "tr_TR": "Chalatenango",
         "tt": "Chalatenango",
+        "tt@iqtelif": "Chalatenango",
         "tt_RU": "Chalatenango",
         "twq": "Chalatenango",
         "twq_NE": "Chalatenango",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Chalatenango",
         "zh_Hant_TW": "Chalatenango",
         "zu": "Chalatenango",
-        "zu_ZA": "Chalatenango",
-        "sr@latin": "Čalatenango",
-        "tt@iqtelif": "Chalatenango"
+        "zu_ZA": "Chalatenango"
     },
     "CU": {
         "af": "Cuscatlán",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Cuscatlán",
         "sq_XK": "Cuscatlán",
         "sr": "Кускатлан",
+        "sr@latin": "Kuskatlan",
         "sr_Cyrl": "Кускатлан",
         "sr_Cyrl_BA": "Кускатлан",
         "sr_Cyrl_ME": "Кускатлан",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Cuscatlán",
         "tr_TR": "Cuscatlán",
         "tt": "Cuscatlán",
+        "tt@iqtelif": "Cuscatlán",
         "tt_RU": "Cuscatlán",
         "twq": "Cuscatlán",
         "twq_NE": "Cuscatlán",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Cuscatlán",
         "zh_Hant_TW": "Cuscatlán",
         "zu": "Cuscatlán",
-        "zu_ZA": "Cuscatlán",
-        "sr@latin": "Kuskatlan",
-        "tt@iqtelif": "Cuscatlán"
+        "zu_ZA": "Cuscatlán"
     },
     "LI": {
         "af": "La Libertad",
@@ -4283,6 +4283,7 @@
         "sq_MK": "La Libertad",
         "sq_XK": "La Libertad",
         "sr": "Ла Либертад",
+        "sr@latin": "La Libertad",
         "sr_Cyrl": "Ла Либертад",
         "sr_Cyrl_BA": "Ла Либертад",
         "sr_Cyrl_ME": "Ла Либертад",
@@ -4343,6 +4344,7 @@
         "tr_CY": "La Libertad",
         "tr_TR": "La Libertad",
         "tt": "La Libertad",
+        "tt@iqtelif": "La Libertad",
         "tt_RU": "La Libertad",
         "twq": "La Libertad",
         "twq_NE": "La Libertad",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "La Libertad",
         "zh_Hant_TW": "La Libertad",
         "zu": "La Libertad",
-        "zu_ZA": "La Libertad",
-        "sr@latin": "La Libertad",
-        "tt@iqtelif": "La Libertad"
+        "zu_ZA": "La Libertad"
     },
     "MO": {
         "af": "Morazán",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Morazán",
         "sq_XK": "Morazán",
         "sr": "Моразан",
+        "sr@latin": "Morazan",
         "sr_Cyrl": "Моразан",
         "sr_Cyrl_BA": "Моразан",
         "sr_Cyrl_ME": "Моразан",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Morazan",
         "tr_TR": "Morazan",
         "tt": "Morazán",
+        "tt@iqtelif": "Morazán",
         "tt_RU": "Morazán",
         "twq": "Morazán",
         "twq_NE": "Morazán",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Morazán",
         "zh_Hant_TW": "Morazán",
         "zu": "Morazán",
-        "zu_ZA": "Morazán",
-        "sr@latin": "Morazan",
-        "tt@iqtelif": "Morazán"
+        "zu_ZA": "Morazán"
     },
     "PA": {
         "af": "La Paz",
@@ -6053,6 +6053,7 @@
         "sq_MK": "La Paz",
         "sq_XK": "La Paz",
         "sr": "Ла Паз",
+        "sr@latin": "La Paz",
         "sr_Cyrl": "Ла Паз",
         "sr_Cyrl_BA": "Ла Паз",
         "sr_Cyrl_ME": "Ла Паз",
@@ -6113,6 +6114,7 @@
         "tr_CY": "La Paz",
         "tr_TR": "La Paz",
         "tt": "La Paz",
+        "tt@iqtelif": "La Paz",
         "tt_RU": "La Paz",
         "twq": "La Paz",
         "twq_NE": "La Paz",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "La Paz",
         "zh_Hant_TW": "La Paz",
         "zu": "La Paz",
-        "zu_ZA": "La Paz",
-        "sr@latin": "La Paz",
-        "tt@iqtelif": "La Paz"
+        "zu_ZA": "La Paz"
     },
     "SA": {
         "af": "Santa Ana",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Santa Ana",
         "sq_XK": "Santa Ana",
         "sr": "Санта Ана",
+        "sr@latin": "Santa Ana",
         "sr_Cyrl": "Санта Ана",
         "sr_Cyrl_BA": "Санта Ана",
         "sr_Cyrl_ME": "Санта Ана",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Santa Ana",
         "tr_TR": "Santa Ana",
         "tt": "Santa Ana",
+        "tt@iqtelif": "Santa Ana",
         "tt_RU": "Santa Ana",
         "twq": "Santa Ana",
         "twq_NE": "Santa Ana",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Santa Ana",
         "zh_Hant_TW": "Santa Ana",
         "zu": "Santa Ana",
-        "zu_ZA": "Santa Ana",
-        "sr@latin": "Santa Ana",
-        "tt@iqtelif": "Santa Ana"
+        "zu_ZA": "Santa Ana"
     },
     "SM": {
         "af": "San Miguel",
@@ -7823,6 +7823,7 @@
         "sq_MK": "San Miguel",
         "sq_XK": "San Miguel",
         "sr": "Сан Мигел",
+        "sr@latin": "San Migel",
         "sr_Cyrl": "Сан Мигел",
         "sr_Cyrl_BA": "Сан Мигел",
         "sr_Cyrl_ME": "Сан Мигел",
@@ -7883,6 +7884,7 @@
         "tr_CY": "San Miguel",
         "tr_TR": "San Miguel",
         "tt": "San Miguel",
+        "tt@iqtelif": "San Miguel",
         "tt_RU": "San Miguel",
         "twq": "San Miguel",
         "twq_NE": "San Miguel",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "San Miguel",
         "zh_Hant_TW": "San Miguel",
         "zu": "San Miguel",
-        "zu_ZA": "San Miguel",
-        "sr@latin": "San Migel",
-        "tt@iqtelif": "San Miguel"
+        "zu_ZA": "San Miguel"
     },
     "SO": {
         "af": "Sonsonate",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Sonsonate",
         "sq_XK": "Sonsonate",
         "sr": "Sonsonate",
+        "sr@latin": "Sonsonate",
         "sr_Cyrl": "Sonsonate",
         "sr_Cyrl_BA": "Sonsonate",
         "sr_Cyrl_ME": "Sonsonate",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Sonsonate",
         "tr_TR": "Sonsonate",
         "tt": "Sonsonate",
+        "tt@iqtelif": "Sonsonate",
         "tt_RU": "Sonsonate",
         "twq": "Sonsonate",
         "twq_NE": "Sonsonate",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Sonsonate",
         "zh_Hant_TW": "Sonsonate",
         "zu": "Sonsonate",
-        "zu_ZA": "Sonsonate",
-        "sr@latin": "Sonsonate",
-        "tt@iqtelif": "Sonsonate"
+        "zu_ZA": "Sonsonate"
     },
     "SS": {
         "af": "San Salvador",
@@ -9593,6 +9593,7 @@
         "sq_MK": "San Salvador",
         "sq_XK": "San Salvador",
         "sr": "Сан Салвадор",
+        "sr@latin": "San Salvador",
         "sr_Cyrl": "Сан Салвадор",
         "sr_Cyrl_BA": "Сан Салвадор",
         "sr_Cyrl_ME": "Сан Салвадор",
@@ -9653,6 +9654,7 @@
         "tr_CY": "San Salvador",
         "tr_TR": "San Salvador",
         "tt": "San Salvador",
+        "tt@iqtelif": "San Salvador",
         "tt_RU": "San Salvador",
         "twq": "San Salvador",
         "twq_NE": "San Salvador",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "San Salvador",
         "zh_Hant_TW": "San Salvador",
         "zu": "San Salvador",
-        "zu_ZA": "San Salvador",
-        "sr@latin": "San Salvador",
-        "tt@iqtelif": "San Salvador"
+        "zu_ZA": "San Salvador"
     },
     "SV": {
         "af": "San Vicente",
@@ -10478,6 +10478,7 @@
         "sq_MK": "San Vicente",
         "sq_XK": "San Vicente",
         "sr": "San Vicente",
+        "sr@latin": "San Vicente",
         "sr_Cyrl": "San Vicente",
         "sr_Cyrl_BA": "San Vicente",
         "sr_Cyrl_ME": "San Vicente",
@@ -10538,6 +10539,7 @@
         "tr_CY": "San Vicente",
         "tr_TR": "San Vicente",
         "tt": "San Vicente",
+        "tt@iqtelif": "San Vicente",
         "tt_RU": "San Vicente",
         "twq": "San Vicente",
         "twq_NE": "San Vicente",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "San Vicente",
         "zh_Hant_TW": "San Vicente",
         "zu": "San Vicente",
-        "zu_ZA": "San Vicente",
-        "sr@latin": "San Vicente",
-        "tt@iqtelif": "San Vicente"
+        "zu_ZA": "San Vicente"
     },
     "UN": {
         "af": "La Unión",
@@ -11363,6 +11363,7 @@
         "sq_MK": "La Unión",
         "sq_XK": "La Unión",
         "sr": "Ла Уњион",
+        "sr@latin": "La Unjion",
         "sr_Cyrl": "Ла Уњион",
         "sr_Cyrl_BA": "Ла Уњион",
         "sr_Cyrl_ME": "Ла Уњион",
@@ -11423,6 +11424,7 @@
         "tr_CY": "La Union",
         "tr_TR": "La Union",
         "tt": "La Unión",
+        "tt@iqtelif": "La Unión",
         "tt_RU": "La Unión",
         "twq": "La Unión",
         "twq_NE": "La Unión",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "La Unión",
         "zh_Hant_TW": "La Unión",
         "zu": "La Unión",
-        "zu_ZA": "La Unión",
-        "sr@latin": "La Unjion",
-        "tt@iqtelif": "La Unión"
+        "zu_ZA": "La Unión"
     },
     "US": {
         "af": "Usulután",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Usulután",
         "sq_XK": "Usulután",
         "sr": "Usulután",
+        "sr@latin": "Usulután",
         "sr_Cyrl": "Usulután",
         "sr_Cyrl_BA": "Usulután",
         "sr_Cyrl_ME": "Usulután",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Usulután",
         "tr_TR": "Usulután",
         "tt": "Usulután",
+        "tt@iqtelif": "Usulután",
         "tt_RU": "Usulután",
         "twq": "Usulután",
         "twq_NE": "Usulután",
@@ -12385,8 +12387,6 @@
         "zh_Hant_MY": "Usulután",
         "zh_Hant_TW": "Usulután",
         "zu": "Usulután",
-        "zu_ZA": "Usulután",
-        "sr@latin": "Usulután",
-        "tt@iqtelif": "Usulután"
+        "zu_ZA": "Usulután"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Distrito Capital",
         "sq_XK": "Distrito Capital",
         "sr": "Distrito Capital",
+        "sr@latin": "Distrito Capital",
         "sr_Cyrl": "Distrito Capital",
         "sr_Cyrl_BA": "Distrito Capital",
         "sr_Cyrl_ME": "Distrito Capital",
@@ -803,6 +804,7 @@
         "tr_CY": "Distrito Capital",
         "tr_TR": "Distrito Capital",
         "tt": "Distrito Capital",
+        "tt@iqtelif": "Distrito Capital",
         "tt_RU": "Distrito Capital",
         "twq": "Distrito Capital",
         "twq_NE": "Distrito Capital",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Distrito Capital",
         "zh_Hant_TW": "Distrito Capital",
         "zu": "Distrito Capital",
-        "zu_ZA": "Distrito Capital",
-        "sr@latin": "Distrito Capital",
-        "tt@iqtelif": "Distrito Capital"
+        "zu_ZA": "Distrito Capital"
     },
     "B": {
         "af": "Anzoátegui",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Anzoátegui",
         "sq_XK": "Anzoátegui",
         "sr": "Anzoátegui",
+        "sr@latin": "Anzoátegui",
         "sr_Cyrl": "Anzoátegui",
         "sr_Cyrl_BA": "Anzoátegui",
         "sr_Cyrl_ME": "Anzoátegui",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Anzoátegui",
         "tr_TR": "Anzoátegui",
         "tt": "Anzoátegui",
+        "tt@iqtelif": "Anzoátegui",
         "tt_RU": "Anzoátegui",
         "twq": "Anzoátegui",
         "twq_NE": "Anzoátegui",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Anzoátegui",
         "zh_Hant_TW": "Anzoátegui",
         "zu": "Anzoátegui",
-        "zu_ZA": "Anzoátegui",
-        "sr@latin": "Anzoátegui",
-        "tt@iqtelif": "Anzoátegui"
+        "zu_ZA": "Anzoátegui"
     },
     "C": {
         "af": "Apure",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Apure",
         "sq_XK": "Apure",
         "sr": "Апуре",
+        "sr@latin": "Apure",
         "sr_Cyrl": "Апуре",
         "sr_Cyrl_BA": "Апуре",
         "sr_Cyrl_ME": "Апуре",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Apure",
         "tr_TR": "Apure",
         "tt": "Apure",
+        "tt@iqtelif": "Apure",
         "tt_RU": "Apure",
         "twq": "Apure",
         "twq_NE": "Apure",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Apure",
         "zh_Hant_TW": "Apure",
         "zu": "Apure",
-        "zu_ZA": "Apure",
-        "sr@latin": "Apure",
-        "tt@iqtelif": "Apure"
+        "zu_ZA": "Apure"
     },
     "D": {
         "af": "Aragua",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Aragua",
         "sq_XK": "Aragua",
         "sr": "Арагва",
+        "sr@latin": "Aragva",
         "sr_Cyrl": "Арагва",
         "sr_Cyrl_BA": "Арагва",
         "sr_Cyrl_ME": "Арагва",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Aragua",
         "tr_TR": "Aragua",
         "tt": "Aragua",
+        "tt@iqtelif": "Aragua",
         "tt_RU": "Aragua",
         "twq": "Aragua",
         "twq_NE": "Aragua",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Aragua",
         "zh_Hant_TW": "Aragua",
         "zu": "Aragua",
-        "zu_ZA": "Aragua",
-        "sr@latin": "Aragva",
-        "tt@iqtelif": "Aragua"
+        "zu_ZA": "Aragua"
     },
     "E": {
         "af": "Barinas",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Barinas",
         "sq_XK": "Barinas",
         "sr": "Баринас",
+        "sr@latin": "Barinas",
         "sr_Cyrl": "Баринас",
         "sr_Cyrl_BA": "Баринас",
         "sr_Cyrl_ME": "Баринас",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Barinas",
         "tr_TR": "Barinas",
         "tt": "Barinas",
+        "tt@iqtelif": "Barinas",
         "tt_RU": "Barinas",
         "twq": "Barinas",
         "twq_NE": "Barinas",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Barinas",
         "zh_Hant_TW": "Barinas",
         "zu": "Barinas",
-        "zu_ZA": "Barinas",
-        "sr@latin": "Barinas",
-        "tt@iqtelif": "Barinas"
+        "zu_ZA": "Barinas"
     },
     "F": {
         "af": "Bolívar",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Bolívar",
         "sq_XK": "Bolívar",
         "sr": "боливар",
+        "sr@latin": "bolivar",
         "sr_Cyrl": "боливар",
         "sr_Cyrl_BA": "боливар",
         "sr_Cyrl_ME": "боливар",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Bolívar",
         "tr_TR": "Bolívar",
         "tt": "Bolívar",
+        "tt@iqtelif": "Bolívar",
         "tt_RU": "Bolívar",
         "twq": "Bolívar",
         "twq_NE": "Bolívar",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Bolívar",
         "zh_Hant_TW": "Bolívar",
         "zu": "Bolívar",
-        "zu_ZA": "Bolívar",
-        "sr@latin": "bolivar",
-        "tt@iqtelif": "Bolívar"
+        "zu_ZA": "Bolívar"
     },
     "G": {
         "af": "Carabobo",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Carabobo",
         "sq_XK": "Carabobo",
         "sr": "Карабобо",
+        "sr@latin": "Karabobo",
         "sr_Cyrl": "Карабобо",
         "sr_Cyrl_BA": "Карабобо",
         "sr_Cyrl_ME": "Карабобо",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Carabobo",
         "tr_TR": "Carabobo",
         "tt": "Carabobo",
+        "tt@iqtelif": "Carabobo",
         "tt_RU": "Carabobo",
         "twq": "Carabobo",
         "twq_NE": "Carabobo",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Carabobo",
         "zh_Hant_TW": "Carabobo",
         "zu": "Carabobo",
-        "zu_ZA": "Carabobo",
-        "sr@latin": "Karabobo",
-        "tt@iqtelif": "Carabobo"
+        "zu_ZA": "Carabobo"
     },
     "H": {
         "af": "Cojedes",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Cojedes",
         "sq_XK": "Cojedes",
         "sr": "Кохедес",
+        "sr@latin": "Kohedes",
         "sr_Cyrl": "Кохедес",
         "sr_Cyrl_BA": "Кохедес",
         "sr_Cyrl_ME": "Кохедес",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Cojedes",
         "tr_TR": "Cojedes",
         "tt": "Cojedes",
+        "tt@iqtelif": "Cojedes",
         "tt_RU": "Cojedes",
         "twq": "Cojedes",
         "twq_NE": "Cojedes",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Cojedes",
         "zh_Hant_TW": "Cojedes",
         "zu": "Cojedes",
-        "zu_ZA": "Cojedes",
-        "sr@latin": "Kohedes",
-        "tt@iqtelif": "Cojedes"
+        "zu_ZA": "Cojedes"
     },
     "I": {
         "af": "Falcón",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Falcón",
         "sq_XK": "Falcón",
         "sr": "Фалкон",
+        "sr@latin": "Falkon",
         "sr_Cyrl": "Фалкон",
         "sr_Cyrl_BA": "Фалкон",
         "sr_Cyrl_ME": "Фалкон",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Falcón",
         "tr_TR": "Falcón",
         "tt": "Falcón",
+        "tt@iqtelif": "Falcón",
         "tt_RU": "Falcón",
         "twq": "Falcón",
         "twq_NE": "Falcón",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Falcón",
         "zh_Hant_TW": "Falcón",
         "zu": "Falcón",
-        "zu_ZA": "Falcón",
-        "sr@latin": "Falkon",
-        "tt@iqtelif": "Falcón"
+        "zu_ZA": "Falcón"
     },
     "J": {
         "af": "Guárico",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Guárico",
         "sq_XK": "Guárico",
         "sr": "Гварико",
+        "sr@latin": "Gvariko",
         "sr_Cyrl": "Гварико",
         "sr_Cyrl_BA": "Гварико",
         "sr_Cyrl_ME": "Гварико",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Guárico",
         "tr_TR": "Guárico",
         "tt": "Guárico",
+        "tt@iqtelif": "Guárico",
         "tt_RU": "Guárico",
         "twq": "Guárico",
         "twq_NE": "Guárico",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Guárico",
         "zh_Hant_TW": "Guárico",
         "zu": "Guárico",
-        "zu_ZA": "Guárico",
-        "sr@latin": "Gvariko",
-        "tt@iqtelif": "Guárico"
+        "zu_ZA": "Guárico"
     },
     "K": {
         "af": "Lara",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Lara",
         "sq_XK": "Lara",
         "sr": "Лара",
+        "sr@latin": "Lara",
         "sr_Cyrl": "Лара",
         "sr_Cyrl_BA": "Лара",
         "sr_Cyrl_ME": "Лара",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Lara",
         "tr_TR": "Lara",
         "tt": "Lara",
+        "tt@iqtelif": "Lara",
         "tt_RU": "Lara",
         "twq": "Lara",
         "twq_NE": "Lara",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Lara",
         "zh_Hant_TW": "Lara",
         "zu": "Lara",
-        "zu_ZA": "Lara",
-        "sr@latin": "Lara",
-        "tt@iqtelif": "Lara"
+        "zu_ZA": "Lara"
     },
     "L": {
         "af": "Mérida",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Mérida",
         "sq_XK": "Mérida",
         "sr": "Мерида",
+        "sr@latin": "Merida",
         "sr_Cyrl": "Мерида",
         "sr_Cyrl_BA": "Мерида",
         "sr_Cyrl_ME": "Мерида",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Merida",
         "tr_TR": "Merida",
         "tt": "Mérida",
+        "tt@iqtelif": "Mérida",
         "tt_RU": "Mérida",
         "twq": "Mérida",
         "twq_NE": "Mérida",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Mérida",
         "zh_Hant_TW": "Mérida",
         "zu": "Mérida",
-        "zu_ZA": "Mérida",
-        "sr@latin": "Merida",
-        "tt@iqtelif": "Mérida"
+        "zu_ZA": "Mérida"
     },
     "M": {
         "af": "Miranda",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Miranda",
         "sq_XK": "Miranda",
         "sr": "Миранда",
+        "sr@latin": "Miranda",
         "sr_Cyrl": "Миранда",
         "sr_Cyrl_BA": "Миранда",
         "sr_Cyrl_ME": "Миранда",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Miranda",
         "tr_TR": "Miranda",
         "tt": "Miranda",
+        "tt@iqtelif": "Miranda",
         "tt_RU": "Miranda",
         "twq": "Miranda",
         "twq_NE": "Miranda",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Miranda",
         "zh_Hant_TW": "Miranda",
         "zu": "Miranda",
-        "zu_ZA": "Miranda",
-        "sr@latin": "Miranda",
-        "tt@iqtelif": "Miranda"
+        "zu_ZA": "Miranda"
     },
     "N": {
         "af": "Monagas",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Monagas",
         "sq_XK": "Monagas",
         "sr": "Монагас",
+        "sr@latin": "Monagas",
         "sr_Cyrl": "Монагас",
         "sr_Cyrl_BA": "Монагас",
         "sr_Cyrl_ME": "Монагас",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Monagas",
         "tr_TR": "Monagas",
         "tt": "Monagas",
+        "tt@iqtelif": "Monagas",
         "tt_RU": "Monagas",
         "twq": "Monagas",
         "twq_NE": "Monagas",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Monagas",
         "zh_Hant_TW": "Monagas",
         "zu": "Monagas",
-        "zu_ZA": "Monagas",
-        "sr@latin": "Monagas",
-        "tt@iqtelif": "Monagas"
+        "zu_ZA": "Monagas"
     },
     "O": {
         "af": "Nueva Esparta",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Nueva Esparta",
         "sq_XK": "Nueva Esparta",
         "sr": "Нуева Еспарта",
+        "sr@latin": "Nueva Esparta",
         "sr_Cyrl": "Нуева Еспарта",
         "sr_Cyrl_BA": "Нуева Еспарта",
         "sr_Cyrl_ME": "Нуева Еспарта",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Nueva Esparta",
         "tr_TR": "Nueva Esparta",
         "tt": "Nueva Esparta",
+        "tt@iqtelif": "Nueva Esparta",
         "tt_RU": "Nueva Esparta",
         "twq": "Nueva Esparta",
         "twq_NE": "Nueva Esparta",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Nueva Esparta",
         "zh_Hant_TW": "Nueva Esparta",
         "zu": "Nueva Esparta",
-        "zu_ZA": "Nueva Esparta",
-        "sr@latin": "Nueva Esparta",
-        "tt@iqtelif": "Nueva Esparta"
+        "zu_ZA": "Nueva Esparta"
     },
     "P": {
         "af": "Portuguesa",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Portuguesa",
         "sq_XK": "Portuguesa",
         "sr": "Португеза",
+        "sr@latin": "Portugeza",
         "sr_Cyrl": "Португеза",
         "sr_Cyrl_BA": "Португеза",
         "sr_Cyrl_ME": "Португеза",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Portuguesa",
         "tr_TR": "Portuguesa",
         "tt": "Portuguesa",
+        "tt@iqtelif": "Portuguesa",
         "tt_RU": "Portuguesa",
         "twq": "Portuguesa",
         "twq_NE": "Portuguesa",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Portuguesa",
         "zh_Hant_TW": "Portuguesa",
         "zu": "Portuguesa",
-        "zu_ZA": "Portuguesa",
-        "sr@latin": "Portugeza",
-        "tt@iqtelif": "Portuguesa"
+        "zu_ZA": "Portuguesa"
     },
     "R": {
         "af": "Sucre",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Sucre",
         "sq_XK": "Sucre",
         "sr": "сукре",
+        "sr@latin": "sukre",
         "sr_Cyrl": "сукре",
         "sr_Cyrl_BA": "сукре",
         "sr_Cyrl_ME": "сукре",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Sucre",
         "tr_TR": "Sucre",
         "tt": "Sucre",
+        "tt@iqtelif": "Sucre",
         "tt_RU": "Sucre",
         "twq": "Sucre",
         "twq_NE": "Sucre",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Sucre",
         "zh_Hant_TW": "Sucre",
         "zu": "Sucre",
-        "zu_ZA": "Sucre",
-        "sr@latin": "sukre",
-        "tt@iqtelif": "Sucre"
+        "zu_ZA": "Sucre"
     },
     "S": {
         "af": "Táchira",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Táchira",
         "sq_XK": "Táchira",
         "sr": "Táchira",
+        "sr@latin": "Táchira",
         "sr_Cyrl": "Táchira",
         "sr_Cyrl_BA": "Táchira",
         "sr_Cyrl_ME": "Táchira",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Táchira",
         "tr_TR": "Táchira",
         "tt": "Táchira",
+        "tt@iqtelif": "Táchira",
         "tt_RU": "Táchira",
         "twq": "Táchira",
         "twq_NE": "Táchira",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Táchira",
         "zh_Hant_TW": "Táchira",
         "zu": "Táchira",
-        "zu_ZA": "Táchira",
-        "sr@latin": "Táchira",
-        "tt@iqtelif": "Táchira"
+        "zu_ZA": "Táchira"
     },
     "T": {
         "af": "Trujillo",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Trujillo",
         "sq_XK": "Trujillo",
         "sr": "Трухиљо",
+        "sr@latin": "Truhiljo",
         "sr_Cyrl": "Трухиљо",
         "sr_Cyrl_BA": "Трухиљо",
         "sr_Cyrl_ME": "Трухиљо",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Trujillo",
         "tr_TR": "Trujillo",
         "tt": "Trujillo",
+        "tt@iqtelif": "Trujillo",
         "tt_RU": "Trujillo",
         "twq": "Trujillo",
         "twq_NE": "Trujillo",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Trujillo",
         "zh_Hant_TW": "Trujillo",
         "zu": "Trujillo",
-        "zu_ZA": "Trujillo",
-        "sr@latin": "Truhiljo",
-        "tt@iqtelif": "Trujillo"
+        "zu_ZA": "Trujillo"
     },
     "U": {
         "af": "Yaracuy",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Yaracuy",
         "sq_XK": "Yaracuy",
         "sr": "Yaracuy",
+        "sr@latin": "Yaracuy",
         "sr_Cyrl": "Yaracuy",
         "sr_Cyrl_BA": "Yaracuy",
         "sr_Cyrl_ME": "Yaracuy",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Yaracuy",
         "tr_TR": "Yaracuy",
         "tt": "Yaracuy",
+        "tt@iqtelif": "Yaracuy",
         "tt_RU": "Yaracuy",
         "twq": "Yaracuy",
         "twq_NE": "Yaracuy",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Yaracuy",
         "zh_Hant_TW": "Yaracuy",
         "zu": "Yaracuy",
-        "zu_ZA": "Yaracuy",
-        "sr@latin": "Yaracuy",
-        "tt@iqtelif": "Yaracuy"
+        "zu_ZA": "Yaracuy"
     },
     "V": {
         "af": "Zulia",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Zulia",
         "sq_XK": "Zulia",
         "sr": "Зулија",
+        "sr@latin": "Zulija",
         "sr_Cyrl": "Зулија",
         "sr_Cyrl_BA": "Зулија",
         "sr_Cyrl_ME": "Зулија",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Zulia",
         "tr_TR": "Zulia",
         "tt": "Zulia",
+        "tt@iqtelif": "Zulia",
         "tt_RU": "Zulia",
         "twq": "Zulia",
         "twq_NE": "Zulia",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Zulia",
         "zh_Hant_TW": "Zulia",
         "zu": "Zulia",
-        "zu_ZA": "Zulia",
-        "sr@latin": "Zulija",
-        "tt@iqtelif": "Zulia"
+        "zu_ZA": "Zulia"
     },
     "W": {
         "af": "Dependencias Federales",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Dependencias Federales",
         "sq_XK": "Dependencias Federales",
         "sr": "Dependencias Federales",
+        "sr@latin": "Dependencias Federales",
         "sr_Cyrl": "Dependencias Federales",
         "sr_Cyrl_BA": "Dependencias Federales",
         "sr_Cyrl_ME": "Dependencias Federales",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Dependencias Federales",
         "tr_TR": "Dependencias Federales",
         "tt": "Dependencias Federales",
+        "tt@iqtelif": "Dependencias Federales",
         "tt_RU": "Dependencias Federales",
         "twq": "Dependencias Federales",
         "twq_NE": "Dependencias Federales",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Dependencias Federales",
         "zh_Hant_TW": "Dependencias Federales",
         "zu": "Dependencias Federales",
-        "zu_ZA": "Dependencias Federales",
-        "sr@latin": "Dependencias Federales",
-        "tt@iqtelif": "Dependencias Federales"
+        "zu_ZA": "Dependencias Federales"
     },
     "X": {
         "af": "La Guaira",
@@ -20213,6 +20213,7 @@
         "sq_MK": "La Guaira",
         "sq_XK": "La Guaira",
         "sr": "La Guaira",
+        "sr@latin": "La Guaira",
         "sr_Cyrl": "La Guaira",
         "sr_Cyrl_BA": "La Guaira",
         "sr_Cyrl_ME": "La Guaira",
@@ -20273,6 +20274,7 @@
         "tr_CY": "La Guaira",
         "tr_TR": "La Guaira",
         "tt": "La Guaira",
+        "tt@iqtelif": "La Guaira",
         "tt_RU": "La Guaira",
         "twq": "La Guaira",
         "twq_NE": "La Guaira",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "La Guaira",
         "zh_Hant_TW": "La Guaira",
         "zu": "La Guaira",
-        "zu_ZA": "La Guaira",
-        "sr@latin": "La Guaira",
-        "tt@iqtelif": "La Guaira"
+        "zu_ZA": "La Guaira"
     },
     "Y": {
         "af": "Delta Amacuro",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Delta Amacuro",
         "sq_XK": "Delta Amacuro",
         "sr": "Делта Амакуро",
+        "sr@latin": "Delta Amakuro",
         "sr_Cyrl": "Делта Амакуро",
         "sr_Cyrl_BA": "Делта Амакуро",
         "sr_Cyrl_ME": "Делта Амакуро",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Delta Amacuro",
         "tr_TR": "Delta Amacuro",
         "tt": "Delta Amacuro",
+        "tt@iqtelif": "Delta Amacuro",
         "tt_RU": "Delta Amacuro",
         "twq": "Delta Amacuro",
         "twq_NE": "Delta Amacuro",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Delta Amacuro",
         "zh_Hant_TW": "Delta Amacuro",
         "zu": "Delta Amacuro",
-        "zu_ZA": "Delta Amacuro",
-        "sr@latin": "Delta Amakuro",
-        "tt@iqtelif": "Delta Amacuro"
+        "zu_ZA": "Delta Amacuro"
     },
     "Z": {
         "af": "Amazonas",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Amazonas",
         "sq_XK": "Amazonas",
         "sr": "Амазонас",
+        "sr@latin": "Amazonas",
         "sr_Cyrl": "Амазонас",
         "sr_Cyrl_BA": "Амазонас",
         "sr_Cyrl_ME": "Амазонас",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Amazonas",
         "tr_TR": "Amazonas",
         "tt": "Amazonas",
+        "tt@iqtelif": "Amazonas",
         "tt_RU": "Amazonas",
         "twq": "Amazonas",
         "twq_NE": "Amazonas",
@@ -22120,8 +22122,6 @@
         "zh_Hant_MY": "Amazonas",
         "zh_Hant_TW": "Amazonas",
         "zu": "Amazonas",
-        "zu_ZA": "Amazonas",
-        "sr@latin": "Amazonas",
-        "tt@iqtelif": "Amazonas"
+        "zu_ZA": "Amazonas"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Blagoevgrad",
         "sq_XK": "Blagoevgrad",
         "sr": "Благојевград",
+        "sr@latin": "Blagojevgrad",
         "sr_Cyrl": "Благојевград",
         "sr_Cyrl_BA": "Благојевград",
         "sr_Cyrl_ME": "Благојевград",
@@ -803,6 +804,7 @@
         "tr_CY": "Blagoevgrad",
         "tr_TR": "Blagoevgrad",
         "tt": "Blagoevgrad",
+        "tt@iqtelif": "Blagoevgrad",
         "tt_RU": "Blagoevgrad",
         "twq": "Blagoevgrad",
         "twq_NE": "Blagoevgrad",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Blagoevgrad",
         "zh_Hant_TW": "Blagoevgrad",
         "zu": "Blagoevgrad",
-        "zu_ZA": "Blagoevgrad",
-        "sr@latin": "Blagojevgrad",
-        "tt@iqtelif": "Blagoevgrad"
+        "zu_ZA": "Blagoevgrad"
     },
     "02": {
         "af": "Burgas",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Burgas",
         "sq_XK": "Burgas",
         "sr": "Бургас",
+        "sr@latin": "Burgas",
         "sr_Cyrl": "Бургас",
         "sr_Cyrl_BA": "Бургас",
         "sr_Cyrl_ME": "Бургас",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Burgas",
         "tr_TR": "Burgas",
         "tt": "Burgas",
+        "tt@iqtelif": "Burgas",
         "tt_RU": "Burgas",
         "twq": "Burgas",
         "twq_NE": "Burgas",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Burgas",
         "zh_Hant_TW": "Burgas",
         "zu": "Burgas",
-        "zu_ZA": "Burgas",
-        "sr@latin": "Burgas",
-        "tt@iqtelif": "Burgas"
+        "zu_ZA": "Burgas"
     },
     "03": {
         "af": "Varna",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Varna",
         "sq_XK": "Varna",
         "sr": "Варна",
+        "sr@latin": "Varna",
         "sr_Cyrl": "Варна",
         "sr_Cyrl_BA": "Варна",
         "sr_Cyrl_ME": "Варна",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Varna",
         "tr_TR": "Varna",
         "tt": "Varna",
+        "tt@iqtelif": "Varna",
         "tt_RU": "Varna",
         "twq": "Varna",
         "twq_NE": "Varna",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Varna",
         "zh_Hant_TW": "Varna",
         "zu": "Varna",
-        "zu_ZA": "Varna",
-        "sr@latin": "Varna",
-        "tt@iqtelif": "Varna"
+        "zu_ZA": "Varna"
     },
     "04": {
         "af": "Veliko Tarnovo",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Veliko Tarnovo",
         "sq_XK": "Veliko Tarnovo",
         "sr": "Велико Трново",
+        "sr@latin": "Veliko Trnovo",
         "sr_Cyrl": "Велико Трново",
         "sr_Cyrl_BA": "Велико Трново",
         "sr_Cyrl_ME": "Велико Трново",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Veliko Tarnovo",
         "tr_TR": "Veliko Tarnovo",
         "tt": "Veliko Tarnovo",
+        "tt@iqtelif": "Veliko Tarnovo",
         "tt_RU": "Veliko Tarnovo",
         "twq": "Veliko Tarnovo",
         "twq_NE": "Veliko Tarnovo",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Veliko Tarnovo",
         "zh_Hant_TW": "Veliko Tarnovo",
         "zu": "Veliko Tarnovo",
-        "zu_ZA": "Veliko Tarnovo",
-        "sr@latin": "Veliko Trnovo",
-        "tt@iqtelif": "Veliko Tarnovo"
+        "zu_ZA": "Veliko Tarnovo"
     },
     "05": {
         "af": "Vidin",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Vidin",
         "sq_XK": "Vidin",
         "sr": "Видин",
+        "sr@latin": "Vidin",
         "sr_Cyrl": "Видин",
         "sr_Cyrl_BA": "Видин",
         "sr_Cyrl_ME": "Видин",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Vidin",
         "tr_TR": "Vidin",
         "tt": "Vidin",
+        "tt@iqtelif": "Vidin",
         "tt_RU": "Vidin",
         "twq": "Vidin",
         "twq_NE": "Vidin",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Vidin",
         "zh_Hant_TW": "Vidin",
         "zu": "Vidin",
-        "zu_ZA": "Vidin",
-        "sr@latin": "Vidin",
-        "tt@iqtelif": "Vidin"
+        "zu_ZA": "Vidin"
     },
     "06": {
         "af": "Vratsa",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Vratsa",
         "sq_XK": "Vratsa",
         "sr": "Враца",
+        "sr@latin": "Vraca",
         "sr_Cyrl": "Враца",
         "sr_Cyrl_BA": "Враца",
         "sr_Cyrl_ME": "Враца",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Vratsa",
         "tr_TR": "Vratsa",
         "tt": "Vratsa",
+        "tt@iqtelif": "Vratsa",
         "tt_RU": "Vratsa",
         "twq": "Vratsa",
         "twq_NE": "Vratsa",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Vratsa",
         "zh_Hant_TW": "Vratsa",
         "zu": "Vratsa",
-        "zu_ZA": "Vratsa",
-        "sr@latin": "Vraca",
-        "tt@iqtelif": "Vratsa"
+        "zu_ZA": "Vratsa"
     },
     "07": {
         "af": "Gabrovo",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Gabrovo",
         "sq_XK": "Gabrovo",
         "sr": "Габрово",
+        "sr@latin": "Gabrovo",
         "sr_Cyrl": "Габрово",
         "sr_Cyrl_BA": "Габрово",
         "sr_Cyrl_ME": "Габрово",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Gabrovo",
         "tr_TR": "Gabrovo",
         "tt": "Gabrovo",
+        "tt@iqtelif": "Gabrovo",
         "tt_RU": "Gabrovo",
         "twq": "Gabrovo",
         "twq_NE": "Gabrovo",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Gabrovo",
         "zh_Hant_TW": "Gabrovo",
         "zu": "Gabrovo",
-        "zu_ZA": "Gabrovo",
-        "sr@latin": "Gabrovo",
-        "tt@iqtelif": "Gabrovo"
+        "zu_ZA": "Gabrovo"
     },
     "08": {
         "af": "Dobrich",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Dobrich",
         "sq_XK": "Dobrich",
         "sr": "Добрич",
+        "sr@latin": "Dobrič",
         "sr_Cyrl": "Добрич",
         "sr_Cyrl_BA": "Добрич",
         "sr_Cyrl_ME": "Добрич",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Dobriç",
         "tr_TR": "Dobriç",
         "tt": "Dobrich",
+        "tt@iqtelif": "Dobrich",
         "tt_RU": "Dobrich",
         "twq": "Dobrich",
         "twq_NE": "Dobrich",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Dobrich",
         "zh_Hant_TW": "Dobrich",
         "zu": "Dobrich",
-        "zu_ZA": "Dobrich",
-        "sr@latin": "Dobrič",
-        "tt@iqtelif": "Dobrich"
+        "zu_ZA": "Dobrich"
     },
     "09": {
         "af": "Kardzhali",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Kardzhali",
         "sq_XK": "Kardzhali",
         "sr": "Карџали",
+        "sr@latin": "Kardžali",
         "sr_Cyrl": "Карџали",
         "sr_Cyrl_BA": "Карџали",
         "sr_Cyrl_ME": "Карџали",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kırcaali",
         "tr_TR": "Kırcaali",
         "tt": "Kardzhali",
+        "tt@iqtelif": "Kardzhali",
         "tt_RU": "Kardzhali",
         "twq": "Kardzhali",
         "twq_NE": "Kardzhali",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Kardzhali",
         "zh_Hant_TW": "Kardzhali",
         "zu": "Kardzhali",
-        "zu_ZA": "Kardzhali",
-        "sr@latin": "Kardžali",
-        "tt@iqtelif": "Kardzhali"
+        "zu_ZA": "Kardzhali"
     },
     "10": {
         "af": "Kyustendil",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Kyustendil",
         "sq_XK": "Kyustendil",
         "sr": "Ћустендил",
+        "sr@latin": "Ćustendil",
         "sr_Cyrl": "Ћустендил",
         "sr_Cyrl_BA": "Ћустендил",
         "sr_Cyrl_ME": "Ћустендил",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Köstendil",
         "tr_TR": "Köstendil",
         "tt": "Kyustendil",
+        "tt@iqtelif": "Kyustendil",
         "tt_RU": "Kyustendil",
         "twq": "Kyustendil",
         "twq_NE": "Kyustendil",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Kyustendil",
         "zh_Hant_TW": "Kyustendil",
         "zu": "Kyustendil",
-        "zu_ZA": "Kyustendil",
-        "sr@latin": "Ćustendil",
-        "tt@iqtelif": "Kyustendil"
+        "zu_ZA": "Kyustendil"
     },
     "11": {
         "af": "Lovech",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Lovech",
         "sq_XK": "Lovech",
         "sr": "Ловеч",
+        "sr@latin": "Loveč",
         "sr_Cyrl": "Ловеч",
         "sr_Cyrl_BA": "Ловеч",
         "sr_Cyrl_ME": "Ловеч",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Lofça",
         "tr_TR": "Lofça",
         "tt": "Lovech",
+        "tt@iqtelif": "Lovech",
         "tt_RU": "Lovech",
         "twq": "Lovech",
         "twq_NE": "Lovech",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Lovech",
         "zh_Hant_TW": "Lovech",
         "zu": "Lovech",
-        "zu_ZA": "Lovech",
-        "sr@latin": "Loveč",
-        "tt@iqtelif": "Lovech"
+        "zu_ZA": "Lovech"
     },
     "12": {
         "af": "Montana",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Montana",
         "sq_XK": "Montana",
         "sr": "Монтана",
+        "sr@latin": "Montana",
         "sr_Cyrl": "Монтана",
         "sr_Cyrl_BA": "Монтана",
         "sr_Cyrl_ME": "Монтана",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Montana",
         "tr_TR": "Montana",
         "tt": "Montana",
+        "tt@iqtelif": "Montana",
         "tt_RU": "Montana",
         "twq": "Montana",
         "twq_NE": "Montana",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Montana",
         "zh_Hant_TW": "Montana",
         "zu": "Montana",
-        "zu_ZA": "Montana",
-        "sr@latin": "Montana",
-        "tt@iqtelif": "Montana"
+        "zu_ZA": "Montana"
     },
     "13": {
         "af": "Pazardzhik",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Pazardzhik",
         "sq_XK": "Pazardzhik",
         "sr": "Пазарџик",
+        "sr@latin": "Pazardžik",
         "sr_Cyrl": "Пазарџик",
         "sr_Cyrl_BA": "Пазарџик",
         "sr_Cyrl_ME": "Пазарџик",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Pazardzhik",
         "tr_TR": "Pazardzhik",
         "tt": "Pazardzhik",
+        "tt@iqtelif": "Pazardzhik",
         "tt_RU": "Pazardzhik",
         "twq": "Pazardzhik",
         "twq_NE": "Pazardzhik",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Pazardzhik",
         "zh_Hant_TW": "Pazardzhik",
         "zu": "Pazardzhik",
-        "zu_ZA": "Pazardzhik",
-        "sr@latin": "Pazardžik",
-        "tt@iqtelif": "Pazardzhik"
+        "zu_ZA": "Pazardzhik"
     },
     "14": {
         "af": "Pernik",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Pernik",
         "sq_XK": "Pernik",
         "sr": "Перник",
+        "sr@latin": "Pernik",
         "sr_Cyrl": "Перник",
         "sr_Cyrl_BA": "Перник",
         "sr_Cyrl_ME": "Перник",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Pernik",
         "tr_TR": "Pernik",
         "tt": "Pernik",
+        "tt@iqtelif": "Pernik",
         "tt_RU": "Pernik",
         "twq": "Pernik",
         "twq_NE": "Pernik",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Pernik",
         "zh_Hant_TW": "Pernik",
         "zu": "Pernik",
-        "zu_ZA": "Pernik",
-        "sr@latin": "Pernik",
-        "tt@iqtelif": "Pernik"
+        "zu_ZA": "Pernik"
     },
     "15": {
         "af": "Pleven",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Pleven",
         "sq_XK": "Pleven",
         "sr": "Плевен",
+        "sr@latin": "Pleven",
         "sr_Cyrl": "Плевен",
         "sr_Cyrl_BA": "Плевен",
         "sr_Cyrl_ME": "Плевен",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Plevne",
         "tr_TR": "Plevne",
         "tt": "Pleven",
+        "tt@iqtelif": "Pleven",
         "tt_RU": "Pleven",
         "twq": "Pleven",
         "twq_NE": "Pleven",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Pleven",
         "zh_Hant_TW": "Pleven",
         "zu": "Pleven",
-        "zu_ZA": "Pleven",
-        "sr@latin": "Pleven",
-        "tt@iqtelif": "Pleven"
+        "zu_ZA": "Pleven"
     },
     "16": {
         "af": "Plovdiv",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Plovdiv",
         "sq_XK": "Plovdiv",
         "sr": "Пловдив",
+        "sr@latin": "Plovdiv",
         "sr_Cyrl": "Пловдив",
         "sr_Cyrl_BA": "Пловдив",
         "sr_Cyrl_ME": "Пловдив",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Plovdiv",
         "tr_TR": "Plovdiv",
         "tt": "Plovdiv",
+        "tt@iqtelif": "Plovdiv",
         "tt_RU": "Plovdiv",
         "twq": "Plovdiv",
         "twq_NE": "Plovdiv",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Plovdiv",
         "zh_Hant_TW": "Plovdiv",
         "zu": "Plovdiv",
-        "zu_ZA": "Plovdiv",
-        "sr@latin": "Plovdiv",
-        "tt@iqtelif": "Plovdiv"
+        "zu_ZA": "Plovdiv"
     },
     "17": {
         "af": "Razgrad",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Razgrad",
         "sq_XK": "Razgrad",
         "sr": "Разград",
+        "sr@latin": "Razgrad",
         "sr_Cyrl": "Разград",
         "sr_Cyrl_BA": "Разград",
         "sr_Cyrl_ME": "Разград",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Razgrad",
         "tr_TR": "Razgrad",
         "tt": "Razgrad",
+        "tt@iqtelif": "Razgrad",
         "tt_RU": "Razgrad",
         "twq": "Razgrad",
         "twq_NE": "Razgrad",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Razgrad",
         "zh_Hant_TW": "Razgrad",
         "zu": "Razgrad",
-        "zu_ZA": "Razgrad",
-        "sr@latin": "Razgrad",
-        "tt@iqtelif": "Razgrad"
+        "zu_ZA": "Razgrad"
     },
     "18": {
         "af": "Ruse",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Ruse",
         "sq_XK": "Ruse",
         "sr": "Русе",
+        "sr@latin": "Ruse",
         "sr_Cyrl": "Русе",
         "sr_Cyrl_BA": "Русе",
         "sr_Cyrl_ME": "Русе",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Ruse",
         "tr_TR": "Ruse",
         "tt": "Ruse",
+        "tt@iqtelif": "Ruse",
         "tt_RU": "Ruse",
         "twq": "Ruse",
         "twq_NE": "Ruse",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Ruse",
         "zh_Hant_TW": "Ruse",
         "zu": "Ruse",
-        "zu_ZA": "Ruse",
-        "sr@latin": "Ruse",
-        "tt@iqtelif": "Ruse"
+        "zu_ZA": "Ruse"
     },
     "19": {
         "af": "Silistra",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Silistra",
         "sq_XK": "Silistra",
         "sr": "Силистра",
+        "sr@latin": "Silistra",
         "sr_Cyrl": "Силистра",
         "sr_Cyrl_BA": "Силистра",
         "sr_Cyrl_ME": "Силистра",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Silistre",
         "tr_TR": "Silistre",
         "tt": "Silistra",
+        "tt@iqtelif": "Silistra",
         "tt_RU": "Silistra",
         "twq": "Silistra",
         "twq_NE": "Silistra",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Silistra",
         "zh_Hant_TW": "Silistra",
         "zu": "Silistra",
-        "zu_ZA": "Silistra",
-        "sr@latin": "Silistra",
-        "tt@iqtelif": "Silistra"
+        "zu_ZA": "Silistra"
     },
     "20": {
         "af": "Sliven",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Sliven",
         "sq_XK": "Sliven",
         "sr": "Сливен",
+        "sr@latin": "Sliven",
         "sr_Cyrl": "Сливен",
         "sr_Cyrl_BA": "Сливен",
         "sr_Cyrl_ME": "Сливен",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Sliven",
         "tr_TR": "Sliven",
         "tt": "Sliven",
+        "tt@iqtelif": "Sliven",
         "tt_RU": "Sliven",
         "twq": "Sliven",
         "twq_NE": "Sliven",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Sliven",
         "zh_Hant_TW": "Sliven",
         "zu": "Sliven",
-        "zu_ZA": "Sliven",
-        "sr@latin": "Sliven",
-        "tt@iqtelif": "Sliven"
+        "zu_ZA": "Sliven"
     },
     "21": {
         "af": "Smolyan",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Smolyan",
         "sq_XK": "Smolyan",
         "sr": "Смољан",
+        "sr@latin": "Smoljan",
         "sr_Cyrl": "Смољан",
         "sr_Cyrl_BA": "Смољан",
         "sr_Cyrl_ME": "Смољан",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Smolyan",
         "tr_TR": "Smolyan",
         "tt": "Smolyan",
+        "tt@iqtelif": "Smolyan",
         "tt_RU": "Smolyan",
         "twq": "Smolyan",
         "twq_NE": "Smolyan",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Smolyan",
         "zh_Hant_TW": "Smolyan",
         "zu": "Smolyan",
-        "zu_ZA": "Smolyan",
-        "sr@latin": "Smoljan",
-        "tt@iqtelif": "Smolyan"
+        "zu_ZA": "Smolyan"
     },
     "22": {
         "af": "Sofia (stolitsa)",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Sofia (stolitsa)",
         "sq_XK": "Sofia (stolitsa)",
         "sr": "Sofia (stolitsa)",
+        "sr@latin": "Sofia (stolitsa)",
         "sr_Cyrl": "Sofia (stolitsa)",
         "sr_Cyrl_BA": "Sofia (stolitsa)",
         "sr_Cyrl_ME": "Sofia (stolitsa)",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Sofia (stolitsa)",
         "tr_TR": "Sofia (stolitsa)",
         "tt": "Sofia (stolitsa)",
+        "tt@iqtelif": "Sofia (stolitsa)",
         "tt_RU": "Sofia (stolitsa)",
         "twq": "Sofia (stolitsa)",
         "twq_NE": "Sofia (stolitsa)",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Sofia (stolitsa)",
         "zh_Hant_TW": "Sofia (stolitsa)",
         "zu": "Sofia (stolitsa)",
-        "zu_ZA": "Sofia (stolitsa)",
-        "sr@latin": "Sofia (stolitsa)",
-        "tt@iqtelif": "Sofia (stolitsa)"
+        "zu_ZA": "Sofia (stolitsa)"
     },
     "23": {
         "af": "Sofia",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Sofia",
         "sq_XK": "Sofia",
         "sr": "Софија",
+        "sr@latin": "Sofija",
         "sr_Cyrl": "Софија",
         "sr_Cyrl_BA": "Софија",
         "sr_Cyrl_ME": "Софија",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Sofya",
         "tr_TR": "Sofya",
         "tt": "Sofia",
+        "tt@iqtelif": "Sofia",
         "tt_RU": "Sofia",
         "twq": "Sofia",
         "twq_NE": "Sofia",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Sofia",
         "zh_Hant_TW": "Sofia",
         "zu": "Sofia",
-        "zu_ZA": "Sofia",
-        "sr@latin": "Sofija",
-        "tt@iqtelif": "Sofia"
+        "zu_ZA": "Sofia"
     },
     "24": {
         "af": "Stara Zagora",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Stara Zagora",
         "sq_XK": "Stara Zagora",
         "sr": "Стара Загора",
+        "sr@latin": "Stara Zagora",
         "sr_Cyrl": "Стара Загора",
         "sr_Cyrl_BA": "Стара Загора",
         "sr_Cyrl_ME": "Стара Загора",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Stara Zagora",
         "tr_TR": "Stara Zagora",
         "tt": "Stara Zagora",
+        "tt@iqtelif": "Stara Zagora",
         "tt_RU": "Stara Zagora",
         "twq": "Stara Zagora",
         "twq_NE": "Stara Zagora",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Stara Zagora",
         "zh_Hant_TW": "Stara Zagora",
         "zu": "Stara Zagora",
-        "zu_ZA": "Stara Zagora",
-        "sr@latin": "Stara Zagora",
-        "tt@iqtelif": "Stara Zagora"
+        "zu_ZA": "Stara Zagora"
     },
     "25": {
         "af": "Targovishte",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Targovishte",
         "sq_XK": "Targovishte",
         "sr": "Трговиште",
+        "sr@latin": "Trgovište",
         "sr_Cyrl": "Трговиште",
         "sr_Cyrl_BA": "Трговиште",
         "sr_Cyrl_ME": "Трговиште",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Targovishte",
         "tr_TR": "Targovishte",
         "tt": "Targovishte",
+        "tt@iqtelif": "Targovishte",
         "tt_RU": "Targovishte",
         "twq": "Targovishte",
         "twq_NE": "Targovishte",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Targovishte",
         "zh_Hant_TW": "Targovishte",
         "zu": "Targovishte",
-        "zu_ZA": "Targovishte",
-        "sr@latin": "Trgovište",
-        "tt@iqtelif": "Targovishte"
+        "zu_ZA": "Targovishte"
     },
     "26": {
         "af": "Haskovo",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Haskovo",
         "sq_XK": "Haskovo",
         "sr": "Хасково",
+        "sr@latin": "Haskovo",
         "sr_Cyrl": "Хасково",
         "sr_Cyrl_BA": "Хасково",
         "sr_Cyrl_ME": "Хасково",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Haskovo",
         "tr_TR": "Haskovo",
         "tt": "Haskovo",
+        "tt@iqtelif": "Haskovo",
         "tt_RU": "Haskovo",
         "twq": "Haskovo",
         "twq_NE": "Haskovo",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Haskovo",
         "zh_Hant_TW": "Haskovo",
         "zu": "Haskovo",
-        "zu_ZA": "Haskovo",
-        "sr@latin": "Haskovo",
-        "tt@iqtelif": "Haskovo"
+        "zu_ZA": "Haskovo"
     },
     "27": {
         "af": "Shumen",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Shumen",
         "sq_XK": "Shumen",
         "sr": "Шумен",
+        "sr@latin": "Šumen",
         "sr_Cyrl": "Шумен",
         "sr_Cyrl_BA": "Шумен",
         "sr_Cyrl_ME": "Шумен",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Şumnu",
         "tr_TR": "Şumnu",
         "tt": "Shumen",
+        "tt@iqtelif": "Shumen",
         "tt_RU": "Shumen",
         "twq": "Shumen",
         "twq_NE": "Shumen",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Shumen",
         "zh_Hant_TW": "Shumen",
         "zu": "Shumen",
-        "zu_ZA": "Shumen",
-        "sr@latin": "Šumen",
-        "tt@iqtelif": "Shumen"
+        "zu_ZA": "Shumen"
     },
     "28": {
         "af": "Yambol",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Yambol",
         "sq_XK": "Yambol",
         "sr": "Јамбол",
+        "sr@latin": "Jambol",
         "sr_Cyrl": "Јамбол",
         "sr_Cyrl_BA": "Јамбол",
         "sr_Cyrl_ME": "Јамбол",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Yambol",
         "tr_TR": "Yambol",
         "tt": "Yambol",
+        "tt@iqtelif": "Yambol",
         "tt_RU": "Yambol",
         "twq": "Yambol",
         "twq_NE": "Yambol",
@@ -24775,8 +24777,6 @@
         "zh_Hant_MY": "Yambol",
         "zh_Hant_TW": "Yambol",
         "zu": "Yambol",
-        "zu_ZA": "Yambol",
-        "sr@latin": "Jambol",
-        "tt@iqtelif": "Yambol"
+        "zu_ZA": "Yambol"
     }
 }

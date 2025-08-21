@@ -743,6 +743,7 @@
         "sq_MK": "Anhui Sheng",
         "sq_XK": "Anhui Sheng",
         "sr": "Anhui Sheng",
+        "sr@latin": "Anhui Sheng",
         "sr_Cyrl": "Anhui Sheng",
         "sr_Cyrl_BA": "Anhui Sheng",
         "sr_Cyrl_ME": "Anhui Sheng",
@@ -803,6 +804,7 @@
         "tr_CY": "Anhui Sheng",
         "tr_TR": "Anhui Sheng",
         "tt": "Anhui Sheng",
+        "tt@iqtelif": "Anhui Sheng",
         "tt_RU": "Anhui Sheng",
         "twq": "Anhui Sheng",
         "twq_NE": "Anhui Sheng",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Anhui Sheng",
         "zh_Hant_TW": "Anhui Sheng",
         "zu": "Anhui Sheng",
-        "zu_ZA": "Anhui Sheng",
-        "sr@latin": "Anhui Sheng",
-        "tt@iqtelif": "Anhui Sheng"
+        "zu_ZA": "Anhui Sheng"
     },
     "BJ": {
         "af": "Beijing Shi",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Beijing Shi",
         "sq_XK": "Beijing Shi",
         "sr": "Beijing Shi",
+        "sr@latin": "Beijing Shi",
         "sr_Cyrl": "Beijing Shi",
         "sr_Cyrl_BA": "Beijing Shi",
         "sr_Cyrl_ME": "Beijing Shi",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Pekin Shi",
         "tr_TR": "Pekin Shi",
         "tt": "Beijing Shi",
+        "tt@iqtelif": "Beijing Shi",
         "tt_RU": "Beijing Shi",
         "twq": "Beijing Shi",
         "twq_NE": "Beijing Shi",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Beijing Shi",
         "zh_Hant_TW": "Beijing Shi",
         "zu": "Beijing Shi",
-        "zu_ZA": "Beijing Shi",
-        "sr@latin": "Beijing Shi",
-        "tt@iqtelif": "Beijing Shi"
+        "zu_ZA": "Beijing Shi"
     },
     "CQ": {
         "af": "Chongqing Shi",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Chongqing Shi",
         "sq_XK": "Chongqing Shi",
         "sr": "Chongqing Shi",
+        "sr@latin": "Chongqing Shi",
         "sr_Cyrl": "Chongqing Shi",
         "sr_Cyrl_BA": "Chongqing Shi",
         "sr_Cyrl_ME": "Chongqing Shi",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Chongqing Shi",
         "tr_TR": "Chongqing Shi",
         "tt": "Chongqing Shi",
+        "tt@iqtelif": "Chongqing Shi",
         "tt_RU": "Chongqing Shi",
         "twq": "Chongqing Shi",
         "twq_NE": "Chongqing Shi",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Chongqing Shi",
         "zh_Hant_TW": "Chongqing Shi",
         "zu": "Chongqing Shi",
-        "zu_ZA": "Chongqing Shi",
-        "sr@latin": "Chongqing Shi",
-        "tt@iqtelif": "Chongqing Shi"
+        "zu_ZA": "Chongqing Shi"
     },
     "FJ": {
         "af": "Fujian Sheng",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Fujian Sheng",
         "sq_XK": "Fujian Sheng",
         "sr": "Fujian Sheng",
+        "sr@latin": "Fujian Sheng",
         "sr_Cyrl": "Fujian Sheng",
         "sr_Cyrl_BA": "Fujian Sheng",
         "sr_Cyrl_ME": "Fujian Sheng",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Fujian Sheng",
         "tr_TR": "Fujian Sheng",
         "tt": "Fujian Sheng",
+        "tt@iqtelif": "Fujian Sheng",
         "tt_RU": "Fujian Sheng",
         "twq": "Fujian Sheng",
         "twq_NE": "Fujian Sheng",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Fujian Sheng",
         "zh_Hant_TW": "Fujian Sheng",
         "zu": "Fujian Sheng",
-        "zu_ZA": "Fujian Sheng",
-        "sr@latin": "Fujian Sheng",
-        "tt@iqtelif": "Fujian Sheng"
+        "zu_ZA": "Fujian Sheng"
     },
     "GD": {
         "af": "Guangdong Sheng",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Guangdong Sheng",
         "sq_XK": "Guangdong Sheng",
         "sr": "Guangdong Sheng",
+        "sr@latin": "Guangdong Sheng",
         "sr_Cyrl": "Guangdong Sheng",
         "sr_Cyrl_BA": "Guangdong Sheng",
         "sr_Cyrl_ME": "Guangdong Sheng",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Guangdong Sheng",
         "tr_TR": "Guangdong Sheng",
         "tt": "Guangdong Sheng",
+        "tt@iqtelif": "Guangdong Sheng",
         "tt_RU": "Guangdong Sheng",
         "twq": "Guangdong Sheng",
         "twq_NE": "Guangdong Sheng",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Guangdong Sheng",
         "zh_Hant_TW": "Guangdong Sheng",
         "zu": "Guangdong Sheng",
-        "zu_ZA": "Guangdong Sheng",
-        "sr@latin": "Guangdong Sheng",
-        "tt@iqtelif": "Guangdong Sheng"
+        "zu_ZA": "Guangdong Sheng"
     },
     "GS": {
         "af": "Gansu Sheng",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Gansu Sheng",
         "sq_XK": "Gansu Sheng",
         "sr": "Gansu Sheng",
+        "sr@latin": "Gansu Sheng",
         "sr_Cyrl": "Gansu Sheng",
         "sr_Cyrl_BA": "Gansu Sheng",
         "sr_Cyrl_ME": "Gansu Sheng",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Gansu Sheng",
         "tr_TR": "Gansu Sheng",
         "tt": "Gansu Sheng",
+        "tt@iqtelif": "Gansu Sheng",
         "tt_RU": "Gansu Sheng",
         "twq": "Gansu Sheng",
         "twq_NE": "Gansu Sheng",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Gansu Sheng",
         "zh_Hant_TW": "Gansu Sheng",
         "zu": "Gansu Sheng",
-        "zu_ZA": "Gansu Sheng",
-        "sr@latin": "Gansu Sheng",
-        "tt@iqtelif": "Gansu Sheng"
+        "zu_ZA": "Gansu Sheng"
     },
     "GX": {
         "af": "Guangxi Zhuangzu Zizhiqu",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Guangxi Zhuangzu Zizhiqu",
         "sq_XK": "Guangxi Zhuangzu Zizhiqu",
         "sr": "Guangxi Zhuangzu Zizhiqu",
+        "sr@latin": "Guangxi Zhuangzu Zizhiqu",
         "sr_Cyrl": "Guangxi Zhuangzu Zizhiqu",
         "sr_Cyrl_BA": "Guangxi Zhuangzu Zizhiqu",
         "sr_Cyrl_ME": "Guangxi Zhuangzu Zizhiqu",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Guangxi Zhuangzu Zizhiqu",
         "tr_TR": "Guangxi Zhuangzu Zizhiqu",
         "tt": "Guangxi Zhuangzu Zizhiqu",
+        "tt@iqtelif": "Guangxi Zhuangzu Zizhiqu",
         "tt_RU": "Guangxi Zhuangzu Zizhiqu",
         "twq": "Guangxi Zhuangzu Zizhiqu",
         "twq_NE": "Guangxi Zhuangzu Zizhiqu",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Guangxi Zhuangzu Zizhiqu",
         "zh_Hant_TW": "Guangxi Zhuangzu Zizhiqu",
         "zu": "Guangxi Zhuangzu Zizhiqu",
-        "zu_ZA": "Guangxi Zhuangzu Zizhiqu",
-        "sr@latin": "Guangxi Zhuangzu Zizhiqu",
-        "tt@iqtelif": "Guangxi Zhuangzu Zizhiqu"
+        "zu_ZA": "Guangxi Zhuangzu Zizhiqu"
     },
     "GZ": {
         "af": "Guizhou Sheng",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Guizhou Sheng",
         "sq_XK": "Guizhou Sheng",
         "sr": "Guizhou Sheng",
+        "sr@latin": "Guizhou Sheng",
         "sr_Cyrl": "Guizhou Sheng",
         "sr_Cyrl_BA": "Guizhou Sheng",
         "sr_Cyrl_ME": "Guizhou Sheng",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Guizhou Sheng",
         "tr_TR": "Guizhou Sheng",
         "tt": "Guizhou Sheng",
+        "tt@iqtelif": "Guizhou Sheng",
         "tt_RU": "Guizhou Sheng",
         "twq": "Guizhou Sheng",
         "twq_NE": "Guizhou Sheng",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Guizhou Sheng",
         "zh_Hant_TW": "Guizhou Sheng",
         "zu": "Guizhou Sheng",
-        "zu_ZA": "Guizhou Sheng",
-        "sr@latin": "Guizhou Sheng",
-        "tt@iqtelif": "Guizhou Sheng"
+        "zu_ZA": "Guizhou Sheng"
     },
     "HA": {
         "af": "Henan Sheng",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Henan Sheng",
         "sq_XK": "Henan Sheng",
         "sr": "Henan Sheng",
+        "sr@latin": "Henan Sheng",
         "sr_Cyrl": "Henan Sheng",
         "sr_Cyrl_BA": "Henan Sheng",
         "sr_Cyrl_ME": "Henan Sheng",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Henan Sheng",
         "tr_TR": "Henan Sheng",
         "tt": "Henan Sheng",
+        "tt@iqtelif": "Henan Sheng",
         "tt_RU": "Henan Sheng",
         "twq": "Henan Sheng",
         "twq_NE": "Henan Sheng",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Henan Sheng",
         "zh_Hant_TW": "Henan Sheng",
         "zu": "Henan Sheng",
-        "zu_ZA": "Henan Sheng",
-        "sr@latin": "Henan Sheng",
-        "tt@iqtelif": "Henan Sheng"
+        "zu_ZA": "Henan Sheng"
     },
     "HB": {
         "af": "Hubei Sheng",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Hubei Sheng",
         "sq_XK": "Hubei Sheng",
         "sr": "Hubei Sheng",
+        "sr@latin": "Hubei Sheng",
         "sr_Cyrl": "Hubei Sheng",
         "sr_Cyrl_BA": "Hubei Sheng",
         "sr_Cyrl_ME": "Hubei Sheng",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Hubei Sheng",
         "tr_TR": "Hubei Sheng",
         "tt": "Hubei Sheng",
+        "tt@iqtelif": "Hubei Sheng",
         "tt_RU": "Hubei Sheng",
         "twq": "Hubei Sheng",
         "twq_NE": "Hubei Sheng",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Hubei Sheng",
         "zh_Hant_TW": "Hubei Sheng",
         "zu": "Hubei Sheng",
-        "zu_ZA": "Hubei Sheng",
-        "sr@latin": "Hubei Sheng",
-        "tt@iqtelif": "Hubei Sheng"
+        "zu_ZA": "Hubei Sheng"
     },
     "HE": {
         "af": "Hebei Sheng",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Hebei Sheng",
         "sq_XK": "Hebei Sheng",
         "sr": "Hebei Sheng",
+        "sr@latin": "Hebei Sheng",
         "sr_Cyrl": "Hebei Sheng",
         "sr_Cyrl_BA": "Hebei Sheng",
         "sr_Cyrl_ME": "Hebei Sheng",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Hebei Sheng",
         "tr_TR": "Hebei Sheng",
         "tt": "Hebei Sheng",
+        "tt@iqtelif": "Hebei Sheng",
         "tt_RU": "Hebei Sheng",
         "twq": "Hebei Sheng",
         "twq_NE": "Hebei Sheng",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Hebei Sheng",
         "zh_Hant_TW": "Hebei Sheng",
         "zu": "Hebei Sheng",
-        "zu_ZA": "Hebei Sheng",
-        "sr@latin": "Hebei Sheng",
-        "tt@iqtelif": "Hebei Sheng"
+        "zu_ZA": "Hebei Sheng"
     },
     "HI": {
         "af": "Hainan Sheng",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Hainan Sheng",
         "sq_XK": "Hainan Sheng",
         "sr": "Hainan Sheng",
+        "sr@latin": "Hainan Sheng",
         "sr_Cyrl": "Hainan Sheng",
         "sr_Cyrl_BA": "Hainan Sheng",
         "sr_Cyrl_ME": "Hainan Sheng",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Hainan Sheng",
         "tr_TR": "Hainan Sheng",
         "tt": "Hainan Sheng",
+        "tt@iqtelif": "Hainan Sheng",
         "tt_RU": "Hainan Sheng",
         "twq": "Hainan Sheng",
         "twq_NE": "Hainan Sheng",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Hainan Sheng",
         "zh_Hant_TW": "Hainan Sheng",
         "zu": "Hainan Sheng",
-        "zu_ZA": "Hainan Sheng",
-        "sr@latin": "Hainan Sheng",
-        "tt@iqtelif": "Hainan Sheng"
+        "zu_ZA": "Hainan Sheng"
     },
     "HK": {
         "af": "Hong Kong SAR",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Hong Kong SAR",
         "sq_XK": "Hong Kong SAR",
         "sr": "Hong Kong SAR",
+        "sr@latin": "Hong Kong SAR",
         "sr_Cyrl": "Hong Kong SAR",
         "sr_Cyrl_BA": "Hong Kong SAR",
         "sr_Cyrl_ME": "Hong Kong SAR",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Hong Kong SAR",
         "tr_TR": "Hong Kong SAR",
         "tt": "Hong Kong SAR",
+        "tt@iqtelif": "Hong Kong SAR",
         "tt_RU": "Hong Kong SAR",
         "twq": "Hong Kong SAR",
         "twq_NE": "Hong Kong SAR",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Hong Kong SAR",
         "zh_Hant_TW": "Hong Kong SAR",
         "zu": "Hong Kong SAR",
-        "zu_ZA": "Hong Kong SAR",
-        "sr@latin": "Hong Kong SAR",
-        "tt@iqtelif": "Hong Kong SAR"
+        "zu_ZA": "Hong Kong SAR"
     },
     "HL": {
         "af": "Heilongjiang Sheng",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Heilongjiang Sheng",
         "sq_XK": "Heilongjiang Sheng",
         "sr": "Heilongjiang Sheng",
+        "sr@latin": "Heilongjiang Sheng",
         "sr_Cyrl": "Heilongjiang Sheng",
         "sr_Cyrl_BA": "Heilongjiang Sheng",
         "sr_Cyrl_ME": "Heilongjiang Sheng",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Heilongjiang Sheng",
         "tr_TR": "Heilongjiang Sheng",
         "tt": "Heilongjiang Sheng",
+        "tt@iqtelif": "Heilongjiang Sheng",
         "tt_RU": "Heilongjiang Sheng",
         "twq": "Heilongjiang Sheng",
         "twq_NE": "Heilongjiang Sheng",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Heilongjiang Sheng",
         "zh_Hant_TW": "Heilongjiang Sheng",
         "zu": "Heilongjiang Sheng",
-        "zu_ZA": "Heilongjiang Sheng",
-        "sr@latin": "Heilongjiang Sheng",
-        "tt@iqtelif": "Heilongjiang Sheng"
+        "zu_ZA": "Heilongjiang Sheng"
     },
     "HN": {
         "af": "Hunan Sheng",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Hunan Sheng",
         "sq_XK": "Hunan Sheng",
         "sr": "Hunan Sheng",
+        "sr@latin": "Hunan Sheng",
         "sr_Cyrl": "Hunan Sheng",
         "sr_Cyrl_BA": "Hunan Sheng",
         "sr_Cyrl_ME": "Hunan Sheng",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Hunan Sheng",
         "tr_TR": "Hunan Sheng",
         "tt": "Hunan Sheng",
+        "tt@iqtelif": "Hunan Sheng",
         "tt_RU": "Hunan Sheng",
         "twq": "Hunan Sheng",
         "twq_NE": "Hunan Sheng",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Hunan Sheng",
         "zh_Hant_TW": "Hunan Sheng",
         "zu": "Hunan Sheng",
-        "zu_ZA": "Hunan Sheng",
-        "sr@latin": "Hunan Sheng",
-        "tt@iqtelif": "Hunan Sheng"
+        "zu_ZA": "Hunan Sheng"
     },
     "JL": {
         "af": "Jilin Sheng",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Jilin Sheng",
         "sq_XK": "Jilin Sheng",
         "sr": "Jilin Sheng",
+        "sr@latin": "Jilin Sheng",
         "sr_Cyrl": "Jilin Sheng",
         "sr_Cyrl_BA": "Jilin Sheng",
         "sr_Cyrl_ME": "Jilin Sheng",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Jilin Sheng",
         "tr_TR": "Jilin Sheng",
         "tt": "Jilin Sheng",
+        "tt@iqtelif": "Jilin Sheng",
         "tt_RU": "Jilin Sheng",
         "twq": "Jilin Sheng",
         "twq_NE": "Jilin Sheng",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Jilin Sheng",
         "zh_Hant_TW": "Jilin Sheng",
         "zu": "Jilin Sheng",
-        "zu_ZA": "Jilin Sheng",
-        "sr@latin": "Jilin Sheng",
-        "tt@iqtelif": "Jilin Sheng"
+        "zu_ZA": "Jilin Sheng"
     },
     "JS": {
         "af": "Jiangsu Sheng",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Jiangsu Sheng",
         "sq_XK": "Jiangsu Sheng",
         "sr": "Jiangsu Sheng",
+        "sr@latin": "Jiangsu Sheng",
         "sr_Cyrl": "Jiangsu Sheng",
         "sr_Cyrl_BA": "Jiangsu Sheng",
         "sr_Cyrl_ME": "Jiangsu Sheng",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Jiangsu Sheng",
         "tr_TR": "Jiangsu Sheng",
         "tt": "Jiangsu Sheng",
+        "tt@iqtelif": "Jiangsu Sheng",
         "tt_RU": "Jiangsu Sheng",
         "twq": "Jiangsu Sheng",
         "twq_NE": "Jiangsu Sheng",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Jiangsu Sheng",
         "zh_Hant_TW": "Jiangsu Sheng",
         "zu": "Jiangsu Sheng",
-        "zu_ZA": "Jiangsu Sheng",
-        "sr@latin": "Jiangsu Sheng",
-        "tt@iqtelif": "Jiangsu Sheng"
+        "zu_ZA": "Jiangsu Sheng"
     },
     "JX": {
         "af": "Jiangxi Sheng",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Jiangxi Sheng",
         "sq_XK": "Jiangxi Sheng",
         "sr": "Jiangxi Sheng",
+        "sr@latin": "Jiangxi Sheng",
         "sr_Cyrl": "Jiangxi Sheng",
         "sr_Cyrl_BA": "Jiangxi Sheng",
         "sr_Cyrl_ME": "Jiangxi Sheng",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Jiangxi Sheng",
         "tr_TR": "Jiangxi Sheng",
         "tt": "Jiangxi Sheng",
+        "tt@iqtelif": "Jiangxi Sheng",
         "tt_RU": "Jiangxi Sheng",
         "twq": "Jiangxi Sheng",
         "twq_NE": "Jiangxi Sheng",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Jiangxi Sheng",
         "zh_Hant_TW": "Jiangxi Sheng",
         "zu": "Jiangxi Sheng",
-        "zu_ZA": "Jiangxi Sheng",
-        "sr@latin": "Jiangxi Sheng",
-        "tt@iqtelif": "Jiangxi Sheng"
+        "zu_ZA": "Jiangxi Sheng"
     },
     "LN": {
         "af": "Liaoning Sheng",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Liaoning Sheng",
         "sq_XK": "Liaoning Sheng",
         "sr": "Liaoning Sheng",
+        "sr@latin": "Liaoning Sheng",
         "sr_Cyrl": "Liaoning Sheng",
         "sr_Cyrl_BA": "Liaoning Sheng",
         "sr_Cyrl_ME": "Liaoning Sheng",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Liaoning Sheng",
         "tr_TR": "Liaoning Sheng",
         "tt": "Liaoning Sheng",
+        "tt@iqtelif": "Liaoning Sheng",
         "tt_RU": "Liaoning Sheng",
         "twq": "Liaoning Sheng",
         "twq_NE": "Liaoning Sheng",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Liaoning Sheng",
         "zh_Hant_TW": "Liaoning Sheng",
         "zu": "Liaoning Sheng",
-        "zu_ZA": "Liaoning Sheng",
-        "sr@latin": "Liaoning Sheng",
-        "tt@iqtelif": "Liaoning Sheng"
+        "zu_ZA": "Liaoning Sheng"
     },
     "MO": {
         "af": "Macao SAR",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Macao SAR",
         "sq_XK": "Macao SAR",
         "sr": "Macao SAR",
+        "sr@latin": "Macao SAR",
         "sr_Cyrl": "Macao SAR",
         "sr_Cyrl_BA": "Macao SAR",
         "sr_Cyrl_ME": "Macao SAR",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Macao SAR",
         "tr_TR": "Macao SAR",
         "tt": "Macao SAR",
+        "tt@iqtelif": "Macao SAR",
         "tt_RU": "Macao SAR",
         "twq": "Macao SAR",
         "twq_NE": "Macao SAR",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Macao SAR",
         "zh_Hant_TW": "Macao SAR",
         "zu": "Macao SAR",
-        "zu_ZA": "Macao SAR",
-        "sr@latin": "Macao SAR",
-        "tt@iqtelif": "Macao SAR"
+        "zu_ZA": "Macao SAR"
     },
     "NM": {
         "af": "Nei Mongol Zizhiqu",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Nei Mongol Zizhiqu",
         "sq_XK": "Nei Mongol Zizhiqu",
         "sr": "Nei Mongol Zizhiqu",
+        "sr@latin": "Nei Mongol Zizhiqu",
         "sr_Cyrl": "Nei Mongol Zizhiqu",
         "sr_Cyrl_BA": "Nei Mongol Zizhiqu",
         "sr_Cyrl_ME": "Nei Mongol Zizhiqu",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Nei Mongol Zizhiqu",
         "tr_TR": "Nei Mongol Zizhiqu",
         "tt": "Nei Mongol Zizhiqu",
+        "tt@iqtelif": "Nei Mongol Zizhiqu",
         "tt_RU": "Nei Mongol Zizhiqu",
         "twq": "Nei Mongol Zizhiqu",
         "twq_NE": "Nei Mongol Zizhiqu",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Nei Mongol Zizhiqu",
         "zh_Hant_TW": "Nei Mongol Zizhiqu",
         "zu": "Nei Mongol Zizhiqu",
-        "zu_ZA": "Nei Mongol Zizhiqu",
-        "sr@latin": "Nei Mongol Zizhiqu",
-        "tt@iqtelif": "Nei Mongol Zizhiqu"
+        "zu_ZA": "Nei Mongol Zizhiqu"
     },
     "NX": {
         "af": "Ningxia Huizu Zizhiqu",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Ningxia Huizu Zizhiqu",
         "sq_XK": "Ningxia Huizu Zizhiqu",
         "sr": "Ningxia Huizu Zizhiqu",
+        "sr@latin": "Ningxia Huizu Zizhiqu",
         "sr_Cyrl": "Ningxia Huizu Zizhiqu",
         "sr_Cyrl_BA": "Ningxia Huizu Zizhiqu",
         "sr_Cyrl_ME": "Ningxia Huizu Zizhiqu",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Ningxia Huizu Zizhiqu",
         "tr_TR": "Ningxia Huizu Zizhiqu",
         "tt": "Ningxia Huizu Zizhiqu",
+        "tt@iqtelif": "Ningxia Huizu Zizhiqu",
         "tt_RU": "Ningxia Huizu Zizhiqu",
         "twq": "Ningxia Huizu Zizhiqu",
         "twq_NE": "Ningxia Huizu Zizhiqu",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Ningxia Huizu Zizhiqu",
         "zh_Hant_TW": "Ningxia Huizu Zizhiqu",
         "zu": "Ningxia Huizu Zizhiqu",
-        "zu_ZA": "Ningxia Huizu Zizhiqu",
-        "sr@latin": "Ningxia Huizu Zizhiqu",
-        "tt@iqtelif": "Ningxia Huizu Zizhiqu"
+        "zu_ZA": "Ningxia Huizu Zizhiqu"
     },
     "QH": {
         "af": "Qinghai Sheng",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Qinghai Sheng",
         "sq_XK": "Qinghai Sheng",
         "sr": "Qinghai Sheng",
+        "sr@latin": "Qinghai Sheng",
         "sr_Cyrl": "Qinghai Sheng",
         "sr_Cyrl_BA": "Qinghai Sheng",
         "sr_Cyrl_ME": "Qinghai Sheng",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Qinghai Sheng",
         "tr_TR": "Qinghai Sheng",
         "tt": "Qinghai Sheng",
+        "tt@iqtelif": "Qinghai Sheng",
         "tt_RU": "Qinghai Sheng",
         "twq": "Qinghai Sheng",
         "twq_NE": "Qinghai Sheng",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Qinghai Sheng",
         "zh_Hant_TW": "Qinghai Sheng",
         "zu": "Qinghai Sheng",
-        "zu_ZA": "Qinghai Sheng",
-        "sr@latin": "Qinghai Sheng",
-        "tt@iqtelif": "Qinghai Sheng"
+        "zu_ZA": "Qinghai Sheng"
     },
     "SC": {
         "af": "Sichuan Sheng",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Sichuan Sheng",
         "sq_XK": "Sichuan Sheng",
         "sr": "Sichuan Sheng",
+        "sr@latin": "Sichuan Sheng",
         "sr_Cyrl": "Sichuan Sheng",
         "sr_Cyrl_BA": "Sichuan Sheng",
         "sr_Cyrl_ME": "Sichuan Sheng",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Sichuan Sheng",
         "tr_TR": "Sichuan Sheng",
         "tt": "Sichuan Sheng",
+        "tt@iqtelif": "Sichuan Sheng",
         "tt_RU": "Sichuan Sheng",
         "twq": "Sichuan Sheng",
         "twq_NE": "Sichuan Sheng",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Sichuan Sheng",
         "zh_Hant_TW": "Sichuan Sheng",
         "zu": "Sichuan Sheng",
-        "zu_ZA": "Sichuan Sheng",
-        "sr@latin": "Sichuan Sheng",
-        "tt@iqtelif": "Sichuan Sheng"
+        "zu_ZA": "Sichuan Sheng"
     },
     "SD": {
         "af": "Shandong Sheng",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Shandong Sheng",
         "sq_XK": "Shandong Sheng",
         "sr": "Shandong Sheng",
+        "sr@latin": "Shandong Sheng",
         "sr_Cyrl": "Shandong Sheng",
         "sr_Cyrl_BA": "Shandong Sheng",
         "sr_Cyrl_ME": "Shandong Sheng",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Shandong Sheng",
         "tr_TR": "Shandong Sheng",
         "tt": "Shandong Sheng",
+        "tt@iqtelif": "Shandong Sheng",
         "tt_RU": "Shandong Sheng",
         "twq": "Shandong Sheng",
         "twq_NE": "Shandong Sheng",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Shandong Sheng",
         "zh_Hant_TW": "Shandong Sheng",
         "zu": "Shandong Sheng",
-        "zu_ZA": "Shandong Sheng",
-        "sr@latin": "Shandong Sheng",
-        "tt@iqtelif": "Shandong Sheng"
+        "zu_ZA": "Shandong Sheng"
     },
     "SH": {
         "af": "Shanghai Shi",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Shanghai Shi",
         "sq_XK": "Shanghai Shi",
         "sr": "Shanghai Shi",
+        "sr@latin": "Shanghai Shi",
         "sr_Cyrl": "Shanghai Shi",
         "sr_Cyrl_BA": "Shanghai Shi",
         "sr_Cyrl_ME": "Shanghai Shi",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Şangay Shi",
         "tr_TR": "Şangay Shi",
         "tt": "Shanghai Shi",
+        "tt@iqtelif": "Shanghai Shi",
         "tt_RU": "Shanghai Shi",
         "twq": "Shanghai Shi",
         "twq_NE": "Shanghai Shi",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Shanghai Shi",
         "zh_Hant_TW": "Shanghai Shi",
         "zu": "Shanghai Shi",
-        "zu_ZA": "Shanghai Shi",
-        "sr@latin": "Shanghai Shi",
-        "tt@iqtelif": "Shanghai Shi"
+        "zu_ZA": "Shanghai Shi"
     },
     "SN": {
         "af": "Shaanxi Sheng",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Shaanxi Sheng",
         "sq_XK": "Shaanxi Sheng",
         "sr": "Shaanxi Sheng",
+        "sr@latin": "Shaanxi Sheng",
         "sr_Cyrl": "Shaanxi Sheng",
         "sr_Cyrl_BA": "Shaanxi Sheng",
         "sr_Cyrl_ME": "Shaanxi Sheng",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Shaanxi Sheng",
         "tr_TR": "Shaanxi Sheng",
         "tt": "Shaanxi Sheng",
+        "tt@iqtelif": "Shaanxi Sheng",
         "tt_RU": "Shaanxi Sheng",
         "twq": "Shaanxi Sheng",
         "twq_NE": "Shaanxi Sheng",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Shaanxi Sheng",
         "zh_Hant_TW": "Shaanxi Sheng",
         "zu": "Shaanxi Sheng",
-        "zu_ZA": "Shaanxi Sheng",
-        "sr@latin": "Shaanxi Sheng",
-        "tt@iqtelif": "Shaanxi Sheng"
+        "zu_ZA": "Shaanxi Sheng"
     },
     "SX": {
         "af": "Shanxi Sheng",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Shanxi Sheng",
         "sq_XK": "Shanxi Sheng",
         "sr": "Shanxi Sheng",
+        "sr@latin": "Shanxi Sheng",
         "sr_Cyrl": "Shanxi Sheng",
         "sr_Cyrl_BA": "Shanxi Sheng",
         "sr_Cyrl_ME": "Shanxi Sheng",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Shanxi Sheng",
         "tr_TR": "Shanxi Sheng",
         "tt": "Shanxi Sheng",
+        "tt@iqtelif": "Shanxi Sheng",
         "tt_RU": "Shanxi Sheng",
         "twq": "Shanxi Sheng",
         "twq_NE": "Shanxi Sheng",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Shanxi Sheng",
         "zh_Hant_TW": "Shanxi Sheng",
         "zu": "Shanxi Sheng",
-        "zu_ZA": "Shanxi Sheng",
-        "sr@latin": "Shanxi Sheng",
-        "tt@iqtelif": "Shanxi Sheng"
+        "zu_ZA": "Shanxi Sheng"
     },
     "TJ": {
         "af": "Tianjin Shi",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Tianjin Shi",
         "sq_XK": "Tianjin Shi",
         "sr": "Tianjin Shi",
+        "sr@latin": "Tianjin Shi",
         "sr_Cyrl": "Tianjin Shi",
         "sr_Cyrl_BA": "Tianjin Shi",
         "sr_Cyrl_ME": "Tianjin Shi",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Tianjin Shi",
         "tr_TR": "Tianjin Shi",
         "tt": "Tianjin Shi",
+        "tt@iqtelif": "Tianjin Shi",
         "tt_RU": "Tianjin Shi",
         "twq": "Tianjin Shi",
         "twq_NE": "Tianjin Shi",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Tianjin Shi",
         "zh_Hant_TW": "Tianjin Shi",
         "zu": "Tianjin Shi",
-        "zu_ZA": "Tianjin Shi",
-        "sr@latin": "Tianjin Shi",
-        "tt@iqtelif": "Tianjin Shi"
+        "zu_ZA": "Tianjin Shi"
     },
     "TW": {
         "af": "Taiwan Sheng",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Taiwan Sheng",
         "sq_XK": "Taiwan Sheng",
         "sr": "Taiwan Sheng",
+        "sr@latin": "Taiwan Sheng",
         "sr_Cyrl": "Taiwan Sheng",
         "sr_Cyrl_BA": "Taiwan Sheng",
         "sr_Cyrl_ME": "Taiwan Sheng",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Taiwan Sheng",
         "tr_TR": "Taiwan Sheng",
         "tt": "Taiwan Sheng",
+        "tt@iqtelif": "Taiwan Sheng",
         "tt_RU": "Taiwan Sheng",
         "twq": "Taiwan Sheng",
         "twq_NE": "Taiwan Sheng",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Taiwan Sheng",
         "zh_Hant_TW": "Taiwan Sheng",
         "zu": "Taiwan Sheng",
-        "zu_ZA": "Taiwan Sheng",
-        "sr@latin": "Taiwan Sheng",
-        "tt@iqtelif": "Taiwan Sheng"
+        "zu_ZA": "Taiwan Sheng"
     },
     "XJ": {
         "af": "Xinjiang Uygur Zizhiqu",
@@ -27293,6 +27293,7 @@
         "sq_MK": "Xinjiang Uygur Zizhiqu",
         "sq_XK": "Xinjiang Uygur Zizhiqu",
         "sr": "Xinjiang Uygur Zizhiqu",
+        "sr@latin": "Xinjiang Uygur Zizhiqu",
         "sr_Cyrl": "Xinjiang Uygur Zizhiqu",
         "sr_Cyrl_BA": "Xinjiang Uygur Zizhiqu",
         "sr_Cyrl_ME": "Xinjiang Uygur Zizhiqu",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Xinjiang Uygur Zizhiqu",
         "tr_TR": "Xinjiang Uygur Zizhiqu",
         "tt": "Xinjiang Uygur Zizhiqu",
+        "tt@iqtelif": "Xinjiang Uygur Zizhiqu",
         "tt_RU": "Xinjiang Uygur Zizhiqu",
         "twq": "Xinjiang Uygur Zizhiqu",
         "twq_NE": "Xinjiang Uygur Zizhiqu",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "Xinjiang Uygur Zizhiqu",
         "zh_Hant_TW": "Xinjiang Uygur Zizhiqu",
         "zu": "Xinjiang Uygur Zizhiqu",
-        "zu_ZA": "Xinjiang Uygur Zizhiqu",
-        "sr@latin": "Xinjiang Uygur Zizhiqu",
-        "tt@iqtelif": "Xinjiang Uygur Zizhiqu"
+        "zu_ZA": "Xinjiang Uygur Zizhiqu"
     },
     "XZ": {
         "af": "Xizang Zizhiqu",
@@ -28178,6 +28178,7 @@
         "sq_MK": "Xizang Zizhiqu",
         "sq_XK": "Xizang Zizhiqu",
         "sr": "Xizang Zizhiqu",
+        "sr@latin": "Xizang Zizhiqu",
         "sr_Cyrl": "Xizang Zizhiqu",
         "sr_Cyrl_BA": "Xizang Zizhiqu",
         "sr_Cyrl_ME": "Xizang Zizhiqu",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Xizang Zizhiqu",
         "tr_TR": "Xizang Zizhiqu",
         "tt": "Xizang Zizhiqu",
+        "tt@iqtelif": "Xizang Zizhiqu",
         "tt_RU": "Xizang Zizhiqu",
         "twq": "Xizang Zizhiqu",
         "twq_NE": "Xizang Zizhiqu",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "Xizang Zizhiqu",
         "zh_Hant_TW": "Xizang Zizhiqu",
         "zu": "Xizang Zizhiqu",
-        "zu_ZA": "Xizang Zizhiqu",
-        "sr@latin": "Xizang Zizhiqu",
-        "tt@iqtelif": "Xizang Zizhiqu"
+        "zu_ZA": "Xizang Zizhiqu"
     },
     "YN": {
         "af": "Yunnan Sheng",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Yunnan Sheng",
         "sq_XK": "Yunnan Sheng",
         "sr": "Yunnan Sheng",
+        "sr@latin": "Yunnan Sheng",
         "sr_Cyrl": "Yunnan Sheng",
         "sr_Cyrl_BA": "Yunnan Sheng",
         "sr_Cyrl_ME": "Yunnan Sheng",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Yunnan Sheng",
         "tr_TR": "Yunnan Sheng",
         "tt": "Yunnan Sheng",
+        "tt@iqtelif": "Yunnan Sheng",
         "tt_RU": "Yunnan Sheng",
         "twq": "Yunnan Sheng",
         "twq_NE": "Yunnan Sheng",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Yunnan Sheng",
         "zh_Hant_TW": "Yunnan Sheng",
         "zu": "Yunnan Sheng",
-        "zu_ZA": "Yunnan Sheng",
-        "sr@latin": "Yunnan Sheng",
-        "tt@iqtelif": "Yunnan Sheng"
+        "zu_ZA": "Yunnan Sheng"
     },
     "ZJ": {
         "af": "Zhejiang Sheng",
@@ -29948,6 +29948,7 @@
         "sq_MK": "Zhejiang Sheng",
         "sq_XK": "Zhejiang Sheng",
         "sr": "Zhejiang Sheng",
+        "sr@latin": "Zhejiang Sheng",
         "sr_Cyrl": "Zhejiang Sheng",
         "sr_Cyrl_BA": "Zhejiang Sheng",
         "sr_Cyrl_ME": "Zhejiang Sheng",
@@ -30008,6 +30009,7 @@
         "tr_CY": "Zhejiang Sheng",
         "tr_TR": "Zhejiang Sheng",
         "tt": "Zhejiang Sheng",
+        "tt@iqtelif": "Zhejiang Sheng",
         "tt_RU": "Zhejiang Sheng",
         "twq": "Zhejiang Sheng",
         "twq_NE": "Zhejiang Sheng",
@@ -30085,8 +30087,6 @@
         "zh_Hant_MY": "Zhejiang Sheng",
         "zh_Hant_TW": "Zhejiang Sheng",
         "zu": "Zhejiang Sheng",
-        "zu_ZA": "Zhejiang Sheng",
-        "sr@latin": "Zhejiang Sheng",
-        "tt@iqtelif": "Zhejiang Sheng"
+        "zu_ZA": "Zhejiang Sheng"
     }
 }

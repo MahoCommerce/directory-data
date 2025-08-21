@@ -743,6 +743,7 @@
         "sq_MK": "Abkhazia",
         "sq_XK": "Abkhazia",
         "sr": "Абација",
+        "sr@latin": "Abacija",
         "sr_Cyrl": "Абација",
         "sr_Cyrl_BA": "Абација",
         "sr_Cyrl_ME": "Абација",
@@ -803,6 +804,7 @@
         "tr_CY": "Abhazya",
         "tr_TR": "Abhazya",
         "tt": "Abkhazia",
+        "tt@iqtelif": "Abkhazia",
         "tt_RU": "Abkhazia",
         "twq": "Abkhazia",
         "twq_NE": "Abkhazia",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Abkhazia",
         "zh_Hant_TW": "Abkhazia",
         "zu": "Abkhazia",
-        "zu_ZA": "Abkhazia",
-        "sr@latin": "Abacija",
-        "tt@iqtelif": "Abkhazia"
+        "zu_ZA": "Abkhazia"
     },
     "AJ": {
         "af": "Ajaria",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Ajaria",
         "sq_XK": "Ajaria",
         "sr": "Аџарија",
+        "sr@latin": "Adžarija",
         "sr_Cyrl": "Аџарија",
         "sr_Cyrl_BA": "Аџарија",
         "sr_Cyrl_ME": "Аџарија",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Ajaria",
         "tr_TR": "Ajaria",
         "tt": "Ajaria",
+        "tt@iqtelif": "Ajaria",
         "tt_RU": "Ajaria",
         "twq": "Ajaria",
         "twq_NE": "Ajaria",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Ajaria",
         "zh_Hant_TW": "Ajaria",
         "zu": "Ajaria",
-        "zu_ZA": "Ajaria",
-        "sr@latin": "Adžarija",
-        "tt@iqtelif": "Ajaria"
+        "zu_ZA": "Ajaria"
     },
     "GU": {
         "af": "Guria",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Guria",
         "sq_XK": "Guria",
         "sr": "Гурја",
+        "sr@latin": "Gurja",
         "sr_Cyrl": "Гурја",
         "sr_Cyrl_BA": "Гурја",
         "sr_Cyrl_ME": "Гурја",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Guria",
         "tr_TR": "Guria",
         "tt": "Guria",
+        "tt@iqtelif": "Guria",
         "tt_RU": "Guria",
         "twq": "Guria",
         "twq_NE": "Guria",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Guria",
         "zh_Hant_TW": "Guria",
         "zu": "Guria",
-        "zu_ZA": "Guria",
-        "sr@latin": "Gurja",
-        "tt@iqtelif": "Guria"
+        "zu_ZA": "Guria"
     },
     "IM": {
         "af": "Imereti",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Imereti",
         "sq_XK": "Imereti",
         "sr": "Imereti",
+        "sr@latin": "Imereti",
         "sr_Cyrl": "Imereti",
         "sr_Cyrl_BA": "Imereti",
         "sr_Cyrl_ME": "Imereti",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Imereti",
         "tr_TR": "Imereti",
         "tt": "Imereti",
+        "tt@iqtelif": "Imereti",
         "tt_RU": "Imereti",
         "twq": "Imereti",
         "twq_NE": "Imereti",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Imereti",
         "zh_Hant_TW": "Imereti",
         "zu": "Imereti",
-        "zu_ZA": "Imereti",
-        "sr@latin": "Imereti",
-        "tt@iqtelif": "Imereti"
+        "zu_ZA": "Imereti"
     },
     "KA": {
         "af": "K'akheti",
@@ -4283,6 +4283,7 @@
         "sq_MK": "K'akheti",
         "sq_XK": "K'akheti",
         "sr": "K'akheti",
+        "sr@latin": "K'akheti",
         "sr_Cyrl": "K'akheti",
         "sr_Cyrl_BA": "K'akheti",
         "sr_Cyrl_ME": "K'akheti",
@@ -4343,6 +4344,7 @@
         "tr_CY": "K'akheti",
         "tr_TR": "K'akheti",
         "tt": "K'akheti",
+        "tt@iqtelif": "K'akheti",
         "tt_RU": "K'akheti",
         "twq": "K'akheti",
         "twq_NE": "K'akheti",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "K'akheti",
         "zh_Hant_TW": "K'akheti",
         "zu": "K'akheti",
-        "zu_ZA": "K'akheti",
-        "sr@latin": "K'akheti",
-        "tt@iqtelif": "K'akheti"
+        "zu_ZA": "K'akheti"
     },
     "KK": {
         "af": "Kvemo Kartli",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Kvemo Kartli",
         "sq_XK": "Kvemo Kartli",
         "sr": "Kvemo Kartli",
+        "sr@latin": "Kvemo Kartli",
         "sr_Cyrl": "Kvemo Kartli",
         "sr_Cyrl_BA": "Kvemo Kartli",
         "sr_Cyrl_ME": "Kvemo Kartli",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Kvemo Kartli",
         "tr_TR": "Kvemo Kartli",
         "tt": "Kvemo Kartli",
+        "tt@iqtelif": "Kvemo Kartli",
         "tt_RU": "Kvemo Kartli",
         "twq": "Kvemo Kartli",
         "twq_NE": "Kvemo Kartli",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Kvemo Kartli",
         "zh_Hant_TW": "Kvemo Kartli",
         "zu": "Kvemo Kartli",
-        "zu_ZA": "Kvemo Kartli",
-        "sr@latin": "Kvemo Kartli",
-        "tt@iqtelif": "Kvemo Kartli"
+        "zu_ZA": "Kvemo Kartli"
     },
     "MM": {
         "af": "Mtskheta-Mtianeti",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Mtskheta-Mtianeti",
         "sq_XK": "Mtskheta-Mtianeti",
         "sr": "Mtskheta-Mtianeti",
+        "sr@latin": "Mtskheta-Mtianeti",
         "sr_Cyrl": "Mtskheta-Mtianeti",
         "sr_Cyrl_BA": "Mtskheta-Mtianeti",
         "sr_Cyrl_ME": "Mtskheta-Mtianeti",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Mtskheta-Mtianeti",
         "tr_TR": "Mtskheta-Mtianeti",
         "tt": "Mtskheta-Mtianeti",
+        "tt@iqtelif": "Mtskheta-Mtianeti",
         "tt_RU": "Mtskheta-Mtianeti",
         "twq": "Mtskheta-Mtianeti",
         "twq_NE": "Mtskheta-Mtianeti",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Mtskheta-Mtianeti",
         "zh_Hant_TW": "Mtskheta-Mtianeti",
         "zu": "Mtskheta-Mtianeti",
-        "zu_ZA": "Mtskheta-Mtianeti",
-        "sr@latin": "Mtskheta-Mtianeti",
-        "tt@iqtelif": "Mtskheta-Mtianeti"
+        "zu_ZA": "Mtskheta-Mtianeti"
     },
     "RL": {
         "af": "Rach'a-Lechkhumi-Kvemo Svaneti",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "sq_XK": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "sr": "Rach'a-Lechkhumi-Kvemo Svaneti",
+        "sr@latin": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "sr_Cyrl": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "sr_Cyrl_BA": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "sr_Cyrl_ME": "Rach'a-Lechkhumi-Kvemo Svaneti",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "tr_TR": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "tt": "Rach'a-Lechkhumi-Kvemo Svaneti",
+        "tt@iqtelif": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "tt_RU": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "twq": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "twq_NE": "Rach'a-Lechkhumi-Kvemo Svaneti",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "zh_Hant_TW": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "zu": "Rach'a-Lechkhumi-Kvemo Svaneti",
-        "zu_ZA": "Rach'a-Lechkhumi-Kvemo Svaneti",
-        "sr@latin": "Rach'a-Lechkhumi-Kvemo Svaneti",
-        "tt@iqtelif": "Rach'a-Lechkhumi-Kvemo Svaneti"
+        "zu_ZA": "Rach'a-Lechkhumi-Kvemo Svaneti"
     },
     "SJ": {
         "af": "Samtskhe-Javakheti",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Samtskhe-Javakheti",
         "sq_XK": "Samtskhe-Javakheti",
         "sr": "Samtskhe-Javakheti",
+        "sr@latin": "Samtskhe-Javakheti",
         "sr_Cyrl": "Samtskhe-Javakheti",
         "sr_Cyrl_BA": "Samtskhe-Javakheti",
         "sr_Cyrl_ME": "Samtskhe-Javakheti",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Samtskhe-Javakheti",
         "tr_TR": "Samtskhe-Javakheti",
         "tt": "Samtskhe-Javakheti",
+        "tt@iqtelif": "Samtskhe-Javakheti",
         "tt_RU": "Samtskhe-Javakheti",
         "twq": "Samtskhe-Javakheti",
         "twq_NE": "Samtskhe-Javakheti",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Samtskhe-Javakheti",
         "zh_Hant_TW": "Samtskhe-Javakheti",
         "zu": "Samtskhe-Javakheti",
-        "zu_ZA": "Samtskhe-Javakheti",
-        "sr@latin": "Samtskhe-Javakheti",
-        "tt@iqtelif": "Samtskhe-Javakheti"
+        "zu_ZA": "Samtskhe-Javakheti"
     },
     "SK": {
         "af": "Shida Kartli",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Shida Kartli",
         "sq_XK": "Shida Kartli",
         "sr": "Shida Kartli",
+        "sr@latin": "Shida Kartli",
         "sr_Cyrl": "Shida Kartli",
         "sr_Cyrl_BA": "Shida Kartli",
         "sr_Cyrl_ME": "Shida Kartli",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Shida Kartli",
         "tr_TR": "Shida Kartli",
         "tt": "Shida Kartli",
+        "tt@iqtelif": "Shida Kartli",
         "tt_RU": "Shida Kartli",
         "twq": "Shida Kartli",
         "twq_NE": "Shida Kartli",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Shida Kartli",
         "zh_Hant_TW": "Shida Kartli",
         "zu": "Shida Kartli",
-        "zu_ZA": "Shida Kartli",
-        "sr@latin": "Shida Kartli",
-        "tt@iqtelif": "Shida Kartli"
+        "zu_ZA": "Shida Kartli"
     },
     "SZ": {
         "af": "Samegrelo-Zemo Svaneti",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Samegrelo-Zemo Svaneti",
         "sq_XK": "Samegrelo-Zemo Svaneti",
         "sr": "Samegrelo-Zemo Svaneti",
+        "sr@latin": "Samegrelo-Zemo Svaneti",
         "sr_Cyrl": "Samegrelo-Zemo Svaneti",
         "sr_Cyrl_BA": "Samegrelo-Zemo Svaneti",
         "sr_Cyrl_ME": "Samegrelo-Zemo Svaneti",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Samegrelo-Zemo Svaneti",
         "tr_TR": "Samegrelo-Zemo Svaneti",
         "tt": "Samegrelo-Zemo Svaneti",
+        "tt@iqtelif": "Samegrelo-Zemo Svaneti",
         "tt_RU": "Samegrelo-Zemo Svaneti",
         "twq": "Samegrelo-Zemo Svaneti",
         "twq_NE": "Samegrelo-Zemo Svaneti",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Samegrelo-Zemo Svaneti",
         "zh_Hant_TW": "Samegrelo-Zemo Svaneti",
         "zu": "Samegrelo-Zemo Svaneti",
-        "zu_ZA": "Samegrelo-Zemo Svaneti",
-        "sr@latin": "Samegrelo-Zemo Svaneti",
-        "tt@iqtelif": "Samegrelo-Zemo Svaneti"
+        "zu_ZA": "Samegrelo-Zemo Svaneti"
     },
     "TB": {
         "af": "Tbilisi",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Tbilisi",
         "sq_XK": "Tbilisi",
         "sr": "Tbilisi",
+        "sr@latin": "Tbilisi",
         "sr_Cyrl": "Tbilisi",
         "sr_Cyrl_BA": "Tbilisi",
         "sr_Cyrl_ME": "Tbilisi",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Tbilisi",
         "tr_TR": "Tbilisi",
         "tt": "Tbilisi",
+        "tt@iqtelif": "Tbilisi",
         "tt_RU": "Tbilisi",
         "twq": "Tbilisi",
         "twq_NE": "Tbilisi",
@@ -10615,8 +10617,6 @@
         "zh_Hant_MY": "Tbilisi",
         "zh_Hant_TW": "Tbilisi",
         "zu": "Tbilisi",
-        "zu_ZA": "Tbilisi",
-        "sr@latin": "Tbilisi",
-        "tt@iqtelif": "Tbilisi"
+        "zu_ZA": "Tbilisi"
     }
 }

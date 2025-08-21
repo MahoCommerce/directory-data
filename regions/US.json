@@ -743,6 +743,7 @@
         "sq_MK": "Alaska",
         "sq_XK": "Alaska",
         "sr": "Аљаска",
+        "sr@latin": "Aljaska",
         "sr_Cyrl": "Аљаска",
         "sr_Cyrl_BA": "Аљаска",
         "sr_Cyrl_ME": "Аљаска",
@@ -803,6 +804,7 @@
         "tr_CY": "Alaska",
         "tr_TR": "Alaska",
         "tt": "Alaska",
+        "tt@iqtelif": "Alaska",
         "tt_RU": "Alaska",
         "twq": "Alaska",
         "twq_NE": "Alaska",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Alaska",
         "zh_Hant_TW": "Alaska",
         "zu": "Alaska",
-        "zu_ZA": "Alaska",
-        "sr@latin": "Aljaska",
-        "tt@iqtelif": "Alaska"
+        "zu_ZA": "Alaska"
     },
     "AL": {
         "af": "Alabama",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Alabama",
         "sq_XK": "Alabama",
         "sr": "Алабама",
+        "sr@latin": "Alabama",
         "sr_Cyrl": "Алабама",
         "sr_Cyrl_BA": "Алабама",
         "sr_Cyrl_ME": "Алабама",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Alabama",
         "tr_TR": "Alabama",
         "tt": "Alabama",
+        "tt@iqtelif": "Alabama",
         "tt_RU": "Alabama",
         "twq": "Alabama",
         "twq_NE": "Alabama",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Alabama",
         "zh_Hant_TW": "Alabama",
         "zu": "Alabama",
-        "zu_ZA": "Alabama",
-        "sr@latin": "Alabama",
-        "tt@iqtelif": "Alabama"
+        "zu_ZA": "Alabama"
     },
     "AR": {
         "af": "Arkansas",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Arkansas",
         "sq_XK": "Arkansas",
         "sr": "Арканзас",
+        "sr@latin": "Arkanzas",
         "sr_Cyrl": "Арканзас",
         "sr_Cyrl_BA": "Арканзас",
         "sr_Cyrl_ME": "Арканзас",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Arkansas",
         "tr_TR": "Arkansas",
         "tt": "Arkansas",
+        "tt@iqtelif": "Arkansas",
         "tt_RU": "Arkansas",
         "twq": "Arkansas",
         "twq_NE": "Arkansas",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Arkansas",
         "zh_Hant_TW": "Arkansas",
         "zu": "Arkansas",
-        "zu_ZA": "Arkansas",
-        "sr@latin": "Arkanzas",
-        "tt@iqtelif": "Arkansas"
+        "zu_ZA": "Arkansas"
     },
     "AS": {
         "af": "American Samoa",
@@ -3398,6 +3398,7 @@
         "sq_MK": "American Samoa",
         "sq_XK": "American Samoa",
         "sr": "Америчка Самоа",
+        "sr@latin": "Američka Samoa",
         "sr_Cyrl": "Америчка Самоа",
         "sr_Cyrl_BA": "Америчка Самоа",
         "sr_Cyrl_ME": "Америчка Самоа",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Amerikan Samoası",
         "tr_TR": "Amerikan Samoası",
         "tt": "American Samoa",
+        "tt@iqtelif": "American Samoa",
         "tt_RU": "American Samoa",
         "twq": "American Samoa",
         "twq_NE": "American Samoa",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "American Samoa",
         "zh_Hant_TW": "American Samoa",
         "zu": "American Samoa",
-        "zu_ZA": "American Samoa",
-        "sr@latin": "Američka Samoa",
-        "tt@iqtelif": "American Samoa"
+        "zu_ZA": "American Samoa"
     },
     "AZ": {
         "af": "Arizona",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Arizona",
         "sq_XK": "Arizona",
         "sr": "Аризона",
+        "sr@latin": "Arizona",
         "sr_Cyrl": "Аризона",
         "sr_Cyrl_BA": "Аризона",
         "sr_Cyrl_ME": "Аризона",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Arizona",
         "tr_TR": "Arizona",
         "tt": "Arizona",
+        "tt@iqtelif": "Arizona",
         "tt_RU": "Arizona",
         "twq": "Arizona",
         "twq_NE": "Arizona",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Arizona",
         "zh_Hant_TW": "Arizona",
         "zu": "Arizona",
-        "zu_ZA": "Arizona",
-        "sr@latin": "Arizona",
-        "tt@iqtelif": "Arizona"
+        "zu_ZA": "Arizona"
     },
     "CA": {
         "af": "California",
@@ -5168,6 +5168,7 @@
         "sq_MK": "California",
         "sq_XK": "California",
         "sr": "Калифорнија",
+        "sr@latin": "Kalifornija",
         "sr_Cyrl": "Калифорнија",
         "sr_Cyrl_BA": "Калифорнија",
         "sr_Cyrl_ME": "Калифорнија",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Kaliforniya",
         "tr_TR": "Kaliforniya",
         "tt": "California",
+        "tt@iqtelif": "California",
         "tt_RU": "California",
         "twq": "California",
         "twq_NE": "California",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "California",
         "zh_Hant_TW": "California",
         "zu": "California",
-        "zu_ZA": "California",
-        "sr@latin": "Kalifornija",
-        "tt@iqtelif": "California"
+        "zu_ZA": "California"
     },
     "CO": {
         "af": "Colorado",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Colorado",
         "sq_XK": "Colorado",
         "sr": "Колорадо",
+        "sr@latin": "Kolorado",
         "sr_Cyrl": "Колорадо",
         "sr_Cyrl_BA": "Колорадо",
         "sr_Cyrl_ME": "Колорадо",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Kolorado",
         "tr_TR": "Kolorado",
         "tt": "Colorado",
+        "tt@iqtelif": "Colorado",
         "tt_RU": "Colorado",
         "twq": "Colorado",
         "twq_NE": "Colorado",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Colorado",
         "zh_Hant_TW": "Colorado",
         "zu": "Colorado",
-        "zu_ZA": "Colorado",
-        "sr@latin": "Kolorado",
-        "tt@iqtelif": "Colorado"
+        "zu_ZA": "Colorado"
     },
     "CT": {
         "af": "Connecticut",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Connecticut",
         "sq_XK": "Connecticut",
         "sr": "Конектикат",
+        "sr@latin": "Konektikat",
         "sr_Cyrl": "Конектикат",
         "sr_Cyrl_BA": "Конектикат",
         "sr_Cyrl_ME": "Конектикат",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Connecticut",
         "tr_TR": "Connecticut",
         "tt": "Connecticut",
+        "tt@iqtelif": "Connecticut",
         "tt_RU": "Connecticut",
         "twq": "Connecticut",
         "twq_NE": "Connecticut",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Connecticut",
         "zh_Hant_TW": "Connecticut",
         "zu": "Connecticut",
-        "zu_ZA": "Connecticut",
-        "sr@latin": "Konektikat",
-        "tt@iqtelif": "Connecticut"
+        "zu_ZA": "Connecticut"
     },
     "DC": {
         "af": "District of Columbia",
@@ -7823,6 +7823,7 @@
         "sq_MK": "District of Columbia",
         "sq_XK": "District of Columbia",
         "sr": "Колумбијски округ",
+        "sr@latin": "Kolumbijski okrug",
         "sr_Cyrl": "Колумбијски округ",
         "sr_Cyrl_BA": "Колумбијски округ",
         "sr_Cyrl_ME": "Колумбијски округ",
@@ -7883,6 +7884,7 @@
         "tr_CY": "District of Columbia",
         "tr_TR": "District of Columbia",
         "tt": "District of Columbia",
+        "tt@iqtelif": "District of Columbia",
         "tt_RU": "District of Columbia",
         "twq": "District of Columbia",
         "twq_NE": "District of Columbia",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "District of Columbia",
         "zh_Hant_TW": "District of Columbia",
         "zu": "District of Columbia",
-        "zu_ZA": "District of Columbia",
-        "sr@latin": "Kolumbijski okrug",
-        "tt@iqtelif": "District of Columbia"
+        "zu_ZA": "District of Columbia"
     },
     "DE": {
         "af": "Delaware",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Delaware",
         "sq_XK": "Delaware",
         "sr": "Делавер",
+        "sr@latin": "Delaver",
         "sr_Cyrl": "Делавер",
         "sr_Cyrl_BA": "Делавер",
         "sr_Cyrl_ME": "Делавер",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Delaware",
         "tr_TR": "Delaware",
         "tt": "Delaware",
+        "tt@iqtelif": "Delaware",
         "tt_RU": "Delaware",
         "twq": "Delaware",
         "twq_NE": "Delaware",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Delaware",
         "zh_Hant_TW": "Delaware",
         "zu": "Delaware",
-        "zu_ZA": "Delaware",
-        "sr@latin": "Delaver",
-        "tt@iqtelif": "Delaware"
+        "zu_ZA": "Delaware"
     },
     "FL": {
         "af": "Florida",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Florida",
         "sq_XK": "Florida",
         "sr": "Флорида",
+        "sr@latin": "Florida",
         "sr_Cyrl": "Флорида",
         "sr_Cyrl_BA": "Флорида",
         "sr_Cyrl_ME": "Флорида",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Florida",
         "tr_TR": "Florida",
         "tt": "Florida",
+        "tt@iqtelif": "Florida",
         "tt_RU": "Florida",
         "twq": "Florida",
         "twq_NE": "Florida",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Florida",
         "zh_Hant_TW": "Florida",
         "zu": "Florida",
-        "zu_ZA": "Florida",
-        "sr@latin": "Florida",
-        "tt@iqtelif": "Florida"
+        "zu_ZA": "Florida"
     },
     "GA": {
         "af": "Georgia",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Georgia",
         "sq_XK": "Georgia",
         "sr": "Грузија",
+        "sr@latin": "Gruzija",
         "sr_Cyrl": "Грузија",
         "sr_Cyrl_BA": "Грузија",
         "sr_Cyrl_ME": "Грузија",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Gürcistan",
         "tr_TR": "Gürcistan",
         "tt": "Georgia",
+        "tt@iqtelif": "Georgia",
         "tt_RU": "Georgia",
         "twq": "Georgia",
         "twq_NE": "Georgia",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Georgia",
         "zh_Hant_TW": "Georgia",
         "zu": "Georgia",
-        "zu_ZA": "Georgia",
-        "sr@latin": "Gruzija",
-        "tt@iqtelif": "Georgia"
+        "zu_ZA": "Georgia"
     },
     "GU": {
         "af": "Guam",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Guam",
         "sq_XK": "Guam",
         "sr": "Гиам",
+        "sr@latin": "Giam",
         "sr_Cyrl": "Гиам",
         "sr_Cyrl_BA": "Гиам",
         "sr_Cyrl_ME": "Гиам",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Guam",
         "tr_TR": "Guam",
         "tt": "Guam",
+        "tt@iqtelif": "Guam",
         "tt_RU": "Guam",
         "twq": "Guam",
         "twq_NE": "Guam",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Guam",
         "zh_Hant_TW": "Guam",
         "zu": "Guam",
-        "zu_ZA": "Guam",
-        "sr@latin": "Giam",
-        "tt@iqtelif": "Guam"
+        "zu_ZA": "Guam"
     },
     "HI": {
         "af": "Hawaii",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Hawaii",
         "sq_XK": "Hawaii",
         "sr": "Хаваји",
+        "sr@latin": "Havaji",
         "sr_Cyrl": "Хаваји",
         "sr_Cyrl_BA": "Хаваји",
         "sr_Cyrl_ME": "Хаваји",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Hawaii",
         "tr_TR": "Hawaii",
         "tt": "Hawaii",
+        "tt@iqtelif": "Hawaii",
         "tt_RU": "Hawaii",
         "twq": "Hawaii",
         "twq_NE": "Hawaii",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Hawaii",
         "zh_Hant_TW": "Hawaii",
         "zu": "Hawaii",
-        "zu_ZA": "Hawaii",
-        "sr@latin": "Havaji",
-        "tt@iqtelif": "Hawaii"
+        "zu_ZA": "Hawaii"
     },
     "IA": {
         "af": "Iowa",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Iowa",
         "sq_XK": "Iowa",
         "sr": "Ајова",
+        "sr@latin": "Ajova",
         "sr_Cyrl": "Ајова",
         "sr_Cyrl_BA": "Ајова",
         "sr_Cyrl_ME": "Ајова",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Iowa",
         "tr_TR": "Iowa",
         "tt": "Iowa",
+        "tt@iqtelif": "Iowa",
         "tt_RU": "Iowa",
         "twq": "Iowa",
         "twq_NE": "Iowa",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Iowa",
         "zh_Hant_TW": "Iowa",
         "zu": "Iowa",
-        "zu_ZA": "Iowa",
-        "sr@latin": "Ajova",
-        "tt@iqtelif": "Iowa"
+        "zu_ZA": "Iowa"
     },
     "ID": {
         "af": "Idaho",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Idaho",
         "sq_XK": "Idaho",
         "sr": "Ајдахо",
+        "sr@latin": "Ajdaho",
         "sr_Cyrl": "Ајдахо",
         "sr_Cyrl_BA": "Ајдахо",
         "sr_Cyrl_ME": "Ајдахо",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Idaho",
         "tr_TR": "Idaho",
         "tt": "Idaho",
+        "tt@iqtelif": "Idaho",
         "tt_RU": "Idaho",
         "twq": "Idaho",
         "twq_NE": "Idaho",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Idaho",
         "zh_Hant_TW": "Idaho",
         "zu": "Idaho",
-        "zu_ZA": "Idaho",
-        "sr@latin": "Ajdaho",
-        "tt@iqtelif": "Idaho"
+        "zu_ZA": "Idaho"
     },
     "IL": {
         "af": "Illinois",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Illinois",
         "sq_XK": "Illinois",
         "sr": "Илиноис",
+        "sr@latin": "Ilinois",
         "sr_Cyrl": "Илиноис",
         "sr_Cyrl_BA": "Илиноис",
         "sr_Cyrl_ME": "Илиноис",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Illinois",
         "tr_TR": "Illinois",
         "tt": "Illinois",
+        "tt@iqtelif": "Illinois",
         "tt_RU": "Illinois",
         "twq": "Illinois",
         "twq_NE": "Illinois",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Illinois",
         "zh_Hant_TW": "Illinois",
         "zu": "Illinois",
-        "zu_ZA": "Illinois",
-        "sr@latin": "Ilinois",
-        "tt@iqtelif": "Illinois"
+        "zu_ZA": "Illinois"
     },
     "IN": {
         "af": "Indiana",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Indiana",
         "sq_XK": "Indiana",
         "sr": "Индијана",
+        "sr@latin": "Indijana",
         "sr_Cyrl": "Индијана",
         "sr_Cyrl_BA": "Индијана",
         "sr_Cyrl_ME": "Индијана",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Indiana",
         "tr_TR": "Indiana",
         "tt": "Indiana",
+        "tt@iqtelif": "Indiana",
         "tt_RU": "Indiana",
         "twq": "Indiana",
         "twq_NE": "Indiana",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Indiana",
         "zh_Hant_TW": "Indiana",
         "zu": "Indiana",
-        "zu_ZA": "Indiana",
-        "sr@latin": "Indijana",
-        "tt@iqtelif": "Indiana"
+        "zu_ZA": "Indiana"
     },
     "KS": {
         "af": "Kansas",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Kansas",
         "sq_XK": "Kansas",
         "sr": "Канзас",
+        "sr@latin": "Kanzas",
         "sr_Cyrl": "Канзас",
         "sr_Cyrl_BA": "Канзас",
         "sr_Cyrl_ME": "Канзас",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Kansas",
         "tr_TR": "Kansas",
         "tt": "Kansas",
+        "tt@iqtelif": "Kansas",
         "tt_RU": "Kansas",
         "twq": "Kansas",
         "twq_NE": "Kansas",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Kansas",
         "zh_Hant_TW": "Kansas",
         "zu": "Kansas",
-        "zu_ZA": "Kansas",
-        "sr@latin": "Kanzas",
-        "tt@iqtelif": "Kansas"
+        "zu_ZA": "Kansas"
     },
     "KY": {
         "af": "Kentucky",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Kentucky",
         "sq_XK": "Kentucky",
         "sr": "Кентаки",
+        "sr@latin": "Kentaki",
         "sr_Cyrl": "Кентаки",
         "sr_Cyrl_BA": "Кентаки",
         "sr_Cyrl_ME": "Кентаки",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Kentucky",
         "tr_TR": "Kentucky",
         "tt": "Kentucky",
+        "tt@iqtelif": "Kentucky",
         "tt_RU": "Kentucky",
         "twq": "Kentucky",
         "twq_NE": "Kentucky",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Kentucky",
         "zh_Hant_TW": "Kentucky",
         "zu": "Kentucky",
-        "zu_ZA": "Kentucky",
-        "sr@latin": "Kentaki",
-        "tt@iqtelif": "Kentucky"
+        "zu_ZA": "Kentucky"
     },
     "LA": {
         "af": "Louisiana",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Louisiana",
         "sq_XK": "Louisiana",
         "sr": "Луизијана",
+        "sr@latin": "Luizijana",
         "sr_Cyrl": "Луизијана",
         "sr_Cyrl_BA": "Луизијана",
         "sr_Cyrl_ME": "Луизијана",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Louisiana",
         "tr_TR": "Louisiana",
         "tt": "Louisiana",
+        "tt@iqtelif": "Louisiana",
         "tt_RU": "Louisiana",
         "twq": "Louisiana",
         "twq_NE": "Louisiana",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Louisiana",
         "zh_Hant_TW": "Louisiana",
         "zu": "Louisiana",
-        "zu_ZA": "Louisiana",
-        "sr@latin": "Luizijana",
-        "tt@iqtelif": "Louisiana"
+        "zu_ZA": "Louisiana"
     },
     "MA": {
         "af": "Massachusetts",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Massachusetts",
         "sq_XK": "Massachusetts",
         "sr": "Масачусетс",
+        "sr@latin": "Masačusets",
         "sr_Cyrl": "Масачусетс",
         "sr_Cyrl_BA": "Масачусетс",
         "sr_Cyrl_ME": "Масачусетс",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Massachusetts",
         "tr_TR": "Massachusetts",
         "tt": "Massachusetts",
+        "tt@iqtelif": "Massachusetts",
         "tt_RU": "Massachusetts",
         "twq": "Massachusetts",
         "twq_NE": "Massachusetts",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Massachusetts",
         "zh_Hant_TW": "Massachusetts",
         "zu": "Massachusetts",
-        "zu_ZA": "Massachusetts",
-        "sr@latin": "Masačusets",
-        "tt@iqtelif": "Massachusetts"
+        "zu_ZA": "Massachusetts"
     },
     "MD": {
         "af": "Maryland",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Maryland",
         "sq_XK": "Maryland",
         "sr": "Мериленд",
+        "sr@latin": "Merilend",
         "sr_Cyrl": "Мериленд",
         "sr_Cyrl_BA": "Мериленд",
         "sr_Cyrl_ME": "Мериленд",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Maryland",
         "tr_TR": "Maryland",
         "tt": "Maryland",
+        "tt@iqtelif": "Maryland",
         "tt_RU": "Maryland",
         "twq": "Maryland",
         "twq_NE": "Maryland",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Maryland",
         "zh_Hant_TW": "Maryland",
         "zu": "Maryland",
-        "zu_ZA": "Maryland",
-        "sr@latin": "Merilend",
-        "tt@iqtelif": "Maryland"
+        "zu_ZA": "Maryland"
     },
     "ME": {
         "af": "Maine",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Maine",
         "sq_XK": "Maine",
         "sr": "Мејн",
+        "sr@latin": "Mejn",
         "sr_Cyrl": "Мејн",
         "sr_Cyrl_BA": "Мејн",
         "sr_Cyrl_ME": "Мејн",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Maine",
         "tr_TR": "Maine",
         "tt": "Maine",
+        "tt@iqtelif": "Maine",
         "tt_RU": "Maine",
         "twq": "Maine",
         "twq_NE": "Maine",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Maine",
         "zh_Hant_TW": "Maine",
         "zu": "Maine",
-        "zu_ZA": "Maine",
-        "sr@latin": "Mejn",
-        "tt@iqtelif": "Maine"
+        "zu_ZA": "Maine"
     },
     "MI": {
         "af": "Michigan",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Michigan",
         "sq_XK": "Michigan",
         "sr": "Мичиген",
+        "sr@latin": "Mičigen",
         "sr_Cyrl": "Мичиген",
         "sr_Cyrl_BA": "Мичиген",
         "sr_Cyrl_ME": "Мичиген",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Michigan",
         "tr_TR": "Michigan",
         "tt": "Michigan",
+        "tt@iqtelif": "Michigan",
         "tt_RU": "Michigan",
         "twq": "Michigan",
         "twq_NE": "Michigan",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Michigan",
         "zh_Hant_TW": "Michigan",
         "zu": "Michigan",
-        "zu_ZA": "Michigan",
-        "sr@latin": "Mičigen",
-        "tt@iqtelif": "Michigan"
+        "zu_ZA": "Michigan"
     },
     "MN": {
         "af": "Minnesota",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Minnesota",
         "sq_XK": "Minnesota",
         "sr": "Минесота",
+        "sr@latin": "Minesota",
         "sr_Cyrl": "Минесота",
         "sr_Cyrl_BA": "Минесота",
         "sr_Cyrl_ME": "Минесота",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Minnesota",
         "tr_TR": "Minnesota",
         "tt": "Minnesota",
+        "tt@iqtelif": "Minnesota",
         "tt_RU": "Minnesota",
         "twq": "Minnesota",
         "twq_NE": "Minnesota",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Minnesota",
         "zh_Hant_TW": "Minnesota",
         "zu": "Minnesota",
-        "zu_ZA": "Minnesota",
-        "sr@latin": "Minesota",
-        "tt@iqtelif": "Minnesota"
+        "zu_ZA": "Minnesota"
     },
     "MO": {
         "af": "Missouri",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Missouri",
         "sq_XK": "Missouri",
         "sr": "Мисури",
+        "sr@latin": "Misuri",
         "sr_Cyrl": "Мисури",
         "sr_Cyrl_BA": "Мисури",
         "sr_Cyrl_ME": "Мисури",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Missouri",
         "tr_TR": "Missouri",
         "tt": "Missouri",
+        "tt@iqtelif": "Missouri",
         "tt_RU": "Missouri",
         "twq": "Missouri",
         "twq_NE": "Missouri",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Missouri",
         "zh_Hant_TW": "Missouri",
         "zu": "Missouri",
-        "zu_ZA": "Missouri",
-        "sr@latin": "Misuri",
-        "tt@iqtelif": "Missouri"
+        "zu_ZA": "Missouri"
     },
     "MP": {
         "af": "Northern Mariana Islands",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Northern Mariana Islands",
         "sq_XK": "Northern Mariana Islands",
         "sr": "Северна Маријанска острва",
+        "sr@latin": "Severna Marijanska ostrva",
         "sr_Cyrl": "Северна Маријанска острва",
         "sr_Cyrl_BA": "Северна Маријанска острва",
         "sr_Cyrl_ME": "Северна Маријанска острва",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Kuzey Mariana Adaları",
         "tr_TR": "Kuzey Mariana Adaları",
         "tt": "Northern Mariana Islands",
+        "tt@iqtelif": "Northern Mariana Islands",
         "tt_RU": "Northern Mariana Islands",
         "twq": "Northern Mariana Islands",
         "twq_NE": "Northern Mariana Islands",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Northern Mariana Islands",
         "zh_Hant_TW": "Northern Mariana Islands",
         "zu": "Northern Mariana Islands",
-        "zu_ZA": "Northern Mariana Islands",
-        "sr@latin": "Severna Marijanska ostrva",
-        "tt@iqtelif": "Northern Mariana Islands"
+        "zu_ZA": "Northern Mariana Islands"
     },
     "MS": {
         "af": "Mississippi",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Mississippi",
         "sq_XK": "Mississippi",
         "sr": "Мисисипи",
+        "sr@latin": "Misisipi",
         "sr_Cyrl": "Мисисипи",
         "sr_Cyrl_BA": "Мисисипи",
         "sr_Cyrl_ME": "Мисисипи",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Mississippi",
         "tr_TR": "Mississippi",
         "tt": "Mississippi",
+        "tt@iqtelif": "Mississippi",
         "tt_RU": "Mississippi",
         "twq": "Mississippi",
         "twq_NE": "Mississippi",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Mississippi",
         "zh_Hant_TW": "Mississippi",
         "zu": "Mississippi",
-        "zu_ZA": "Mississippi",
-        "sr@latin": "Misisipi",
-        "tt@iqtelif": "Mississippi"
+        "zu_ZA": "Mississippi"
     },
     "MT": {
         "af": "Montana",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Montana",
         "sq_XK": "Montana",
         "sr": "Монтана",
+        "sr@latin": "Montana",
         "sr_Cyrl": "Монтана",
         "sr_Cyrl_BA": "Монтана",
         "sr_Cyrl_ME": "Монтана",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Montana",
         "tr_TR": "Montana",
         "tt": "Montana",
+        "tt@iqtelif": "Montana",
         "tt_RU": "Montana",
         "twq": "Montana",
         "twq_NE": "Montana",
@@ -26545,9 +26547,7 @@
         "zh_Hant_MY": "Montana",
         "zh_Hant_TW": "Montana",
         "zu": "Montana",
-        "zu_ZA": "Montana",
-        "sr@latin": "Montana",
-        "tt@iqtelif": "Montana"
+        "zu_ZA": "Montana"
     },
     "NC": {
         "af": "North Carolina",
@@ -27293,6 +27293,7 @@
         "sq_MK": "North Carolina",
         "sq_XK": "North Carolina",
         "sr": "Северна Каролина",
+        "sr@latin": "Severna Karolina",
         "sr_Cyrl": "Северна Каролина",
         "sr_Cyrl_BA": "Северна Каролина",
         "sr_Cyrl_ME": "Северна Каролина",
@@ -27353,6 +27354,7 @@
         "tr_CY": "Kuzey Carolina",
         "tr_TR": "Kuzey Carolina",
         "tt": "North Carolina",
+        "tt@iqtelif": "North Carolina",
         "tt_RU": "North Carolina",
         "twq": "North Carolina",
         "twq_NE": "North Carolina",
@@ -27430,9 +27432,7 @@
         "zh_Hant_MY": "North Carolina",
         "zh_Hant_TW": "North Carolina",
         "zu": "North Carolina",
-        "zu_ZA": "North Carolina",
-        "sr@latin": "Severna Karolina",
-        "tt@iqtelif": "North Carolina"
+        "zu_ZA": "North Carolina"
     },
     "ND": {
         "af": "North Dakota",
@@ -28178,6 +28178,7 @@
         "sq_MK": "North Dakota",
         "sq_XK": "North Dakota",
         "sr": "Северна Дакота",
+        "sr@latin": "Severna Dakota",
         "sr_Cyrl": "Северна Дакота",
         "sr_Cyrl_BA": "Северна Дакота",
         "sr_Cyrl_ME": "Северна Дакота",
@@ -28238,6 +28239,7 @@
         "tr_CY": "Kuzey Dakota",
         "tr_TR": "Kuzey Dakota",
         "tt": "North Dakota",
+        "tt@iqtelif": "North Dakota",
         "tt_RU": "North Dakota",
         "twq": "North Dakota",
         "twq_NE": "North Dakota",
@@ -28315,9 +28317,7 @@
         "zh_Hant_MY": "North Dakota",
         "zh_Hant_TW": "North Dakota",
         "zu": "North Dakota",
-        "zu_ZA": "North Dakota",
-        "sr@latin": "Severna Dakota",
-        "tt@iqtelif": "North Dakota"
+        "zu_ZA": "North Dakota"
     },
     "NE": {
         "af": "Nebraska",
@@ -29063,6 +29063,7 @@
         "sq_MK": "Nebraska",
         "sq_XK": "Nebraska",
         "sr": "Небраска",
+        "sr@latin": "Nebraska",
         "sr_Cyrl": "Небраска",
         "sr_Cyrl_BA": "Небраска",
         "sr_Cyrl_ME": "Небраска",
@@ -29123,6 +29124,7 @@
         "tr_CY": "Nebraska",
         "tr_TR": "Nebraska",
         "tt": "Nebraska",
+        "tt@iqtelif": "Nebraska",
         "tt_RU": "Nebraska",
         "twq": "Nebraska",
         "twq_NE": "Nebraska",
@@ -29200,9 +29202,7 @@
         "zh_Hant_MY": "Nebraska",
         "zh_Hant_TW": "Nebraska",
         "zu": "Nebraska",
-        "zu_ZA": "Nebraska",
-        "sr@latin": "Nebraska",
-        "tt@iqtelif": "Nebraska"
+        "zu_ZA": "Nebraska"
     },
     "NH": {
         "af": "New Hampshire",
@@ -29948,6 +29948,7 @@
         "sq_MK": "New Hampshire",
         "sq_XK": "New Hampshire",
         "sr": "Њу Хемпшир",
+        "sr@latin": "Nju Hempšir",
         "sr_Cyrl": "Њу Хемпшир",
         "sr_Cyrl_BA": "Њу Хемпшир",
         "sr_Cyrl_ME": "Њу Хемпшир",
@@ -30008,6 +30009,7 @@
         "tr_CY": "New Hampshire",
         "tr_TR": "New Hampshire",
         "tt": "New Hampshire",
+        "tt@iqtelif": "New Hampshire",
         "tt_RU": "New Hampshire",
         "twq": "New Hampshire",
         "twq_NE": "New Hampshire",
@@ -30085,9 +30087,7 @@
         "zh_Hant_MY": "New Hampshire",
         "zh_Hant_TW": "New Hampshire",
         "zu": "New Hampshire",
-        "zu_ZA": "New Hampshire",
-        "sr@latin": "Nju Hempšir",
-        "tt@iqtelif": "New Hampshire"
+        "zu_ZA": "New Hampshire"
     },
     "NJ": {
         "af": "New Jersey",
@@ -30833,6 +30833,7 @@
         "sq_MK": "New Jersey",
         "sq_XK": "New Jersey",
         "sr": "Њу Џерси",
+        "sr@latin": "Nju Džersi",
         "sr_Cyrl": "Њу Џерси",
         "sr_Cyrl_BA": "Њу Џерси",
         "sr_Cyrl_ME": "Њу Џерси",
@@ -30893,6 +30894,7 @@
         "tr_CY": "New Jersey",
         "tr_TR": "New Jersey",
         "tt": "New Jersey",
+        "tt@iqtelif": "New Jersey",
         "tt_RU": "New Jersey",
         "twq": "New Jersey",
         "twq_NE": "New Jersey",
@@ -30970,9 +30972,7 @@
         "zh_Hant_MY": "New Jersey",
         "zh_Hant_TW": "New Jersey",
         "zu": "New Jersey",
-        "zu_ZA": "New Jersey",
-        "sr@latin": "Nju Džersi",
-        "tt@iqtelif": "New Jersey"
+        "zu_ZA": "New Jersey"
     },
     "NM": {
         "af": "New Mexico",
@@ -31718,6 +31718,7 @@
         "sq_MK": "New Mexico",
         "sq_XK": "New Mexico",
         "sr": "Нови Мексико",
+        "sr@latin": "Novi Meksiko",
         "sr_Cyrl": "Нови Мексико",
         "sr_Cyrl_BA": "Нови Мексико",
         "sr_Cyrl_ME": "Нови Мексико",
@@ -31778,6 +31779,7 @@
         "tr_CY": "New Mexico",
         "tr_TR": "New Mexico",
         "tt": "New Mexico",
+        "tt@iqtelif": "New Mexico",
         "tt_RU": "New Mexico",
         "twq": "New Mexico",
         "twq_NE": "New Mexico",
@@ -31855,9 +31857,7 @@
         "zh_Hant_MY": "New Mexico",
         "zh_Hant_TW": "New Mexico",
         "zu": "New Mexico",
-        "zu_ZA": "New Mexico",
-        "sr@latin": "Novi Meksiko",
-        "tt@iqtelif": "New Mexico"
+        "zu_ZA": "New Mexico"
     },
     "NV": {
         "af": "Nevada",
@@ -32603,6 +32603,7 @@
         "sq_MK": "Nevada",
         "sq_XK": "Nevada",
         "sr": "Невада",
+        "sr@latin": "Nevada",
         "sr_Cyrl": "Невада",
         "sr_Cyrl_BA": "Невада",
         "sr_Cyrl_ME": "Невада",
@@ -32663,6 +32664,7 @@
         "tr_CY": "Nevada",
         "tr_TR": "Nevada",
         "tt": "Nevada",
+        "tt@iqtelif": "Nevada",
         "tt_RU": "Nevada",
         "twq": "Nevada",
         "twq_NE": "Nevada",
@@ -32740,9 +32742,7 @@
         "zh_Hant_MY": "Nevada",
         "zh_Hant_TW": "Nevada",
         "zu": "Nevada",
-        "zu_ZA": "Nevada",
-        "sr@latin": "Nevada",
-        "tt@iqtelif": "Nevada"
+        "zu_ZA": "Nevada"
     },
     "NY": {
         "af": "New York",
@@ -33488,6 +33488,7 @@
         "sq_MK": "New York",
         "sq_XK": "New York",
         "sr": "Њујорк",
+        "sr@latin": "Njujork",
         "sr_Cyrl": "Њујорк",
         "sr_Cyrl_BA": "Њујорк",
         "sr_Cyrl_ME": "Њујорк",
@@ -33548,6 +33549,7 @@
         "tr_CY": "New York",
         "tr_TR": "New York",
         "tt": "New York",
+        "tt@iqtelif": "New York",
         "tt_RU": "New York",
         "twq": "New York",
         "twq_NE": "New York",
@@ -33625,9 +33627,7 @@
         "zh_Hant_MY": "New York",
         "zh_Hant_TW": "New York",
         "zu": "New York",
-        "zu_ZA": "New York",
-        "sr@latin": "Njujork",
-        "tt@iqtelif": "New York"
+        "zu_ZA": "New York"
     },
     "OH": {
         "af": "Ohio",
@@ -34373,6 +34373,7 @@
         "sq_MK": "Ohio",
         "sq_XK": "Ohio",
         "sr": "Охајо",
+        "sr@latin": "Ohajo",
         "sr_Cyrl": "Охајо",
         "sr_Cyrl_BA": "Охајо",
         "sr_Cyrl_ME": "Охајо",
@@ -34433,6 +34434,7 @@
         "tr_CY": "Ohio",
         "tr_TR": "Ohio",
         "tt": "Ohio",
+        "tt@iqtelif": "Ohio",
         "tt_RU": "Ohio",
         "twq": "Ohio",
         "twq_NE": "Ohio",
@@ -34510,9 +34512,7 @@
         "zh_Hant_MY": "Ohio",
         "zh_Hant_TW": "Ohio",
         "zu": "Ohio",
-        "zu_ZA": "Ohio",
-        "sr@latin": "Ohajo",
-        "tt@iqtelif": "Ohio"
+        "zu_ZA": "Ohio"
     },
     "OK": {
         "af": "Oklahoma",
@@ -35258,6 +35258,7 @@
         "sq_MK": "Oklahoma",
         "sq_XK": "Oklahoma",
         "sr": "Оклахома",
+        "sr@latin": "Oklahoma",
         "sr_Cyrl": "Оклахома",
         "sr_Cyrl_BA": "Оклахома",
         "sr_Cyrl_ME": "Оклахома",
@@ -35318,6 +35319,7 @@
         "tr_CY": "Oklahoma",
         "tr_TR": "Oklahoma",
         "tt": "Oklahoma",
+        "tt@iqtelif": "Oklahoma",
         "tt_RU": "Oklahoma",
         "twq": "Oklahoma",
         "twq_NE": "Oklahoma",
@@ -35395,9 +35397,7 @@
         "zh_Hant_MY": "Oklahoma",
         "zh_Hant_TW": "Oklahoma",
         "zu": "Oklahoma",
-        "zu_ZA": "Oklahoma",
-        "sr@latin": "Oklahoma",
-        "tt@iqtelif": "Oklahoma"
+        "zu_ZA": "Oklahoma"
     },
     "OR": {
         "af": "Oregon",
@@ -36143,6 +36143,7 @@
         "sq_MK": "Oregon",
         "sq_XK": "Oregon",
         "sr": "Орегон",
+        "sr@latin": "Oregon",
         "sr_Cyrl": "Орегон",
         "sr_Cyrl_BA": "Орегон",
         "sr_Cyrl_ME": "Орегон",
@@ -36203,6 +36204,7 @@
         "tr_CY": "Oregon",
         "tr_TR": "Oregon",
         "tt": "Oregon",
+        "tt@iqtelif": "Oregon",
         "tt_RU": "Oregon",
         "twq": "Oregon",
         "twq_NE": "Oregon",
@@ -36280,9 +36282,7 @@
         "zh_Hant_MY": "Oregon",
         "zh_Hant_TW": "Oregon",
         "zu": "Oregon",
-        "zu_ZA": "Oregon",
-        "sr@latin": "Oregon",
-        "tt@iqtelif": "Oregon"
+        "zu_ZA": "Oregon"
     },
     "PA": {
         "af": "Pennsylvania",
@@ -37028,6 +37028,7 @@
         "sq_MK": "Pennsylvania",
         "sq_XK": "Pennsylvania",
         "sr": "Пенсилванија",
+        "sr@latin": "Pensilvanija",
         "sr_Cyrl": "Пенсилванија",
         "sr_Cyrl_BA": "Пенсилванија",
         "sr_Cyrl_ME": "Пенсилванија",
@@ -37088,6 +37089,7 @@
         "tr_CY": "Pennsylvania",
         "tr_TR": "Pennsylvania",
         "tt": "Pennsylvania",
+        "tt@iqtelif": "Pennsylvania",
         "tt_RU": "Pennsylvania",
         "twq": "Pennsylvania",
         "twq_NE": "Pennsylvania",
@@ -37165,9 +37167,7 @@
         "zh_Hant_MY": "Pennsylvania",
         "zh_Hant_TW": "Pennsylvania",
         "zu": "Pennsylvania",
-        "zu_ZA": "Pennsylvania",
-        "sr@latin": "Pensilvanija",
-        "tt@iqtelif": "Pennsylvania"
+        "zu_ZA": "Pennsylvania"
     },
     "PR": {
         "af": "Puerto Rico",
@@ -37913,6 +37913,7 @@
         "sq_MK": "Puerto Rico",
         "sq_XK": "Puerto Rico",
         "sr": "Порторико",
+        "sr@latin": "Portoriko",
         "sr_Cyrl": "Порторико",
         "sr_Cyrl_BA": "Порторико",
         "sr_Cyrl_ME": "Порторико",
@@ -37973,6 +37974,7 @@
         "tr_CY": "Porto Riko",
         "tr_TR": "Porto Riko",
         "tt": "Puerto Rico",
+        "tt@iqtelif": "Puerto Rico",
         "tt_RU": "Puerto Rico",
         "twq": "Puerto Rico",
         "twq_NE": "Puerto Rico",
@@ -38050,9 +38052,7 @@
         "zh_Hant_MY": "Puerto Rico",
         "zh_Hant_TW": "Puerto Rico",
         "zu": "Puerto Rico",
-        "zu_ZA": "Puerto Rico",
-        "sr@latin": "Portoriko",
-        "tt@iqtelif": "Puerto Rico"
+        "zu_ZA": "Puerto Rico"
     },
     "RI": {
         "af": "Rhode Island",
@@ -38798,6 +38798,7 @@
         "sq_MK": "Rhode Island",
         "sq_XK": "Rhode Island",
         "sr": "Род Ајланд",
+        "sr@latin": "Rod Ajland",
         "sr_Cyrl": "Род Ајланд",
         "sr_Cyrl_BA": "Род Ајланд",
         "sr_Cyrl_ME": "Род Ајланд",
@@ -38858,6 +38859,7 @@
         "tr_CY": "Rhode Island",
         "tr_TR": "Rhode Island",
         "tt": "Rhode Island",
+        "tt@iqtelif": "Rhode Island",
         "tt_RU": "Rhode Island",
         "twq": "Rhode Island",
         "twq_NE": "Rhode Island",
@@ -38935,9 +38937,7 @@
         "zh_Hant_MY": "Rhode Island",
         "zh_Hant_TW": "Rhode Island",
         "zu": "Rhode Island",
-        "zu_ZA": "Rhode Island",
-        "sr@latin": "Rod Ajland",
-        "tt@iqtelif": "Rhode Island"
+        "zu_ZA": "Rhode Island"
     },
     "SC": {
         "af": "South Carolina",
@@ -39683,6 +39683,7 @@
         "sq_MK": "South Carolina",
         "sq_XK": "South Carolina",
         "sr": "Јужна Каролина",
+        "sr@latin": "Južna Karolina",
         "sr_Cyrl": "Јужна Каролина",
         "sr_Cyrl_BA": "Јужна Каролина",
         "sr_Cyrl_ME": "Јужна Каролина",
@@ -39743,6 +39744,7 @@
         "tr_CY": "Güney Carolina",
         "tr_TR": "Güney Carolina",
         "tt": "South Carolina",
+        "tt@iqtelif": "South Carolina",
         "tt_RU": "South Carolina",
         "twq": "South Carolina",
         "twq_NE": "South Carolina",
@@ -39820,9 +39822,7 @@
         "zh_Hant_MY": "South Carolina",
         "zh_Hant_TW": "South Carolina",
         "zu": "South Carolina",
-        "zu_ZA": "South Carolina",
-        "sr@latin": "Južna Karolina",
-        "tt@iqtelif": "South Carolina"
+        "zu_ZA": "South Carolina"
     },
     "SD": {
         "af": "South Dakota",
@@ -40568,6 +40568,7 @@
         "sq_MK": "South Dakota",
         "sq_XK": "South Dakota",
         "sr": "Јужна Дакота",
+        "sr@latin": "Južna Dakota",
         "sr_Cyrl": "Јужна Дакота",
         "sr_Cyrl_BA": "Јужна Дакота",
         "sr_Cyrl_ME": "Јужна Дакота",
@@ -40628,6 +40629,7 @@
         "tr_CY": "Güney Dakota",
         "tr_TR": "Güney Dakota",
         "tt": "South Dakota",
+        "tt@iqtelif": "South Dakota",
         "tt_RU": "South Dakota",
         "twq": "South Dakota",
         "twq_NE": "South Dakota",
@@ -40705,9 +40707,7 @@
         "zh_Hant_MY": "South Dakota",
         "zh_Hant_TW": "South Dakota",
         "zu": "South Dakota",
-        "zu_ZA": "South Dakota",
-        "sr@latin": "Južna Dakota",
-        "tt@iqtelif": "South Dakota"
+        "zu_ZA": "South Dakota"
     },
     "TN": {
         "af": "Tennessee",
@@ -41453,6 +41453,7 @@
         "sq_MK": "Tennessee",
         "sq_XK": "Tennessee",
         "sr": "Тенеси",
+        "sr@latin": "Tenesi",
         "sr_Cyrl": "Тенеси",
         "sr_Cyrl_BA": "Тенеси",
         "sr_Cyrl_ME": "Тенеси",
@@ -41513,6 +41514,7 @@
         "tr_CY": "Tennessee",
         "tr_TR": "Tennessee",
         "tt": "Tennessee",
+        "tt@iqtelif": "Tennessee",
         "tt_RU": "Tennessee",
         "twq": "Tennessee",
         "twq_NE": "Tennessee",
@@ -41590,9 +41592,7 @@
         "zh_Hant_MY": "Tennessee",
         "zh_Hant_TW": "Tennessee",
         "zu": "Tennessee",
-        "zu_ZA": "Tennessee",
-        "sr@latin": "Tenesi",
-        "tt@iqtelif": "Tennessee"
+        "zu_ZA": "Tennessee"
     },
     "TX": {
         "af": "Texas",
@@ -42338,6 +42338,7 @@
         "sq_MK": "Texas",
         "sq_XK": "Texas",
         "sr": "Тексас",
+        "sr@latin": "Teksas",
         "sr_Cyrl": "Тексас",
         "sr_Cyrl_BA": "Тексас",
         "sr_Cyrl_ME": "Тексас",
@@ -42398,6 +42399,7 @@
         "tr_CY": "Texas",
         "tr_TR": "Texas",
         "tt": "Texas",
+        "tt@iqtelif": "Texas",
         "tt_RU": "Texas",
         "twq": "Texas",
         "twq_NE": "Texas",
@@ -42475,9 +42477,7 @@
         "zh_Hant_MY": "Texas",
         "zh_Hant_TW": "Texas",
         "zu": "Texas",
-        "zu_ZA": "Texas",
-        "sr@latin": "Teksas",
-        "tt@iqtelif": "Texas"
+        "zu_ZA": "Texas"
     },
     "UM": {
         "af": "United States Minor Outlying Islands",
@@ -43223,6 +43223,7 @@
         "sq_MK": "United States Minor Outlying Islands",
         "sq_XK": "United States Minor Outlying Islands",
         "sr": "Спољна ивична острва САД",
+        "sr@latin": "Spoljna ivična ostrva SAD",
         "sr_Cyrl": "Спољна ивична острва САД",
         "sr_Cyrl_BA": "Спољна ивична острва САД",
         "sr_Cyrl_ME": "Спољна ивична острва САД",
@@ -43283,6 +43284,7 @@
         "tr_CY": "Amerika Birleşik Devletleri Küçük Dış Adaları",
         "tr_TR": "Amerika Birleşik Devletleri Küçük Dış Adaları",
         "tt": "United States Minor Outlying Islands",
+        "tt@iqtelif": "United States Minor Outlying Islands",
         "tt_RU": "United States Minor Outlying Islands",
         "twq": "United States Minor Outlying Islands",
         "twq_NE": "United States Minor Outlying Islands",
@@ -43360,9 +43362,7 @@
         "zh_Hant_MY": "United States Minor Outlying Islands",
         "zh_Hant_TW": "United States Minor Outlying Islands",
         "zu": "United States Minor Outlying Islands",
-        "zu_ZA": "United States Minor Outlying Islands",
-        "sr@latin": "Spoljna ivična ostrva SAD",
-        "tt@iqtelif": "United States Minor Outlying Islands"
+        "zu_ZA": "United States Minor Outlying Islands"
     },
     "UT": {
         "af": "Utah",
@@ -44108,6 +44108,7 @@
         "sq_MK": "Utah",
         "sq_XK": "Utah",
         "sr": "Јута",
+        "sr@latin": "Juta",
         "sr_Cyrl": "Јута",
         "sr_Cyrl_BA": "Јута",
         "sr_Cyrl_ME": "Јута",
@@ -44168,6 +44169,7 @@
         "tr_CY": "Utah",
         "tr_TR": "Utah",
         "tt": "Utah",
+        "tt@iqtelif": "Utah",
         "tt_RU": "Utah",
         "twq": "Utah",
         "twq_NE": "Utah",
@@ -44245,9 +44247,7 @@
         "zh_Hant_MY": "Utah",
         "zh_Hant_TW": "Utah",
         "zu": "Utah",
-        "zu_ZA": "Utah",
-        "sr@latin": "Juta",
-        "tt@iqtelif": "Utah"
+        "zu_ZA": "Utah"
     },
     "VA": {
         "af": "Virginia",
@@ -44993,6 +44993,7 @@
         "sq_MK": "Virginia",
         "sq_XK": "Virginia",
         "sr": "Вирџинија",
+        "sr@latin": "Virdžinija",
         "sr_Cyrl": "Вирџинија",
         "sr_Cyrl_BA": "Вирџинија",
         "sr_Cyrl_ME": "Вирџинија",
@@ -45053,6 +45054,7 @@
         "tr_CY": "Virginia",
         "tr_TR": "Virginia",
         "tt": "Virginia",
+        "tt@iqtelif": "Virginia",
         "tt_RU": "Virginia",
         "twq": "Virginia",
         "twq_NE": "Virginia",
@@ -45130,9 +45132,7 @@
         "zh_Hant_MY": "Virginia",
         "zh_Hant_TW": "Virginia",
         "zu": "Virginia",
-        "zu_ZA": "Virginia",
-        "sr@latin": "Virdžinija",
-        "tt@iqtelif": "Virginia"
+        "zu_ZA": "Virginia"
     },
     "VI": {
         "af": "Virgin Islands, U.S.",
@@ -45878,6 +45878,7 @@
         "sq_MK": "Virgin Islands, U.S.",
         "sq_XK": "Virgin Islands, U.S.",
         "sr": "Virgin Islands, U.S.",
+        "sr@latin": "Virgin Islands, U.S.",
         "sr_Cyrl": "Virgin Islands, U.S.",
         "sr_Cyrl_BA": "Virgin Islands, U.S.",
         "sr_Cyrl_ME": "Virgin Islands, U.S.",
@@ -45938,6 +45939,7 @@
         "tr_CY": "Virgin Islands, U.S.",
         "tr_TR": "Virgin Islands, U.S.",
         "tt": "Virgin Islands, U.S.",
+        "tt@iqtelif": "Virgin Islands, U.S.",
         "tt_RU": "Virgin Islands, U.S.",
         "twq": "Virgin Islands, U.S.",
         "twq_NE": "Virgin Islands, U.S.",
@@ -46015,9 +46017,7 @@
         "zh_Hant_MY": "Virgin Islands, U.S.",
         "zh_Hant_TW": "Virgin Islands, U.S.",
         "zu": "Virgin Islands, U.S.",
-        "zu_ZA": "Virgin Islands, U.S.",
-        "sr@latin": "Virgin Islands, U.S.",
-        "tt@iqtelif": "Virgin Islands, U.S."
+        "zu_ZA": "Virgin Islands, U.S."
     },
     "VT": {
         "af": "Vermont",
@@ -46763,6 +46763,7 @@
         "sq_MK": "Vermont",
         "sq_XK": "Vermont",
         "sr": "Вермонт",
+        "sr@latin": "Vermont",
         "sr_Cyrl": "Вермонт",
         "sr_Cyrl_BA": "Вермонт",
         "sr_Cyrl_ME": "Вермонт",
@@ -46823,6 +46824,7 @@
         "tr_CY": "Vermont",
         "tr_TR": "Vermont",
         "tt": "Vermont",
+        "tt@iqtelif": "Vermont",
         "tt_RU": "Vermont",
         "twq": "Vermont",
         "twq_NE": "Vermont",
@@ -46900,9 +46902,7 @@
         "zh_Hant_MY": "Vermont",
         "zh_Hant_TW": "Vermont",
         "zu": "Vermont",
-        "zu_ZA": "Vermont",
-        "sr@latin": "Vermont",
-        "tt@iqtelif": "Vermont"
+        "zu_ZA": "Vermont"
     },
     "WA": {
         "af": "Washington",
@@ -47648,6 +47648,7 @@
         "sq_MK": "Washington",
         "sq_XK": "Washington",
         "sr": "Вашингтон",
+        "sr@latin": "Vašington",
         "sr_Cyrl": "Вашингтон",
         "sr_Cyrl_BA": "Вашингтон",
         "sr_Cyrl_ME": "Вашингтон",
@@ -47708,6 +47709,7 @@
         "tr_CY": "Washington",
         "tr_TR": "Washington",
         "tt": "Washington",
+        "tt@iqtelif": "Washington",
         "tt_RU": "Washington",
         "twq": "Washington",
         "twq_NE": "Washington",
@@ -47785,9 +47787,7 @@
         "zh_Hant_MY": "Washington",
         "zh_Hant_TW": "Washington",
         "zu": "Washington",
-        "zu_ZA": "Washington",
-        "sr@latin": "Vašington",
-        "tt@iqtelif": "Washington"
+        "zu_ZA": "Washington"
     },
     "WI": {
         "af": "Wisconsin",
@@ -48533,6 +48533,7 @@
         "sq_MK": "Wisconsin",
         "sq_XK": "Wisconsin",
         "sr": "Висконсин",
+        "sr@latin": "Viskonsin",
         "sr_Cyrl": "Висконсин",
         "sr_Cyrl_BA": "Висконсин",
         "sr_Cyrl_ME": "Висконсин",
@@ -48593,6 +48594,7 @@
         "tr_CY": "Wisconsin",
         "tr_TR": "Wisconsin",
         "tt": "Wisconsin",
+        "tt@iqtelif": "Wisconsin",
         "tt_RU": "Wisconsin",
         "twq": "Wisconsin",
         "twq_NE": "Wisconsin",
@@ -48670,9 +48672,7 @@
         "zh_Hant_MY": "Wisconsin",
         "zh_Hant_TW": "Wisconsin",
         "zu": "Wisconsin",
-        "zu_ZA": "Wisconsin",
-        "sr@latin": "Viskonsin",
-        "tt@iqtelif": "Wisconsin"
+        "zu_ZA": "Wisconsin"
     },
     "WV": {
         "af": "West Virginia",
@@ -49418,6 +49418,7 @@
         "sq_MK": "West Virginia",
         "sq_XK": "West Virginia",
         "sr": "Западна Вирџинија",
+        "sr@latin": "Zapadna Virdžinija",
         "sr_Cyrl": "Западна Вирџинија",
         "sr_Cyrl_BA": "Западна Вирџинија",
         "sr_Cyrl_ME": "Западна Вирџинија",
@@ -49478,6 +49479,7 @@
         "tr_CY": "Batı Virginia",
         "tr_TR": "Batı Virginia",
         "tt": "West Virginia",
+        "tt@iqtelif": "West Virginia",
         "tt_RU": "West Virginia",
         "twq": "West Virginia",
         "twq_NE": "West Virginia",
@@ -49555,9 +49557,7 @@
         "zh_Hant_MY": "West Virginia",
         "zh_Hant_TW": "West Virginia",
         "zu": "West Virginia",
-        "zu_ZA": "West Virginia",
-        "sr@latin": "Zapadna Virdžinija",
-        "tt@iqtelif": "West Virginia"
+        "zu_ZA": "West Virginia"
     },
     "WY": {
         "af": "Wyoming",
@@ -50303,6 +50303,7 @@
         "sq_MK": "Wyoming",
         "sq_XK": "Wyoming",
         "sr": "Вајоминг",
+        "sr@latin": "Vajoming",
         "sr_Cyrl": "Вајоминг",
         "sr_Cyrl_BA": "Вајоминг",
         "sr_Cyrl_ME": "Вајоминг",
@@ -50363,6 +50364,7 @@
         "tr_CY": "Wyoming",
         "tr_TR": "Wyoming",
         "tt": "Wyoming",
+        "tt@iqtelif": "Wyoming",
         "tt_RU": "Wyoming",
         "twq": "Wyoming",
         "twq_NE": "Wyoming",
@@ -50440,8 +50442,6 @@
         "zh_Hant_MY": "Wyoming",
         "zh_Hant_TW": "Wyoming",
         "zu": "Wyoming",
-        "zu_ZA": "Wyoming",
-        "sr@latin": "Vajoming",
-        "tt@iqtelif": "Wyoming"
+        "zu_ZA": "Wyoming"
     }
 }

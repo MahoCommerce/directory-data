@@ -743,6 +743,7 @@
         "sq_MK": "Estuaire",
         "sq_XK": "Estuaire",
         "sr": "Естуаир",
+        "sr@latin": "Estuair",
         "sr_Cyrl": "Естуаир",
         "sr_Cyrl_BA": "Естуаир",
         "sr_Cyrl_ME": "Естуаир",
@@ -803,6 +804,7 @@
         "tr_CY": "Estuaire",
         "tr_TR": "Estuaire",
         "tt": "Estuaire",
+        "tt@iqtelif": "Estuaire",
         "tt_RU": "Estuaire",
         "twq": "Estuaire",
         "twq_NE": "Estuaire",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Estuaire",
         "zh_Hant_TW": "Estuaire",
         "zu": "Estuaire",
-        "zu_ZA": "Estuaire",
-        "sr@latin": "Estuair",
-        "tt@iqtelif": "Estuaire"
+        "zu_ZA": "Estuaire"
     },
     "2": {
         "af": "Haut-Ogooué",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Haut-Ogooué",
         "sq_XK": "Haut-Ogooué",
         "sr": "Haut-Ogooué",
+        "sr@latin": "Haut-Ogooué",
         "sr_Cyrl": "Haut-Ogooué",
         "sr_Cyrl_BA": "Haut-Ogooué",
         "sr_Cyrl_ME": "Haut-Ogooué",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Haut-Ogooue",
         "tr_TR": "Haut-Ogooue",
         "tt": "Haut-Ogooué",
+        "tt@iqtelif": "Haut-Ogooué",
         "tt_RU": "Haut-Ogooué",
         "twq": "Haut-Ogooué",
         "twq_NE": "Haut-Ogooué",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Haut-Ogooué",
         "zh_Hant_TW": "Haut-Ogooué",
         "zu": "Haut-Ogooué",
-        "zu_ZA": "Haut-Ogooué",
-        "sr@latin": "Haut-Ogooué",
-        "tt@iqtelif": "Haut-Ogooué"
+        "zu_ZA": "Haut-Ogooué"
     },
     "3": {
         "af": "Moyen-Ogooué",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Moyen-Ogooué",
         "sq_XK": "Moyen-Ogooué",
         "sr": "Муајан-Огоуе",
+        "sr@latin": "Muajan-Ogoue",
         "sr_Cyrl": "Муајан-Огоуе",
         "sr_Cyrl_BA": "Муајан-Огоуе",
         "sr_Cyrl_ME": "Муајан-Огоуе",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Moyen-Ogooué",
         "tr_TR": "Moyen-Ogooué",
         "tt": "Moyen-Ogooué",
+        "tt@iqtelif": "Moyen-Ogooué",
         "tt_RU": "Moyen-Ogooué",
         "twq": "Moyen-Ogooué",
         "twq_NE": "Moyen-Ogooué",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Moyen-Ogooué",
         "zh_Hant_TW": "Moyen-Ogooué",
         "zu": "Moyen-Ogooué",
-        "zu_ZA": "Moyen-Ogooué",
-        "sr@latin": "Muajan-Ogoue",
-        "tt@iqtelif": "Moyen-Ogooué"
+        "zu_ZA": "Moyen-Ogooué"
     },
     "4": {
         "af": "Ngounié",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Ngounié",
         "sq_XK": "Ngounié",
         "sr": "Ngounié",
+        "sr@latin": "Ngounié",
         "sr_Cyrl": "Ngounié",
         "sr_Cyrl_BA": "Ngounié",
         "sr_Cyrl_ME": "Ngounié",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Ngounie",
         "tr_TR": "Ngounie",
         "tt": "Ngounié",
+        "tt@iqtelif": "Ngounié",
         "tt_RU": "Ngounié",
         "twq": "Ngounié",
         "twq_NE": "Ngounié",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Ngounié",
         "zh_Hant_TW": "Ngounié",
         "zu": "Ngounié",
-        "zu_ZA": "Ngounié",
-        "sr@latin": "Ngounié",
-        "tt@iqtelif": "Ngounié"
+        "zu_ZA": "Ngounié"
     },
     "5": {
         "af": "Nyanga",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Nyanga",
         "sq_XK": "Nyanga",
         "sr": "Nyanga",
+        "sr@latin": "Nyanga",
         "sr_Cyrl": "Nyanga",
         "sr_Cyrl_BA": "Nyanga",
         "sr_Cyrl_ME": "Nyanga",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Nyanga",
         "tr_TR": "Nyanga",
         "tt": "Nyanga",
+        "tt@iqtelif": "Nyanga",
         "tt_RU": "Nyanga",
         "twq": "Nyanga",
         "twq_NE": "Nyanga",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Nyanga",
         "zh_Hant_TW": "Nyanga",
         "zu": "Nyanga",
-        "zu_ZA": "Nyanga",
-        "sr@latin": "Nyanga",
-        "tt@iqtelif": "Nyanga"
+        "zu_ZA": "Nyanga"
     },
     "6": {
         "af": "Ogooué-Ivindo",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Ogooué-Ivindo",
         "sq_XK": "Ogooué-Ivindo",
         "sr": "Ogooué-Ivindo",
+        "sr@latin": "Ogooué-Ivindo",
         "sr_Cyrl": "Ogooué-Ivindo",
         "sr_Cyrl_BA": "Ogooué-Ivindo",
         "sr_Cyrl_ME": "Ogooué-Ivindo",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Ogooué-Ivindo",
         "tr_TR": "Ogooué-Ivindo",
         "tt": "Ogooué-Ivindo",
+        "tt@iqtelif": "Ogooué-Ivindo",
         "tt_RU": "Ogooué-Ivindo",
         "twq": "Ogooué-Ivindo",
         "twq_NE": "Ogooué-Ivindo",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Ogooué-Ivindo",
         "zh_Hant_TW": "Ogooué-Ivindo",
         "zu": "Ogooué-Ivindo",
-        "zu_ZA": "Ogooué-Ivindo",
-        "sr@latin": "Ogooué-Ivindo",
-        "tt@iqtelif": "Ogooué-Ivindo"
+        "zu_ZA": "Ogooué-Ivindo"
     },
     "7": {
         "af": "Ogooué-Lolo",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Ogooué-Lolo",
         "sq_XK": "Ogooué-Lolo",
         "sr": "Ogooué-Lolo",
+        "sr@latin": "Ogooué-Lolo",
         "sr_Cyrl": "Ogooué-Lolo",
         "sr_Cyrl_BA": "Ogooué-Lolo",
         "sr_Cyrl_ME": "Ogooué-Lolo",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Ogooué-Lolo",
         "tr_TR": "Ogooué-Lolo",
         "tt": "Ogooué-Lolo",
+        "tt@iqtelif": "Ogooué-Lolo",
         "tt_RU": "Ogooué-Lolo",
         "twq": "Ogooué-Lolo",
         "twq_NE": "Ogooué-Lolo",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Ogooué-Lolo",
         "zh_Hant_TW": "Ogooué-Lolo",
         "zu": "Ogooué-Lolo",
-        "zu_ZA": "Ogooué-Lolo",
-        "sr@latin": "Ogooué-Lolo",
-        "tt@iqtelif": "Ogooué-Lolo"
+        "zu_ZA": "Ogooué-Lolo"
     },
     "8": {
         "af": "Ogooué-Maritime",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Ogooué-Maritime",
         "sq_XK": "Ogooué-Maritime",
         "sr": "Ogooué-Maritime",
+        "sr@latin": "Ogooué-Maritime",
         "sr_Cyrl": "Ogooué-Maritime",
         "sr_Cyrl_BA": "Ogooué-Maritime",
         "sr_Cyrl_ME": "Ogooué-Maritime",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Ogooué-Maritime",
         "tr_TR": "Ogooué-Maritime",
         "tt": "Ogooué-Maritime",
+        "tt@iqtelif": "Ogooué-Maritime",
         "tt_RU": "Ogooué-Maritime",
         "twq": "Ogooué-Maritime",
         "twq_NE": "Ogooué-Maritime",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Ogooué-Maritime",
         "zh_Hant_TW": "Ogooué-Maritime",
         "zu": "Ogooué-Maritime",
-        "zu_ZA": "Ogooué-Maritime",
-        "sr@latin": "Ogooué-Maritime",
-        "tt@iqtelif": "Ogooué-Maritime"
+        "zu_ZA": "Ogooué-Maritime"
     },
     "9": {
         "af": "Woleu-Ntem",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Woleu-Ntem",
         "sq_XK": "Woleu-Ntem",
         "sr": "Woleu-Ntem",
+        "sr@latin": "Woleu-Ntem",
         "sr_Cyrl": "Woleu-Ntem",
         "sr_Cyrl_BA": "Woleu-Ntem",
         "sr_Cyrl_ME": "Woleu-Ntem",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Woleu-Ntem",
         "tr_TR": "Woleu-Ntem",
         "tt": "Woleu-Ntem",
+        "tt@iqtelif": "Woleu-Ntem",
         "tt_RU": "Woleu-Ntem",
         "twq": "Woleu-Ntem",
         "twq_NE": "Woleu-Ntem",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Woleu-Ntem",
         "zh_Hant_TW": "Woleu-Ntem",
         "zu": "Woleu-Ntem",
-        "zu_ZA": "Woleu-Ntem",
-        "sr@latin": "Woleu-Ntem",
-        "tt@iqtelif": "Woleu-Ntem"
+        "zu_ZA": "Woleu-Ntem"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Federacija Bosne i Hercegovine",
         "sq_XK": "Federacija Bosne i Hercegovine",
         "sr": "Федерација Босне и Херцеговине",
+        "sr@latin": "Federacija Bosne i Hercegovine",
         "sr_Cyrl": "Федерација Босне и Херцеговине",
         "sr_Cyrl_BA": "Федерација Босне и Херцеговине",
         "sr_Cyrl_ME": "Федерација Босне и Херцеговине",
@@ -803,6 +804,7 @@
         "tr_CY": "Bosna Hersek Federasyonu",
         "tr_TR": "Bosna Hersek Federasyonu",
         "tt": "Federacija Bosne i Hercegovine",
+        "tt@iqtelif": "Federacija Bosne i Hercegovine",
         "tt_RU": "Federacija Bosne i Hercegovine",
         "twq": "Federacija Bosne i Hercegovine",
         "twq_NE": "Federacija Bosne i Hercegovine",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Federacija Bosne i Hercegovine",
         "zh_Hant_TW": "Federacija Bosne i Hercegovine",
         "zu": "Federacija Bosne i Hercegovine",
-        "zu_ZA": "Federacija Bosne i Hercegovine",
-        "sr@latin": "Federacija Bosne i Hercegovine",
-        "tt@iqtelif": "Federacija Bosne i Hercegovine"
+        "zu_ZA": "Federacija Bosne i Hercegovine"
     },
     "BRC": {
         "af": "Brčko distrikt",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Brčko distrikt",
         "sq_XK": "Brčko distrikt",
         "sr": "Брчки округ",
+        "sr@latin": "Brčki okrug",
         "sr_Cyrl": "Брчки округ",
         "sr_Cyrl_BA": "Брчки округ",
         "sr_Cyrl_ME": "Брчки округ",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Brčko distrikt",
         "tr_TR": "Brčko distrikt",
         "tt": "Brčko distrikt",
+        "tt@iqtelif": "Brčko distrikt",
         "tt_RU": "Brčko distrikt",
         "twq": "Brčko distrikt",
         "twq_NE": "Brčko distrikt",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Brčko distrikt",
         "zh_Hant_TW": "Brčko distrikt",
         "zu": "Brčko distrikt",
-        "zu_ZA": "Brčko distrikt",
-        "sr@latin": "Brčki okrug",
-        "tt@iqtelif": "Brčko distrikt"
+        "zu_ZA": "Brčko distrikt"
     },
     "SRP": {
         "af": "Republika Srpska",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Republika Srpska",
         "sq_XK": "Republika Srpska",
         "sr": "Република Српска",
+        "sr@latin": "Republika Srpska",
         "sr_Cyrl": "Република Српска",
         "sr_Cyrl_BA": "Република Српска",
         "sr_Cyrl_ME": "Република Српска",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Republika Srpska",
         "tr_TR": "Republika Srpska",
         "tt": "Republika Srpska",
+        "tt@iqtelif": "Republika Srpska",
         "tt_RU": "Republika Srpska",
         "twq": "Republika Srpska",
         "twq_NE": "Republika Srpska",
@@ -2650,8 +2652,6 @@
         "zh_Hant_MY": "Republika Srpska",
         "zh_Hant_TW": "Republika Srpska",
         "zu": "Republika Srpska",
-        "zu_ZA": "Republika Srpska",
-        "sr@latin": "Republika Srpska",
-        "tt@iqtelif": "Republika Srpska"
+        "zu_ZA": "Republika Srpska"
     }
 }

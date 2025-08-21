@@ -27,6 +27,9 @@ if (is_dir($translationBasePath)) {
     }
 }
 
+// Sort all locales alphabetically
+sort($allIntlLocales);
+
 echo "Total locales to process (including @ variants): " . count($allIntlLocales) . "\n";
 
 $countriesData = [];

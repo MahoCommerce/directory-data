@@ -743,6 +743,7 @@
         "sq_MK": "Ascension",
         "sq_XK": "Ascension",
         "sr": "Ascension",
+        "sr@latin": "Ascension",
         "sr_Cyrl": "Ascension",
         "sr_Cyrl_BA": "Ascension",
         "sr_Cyrl_ME": "Ascension",
@@ -803,6 +804,7 @@
         "tr_CY": "Ascension",
         "tr_TR": "Ascension",
         "tt": "Ascension",
+        "tt@iqtelif": "Ascension",
         "tt_RU": "Ascension",
         "twq": "Ascension",
         "twq_NE": "Ascension",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Ascension",
         "zh_Hant_TW": "Ascension",
         "zu": "Ascension",
-        "zu_ZA": "Ascension",
-        "sr@latin": "Ascension",
-        "tt@iqtelif": "Ascension"
+        "zu_ZA": "Ascension"
     },
     "HL": {
         "af": "Saint Helena",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint Helena",
         "sq_XK": "Saint Helena",
         "sr": "Света Јелена",
+        "sr@latin": "Sveta Jelena",
         "sr_Cyrl": "Света Јелена",
         "sr_Cyrl_BA": "Света Јелена",
         "sr_Cyrl_ME": "Света Јелена",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint Helena",
         "tr_TR": "Saint Helena",
         "tt": "Saint Helena",
+        "tt@iqtelif": "Saint Helena",
         "tt_RU": "Saint Helena",
         "twq": "Saint Helena",
         "twq_NE": "Saint Helena",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint Helena",
         "zh_Hant_TW": "Saint Helena",
         "zu": "Saint Helena",
-        "zu_ZA": "Saint Helena",
-        "sr@latin": "Sveta Jelena",
-        "tt@iqtelif": "Saint Helena"
+        "zu_ZA": "Saint Helena"
     },
     "TA": {
         "af": "Tristan da Cunha",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Tristan da Cunha",
         "sq_XK": "Tristan da Cunha",
         "sr": "Tristan da Cunha",
+        "sr@latin": "Tristan da Cunha",
         "sr_Cyrl": "Tristan da Cunha",
         "sr_Cyrl_BA": "Tristan da Cunha",
         "sr_Cyrl_ME": "Tristan da Cunha",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Tristan da Cunha",
         "tr_TR": "Tristan da Cunha",
         "tt": "Tristan da Cunha",
+        "tt@iqtelif": "Tristan da Cunha",
         "tt_RU": "Tristan da Cunha",
         "twq": "Tristan da Cunha",
         "twq_NE": "Tristan da Cunha",
@@ -2650,8 +2652,6 @@
         "zh_Hant_MY": "Tristan da Cunha",
         "zh_Hant_TW": "Tristan da Cunha",
         "zu": "Tristan da Cunha",
-        "zu_ZA": "Tristan da Cunha",
-        "sr@latin": "Tristan da Cunha",
-        "tt@iqtelif": "Tristan da Cunha"
+        "zu_ZA": "Tristan da Cunha"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Lefkosia",
         "sq_XK": "Lefkosia",
         "sr": "Lefkosia",
+        "sr@latin": "Lefkosia",
         "sr_Cyrl": "Lefkosia",
         "sr_Cyrl_BA": "Lefkosia",
         "sr_Cyrl_ME": "Lefkosia",
@@ -803,6 +804,7 @@
         "tr_CY": "Lefkosia",
         "tr_TR": "Lefkosia",
         "tt": "Lefkosia",
+        "tt@iqtelif": "Lefkosia",
         "tt_RU": "Lefkosia",
         "twq": "Lefkosia",
         "twq_NE": "Lefkosia",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Lefkosia",
         "zh_Hant_TW": "Lefkosia",
         "zu": "Lefkosia",
-        "zu_ZA": "Lefkosia",
-        "sr@latin": "Lefkosia",
-        "tt@iqtelif": "Lefkosia"
+        "zu_ZA": "Lefkosia"
     },
     "02": {
         "af": "Lemesos",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Lemesos",
         "sq_XK": "Lemesos",
         "sr": "Lemesos",
+        "sr@latin": "Lemesos",
         "sr_Cyrl": "Lemesos",
         "sr_Cyrl_BA": "Lemesos",
         "sr_Cyrl_ME": "Lemesos",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Lemesos",
         "tr_TR": "Lemesos",
         "tt": "Lemesos",
+        "tt@iqtelif": "Lemesos",
         "tt_RU": "Lemesos",
         "twq": "Lemesos",
         "twq_NE": "Lemesos",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Lemesos",
         "zh_Hant_TW": "Lemesos",
         "zu": "Lemesos",
-        "zu_ZA": "Lemesos",
-        "sr@latin": "Lemesos",
-        "tt@iqtelif": "Lemesos"
+        "zu_ZA": "Lemesos"
     },
     "03": {
         "af": "Larnaka",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Larnaka",
         "sq_XK": "Larnaka",
         "sr": "Larnaka",
+        "sr@latin": "Larnaka",
         "sr_Cyrl": "Larnaka",
         "sr_Cyrl_BA": "Larnaka",
         "sr_Cyrl_ME": "Larnaka",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Larnaka",
         "tr_TR": "Larnaka",
         "tt": "Larnaka",
+        "tt@iqtelif": "Larnaka",
         "tt_RU": "Larnaka",
         "twq": "Larnaka",
         "twq_NE": "Larnaka",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Larnaka",
         "zh_Hant_TW": "Larnaka",
         "zu": "Larnaka",
-        "zu_ZA": "Larnaka",
-        "sr@latin": "Larnaka",
-        "tt@iqtelif": "Larnaka"
+        "zu_ZA": "Larnaka"
     },
     "04": {
         "af": "Ammochostos",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Ammochostos",
         "sq_XK": "Ammochostos",
         "sr": "Ammochostos",
+        "sr@latin": "Ammochostos",
         "sr_Cyrl": "Ammochostos",
         "sr_Cyrl_BA": "Ammochostos",
         "sr_Cyrl_ME": "Ammochostos",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Ammochostos",
         "tr_TR": "Ammochostos",
         "tt": "Ammochostos",
+        "tt@iqtelif": "Ammochostos",
         "tt_RU": "Ammochostos",
         "twq": "Ammochostos",
         "twq_NE": "Ammochostos",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Ammochostos",
         "zh_Hant_TW": "Ammochostos",
         "zu": "Ammochostos",
-        "zu_ZA": "Ammochostos",
-        "sr@latin": "Ammochostos",
-        "tt@iqtelif": "Ammochostos"
+        "zu_ZA": "Ammochostos"
     },
     "05": {
         "af": "Baf",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Baf",
         "sq_XK": "Baf",
         "sr": "Baf",
+        "sr@latin": "Baf",
         "sr_Cyrl": "Baf",
         "sr_Cyrl_BA": "Baf",
         "sr_Cyrl_ME": "Baf",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Baf",
         "tr_TR": "Baf",
         "tt": "Baf",
+        "tt@iqtelif": "Baf",
         "tt_RU": "Baf",
         "twq": "Baf",
         "twq_NE": "Baf",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Baf",
         "zh_Hant_TW": "Baf",
         "zu": "Baf",
-        "zu_ZA": "Baf",
-        "sr@latin": "Baf",
-        "tt@iqtelif": "Baf"
+        "zu_ZA": "Baf"
     },
     "06": {
         "af": "Girne",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Girne",
         "sq_XK": "Girne",
         "sr": "Girne",
+        "sr@latin": "Girne",
         "sr_Cyrl": "Girne",
         "sr_Cyrl_BA": "Girne",
         "sr_Cyrl_ME": "Girne",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Girne",
         "tr_TR": "Girne",
         "tt": "Girne",
+        "tt@iqtelif": "Girne",
         "tt_RU": "Girne",
         "twq": "Girne",
         "twq_NE": "Girne",
@@ -5305,8 +5307,6 @@
         "zh_Hant_MY": "Girne",
         "zh_Hant_TW": "Girne",
         "zu": "Girne",
-        "zu_ZA": "Girne",
-        "sr@latin": "Girne",
-        "tt@iqtelif": "Girne"
+        "zu_ZA": "Girne"
     }
 }

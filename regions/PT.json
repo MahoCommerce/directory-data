@@ -743,6 +743,7 @@
         "sq_MK": "Aveiro",
         "sq_XK": "Aveiro",
         "sr": "Авеиро",
+        "sr@latin": "Aveiro",
         "sr_Cyrl": "Авеиро",
         "sr_Cyrl_BA": "Авеиро",
         "sr_Cyrl_ME": "Авеиро",
@@ -803,6 +804,7 @@
         "tr_CY": "Aveiro",
         "tr_TR": "Aveiro",
         "tt": "Aveiro",
+        "tt@iqtelif": "Aveiro",
         "tt_RU": "Aveiro",
         "twq": "Aveiro",
         "twq_NE": "Aveiro",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aveiro",
         "zh_Hant_TW": "Aveiro",
         "zu": "Aveiro",
-        "zu_ZA": "Aveiro",
-        "sr@latin": "Aveiro",
-        "tt@iqtelif": "Aveiro"
+        "zu_ZA": "Aveiro"
     },
     "02": {
         "af": "Beja",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Beja",
         "sq_XK": "Beja",
         "sr": "Бежа",
+        "sr@latin": "Beža",
         "sr_Cyrl": "Бежа",
         "sr_Cyrl_BA": "Бежа",
         "sr_Cyrl_ME": "Бежа",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Beja",
         "tr_TR": "Beja",
         "tt": "Beja",
+        "tt@iqtelif": "Beja",
         "tt_RU": "Beja",
         "twq": "Beja",
         "twq_NE": "Beja",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Beja",
         "zh_Hant_TW": "Beja",
         "zu": "Beja",
-        "zu_ZA": "Beja",
-        "sr@latin": "Beža",
-        "tt@iqtelif": "Beja"
+        "zu_ZA": "Beja"
     },
     "03": {
         "af": "Braga",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Braga",
         "sq_XK": "Braga",
         "sr": "Брага",
+        "sr@latin": "Braga",
         "sr_Cyrl": "Брага",
         "sr_Cyrl_BA": "Брага",
         "sr_Cyrl_ME": "Брага",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Braga",
         "tr_TR": "Braga",
         "tt": "Braga",
+        "tt@iqtelif": "Braga",
         "tt_RU": "Braga",
         "twq": "Braga",
         "twq_NE": "Braga",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Braga",
         "zh_Hant_TW": "Braga",
         "zu": "Braga",
-        "zu_ZA": "Braga",
-        "sr@latin": "Braga",
-        "tt@iqtelif": "Braga"
+        "zu_ZA": "Braga"
     },
     "04": {
         "af": "Bragança",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Bragança",
         "sq_XK": "Bragança",
         "sr": "Браганса",
+        "sr@latin": "Bragansa",
         "sr_Cyrl": "Браганса",
         "sr_Cyrl_BA": "Браганса",
         "sr_Cyrl_ME": "Браганса",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Bragança",
         "tr_TR": "Bragança",
         "tt": "Bragança",
+        "tt@iqtelif": "Bragança",
         "tt_RU": "Bragança",
         "twq": "Bragança",
         "twq_NE": "Bragança",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Bragança",
         "zh_Hant_TW": "Bragança",
         "zu": "Bragança",
-        "zu_ZA": "Bragança",
-        "sr@latin": "Bragansa",
-        "tt@iqtelif": "Bragança"
+        "zu_ZA": "Bragança"
     },
     "05": {
         "af": "Castelo Branco",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Castelo Branco",
         "sq_XK": "Castelo Branco",
         "sr": "Кастело Бранко",
+        "sr@latin": "Kastelo Branko",
         "sr_Cyrl": "Кастело Бранко",
         "sr_Cyrl_BA": "Кастело Бранко",
         "sr_Cyrl_ME": "Кастело Бранко",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Castelo Branco",
         "tr_TR": "Castelo Branco",
         "tt": "Castelo Branco",
+        "tt@iqtelif": "Castelo Branco",
         "tt_RU": "Castelo Branco",
         "twq": "Castelo Branco",
         "twq_NE": "Castelo Branco",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Castelo Branco",
         "zh_Hant_TW": "Castelo Branco",
         "zu": "Castelo Branco",
-        "zu_ZA": "Castelo Branco",
-        "sr@latin": "Kastelo Branko",
-        "tt@iqtelif": "Castelo Branco"
+        "zu_ZA": "Castelo Branco"
     },
     "06": {
         "af": "Coimbra",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Coimbra",
         "sq_XK": "Coimbra",
         "sr": "Коимбра",
+        "sr@latin": "Koimbra",
         "sr_Cyrl": "Коимбра",
         "sr_Cyrl_BA": "Коимбра",
         "sr_Cyrl_ME": "Коимбра",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Coimbra",
         "tr_TR": "Coimbra",
         "tt": "Coimbra",
+        "tt@iqtelif": "Coimbra",
         "tt_RU": "Coimbra",
         "twq": "Coimbra",
         "twq_NE": "Coimbra",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Coimbra",
         "zh_Hant_TW": "Coimbra",
         "zu": "Coimbra",
-        "zu_ZA": "Coimbra",
-        "sr@latin": "Koimbra",
-        "tt@iqtelif": "Coimbra"
+        "zu_ZA": "Coimbra"
     },
     "07": {
         "af": "Évora",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Évora",
         "sq_XK": "Évora",
         "sr": "Евора",
+        "sr@latin": "Evora",
         "sr_Cyrl": "Евора",
         "sr_Cyrl_BA": "Евора",
         "sr_Cyrl_ME": "Евора",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Evora",
         "tr_TR": "Evora",
         "tt": "Évora",
+        "tt@iqtelif": "Évora",
         "tt_RU": "Évora",
         "twq": "Évora",
         "twq_NE": "Évora",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Évora",
         "zh_Hant_TW": "Évora",
         "zu": "Évora",
-        "zu_ZA": "Évora",
-        "sr@latin": "Evora",
-        "tt@iqtelif": "Évora"
+        "zu_ZA": "Évora"
     },
     "08": {
         "af": "Faro",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Faro",
         "sq_XK": "Faro",
         "sr": "Фаро",
+        "sr@latin": "Faro",
         "sr_Cyrl": "Фаро",
         "sr_Cyrl_BA": "Фаро",
         "sr_Cyrl_ME": "Фаро",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Faro",
         "tr_TR": "Faro",
         "tt": "Faro",
+        "tt@iqtelif": "Faro",
         "tt_RU": "Faro",
         "twq": "Faro",
         "twq_NE": "Faro",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Faro",
         "zh_Hant_TW": "Faro",
         "zu": "Faro",
-        "zu_ZA": "Faro",
-        "sr@latin": "Faro",
-        "tt@iqtelif": "Faro"
+        "zu_ZA": "Faro"
     },
     "09": {
         "af": "Guarda",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Guarda",
         "sq_XK": "Guarda",
         "sr": "Гварда",
+        "sr@latin": "Gvarda",
         "sr_Cyrl": "Гварда",
         "sr_Cyrl_BA": "Гварда",
         "sr_Cyrl_ME": "Гварда",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Guarda",
         "tr_TR": "Guarda",
         "tt": "Guarda",
+        "tt@iqtelif": "Guarda",
         "tt_RU": "Guarda",
         "twq": "Guarda",
         "twq_NE": "Guarda",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Guarda",
         "zh_Hant_TW": "Guarda",
         "zu": "Guarda",
-        "zu_ZA": "Guarda",
-        "sr@latin": "Gvarda",
-        "tt@iqtelif": "Guarda"
+        "zu_ZA": "Guarda"
     },
     "10": {
         "af": "Leiria",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Leiria",
         "sq_XK": "Leiria",
         "sr": "Леирја",
+        "sr@latin": "Leirja",
         "sr_Cyrl": "Леирја",
         "sr_Cyrl_BA": "Леирја",
         "sr_Cyrl_ME": "Леирја",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Leiria",
         "tr_TR": "Leiria",
         "tt": "Leiria",
+        "tt@iqtelif": "Leiria",
         "tt_RU": "Leiria",
         "twq": "Leiria",
         "twq_NE": "Leiria",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Leiria",
         "zh_Hant_TW": "Leiria",
         "zu": "Leiria",
-        "zu_ZA": "Leiria",
-        "sr@latin": "Leirja",
-        "tt@iqtelif": "Leiria"
+        "zu_ZA": "Leiria"
     },
     "11": {
         "af": "Lisboa",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Lisboa",
         "sq_XK": "Lisboa",
         "sr": "Лисабон",
+        "sr@latin": "Lisabon",
         "sr_Cyrl": "Лисабон",
         "sr_Cyrl_BA": "Лисабон",
         "sr_Cyrl_ME": "Лисабон",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Lizbon",
         "tr_TR": "Lizbon",
         "tt": "Lisboa",
+        "tt@iqtelif": "Lisboa",
         "tt_RU": "Lisboa",
         "twq": "Lisboa",
         "twq_NE": "Lisboa",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Lisboa",
         "zh_Hant_TW": "Lisboa",
         "zu": "Lisboa",
-        "zu_ZA": "Lisboa",
-        "sr@latin": "Lisabon",
-        "tt@iqtelif": "Lisboa"
+        "zu_ZA": "Lisboa"
     },
     "12": {
         "af": "Portalegre",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Portalegre",
         "sq_XK": "Portalegre",
         "sr": "Порто Алегре",
+        "sr@latin": "Porto Alegre",
         "sr_Cyrl": "Порто Алегре",
         "sr_Cyrl_BA": "Порто Алегре",
         "sr_Cyrl_ME": "Порто Алегре",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Portalegre",
         "tr_TR": "Portalegre",
         "tt": "Portalegre",
+        "tt@iqtelif": "Portalegre",
         "tt_RU": "Portalegre",
         "twq": "Portalegre",
         "twq_NE": "Portalegre",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Portalegre",
         "zh_Hant_TW": "Portalegre",
         "zu": "Portalegre",
-        "zu_ZA": "Portalegre",
-        "sr@latin": "Porto Alegre",
-        "tt@iqtelif": "Portalegre"
+        "zu_ZA": "Portalegre"
     },
     "13": {
         "af": "Porto",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Porto",
         "sq_XK": "Porto",
         "sr": "Порто",
+        "sr@latin": "Porto",
         "sr_Cyrl": "Порто",
         "sr_Cyrl_BA": "Порто",
         "sr_Cyrl_ME": "Порто",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Porto",
         "tr_TR": "Porto",
         "tt": "Porto",
+        "tt@iqtelif": "Porto",
         "tt_RU": "Porto",
         "twq": "Porto",
         "twq_NE": "Porto",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Porto",
         "zh_Hant_TW": "Porto",
         "zu": "Porto",
-        "zu_ZA": "Porto",
-        "sr@latin": "Porto",
-        "tt@iqtelif": "Porto"
+        "zu_ZA": "Porto"
     },
     "14": {
         "af": "Santarém",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Santarém",
         "sq_XK": "Santarém",
         "sr": "Сантарем",
+        "sr@latin": "Santarem",
         "sr_Cyrl": "Сантарем",
         "sr_Cyrl_BA": "Сантарем",
         "sr_Cyrl_ME": "Сантарем",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Santarem",
         "tr_TR": "Santarem",
         "tt": "Santarém",
+        "tt@iqtelif": "Santarém",
         "tt_RU": "Santarém",
         "twq": "Santarém",
         "twq_NE": "Santarém",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Santarém",
         "zh_Hant_TW": "Santarém",
         "zu": "Santarém",
-        "zu_ZA": "Santarém",
-        "sr@latin": "Santarem",
-        "tt@iqtelif": "Santarém"
+        "zu_ZA": "Santarém"
     },
     "15": {
         "af": "Setúbal",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Setúbal",
         "sq_XK": "Setúbal",
         "sr": "Setúbal",
+        "sr@latin": "Setúbal",
         "sr_Cyrl": "Setúbal",
         "sr_Cyrl_BA": "Setúbal",
         "sr_Cyrl_ME": "Setúbal",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Setúbal",
         "tr_TR": "Setúbal",
         "tt": "Setúbal",
+        "tt@iqtelif": "Setúbal",
         "tt_RU": "Setúbal",
         "twq": "Setúbal",
         "twq_NE": "Setúbal",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Setúbal",
         "zh_Hant_TW": "Setúbal",
         "zu": "Setúbal",
-        "zu_ZA": "Setúbal",
-        "sr@latin": "Setúbal",
-        "tt@iqtelif": "Setúbal"
+        "zu_ZA": "Setúbal"
     },
     "16": {
         "af": "Viana do Castelo",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Viana do Castelo",
         "sq_XK": "Viana do Castelo",
         "sr": "Вјана до Кастело",
+        "sr@latin": "Vjana do Kastelo",
         "sr_Cyrl": "Вјана до Кастело",
         "sr_Cyrl_BA": "Вјана до Кастело",
         "sr_Cyrl_ME": "Вјана до Кастело",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Viana do Castelo",
         "tr_TR": "Viana do Castelo",
         "tt": "Viana do Castelo",
+        "tt@iqtelif": "Viana do Castelo",
         "tt_RU": "Viana do Castelo",
         "twq": "Viana do Castelo",
         "twq_NE": "Viana do Castelo",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Viana do Castelo",
         "zh_Hant_TW": "Viana do Castelo",
         "zu": "Viana do Castelo",
-        "zu_ZA": "Viana do Castelo",
-        "sr@latin": "Vjana do Kastelo",
-        "tt@iqtelif": "Viana do Castelo"
+        "zu_ZA": "Viana do Castelo"
     },
     "17": {
         "af": "Vila Real",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Vila Real",
         "sq_XK": "Vila Real",
         "sr": "Вила Реал",
+        "sr@latin": "Vila Real",
         "sr_Cyrl": "Вила Реал",
         "sr_Cyrl_BA": "Вила Реал",
         "sr_Cyrl_ME": "Вила Реал",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Vila Real",
         "tr_TR": "Vila Real",
         "tt": "Vila Real",
+        "tt@iqtelif": "Vila Real",
         "tt_RU": "Vila Real",
         "twq": "Vila Real",
         "twq_NE": "Vila Real",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Vila Real",
         "zh_Hant_TW": "Vila Real",
         "zu": "Vila Real",
-        "zu_ZA": "Vila Real",
-        "sr@latin": "Vila Real",
-        "tt@iqtelif": "Vila Real"
+        "zu_ZA": "Vila Real"
     },
     "18": {
         "af": "Viseu",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Viseu",
         "sq_XK": "Viseu",
         "sr": "Viseu",
+        "sr@latin": "Viseu",
         "sr_Cyrl": "Viseu",
         "sr_Cyrl_BA": "Viseu",
         "sr_Cyrl_ME": "Viseu",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Viseu",
         "tr_TR": "Viseu",
         "tt": "Viseu",
+        "tt@iqtelif": "Viseu",
         "tt_RU": "Viseu",
         "twq": "Viseu",
         "twq_NE": "Viseu",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Viseu",
         "zh_Hant_TW": "Viseu",
         "zu": "Viseu",
-        "zu_ZA": "Viseu",
-        "sr@latin": "Viseu",
-        "tt@iqtelif": "Viseu"
+        "zu_ZA": "Viseu"
     },
     "20": {
         "af": "Região Autónoma dos Açores",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Região Autónoma dos Açores",
         "sq_XK": "Região Autónoma dos Açores",
         "sr": "Região Autónoma dos Açores",
+        "sr@latin": "Região Autónoma dos Açores",
         "sr_Cyrl": "Região Autónoma dos Açores",
         "sr_Cyrl_BA": "Região Autónoma dos Açores",
         "sr_Cyrl_ME": "Região Autónoma dos Açores",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Região Autónoma dos Açores",
         "tr_TR": "Região Autónoma dos Açores",
         "tt": "Região Autónoma dos Açores",
+        "tt@iqtelif": "Região Autónoma dos Açores",
         "tt_RU": "Região Autónoma dos Açores",
         "twq": "Região Autónoma dos Açores",
         "twq_NE": "Região Autónoma dos Açores",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Região Autónoma dos Açores",
         "zh_Hant_TW": "Região Autónoma dos Açores",
         "zu": "Região Autónoma dos Açores",
-        "zu_ZA": "Região Autónoma dos Açores",
-        "sr@latin": "Região Autónoma dos Açores",
-        "tt@iqtelif": "Região Autónoma dos Açores"
+        "zu_ZA": "Região Autónoma dos Açores"
     },
     "30": {
         "af": "Região Autónoma da Madeira",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Região Autónoma da Madeira",
         "sq_XK": "Região Autónoma da Madeira",
         "sr": "Região Autónoma da Madeira",
+        "sr@latin": "Região Autónoma da Madeira",
         "sr_Cyrl": "Região Autónoma da Madeira",
         "sr_Cyrl_BA": "Região Autónoma da Madeira",
         "sr_Cyrl_ME": "Região Autónoma da Madeira",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Região Autónoma da Madeira",
         "tr_TR": "Região Autónoma da Madeira",
         "tt": "Região Autónoma da Madeira",
+        "tt@iqtelif": "Região Autónoma da Madeira",
         "tt_RU": "Região Autónoma da Madeira",
         "twq": "Região Autónoma da Madeira",
         "twq_NE": "Região Autónoma da Madeira",
@@ -17695,8 +17697,6 @@
         "zh_Hant_MY": "Região Autónoma da Madeira",
         "zh_Hant_TW": "Região Autónoma da Madeira",
         "zu": "Região Autónoma da Madeira",
-        "zu_ZA": "Região Autónoma da Madeira",
-        "sr@latin": "Região Autónoma da Madeira",
-        "tt@iqtelif": "Região Autónoma da Madeira"
+        "zu_ZA": "Região Autónoma da Madeira"
     }
 }

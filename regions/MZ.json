@@ -743,6 +743,7 @@
         "sq_MK": "Niassa",
         "sq_XK": "Niassa",
         "sr": "Њаса",
+        "sr@latin": "Njasa",
         "sr_Cyrl": "Њаса",
         "sr_Cyrl_BA": "Њаса",
         "sr_Cyrl_ME": "Њаса",
@@ -803,6 +804,7 @@
         "tr_CY": "Niassa",
         "tr_TR": "Niassa",
         "tt": "Niassa",
+        "tt@iqtelif": "Niassa",
         "tt_RU": "Niassa",
         "twq": "Niassa",
         "twq_NE": "Niassa",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Niassa",
         "zh_Hant_TW": "Niassa",
         "zu": "Niassa",
-        "zu_ZA": "Niassa",
-        "sr@latin": "Njasa",
-        "tt@iqtelif": "Niassa"
+        "zu_ZA": "Niassa"
     },
     "B": {
         "af": "Manica",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Manica",
         "sq_XK": "Manica",
         "sr": "Маника",
+        "sr@latin": "Manika",
         "sr_Cyrl": "Маника",
         "sr_Cyrl_BA": "Маника",
         "sr_Cyrl_ME": "Маника",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Manica",
         "tr_TR": "Manica",
         "tt": "Manica",
+        "tt@iqtelif": "Manica",
         "tt_RU": "Manica",
         "twq": "Manica",
         "twq_NE": "Manica",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Manica",
         "zh_Hant_TW": "Manica",
         "zu": "Manica",
-        "zu_ZA": "Manica",
-        "sr@latin": "Manika",
-        "tt@iqtelif": "Manica"
+        "zu_ZA": "Manica"
     },
     "G": {
         "af": "Gaza",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Gaza",
         "sq_XK": "Gaza",
         "sr": "Газа",
+        "sr@latin": "Gaza",
         "sr_Cyrl": "Газа",
         "sr_Cyrl_BA": "Газа",
         "sr_Cyrl_ME": "Газа",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Gazze",
         "tr_TR": "Gazze",
         "tt": "Gaza",
+        "tt@iqtelif": "Gaza",
         "tt_RU": "Gaza",
         "twq": "Gaza",
         "twq_NE": "Gaza",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Gaza",
         "zh_Hant_TW": "Gaza",
         "zu": "Gaza",
-        "zu_ZA": "Gaza",
-        "sr@latin": "Gaza",
-        "tt@iqtelif": "Gaza"
+        "zu_ZA": "Gaza"
     },
     "I": {
         "af": "Inhambane",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Inhambane",
         "sq_XK": "Inhambane",
         "sr": "Inhambane",
+        "sr@latin": "Inhambane",
         "sr_Cyrl": "Inhambane",
         "sr_Cyrl_BA": "Inhambane",
         "sr_Cyrl_ME": "Inhambane",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Inhambane",
         "tr_TR": "Inhambane",
         "tt": "Inhambane",
+        "tt@iqtelif": "Inhambane",
         "tt_RU": "Inhambane",
         "twq": "Inhambane",
         "twq_NE": "Inhambane",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Inhambane",
         "zh_Hant_TW": "Inhambane",
         "zu": "Inhambane",
-        "zu_ZA": "Inhambane",
-        "sr@latin": "Inhambane",
-        "tt@iqtelif": "Inhambane"
+        "zu_ZA": "Inhambane"
     },
     "L": {
         "af": "Maputo",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Maputo",
         "sq_XK": "Maputo",
         "sr": "Мапуто",
+        "sr@latin": "Maputo",
         "sr_Cyrl": "Мапуто",
         "sr_Cyrl_BA": "Мапуто",
         "sr_Cyrl_ME": "Мапуто",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Maputo",
         "tr_TR": "Maputo",
         "tt": "Maputo",
+        "tt@iqtelif": "Maputo",
         "tt_RU": "Maputo",
         "twq": "Maputo",
         "twq_NE": "Maputo",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Maputo",
         "zh_Hant_TW": "Maputo",
         "zu": "Maputo",
-        "zu_ZA": "Maputo",
-        "sr@latin": "Maputo",
-        "tt@iqtelif": "Maputo"
+        "zu_ZA": "Maputo"
     },
     "MPM": {
         "af": "Maputo",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Maputo",
         "sq_XK": "Maputo",
         "sr": "Мапуто",
+        "sr@latin": "Maputo",
         "sr_Cyrl": "Мапуто",
         "sr_Cyrl_BA": "Мапуто",
         "sr_Cyrl_ME": "Мапуто",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Maputo",
         "tr_TR": "Maputo",
         "tt": "Maputo",
+        "tt@iqtelif": "Maputo",
         "tt_RU": "Maputo",
         "twq": "Maputo",
         "twq_NE": "Maputo",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Maputo",
         "zh_Hant_TW": "Maputo",
         "zu": "Maputo",
-        "zu_ZA": "Maputo",
-        "sr@latin": "Maputo",
-        "tt@iqtelif": "Maputo"
+        "zu_ZA": "Maputo"
     },
     "N": {
         "af": "Nampula",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Nampula",
         "sq_XK": "Nampula",
         "sr": "Nampula",
+        "sr@latin": "Nampula",
         "sr_Cyrl": "Nampula",
         "sr_Cyrl_BA": "Nampula",
         "sr_Cyrl_ME": "Nampula",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Nampula",
         "tr_TR": "Nampula",
         "tt": "Nampula",
+        "tt@iqtelif": "Nampula",
         "tt_RU": "Nampula",
         "twq": "Nampula",
         "twq_NE": "Nampula",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Nampula",
         "zh_Hant_TW": "Nampula",
         "zu": "Nampula",
-        "zu_ZA": "Nampula",
-        "sr@latin": "Nampula",
-        "tt@iqtelif": "Nampula"
+        "zu_ZA": "Nampula"
     },
     "P": {
         "af": "Cabo Delgado",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Cabo Delgado",
         "sq_XK": "Cabo Delgado",
         "sr": "Кабо Делгадо",
+        "sr@latin": "Kabo Delgado",
         "sr_Cyrl": "Кабо Делгадо",
         "sr_Cyrl_BA": "Кабо Делгадо",
         "sr_Cyrl_ME": "Кабо Делгадо",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Cabo Delgado",
         "tr_TR": "Cabo Delgado",
         "tt": "Cabo Delgado",
+        "tt@iqtelif": "Cabo Delgado",
         "tt_RU": "Cabo Delgado",
         "twq": "Cabo Delgado",
         "twq_NE": "Cabo Delgado",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Cabo Delgado",
         "zh_Hant_TW": "Cabo Delgado",
         "zu": "Cabo Delgado",
-        "zu_ZA": "Cabo Delgado",
-        "sr@latin": "Kabo Delgado",
-        "tt@iqtelif": "Cabo Delgado"
+        "zu_ZA": "Cabo Delgado"
     },
     "Q": {
         "af": "Zambézia",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Zambézia",
         "sq_XK": "Zambézia",
         "sr": "Zambézia",
+        "sr@latin": "Zambézia",
         "sr_Cyrl": "Zambézia",
         "sr_Cyrl_BA": "Zambézia",
         "sr_Cyrl_ME": "Zambézia",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Zambézia",
         "tr_TR": "Zambézia",
         "tt": "Zambézia",
+        "tt@iqtelif": "Zambézia",
         "tt_RU": "Zambézia",
         "twq": "Zambézia",
         "twq_NE": "Zambézia",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Zambézia",
         "zh_Hant_TW": "Zambézia",
         "zu": "Zambézia",
-        "zu_ZA": "Zambézia",
-        "sr@latin": "Zambézia",
-        "tt@iqtelif": "Zambézia"
+        "zu_ZA": "Zambézia"
     },
     "S": {
         "af": "Sofala",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Sofala",
         "sq_XK": "Sofala",
         "sr": "Софала",
+        "sr@latin": "Sofala",
         "sr_Cyrl": "Софала",
         "sr_Cyrl_BA": "Софала",
         "sr_Cyrl_ME": "Софала",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Sofala",
         "tr_TR": "Sofala",
         "tt": "Sofala",
+        "tt@iqtelif": "Sofala",
         "tt_RU": "Sofala",
         "twq": "Sofala",
         "twq_NE": "Sofala",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Sofala",
         "zh_Hant_TW": "Sofala",
         "zu": "Sofala",
-        "zu_ZA": "Sofala",
-        "sr@latin": "Sofala",
-        "tt@iqtelif": "Sofala"
+        "zu_ZA": "Sofala"
     },
     "T": {
         "af": "Tete",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Tete",
         "sq_XK": "Tete",
         "sr": "Тете",
+        "sr@latin": "Tete",
         "sr_Cyrl": "Тете",
         "sr_Cyrl_BA": "Тете",
         "sr_Cyrl_ME": "Тете",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Tete",
         "tr_TR": "Tete",
         "tt": "Tete",
+        "tt@iqtelif": "Tete",
         "tt_RU": "Tete",
         "twq": "Tete",
         "twq_NE": "Tete",
@@ -9730,8 +9732,6 @@
         "zh_Hant_MY": "Tete",
         "zh_Hant_TW": "Tete",
         "zu": "Tete",
-        "zu_ZA": "Tete",
-        "sr@latin": "Tete",
-        "tt@iqtelif": "Tete"
+        "zu_ZA": "Tete"
     }
 }

@@ -743,6 +743,7 @@
         "sq_MK": "Connaught",
         "sq_XK": "Connaught",
         "sr": "Connaught",
+        "sr@latin": "Connaught",
         "sr_Cyrl": "Connaught",
         "sr_Cyrl_BA": "Connaught",
         "sr_Cyrl_ME": "Connaught",
@@ -803,6 +804,7 @@
         "tr_CY": "Connaught",
         "tr_TR": "Connaught",
         "tt": "Connaught",
+        "tt@iqtelif": "Connaught",
         "tt_RU": "Connaught",
         "twq": "Connaught",
         "twq_NE": "Connaught",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Connaught",
         "zh_Hant_TW": "Connaught",
         "zu": "Connaught",
-        "zu_ZA": "Connaught",
-        "sr@latin": "Connaught",
-        "tt@iqtelif": "Connaught"
+        "zu_ZA": "Connaught"
     },
     "CE": {
         "af": "Clare",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Clare",
         "sq_XK": "Clare",
         "sr": "Клејр",
+        "sr@latin": "Klejr",
         "sr_Cyrl": "Клејр",
         "sr_Cyrl_BA": "Клејр",
         "sr_Cyrl_ME": "Клејр",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Clare",
         "tr_TR": "Clare",
         "tt": "Clare",
+        "tt@iqtelif": "Clare",
         "tt_RU": "Clare",
         "twq": "Clare",
         "twq_NE": "Clare",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Clare",
         "zh_Hant_TW": "Clare",
         "zu": "Clare",
-        "zu_ZA": "Clare",
-        "sr@latin": "Klejr",
-        "tt@iqtelif": "Clare"
+        "zu_ZA": "Clare"
     },
     "CN": {
         "af": "Cavan",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Cavan",
         "sq_XK": "Cavan",
         "sr": "Каван",
+        "sr@latin": "Kavan",
         "sr_Cyrl": "Каван",
         "sr_Cyrl_BA": "Каван",
         "sr_Cyrl_ME": "Каван",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Cavan",
         "tr_TR": "Cavan",
         "tt": "Cavan",
+        "tt@iqtelif": "Cavan",
         "tt_RU": "Cavan",
         "twq": "Cavan",
         "twq_NE": "Cavan",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Cavan",
         "zh_Hant_TW": "Cavan",
         "zu": "Cavan",
-        "zu_ZA": "Cavan",
-        "sr@latin": "Kavan",
-        "tt@iqtelif": "Cavan"
+        "zu_ZA": "Cavan"
     },
     "CO": {
         "af": "Cork",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Cork",
         "sq_XK": "Cork",
         "sr": "Корк",
+        "sr@latin": "Kork",
         "sr_Cyrl": "Корк",
         "sr_Cyrl_BA": "Корк",
         "sr_Cyrl_ME": "Корк",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Cork",
         "tr_TR": "Cork",
         "tt": "Cork",
+        "tt@iqtelif": "Cork",
         "tt_RU": "Cork",
         "twq": "Cork",
         "twq_NE": "Cork",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Cork",
         "zh_Hant_TW": "Cork",
         "zu": "Cork",
-        "zu_ZA": "Cork",
-        "sr@latin": "Kork",
-        "tt@iqtelif": "Cork"
+        "zu_ZA": "Cork"
     },
     "CW": {
         "af": "Carlow",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Carlow",
         "sq_XK": "Carlow",
         "sr": "Карлов",
+        "sr@latin": "Karlov",
         "sr_Cyrl": "Карлов",
         "sr_Cyrl_BA": "Карлов",
         "sr_Cyrl_ME": "Карлов",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Carlow",
         "tr_TR": "Carlow",
         "tt": "Carlow",
+        "tt@iqtelif": "Carlow",
         "tt_RU": "Carlow",
         "twq": "Carlow",
         "twq_NE": "Carlow",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Carlow",
         "zh_Hant_TW": "Carlow",
         "zu": "Carlow",
-        "zu_ZA": "Carlow",
-        "sr@latin": "Karlov",
-        "tt@iqtelif": "Carlow"
+        "zu_ZA": "Carlow"
     },
     "D": {
         "af": "Dublin",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Dublin",
         "sq_XK": "Dublin",
         "sr": "Даблин",
+        "sr@latin": "Dablin",
         "sr_Cyrl": "Даблин",
         "sr_Cyrl_BA": "Даблин",
         "sr_Cyrl_ME": "Даблин",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Dublin",
         "tr_TR": "Dublin",
         "tt": "Dublin",
+        "tt@iqtelif": "Dublin",
         "tt_RU": "Dublin",
         "twq": "Dublin",
         "twq_NE": "Dublin",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Dublin",
         "zh_Hant_TW": "Dublin",
         "zu": "Dublin",
-        "zu_ZA": "Dublin",
-        "sr@latin": "Dablin",
-        "tt@iqtelif": "Dublin"
+        "zu_ZA": "Dublin"
     },
     "DL": {
         "af": "Donegal",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Donegal",
         "sq_XK": "Donegal",
         "sr": "Донегал",
+        "sr@latin": "Donegal",
         "sr_Cyrl": "Донегал",
         "sr_Cyrl_BA": "Донегал",
         "sr_Cyrl_ME": "Донегал",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Donegal",
         "tr_TR": "Donegal",
         "tt": "Donegal",
+        "tt@iqtelif": "Donegal",
         "tt_RU": "Donegal",
         "twq": "Donegal",
         "twq_NE": "Donegal",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Donegal",
         "zh_Hant_TW": "Donegal",
         "zu": "Donegal",
-        "zu_ZA": "Donegal",
-        "sr@latin": "Donegal",
-        "tt@iqtelif": "Donegal"
+        "zu_ZA": "Donegal"
     },
     "G": {
         "af": "Galway",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Galway",
         "sq_XK": "Galway",
         "sr": "Гејлвеј",
+        "sr@latin": "Gejlvej",
         "sr_Cyrl": "Гејлвеј",
         "sr_Cyrl_BA": "Гејлвеј",
         "sr_Cyrl_ME": "Гејлвеј",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Galway",
         "tr_TR": "Galway",
         "tt": "Galway",
+        "tt@iqtelif": "Galway",
         "tt_RU": "Galway",
         "twq": "Galway",
         "twq_NE": "Galway",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Galway",
         "zh_Hant_TW": "Galway",
         "zu": "Galway",
-        "zu_ZA": "Galway",
-        "sr@latin": "Gejlvej",
-        "tt@iqtelif": "Galway"
+        "zu_ZA": "Galway"
     },
     "KE": {
         "af": "Kildare",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Kildare",
         "sq_XK": "Kildare",
         "sr": "Килдаре",
+        "sr@latin": "Kildare",
         "sr_Cyrl": "Килдаре",
         "sr_Cyrl_BA": "Килдаре",
         "sr_Cyrl_ME": "Килдаре",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Kildare",
         "tr_TR": "Kildare",
         "tt": "Kildare",
+        "tt@iqtelif": "Kildare",
         "tt_RU": "Kildare",
         "twq": "Kildare",
         "twq_NE": "Kildare",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Kildare",
         "zh_Hant_TW": "Kildare",
         "zu": "Kildare",
-        "zu_ZA": "Kildare",
-        "sr@latin": "Kildare",
-        "tt@iqtelif": "Kildare"
+        "zu_ZA": "Kildare"
     },
     "KK": {
         "af": "Kilkenny",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Kilkenny",
         "sq_XK": "Kilkenny",
         "sr": "Килкени",
+        "sr@latin": "Kilkeni",
         "sr_Cyrl": "Килкени",
         "sr_Cyrl_BA": "Килкени",
         "sr_Cyrl_ME": "Килкени",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Kilkenny",
         "tr_TR": "Kilkenny",
         "tt": "Kilkenny",
+        "tt@iqtelif": "Kilkenny",
         "tt_RU": "Kilkenny",
         "twq": "Kilkenny",
         "twq_NE": "Kilkenny",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Kilkenny",
         "zh_Hant_TW": "Kilkenny",
         "zu": "Kilkenny",
-        "zu_ZA": "Kilkenny",
-        "sr@latin": "Kilkeni",
-        "tt@iqtelif": "Kilkenny"
+        "zu_ZA": "Kilkenny"
     },
     "KY": {
         "af": "Kerry",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Kerry",
         "sq_XK": "Kerry",
         "sr": "Кери",
+        "sr@latin": "Keri",
         "sr_Cyrl": "Кери",
         "sr_Cyrl_BA": "Кери",
         "sr_Cyrl_ME": "Кери",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Kerry",
         "tr_TR": "Kerry",
         "tt": "Kerry",
+        "tt@iqtelif": "Kerry",
         "tt_RU": "Kerry",
         "twq": "Kerry",
         "twq_NE": "Kerry",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Kerry",
         "zh_Hant_TW": "Kerry",
         "zu": "Kerry",
-        "zu_ZA": "Kerry",
-        "sr@latin": "Keri",
-        "tt@iqtelif": "Kerry"
+        "zu_ZA": "Kerry"
     },
     "L": {
         "af": "Leinster",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Leinster",
         "sq_XK": "Leinster",
         "sr": "Лајнстер",
+        "sr@latin": "Lajnster",
         "sr_Cyrl": "Лајнстер",
         "sr_Cyrl_BA": "Лајнстер",
         "sr_Cyrl_ME": "Лајнстер",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Leinster",
         "tr_TR": "Leinster",
         "tt": "Leinster",
+        "tt@iqtelif": "Leinster",
         "tt_RU": "Leinster",
         "twq": "Leinster",
         "twq_NE": "Leinster",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Leinster",
         "zh_Hant_TW": "Leinster",
         "zu": "Leinster",
-        "zu_ZA": "Leinster",
-        "sr@latin": "Lajnster",
-        "tt@iqtelif": "Leinster"
+        "zu_ZA": "Leinster"
     },
     "LD": {
         "af": "Longford",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Longford",
         "sq_XK": "Longford",
         "sr": "Лонгфорд",
+        "sr@latin": "Longford",
         "sr_Cyrl": "Лонгфорд",
         "sr_Cyrl_BA": "Лонгфорд",
         "sr_Cyrl_ME": "Лонгфорд",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Longford",
         "tr_TR": "Longford",
         "tt": "Longford",
+        "tt@iqtelif": "Longford",
         "tt_RU": "Longford",
         "twq": "Longford",
         "twq_NE": "Longford",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Longford",
         "zh_Hant_TW": "Longford",
         "zu": "Longford",
-        "zu_ZA": "Longford",
-        "sr@latin": "Longford",
-        "tt@iqtelif": "Longford"
+        "zu_ZA": "Longford"
     },
     "LH": {
         "af": "Louth",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Louth",
         "sq_XK": "Louth",
         "sr": "Лут",
+        "sr@latin": "Lut",
         "sr_Cyrl": "Лут",
         "sr_Cyrl_BA": "Лут",
         "sr_Cyrl_ME": "Лут",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Louth",
         "tr_TR": "Louth",
         "tt": "Louth",
+        "tt@iqtelif": "Louth",
         "tt_RU": "Louth",
         "twq": "Louth",
         "twq_NE": "Louth",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Louth",
         "zh_Hant_TW": "Louth",
         "zu": "Louth",
-        "zu_ZA": "Louth",
-        "sr@latin": "Lut",
-        "tt@iqtelif": "Louth"
+        "zu_ZA": "Louth"
     },
     "LK": {
         "af": "Limerick",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Limerick",
         "sq_XK": "Limerick",
         "sr": "Лимерик",
+        "sr@latin": "Limerik",
         "sr_Cyrl": "Лимерик",
         "sr_Cyrl_BA": "Лимерик",
         "sr_Cyrl_ME": "Лимерик",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Limerick",
         "tr_TR": "Limerick",
         "tt": "Limerick",
+        "tt@iqtelif": "Limerick",
         "tt_RU": "Limerick",
         "twq": "Limerick",
         "twq_NE": "Limerick",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Limerick",
         "zh_Hant_TW": "Limerick",
         "zu": "Limerick",
-        "zu_ZA": "Limerick",
-        "sr@latin": "Limerik",
-        "tt@iqtelif": "Limerick"
+        "zu_ZA": "Limerick"
     },
     "LM": {
         "af": "Leitrim",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Leitrim",
         "sq_XK": "Leitrim",
         "sr": "Лејтрим",
+        "sr@latin": "Lejtrim",
         "sr_Cyrl": "Лејтрим",
         "sr_Cyrl_BA": "Лејтрим",
         "sr_Cyrl_ME": "Лејтрим",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Leitrim",
         "tr_TR": "Leitrim",
         "tt": "Leitrim",
+        "tt@iqtelif": "Leitrim",
         "tt_RU": "Leitrim",
         "twq": "Leitrim",
         "twq_NE": "Leitrim",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Leitrim",
         "zh_Hant_TW": "Leitrim",
         "zu": "Leitrim",
-        "zu_ZA": "Leitrim",
-        "sr@latin": "Lejtrim",
-        "tt@iqtelif": "Leitrim"
+        "zu_ZA": "Leitrim"
     },
     "LS": {
         "af": "Laois",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Laois",
         "sq_XK": "Laois",
         "sr": "Laois",
+        "sr@latin": "Laois",
         "sr_Cyrl": "Laois",
         "sr_Cyrl_BA": "Laois",
         "sr_Cyrl_ME": "Laois",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Laois",
         "tr_TR": "Laois",
         "tt": "Laois",
+        "tt@iqtelif": "Laois",
         "tt_RU": "Laois",
         "twq": "Laois",
         "twq_NE": "Laois",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Laois",
         "zh_Hant_TW": "Laois",
         "zu": "Laois",
-        "zu_ZA": "Laois",
-        "sr@latin": "Laois",
-        "tt@iqtelif": "Laois"
+        "zu_ZA": "Laois"
     },
     "M": {
         "af": "Munster",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Munster",
         "sq_XK": "Munster",
         "sr": "Минстер",
+        "sr@latin": "Minster",
         "sr_Cyrl": "Минстер",
         "sr_Cyrl_BA": "Минстер",
         "sr_Cyrl_ME": "Минстер",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Munster",
         "tr_TR": "Munster",
         "tt": "Munster",
+        "tt@iqtelif": "Munster",
         "tt_RU": "Munster",
         "twq": "Munster",
         "twq_NE": "Munster",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Munster",
         "zh_Hant_TW": "Munster",
         "zu": "Munster",
-        "zu_ZA": "Munster",
-        "sr@latin": "Minster",
-        "tt@iqtelif": "Munster"
+        "zu_ZA": "Munster"
     },
     "MH": {
         "af": "Meath",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Meath",
         "sq_XK": "Meath",
         "sr": "Мид",
+        "sr@latin": "Mid",
         "sr_Cyrl": "Мид",
         "sr_Cyrl_BA": "Мид",
         "sr_Cyrl_ME": "Мид",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Meath",
         "tr_TR": "Meath",
         "tt": "Meath",
+        "tt@iqtelif": "Meath",
         "tt_RU": "Meath",
         "twq": "Meath",
         "twq_NE": "Meath",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Meath",
         "zh_Hant_TW": "Meath",
         "zu": "Meath",
-        "zu_ZA": "Meath",
-        "sr@latin": "Mid",
-        "tt@iqtelif": "Meath"
+        "zu_ZA": "Meath"
     },
     "MN": {
         "af": "Monaghan",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Monaghan",
         "sq_XK": "Monaghan",
         "sr": "Монаган",
+        "sr@latin": "Monagan",
         "sr_Cyrl": "Монаган",
         "sr_Cyrl_BA": "Монаган",
         "sr_Cyrl_ME": "Монаган",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Monaghan",
         "tr_TR": "Monaghan",
         "tt": "Monaghan",
+        "tt@iqtelif": "Monaghan",
         "tt_RU": "Monaghan",
         "twq": "Monaghan",
         "twq_NE": "Monaghan",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Monaghan",
         "zh_Hant_TW": "Monaghan",
         "zu": "Monaghan",
-        "zu_ZA": "Monaghan",
-        "sr@latin": "Monagan",
-        "tt@iqtelif": "Monaghan"
+        "zu_ZA": "Monaghan"
     },
     "MO": {
         "af": "Mayo",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Mayo",
         "sq_XK": "Mayo",
         "sr": "Мејо",
+        "sr@latin": "Mejo",
         "sr_Cyrl": "Мејо",
         "sr_Cyrl_BA": "Мејо",
         "sr_Cyrl_ME": "Мејо",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Mayo",
         "tr_TR": "Mayo",
         "tt": "Mayo",
+        "tt@iqtelif": "Mayo",
         "tt_RU": "Mayo",
         "twq": "Mayo",
         "twq_NE": "Mayo",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Mayo",
         "zh_Hant_TW": "Mayo",
         "zu": "Mayo",
-        "zu_ZA": "Mayo",
-        "sr@latin": "Mejo",
-        "tt@iqtelif": "Mayo"
+        "zu_ZA": "Mayo"
     },
     "OY": {
         "af": "Offaly",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Offaly",
         "sq_XK": "Offaly",
         "sr": "Offaly",
+        "sr@latin": "Offaly",
         "sr_Cyrl": "Offaly",
         "sr_Cyrl_BA": "Offaly",
         "sr_Cyrl_ME": "Offaly",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Offaly",
         "tr_TR": "Offaly",
         "tt": "Offaly",
+        "tt@iqtelif": "Offaly",
         "tt_RU": "Offaly",
         "twq": "Offaly",
         "twq_NE": "Offaly",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Offaly",
         "zh_Hant_TW": "Offaly",
         "zu": "Offaly",
-        "zu_ZA": "Offaly",
-        "sr@latin": "Offaly",
-        "tt@iqtelif": "Offaly"
+        "zu_ZA": "Offaly"
     },
     "RN": {
         "af": "Roscommon",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Roscommon",
         "sq_XK": "Roscommon",
         "sr": "Роскомон",
+        "sr@latin": "Roskomon",
         "sr_Cyrl": "Роскомон",
         "sr_Cyrl_BA": "Роскомон",
         "sr_Cyrl_ME": "Роскомон",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Roscommon",
         "tr_TR": "Roscommon",
         "tt": "Roscommon",
+        "tt@iqtelif": "Roscommon",
         "tt_RU": "Roscommon",
         "twq": "Roscommon",
         "twq_NE": "Roscommon",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Roscommon",
         "zh_Hant_TW": "Roscommon",
         "zu": "Roscommon",
-        "zu_ZA": "Roscommon",
-        "sr@latin": "Roskomon",
-        "tt@iqtelif": "Roscommon"
+        "zu_ZA": "Roscommon"
     },
     "SO": {
         "af": "Sligo",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Sligo",
         "sq_XK": "Sligo",
         "sr": "Слиго",
+        "sr@latin": "Sligo",
         "sr_Cyrl": "Слиго",
         "sr_Cyrl_BA": "Слиго",
         "sr_Cyrl_ME": "Слиго",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Sligo",
         "tr_TR": "Sligo",
         "tt": "Sligo",
+        "tt@iqtelif": "Sligo",
         "tt_RU": "Sligo",
         "twq": "Sligo",
         "twq_NE": "Sligo",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Sligo",
         "zh_Hant_TW": "Sligo",
         "zu": "Sligo",
-        "zu_ZA": "Sligo",
-        "sr@latin": "Sligo",
-        "tt@iqtelif": "Sligo"
+        "zu_ZA": "Sligo"
     },
     "TA": {
         "af": "Tipperary",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Tipperary",
         "sq_XK": "Tipperary",
         "sr": "Tipperary",
+        "sr@latin": "Tipperary",
         "sr_Cyrl": "Tipperary",
         "sr_Cyrl_BA": "Tipperary",
         "sr_Cyrl_ME": "Tipperary",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Tipperary",
         "tr_TR": "Tipperary",
         "tt": "Tipperary",
+        "tt@iqtelif": "Tipperary",
         "tt_RU": "Tipperary",
         "twq": "Tipperary",
         "twq_NE": "Tipperary",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Tipperary",
         "zh_Hant_TW": "Tipperary",
         "zu": "Tipperary",
-        "zu_ZA": "Tipperary",
-        "sr@latin": "Tipperary",
-        "tt@iqtelif": "Tipperary"
+        "zu_ZA": "Tipperary"
     },
     "U": {
         "af": "Ulster",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Ulster",
         "sq_XK": "Ulster",
         "sr": "Ulster",
+        "sr@latin": "Ulster",
         "sr_Cyrl": "Ulster",
         "sr_Cyrl_BA": "Ulster",
         "sr_Cyrl_ME": "Ulster",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Ulster",
         "tr_TR": "Ulster",
         "tt": "Ulster",
+        "tt@iqtelif": "Ulster",
         "tt_RU": "Ulster",
         "twq": "Ulster",
         "twq_NE": "Ulster",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Ulster",
         "zh_Hant_TW": "Ulster",
         "zu": "Ulster",
-        "zu_ZA": "Ulster",
-        "sr@latin": "Ulster",
-        "tt@iqtelif": "Ulster"
+        "zu_ZA": "Ulster"
     },
     "WD": {
         "af": "Waterford",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Waterford",
         "sq_XK": "Waterford",
         "sr": "Вотерфорд",
+        "sr@latin": "Voterford",
         "sr_Cyrl": "Вотерфорд",
         "sr_Cyrl_BA": "Вотерфорд",
         "sr_Cyrl_ME": "Вотерфорд",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Waterford",
         "tr_TR": "Waterford",
         "tt": "Waterford",
+        "tt@iqtelif": "Waterford",
         "tt_RU": "Waterford",
         "twq": "Waterford",
         "twq_NE": "Waterford",
@@ -23890,9 +23892,7 @@
         "zh_Hant_MY": "Waterford",
         "zh_Hant_TW": "Waterford",
         "zu": "Waterford",
-        "zu_ZA": "Waterford",
-        "sr@latin": "Voterford",
-        "tt@iqtelif": "Waterford"
+        "zu_ZA": "Waterford"
     },
     "WH": {
         "af": "Westmeath",
@@ -24638,6 +24638,7 @@
         "sq_MK": "Westmeath",
         "sq_XK": "Westmeath",
         "sr": "Вестмит",
+        "sr@latin": "Vestmit",
         "sr_Cyrl": "Вестмит",
         "sr_Cyrl_BA": "Вестмит",
         "sr_Cyrl_ME": "Вестмит",
@@ -24698,6 +24699,7 @@
         "tr_CY": "Westmeath",
         "tr_TR": "Westmeath",
         "tt": "Westmeath",
+        "tt@iqtelif": "Westmeath",
         "tt_RU": "Westmeath",
         "twq": "Westmeath",
         "twq_NE": "Westmeath",
@@ -24775,9 +24777,7 @@
         "zh_Hant_MY": "Westmeath",
         "zh_Hant_TW": "Westmeath",
         "zu": "Westmeath",
-        "zu_ZA": "Westmeath",
-        "sr@latin": "Vestmit",
-        "tt@iqtelif": "Westmeath"
+        "zu_ZA": "Westmeath"
     },
     "WW": {
         "af": "Wicklow",
@@ -25523,6 +25523,7 @@
         "sq_MK": "Wicklow",
         "sq_XK": "Wicklow",
         "sr": "Виклоу",
+        "sr@latin": "Viklou",
         "sr_Cyrl": "Виклоу",
         "sr_Cyrl_BA": "Виклоу",
         "sr_Cyrl_ME": "Виклоу",
@@ -25583,6 +25584,7 @@
         "tr_CY": "Wicklow",
         "tr_TR": "Wicklow",
         "tt": "Wicklow",
+        "tt@iqtelif": "Wicklow",
         "tt_RU": "Wicklow",
         "twq": "Wicklow",
         "twq_NE": "Wicklow",
@@ -25660,9 +25662,7 @@
         "zh_Hant_MY": "Wicklow",
         "zh_Hant_TW": "Wicklow",
         "zu": "Wicklow",
-        "zu_ZA": "Wicklow",
-        "sr@latin": "Viklou",
-        "tt@iqtelif": "Wicklow"
+        "zu_ZA": "Wicklow"
     },
     "WX": {
         "af": "Wexford",
@@ -26408,6 +26408,7 @@
         "sq_MK": "Wexford",
         "sq_XK": "Wexford",
         "sr": "Вексфорд",
+        "sr@latin": "Veksford",
         "sr_Cyrl": "Вексфорд",
         "sr_Cyrl_BA": "Вексфорд",
         "sr_Cyrl_ME": "Вексфорд",
@@ -26468,6 +26469,7 @@
         "tr_CY": "Wexford",
         "tr_TR": "Wexford",
         "tt": "Wexford",
+        "tt@iqtelif": "Wexford",
         "tt_RU": "Wexford",
         "twq": "Wexford",
         "twq_NE": "Wexford",
@@ -26545,8 +26547,6 @@
         "zh_Hant_MY": "Wexford",
         "zh_Hant_TW": "Wexford",
         "zu": "Wexford",
-        "zu_ZA": "Wexford",
-        "sr@latin": "Veksford",
-        "tt@iqtelif": "Wexford"
+        "zu_ZA": "Wexford"
     }
 }

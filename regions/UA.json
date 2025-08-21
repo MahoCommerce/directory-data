@@ -743,6 +743,7 @@
         "sq_MK": "Vinnytska oblast",
         "sq_XK": "Vinnytska oblast",
         "sr": "Vinnytska oblast",
+        "sr@latin": "Vinnytska oblast",
         "sr_Cyrl": "Vinnytska oblast",
         "sr_Cyrl_BA": "Vinnytska oblast",
         "sr_Cyrl_ME": "Vinnytska oblast",
@@ -803,6 +804,7 @@
         "tr_CY": "Vinnytska oblast",
         "tr_TR": "Vinnytska oblast",
         "tt": "Vinnytska oblast",
+        "tt@iqtelif": "Vinnytska oblast",
         "tt_RU": "Vinnytska oblast",
         "twq": "Vinnytska oblast",
         "twq_NE": "Vinnytska oblast",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Vinnytska oblast",
         "zh_Hant_TW": "Vinnytska oblast",
         "zu": "Vinnytska oblast",
-        "zu_ZA": "Vinnytska oblast",
-        "sr@latin": "Vinnytska oblast",
-        "tt@iqtelif": "Vinnytska oblast"
+        "zu_ZA": "Vinnytska oblast"
     },
     "07": {
         "af": "Volynska oblast",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Volynska oblast",
         "sq_XK": "Volynska oblast",
         "sr": "Volynska oblast",
+        "sr@latin": "Volynska oblast",
         "sr_Cyrl": "Volynska oblast",
         "sr_Cyrl_BA": "Volynska oblast",
         "sr_Cyrl_ME": "Volynska oblast",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Volynska oblast",
         "tr_TR": "Volynska oblast",
         "tt": "Volynska oblast",
+        "tt@iqtelif": "Volynska oblast",
         "tt_RU": "Volynska oblast",
         "twq": "Volynska oblast",
         "twq_NE": "Volynska oblast",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Volynska oblast",
         "zh_Hant_TW": "Volynska oblast",
         "zu": "Volynska oblast",
-        "zu_ZA": "Volynska oblast",
-        "sr@latin": "Volynska oblast",
-        "tt@iqtelif": "Volynska oblast"
+        "zu_ZA": "Volynska oblast"
     },
     "09": {
         "af": "Luhanska oblast",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Luhanska oblast",
         "sq_XK": "Luhanska oblast",
         "sr": "Luhanska oblast",
+        "sr@latin": "Luhanska oblast",
         "sr_Cyrl": "Luhanska oblast",
         "sr_Cyrl_BA": "Luhanska oblast",
         "sr_Cyrl_ME": "Luhanska oblast",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Luhanska oblast",
         "tr_TR": "Luhanska oblast",
         "tt": "Luhanska oblast",
+        "tt@iqtelif": "Luhanska oblast",
         "tt_RU": "Luhanska oblast",
         "twq": "Luhanska oblast",
         "twq_NE": "Luhanska oblast",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Luhanska oblast",
         "zh_Hant_TW": "Luhanska oblast",
         "zu": "Luhanska oblast",
-        "zu_ZA": "Luhanska oblast",
-        "sr@latin": "Luhanska oblast",
-        "tt@iqtelif": "Luhanska oblast"
+        "zu_ZA": "Luhanska oblast"
     },
     "12": {
         "af": "Dnipropetrovska oblast",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Dnipropetrovska oblast",
         "sq_XK": "Dnipropetrovska oblast",
         "sr": "Dnipropetrovska oblast",
+        "sr@latin": "Dnipropetrovska oblast",
         "sr_Cyrl": "Dnipropetrovska oblast",
         "sr_Cyrl_BA": "Dnipropetrovska oblast",
         "sr_Cyrl_ME": "Dnipropetrovska oblast",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Dnipropetrovska oblast",
         "tr_TR": "Dnipropetrovska oblast",
         "tt": "Dnipropetrovska oblast",
+        "tt@iqtelif": "Dnipropetrovska oblast",
         "tt_RU": "Dnipropetrovska oblast",
         "twq": "Dnipropetrovska oblast",
         "twq_NE": "Dnipropetrovska oblast",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Dnipropetrovska oblast",
         "zh_Hant_TW": "Dnipropetrovska oblast",
         "zu": "Dnipropetrovska oblast",
-        "zu_ZA": "Dnipropetrovska oblast",
-        "sr@latin": "Dnipropetrovska oblast",
-        "tt@iqtelif": "Dnipropetrovska oblast"
+        "zu_ZA": "Dnipropetrovska oblast"
     },
     "14": {
         "af": "Donetska oblast",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Donetska oblast",
         "sq_XK": "Donetska oblast",
         "sr": "Donetska oblast",
+        "sr@latin": "Donetska oblast",
         "sr_Cyrl": "Donetska oblast",
         "sr_Cyrl_BA": "Donetska oblast",
         "sr_Cyrl_ME": "Donetska oblast",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Donetska oblast",
         "tr_TR": "Donetska oblast",
         "tt": "Donetska oblast",
+        "tt@iqtelif": "Donetska oblast",
         "tt_RU": "Donetska oblast",
         "twq": "Donetska oblast",
         "twq_NE": "Donetska oblast",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Donetska oblast",
         "zh_Hant_TW": "Donetska oblast",
         "zu": "Donetska oblast",
-        "zu_ZA": "Donetska oblast",
-        "sr@latin": "Donetska oblast",
-        "tt@iqtelif": "Donetska oblast"
+        "zu_ZA": "Donetska oblast"
     },
     "18": {
         "af": "Zhytomyrska oblast",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Zhytomyrska oblast",
         "sq_XK": "Zhytomyrska oblast",
         "sr": "Zhytomyrska oblast",
+        "sr@latin": "Zhytomyrska oblast",
         "sr_Cyrl": "Zhytomyrska oblast",
         "sr_Cyrl_BA": "Zhytomyrska oblast",
         "sr_Cyrl_ME": "Zhytomyrska oblast",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Zhytomyrska oblast",
         "tr_TR": "Zhytomyrska oblast",
         "tt": "Zhytomyrska oblast",
+        "tt@iqtelif": "Zhytomyrska oblast",
         "tt_RU": "Zhytomyrska oblast",
         "twq": "Zhytomyrska oblast",
         "twq_NE": "Zhytomyrska oblast",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Zhytomyrska oblast",
         "zh_Hant_TW": "Zhytomyrska oblast",
         "zu": "Zhytomyrska oblast",
-        "zu_ZA": "Zhytomyrska oblast",
-        "sr@latin": "Zhytomyrska oblast",
-        "tt@iqtelif": "Zhytomyrska oblast"
+        "zu_ZA": "Zhytomyrska oblast"
     },
     "21": {
         "af": "Zakarpatska oblast",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Zakarpatska oblast",
         "sq_XK": "Zakarpatska oblast",
         "sr": "Zakarpatska oblast",
+        "sr@latin": "Zakarpatska oblast",
         "sr_Cyrl": "Zakarpatska oblast",
         "sr_Cyrl_BA": "Zakarpatska oblast",
         "sr_Cyrl_ME": "Zakarpatska oblast",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Zakarpatska oblast",
         "tr_TR": "Zakarpatska oblast",
         "tt": "Zakarpatska oblast",
+        "tt@iqtelif": "Zakarpatska oblast",
         "tt_RU": "Zakarpatska oblast",
         "twq": "Zakarpatska oblast",
         "twq_NE": "Zakarpatska oblast",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Zakarpatska oblast",
         "zh_Hant_TW": "Zakarpatska oblast",
         "zu": "Zakarpatska oblast",
-        "zu_ZA": "Zakarpatska oblast",
-        "sr@latin": "Zakarpatska oblast",
-        "tt@iqtelif": "Zakarpatska oblast"
+        "zu_ZA": "Zakarpatska oblast"
     },
     "23": {
         "af": "Zaporizka oblast",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Zaporizka oblast",
         "sq_XK": "Zaporizka oblast",
         "sr": "Zaporizka oblast",
+        "sr@latin": "Zaporizka oblast",
         "sr_Cyrl": "Zaporizka oblast",
         "sr_Cyrl_BA": "Zaporizka oblast",
         "sr_Cyrl_ME": "Zaporizka oblast",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Zaporizka oblast",
         "tr_TR": "Zaporizka oblast",
         "tt": "Zaporizka oblast",
+        "tt@iqtelif": "Zaporizka oblast",
         "tt_RU": "Zaporizka oblast",
         "twq": "Zaporizka oblast",
         "twq_NE": "Zaporizka oblast",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Zaporizka oblast",
         "zh_Hant_TW": "Zaporizka oblast",
         "zu": "Zaporizka oblast",
-        "zu_ZA": "Zaporizka oblast",
-        "sr@latin": "Zaporizka oblast",
-        "tt@iqtelif": "Zaporizka oblast"
+        "zu_ZA": "Zaporizka oblast"
     },
     "26": {
         "af": "Ivano-Frankivska oblast",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Ivano-Frankivska oblast",
         "sq_XK": "Ivano-Frankivska oblast",
         "sr": "Ivano-Frankivska oblast",
+        "sr@latin": "Ivano-Frankivska oblast",
         "sr_Cyrl": "Ivano-Frankivska oblast",
         "sr_Cyrl_BA": "Ivano-Frankivska oblast",
         "sr_Cyrl_ME": "Ivano-Frankivska oblast",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Ivano-Frankivska oblast",
         "tr_TR": "Ivano-Frankivska oblast",
         "tt": "Ivano-Frankivska oblast",
+        "tt@iqtelif": "Ivano-Frankivska oblast",
         "tt_RU": "Ivano-Frankivska oblast",
         "twq": "Ivano-Frankivska oblast",
         "twq_NE": "Ivano-Frankivska oblast",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Ivano-Frankivska oblast",
         "zh_Hant_TW": "Ivano-Frankivska oblast",
         "zu": "Ivano-Frankivska oblast",
-        "zu_ZA": "Ivano-Frankivska oblast",
-        "sr@latin": "Ivano-Frankivska oblast",
-        "tt@iqtelif": "Ivano-Frankivska oblast"
+        "zu_ZA": "Ivano-Frankivska oblast"
     },
     "30": {
         "af": "Kyiv",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Kyiv",
         "sq_XK": "Kyiv",
         "sr": "Kyiv",
+        "sr@latin": "Kyiv",
         "sr_Cyrl": "Kyiv",
         "sr_Cyrl_BA": "Kyiv",
         "sr_Cyrl_ME": "Kyiv",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Kyiv",
         "tr_TR": "Kyiv",
         "tt": "Kyiv",
+        "tt@iqtelif": "Kyiv",
         "tt_RU": "Kyiv",
         "twq": "Kyiv",
         "twq_NE": "Kyiv",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Kyiv",
         "zh_Hant_TW": "Kyiv",
         "zu": "Kyiv",
-        "zu_ZA": "Kyiv",
-        "sr@latin": "Kyiv",
-        "tt@iqtelif": "Kyiv"
+        "zu_ZA": "Kyiv"
     },
     "32": {
         "af": "Kyivska oblast",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Kyivska oblast",
         "sq_XK": "Kyivska oblast",
         "sr": "Kyivska oblast",
+        "sr@latin": "Kyivska oblast",
         "sr_Cyrl": "Kyivska oblast",
         "sr_Cyrl_BA": "Kyivska oblast",
         "sr_Cyrl_ME": "Kyivska oblast",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Kyivska oblast",
         "tr_TR": "Kyivska oblast",
         "tt": "Kyivska oblast",
+        "tt@iqtelif": "Kyivska oblast",
         "tt_RU": "Kyivska oblast",
         "twq": "Kyivska oblast",
         "twq_NE": "Kyivska oblast",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Kyivska oblast",
         "zh_Hant_TW": "Kyivska oblast",
         "zu": "Kyivska oblast",
-        "zu_ZA": "Kyivska oblast",
-        "sr@latin": "Kyivska oblast",
-        "tt@iqtelif": "Kyivska oblast"
+        "zu_ZA": "Kyivska oblast"
     },
     "35": {
         "af": "Kirovohradska oblast",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Kirovohradska oblast",
         "sq_XK": "Kirovohradska oblast",
         "sr": "Kirovohradska oblast",
+        "sr@latin": "Kirovohradska oblast",
         "sr_Cyrl": "Kirovohradska oblast",
         "sr_Cyrl_BA": "Kirovohradska oblast",
         "sr_Cyrl_ME": "Kirovohradska oblast",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Kirovohradska oblast",
         "tr_TR": "Kirovohradska oblast",
         "tt": "Kirovohradska oblast",
+        "tt@iqtelif": "Kirovohradska oblast",
         "tt_RU": "Kirovohradska oblast",
         "twq": "Kirovohradska oblast",
         "twq_NE": "Kirovohradska oblast",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Kirovohradska oblast",
         "zh_Hant_TW": "Kirovohradska oblast",
         "zu": "Kirovohradska oblast",
-        "zu_ZA": "Kirovohradska oblast",
-        "sr@latin": "Kirovohradska oblast",
-        "tt@iqtelif": "Kirovohradska oblast"
+        "zu_ZA": "Kirovohradska oblast"
     },
     "40": {
         "af": "Sevastopol",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Sevastopol",
         "sq_XK": "Sevastopol",
         "sr": "Севастопољ",
+        "sr@latin": "Sevastopolj",
         "sr_Cyrl": "Севастопољ",
         "sr_Cyrl_BA": "Севастопољ",
         "sr_Cyrl_ME": "Севастопољ",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Sevastopol",
         "tr_TR": "Sevastopol",
         "tt": "Sevastopol",
+        "tt@iqtelif": "Sevastopol",
         "tt_RU": "Sevastopol",
         "twq": "Sevastopol",
         "twq_NE": "Sevastopol",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Sevastopol",
         "zh_Hant_TW": "Sevastopol",
         "zu": "Sevastopol",
-        "zu_ZA": "Sevastopol",
-        "sr@latin": "Sevastopolj",
-        "tt@iqtelif": "Sevastopol"
+        "zu_ZA": "Sevastopol"
     },
     "43": {
         "af": "Avtonomna Respublika Krym",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Avtonomna Respublika Krym",
         "sq_XK": "Avtonomna Respublika Krym",
         "sr": "Avtonomna Respublika Krym",
+        "sr@latin": "Avtonomna Respublika Krym",
         "sr_Cyrl": "Avtonomna Respublika Krym",
         "sr_Cyrl_BA": "Avtonomna Respublika Krym",
         "sr_Cyrl_ME": "Avtonomna Respublika Krym",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Avtonomna Respublika Krym",
         "tr_TR": "Avtonomna Respublika Krym",
         "tt": "Avtonomna Respublika Krym",
+        "tt@iqtelif": "Avtonomna Respublika Krym",
         "tt_RU": "Avtonomna Respublika Krym",
         "twq": "Avtonomna Respublika Krym",
         "twq_NE": "Avtonomna Respublika Krym",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Avtonomna Respublika Krym",
         "zh_Hant_TW": "Avtonomna Respublika Krym",
         "zu": "Avtonomna Respublika Krym",
-        "zu_ZA": "Avtonomna Respublika Krym",
-        "sr@latin": "Avtonomna Respublika Krym",
-        "tt@iqtelif": "Avtonomna Respublika Krym"
+        "zu_ZA": "Avtonomna Respublika Krym"
     },
     "46": {
         "af": "Lvivska oblast",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Lvivska oblast",
         "sq_XK": "Lvivska oblast",
         "sr": "Lvivska oblast",
+        "sr@latin": "Lvivska oblast",
         "sr_Cyrl": "Lvivska oblast",
         "sr_Cyrl_BA": "Lvivska oblast",
         "sr_Cyrl_ME": "Lvivska oblast",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Lvivska oblast",
         "tr_TR": "Lvivska oblast",
         "tt": "Lvivska oblast",
+        "tt@iqtelif": "Lvivska oblast",
         "tt_RU": "Lvivska oblast",
         "twq": "Lvivska oblast",
         "twq_NE": "Lvivska oblast",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Lvivska oblast",
         "zh_Hant_TW": "Lvivska oblast",
         "zu": "Lvivska oblast",
-        "zu_ZA": "Lvivska oblast",
-        "sr@latin": "Lvivska oblast",
-        "tt@iqtelif": "Lvivska oblast"
+        "zu_ZA": "Lvivska oblast"
     },
     "48": {
         "af": "Mykolaivska oblast",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Mykolaivska oblast",
         "sq_XK": "Mykolaivska oblast",
         "sr": "Mykolaivska oblast",
+        "sr@latin": "Mykolaivska oblast",
         "sr_Cyrl": "Mykolaivska oblast",
         "sr_Cyrl_BA": "Mykolaivska oblast",
         "sr_Cyrl_ME": "Mykolaivska oblast",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Mykolaivska oblast",
         "tr_TR": "Mykolaivska oblast",
         "tt": "Mykolaivska oblast",
+        "tt@iqtelif": "Mykolaivska oblast",
         "tt_RU": "Mykolaivska oblast",
         "twq": "Mykolaivska oblast",
         "twq_NE": "Mykolaivska oblast",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Mykolaivska oblast",
         "zh_Hant_TW": "Mykolaivska oblast",
         "zu": "Mykolaivska oblast",
-        "zu_ZA": "Mykolaivska oblast",
-        "sr@latin": "Mykolaivska oblast",
-        "tt@iqtelif": "Mykolaivska oblast"
+        "zu_ZA": "Mykolaivska oblast"
     },
     "51": {
         "af": "Odeska oblast",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Odeska oblast",
         "sq_XK": "Odeska oblast",
         "sr": "Odeska oblast",
+        "sr@latin": "Odeska oblast",
         "sr_Cyrl": "Odeska oblast",
         "sr_Cyrl_BA": "Odeska oblast",
         "sr_Cyrl_ME": "Odeska oblast",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Odeska oblast",
         "tr_TR": "Odeska oblast",
         "tt": "Odeska oblast",
+        "tt@iqtelif": "Odeska oblast",
         "tt_RU": "Odeska oblast",
         "twq": "Odeska oblast",
         "twq_NE": "Odeska oblast",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Odeska oblast",
         "zh_Hant_TW": "Odeska oblast",
         "zu": "Odeska oblast",
-        "zu_ZA": "Odeska oblast",
-        "sr@latin": "Odeska oblast",
-        "tt@iqtelif": "Odeska oblast"
+        "zu_ZA": "Odeska oblast"
     },
     "53": {
         "af": "Poltavska oblast",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Poltavska oblast",
         "sq_XK": "Poltavska oblast",
         "sr": "Poltavska oblast",
+        "sr@latin": "Poltavska oblast",
         "sr_Cyrl": "Poltavska oblast",
         "sr_Cyrl_BA": "Poltavska oblast",
         "sr_Cyrl_ME": "Poltavska oblast",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Poltavska oblast",
         "tr_TR": "Poltavska oblast",
         "tt": "Poltavska oblast",
+        "tt@iqtelif": "Poltavska oblast",
         "tt_RU": "Poltavska oblast",
         "twq": "Poltavska oblast",
         "twq_NE": "Poltavska oblast",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Poltavska oblast",
         "zh_Hant_TW": "Poltavska oblast",
         "zu": "Poltavska oblast",
-        "zu_ZA": "Poltavska oblast",
-        "sr@latin": "Poltavska oblast",
-        "tt@iqtelif": "Poltavska oblast"
+        "zu_ZA": "Poltavska oblast"
     },
     "56": {
         "af": "Rivnenska oblast",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Rivnenska oblast",
         "sq_XK": "Rivnenska oblast",
         "sr": "Rivnenska oblast",
+        "sr@latin": "Rivnenska oblast",
         "sr_Cyrl": "Rivnenska oblast",
         "sr_Cyrl_BA": "Rivnenska oblast",
         "sr_Cyrl_ME": "Rivnenska oblast",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Rivnenska oblast",
         "tr_TR": "Rivnenska oblast",
         "tt": "Rivnenska oblast",
+        "tt@iqtelif": "Rivnenska oblast",
         "tt_RU": "Rivnenska oblast",
         "twq": "Rivnenska oblast",
         "twq_NE": "Rivnenska oblast",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Rivnenska oblast",
         "zh_Hant_TW": "Rivnenska oblast",
         "zu": "Rivnenska oblast",
-        "zu_ZA": "Rivnenska oblast",
-        "sr@latin": "Rivnenska oblast",
-        "tt@iqtelif": "Rivnenska oblast"
+        "zu_ZA": "Rivnenska oblast"
     },
     "59": {
         "af": "Sumska oblast",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Sumska oblast",
         "sq_XK": "Sumska oblast",
         "sr": "Sumska oblast",
+        "sr@latin": "Sumska oblast",
         "sr_Cyrl": "Sumska oblast",
         "sr_Cyrl_BA": "Sumska oblast",
         "sr_Cyrl_ME": "Sumska oblast",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Sumska oblast",
         "tr_TR": "Sumska oblast",
         "tt": "Sumska oblast",
+        "tt@iqtelif": "Sumska oblast",
         "tt_RU": "Sumska oblast",
         "twq": "Sumska oblast",
         "twq_NE": "Sumska oblast",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Sumska oblast",
         "zh_Hant_TW": "Sumska oblast",
         "zu": "Sumska oblast",
-        "zu_ZA": "Sumska oblast",
-        "sr@latin": "Sumska oblast",
-        "tt@iqtelif": "Sumska oblast"
+        "zu_ZA": "Sumska oblast"
     },
     "61": {
         "af": "Ternopilska oblast",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Ternopilska oblast",
         "sq_XK": "Ternopilska oblast",
         "sr": "Ternopilska oblast",
+        "sr@latin": "Ternopilska oblast",
         "sr_Cyrl": "Ternopilska oblast",
         "sr_Cyrl_BA": "Ternopilska oblast",
         "sr_Cyrl_ME": "Ternopilska oblast",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Ternopilska oblast",
         "tr_TR": "Ternopilska oblast",
         "tt": "Ternopilska oblast",
+        "tt@iqtelif": "Ternopilska oblast",
         "tt_RU": "Ternopilska oblast",
         "twq": "Ternopilska oblast",
         "twq_NE": "Ternopilska oblast",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Ternopilska oblast",
         "zh_Hant_TW": "Ternopilska oblast",
         "zu": "Ternopilska oblast",
-        "zu_ZA": "Ternopilska oblast",
-        "sr@latin": "Ternopilska oblast",
-        "tt@iqtelif": "Ternopilska oblast"
+        "zu_ZA": "Ternopilska oblast"
     },
     "63": {
         "af": "Kharkivska oblast",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Kharkivska oblast",
         "sq_XK": "Kharkivska oblast",
         "sr": "Kharkivska oblast",
+        "sr@latin": "Kharkivska oblast",
         "sr_Cyrl": "Kharkivska oblast",
         "sr_Cyrl_BA": "Kharkivska oblast",
         "sr_Cyrl_ME": "Kharkivska oblast",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Kharkivska oblast",
         "tr_TR": "Kharkivska oblast",
         "tt": "Kharkivska oblast",
+        "tt@iqtelif": "Kharkivska oblast",
         "tt_RU": "Kharkivska oblast",
         "twq": "Kharkivska oblast",
         "twq_NE": "Kharkivska oblast",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Kharkivska oblast",
         "zh_Hant_TW": "Kharkivska oblast",
         "zu": "Kharkivska oblast",
-        "zu_ZA": "Kharkivska oblast",
-        "sr@latin": "Kharkivska oblast",
-        "tt@iqtelif": "Kharkivska oblast"
+        "zu_ZA": "Kharkivska oblast"
     },
     "65": {
         "af": "Khersonska oblast",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Khersonska oblast",
         "sq_XK": "Khersonska oblast",
         "sr": "Khersonska oblast",
+        "sr@latin": "Khersonska oblast",
         "sr_Cyrl": "Khersonska oblast",
         "sr_Cyrl_BA": "Khersonska oblast",
         "sr_Cyrl_ME": "Khersonska oblast",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Khersonska oblast",
         "tr_TR": "Khersonska oblast",
         "tt": "Khersonska oblast",
+        "tt@iqtelif": "Khersonska oblast",
         "tt_RU": "Khersonska oblast",
         "twq": "Khersonska oblast",
         "twq_NE": "Khersonska oblast",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Khersonska oblast",
         "zh_Hant_TW": "Khersonska oblast",
         "zu": "Khersonska oblast",
-        "zu_ZA": "Khersonska oblast",
-        "sr@latin": "Khersonska oblast",
-        "tt@iqtelif": "Khersonska oblast"
+        "zu_ZA": "Khersonska oblast"
     },
     "68": {
         "af": "Khmelnytska oblast",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Khmelnytska oblast",
         "sq_XK": "Khmelnytska oblast",
         "sr": "Khmelnytska oblast",
+        "sr@latin": "Khmelnytska oblast",
         "sr_Cyrl": "Khmelnytska oblast",
         "sr_Cyrl_BA": "Khmelnytska oblast",
         "sr_Cyrl_ME": "Khmelnytska oblast",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Khmelnytska oblast",
         "tr_TR": "Khmelnytska oblast",
         "tt": "Khmelnytska oblast",
+        "tt@iqtelif": "Khmelnytska oblast",
         "tt_RU": "Khmelnytska oblast",
         "twq": "Khmelnytska oblast",
         "twq_NE": "Khmelnytska oblast",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Khmelnytska oblast",
         "zh_Hant_TW": "Khmelnytska oblast",
         "zu": "Khmelnytska oblast",
-        "zu_ZA": "Khmelnytska oblast",
-        "sr@latin": "Khmelnytska oblast",
-        "tt@iqtelif": "Khmelnytska oblast"
+        "zu_ZA": "Khmelnytska oblast"
     },
     "71": {
         "af": "Cherkaska oblast",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Cherkaska oblast",
         "sq_XK": "Cherkaska oblast",
         "sr": "Cherkaska oblast",
+        "sr@latin": "Cherkaska oblast",
         "sr_Cyrl": "Cherkaska oblast",
         "sr_Cyrl_BA": "Cherkaska oblast",
         "sr_Cyrl_ME": "Cherkaska oblast",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Cherkaska oblast",
         "tr_TR": "Cherkaska oblast",
         "tt": "Cherkaska oblast",
+        "tt@iqtelif": "Cherkaska oblast",
         "tt_RU": "Cherkaska oblast",
         "twq": "Cherkaska oblast",
         "twq_NE": "Cherkaska oblast",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Cherkaska oblast",
         "zh_Hant_TW": "Cherkaska oblast",
         "zu": "Cherkaska oblast",
-        "zu_ZA": "Cherkaska oblast",
-        "sr@latin": "Cherkaska oblast",
-        "tt@iqtelif": "Cherkaska oblast"
+        "zu_ZA": "Cherkaska oblast"
     },
     "74": {
         "af": "Chernihivska oblast",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Chernihivska oblast",
         "sq_XK": "Chernihivska oblast",
         "sr": "Chernihivska oblast",
+        "sr@latin": "Chernihivska oblast",
         "sr_Cyrl": "Chernihivska oblast",
         "sr_Cyrl_BA": "Chernihivska oblast",
         "sr_Cyrl_ME": "Chernihivska oblast",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Chernihivska oblast",
         "tr_TR": "Chernihivska oblast",
         "tt": "Chernihivska oblast",
+        "tt@iqtelif": "Chernihivska oblast",
         "tt_RU": "Chernihivska oblast",
         "twq": "Chernihivska oblast",
         "twq_NE": "Chernihivska oblast",
@@ -23005,9 +23007,7 @@
         "zh_Hant_MY": "Chernihivska oblast",
         "zh_Hant_TW": "Chernihivska oblast",
         "zu": "Chernihivska oblast",
-        "zu_ZA": "Chernihivska oblast",
-        "sr@latin": "Chernihivska oblast",
-        "tt@iqtelif": "Chernihivska oblast"
+        "zu_ZA": "Chernihivska oblast"
     },
     "77": {
         "af": "Chernivetska oblast",
@@ -23753,6 +23753,7 @@
         "sq_MK": "Chernivetska oblast",
         "sq_XK": "Chernivetska oblast",
         "sr": "Chernivetska oblast",
+        "sr@latin": "Chernivetska oblast",
         "sr_Cyrl": "Chernivetska oblast",
         "sr_Cyrl_BA": "Chernivetska oblast",
         "sr_Cyrl_ME": "Chernivetska oblast",
@@ -23813,6 +23814,7 @@
         "tr_CY": "Chernivetska oblast",
         "tr_TR": "Chernivetska oblast",
         "tt": "Chernivetska oblast",
+        "tt@iqtelif": "Chernivetska oblast",
         "tt_RU": "Chernivetska oblast",
         "twq": "Chernivetska oblast",
         "twq_NE": "Chernivetska oblast",
@@ -23890,8 +23892,6 @@
         "zh_Hant_MY": "Chernivetska oblast",
         "zh_Hant_TW": "Chernivetska oblast",
         "zu": "Chernivetska oblast",
-        "zu_ZA": "Chernivetska oblast",
-        "sr@latin": "Chernivetska oblast",
-        "tt@iqtelif": "Chernivetska oblast"
+        "zu_ZA": "Chernivetska oblast"
     }
 }

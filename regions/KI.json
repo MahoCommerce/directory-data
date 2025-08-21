@@ -743,6 +743,7 @@
         "sq_MK": "Gilbert Islands",
         "sq_XK": "Gilbert Islands",
         "sr": "Гилбертова острва",
+        "sr@latin": "Gilbertova ostrva",
         "sr_Cyrl": "Гилбертова острва",
         "sr_Cyrl_BA": "Гилбертова острва",
         "sr_Cyrl_ME": "Гилбертова острва",
@@ -803,6 +804,7 @@
         "tr_CY": "Gilbert Adaları",
         "tr_TR": "Gilbert Adaları",
         "tt": "Gilbert Islands",
+        "tt@iqtelif": "Gilbert Islands",
         "tt_RU": "Gilbert Islands",
         "twq": "Gilbert Islands",
         "twq_NE": "Gilbert Islands",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Gilbert Islands",
         "zh_Hant_TW": "Gilbert Islands",
         "zu": "Gilbert Islands",
-        "zu_ZA": "Gilbert Islands",
-        "sr@latin": "Gilbertova ostrva",
-        "tt@iqtelif": "Gilbert Islands"
+        "zu_ZA": "Gilbert Islands"
     },
     "L": {
         "af": "Line Islands",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Line Islands",
         "sq_XK": "Line Islands",
         "sr": "Лајн острва",
+        "sr@latin": "Lajn ostrva",
         "sr_Cyrl": "Лајн острва",
         "sr_Cyrl_BA": "Лајн острва",
         "sr_Cyrl_ME": "Лајн острва",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Line Adaları",
         "tr_TR": "Line Adaları",
         "tt": "Line Islands",
+        "tt@iqtelif": "Line Islands",
         "tt_RU": "Line Islands",
         "twq": "Line Islands",
         "twq_NE": "Line Islands",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Line Islands",
         "zh_Hant_TW": "Line Islands",
         "zu": "Line Islands",
-        "zu_ZA": "Line Islands",
-        "sr@latin": "Lajn ostrva",
-        "tt@iqtelif": "Line Islands"
+        "zu_ZA": "Line Islands"
     },
     "P": {
         "af": "Phoenix Islands",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Phoenix Islands",
         "sq_XK": "Phoenix Islands",
         "sr": "Феникс острва",
+        "sr@latin": "Feniks ostrva",
         "sr_Cyrl": "Феникс острва",
         "sr_Cyrl_BA": "Феникс острва",
         "sr_Cyrl_ME": "Феникс острва",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Phoenix Adaları",
         "tr_TR": "Phoenix Adaları",
         "tt": "Phoenix Islands",
+        "tt@iqtelif": "Phoenix Islands",
         "tt_RU": "Phoenix Islands",
         "twq": "Phoenix Islands",
         "twq_NE": "Phoenix Islands",
@@ -2650,8 +2652,6 @@
         "zh_Hant_MY": "Phoenix Islands",
         "zh_Hant_TW": "Phoenix Islands",
         "zu": "Phoenix Islands",
-        "zu_ZA": "Phoenix Islands",
-        "sr@latin": "Feniks ostrva",
-        "tt@iqtelif": "Phoenix Islands"
+        "zu_ZA": "Phoenix Islands"
     }
 }

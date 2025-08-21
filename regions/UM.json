@@ -743,6 +743,7 @@
         "sq_MK": "Johnston Atoll",
         "sq_XK": "Johnston Atoll",
         "sr": "Џонстон Атол",
+        "sr@latin": "Džonston Atol",
         "sr_Cyrl": "Џонстон Атол",
         "sr_Cyrl_BA": "Џонстон Атол",
         "sr_Cyrl_ME": "Џонстон Атол",
@@ -803,6 +804,7 @@
         "tr_CY": "Johnston Atoll",
         "tr_TR": "Johnston Atoll",
         "tt": "Johnston Atoll",
+        "tt@iqtelif": "Johnston Atoll",
         "tt_RU": "Johnston Atoll",
         "twq": "Johnston Atoll",
         "twq_NE": "Johnston Atoll",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Johnston Atoll",
         "zh_Hant_TW": "Johnston Atoll",
         "zu": "Johnston Atoll",
-        "zu_ZA": "Johnston Atoll",
-        "sr@latin": "Džonston Atol",
-        "tt@iqtelif": "Johnston Atoll"
+        "zu_ZA": "Johnston Atoll"
     },
     "71": {
         "af": "Midway Islands",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Midway Islands",
         "sq_XK": "Midway Islands",
         "sr": "Острва Мидвеј",
+        "sr@latin": "Ostrva Midvej",
         "sr_Cyrl": "Острва Мидвеј",
         "sr_Cyrl_BA": "Острва Мидвеј",
         "sr_Cyrl_ME": "Острва Мидвеј",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Midway Adaları",
         "tr_TR": "Midway Adaları",
         "tt": "Midway Islands",
+        "tt@iqtelif": "Midway Islands",
         "tt_RU": "Midway Islands",
         "twq": "Midway Islands",
         "twq_NE": "Midway Islands",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Midway Islands",
         "zh_Hant_TW": "Midway Islands",
         "zu": "Midway Islands",
-        "zu_ZA": "Midway Islands",
-        "sr@latin": "Ostrva Midvej",
-        "tt@iqtelif": "Midway Islands"
+        "zu_ZA": "Midway Islands"
     },
     "76": {
         "af": "Navassa Island",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Navassa Island",
         "sq_XK": "Navassa Island",
         "sr": "Navassa Island",
+        "sr@latin": "Navassa Island",
         "sr_Cyrl": "Navassa Island",
         "sr_Cyrl_BA": "Navassa Island",
         "sr_Cyrl_ME": "Navassa Island",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Navassa Adası",
         "tr_TR": "Navassa Adası",
         "tt": "Navassa Island",
+        "tt@iqtelif": "Navassa Island",
         "tt_RU": "Navassa Island",
         "twq": "Navassa Island",
         "twq_NE": "Navassa Island",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Navassa Island",
         "zh_Hant_TW": "Navassa Island",
         "zu": "Navassa Island",
-        "zu_ZA": "Navassa Island",
-        "sr@latin": "Navassa Island",
-        "tt@iqtelif": "Navassa Island"
+        "zu_ZA": "Navassa Island"
     },
     "79": {
         "af": "Wake Island",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Wake Island",
         "sq_XK": "Wake Island",
         "sr": "Острво Вејк",
+        "sr@latin": "Ostrvo Vejk",
         "sr_Cyrl": "Острво Вејк",
         "sr_Cyrl_BA": "Острво Вејк",
         "sr_Cyrl_ME": "Острво Вејк",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Wake Adası",
         "tr_TR": "Wake Adası",
         "tt": "Wake Island",
+        "tt@iqtelif": "Wake Island",
         "tt_RU": "Wake Island",
         "twq": "Wake Island",
         "twq_NE": "Wake Island",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Wake Island",
         "zh_Hant_TW": "Wake Island",
         "zu": "Wake Island",
-        "zu_ZA": "Wake Island",
-        "sr@latin": "Ostrvo Vejk",
-        "tt@iqtelif": "Wake Island"
+        "zu_ZA": "Wake Island"
     },
     "81": {
         "af": "Baker Island",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Baker Island",
         "sq_XK": "Baker Island",
         "sr": "Бејкер острво",
+        "sr@latin": "Bejker ostrvo",
         "sr_Cyrl": "Бејкер острво",
         "sr_Cyrl_BA": "Бејкер острво",
         "sr_Cyrl_ME": "Бејкер острво",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Baker Adası",
         "tr_TR": "Baker Adası",
         "tt": "Baker Island",
+        "tt@iqtelif": "Baker Island",
         "tt_RU": "Baker Island",
         "twq": "Baker Island",
         "twq_NE": "Baker Island",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Baker Island",
         "zh_Hant_TW": "Baker Island",
         "zu": "Baker Island",
-        "zu_ZA": "Baker Island",
-        "sr@latin": "Bejker ostrvo",
-        "tt@iqtelif": "Baker Island"
+        "zu_ZA": "Baker Island"
     },
     "84": {
         "af": "Howland Island",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Howland Island",
         "sq_XK": "Howland Island",
         "sr": "Аланд острва",
+        "sr@latin": "Aland ostrva",
         "sr_Cyrl": "Аланд острва",
         "sr_Cyrl_BA": "Аланд острва",
         "sr_Cyrl_ME": "Аланд острва",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Howland Adası",
         "tr_TR": "Howland Adası",
         "tt": "Howland Island",
+        "tt@iqtelif": "Howland Island",
         "tt_RU": "Howland Island",
         "twq": "Howland Island",
         "twq_NE": "Howland Island",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Howland Island",
         "zh_Hant_TW": "Howland Island",
         "zu": "Howland Island",
-        "zu_ZA": "Howland Island",
-        "sr@latin": "Aland ostrva",
-        "tt@iqtelif": "Howland Island"
+        "zu_ZA": "Howland Island"
     },
     "86": {
         "af": "Jarvis Island",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Jarvis Island",
         "sq_XK": "Jarvis Island",
         "sr": "Џарвис острво",
+        "sr@latin": "Džarvis ostrvo",
         "sr_Cyrl": "Џарвис острво",
         "sr_Cyrl_BA": "Џарвис острво",
         "sr_Cyrl_ME": "Џарвис острво",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Jarvis Adası",
         "tr_TR": "Jarvis Adası",
         "tt": "Jarvis Island",
+        "tt@iqtelif": "Jarvis Island",
         "tt_RU": "Jarvis Island",
         "twq": "Jarvis Island",
         "twq_NE": "Jarvis Island",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Jarvis Island",
         "zh_Hant_TW": "Jarvis Island",
         "zu": "Jarvis Island",
-        "zu_ZA": "Jarvis Island",
-        "sr@latin": "Džarvis ostrvo",
-        "tt@iqtelif": "Jarvis Island"
+        "zu_ZA": "Jarvis Island"
     },
     "89": {
         "af": "Kingman Reef",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Kingman Reef",
         "sq_XK": "Kingman Reef",
         "sr": "Кингман Риф",
+        "sr@latin": "Kingman Rif",
         "sr_Cyrl": "Кингман Риф",
         "sr_Cyrl_BA": "Кингман Риф",
         "sr_Cyrl_ME": "Кингман Риф",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kingman Reef",
         "tr_TR": "Kingman Reef",
         "tt": "Kingman Reef",
+        "tt@iqtelif": "Kingman Reef",
         "tt_RU": "Kingman Reef",
         "twq": "Kingman Reef",
         "twq_NE": "Kingman Reef",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Kingman Reef",
         "zh_Hant_TW": "Kingman Reef",
         "zu": "Kingman Reef",
-        "zu_ZA": "Kingman Reef",
-        "sr@latin": "Kingman Rif",
-        "tt@iqtelif": "Kingman Reef"
+        "zu_ZA": "Kingman Reef"
     },
     "95": {
         "af": "Palmyra Atoll",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Palmyra Atoll",
         "sq_XK": "Palmyra Atoll",
         "sr": "Палмира Атол",
+        "sr@latin": "Palmira Atol",
         "sr_Cyrl": "Палмира Атол",
         "sr_Cyrl_BA": "Палмира Атол",
         "sr_Cyrl_ME": "Палмира Атол",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Palmyra Atoll",
         "tr_TR": "Palmyra Atoll",
         "tt": "Palmyra Atoll",
+        "tt@iqtelif": "Palmyra Atoll",
         "tt_RU": "Palmyra Atoll",
         "twq": "Palmyra Atoll",
         "twq_NE": "Palmyra Atoll",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Palmyra Atoll",
         "zh_Hant_TW": "Palmyra Atoll",
         "zu": "Palmyra Atoll",
-        "zu_ZA": "Palmyra Atoll",
-        "sr@latin": "Palmira Atol",
-        "tt@iqtelif": "Palmyra Atoll"
+        "zu_ZA": "Palmyra Atoll"
     }
 }

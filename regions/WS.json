@@ -743,6 +743,7 @@
         "sq_MK": "A'ana",
         "sq_XK": "A'ana",
         "sr": "А'ана",
+        "sr@latin": "A'ana",
         "sr_Cyrl": "А'ана",
         "sr_Cyrl_BA": "А'ана",
         "sr_Cyrl_ME": "А'ана",
@@ -803,6 +804,7 @@
         "tr_CY": "A'ana",
         "tr_TR": "A'ana",
         "tt": "A'ana",
+        "tt@iqtelif": "A'ana",
         "tt_RU": "A'ana",
         "twq": "A'ana",
         "twq_NE": "A'ana",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "A'ana",
         "zh_Hant_TW": "A'ana",
         "zu": "A'ana",
-        "zu_ZA": "A'ana",
-        "sr@latin": "A'ana",
-        "tt@iqtelif": "A'ana"
+        "zu_ZA": "A'ana"
     },
     "AL": {
         "af": "Aiga-i-le-Tai",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Aiga-i-le-Tai",
         "sq_XK": "Aiga-i-le-Tai",
         "sr": "Ајгајлетај",
+        "sr@latin": "Ajgajletaj",
         "sr_Cyrl": "Ајгајлетај",
         "sr_Cyrl_BA": "Ајгајлетај",
         "sr_Cyrl_ME": "Ајгајлетај",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Aiga-i-le-Tai",
         "tr_TR": "Aiga-i-le-Tai",
         "tt": "Aiga-i-le-Tai",
+        "tt@iqtelif": "Aiga-i-le-Tai",
         "tt_RU": "Aiga-i-le-Tai",
         "twq": "Aiga-i-le-Tai",
         "twq_NE": "Aiga-i-le-Tai",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Aiga-i-le-Tai",
         "zh_Hant_TW": "Aiga-i-le-Tai",
         "zu": "Aiga-i-le-Tai",
-        "zu_ZA": "Aiga-i-le-Tai",
-        "sr@latin": "Ajgajletaj",
-        "tt@iqtelif": "Aiga-i-le-Tai"
+        "zu_ZA": "Aiga-i-le-Tai"
     },
     "AT": {
         "af": "Atua",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Atua",
         "sq_XK": "Atua",
         "sr": "Атуа",
+        "sr@latin": "Atua",
         "sr_Cyrl": "Атуа",
         "sr_Cyrl_BA": "Атуа",
         "sr_Cyrl_ME": "Атуа",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Atua",
         "tr_TR": "Atua",
         "tt": "Atua",
+        "tt@iqtelif": "Atua",
         "tt_RU": "Atua",
         "twq": "Atua",
         "twq_NE": "Atua",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Atua",
         "zh_Hant_TW": "Atua",
         "zu": "Atua",
-        "zu_ZA": "Atua",
-        "sr@latin": "Atua",
-        "tt@iqtelif": "Atua"
+        "zu_ZA": "Atua"
     },
     "FA": {
         "af": "Fa'asaleleaga",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Fa'asaleleaga",
         "sq_XK": "Fa'asaleleaga",
         "sr": "Фа'асалелига",
+        "sr@latin": "Fa'asaleliga",
         "sr_Cyrl": "Фа'асалелига",
         "sr_Cyrl_BA": "Фа'асалелига",
         "sr_Cyrl_ME": "Фа'асалелига",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Fa'asaleleaga",
         "tr_TR": "Fa'asaleleaga",
         "tt": "Fa'asaleleaga",
+        "tt@iqtelif": "Fa'asaleleaga",
         "tt_RU": "Fa'asaleleaga",
         "twq": "Fa'asaleleaga",
         "twq_NE": "Fa'asaleleaga",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Fa'asaleleaga",
         "zh_Hant_TW": "Fa'asaleleaga",
         "zu": "Fa'asaleleaga",
-        "zu_ZA": "Fa'asaleleaga",
-        "sr@latin": "Fa'asaleliga",
-        "tt@iqtelif": "Fa'asaleleaga"
+        "zu_ZA": "Fa'asaleleaga"
     },
     "GE": {
         "af": "Gaga'emauga",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Gaga'emauga",
         "sq_XK": "Gaga'emauga",
         "sr": "Гага'емауга",
+        "sr@latin": "Gaga'emauga",
         "sr_Cyrl": "Гага'емауга",
         "sr_Cyrl_BA": "Гага'емауга",
         "sr_Cyrl_ME": "Гага'емауга",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Gaga'emauga",
         "tr_TR": "Gaga'emauga",
         "tt": "Gaga'emauga",
+        "tt@iqtelif": "Gaga'emauga",
         "tt_RU": "Gaga'emauga",
         "twq": "Gaga'emauga",
         "twq_NE": "Gaga'emauga",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Gaga'emauga",
         "zh_Hant_TW": "Gaga'emauga",
         "zu": "Gaga'emauga",
-        "zu_ZA": "Gaga'emauga",
-        "sr@latin": "Gaga'emauga",
-        "tt@iqtelif": "Gaga'emauga"
+        "zu_ZA": "Gaga'emauga"
     },
     "GI": {
         "af": "Gagaifomauga",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Gagaifomauga",
         "sq_XK": "Gagaifomauga",
         "sr": "Гагаифомауга",
+        "sr@latin": "Gagaifomauga",
         "sr_Cyrl": "Гагаифомауга",
         "sr_Cyrl_BA": "Гагаифомауга",
         "sr_Cyrl_ME": "Гагаифомауга",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Gagaifomauga",
         "tr_TR": "Gagaifomauga",
         "tt": "Gagaifomauga",
+        "tt@iqtelif": "Gagaifomauga",
         "tt_RU": "Gagaifomauga",
         "twq": "Gagaifomauga",
         "twq_NE": "Gagaifomauga",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Gagaifomauga",
         "zh_Hant_TW": "Gagaifomauga",
         "zu": "Gagaifomauga",
-        "zu_ZA": "Gagaifomauga",
-        "sr@latin": "Gagaifomauga",
-        "tt@iqtelif": "Gagaifomauga"
+        "zu_ZA": "Gagaifomauga"
     },
     "PA": {
         "af": "Palauli",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Palauli",
         "sq_XK": "Palauli",
         "sr": "Палаули",
+        "sr@latin": "Palauli",
         "sr_Cyrl": "Палаули",
         "sr_Cyrl_BA": "Палаули",
         "sr_Cyrl_ME": "Палаули",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Palauli",
         "tr_TR": "Palauli",
         "tt": "Palauli",
+        "tt@iqtelif": "Palauli",
         "tt_RU": "Palauli",
         "twq": "Palauli",
         "twq_NE": "Palauli",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Palauli",
         "zh_Hant_TW": "Palauli",
         "zu": "Palauli",
-        "zu_ZA": "Palauli",
-        "sr@latin": "Palauli",
-        "tt@iqtelif": "Palauli"
+        "zu_ZA": "Palauli"
     },
     "SA": {
         "af": "Satupa'itea",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Satupa'itea",
         "sq_XK": "Satupa'itea",
         "sr": "Satupa'itea",
+        "sr@latin": "Satupa'itea",
         "sr_Cyrl": "Satupa'itea",
         "sr_Cyrl_BA": "Satupa'itea",
         "sr_Cyrl_ME": "Satupa'itea",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Satupa'itea",
         "tr_TR": "Satupa'itea",
         "tt": "Satupa'itea",
+        "tt@iqtelif": "Satupa'itea",
         "tt_RU": "Satupa'itea",
         "twq": "Satupa'itea",
         "twq_NE": "Satupa'itea",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Satupa'itea",
         "zh_Hant_TW": "Satupa'itea",
         "zu": "Satupa'itea",
-        "zu_ZA": "Satupa'itea",
-        "sr@latin": "Satupa'itea",
-        "tt@iqtelif": "Satupa'itea"
+        "zu_ZA": "Satupa'itea"
     },
     "TU": {
         "af": "Tuamasaga",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Tuamasaga",
         "sq_XK": "Tuamasaga",
         "sr": "Tuamasaga",
+        "sr@latin": "Tuamasaga",
         "sr_Cyrl": "Tuamasaga",
         "sr_Cyrl_BA": "Tuamasaga",
         "sr_Cyrl_ME": "Tuamasaga",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Tuamasaga",
         "tr_TR": "Tuamasaga",
         "tt": "Tuamasaga",
+        "tt@iqtelif": "Tuamasaga",
         "tt_RU": "Tuamasaga",
         "twq": "Tuamasaga",
         "twq_NE": "Tuamasaga",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Tuamasaga",
         "zh_Hant_TW": "Tuamasaga",
         "zu": "Tuamasaga",
-        "zu_ZA": "Tuamasaga",
-        "sr@latin": "Tuamasaga",
-        "tt@iqtelif": "Tuamasaga"
+        "zu_ZA": "Tuamasaga"
     },
     "VF": {
         "af": "Va'a-o-Fonoti",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Va'a-o-Fonoti",
         "sq_XK": "Va'a-o-Fonoti",
         "sr": "Va'a-o-Fonoti",
+        "sr@latin": "Va'a-o-Fonoti",
         "sr_Cyrl": "Va'a-o-Fonoti",
         "sr_Cyrl_BA": "Va'a-o-Fonoti",
         "sr_Cyrl_ME": "Va'a-o-Fonoti",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Va'a-o-Fonoti",
         "tr_TR": "Va'a-o-Fonoti",
         "tt": "Va'a-o-Fonoti",
+        "tt@iqtelif": "Va'a-o-Fonoti",
         "tt_RU": "Va'a-o-Fonoti",
         "twq": "Va'a-o-Fonoti",
         "twq_NE": "Va'a-o-Fonoti",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Va'a-o-Fonoti",
         "zh_Hant_TW": "Va'a-o-Fonoti",
         "zu": "Va'a-o-Fonoti",
-        "zu_ZA": "Va'a-o-Fonoti",
-        "sr@latin": "Va'a-o-Fonoti",
-        "tt@iqtelif": "Va'a-o-Fonoti"
+        "zu_ZA": "Va'a-o-Fonoti"
     },
     "VS": {
         "af": "Vaisigano",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Vaisigano",
         "sq_XK": "Vaisigano",
         "sr": "Везигано",
+        "sr@latin": "Vezigano",
         "sr_Cyrl": "Везигано",
         "sr_Cyrl_BA": "Везигано",
         "sr_Cyrl_ME": "Везигано",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Vaisigano",
         "tr_TR": "Vaisigano",
         "tt": "Vaisigano",
+        "tt@iqtelif": "Vaisigano",
         "tt_RU": "Vaisigano",
         "twq": "Vaisigano",
         "twq_NE": "Vaisigano",
@@ -9730,8 +9732,6 @@
         "zh_Hant_MY": "Vaisigano",
         "zh_Hant_TW": "Vaisigano",
         "zu": "Vaisigano",
-        "zu_ZA": "Vaisigano",
-        "sr@latin": "Vezigano",
-        "tt@iqtelif": "Vaisigano"
+        "zu_ZA": "Vaisigano"
     }
 }

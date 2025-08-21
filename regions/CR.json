@@ -743,6 +743,7 @@
         "sq_MK": "Alajuela",
         "sq_XK": "Alajuela",
         "sr": "Алахуела",
+        "sr@latin": "Alahuela",
         "sr_Cyrl": "Алахуела",
         "sr_Cyrl_BA": "Алахуела",
         "sr_Cyrl_ME": "Алахуела",
@@ -803,6 +804,7 @@
         "tr_CY": "Alajuela",
         "tr_TR": "Alajuela",
         "tt": "Alajuela",
+        "tt@iqtelif": "Alajuela",
         "tt_RU": "Alajuela",
         "twq": "Alajuela",
         "twq_NE": "Alajuela",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Alajuela",
         "zh_Hant_TW": "Alajuela",
         "zu": "Alajuela",
-        "zu_ZA": "Alajuela",
-        "sr@latin": "Alahuela",
-        "tt@iqtelif": "Alajuela"
+        "zu_ZA": "Alajuela"
     },
     "C": {
         "af": "Cartago",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Cartago",
         "sq_XK": "Cartago",
         "sr": "Картаго",
+        "sr@latin": "Kartago",
         "sr_Cyrl": "Картаго",
         "sr_Cyrl_BA": "Картаго",
         "sr_Cyrl_ME": "Картаго",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Cartago",
         "tr_TR": "Cartago",
         "tt": "Cartago",
+        "tt@iqtelif": "Cartago",
         "tt_RU": "Cartago",
         "twq": "Cartago",
         "twq_NE": "Cartago",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Cartago",
         "zh_Hant_TW": "Cartago",
         "zu": "Cartago",
-        "zu_ZA": "Cartago",
-        "sr@latin": "Kartago",
-        "tt@iqtelif": "Cartago"
+        "zu_ZA": "Cartago"
     },
     "G": {
         "af": "Guanacaste",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Guanacaste",
         "sq_XK": "Guanacaste",
         "sr": "Гванакасте",
+        "sr@latin": "Gvanakaste",
         "sr_Cyrl": "Гванакасте",
         "sr_Cyrl_BA": "Гванакасте",
         "sr_Cyrl_ME": "Гванакасте",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Guanacaste",
         "tr_TR": "Guanacaste",
         "tt": "Guanacaste",
+        "tt@iqtelif": "Guanacaste",
         "tt_RU": "Guanacaste",
         "twq": "Guanacaste",
         "twq_NE": "Guanacaste",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Guanacaste",
         "zh_Hant_TW": "Guanacaste",
         "zu": "Guanacaste",
-        "zu_ZA": "Guanacaste",
-        "sr@latin": "Gvanakaste",
-        "tt@iqtelif": "Guanacaste"
+        "zu_ZA": "Guanacaste"
     },
     "H": {
         "af": "Heredia",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Heredia",
         "sq_XK": "Heredia",
         "sr": "Хередија",
+        "sr@latin": "Heredija",
         "sr_Cyrl": "Хередија",
         "sr_Cyrl_BA": "Хередија",
         "sr_Cyrl_ME": "Хередија",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Heredia",
         "tr_TR": "Heredia",
         "tt": "Heredia",
+        "tt@iqtelif": "Heredia",
         "tt_RU": "Heredia",
         "twq": "Heredia",
         "twq_NE": "Heredia",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Heredia",
         "zh_Hant_TW": "Heredia",
         "zu": "Heredia",
-        "zu_ZA": "Heredia",
-        "sr@latin": "Heredija",
-        "tt@iqtelif": "Heredia"
+        "zu_ZA": "Heredia"
     },
     "L": {
         "af": "Limón",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Limón",
         "sq_XK": "Limón",
         "sr": "Лимон",
+        "sr@latin": "Limon",
         "sr_Cyrl": "Лимон",
         "sr_Cyrl_BA": "Лимон",
         "sr_Cyrl_ME": "Лимон",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Limón",
         "tr_TR": "Limón",
         "tt": "Limón",
+        "tt@iqtelif": "Limón",
         "tt_RU": "Limón",
         "twq": "Limón",
         "twq_NE": "Limón",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Limón",
         "zh_Hant_TW": "Limón",
         "zu": "Limón",
-        "zu_ZA": "Limón",
-        "sr@latin": "Limon",
-        "tt@iqtelif": "Limón"
+        "zu_ZA": "Limón"
     },
     "P": {
         "af": "Puntarenas",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Puntarenas",
         "sq_XK": "Puntarenas",
         "sr": "Пунтаренас",
+        "sr@latin": "Puntarenas",
         "sr_Cyrl": "Пунтаренас",
         "sr_Cyrl_BA": "Пунтаренас",
         "sr_Cyrl_ME": "Пунтаренас",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Puntarenas",
         "tr_TR": "Puntarenas",
         "tt": "Puntarenas",
+        "tt@iqtelif": "Puntarenas",
         "tt_RU": "Puntarenas",
         "twq": "Puntarenas",
         "twq_NE": "Puntarenas",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Puntarenas",
         "zh_Hant_TW": "Puntarenas",
         "zu": "Puntarenas",
-        "zu_ZA": "Puntarenas",
-        "sr@latin": "Puntarenas",
-        "tt@iqtelif": "Puntarenas"
+        "zu_ZA": "Puntarenas"
     },
     "SJ": {
         "af": "San José",
@@ -6053,6 +6053,7 @@
         "sq_MK": "San José",
         "sq_XK": "San José",
         "sr": "Сан Хосе",
+        "sr@latin": "San Hose",
         "sr_Cyrl": "Сан Хосе",
         "sr_Cyrl_BA": "Сан Хосе",
         "sr_Cyrl_ME": "Сан Хосе",
@@ -6113,6 +6114,7 @@
         "tr_CY": "San José",
         "tr_TR": "San José",
         "tt": "San José",
+        "tt@iqtelif": "San José",
         "tt_RU": "San José",
         "twq": "San José",
         "twq_NE": "San José",
@@ -6190,8 +6192,6 @@
         "zh_Hant_MY": "San José",
         "zh_Hant_TW": "San José",
         "zu": "San José",
-        "zu_ZA": "San José",
-        "sr@latin": "San Hose",
-        "tt@iqtelif": "San José"
+        "zu_ZA": "San José"
     }
 }

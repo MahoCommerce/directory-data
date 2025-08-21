@@ -743,6 +743,7 @@
         "sq_MK": "El Beni",
         "sq_XK": "El Beni",
         "sr": "Ел Бени",
+        "sr@latin": "El Beni",
         "sr_Cyrl": "Ел Бени",
         "sr_Cyrl_BA": "Ел Бени",
         "sr_Cyrl_ME": "Ел Бени",
@@ -803,6 +804,7 @@
         "tr_CY": "El Beni",
         "tr_TR": "El Beni",
         "tt": "El Beni",
+        "tt@iqtelif": "El Beni",
         "tt_RU": "El Beni",
         "twq": "El Beni",
         "twq_NE": "El Beni",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "El Beni",
         "zh_Hant_TW": "El Beni",
         "zu": "El Beni",
-        "zu_ZA": "El Beni",
-        "sr@latin": "El Beni",
-        "tt@iqtelif": "El Beni"
+        "zu_ZA": "El Beni"
     },
     "C": {
         "af": "Cochabamba",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Cochabamba",
         "sq_XK": "Cochabamba",
         "sr": "Кочабамба",
+        "sr@latin": "Kočabamba",
         "sr_Cyrl": "Кочабамба",
         "sr_Cyrl_BA": "Кочабамба",
         "sr_Cyrl_ME": "Кочабамба",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Cochabamba",
         "tr_TR": "Cochabamba",
         "tt": "Cochabamba",
+        "tt@iqtelif": "Cochabamba",
         "tt_RU": "Cochabamba",
         "twq": "Cochabamba",
         "twq_NE": "Cochabamba",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Cochabamba",
         "zh_Hant_TW": "Cochabamba",
         "zu": "Cochabamba",
-        "zu_ZA": "Cochabamba",
-        "sr@latin": "Kočabamba",
-        "tt@iqtelif": "Cochabamba"
+        "zu_ZA": "Cochabamba"
     },
     "H": {
         "af": "Chuquisaca",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Chuquisaca",
         "sq_XK": "Chuquisaca",
         "sr": "Чукуисака",
+        "sr@latin": "Čukuisaka",
         "sr_Cyrl": "Чукуисака",
         "sr_Cyrl_BA": "Чукуисака",
         "sr_Cyrl_ME": "Чукуисака",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Chuquisaca",
         "tr_TR": "Chuquisaca",
         "tt": "Chuquisaca",
+        "tt@iqtelif": "Chuquisaca",
         "tt_RU": "Chuquisaca",
         "twq": "Chuquisaca",
         "twq_NE": "Chuquisaca",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Chuquisaca",
         "zh_Hant_TW": "Chuquisaca",
         "zu": "Chuquisaca",
-        "zu_ZA": "Chuquisaca",
-        "sr@latin": "Čukuisaka",
-        "tt@iqtelif": "Chuquisaca"
+        "zu_ZA": "Chuquisaca"
     },
     "L": {
         "af": "La Paz",
@@ -3398,6 +3398,7 @@
         "sq_MK": "La Paz",
         "sq_XK": "La Paz",
         "sr": "Ла Паз",
+        "sr@latin": "La Paz",
         "sr_Cyrl": "Ла Паз",
         "sr_Cyrl_BA": "Ла Паз",
         "sr_Cyrl_ME": "Ла Паз",
@@ -3458,6 +3459,7 @@
         "tr_CY": "La Paz",
         "tr_TR": "La Paz",
         "tt": "La Paz",
+        "tt@iqtelif": "La Paz",
         "tt_RU": "La Paz",
         "twq": "La Paz",
         "twq_NE": "La Paz",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "La Paz",
         "zh_Hant_TW": "La Paz",
         "zu": "La Paz",
-        "zu_ZA": "La Paz",
-        "sr@latin": "La Paz",
-        "tt@iqtelif": "La Paz"
+        "zu_ZA": "La Paz"
     },
     "N": {
         "af": "Pando",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Pando",
         "sq_XK": "Pando",
         "sr": "Пандо",
+        "sr@latin": "Pando",
         "sr_Cyrl": "Пандо",
         "sr_Cyrl_BA": "Пандо",
         "sr_Cyrl_ME": "Пандо",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Pando",
         "tr_TR": "Pando",
         "tt": "Pando",
+        "tt@iqtelif": "Pando",
         "tt_RU": "Pando",
         "twq": "Pando",
         "twq_NE": "Pando",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Pando",
         "zh_Hant_TW": "Pando",
         "zu": "Pando",
-        "zu_ZA": "Pando",
-        "sr@latin": "Pando",
-        "tt@iqtelif": "Pando"
+        "zu_ZA": "Pando"
     },
     "O": {
         "af": "Oruro",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Oruro",
         "sq_XK": "Oruro",
         "sr": "Оруро",
+        "sr@latin": "Oruro",
         "sr_Cyrl": "Оруро",
         "sr_Cyrl_BA": "Оруро",
         "sr_Cyrl_ME": "Оруро",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Oruro",
         "tr_TR": "Oruro",
         "tt": "Oruro",
+        "tt@iqtelif": "Oruro",
         "tt_RU": "Oruro",
         "twq": "Oruro",
         "twq_NE": "Oruro",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Oruro",
         "zh_Hant_TW": "Oruro",
         "zu": "Oruro",
-        "zu_ZA": "Oruro",
-        "sr@latin": "Oruro",
-        "tt@iqtelif": "Oruro"
+        "zu_ZA": "Oruro"
     },
     "P": {
         "af": "Potosí",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Potosí",
         "sq_XK": "Potosí",
         "sr": "Потоси",
+        "sr@latin": "Potosi",
         "sr_Cyrl": "Потоси",
         "sr_Cyrl_BA": "Потоси",
         "sr_Cyrl_ME": "Потоси",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Potosí",
         "tr_TR": "Potosí",
         "tt": "Potosí",
+        "tt@iqtelif": "Potosí",
         "tt_RU": "Potosí",
         "twq": "Potosí",
         "twq_NE": "Potosí",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Potosí",
         "zh_Hant_TW": "Potosí",
         "zu": "Potosí",
-        "zu_ZA": "Potosí",
-        "sr@latin": "Potosi",
-        "tt@iqtelif": "Potosí"
+        "zu_ZA": "Potosí"
     },
     "S": {
         "af": "Santa Cruz",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Santa Cruz",
         "sq_XK": "Santa Cruz",
         "sr": "Санта Круз",
+        "sr@latin": "Santa Kruz",
         "sr_Cyrl": "Санта Круз",
         "sr_Cyrl_BA": "Санта Круз",
         "sr_Cyrl_ME": "Санта Круз",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Santa Cruz",
         "tr_TR": "Santa Cruz",
         "tt": "Santa Cruz",
+        "tt@iqtelif": "Santa Cruz",
         "tt_RU": "Santa Cruz",
         "twq": "Santa Cruz",
         "twq_NE": "Santa Cruz",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Santa Cruz",
         "zh_Hant_TW": "Santa Cruz",
         "zu": "Santa Cruz",
-        "zu_ZA": "Santa Cruz",
-        "sr@latin": "Santa Kruz",
-        "tt@iqtelif": "Santa Cruz"
+        "zu_ZA": "Santa Cruz"
     },
     "T": {
         "af": "Tarija",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Tarija",
         "sq_XK": "Tarija",
         "sr": "Тариха",
+        "sr@latin": "Tariha",
         "sr_Cyrl": "Тариха",
         "sr_Cyrl_BA": "Тариха",
         "sr_Cyrl_ME": "Тариха",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Tarija",
         "tr_TR": "Tarija",
         "tt": "Tarija",
+        "tt@iqtelif": "Tarija",
         "tt_RU": "Tarija",
         "twq": "Tarija",
         "twq_NE": "Tarija",
@@ -7960,8 +7962,6 @@
         "zh_Hant_MY": "Tarija",
         "zh_Hant_TW": "Tarija",
         "zu": "Tarija",
-        "zu_ZA": "Tarija",
-        "sr@latin": "Tariha",
-        "tt@iqtelif": "Tarija"
+        "zu_ZA": "Tarija"
     }
 }

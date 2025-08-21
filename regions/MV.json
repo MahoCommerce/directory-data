@@ -743,6 +743,7 @@
         "sq_MK": "South Ari Atoll",
         "sq_XK": "South Ari Atoll",
         "sr": "South Ari Atoll",
+        "sr@latin": "South Ari Atoll",
         "sr_Cyrl": "South Ari Atoll",
         "sr_Cyrl_BA": "South Ari Atoll",
         "sr_Cyrl_ME": "South Ari Atoll",
@@ -803,6 +804,7 @@
         "tr_CY": "South Ari Atoll",
         "tr_TR": "South Ari Atoll",
         "tt": "South Ari Atoll",
+        "tt@iqtelif": "South Ari Atoll",
         "tt_RU": "South Ari Atoll",
         "twq": "South Ari Atoll",
         "twq_NE": "South Ari Atoll",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "South Ari Atoll",
         "zh_Hant_TW": "South Ari Atoll",
         "zu": "South Ari Atoll",
-        "zu_ZA": "South Ari Atoll",
-        "sr@latin": "South Ari Atoll",
-        "tt@iqtelif": "South Ari Atoll"
+        "zu_ZA": "South Ari Atoll"
     },
     "01": {
         "af": "Addu City",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Addu City",
         "sq_XK": "Addu City",
         "sr": "Addu City",
+        "sr@latin": "Addu City",
         "sr_Cyrl": "Addu City",
         "sr_Cyrl_BA": "Addu City",
         "sr_Cyrl_ME": "Addu City",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Addu City",
         "tr_TR": "Addu City",
         "tt": "Addu City",
+        "tt@iqtelif": "Addu City",
         "tt_RU": "Addu City",
         "twq": "Addu City",
         "twq_NE": "Addu City",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Addu City",
         "zh_Hant_TW": "Addu City",
         "zu": "Addu City",
-        "zu_ZA": "Addu City",
-        "sr@latin": "Addu City",
-        "tt@iqtelif": "Addu City"
+        "zu_ZA": "Addu City"
     },
     "02": {
         "af": "North Ari Atoll",
@@ -2513,6 +2513,7 @@
         "sq_MK": "North Ari Atoll",
         "sq_XK": "North Ari Atoll",
         "sr": "North Ari Atoll",
+        "sr@latin": "North Ari Atoll",
         "sr_Cyrl": "North Ari Atoll",
         "sr_Cyrl_BA": "North Ari Atoll",
         "sr_Cyrl_ME": "North Ari Atoll",
@@ -2573,6 +2574,7 @@
         "tr_CY": "North Ari Atoll",
         "tr_TR": "North Ari Atoll",
         "tt": "North Ari Atoll",
+        "tt@iqtelif": "North Ari Atoll",
         "tt_RU": "North Ari Atoll",
         "twq": "North Ari Atoll",
         "twq_NE": "North Ari Atoll",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "North Ari Atoll",
         "zh_Hant_TW": "North Ari Atoll",
         "zu": "North Ari Atoll",
-        "zu_ZA": "North Ari Atoll",
-        "sr@latin": "North Ari Atoll",
-        "tt@iqtelif": "North Ari Atoll"
+        "zu_ZA": "North Ari Atoll"
     },
     "03": {
         "af": "Faadhippolhu",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Faadhippolhu",
         "sq_XK": "Faadhippolhu",
         "sr": "Faadhippolhu",
+        "sr@latin": "Faadhippolhu",
         "sr_Cyrl": "Faadhippolhu",
         "sr_Cyrl_BA": "Faadhippolhu",
         "sr_Cyrl_ME": "Faadhippolhu",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Faadhippolhu",
         "tr_TR": "Faadhippolhu",
         "tt": "Faadhippolhu",
+        "tt@iqtelif": "Faadhippolhu",
         "tt_RU": "Faadhippolhu",
         "twq": "Faadhippolhu",
         "twq_NE": "Faadhippolhu",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Faadhippolhu",
         "zh_Hant_TW": "Faadhippolhu",
         "zu": "Faadhippolhu",
-        "zu_ZA": "Faadhippolhu",
-        "sr@latin": "Faadhippolhu",
-        "tt@iqtelif": "Faadhippolhu"
+        "zu_ZA": "Faadhippolhu"
     },
     "04": {
         "af": "Felidhu Atoll",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Felidhu Atoll",
         "sq_XK": "Felidhu Atoll",
         "sr": "Felidhu Atoll",
+        "sr@latin": "Felidhu Atoll",
         "sr_Cyrl": "Felidhu Atoll",
         "sr_Cyrl_BA": "Felidhu Atoll",
         "sr_Cyrl_ME": "Felidhu Atoll",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Felidhu Atoll",
         "tr_TR": "Felidhu Atoll",
         "tt": "Felidhu Atoll",
+        "tt@iqtelif": "Felidhu Atoll",
         "tt_RU": "Felidhu Atoll",
         "twq": "Felidhu Atoll",
         "twq_NE": "Felidhu Atoll",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Felidhu Atoll",
         "zh_Hant_TW": "Felidhu Atoll",
         "zu": "Felidhu Atoll",
-        "zu_ZA": "Felidhu Atoll",
-        "sr@latin": "Felidhu Atoll",
-        "tt@iqtelif": "Felidhu Atoll"
+        "zu_ZA": "Felidhu Atoll"
     },
     "05": {
         "af": "Hahdhunmathi",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Hahdhunmathi",
         "sq_XK": "Hahdhunmathi",
         "sr": "Hahdhunmathi",
+        "sr@latin": "Hahdhunmathi",
         "sr_Cyrl": "Hahdhunmathi",
         "sr_Cyrl_BA": "Hahdhunmathi",
         "sr_Cyrl_ME": "Hahdhunmathi",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Hahdhunmathi",
         "tr_TR": "Hahdhunmathi",
         "tt": "Hahdhunmathi",
+        "tt@iqtelif": "Hahdhunmathi",
         "tt_RU": "Hahdhunmathi",
         "twq": "Hahdhunmathi",
         "twq_NE": "Hahdhunmathi",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Hahdhunmathi",
         "zh_Hant_TW": "Hahdhunmathi",
         "zu": "Hahdhunmathi",
-        "zu_ZA": "Hahdhunmathi",
-        "sr@latin": "Hahdhunmathi",
-        "tt@iqtelif": "Hahdhunmathi"
+        "zu_ZA": "Hahdhunmathi"
     },
     "07": {
         "af": "North Thiladhunmathi",
@@ -6053,6 +6053,7 @@
         "sq_MK": "North Thiladhunmathi",
         "sq_XK": "North Thiladhunmathi",
         "sr": "North Thiladhunmathi",
+        "sr@latin": "North Thiladhunmathi",
         "sr_Cyrl": "North Thiladhunmathi",
         "sr_Cyrl_BA": "North Thiladhunmathi",
         "sr_Cyrl_ME": "North Thiladhunmathi",
@@ -6113,6 +6114,7 @@
         "tr_CY": "North Thiladhunmathi",
         "tr_TR": "North Thiladhunmathi",
         "tt": "North Thiladhunmathi",
+        "tt@iqtelif": "North Thiladhunmathi",
         "tt_RU": "North Thiladhunmathi",
         "twq": "North Thiladhunmathi",
         "twq_NE": "North Thiladhunmathi",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "North Thiladhunmathi",
         "zh_Hant_TW": "North Thiladhunmathi",
         "zu": "North Thiladhunmathi",
-        "zu_ZA": "North Thiladhunmathi",
-        "sr@latin": "North Thiladhunmathi",
-        "tt@iqtelif": "North Thiladhunmathi"
+        "zu_ZA": "North Thiladhunmathi"
     },
     "08": {
         "af": "Kolhumadulu",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Kolhumadulu",
         "sq_XK": "Kolhumadulu",
         "sr": "Kolhumadulu",
+        "sr@latin": "Kolhumadulu",
         "sr_Cyrl": "Kolhumadulu",
         "sr_Cyrl_BA": "Kolhumadulu",
         "sr_Cyrl_ME": "Kolhumadulu",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Kolhumadulu",
         "tr_TR": "Kolhumadulu",
         "tt": "Kolhumadulu",
+        "tt@iqtelif": "Kolhumadulu",
         "tt_RU": "Kolhumadulu",
         "twq": "Kolhumadulu",
         "twq_NE": "Kolhumadulu",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Kolhumadulu",
         "zh_Hant_TW": "Kolhumadulu",
         "zu": "Kolhumadulu",
-        "zu_ZA": "Kolhumadulu",
-        "sr@latin": "Kolhumadulu",
-        "tt@iqtelif": "Kolhumadulu"
+        "zu_ZA": "Kolhumadulu"
     },
     "12": {
         "af": "Mulaku Atoll",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Mulaku Atoll",
         "sq_XK": "Mulaku Atoll",
         "sr": "Mulaku Atoll",
+        "sr@latin": "Mulaku Atoll",
         "sr_Cyrl": "Mulaku Atoll",
         "sr_Cyrl_BA": "Mulaku Atoll",
         "sr_Cyrl_ME": "Mulaku Atoll",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Mulaku Atoll",
         "tr_TR": "Mulaku Atoll",
         "tt": "Mulaku Atoll",
+        "tt@iqtelif": "Mulaku Atoll",
         "tt_RU": "Mulaku Atoll",
         "twq": "Mulaku Atoll",
         "twq_NE": "Mulaku Atoll",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Mulaku Atoll",
         "zh_Hant_TW": "Mulaku Atoll",
         "zu": "Mulaku Atoll",
-        "zu_ZA": "Mulaku Atoll",
-        "sr@latin": "Mulaku Atoll",
-        "tt@iqtelif": "Mulaku Atoll"
+        "zu_ZA": "Mulaku Atoll"
     },
     "13": {
         "af": "North Maalhosmadulu",
@@ -8708,6 +8708,7 @@
         "sq_MK": "North Maalhosmadulu",
         "sq_XK": "North Maalhosmadulu",
         "sr": "North Maalhosmadulu",
+        "sr@latin": "North Maalhosmadulu",
         "sr_Cyrl": "North Maalhosmadulu",
         "sr_Cyrl_BA": "North Maalhosmadulu",
         "sr_Cyrl_ME": "North Maalhosmadulu",
@@ -8768,6 +8769,7 @@
         "tr_CY": "North Maalhosmadulu",
         "tr_TR": "North Maalhosmadulu",
         "tt": "North Maalhosmadulu",
+        "tt@iqtelif": "North Maalhosmadulu",
         "tt_RU": "North Maalhosmadulu",
         "twq": "North Maalhosmadulu",
         "twq_NE": "North Maalhosmadulu",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "North Maalhosmadulu",
         "zh_Hant_TW": "North Maalhosmadulu",
         "zu": "North Maalhosmadulu",
-        "zu_ZA": "North Maalhosmadulu",
-        "sr@latin": "North Maalhosmadulu",
-        "tt@iqtelif": "North Maalhosmadulu"
+        "zu_ZA": "North Maalhosmadulu"
     },
     "14": {
         "af": "North Nilandhe Atoll",
@@ -9593,6 +9593,7 @@
         "sq_MK": "North Nilandhe Atoll",
         "sq_XK": "North Nilandhe Atoll",
         "sr": "North Nilandhe Atoll",
+        "sr@latin": "North Nilandhe Atoll",
         "sr_Cyrl": "North Nilandhe Atoll",
         "sr_Cyrl_BA": "North Nilandhe Atoll",
         "sr_Cyrl_ME": "North Nilandhe Atoll",
@@ -9653,6 +9654,7 @@
         "tr_CY": "North Nilandhe Atoll",
         "tr_TR": "North Nilandhe Atoll",
         "tt": "North Nilandhe Atoll",
+        "tt@iqtelif": "North Nilandhe Atoll",
         "tt_RU": "North Nilandhe Atoll",
         "twq": "North Nilandhe Atoll",
         "twq_NE": "North Nilandhe Atoll",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "North Nilandhe Atoll",
         "zh_Hant_TW": "North Nilandhe Atoll",
         "zu": "North Nilandhe Atoll",
-        "zu_ZA": "North Nilandhe Atoll",
-        "sr@latin": "North Nilandhe Atoll",
-        "tt@iqtelif": "North Nilandhe Atoll"
+        "zu_ZA": "North Nilandhe Atoll"
     },
     "17": {
         "af": "South Nilandhe Atoll",
@@ -10478,6 +10478,7 @@
         "sq_MK": "South Nilandhe Atoll",
         "sq_XK": "South Nilandhe Atoll",
         "sr": "South Nilandhe Atoll",
+        "sr@latin": "South Nilandhe Atoll",
         "sr_Cyrl": "South Nilandhe Atoll",
         "sr_Cyrl_BA": "South Nilandhe Atoll",
         "sr_Cyrl_ME": "South Nilandhe Atoll",
@@ -10538,6 +10539,7 @@
         "tr_CY": "South Nilandhe Atoll",
         "tr_TR": "South Nilandhe Atoll",
         "tt": "South Nilandhe Atoll",
+        "tt@iqtelif": "South Nilandhe Atoll",
         "tt_RU": "South Nilandhe Atoll",
         "twq": "South Nilandhe Atoll",
         "twq_NE": "South Nilandhe Atoll",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "South Nilandhe Atoll",
         "zh_Hant_TW": "South Nilandhe Atoll",
         "zu": "South Nilandhe Atoll",
-        "zu_ZA": "South Nilandhe Atoll",
-        "sr@latin": "South Nilandhe Atoll",
-        "tt@iqtelif": "South Nilandhe Atoll"
+        "zu_ZA": "South Nilandhe Atoll"
     },
     "20": {
         "af": "South Maalhosmadulu",
@@ -11363,6 +11363,7 @@
         "sq_MK": "South Maalhosmadulu",
         "sq_XK": "South Maalhosmadulu",
         "sr": "South Maalhosmadulu",
+        "sr@latin": "South Maalhosmadulu",
         "sr_Cyrl": "South Maalhosmadulu",
         "sr_Cyrl_BA": "South Maalhosmadulu",
         "sr_Cyrl_ME": "South Maalhosmadulu",
@@ -11423,6 +11424,7 @@
         "tr_CY": "South Maalhosmadulu",
         "tr_TR": "South Maalhosmadulu",
         "tt": "South Maalhosmadulu",
+        "tt@iqtelif": "South Maalhosmadulu",
         "tt_RU": "South Maalhosmadulu",
         "twq": "South Maalhosmadulu",
         "twq_NE": "South Maalhosmadulu",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "South Maalhosmadulu",
         "zh_Hant_TW": "South Maalhosmadulu",
         "zu": "South Maalhosmadulu",
-        "zu_ZA": "South Maalhosmadulu",
-        "sr@latin": "South Maalhosmadulu",
-        "tt@iqtelif": "South Maalhosmadulu"
+        "zu_ZA": "South Maalhosmadulu"
     },
     "23": {
         "af": "South Thiladhunmathi",
@@ -12248,6 +12248,7 @@
         "sq_MK": "South Thiladhunmathi",
         "sq_XK": "South Thiladhunmathi",
         "sr": "South Thiladhunmathi",
+        "sr@latin": "South Thiladhunmathi",
         "sr_Cyrl": "South Thiladhunmathi",
         "sr_Cyrl_BA": "South Thiladhunmathi",
         "sr_Cyrl_ME": "South Thiladhunmathi",
@@ -12308,6 +12309,7 @@
         "tr_CY": "South Thiladhunmathi",
         "tr_TR": "South Thiladhunmathi",
         "tt": "South Thiladhunmathi",
+        "tt@iqtelif": "South Thiladhunmathi",
         "tt_RU": "South Thiladhunmathi",
         "twq": "South Thiladhunmathi",
         "twq_NE": "South Thiladhunmathi",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "South Thiladhunmathi",
         "zh_Hant_TW": "South Thiladhunmathi",
         "zu": "South Thiladhunmathi",
-        "zu_ZA": "South Thiladhunmathi",
-        "sr@latin": "South Thiladhunmathi",
-        "tt@iqtelif": "South Thiladhunmathi"
+        "zu_ZA": "South Thiladhunmathi"
     },
     "24": {
         "af": "North Miladhunmadulu",
@@ -13133,6 +13133,7 @@
         "sq_MK": "North Miladhunmadulu",
         "sq_XK": "North Miladhunmadulu",
         "sr": "North Miladhunmadulu",
+        "sr@latin": "North Miladhunmadulu",
         "sr_Cyrl": "North Miladhunmadulu",
         "sr_Cyrl_BA": "North Miladhunmadulu",
         "sr_Cyrl_ME": "North Miladhunmadulu",
@@ -13193,6 +13194,7 @@
         "tr_CY": "North Miladhunmadulu",
         "tr_TR": "North Miladhunmadulu",
         "tt": "North Miladhunmadulu",
+        "tt@iqtelif": "North Miladhunmadulu",
         "tt_RU": "North Miladhunmadulu",
         "twq": "North Miladhunmadulu",
         "twq_NE": "North Miladhunmadulu",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "North Miladhunmadulu",
         "zh_Hant_TW": "North Miladhunmadulu",
         "zu": "North Miladhunmadulu",
-        "zu_ZA": "North Miladhunmadulu",
-        "sr@latin": "North Miladhunmadulu",
-        "tt@iqtelif": "North Miladhunmadulu"
+        "zu_ZA": "North Miladhunmadulu"
     },
     "25": {
         "af": "South Miladhunmadulu",
@@ -14018,6 +14018,7 @@
         "sq_MK": "South Miladhunmadulu",
         "sq_XK": "South Miladhunmadulu",
         "sr": "South Miladhunmadulu",
+        "sr@latin": "South Miladhunmadulu",
         "sr_Cyrl": "South Miladhunmadulu",
         "sr_Cyrl_BA": "South Miladhunmadulu",
         "sr_Cyrl_ME": "South Miladhunmadulu",
@@ -14078,6 +14079,7 @@
         "tr_CY": "South Miladhunmadulu",
         "tr_TR": "South Miladhunmadulu",
         "tt": "South Miladhunmadulu",
+        "tt@iqtelif": "South Miladhunmadulu",
         "tt_RU": "South Miladhunmadulu",
         "twq": "South Miladhunmadulu",
         "twq_NE": "South Miladhunmadulu",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "South Miladhunmadulu",
         "zh_Hant_TW": "South Miladhunmadulu",
         "zu": "South Miladhunmadulu",
-        "zu_ZA": "South Miladhunmadulu",
-        "sr@latin": "South Miladhunmadulu",
-        "tt@iqtelif": "South Miladhunmadulu"
+        "zu_ZA": "South Miladhunmadulu"
     },
     "26": {
         "af": "Male Atoll",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Male Atoll",
         "sq_XK": "Male Atoll",
         "sr": "Male Atoll",
+        "sr@latin": "Male Atoll",
         "sr_Cyrl": "Male Atoll",
         "sr_Cyrl_BA": "Male Atoll",
         "sr_Cyrl_ME": "Male Atoll",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Male Atoll",
         "tr_TR": "Male Atoll",
         "tt": "Male Atoll",
+        "tt@iqtelif": "Male Atoll",
         "tt_RU": "Male Atoll",
         "twq": "Male Atoll",
         "twq_NE": "Male Atoll",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Male Atoll",
         "zh_Hant_TW": "Male Atoll",
         "zu": "Male Atoll",
-        "zu_ZA": "Male Atoll",
-        "sr@latin": "Male Atoll",
-        "tt@iqtelif": "Male Atoll"
+        "zu_ZA": "Male Atoll"
     },
     "27": {
         "af": "North Huvadhu Atoll",
@@ -15788,6 +15788,7 @@
         "sq_MK": "North Huvadhu Atoll",
         "sq_XK": "North Huvadhu Atoll",
         "sr": "North Huvadhu Atoll",
+        "sr@latin": "North Huvadhu Atoll",
         "sr_Cyrl": "North Huvadhu Atoll",
         "sr_Cyrl_BA": "North Huvadhu Atoll",
         "sr_Cyrl_ME": "North Huvadhu Atoll",
@@ -15848,6 +15849,7 @@
         "tr_CY": "North Huvadhu Atoll",
         "tr_TR": "North Huvadhu Atoll",
         "tt": "North Huvadhu Atoll",
+        "tt@iqtelif": "North Huvadhu Atoll",
         "tt_RU": "North Huvadhu Atoll",
         "twq": "North Huvadhu Atoll",
         "twq_NE": "North Huvadhu Atoll",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "North Huvadhu Atoll",
         "zh_Hant_TW": "North Huvadhu Atoll",
         "zu": "North Huvadhu Atoll",
-        "zu_ZA": "North Huvadhu Atoll",
-        "sr@latin": "North Huvadhu Atoll",
-        "tt@iqtelif": "North Huvadhu Atoll"
+        "zu_ZA": "North Huvadhu Atoll"
     },
     "28": {
         "af": "South Huvadhu Atoll",
@@ -16673,6 +16673,7 @@
         "sq_MK": "South Huvadhu Atoll",
         "sq_XK": "South Huvadhu Atoll",
         "sr": "South Huvadhu Atoll",
+        "sr@latin": "South Huvadhu Atoll",
         "sr_Cyrl": "South Huvadhu Atoll",
         "sr_Cyrl_BA": "South Huvadhu Atoll",
         "sr_Cyrl_ME": "South Huvadhu Atoll",
@@ -16733,6 +16734,7 @@
         "tr_CY": "South Huvadhu Atoll",
         "tr_TR": "South Huvadhu Atoll",
         "tt": "South Huvadhu Atoll",
+        "tt@iqtelif": "South Huvadhu Atoll",
         "tt_RU": "South Huvadhu Atoll",
         "twq": "South Huvadhu Atoll",
         "twq_NE": "South Huvadhu Atoll",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "South Huvadhu Atoll",
         "zh_Hant_TW": "South Huvadhu Atoll",
         "zu": "South Huvadhu Atoll",
-        "zu_ZA": "South Huvadhu Atoll",
-        "sr@latin": "South Huvadhu Atoll",
-        "tt@iqtelif": "South Huvadhu Atoll"
+        "zu_ZA": "South Huvadhu Atoll"
     },
     "29": {
         "af": "Fuvammulah",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Fuvammulah",
         "sq_XK": "Fuvammulah",
         "sr": "Fuvammulah",
+        "sr@latin": "Fuvammulah",
         "sr_Cyrl": "Fuvammulah",
         "sr_Cyrl_BA": "Fuvammulah",
         "sr_Cyrl_ME": "Fuvammulah",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Fuvammulah",
         "tr_TR": "Fuvammulah",
         "tt": "Fuvammulah",
+        "tt@iqtelif": "Fuvammulah",
         "tt_RU": "Fuvammulah",
         "twq": "Fuvammulah",
         "twq_NE": "Fuvammulah",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Fuvammulah",
         "zh_Hant_TW": "Fuvammulah",
         "zu": "Fuvammulah",
-        "zu_ZA": "Fuvammulah",
-        "sr@latin": "Fuvammulah",
-        "tt@iqtelif": "Fuvammulah"
+        "zu_ZA": "Fuvammulah"
     },
     "MLE": {
         "af": "Male",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Male",
         "sq_XK": "Male",
         "sr": "Мале",
+        "sr@latin": "Male",
         "sr_Cyrl": "Мале",
         "sr_Cyrl_BA": "Мале",
         "sr_Cyrl_ME": "Мале",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Male",
         "tr_TR": "Male",
         "tt": "Male",
+        "tt@iqtelif": "Male",
         "tt_RU": "Male",
         "twq": "Male",
         "twq_NE": "Male",
@@ -18580,8 +18582,6 @@
         "zh_Hant_MY": "Male",
         "zh_Hant_TW": "Male",
         "zu": "Male",
-        "zu_ZA": "Male",
-        "sr@latin": "Male",
-        "tt@iqtelif": "Male"
+        "zu_ZA": "Male"
     }
 }

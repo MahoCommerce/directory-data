@@ -743,6 +743,7 @@
         "sq_MK": "Hodh ech Chargui",
         "sq_XK": "Hodh ech Chargui",
         "sr": "Hodh ech Chargui",
+        "sr@latin": "Hodh ech Chargui",
         "sr_Cyrl": "Hodh ech Chargui",
         "sr_Cyrl_BA": "Hodh ech Chargui",
         "sr_Cyrl_ME": "Hodh ech Chargui",
@@ -803,6 +804,7 @@
         "tr_CY": "Hodh ech Chargui",
         "tr_TR": "Hodh ech Chargui",
         "tt": "Hodh ech Chargui",
+        "tt@iqtelif": "Hodh ech Chargui",
         "tt_RU": "Hodh ech Chargui",
         "twq": "Hodh ech Chargui",
         "twq_NE": "Hodh ech Chargui",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Hodh ech Chargui",
         "zh_Hant_TW": "Hodh ech Chargui",
         "zu": "Hodh ech Chargui",
-        "zu_ZA": "Hodh ech Chargui",
-        "sr@latin": "Hodh ech Chargui",
-        "tt@iqtelif": "Hodh ech Chargui"
+        "zu_ZA": "Hodh ech Chargui"
     },
     "02": {
         "af": "Hodh el Gharbi",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Hodh el Gharbi",
         "sq_XK": "Hodh el Gharbi",
         "sr": "Hodh el Gharbi",
+        "sr@latin": "Hodh el Gharbi",
         "sr_Cyrl": "Hodh el Gharbi",
         "sr_Cyrl_BA": "Hodh el Gharbi",
         "sr_Cyrl_ME": "Hodh el Gharbi",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Hodh el Gharbi",
         "tr_TR": "Hodh el Gharbi",
         "tt": "Hodh el Gharbi",
+        "tt@iqtelif": "Hodh el Gharbi",
         "tt_RU": "Hodh el Gharbi",
         "twq": "Hodh el Gharbi",
         "twq_NE": "Hodh el Gharbi",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Hodh el Gharbi",
         "zh_Hant_TW": "Hodh el Gharbi",
         "zu": "Hodh el Gharbi",
-        "zu_ZA": "Hodh el Gharbi",
-        "sr@latin": "Hodh el Gharbi",
-        "tt@iqtelif": "Hodh el Gharbi"
+        "zu_ZA": "Hodh el Gharbi"
     },
     "03": {
         "af": "Assaba",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Assaba",
         "sq_XK": "Assaba",
         "sr": "Асаба",
+        "sr@latin": "Asaba",
         "sr_Cyrl": "Асаба",
         "sr_Cyrl_BA": "Асаба",
         "sr_Cyrl_ME": "Асаба",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Assaba",
         "tr_TR": "Assaba",
         "tt": "Assaba",
+        "tt@iqtelif": "Assaba",
         "tt_RU": "Assaba",
         "twq": "Assaba",
         "twq_NE": "Assaba",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Assaba",
         "zh_Hant_TW": "Assaba",
         "zu": "Assaba",
-        "zu_ZA": "Assaba",
-        "sr@latin": "Asaba",
-        "tt@iqtelif": "Assaba"
+        "zu_ZA": "Assaba"
     },
     "04": {
         "af": "Gorgol",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Gorgol",
         "sq_XK": "Gorgol",
         "sr": "Горгол",
+        "sr@latin": "Gorgol",
         "sr_Cyrl": "Горгол",
         "sr_Cyrl_BA": "Горгол",
         "sr_Cyrl_ME": "Горгол",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Gorgol",
         "tr_TR": "Gorgol",
         "tt": "Gorgol",
+        "tt@iqtelif": "Gorgol",
         "tt_RU": "Gorgol",
         "twq": "Gorgol",
         "twq_NE": "Gorgol",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Gorgol",
         "zh_Hant_TW": "Gorgol",
         "zu": "Gorgol",
-        "zu_ZA": "Gorgol",
-        "sr@latin": "Gorgol",
-        "tt@iqtelif": "Gorgol"
+        "zu_ZA": "Gorgol"
     },
     "05": {
         "af": "Brakna",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Brakna",
         "sq_XK": "Brakna",
         "sr": "Бракна",
+        "sr@latin": "Brakna",
         "sr_Cyrl": "Бракна",
         "sr_Cyrl_BA": "Бракна",
         "sr_Cyrl_ME": "Бракна",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Brakna",
         "tr_TR": "Brakna",
         "tt": "Brakna",
+        "tt@iqtelif": "Brakna",
         "tt_RU": "Brakna",
         "twq": "Brakna",
         "twq_NE": "Brakna",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Brakna",
         "zh_Hant_TW": "Brakna",
         "zu": "Brakna",
-        "zu_ZA": "Brakna",
-        "sr@latin": "Brakna",
-        "tt@iqtelif": "Brakna"
+        "zu_ZA": "Brakna"
     },
     "06": {
         "af": "Trarza",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Trarza",
         "sq_XK": "Trarza",
         "sr": "Трарца",
+        "sr@latin": "Trarca",
         "sr_Cyrl": "Трарца",
         "sr_Cyrl_BA": "Трарца",
         "sr_Cyrl_ME": "Трарца",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Trarza",
         "tr_TR": "Trarza",
         "tt": "Trarza",
+        "tt@iqtelif": "Trarza",
         "tt_RU": "Trarza",
         "twq": "Trarza",
         "twq_NE": "Trarza",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Trarza",
         "zh_Hant_TW": "Trarza",
         "zu": "Trarza",
-        "zu_ZA": "Trarza",
-        "sr@latin": "Trarca",
-        "tt@iqtelif": "Trarza"
+        "zu_ZA": "Trarza"
     },
     "07": {
         "af": "Adrar",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Adrar",
         "sq_XK": "Adrar",
         "sr": "Адрар",
+        "sr@latin": "Adrar",
         "sr_Cyrl": "Адрар",
         "sr_Cyrl_BA": "Адрар",
         "sr_Cyrl_ME": "Адрар",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Adrar",
         "tr_TR": "Adrar",
         "tt": "Adrar",
+        "tt@iqtelif": "Adrar",
         "tt_RU": "Adrar",
         "twq": "Adrar",
         "twq_NE": "Adrar",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Adrar",
         "zh_Hant_TW": "Adrar",
         "zu": "Adrar",
-        "zu_ZA": "Adrar",
-        "sr@latin": "Adrar",
-        "tt@iqtelif": "Adrar"
+        "zu_ZA": "Adrar"
     },
     "08": {
         "af": "Dakhlet Nouâdhibou",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Dakhlet Nouâdhibou",
         "sq_XK": "Dakhlet Nouâdhibou",
         "sr": "Dakhlet Nouâdhibou",
+        "sr@latin": "Dakhlet Nouâdhibou",
         "sr_Cyrl": "Dakhlet Nouâdhibou",
         "sr_Cyrl_BA": "Dakhlet Nouâdhibou",
         "sr_Cyrl_ME": "Dakhlet Nouâdhibou",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Dakhlet Nouâdhibou",
         "tr_TR": "Dakhlet Nouâdhibou",
         "tt": "Dakhlet Nouâdhibou",
+        "tt@iqtelif": "Dakhlet Nouâdhibou",
         "tt_RU": "Dakhlet Nouâdhibou",
         "twq": "Dakhlet Nouâdhibou",
         "twq_NE": "Dakhlet Nouâdhibou",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Dakhlet Nouâdhibou",
         "zh_Hant_TW": "Dakhlet Nouâdhibou",
         "zu": "Dakhlet Nouâdhibou",
-        "zu_ZA": "Dakhlet Nouâdhibou",
-        "sr@latin": "Dakhlet Nouâdhibou",
-        "tt@iqtelif": "Dakhlet Nouâdhibou"
+        "zu_ZA": "Dakhlet Nouâdhibou"
     },
     "09": {
         "af": "Tagant",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Tagant",
         "sq_XK": "Tagant",
         "sr": "Tagant",
+        "sr@latin": "Tagant",
         "sr_Cyrl": "Tagant",
         "sr_Cyrl_BA": "Tagant",
         "sr_Cyrl_ME": "Tagant",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Tagant",
         "tr_TR": "Tagant",
         "tt": "Tagant",
+        "tt@iqtelif": "Tagant",
         "tt_RU": "Tagant",
         "twq": "Tagant",
         "twq_NE": "Tagant",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Tagant",
         "zh_Hant_TW": "Tagant",
         "zu": "Tagant",
-        "zu_ZA": "Tagant",
-        "sr@latin": "Tagant",
-        "tt@iqtelif": "Tagant"
+        "zu_ZA": "Tagant"
     },
     "10": {
         "af": "Guidimaka",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Guidimaka",
         "sq_XK": "Guidimaka",
         "sr": "Гвидимака",
+        "sr@latin": "Gvidimaka",
         "sr_Cyrl": "Гвидимака",
         "sr_Cyrl_BA": "Гвидимака",
         "sr_Cyrl_ME": "Гвидимака",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Guidimaka",
         "tr_TR": "Guidimaka",
         "tt": "Guidimaka",
+        "tt@iqtelif": "Guidimaka",
         "tt_RU": "Guidimaka",
         "twq": "Guidimaka",
         "twq_NE": "Guidimaka",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Guidimaka",
         "zh_Hant_TW": "Guidimaka",
         "zu": "Guidimaka",
-        "zu_ZA": "Guidimaka",
-        "sr@latin": "Gvidimaka",
-        "tt@iqtelif": "Guidimaka"
+        "zu_ZA": "Guidimaka"
     },
     "11": {
         "af": "Tiris Zemmour",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Tiris Zemmour",
         "sq_XK": "Tiris Zemmour",
         "sr": "Tiris Zemmour",
+        "sr@latin": "Tiris Zemmour",
         "sr_Cyrl": "Tiris Zemmour",
         "sr_Cyrl_BA": "Tiris Zemmour",
         "sr_Cyrl_ME": "Tiris Zemmour",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Tiris Zemmour",
         "tr_TR": "Tiris Zemmour",
         "tt": "Tiris Zemmour",
+        "tt@iqtelif": "Tiris Zemmour",
         "tt_RU": "Tiris Zemmour",
         "twq": "Tiris Zemmour",
         "twq_NE": "Tiris Zemmour",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Tiris Zemmour",
         "zh_Hant_TW": "Tiris Zemmour",
         "zu": "Tiris Zemmour",
-        "zu_ZA": "Tiris Zemmour",
-        "sr@latin": "Tiris Zemmour",
-        "tt@iqtelif": "Tiris Zemmour"
+        "zu_ZA": "Tiris Zemmour"
     },
     "12": {
         "af": "Inchiri",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Inchiri",
         "sq_XK": "Inchiri",
         "sr": "Инчири",
+        "sr@latin": "Inčiri",
         "sr_Cyrl": "Инчири",
         "sr_Cyrl_BA": "Инчири",
         "sr_Cyrl_ME": "Инчири",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Inchiri",
         "tr_TR": "Inchiri",
         "tt": "Inchiri",
+        "tt@iqtelif": "Inchiri",
         "tt_RU": "Inchiri",
         "twq": "Inchiri",
         "twq_NE": "Inchiri",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Inchiri",
         "zh_Hant_TW": "Inchiri",
         "zu": "Inchiri",
-        "zu_ZA": "Inchiri",
-        "sr@latin": "Inčiri",
-        "tt@iqtelif": "Inchiri"
+        "zu_ZA": "Inchiri"
     },
     "13": {
         "af": "Nouakchott Ouest",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Nouakchott Ouest",
         "sq_XK": "Nouakchott Ouest",
         "sr": "Nouakchott Ouest",
+        "sr@latin": "Nouakchott Ouest",
         "sr_Cyrl": "Nouakchott Ouest",
         "sr_Cyrl_BA": "Nouakchott Ouest",
         "sr_Cyrl_ME": "Nouakchott Ouest",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Nouakchott Ouest",
         "tr_TR": "Nouakchott Ouest",
         "tt": "Nouakchott Ouest",
+        "tt@iqtelif": "Nouakchott Ouest",
         "tt_RU": "Nouakchott Ouest",
         "twq": "Nouakchott Ouest",
         "twq_NE": "Nouakchott Ouest",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Nouakchott Ouest",
         "zh_Hant_TW": "Nouakchott Ouest",
         "zu": "Nouakchott Ouest",
-        "zu_ZA": "Nouakchott Ouest",
-        "sr@latin": "Nouakchott Ouest",
-        "tt@iqtelif": "Nouakchott Ouest"
+        "zu_ZA": "Nouakchott Ouest"
     },
     "14": {
         "af": "Nouakchott Nord",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Nouakchott Nord",
         "sq_XK": "Nouakchott Nord",
         "sr": "Nouakchott Nord",
+        "sr@latin": "Nouakchott Nord",
         "sr_Cyrl": "Nouakchott Nord",
         "sr_Cyrl_BA": "Nouakchott Nord",
         "sr_Cyrl_ME": "Nouakchott Nord",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Nouakchott Nord",
         "tr_TR": "Nouakchott Nord",
         "tt": "Nouakchott Nord",
+        "tt@iqtelif": "Nouakchott Nord",
         "tt_RU": "Nouakchott Nord",
         "twq": "Nouakchott Nord",
         "twq_NE": "Nouakchott Nord",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Nouakchott Nord",
         "zh_Hant_TW": "Nouakchott Nord",
         "zu": "Nouakchott Nord",
-        "zu_ZA": "Nouakchott Nord",
-        "sr@latin": "Nouakchott Nord",
-        "tt@iqtelif": "Nouakchott Nord"
+        "zu_ZA": "Nouakchott Nord"
     },
     "15": {
         "af": "Nouakchott Sud",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Nouakchott Sud",
         "sq_XK": "Nouakchott Sud",
         "sr": "Nouakchott Sud",
+        "sr@latin": "Nouakchott Sud",
         "sr_Cyrl": "Nouakchott Sud",
         "sr_Cyrl_BA": "Nouakchott Sud",
         "sr_Cyrl_ME": "Nouakchott Sud",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Nouakchott Sud",
         "tr_TR": "Nouakchott Sud",
         "tt": "Nouakchott Sud",
+        "tt@iqtelif": "Nouakchott Sud",
         "tt_RU": "Nouakchott Sud",
         "twq": "Nouakchott Sud",
         "twq_NE": "Nouakchott Sud",
@@ -13270,8 +13272,6 @@
         "zh_Hant_MY": "Nouakchott Sud",
         "zh_Hant_TW": "Nouakchott Sud",
         "zu": "Nouakchott Sud",
-        "zu_ZA": "Nouakchott Sud",
-        "sr@latin": "Nouakchott Sud",
-        "tt@iqtelif": "Nouakchott Sud"
+        "zu_ZA": "Nouakchott Sud"
     }
 }

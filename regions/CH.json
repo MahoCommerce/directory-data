@@ -743,6 +743,7 @@
         "sq_MK": "Aargau",
         "sq_XK": "Aargau",
         "sr": "Аргау",
+        "sr@latin": "Argau",
         "sr_Cyrl": "Аргау",
         "sr_Cyrl_BA": "Аргау",
         "sr_Cyrl_ME": "Аргау",
@@ -803,6 +804,7 @@
         "tr_CY": "Aargau",
         "tr_TR": "Aargau",
         "tt": "Aargau",
+        "tt@iqtelif": "Aargau",
         "tt_RU": "Aargau",
         "twq": "Aargau",
         "twq_NE": "Aargau",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Aargau",
         "zh_Hant_TW": "Aargau",
         "zu": "Aargau",
-        "zu_ZA": "Aargau",
-        "sr@latin": "Argau",
-        "tt@iqtelif": "Aargau"
+        "zu_ZA": "Aargau"
     },
     "AI": {
         "af": "Appenzell Innerrhoden",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Appenzell Innerrhoden",
         "sq_XK": "Appenzell Innerrhoden",
         "sr": "Апенцел Инероден",
+        "sr@latin": "Apencel Ineroden",
         "sr_Cyrl": "Апенцел Инероден",
         "sr_Cyrl_BA": "Апенцел Инероден",
         "sr_Cyrl_ME": "Апенцел Инероден",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Appenzell Innerrhoden",
         "tr_TR": "Appenzell Innerrhoden",
         "tt": "Appenzell Innerrhoden",
+        "tt@iqtelif": "Appenzell Innerrhoden",
         "tt_RU": "Appenzell Innerrhoden",
         "twq": "Appenzell Innerrhoden",
         "twq_NE": "Appenzell Innerrhoden",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Appenzell Innerrhoden",
         "zh_Hant_TW": "Appenzell Innerrhoden",
         "zu": "Appenzell Innerrhoden",
-        "zu_ZA": "Appenzell Innerrhoden",
-        "sr@latin": "Apencel Ineroden",
-        "tt@iqtelif": "Appenzell Innerrhoden"
+        "zu_ZA": "Appenzell Innerrhoden"
     },
     "AR": {
         "af": "Appenzell Ausserrhoden",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Appenzell Ausserrhoden",
         "sq_XK": "Appenzell Ausserrhoden",
         "sr": "Апенцел Аусероден",
+        "sr@latin": "Apencel Auseroden",
         "sr_Cyrl": "Апенцел Аусероден",
         "sr_Cyrl_BA": "Апенцел Аусероден",
         "sr_Cyrl_ME": "Апенцел Аусероден",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Appenzell Ausserrhoden",
         "tr_TR": "Appenzell Ausserrhoden",
         "tt": "Appenzell Ausserrhoden",
+        "tt@iqtelif": "Appenzell Ausserrhoden",
         "tt_RU": "Appenzell Ausserrhoden",
         "twq": "Appenzell Ausserrhoden",
         "twq_NE": "Appenzell Ausserrhoden",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Appenzell Ausserrhoden",
         "zh_Hant_TW": "Appenzell Ausserrhoden",
         "zu": "Appenzell Ausserrhoden",
-        "zu_ZA": "Appenzell Ausserrhoden",
-        "sr@latin": "Apencel Auseroden",
-        "tt@iqtelif": "Appenzell Ausserrhoden"
+        "zu_ZA": "Appenzell Ausserrhoden"
     },
     "BE": {
         "af": "Berne",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Berne",
         "sq_XK": "Berne",
         "sr": "Berne",
+        "sr@latin": "Berne",
         "sr_Cyrl": "Berne",
         "sr_Cyrl_BA": "Berne",
         "sr_Cyrl_ME": "Berne",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Berne",
         "tr_TR": "Berne",
         "tt": "Berne",
+        "tt@iqtelif": "Berne",
         "tt_RU": "Berne",
         "twq": "Berne",
         "twq_NE": "Berne",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Berne",
         "zh_Hant_TW": "Berne",
         "zu": "Berne",
-        "zu_ZA": "Berne",
-        "sr@latin": "Berne",
-        "tt@iqtelif": "Berne"
+        "zu_ZA": "Berne"
     },
     "BL": {
         "af": "Basel-Landschaft",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Basel-Landschaft",
         "sq_XK": "Basel-Landschaft",
         "sr": "Базел-Ландшафт",
+        "sr@latin": "Bazel-Landšaft",
         "sr_Cyrl": "Базел-Ландшафт",
         "sr_Cyrl_BA": "Базел-Ландшафт",
         "sr_Cyrl_ME": "Базел-Ландшафт",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Basel-Landschaft",
         "tr_TR": "Basel-Landschaft",
         "tt": "Basel-Landschaft",
+        "tt@iqtelif": "Basel-Landschaft",
         "tt_RU": "Basel-Landschaft",
         "twq": "Basel-Landschaft",
         "twq_NE": "Basel-Landschaft",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Basel-Landschaft",
         "zh_Hant_TW": "Basel-Landschaft",
         "zu": "Basel-Landschaft",
-        "zu_ZA": "Basel-Landschaft",
-        "sr@latin": "Bazel-Landšaft",
-        "tt@iqtelif": "Basel-Landschaft"
+        "zu_ZA": "Basel-Landschaft"
     },
     "BS": {
         "af": "Basel-Stadt",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Basel-Stadt",
         "sq_XK": "Basel-Stadt",
         "sr": "Базелштат",
+        "sr@latin": "Bazelštat",
         "sr_Cyrl": "Базелштат",
         "sr_Cyrl_BA": "Базелштат",
         "sr_Cyrl_ME": "Базелштат",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Basel-Stadt",
         "tr_TR": "Basel-Stadt",
         "tt": "Basel-Stadt",
+        "tt@iqtelif": "Basel-Stadt",
         "tt_RU": "Basel-Stadt",
         "twq": "Basel-Stadt",
         "twq_NE": "Basel-Stadt",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Basel-Stadt",
         "zh_Hant_TW": "Basel-Stadt",
         "zu": "Basel-Stadt",
-        "zu_ZA": "Basel-Stadt",
-        "sr@latin": "Bazelštat",
-        "tt@iqtelif": "Basel-Stadt"
+        "zu_ZA": "Basel-Stadt"
     },
     "FR": {
         "af": "Fribourg",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Fribourg",
         "sq_XK": "Fribourg",
         "sr": "Fribourg",
+        "sr@latin": "Fribourg",
         "sr_Cyrl": "Fribourg",
         "sr_Cyrl_BA": "Fribourg",
         "sr_Cyrl_ME": "Fribourg",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Fribourg",
         "tr_TR": "Fribourg",
         "tt": "Fribourg",
+        "tt@iqtelif": "Fribourg",
         "tt_RU": "Fribourg",
         "twq": "Fribourg",
         "twq_NE": "Fribourg",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Fribourg",
         "zh_Hant_TW": "Fribourg",
         "zu": "Fribourg",
-        "zu_ZA": "Fribourg",
-        "sr@latin": "Fribourg",
-        "tt@iqtelif": "Fribourg"
+        "zu_ZA": "Fribourg"
     },
     "GE": {
         "af": "Genève",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Genève",
         "sq_XK": "Genève",
         "sr": "Женева",
+        "sr@latin": "Ženeva",
         "sr_Cyrl": "Женева",
         "sr_Cyrl_BA": "Женева",
         "sr_Cyrl_ME": "Женева",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Cenevre",
         "tr_TR": "Cenevre",
         "tt": "Genève",
+        "tt@iqtelif": "Genève",
         "tt_RU": "Genève",
         "twq": "Genève",
         "twq_NE": "Genève",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Genève",
         "zh_Hant_TW": "Genève",
         "zu": "Genève",
-        "zu_ZA": "Genève",
-        "sr@latin": "Ženeva",
-        "tt@iqtelif": "Genève"
+        "zu_ZA": "Genève"
     },
     "GL": {
         "af": "Glarus",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Glarus",
         "sq_XK": "Glarus",
         "sr": "Глорус",
+        "sr@latin": "Glorus",
         "sr_Cyrl": "Глорус",
         "sr_Cyrl_BA": "Глорус",
         "sr_Cyrl_ME": "Глорус",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Glarus",
         "tr_TR": "Glarus",
         "tt": "Glarus",
+        "tt@iqtelif": "Glarus",
         "tt_RU": "Glarus",
         "twq": "Glarus",
         "twq_NE": "Glarus",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Glarus",
         "zh_Hant_TW": "Glarus",
         "zu": "Glarus",
-        "zu_ZA": "Glarus",
-        "sr@latin": "Glorus",
-        "tt@iqtelif": "Glarus"
+        "zu_ZA": "Glarus"
     },
     "GR": {
         "af": "Graubünden",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Graubünden",
         "sq_XK": "Graubünden",
         "sr": "Гројбинден",
+        "sr@latin": "Grojbinden",
         "sr_Cyrl": "Гројбинден",
         "sr_Cyrl_BA": "Гројбинден",
         "sr_Cyrl_ME": "Гројбинден",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Graubünden",
         "tr_TR": "Graubünden",
         "tt": "Graubünden",
+        "tt@iqtelif": "Graubünden",
         "tt_RU": "Graubünden",
         "twq": "Graubünden",
         "twq_NE": "Graubünden",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Graubünden",
         "zh_Hant_TW": "Graubünden",
         "zu": "Graubünden",
-        "zu_ZA": "Graubünden",
-        "sr@latin": "Grojbinden",
-        "tt@iqtelif": "Graubünden"
+        "zu_ZA": "Graubünden"
     },
     "JU": {
         "af": "Jura",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Jura",
         "sq_XK": "Jura",
         "sr": "Дјура",
+        "sr@latin": "Djura",
         "sr_Cyrl": "Дјура",
         "sr_Cyrl_BA": "Дјура",
         "sr_Cyrl_ME": "Дјура",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Jura",
         "tr_TR": "Jura",
         "tt": "Jura",
+        "tt@iqtelif": "Jura",
         "tt_RU": "Jura",
         "twq": "Jura",
         "twq_NE": "Jura",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Jura",
         "zh_Hant_TW": "Jura",
         "zu": "Jura",
-        "zu_ZA": "Jura",
-        "sr@latin": "Djura",
-        "tt@iqtelif": "Jura"
+        "zu_ZA": "Jura"
     },
     "LU": {
         "af": "Luzern",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Luzern",
         "sq_XK": "Luzern",
         "sr": "Луцерн",
+        "sr@latin": "Lucern",
         "sr_Cyrl": "Луцерн",
         "sr_Cyrl_BA": "Луцерн",
         "sr_Cyrl_ME": "Луцерн",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Luzern",
         "tr_TR": "Luzern",
         "tt": "Luzern",
+        "tt@iqtelif": "Luzern",
         "tt_RU": "Luzern",
         "twq": "Luzern",
         "twq_NE": "Luzern",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Luzern",
         "zh_Hant_TW": "Luzern",
         "zu": "Luzern",
-        "zu_ZA": "Luzern",
-        "sr@latin": "Lucern",
-        "tt@iqtelif": "Luzern"
+        "zu_ZA": "Luzern"
     },
     "NE": {
         "af": "Neuchâtel",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Neuchâtel",
         "sq_XK": "Neuchâtel",
         "sr": "Ношател",
+        "sr@latin": "Nošatel",
         "sr_Cyrl": "Ношател",
         "sr_Cyrl_BA": "Ношател",
         "sr_Cyrl_ME": "Ношател",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Neuchâtel",
         "tr_TR": "Neuchâtel",
         "tt": "Neuchâtel",
+        "tt@iqtelif": "Neuchâtel",
         "tt_RU": "Neuchâtel",
         "twq": "Neuchâtel",
         "twq_NE": "Neuchâtel",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Neuchâtel",
         "zh_Hant_TW": "Neuchâtel",
         "zu": "Neuchâtel",
-        "zu_ZA": "Neuchâtel",
-        "sr@latin": "Nošatel",
-        "tt@iqtelif": "Neuchâtel"
+        "zu_ZA": "Neuchâtel"
     },
     "NW": {
         "af": "Nidwalden",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Nidwalden",
         "sq_XK": "Nidwalden",
         "sr": "Нидвалден",
+        "sr@latin": "Nidvalden",
         "sr_Cyrl": "Нидвалден",
         "sr_Cyrl_BA": "Нидвалден",
         "sr_Cyrl_ME": "Нидвалден",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Nidwalden",
         "tr_TR": "Nidwalden",
         "tt": "Nidwalden",
+        "tt@iqtelif": "Nidwalden",
         "tt_RU": "Nidwalden",
         "twq": "Nidwalden",
         "twq_NE": "Nidwalden",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Nidwalden",
         "zh_Hant_TW": "Nidwalden",
         "zu": "Nidwalden",
-        "zu_ZA": "Nidwalden",
-        "sr@latin": "Nidvalden",
-        "tt@iqtelif": "Nidwalden"
+        "zu_ZA": "Nidwalden"
     },
     "OW": {
         "af": "Obwalden",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Obwalden",
         "sq_XK": "Obwalden",
         "sr": "Обвалден",
+        "sr@latin": "Obvalden",
         "sr_Cyrl": "Обвалден",
         "sr_Cyrl_BA": "Обвалден",
         "sr_Cyrl_ME": "Обвалден",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Obwalden",
         "tr_TR": "Obwalden",
         "tt": "Obwalden",
+        "tt@iqtelif": "Obwalden",
         "tt_RU": "Obwalden",
         "twq": "Obwalden",
         "twq_NE": "Obwalden",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Obwalden",
         "zh_Hant_TW": "Obwalden",
         "zu": "Obwalden",
-        "zu_ZA": "Obwalden",
-        "sr@latin": "Obvalden",
-        "tt@iqtelif": "Obwalden"
+        "zu_ZA": "Obwalden"
     },
     "SG": {
         "af": "Sankt Gallen",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Sankt Gallen",
         "sq_XK": "Sankt Gallen",
         "sr": "Сент Гален",
+        "sr@latin": "Sent Galen",
         "sr_Cyrl": "Сент Гален",
         "sr_Cyrl_BA": "Сент Гален",
         "sr_Cyrl_ME": "Сент Гален",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Sankt Gallen",
         "tr_TR": "Sankt Gallen",
         "tt": "Sankt Gallen",
+        "tt@iqtelif": "Sankt Gallen",
         "tt_RU": "Sankt Gallen",
         "twq": "Sankt Gallen",
         "twq_NE": "Sankt Gallen",
@@ -14155,9 +14157,7 @@
         "zh_Hant_MY": "Sankt Gallen",
         "zh_Hant_TW": "Sankt Gallen",
         "zu": "Sankt Gallen",
-        "zu_ZA": "Sankt Gallen",
-        "sr@latin": "Sent Galen",
-        "tt@iqtelif": "Sankt Gallen"
+        "zu_ZA": "Sankt Gallen"
     },
     "SH": {
         "af": "Schaffhausen",
@@ -14903,6 +14903,7 @@
         "sq_MK": "Schaffhausen",
         "sq_XK": "Schaffhausen",
         "sr": "Шафхаузен",
+        "sr@latin": "Šafhauzen",
         "sr_Cyrl": "Шафхаузен",
         "sr_Cyrl_BA": "Шафхаузен",
         "sr_Cyrl_ME": "Шафхаузен",
@@ -14963,6 +14964,7 @@
         "tr_CY": "Schaffhausen",
         "tr_TR": "Schaffhausen",
         "tt": "Schaffhausen",
+        "tt@iqtelif": "Schaffhausen",
         "tt_RU": "Schaffhausen",
         "twq": "Schaffhausen",
         "twq_NE": "Schaffhausen",
@@ -15040,9 +15042,7 @@
         "zh_Hant_MY": "Schaffhausen",
         "zh_Hant_TW": "Schaffhausen",
         "zu": "Schaffhausen",
-        "zu_ZA": "Schaffhausen",
-        "sr@latin": "Šafhauzen",
-        "tt@iqtelif": "Schaffhausen"
+        "zu_ZA": "Schaffhausen"
     },
     "SO": {
         "af": "Solothurn",
@@ -15788,6 +15788,7 @@
         "sq_MK": "Solothurn",
         "sq_XK": "Solothurn",
         "sr": "Солотурн",
+        "sr@latin": "Soloturn",
         "sr_Cyrl": "Солотурн",
         "sr_Cyrl_BA": "Солотурн",
         "sr_Cyrl_ME": "Солотурн",
@@ -15848,6 +15849,7 @@
         "tr_CY": "Solothurn",
         "tr_TR": "Solothurn",
         "tt": "Solothurn",
+        "tt@iqtelif": "Solothurn",
         "tt_RU": "Solothurn",
         "twq": "Solothurn",
         "twq_NE": "Solothurn",
@@ -15925,9 +15927,7 @@
         "zh_Hant_MY": "Solothurn",
         "zh_Hant_TW": "Solothurn",
         "zu": "Solothurn",
-        "zu_ZA": "Solothurn",
-        "sr@latin": "Soloturn",
-        "tt@iqtelif": "Solothurn"
+        "zu_ZA": "Solothurn"
     },
     "SZ": {
         "af": "Schwyz",
@@ -16673,6 +16673,7 @@
         "sq_MK": "Schwyz",
         "sq_XK": "Schwyz",
         "sr": "Швајцарска",
+        "sr@latin": "Švajcarska",
         "sr_Cyrl": "Швајцарска",
         "sr_Cyrl_BA": "Швајцарска",
         "sr_Cyrl_ME": "Швајцарска",
@@ -16733,6 +16734,7 @@
         "tr_CY": "Schwyz",
         "tr_TR": "Schwyz",
         "tt": "Schwyz",
+        "tt@iqtelif": "Schwyz",
         "tt_RU": "Schwyz",
         "twq": "Schwyz",
         "twq_NE": "Schwyz",
@@ -16810,9 +16812,7 @@
         "zh_Hant_MY": "Schwyz",
         "zh_Hant_TW": "Schwyz",
         "zu": "Schwyz",
-        "zu_ZA": "Schwyz",
-        "sr@latin": "Švajcarska",
-        "tt@iqtelif": "Schwyz"
+        "zu_ZA": "Schwyz"
     },
     "TG": {
         "af": "Thurgau",
@@ -17558,6 +17558,7 @@
         "sq_MK": "Thurgau",
         "sq_XK": "Thurgau",
         "sr": "Тирго",
+        "sr@latin": "Tirgo",
         "sr_Cyrl": "Тирго",
         "sr_Cyrl_BA": "Тирго",
         "sr_Cyrl_ME": "Тирго",
@@ -17618,6 +17619,7 @@
         "tr_CY": "Thurgau",
         "tr_TR": "Thurgau",
         "tt": "Thurgau",
+        "tt@iqtelif": "Thurgau",
         "tt_RU": "Thurgau",
         "twq": "Thurgau",
         "twq_NE": "Thurgau",
@@ -17695,9 +17697,7 @@
         "zh_Hant_MY": "Thurgau",
         "zh_Hant_TW": "Thurgau",
         "zu": "Thurgau",
-        "zu_ZA": "Thurgau",
-        "sr@latin": "Tirgo",
-        "tt@iqtelif": "Thurgau"
+        "zu_ZA": "Thurgau"
     },
     "TI": {
         "af": "Ticino",
@@ -18443,6 +18443,7 @@
         "sq_MK": "Ticino",
         "sq_XK": "Ticino",
         "sr": "Тићино",
+        "sr@latin": "Tićino",
         "sr_Cyrl": "Тићино",
         "sr_Cyrl_BA": "Тићино",
         "sr_Cyrl_ME": "Тићино",
@@ -18503,6 +18504,7 @@
         "tr_CY": "Ticino",
         "tr_TR": "Ticino",
         "tt": "Ticino",
+        "tt@iqtelif": "Ticino",
         "tt_RU": "Ticino",
         "twq": "Ticino",
         "twq_NE": "Ticino",
@@ -18580,9 +18582,7 @@
         "zh_Hant_MY": "Ticino",
         "zh_Hant_TW": "Ticino",
         "zu": "Ticino",
-        "zu_ZA": "Ticino",
-        "sr@latin": "Tićino",
-        "tt@iqtelif": "Ticino"
+        "zu_ZA": "Ticino"
     },
     "UR": {
         "af": "Uri",
@@ -19328,6 +19328,7 @@
         "sq_MK": "Uri",
         "sq_XK": "Uri",
         "sr": "Ури",
+        "sr@latin": "Uri",
         "sr_Cyrl": "Ури",
         "sr_Cyrl_BA": "Ури",
         "sr_Cyrl_ME": "Ури",
@@ -19388,6 +19389,7 @@
         "tr_CY": "Uri",
         "tr_TR": "Uri",
         "tt": "Uri",
+        "tt@iqtelif": "Uri",
         "tt_RU": "Uri",
         "twq": "Uri",
         "twq_NE": "Uri",
@@ -19465,9 +19467,7 @@
         "zh_Hant_MY": "Uri",
         "zh_Hant_TW": "Uri",
         "zu": "Uri",
-        "zu_ZA": "Uri",
-        "sr@latin": "Uri",
-        "tt@iqtelif": "Uri"
+        "zu_ZA": "Uri"
     },
     "VD": {
         "af": "Vaud",
@@ -20213,6 +20213,7 @@
         "sq_MK": "Vaud",
         "sq_XK": "Vaud",
         "sr": "Вод",
+        "sr@latin": "Vod",
         "sr_Cyrl": "Вод",
         "sr_Cyrl_BA": "Вод",
         "sr_Cyrl_ME": "Вод",
@@ -20273,6 +20274,7 @@
         "tr_CY": "Vaud",
         "tr_TR": "Vaud",
         "tt": "Vaud",
+        "tt@iqtelif": "Vaud",
         "tt_RU": "Vaud",
         "twq": "Vaud",
         "twq_NE": "Vaud",
@@ -20350,9 +20352,7 @@
         "zh_Hant_MY": "Vaud",
         "zh_Hant_TW": "Vaud",
         "zu": "Vaud",
-        "zu_ZA": "Vaud",
-        "sr@latin": "Vod",
-        "tt@iqtelif": "Vaud"
+        "zu_ZA": "Vaud"
     },
     "VS": {
         "af": "Valais",
@@ -21098,6 +21098,7 @@
         "sq_MK": "Valais",
         "sq_XK": "Valais",
         "sr": "Вале",
+        "sr@latin": "Vale",
         "sr_Cyrl": "Вале",
         "sr_Cyrl_BA": "Вале",
         "sr_Cyrl_ME": "Вале",
@@ -21158,6 +21159,7 @@
         "tr_CY": "Valais",
         "tr_TR": "Valais",
         "tt": "Valais",
+        "tt@iqtelif": "Valais",
         "tt_RU": "Valais",
         "twq": "Valais",
         "twq_NE": "Valais",
@@ -21235,9 +21237,7 @@
         "zh_Hant_MY": "Valais",
         "zh_Hant_TW": "Valais",
         "zu": "Valais",
-        "zu_ZA": "Valais",
-        "sr@latin": "Vale",
-        "tt@iqtelif": "Valais"
+        "zu_ZA": "Valais"
     },
     "ZG": {
         "af": "Zug",
@@ -21983,6 +21983,7 @@
         "sq_MK": "Zug",
         "sq_XK": "Zug",
         "sr": "Циг",
+        "sr@latin": "Cig",
         "sr_Cyrl": "Циг",
         "sr_Cyrl_BA": "Циг",
         "sr_Cyrl_ME": "Циг",
@@ -22043,6 +22044,7 @@
         "tr_CY": "Zug",
         "tr_TR": "Zug",
         "tt": "Zug",
+        "tt@iqtelif": "Zug",
         "tt_RU": "Zug",
         "twq": "Zug",
         "twq_NE": "Zug",
@@ -22120,9 +22122,7 @@
         "zh_Hant_MY": "Zug",
         "zh_Hant_TW": "Zug",
         "zu": "Zug",
-        "zu_ZA": "Zug",
-        "sr@latin": "Cig",
-        "tt@iqtelif": "Zug"
+        "zu_ZA": "Zug"
     },
     "ZH": {
         "af": "Zürich",
@@ -22868,6 +22868,7 @@
         "sq_MK": "Zürich",
         "sq_XK": "Zürich",
         "sr": "Цирих",
+        "sr@latin": "Cirih",
         "sr_Cyrl": "Цирих",
         "sr_Cyrl_BA": "Цирих",
         "sr_Cyrl_ME": "Цирих",
@@ -22928,6 +22929,7 @@
         "tr_CY": "Zürich",
         "tr_TR": "Zürich",
         "tt": "Zürich",
+        "tt@iqtelif": "Zürich",
         "tt_RU": "Zürich",
         "twq": "Zürich",
         "twq_NE": "Zürich",
@@ -23005,8 +23007,6 @@
         "zh_Hant_MY": "Zürich",
         "zh_Hant_TW": "Zürich",
         "zu": "Zürich",
-        "zu_ZA": "Zürich",
-        "sr@latin": "Cirih",
-        "tt@iqtelif": "Zürich"
+        "zu_ZA": "Zürich"
     }
 }

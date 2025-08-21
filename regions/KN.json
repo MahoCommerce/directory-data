@@ -743,6 +743,7 @@
         "sq_MK": "Christ Church Nichola Town",
         "sq_XK": "Christ Church Nichola Town",
         "sr": "Christ Church Nichola Town",
+        "sr@latin": "Christ Church Nichola Town",
         "sr_Cyrl": "Christ Church Nichola Town",
         "sr_Cyrl_BA": "Christ Church Nichola Town",
         "sr_Cyrl_ME": "Christ Church Nichola Town",
@@ -803,6 +804,7 @@
         "tr_CY": "Christ Church Nichola Town",
         "tr_TR": "Christ Church Nichola Town",
         "tt": "Christ Church Nichola Town",
+        "tt@iqtelif": "Christ Church Nichola Town",
         "tt_RU": "Christ Church Nichola Town",
         "twq": "Christ Church Nichola Town",
         "twq_NE": "Christ Church Nichola Town",
@@ -880,9 +882,7 @@
         "zh_Hant_MY": "Christ Church Nichola Town",
         "zh_Hant_TW": "Christ Church Nichola Town",
         "zu": "Christ Church Nichola Town",
-        "zu_ZA": "Christ Church Nichola Town",
-        "sr@latin": "Christ Church Nichola Town",
-        "tt@iqtelif": "Christ Church Nichola Town"
+        "zu_ZA": "Christ Church Nichola Town"
     },
     "02": {
         "af": "Saint Anne Sandy Point",
@@ -1628,6 +1628,7 @@
         "sq_MK": "Saint Anne Sandy Point",
         "sq_XK": "Saint Anne Sandy Point",
         "sr": "Saint Anne Sandy Point",
+        "sr@latin": "Saint Anne Sandy Point",
         "sr_Cyrl": "Saint Anne Sandy Point",
         "sr_Cyrl_BA": "Saint Anne Sandy Point",
         "sr_Cyrl_ME": "Saint Anne Sandy Point",
@@ -1688,6 +1689,7 @@
         "tr_CY": "Saint Anne Sandy Point",
         "tr_TR": "Saint Anne Sandy Point",
         "tt": "Saint Anne Sandy Point",
+        "tt@iqtelif": "Saint Anne Sandy Point",
         "tt_RU": "Saint Anne Sandy Point",
         "twq": "Saint Anne Sandy Point",
         "twq_NE": "Saint Anne Sandy Point",
@@ -1765,9 +1767,7 @@
         "zh_Hant_MY": "Saint Anne Sandy Point",
         "zh_Hant_TW": "Saint Anne Sandy Point",
         "zu": "Saint Anne Sandy Point",
-        "zu_ZA": "Saint Anne Sandy Point",
-        "sr@latin": "Saint Anne Sandy Point",
-        "tt@iqtelif": "Saint Anne Sandy Point"
+        "zu_ZA": "Saint Anne Sandy Point"
     },
     "03": {
         "af": "Saint George Basseterre",
@@ -2513,6 +2513,7 @@
         "sq_MK": "Saint George Basseterre",
         "sq_XK": "Saint George Basseterre",
         "sr": "Saint George Basseterre",
+        "sr@latin": "Saint George Basseterre",
         "sr_Cyrl": "Saint George Basseterre",
         "sr_Cyrl_BA": "Saint George Basseterre",
         "sr_Cyrl_ME": "Saint George Basseterre",
@@ -2573,6 +2574,7 @@
         "tr_CY": "Saint George Basseterre",
         "tr_TR": "Saint George Basseterre",
         "tt": "Saint George Basseterre",
+        "tt@iqtelif": "Saint George Basseterre",
         "tt_RU": "Saint George Basseterre",
         "twq": "Saint George Basseterre",
         "twq_NE": "Saint George Basseterre",
@@ -2650,9 +2652,7 @@
         "zh_Hant_MY": "Saint George Basseterre",
         "zh_Hant_TW": "Saint George Basseterre",
         "zu": "Saint George Basseterre",
-        "zu_ZA": "Saint George Basseterre",
-        "sr@latin": "Saint George Basseterre",
-        "tt@iqtelif": "Saint George Basseterre"
+        "zu_ZA": "Saint George Basseterre"
     },
     "04": {
         "af": "Saint George Gingerland",
@@ -3398,6 +3398,7 @@
         "sq_MK": "Saint George Gingerland",
         "sq_XK": "Saint George Gingerland",
         "sr": "Saint George Gingerland",
+        "sr@latin": "Saint George Gingerland",
         "sr_Cyrl": "Saint George Gingerland",
         "sr_Cyrl_BA": "Saint George Gingerland",
         "sr_Cyrl_ME": "Saint George Gingerland",
@@ -3458,6 +3459,7 @@
         "tr_CY": "Saint George Gingerland",
         "tr_TR": "Saint George Gingerland",
         "tt": "Saint George Gingerland",
+        "tt@iqtelif": "Saint George Gingerland",
         "tt_RU": "Saint George Gingerland",
         "twq": "Saint George Gingerland",
         "twq_NE": "Saint George Gingerland",
@@ -3535,9 +3537,7 @@
         "zh_Hant_MY": "Saint George Gingerland",
         "zh_Hant_TW": "Saint George Gingerland",
         "zu": "Saint George Gingerland",
-        "zu_ZA": "Saint George Gingerland",
-        "sr@latin": "Saint George Gingerland",
-        "tt@iqtelif": "Saint George Gingerland"
+        "zu_ZA": "Saint George Gingerland"
     },
     "05": {
         "af": "Saint James Windward",
@@ -4283,6 +4283,7 @@
         "sq_MK": "Saint James Windward",
         "sq_XK": "Saint James Windward",
         "sr": "Saint James Windward",
+        "sr@latin": "Saint James Windward",
         "sr_Cyrl": "Saint James Windward",
         "sr_Cyrl_BA": "Saint James Windward",
         "sr_Cyrl_ME": "Saint James Windward",
@@ -4343,6 +4344,7 @@
         "tr_CY": "Saint James Windward",
         "tr_TR": "Saint James Windward",
         "tt": "Saint James Windward",
+        "tt@iqtelif": "Saint James Windward",
         "tt_RU": "Saint James Windward",
         "twq": "Saint James Windward",
         "twq_NE": "Saint James Windward",
@@ -4420,9 +4422,7 @@
         "zh_Hant_MY": "Saint James Windward",
         "zh_Hant_TW": "Saint James Windward",
         "zu": "Saint James Windward",
-        "zu_ZA": "Saint James Windward",
-        "sr@latin": "Saint James Windward",
-        "tt@iqtelif": "Saint James Windward"
+        "zu_ZA": "Saint James Windward"
     },
     "06": {
         "af": "Saint John Capisterre",
@@ -5168,6 +5168,7 @@
         "sq_MK": "Saint John Capisterre",
         "sq_XK": "Saint John Capisterre",
         "sr": "Сент Џон Капистер",
+        "sr@latin": "Sent Džon Kapister",
         "sr_Cyrl": "Сент Џон Капистер",
         "sr_Cyrl_BA": "Сент Џон Капистер",
         "sr_Cyrl_ME": "Сент Џон Капистер",
@@ -5228,6 +5229,7 @@
         "tr_CY": "Saint John Capisterre",
         "tr_TR": "Saint John Capisterre",
         "tt": "Saint John Capisterre",
+        "tt@iqtelif": "Saint John Capisterre",
         "tt_RU": "Saint John Capisterre",
         "twq": "Saint John Capisterre",
         "twq_NE": "Saint John Capisterre",
@@ -5305,9 +5307,7 @@
         "zh_Hant_MY": "Saint John Capisterre",
         "zh_Hant_TW": "Saint John Capisterre",
         "zu": "Saint John Capisterre",
-        "zu_ZA": "Saint John Capisterre",
-        "sr@latin": "Sent Džon Kapister",
-        "tt@iqtelif": "Saint John Capisterre"
+        "zu_ZA": "Saint John Capisterre"
     },
     "07": {
         "af": "Saint John Figtree",
@@ -6053,6 +6053,7 @@
         "sq_MK": "Saint John Figtree",
         "sq_XK": "Saint John Figtree",
         "sr": "Сент Џон Фигтри",
+        "sr@latin": "Sent Džon Figtri",
         "sr_Cyrl": "Сент Џон Фигтри",
         "sr_Cyrl_BA": "Сент Џон Фигтри",
         "sr_Cyrl_ME": "Сент Џон Фигтри",
@@ -6113,6 +6114,7 @@
         "tr_CY": "Saint John Figtree",
         "tr_TR": "Saint John Figtree",
         "tt": "Saint John Figtree",
+        "tt@iqtelif": "Saint John Figtree",
         "tt_RU": "Saint John Figtree",
         "twq": "Saint John Figtree",
         "twq_NE": "Saint John Figtree",
@@ -6190,9 +6192,7 @@
         "zh_Hant_MY": "Saint John Figtree",
         "zh_Hant_TW": "Saint John Figtree",
         "zu": "Saint John Figtree",
-        "zu_ZA": "Saint John Figtree",
-        "sr@latin": "Sent Džon Figtri",
-        "tt@iqtelif": "Saint John Figtree"
+        "zu_ZA": "Saint John Figtree"
     },
     "08": {
         "af": "Saint Mary Cayon",
@@ -6938,6 +6938,7 @@
         "sq_MK": "Saint Mary Cayon",
         "sq_XK": "Saint Mary Cayon",
         "sr": "Saint Mary Cayon",
+        "sr@latin": "Saint Mary Cayon",
         "sr_Cyrl": "Saint Mary Cayon",
         "sr_Cyrl_BA": "Saint Mary Cayon",
         "sr_Cyrl_ME": "Saint Mary Cayon",
@@ -6998,6 +6999,7 @@
         "tr_CY": "Saint Mary Cayon",
         "tr_TR": "Saint Mary Cayon",
         "tt": "Saint Mary Cayon",
+        "tt@iqtelif": "Saint Mary Cayon",
         "tt_RU": "Saint Mary Cayon",
         "twq": "Saint Mary Cayon",
         "twq_NE": "Saint Mary Cayon",
@@ -7075,9 +7077,7 @@
         "zh_Hant_MY": "Saint Mary Cayon",
         "zh_Hant_TW": "Saint Mary Cayon",
         "zu": "Saint Mary Cayon",
-        "zu_ZA": "Saint Mary Cayon",
-        "sr@latin": "Saint Mary Cayon",
-        "tt@iqtelif": "Saint Mary Cayon"
+        "zu_ZA": "Saint Mary Cayon"
     },
     "09": {
         "af": "Saint Paul Capisterre",
@@ -7823,6 +7823,7 @@
         "sq_MK": "Saint Paul Capisterre",
         "sq_XK": "Saint Paul Capisterre",
         "sr": "Saint Paul Capisterre",
+        "sr@latin": "Saint Paul Capisterre",
         "sr_Cyrl": "Saint Paul Capisterre",
         "sr_Cyrl_BA": "Saint Paul Capisterre",
         "sr_Cyrl_ME": "Saint Paul Capisterre",
@@ -7883,6 +7884,7 @@
         "tr_CY": "Saint Paul Capisterre",
         "tr_TR": "Saint Paul Capisterre",
         "tt": "Saint Paul Capisterre",
+        "tt@iqtelif": "Saint Paul Capisterre",
         "tt_RU": "Saint Paul Capisterre",
         "twq": "Saint Paul Capisterre",
         "twq_NE": "Saint Paul Capisterre",
@@ -7960,9 +7962,7 @@
         "zh_Hant_MY": "Saint Paul Capisterre",
         "zh_Hant_TW": "Saint Paul Capisterre",
         "zu": "Saint Paul Capisterre",
-        "zu_ZA": "Saint Paul Capisterre",
-        "sr@latin": "Saint Paul Capisterre",
-        "tt@iqtelif": "Saint Paul Capisterre"
+        "zu_ZA": "Saint Paul Capisterre"
     },
     "10": {
         "af": "Saint Paul Charlestown",
@@ -8708,6 +8708,7 @@
         "sq_MK": "Saint Paul Charlestown",
         "sq_XK": "Saint Paul Charlestown",
         "sr": "Saint Paul Charlestown",
+        "sr@latin": "Saint Paul Charlestown",
         "sr_Cyrl": "Saint Paul Charlestown",
         "sr_Cyrl_BA": "Saint Paul Charlestown",
         "sr_Cyrl_ME": "Saint Paul Charlestown",
@@ -8768,6 +8769,7 @@
         "tr_CY": "Saint Paul Charlestown",
         "tr_TR": "Saint Paul Charlestown",
         "tt": "Saint Paul Charlestown",
+        "tt@iqtelif": "Saint Paul Charlestown",
         "tt_RU": "Saint Paul Charlestown",
         "twq": "Saint Paul Charlestown",
         "twq_NE": "Saint Paul Charlestown",
@@ -8845,9 +8847,7 @@
         "zh_Hant_MY": "Saint Paul Charlestown",
         "zh_Hant_TW": "Saint Paul Charlestown",
         "zu": "Saint Paul Charlestown",
-        "zu_ZA": "Saint Paul Charlestown",
-        "sr@latin": "Saint Paul Charlestown",
-        "tt@iqtelif": "Saint Paul Charlestown"
+        "zu_ZA": "Saint Paul Charlestown"
     },
     "11": {
         "af": "Saint Peter Basseterre",
@@ -9593,6 +9593,7 @@
         "sq_MK": "Saint Peter Basseterre",
         "sq_XK": "Saint Peter Basseterre",
         "sr": "Saint Peter Basseterre",
+        "sr@latin": "Saint Peter Basseterre",
         "sr_Cyrl": "Saint Peter Basseterre",
         "sr_Cyrl_BA": "Saint Peter Basseterre",
         "sr_Cyrl_ME": "Saint Peter Basseterre",
@@ -9653,6 +9654,7 @@
         "tr_CY": "Saint Peter Basseterre",
         "tr_TR": "Saint Peter Basseterre",
         "tt": "Saint Peter Basseterre",
+        "tt@iqtelif": "Saint Peter Basseterre",
         "tt_RU": "Saint Peter Basseterre",
         "twq": "Saint Peter Basseterre",
         "twq_NE": "Saint Peter Basseterre",
@@ -9730,9 +9732,7 @@
         "zh_Hant_MY": "Saint Peter Basseterre",
         "zh_Hant_TW": "Saint Peter Basseterre",
         "zu": "Saint Peter Basseterre",
-        "zu_ZA": "Saint Peter Basseterre",
-        "sr@latin": "Saint Peter Basseterre",
-        "tt@iqtelif": "Saint Peter Basseterre"
+        "zu_ZA": "Saint Peter Basseterre"
     },
     "12": {
         "af": "Saint Thomas Lowland",
@@ -10478,6 +10478,7 @@
         "sq_MK": "Saint Thomas Lowland",
         "sq_XK": "Saint Thomas Lowland",
         "sr": "Saint Thomas Lowland",
+        "sr@latin": "Saint Thomas Lowland",
         "sr_Cyrl": "Saint Thomas Lowland",
         "sr_Cyrl_BA": "Saint Thomas Lowland",
         "sr_Cyrl_ME": "Saint Thomas Lowland",
@@ -10538,6 +10539,7 @@
         "tr_CY": "Saint Thomas Lowland",
         "tr_TR": "Saint Thomas Lowland",
         "tt": "Saint Thomas Lowland",
+        "tt@iqtelif": "Saint Thomas Lowland",
         "tt_RU": "Saint Thomas Lowland",
         "twq": "Saint Thomas Lowland",
         "twq_NE": "Saint Thomas Lowland",
@@ -10615,9 +10617,7 @@
         "zh_Hant_MY": "Saint Thomas Lowland",
         "zh_Hant_TW": "Saint Thomas Lowland",
         "zu": "Saint Thomas Lowland",
-        "zu_ZA": "Saint Thomas Lowland",
-        "sr@latin": "Saint Thomas Lowland",
-        "tt@iqtelif": "Saint Thomas Lowland"
+        "zu_ZA": "Saint Thomas Lowland"
     },
     "13": {
         "af": "Saint Thomas Middle Island",
@@ -11363,6 +11363,7 @@
         "sq_MK": "Saint Thomas Middle Island",
         "sq_XK": "Saint Thomas Middle Island",
         "sr": "Saint Thomas Middle Island",
+        "sr@latin": "Saint Thomas Middle Island",
         "sr_Cyrl": "Saint Thomas Middle Island",
         "sr_Cyrl_BA": "Saint Thomas Middle Island",
         "sr_Cyrl_ME": "Saint Thomas Middle Island",
@@ -11423,6 +11424,7 @@
         "tr_CY": "Saint Thomas Middle Island",
         "tr_TR": "Saint Thomas Middle Island",
         "tt": "Saint Thomas Middle Island",
+        "tt@iqtelif": "Saint Thomas Middle Island",
         "tt_RU": "Saint Thomas Middle Island",
         "twq": "Saint Thomas Middle Island",
         "twq_NE": "Saint Thomas Middle Island",
@@ -11500,9 +11502,7 @@
         "zh_Hant_MY": "Saint Thomas Middle Island",
         "zh_Hant_TW": "Saint Thomas Middle Island",
         "zu": "Saint Thomas Middle Island",
-        "zu_ZA": "Saint Thomas Middle Island",
-        "sr@latin": "Saint Thomas Middle Island",
-        "tt@iqtelif": "Saint Thomas Middle Island"
+        "zu_ZA": "Saint Thomas Middle Island"
     },
     "15": {
         "af": "Trinity Palmetto Point",
@@ -12248,6 +12248,7 @@
         "sq_MK": "Trinity Palmetto Point",
         "sq_XK": "Trinity Palmetto Point",
         "sr": "Trinity Palmetto Point",
+        "sr@latin": "Trinity Palmetto Point",
         "sr_Cyrl": "Trinity Palmetto Point",
         "sr_Cyrl_BA": "Trinity Palmetto Point",
         "sr_Cyrl_ME": "Trinity Palmetto Point",
@@ -12308,6 +12309,7 @@
         "tr_CY": "Trinity Palmetto Point",
         "tr_TR": "Trinity Palmetto Point",
         "tt": "Trinity Palmetto Point",
+        "tt@iqtelif": "Trinity Palmetto Point",
         "tt_RU": "Trinity Palmetto Point",
         "twq": "Trinity Palmetto Point",
         "twq_NE": "Trinity Palmetto Point",
@@ -12385,9 +12387,7 @@
         "zh_Hant_MY": "Trinity Palmetto Point",
         "zh_Hant_TW": "Trinity Palmetto Point",
         "zu": "Trinity Palmetto Point",
-        "zu_ZA": "Trinity Palmetto Point",
-        "sr@latin": "Trinity Palmetto Point",
-        "tt@iqtelif": "Trinity Palmetto Point"
+        "zu_ZA": "Trinity Palmetto Point"
     },
     "K": {
         "af": "Saint Kitts",
@@ -13133,6 +13133,7 @@
         "sq_MK": "Saint Kitts",
         "sq_XK": "Saint Kitts",
         "sr": "Свети Китс",
+        "sr@latin": "Sveti Kits",
         "sr_Cyrl": "Свети Китс",
         "sr_Cyrl_BA": "Свети Китс",
         "sr_Cyrl_ME": "Свети Китс",
@@ -13193,6 +13194,7 @@
         "tr_CY": "Saint Kitts",
         "tr_TR": "Saint Kitts",
         "tt": "Saint Kitts",
+        "tt@iqtelif": "Saint Kitts",
         "tt_RU": "Saint Kitts",
         "twq": "Saint Kitts",
         "twq_NE": "Saint Kitts",
@@ -13270,9 +13272,7 @@
         "zh_Hant_MY": "Saint Kitts",
         "zh_Hant_TW": "Saint Kitts",
         "zu": "Saint Kitts",
-        "zu_ZA": "Saint Kitts",
-        "sr@latin": "Sveti Kits",
-        "tt@iqtelif": "Saint Kitts"
+        "zu_ZA": "Saint Kitts"
     },
     "N": {
         "af": "Nevis",
@@ -14018,6 +14018,7 @@
         "sq_MK": "Nevis",
         "sq_XK": "Nevis",
         "sr": "Невис",
+        "sr@latin": "Nevis",
         "sr_Cyrl": "Невис",
         "sr_Cyrl_BA": "Невис",
         "sr_Cyrl_ME": "Невис",
@@ -14078,6 +14079,7 @@
         "tr_CY": "Nevis",
         "tr_TR": "Nevis",
         "tt": "Nevis",
+        "tt@iqtelif": "Nevis",
         "tt_RU": "Nevis",
         "twq": "Nevis",
         "twq_NE": "Nevis",
@@ -14155,8 +14157,6 @@
         "zh_Hant_MY": "Nevis",
         "zh_Hant_TW": "Nevis",
         "zu": "Nevis",
-        "zu_ZA": "Nevis",
-        "sr@latin": "Nevis",
-        "tt@iqtelif": "Nevis"
+        "zu_ZA": "Nevis"
     }
 }
