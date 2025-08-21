@@ -1,54 +1,26 @@
 {
     "A": {
-        "en_US": "Anjouan",
+        "en": "Anjouan",
         "hi": "ऐंजुआन",
-        "hi_IN": "ऐंजुआन",
         "ro": "Insula Anjouan",
-        "ro_MD": "Insula Anjouan",
-        "ro_RO": "Insula Anjouan",
         "ta": "அஞ்சோவன்",
-        "ta_IN": "அஞ்சோவன்",
-        "ta_LK": "அஞ்சோவன்",
-        "ta_MY": "அஞ்சோவன்",
-        "ta_SG": "அஞ்சோவன்",
-        "uk": "Анжуан",
-        "uk_UA": "Анжуан"
+        "uk": "Анжуан"
     },
     "G": {
-        "en_US": "Grande Comore",
+        "en": "Grande Comore",
         "ga": "Comoros Mór",
-        "ga_GB": "Comoros Mór",
-        "ga_IE": "Comoros Mór",
         "hi": "ग्रांडे कोमोर",
-        "hi_IN": "ग्रांडे कोमोर",
         "hu": "Nagy-Komoró",
-        "hu_HU": "Nagy-Komoró",
         "pl": "Wielki Komor",
-        "pl_PL": "Wielki Komor",
         "ro": "Insula Grande Comore",
-        "ro_MD": "Insula Grande Comore",
-        "ro_RO": "Insula Grande Comore",
         "ta": "கிராண்டே கோமோர்",
-        "ta_IN": "கிராண்டே கோமோர்",
-        "ta_LK": "கிராண்டே கோமோர்",
-        "ta_MY": "கிராண்டே கோமோர்",
-        "ta_SG": "கிராண்டே கோமோர்",
-        "uk": "Великий Комор",
-        "uk_UA": "Великий Комор"
+        "uk": "Великий Комор"
     },
     "M": {
-        "en_US": "Mohéli",
+        "en": "Mohéli",
         "hi": "मोहेली",
-        "hi_IN": "मोहेली",
         "ro": "Insula Mohéli",
-        "ro_MD": "Insula Mohéli",
-        "ro_RO": "Insula Mohéli",
         "ta": "மொஎலி",
-        "ta_IN": "மொஎலி",
-        "ta_LK": "மொஎலி",
-        "ta_MY": "மொஎலி",
-        "ta_SG": "மொஎலி",
-        "uk": "Мохелі",
-        "uk_UA": "Мохелі"
+        "uk": "Мохелі"
     }
 }
