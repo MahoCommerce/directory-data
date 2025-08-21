@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Agalega Islands",
         "zh_Hant_TW": "Agalega Islands",
         "zu": "Agalega Islands",
-        "zu_ZA": "Agalega Islands"
+        "zu_ZA": "Agalega Islands",
+        "sr@latin": "Agaleška ostrva",
+        "tt@iqtelif": "Agalega Islands"
     },
     "BL": {
         "af": "Black River",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Black River",
         "zh_Hant_TW": "Black River",
         "zu": "Black River",
-        "zu_ZA": "Black River"
+        "zu_ZA": "Black River",
+        "sr@latin": "Blek River",
+        "tt@iqtelif": "Black River"
     },
     "CC": {
         "af": "Cargados Carajos Shoals",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Cargados Carajos Shoals",
         "zh_Hant_TW": "Cargados Carajos Shoals",
         "zu": "Cargados Carajos Shoals",
-        "zu_ZA": "Cargados Carajos Shoals"
+        "zu_ZA": "Cargados Carajos Shoals",
+        "sr@latin": "Kargados Karahos Šoals",
+        "tt@iqtelif": "Cargados Carajos Shoals"
     },
     "FL": {
         "af": "Flacq",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Flacq",
         "zh_Hant_TW": "Flacq",
         "zu": "Flacq",
-        "zu_ZA": "Flacq"
+        "zu_ZA": "Flacq",
+        "sr@latin": "Flak",
+        "tt@iqtelif": "Flacq"
     },
     "GP": {
         "af": "Grand Port",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Grand Port",
         "zh_Hant_TW": "Grand Port",
         "zu": "Grand Port",
-        "zu_ZA": "Grand Port"
+        "zu_ZA": "Grand Port",
+        "sr@latin": "Grend Port",
+        "tt@iqtelif": "Grand Port"
     },
     "MO": {
         "af": "Moka",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Moka",
         "zh_Hant_TW": "Moka",
         "zu": "Moka",
-        "zu_ZA": "Moka"
+        "zu_ZA": "Moka",
+        "sr@latin": "Moka",
+        "tt@iqtelif": "Moka"
     },
     "PA": {
         "af": "Pamplemousses",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Pamplemousses",
         "zh_Hant_TW": "Pamplemousses",
         "zu": "Pamplemousses",
-        "zu_ZA": "Pamplemousses"
+        "zu_ZA": "Pamplemousses",
+        "sr@latin": "Pamplemus",
+        "tt@iqtelif": "Pamplemousses"
     },
     "PL": {
         "af": "Port Louis",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Port Louis",
         "zh_Hant_TW": "Port Louis",
         "zu": "Port Louis",
-        "zu_ZA": "Port Louis"
+        "zu_ZA": "Port Louis",
+        "sr@latin": "Port Luis",
+        "tt@iqtelif": "Port Louis"
     },
     "PW": {
         "af": "Plaines Wilhems",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Plaines Wilhems",
         "zh_Hant_TW": "Plaines Wilhems",
         "zu": "Plaines Wilhems",
-        "zu_ZA": "Plaines Wilhems"
+        "zu_ZA": "Plaines Wilhems",
+        "sr@latin": "Plaines Wilhems",
+        "tt@iqtelif": "Plaines Wilhems"
     },
     "RO": {
         "af": "Rodrigues Island",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Rodrigues Island",
         "zh_Hant_TW": "Rodrigues Island",
         "zu": "Rodrigues Island",
-        "zu_ZA": "Rodrigues Island"
+        "zu_ZA": "Rodrigues Island",
+        "sr@latin": "Rodrigues Island",
+        "tt@iqtelif": "Rodrigues Island"
     },
     "RR": {
         "af": "Rivière du Rempart",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Rivière du Rempart",
         "zh_Hant_TW": "Rivière du Rempart",
         "zu": "Rivière du Rempart",
-        "zu_ZA": "Rivière du Rempart"
+        "zu_ZA": "Rivière du Rempart",
+        "sr@latin": "Rivijer di Rampar",
+        "tt@iqtelif": "Rivière du Rempart"
     },
     "SA": {
         "af": "Savanne",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Savanne",
         "zh_Hant_TW": "Savanne",
         "zu": "Savanne",
-        "zu_ZA": "Savanne"
+        "zu_ZA": "Savanne",
+        "sr@latin": "Savane",
+        "tt@iqtelif": "Savanne"
     }
 }

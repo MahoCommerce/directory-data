@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Batha",
         "zh_Hant_TW": "Batha",
         "zu": "Batha",
-        "zu_ZA": "Batha"
+        "zu_ZA": "Batha",
+        "sr@latin": "Batha",
+        "tt@iqtelif": "Batha"
     },
     "BG": {
         "af": "Bahr el Ghazal",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bahr el Ghazal",
         "zh_Hant_TW": "Bahr el Ghazal",
         "zu": "Bahr el Ghazal",
-        "zu_ZA": "Bahr el Ghazal"
+        "zu_ZA": "Bahr el Ghazal",
+        "sr@latin": "Bahr el Ghazal",
+        "tt@iqtelif": "Bahr el Ghazal"
     },
     "BO": {
         "af": "Borkou",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Borkou",
         "zh_Hant_TW": "Borkou",
         "zu": "Borkou",
-        "zu_ZA": "Borkou"
+        "zu_ZA": "Borkou",
+        "sr@latin": "Borkou",
+        "tt@iqtelif": "Borkou"
     },
     "CB": {
         "af": "Chari-Baguirmi",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Chari-Baguirmi",
         "zh_Hant_TW": "Chari-Baguirmi",
         "zu": "Chari-Baguirmi",
-        "zu_ZA": "Chari-Baguirmi"
+        "zu_ZA": "Chari-Baguirmi",
+        "sr@latin": "Chari-Baguirmi",
+        "tt@iqtelif": "Chari-Baguirmi"
     },
     "EE": {
         "af": "Ennedi-Est",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Ennedi-Est",
         "zh_Hant_TW": "Ennedi-Est",
         "zu": "Ennedi-Est",
-        "zu_ZA": "Ennedi-Est"
+        "zu_ZA": "Ennedi-Est",
+        "sr@latin": "Ennedi-Est",
+        "tt@iqtelif": "Ennedi-Est"
     },
     "EO": {
         "af": "Ennedi-Ouest",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ennedi-Ouest",
         "zh_Hant_TW": "Ennedi-Ouest",
         "zu": "Ennedi-Ouest",
-        "zu_ZA": "Ennedi-Ouest"
+        "zu_ZA": "Ennedi-Ouest",
+        "sr@latin": "Ennedi-Ouest",
+        "tt@iqtelif": "Ennedi-Ouest"
     },
     "GR": {
         "af": "Guéra",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Guéra",
         "zh_Hant_TW": "Guéra",
         "zu": "Guéra",
-        "zu_ZA": "Guéra"
+        "zu_ZA": "Guéra",
+        "sr@latin": "Guéra",
+        "tt@iqtelif": "Guéra"
     },
     "HL": {
         "af": "Hadjer Lamis",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Hadjer Lamis",
         "zh_Hant_TW": "Hadjer Lamis",
         "zu": "Hadjer Lamis",
-        "zu_ZA": "Hadjer Lamis"
+        "zu_ZA": "Hadjer Lamis",
+        "sr@latin": "Hadjer Lamis",
+        "tt@iqtelif": "Hadjer Lamis"
     },
     "KA": {
         "af": "Kanem",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kanem",
         "zh_Hant_TW": "Kanem",
         "zu": "Kanem",
-        "zu_ZA": "Kanem"
+        "zu_ZA": "Kanem",
+        "sr@latin": "Kanem",
+        "tt@iqtelif": "Kanem"
     },
     "LC": {
         "af": "Lac",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Lac",
         "zh_Hant_TW": "Lac",
         "zu": "Lac",
-        "zu_ZA": "Lac"
+        "zu_ZA": "Lac",
+        "sr@latin": "Lac",
+        "tt@iqtelif": "Lac"
     },
     "LO": {
         "af": "Logone-Occidental",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Logone-Occidental",
         "zh_Hant_TW": "Logone-Occidental",
         "zu": "Logone-Occidental",
-        "zu_ZA": "Logone-Occidental"
+        "zu_ZA": "Logone-Occidental",
+        "sr@latin": "Logone-Occidental",
+        "tt@iqtelif": "Logone-Occidental"
     },
     "LR": {
         "af": "Logone-Oriental",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Logone-Oriental",
         "zh_Hant_TW": "Logone-Oriental",
         "zu": "Logone-Oriental",
-        "zu_ZA": "Logone-Oriental"
+        "zu_ZA": "Logone-Oriental",
+        "sr@latin": "Logone-Oriental",
+        "tt@iqtelif": "Logone-Oriental"
     },
     "MA": {
         "af": "Mandoul",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Mandoul",
         "zh_Hant_TW": "Mandoul",
         "zu": "Mandoul",
-        "zu_ZA": "Mandoul"
+        "zu_ZA": "Mandoul",
+        "sr@latin": "Mandoul",
+        "tt@iqtelif": "Mandoul"
     },
     "MC": {
         "af": "Moyen-Chari",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Moyen-Chari",
         "zh_Hant_TW": "Moyen-Chari",
         "zu": "Moyen-Chari",
-        "zu_ZA": "Moyen-Chari"
+        "zu_ZA": "Moyen-Chari",
+        "sr@latin": "Moyen-Chari",
+        "tt@iqtelif": "Moyen-Chari"
     },
     "ME": {
         "af": "Mayo-Kebbi-Est",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Mayo-Kebbi-Est",
         "zh_Hant_TW": "Mayo-Kebbi-Est",
         "zu": "Mayo-Kebbi-Est",
-        "zu_ZA": "Mayo-Kebbi-Est"
+        "zu_ZA": "Mayo-Kebbi-Est",
+        "sr@latin": "Mayo-Kebbi-Est",
+        "tt@iqtelif": "Mayo-Kebbi-Est"
     },
     "MO": {
         "af": "Mayo-Kebbi-Ouest",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Mayo-Kebbi-Ouest",
         "zh_Hant_TW": "Mayo-Kebbi-Ouest",
         "zu": "Mayo-Kebbi-Ouest",
-        "zu_ZA": "Mayo-Kebbi-Ouest"
+        "zu_ZA": "Mayo-Kebbi-Ouest",
+        "sr@latin": "Mayo-Kebbi-Ouest",
+        "tt@iqtelif": "Mayo-Kebbi-Ouest"
     },
     "ND": {
         "af": "Ville de Ndjamena",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Ville de Ndjamena",
         "zh_Hant_TW": "Ville de Ndjamena",
         "zu": "Ville de Ndjamena",
-        "zu_ZA": "Ville de Ndjamena"
+        "zu_ZA": "Ville de Ndjamena",
+        "sr@latin": "Ville de Ndjamena",
+        "tt@iqtelif": "Ville de Ndjamena"
     },
     "OD": {
         "af": "Ouaddaï",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Ouaddaï",
         "zh_Hant_TW": "Ouaddaï",
         "zu": "Ouaddaï",
-        "zu_ZA": "Ouaddaï"
+        "zu_ZA": "Ouaddaï",
+        "sr@latin": "Ouaddaï",
+        "tt@iqtelif": "Ouaddaï"
     },
     "SA": {
         "af": "Salamat",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Salamat",
         "zh_Hant_TW": "Salamat",
         "zu": "Salamat",
-        "zu_ZA": "Salamat"
+        "zu_ZA": "Salamat",
+        "sr@latin": "Salamat",
+        "tt@iqtelif": "Salamat"
     },
     "SI": {
         "af": "Sila",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Sila",
         "zh_Hant_TW": "Sila",
         "zu": "Sila",
-        "zu_ZA": "Sila"
+        "zu_ZA": "Sila",
+        "sr@latin": "Sila",
+        "tt@iqtelif": "Sila"
     },
     "TA": {
         "af": "Tandjilé",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Tandjilé",
         "zh_Hant_TW": "Tandjilé",
         "zu": "Tandjilé",
-        "zu_ZA": "Tandjilé"
+        "zu_ZA": "Tandjilé",
+        "sr@latin": "Tandjilé",
+        "tt@iqtelif": "Tandjilé"
     },
     "TI": {
         "af": "Tibesti",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Tibesti",
         "zh_Hant_TW": "Tibesti",
         "zu": "Tibesti",
-        "zu_ZA": "Tibesti"
+        "zu_ZA": "Tibesti",
+        "sr@latin": "Tibesti",
+        "tt@iqtelif": "Tibesti"
     },
     "WF": {
         "af": "Wadi Fira",
@@ -20306,6 +20350,8 @@
         "zh_Hant_MY": "Wadi Fira",
         "zh_Hant_TW": "Wadi Fira",
         "zu": "Wadi Fira",
-        "zu_ZA": "Wadi Fira"
+        "zu_ZA": "Wadi Fira",
+        "sr@latin": "Wadi Fira",
+        "tt@iqtelif": "Wadi Fira"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Abia",
         "zh_Hant_TW": "Abia",
         "zu": "Abia",
-        "zu_ZA": "Abia"
+        "zu_ZA": "Abia",
+        "sr@latin": "Abia",
+        "tt@iqtelif": "Abia"
     },
     "AD": {
         "af": "Adamawa",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Adamawa",
         "zh_Hant_TW": "Adamawa",
         "zu": "Adamawa",
-        "zu_ZA": "Adamawa"
+        "zu_ZA": "Adamawa",
+        "sr@latin": "Adamava",
+        "tt@iqtelif": "Adamawa"
     },
     "AK": {
         "af": "Akwa Ibom",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Akwa Ibom",
         "zh_Hant_TW": "Akwa Ibom",
         "zu": "Akwa Ibom",
-        "zu_ZA": "Akwa Ibom"
+        "zu_ZA": "Akwa Ibom",
+        "sr@latin": "Akva Ibom",
+        "tt@iqtelif": "Akwa Ibom"
     },
     "AN": {
         "af": "Anambra",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Anambra",
         "zh_Hant_TW": "Anambra",
         "zu": "Anambra",
-        "zu_ZA": "Anambra"
+        "zu_ZA": "Anambra",
+        "sr@latin": "Anambra",
+        "tt@iqtelif": "Anambra"
     },
     "BA": {
         "af": "Bauchi",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Bauchi",
         "zh_Hant_TW": "Bauchi",
         "zu": "Bauchi",
-        "zu_ZA": "Bauchi"
+        "zu_ZA": "Bauchi",
+        "sr@latin": "Boši",
+        "tt@iqtelif": "Bauchi"
     },
     "BE": {
         "af": "Benue",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Benue",
         "zh_Hant_TW": "Benue",
         "zu": "Benue",
-        "zu_ZA": "Benue"
+        "zu_ZA": "Benue",
+        "sr@latin": "Benju",
+        "tt@iqtelif": "Benue"
     },
     "BO": {
         "af": "Borno",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Borno",
         "zh_Hant_TW": "Borno",
         "zu": "Borno",
-        "zu_ZA": "Borno"
+        "zu_ZA": "Borno",
+        "sr@latin": "Borno",
+        "tt@iqtelif": "Borno"
     },
     "BY": {
         "af": "Bayelsa",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Bayelsa",
         "zh_Hant_TW": "Bayelsa",
         "zu": "Bayelsa",
-        "zu_ZA": "Bayelsa"
+        "zu_ZA": "Bayelsa",
+        "sr@latin": "Bajelsa",
+        "tt@iqtelif": "Bayelsa"
     },
     "CR": {
         "af": "Cross River",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Cross River",
         "zh_Hant_TW": "Cross River",
         "zu": "Cross River",
-        "zu_ZA": "Cross River"
+        "zu_ZA": "Cross River",
+        "sr@latin": "Kros River",
+        "tt@iqtelif": "Cross River"
     },
     "DE": {
         "af": "Delta",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Delta",
         "zh_Hant_TW": "Delta",
         "zu": "Delta",
-        "zu_ZA": "Delta"
+        "zu_ZA": "Delta",
+        "sr@latin": "Delta",
+        "tt@iqtelif": "Delta"
     },
     "EB": {
         "af": "Ebonyi",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Ebonyi",
         "zh_Hant_TW": "Ebonyi",
         "zu": "Ebonyi",
-        "zu_ZA": "Ebonyi"
+        "zu_ZA": "Ebonyi",
+        "sr@latin": "Ebonyi",
+        "tt@iqtelif": "Ebonyi"
     },
     "ED": {
         "af": "Edo",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Edo",
         "zh_Hant_TW": "Edo",
         "zu": "Edo",
-        "zu_ZA": "Edo"
+        "zu_ZA": "Edo",
+        "sr@latin": "Edo",
+        "tt@iqtelif": "Edo"
     },
     "EK": {
         "af": "Ekiti",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Ekiti",
         "zh_Hant_TW": "Ekiti",
         "zu": "Ekiti",
-        "zu_ZA": "Ekiti"
+        "zu_ZA": "Ekiti",
+        "sr@latin": "Ekiti",
+        "tt@iqtelif": "Ekiti"
     },
     "EN": {
         "af": "Enugu",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Enugu",
         "zh_Hant_TW": "Enugu",
         "zu": "Enugu",
-        "zu_ZA": "Enugu"
+        "zu_ZA": "Enugu",
+        "sr@latin": "Enugu",
+        "tt@iqtelif": "Enugu"
     },
     "FC": {
         "af": "Abuja Federal Capital Territory",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Abuja Federal Capital Territory",
         "zh_Hant_TW": "Abuja Federal Capital Territory",
         "zu": "Abuja Federal Capital Territory",
-        "zu_ZA": "Abuja Federal Capital Territory"
+        "zu_ZA": "Abuja Federal Capital Territory",
+        "sr@latin": "Abuja Federal Capital Territory",
+        "tt@iqtelif": "Abuja Federal Capital Territory"
     },
     "GO": {
         "af": "Gombe",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Gombe",
         "zh_Hant_TW": "Gombe",
         "zu": "Gombe",
-        "zu_ZA": "Gombe"
+        "zu_ZA": "Gombe",
+        "sr@latin": "Gombe",
+        "tt@iqtelif": "Gombe"
     },
     "IM": {
         "af": "Imo",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Imo",
         "zh_Hant_TW": "Imo",
         "zu": "Imo",
-        "zu_ZA": "Imo"
+        "zu_ZA": "Imo",
+        "sr@latin": "Imo",
+        "tt@iqtelif": "Imo"
     },
     "JI": {
         "af": "Jigawa",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Jigawa",
         "zh_Hant_TW": "Jigawa",
         "zu": "Jigawa",
-        "zu_ZA": "Jigawa"
+        "zu_ZA": "Jigawa",
+        "sr@latin": "Jigawa",
+        "tt@iqtelif": "Jigawa"
     },
     "KD": {
         "af": "Kaduna",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Kaduna",
         "zh_Hant_TW": "Kaduna",
         "zu": "Kaduna",
-        "zu_ZA": "Kaduna"
+        "zu_ZA": "Kaduna",
+        "sr@latin": "Kaduna",
+        "tt@iqtelif": "Kaduna"
     },
     "KE": {
         "af": "Kebbi",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Kebbi",
         "zh_Hant_TW": "Kebbi",
         "zu": "Kebbi",
-        "zu_ZA": "Kebbi"
+        "zu_ZA": "Kebbi",
+        "sr@latin": "Kebi",
+        "tt@iqtelif": "Kebbi"
     },
     "KN": {
         "af": "Kano",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Kano",
         "zh_Hant_TW": "Kano",
         "zu": "Kano",
-        "zu_ZA": "Kano"
+        "zu_ZA": "Kano",
+        "sr@latin": "Kano",
+        "tt@iqtelif": "Kano"
     },
     "KO": {
         "af": "Kogi",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Kogi",
         "zh_Hant_TW": "Kogi",
         "zu": "Kogi",
-        "zu_ZA": "Kogi"
+        "zu_ZA": "Kogi",
+        "sr@latin": "Kogi",
+        "tt@iqtelif": "Kogi"
     },
     "KT": {
         "af": "Katsina",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Katsina",
         "zh_Hant_TW": "Katsina",
         "zu": "Katsina",
-        "zu_ZA": "Katsina"
+        "zu_ZA": "Katsina",
+        "sr@latin": "Katsina",
+        "tt@iqtelif": "Katsina"
     },
     "KW": {
         "af": "Kwara",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Kwara",
         "zh_Hant_TW": "Kwara",
         "zu": "Kwara",
-        "zu_ZA": "Kwara"
+        "zu_ZA": "Kwara",
+        "sr@latin": "Kvara",
+        "tt@iqtelif": "Kwara"
     },
     "LA": {
         "af": "Lagos",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Lagos",
         "zh_Hant_TW": "Lagos",
         "zu": "Lagos",
-        "zu_ZA": "Lagos"
+        "zu_ZA": "Lagos",
+        "sr@latin": "Lagos",
+        "tt@iqtelif": "Lagos"
     },
     "NA": {
         "af": "Nasarawa",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Nasarawa",
         "zh_Hant_TW": "Nasarawa",
         "zu": "Nasarawa",
-        "zu_ZA": "Nasarawa"
+        "zu_ZA": "Nasarawa",
+        "sr@latin": "Nasarawa",
+        "tt@iqtelif": "Nasarawa"
     },
     "NI": {
         "af": "Niger",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Niger",
         "zh_Hant_TW": "Niger",
         "zu": "Niger",
-        "zu_ZA": "Niger"
+        "zu_ZA": "Niger",
+        "sr@latin": "Niger",
+        "tt@iqtelif": "Niger"
     },
     "OG": {
         "af": "Ogun",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Ogun",
         "zh_Hant_TW": "Ogun",
         "zu": "Ogun",
-        "zu_ZA": "Ogun"
+        "zu_ZA": "Ogun",
+        "sr@latin": "Ogun",
+        "tt@iqtelif": "Ogun"
     },
     "ON": {
         "af": "Ondo",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Ondo",
         "zh_Hant_TW": "Ondo",
         "zu": "Ondo",
-        "zu_ZA": "Ondo"
+        "zu_ZA": "Ondo",
+        "sr@latin": "Ondo",
+        "tt@iqtelif": "Ondo"
     },
     "OS": {
         "af": "Osun",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Osun",
         "zh_Hant_TW": "Osun",
         "zu": "Osun",
-        "zu_ZA": "Osun"
+        "zu_ZA": "Osun",
+        "sr@latin": "Osun",
+        "tt@iqtelif": "Osun"
     },
     "OY": {
         "af": "Oyo",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Oyo",
         "zh_Hant_TW": "Oyo",
         "zu": "Oyo",
-        "zu_ZA": "Oyo"
+        "zu_ZA": "Oyo",
+        "sr@latin": "Ojo",
+        "tt@iqtelif": "Oyo"
     },
     "PL": {
         "af": "Plateau",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Plateau",
         "zh_Hant_TW": "Plateau",
         "zu": "Plateau",
-        "zu_ZA": "Plateau"
+        "zu_ZA": "Plateau",
+        "sr@latin": "Plato",
+        "tt@iqtelif": "Plateau"
     },
     "RI": {
         "af": "Rivers",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Rivers",
         "zh_Hant_TW": "Rivers",
         "zu": "Rivers",
-        "zu_ZA": "Rivers"
+        "zu_ZA": "Rivers",
+        "sr@latin": "Rivers",
+        "tt@iqtelif": "Rivers"
     },
     "SO": {
         "af": "Sokoto",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Sokoto",
         "zh_Hant_TW": "Sokoto",
         "zu": "Sokoto",
-        "zu_ZA": "Sokoto"
+        "zu_ZA": "Sokoto",
+        "sr@latin": "Sokoto",
+        "tt@iqtelif": "Sokoto"
     },
     "TA": {
         "af": "Taraba",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Taraba",
         "zh_Hant_TW": "Taraba",
         "zu": "Taraba",
-        "zu_ZA": "Taraba"
+        "zu_ZA": "Taraba",
+        "sr@latin": "Taraba",
+        "tt@iqtelif": "Taraba"
     },
     "YO": {
         "af": "Yobe",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Yobe",
         "zh_Hant_TW": "Yobe",
         "zu": "Yobe",
-        "zu_ZA": "Yobe"
+        "zu_ZA": "Yobe",
+        "sr@latin": "Jobe",
+        "tt@iqtelif": "Yobe"
     },
     "ZA": {
         "af": "Zamfara",
@@ -32668,6 +32740,8 @@
         "zh_Hant_MY": "Zamfara",
         "zh_Hant_TW": "Zamfara",
         "zu": "Zamfara",
-        "zu_ZA": "Zamfara"
+        "zu_ZA": "Zamfara",
+        "sr@latin": "Zamfara",
+        "tt@iqtelif": "Zamfara"
     }
 }

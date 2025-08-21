@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Abkhazia",
         "zh_Hant_TW": "Abkhazia",
         "zu": "Abkhazia",
-        "zu_ZA": "Abkhazia"
+        "zu_ZA": "Abkhazia",
+        "sr@latin": "Abacija",
+        "tt@iqtelif": "Abkhazia"
     },
     "AJ": {
         "af": "Ajaria",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ajaria",
         "zh_Hant_TW": "Ajaria",
         "zu": "Ajaria",
-        "zu_ZA": "Ajaria"
+        "zu_ZA": "Ajaria",
+        "sr@latin": "Adžarija",
+        "tt@iqtelif": "Ajaria"
     },
     "GU": {
         "af": "Guria",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Guria",
         "zh_Hant_TW": "Guria",
         "zu": "Guria",
-        "zu_ZA": "Guria"
+        "zu_ZA": "Guria",
+        "sr@latin": "Gurja",
+        "tt@iqtelif": "Guria"
     },
     "IM": {
         "af": "Imereti",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Imereti",
         "zh_Hant_TW": "Imereti",
         "zu": "Imereti",
-        "zu_ZA": "Imereti"
+        "zu_ZA": "Imereti",
+        "sr@latin": "Imereti",
+        "tt@iqtelif": "Imereti"
     },
     "KA": {
         "af": "K'akheti",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "K'akheti",
         "zh_Hant_TW": "K'akheti",
         "zu": "K'akheti",
-        "zu_ZA": "K'akheti"
+        "zu_ZA": "K'akheti",
+        "sr@latin": "K'akheti",
+        "tt@iqtelif": "K'akheti"
     },
     "KK": {
         "af": "Kvemo Kartli",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Kvemo Kartli",
         "zh_Hant_TW": "Kvemo Kartli",
         "zu": "Kvemo Kartli",
-        "zu_ZA": "Kvemo Kartli"
+        "zu_ZA": "Kvemo Kartli",
+        "sr@latin": "Kvemo Kartli",
+        "tt@iqtelif": "Kvemo Kartli"
     },
     "MM": {
         "af": "Mtskheta-Mtianeti",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Mtskheta-Mtianeti",
         "zh_Hant_TW": "Mtskheta-Mtianeti",
         "zu": "Mtskheta-Mtianeti",
-        "zu_ZA": "Mtskheta-Mtianeti"
+        "zu_ZA": "Mtskheta-Mtianeti",
+        "sr@latin": "Mtskheta-Mtianeti",
+        "tt@iqtelif": "Mtskheta-Mtianeti"
     },
     "RL": {
         "af": "Rach'a-Lechkhumi-Kvemo Svaneti",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "zh_Hant_TW": "Rach'a-Lechkhumi-Kvemo Svaneti",
         "zu": "Rach'a-Lechkhumi-Kvemo Svaneti",
-        "zu_ZA": "Rach'a-Lechkhumi-Kvemo Svaneti"
+        "zu_ZA": "Rach'a-Lechkhumi-Kvemo Svaneti",
+        "sr@latin": "Rach'a-Lechkhumi-Kvemo Svaneti",
+        "tt@iqtelif": "Rach'a-Lechkhumi-Kvemo Svaneti"
     },
     "SJ": {
         "af": "Samtskhe-Javakheti",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Samtskhe-Javakheti",
         "zh_Hant_TW": "Samtskhe-Javakheti",
         "zu": "Samtskhe-Javakheti",
-        "zu_ZA": "Samtskhe-Javakheti"
+        "zu_ZA": "Samtskhe-Javakheti",
+        "sr@latin": "Samtskhe-Javakheti",
+        "tt@iqtelif": "Samtskhe-Javakheti"
     },
     "SK": {
         "af": "Shida Kartli",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Shida Kartli",
         "zh_Hant_TW": "Shida Kartli",
         "zu": "Shida Kartli",
-        "zu_ZA": "Shida Kartli"
+        "zu_ZA": "Shida Kartli",
+        "sr@latin": "Shida Kartli",
+        "tt@iqtelif": "Shida Kartli"
     },
     "SZ": {
         "af": "Samegrelo-Zemo Svaneti",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Samegrelo-Zemo Svaneti",
         "zh_Hant_TW": "Samegrelo-Zemo Svaneti",
         "zu": "Samegrelo-Zemo Svaneti",
-        "zu_ZA": "Samegrelo-Zemo Svaneti"
+        "zu_ZA": "Samegrelo-Zemo Svaneti",
+        "sr@latin": "Samegrelo-Zemo Svaneti",
+        "tt@iqtelif": "Samegrelo-Zemo Svaneti"
     },
     "TB": {
         "af": "Tbilisi",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Tbilisi",
         "zh_Hant_TW": "Tbilisi",
         "zu": "Tbilisi",
-        "zu_ZA": "Tbilisi"
+        "zu_ZA": "Tbilisi",
+        "sr@latin": "Tbilisi",
+        "tt@iqtelif": "Tbilisi"
     }
 }

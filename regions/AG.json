@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George"
+        "zu_ZA": "Saint George",
+        "sr@latin": "Sent Džordž",
+        "tt@iqtelif": "Saint George"
     },
     "04": {
         "af": "Saint John",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John"
+        "zu_ZA": "Saint John",
+        "sr@latin": "Sent Džon",
+        "tt@iqtelif": "Saint John"
     },
     "05": {
         "af": "Saint Mary",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Saint Mary",
         "zh_Hant_TW": "Saint Mary",
         "zu": "Saint Mary",
-        "zu_ZA": "Saint Mary"
+        "zu_ZA": "Saint Mary",
+        "sr@latin": "Sent Meri",
+        "tt@iqtelif": "Saint Mary"
     },
     "06": {
         "af": "Saint Paul",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Saint Paul",
         "zh_Hant_TW": "Saint Paul",
         "zu": "Saint Paul",
-        "zu_ZA": "Saint Paul"
+        "zu_ZA": "Saint Paul",
+        "sr@latin": "Sveti Pavle",
+        "tt@iqtelif": "Saint Paul"
     },
     "07": {
         "af": "Saint Peter",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Saint Peter",
         "zh_Hant_TW": "Saint Peter",
         "zu": "Saint Peter",
-        "zu_ZA": "Saint Peter"
+        "zu_ZA": "Saint Peter",
+        "sr@latin": "Sveti Petar",
+        "tt@iqtelif": "Saint Peter"
     },
     "08": {
         "af": "Saint Philip",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Saint Philip",
         "zh_Hant_TW": "Saint Philip",
         "zu": "Saint Philip",
-        "zu_ZA": "Saint Philip"
+        "zu_ZA": "Saint Philip",
+        "sr@latin": "Sveti Filip",
+        "tt@iqtelif": "Saint Philip"
     },
     "10": {
         "af": "Barbuda",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Barbuda",
         "zh_Hant_TW": "Barbuda",
         "zu": "Barbuda",
-        "zu_ZA": "Barbuda"
+        "zu_ZA": "Barbuda",
+        "sr@latin": "Barbuda",
+        "tt@iqtelif": "Barbuda"
     },
     "11": {
         "af": "Redonda",
@@ -7061,6 +7075,8 @@
         "zh_Hant_MY": "Redonda",
         "zh_Hant_TW": "Redonda",
         "zu": "Redonda",
-        "zu_ZA": "Redonda"
+        "zu_ZA": "Redonda",
+        "sr@latin": "Redonda",
+        "tt@iqtelif": "Redonda"
     }
 }

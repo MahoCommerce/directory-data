@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Kingston",
         "zh_Hant_TW": "Kingston",
         "zu": "Kingston",
-        "zu_ZA": "Kingston"
+        "zu_ZA": "Kingston",
+        "sr@latin": "Kingston",
+        "tt@iqtelif": "Kingston"
     },
     "02": {
         "af": "Saint Andrew",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew"
+        "zu_ZA": "Saint Andrew",
+        "sr@latin": "Sveti Andreja",
+        "tt@iqtelif": "Saint Andrew"
     },
     "03": {
         "af": "Saint Thomas",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Saint Thomas",
         "zh_Hant_TW": "Saint Thomas",
         "zu": "Saint Thomas",
-        "zu_ZA": "Saint Thomas"
+        "zu_ZA": "Saint Thomas",
+        "sr@latin": "Sveti Toma",
+        "tt@iqtelif": "Saint Thomas"
     },
     "04": {
         "af": "Portland",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Portland",
         "zh_Hant_TW": "Portland",
         "zu": "Portland",
-        "zu_ZA": "Portland"
+        "zu_ZA": "Portland",
+        "sr@latin": "Portland",
+        "tt@iqtelif": "Portland"
     },
     "05": {
         "af": "Saint Mary",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Saint Mary",
         "zh_Hant_TW": "Saint Mary",
         "zu": "Saint Mary",
-        "zu_ZA": "Saint Mary"
+        "zu_ZA": "Saint Mary",
+        "sr@latin": "Sent Meri",
+        "tt@iqtelif": "Saint Mary"
     },
     "06": {
         "af": "Saint Ann",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Saint Ann",
         "zh_Hant_TW": "Saint Ann",
         "zu": "Saint Ann",
-        "zu_ZA": "Saint Ann"
+        "zu_ZA": "Saint Ann",
+        "sr@latin": "Sveta Ana",
+        "tt@iqtelif": "Saint Ann"
     },
     "07": {
         "af": "Trelawny",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Trelawny",
         "zh_Hant_TW": "Trelawny",
         "zu": "Trelawny",
-        "zu_ZA": "Trelawny"
+        "zu_ZA": "Trelawny",
+        "sr@latin": "Trelawny",
+        "tt@iqtelif": "Trelawny"
     },
     "08": {
         "af": "Saint James",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Saint James",
         "zh_Hant_TW": "Saint James",
         "zu": "Saint James",
-        "zu_ZA": "Saint James"
+        "zu_ZA": "Saint James",
+        "sr@latin": "Sveti Džejms",
+        "tt@iqtelif": "Saint James"
     },
     "09": {
         "af": "Hanover",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Hanover",
         "zh_Hant_TW": "Hanover",
         "zu": "Hanover",
-        "zu_ZA": "Hanover"
+        "zu_ZA": "Hanover",
+        "sr@latin": "Hanover",
+        "tt@iqtelif": "Hanover"
     },
     "10": {
         "af": "Westmoreland",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Westmoreland",
         "zh_Hant_TW": "Westmoreland",
         "zu": "Westmoreland",
-        "zu_ZA": "Westmoreland"
+        "zu_ZA": "Westmoreland",
+        "sr@latin": "Vestmoreland",
+        "tt@iqtelif": "Westmoreland"
     },
     "11": {
         "af": "Saint Elizabeth",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Saint Elizabeth",
         "zh_Hant_TW": "Saint Elizabeth",
         "zu": "Saint Elizabeth",
-        "zu_ZA": "Saint Elizabeth"
+        "zu_ZA": "Saint Elizabeth",
+        "sr@latin": "Sent Elizabet",
+        "tt@iqtelif": "Saint Elizabeth"
     },
     "12": {
         "af": "Manchester",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Manchester",
         "zh_Hant_TW": "Manchester",
         "zu": "Manchester",
-        "zu_ZA": "Manchester"
+        "zu_ZA": "Manchester",
+        "sr@latin": "Mančester",
+        "tt@iqtelif": "Manchester"
     },
     "13": {
         "af": "Clarendon",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Clarendon",
         "zh_Hant_TW": "Clarendon",
         "zu": "Clarendon",
-        "zu_ZA": "Clarendon"
+        "zu_ZA": "Clarendon",
+        "sr@latin": "Klarendon",
+        "tt@iqtelif": "Clarendon"
     },
     "14": {
         "af": "Saint Catherine",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Saint Catherine",
         "zh_Hant_TW": "Saint Catherine",
         "zu": "Saint Catherine",
-        "zu_ZA": "Saint Catherine"
+        "zu_ZA": "Saint Catherine",
+        "sr@latin": "Sent Katren",
+        "tt@iqtelif": "Saint Catherine"
     }
 }

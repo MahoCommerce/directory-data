@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Anse aux Pins",
         "zh_Hant_TW": "Anse aux Pins",
         "zu": "Anse aux Pins",
-        "zu_ZA": "Anse aux Pins"
+        "zu_ZA": "Anse aux Pins",
+        "sr@latin": "Ans o Pan",
+        "tt@iqtelif": "Anse aux Pins"
     },
     "02": {
         "af": "Anse Boileau",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Anse Boileau",
         "zh_Hant_TW": "Anse Boileau",
         "zu": "Anse Boileau",
-        "zu_ZA": "Anse Boileau"
+        "zu_ZA": "Anse Boileau",
+        "sr@latin": "Ans Bualo",
+        "tt@iqtelif": "Anse Boileau"
     },
     "03": {
         "af": "Anse Etoile",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Anse Etoile",
         "zh_Hant_TW": "Anse Etoile",
         "zu": "Anse Etoile",
-        "zu_ZA": "Anse Etoile"
+        "zu_ZA": "Anse Etoile",
+        "sr@latin": "Ans Etuaj",
+        "tt@iqtelif": "Anse Etoile"
     },
     "04": {
         "af": "Au Cap",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Au Cap",
         "zh_Hant_TW": "Au Cap",
         "zu": "Au Cap",
-        "zu_ZA": "Au Cap"
+        "zu_ZA": "Au Cap",
+        "sr@latin": "Au Cap",
+        "tt@iqtelif": "Au Cap"
     },
     "05": {
         "af": "Anse Royale",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Anse Royale",
         "zh_Hant_TW": "Anse Royale",
         "zu": "Anse Royale",
-        "zu_ZA": "Anse Royale"
+        "zu_ZA": "Anse Royale",
+        "sr@latin": "Ans Ruajal",
+        "tt@iqtelif": "Anse Royale"
     },
     "06": {
         "af": "Baie Lazare",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Baie Lazare",
         "zh_Hant_TW": "Baie Lazare",
         "zu": "Baie Lazare",
-        "zu_ZA": "Baie Lazare"
+        "zu_ZA": "Baie Lazare",
+        "sr@latin": "Baje Lazare",
+        "tt@iqtelif": "Baie Lazare"
     },
     "07": {
         "af": "Baie Sainte Anne",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Baie Sainte Anne",
         "zh_Hant_TW": "Baie Sainte Anne",
         "zu": "Baie Sainte Anne",
-        "zu_ZA": "Baie Sainte Anne"
+        "zu_ZA": "Baie Sainte Anne",
+        "sr@latin": "Baja Sent Ana",
+        "tt@iqtelif": "Baie Sainte Anne"
     },
     "08": {
         "af": "Beau Vallon",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Beau Vallon",
         "zh_Hant_TW": "Beau Vallon",
         "zu": "Beau Vallon",
-        "zu_ZA": "Beau Vallon"
+        "zu_ZA": "Beau Vallon",
+        "sr@latin": "Bo Valon",
+        "tt@iqtelif": "Beau Vallon"
     },
     "09": {
         "af": "Bel Air",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Bel Air",
         "zh_Hant_TW": "Bel Air",
         "zu": "Bel Air",
-        "zu_ZA": "Bel Air"
+        "zu_ZA": "Bel Air",
+        "sr@latin": "Bel Er",
+        "tt@iqtelif": "Bel Air"
     },
     "10": {
         "af": "Bel Ombre",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Bel Ombre",
         "zh_Hant_TW": "Bel Ombre",
         "zu": "Bel Ombre",
-        "zu_ZA": "Bel Ombre"
+        "zu_ZA": "Bel Ombre",
+        "sr@latin": "Bel Ombre",
+        "tt@iqtelif": "Bel Ombre"
     },
     "11": {
         "af": "Cascade",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Cascade",
         "zh_Hant_TW": "Cascade",
         "zu": "Cascade",
-        "zu_ZA": "Cascade"
+        "zu_ZA": "Cascade",
+        "sr@latin": "Kaskejd",
+        "tt@iqtelif": "Cascade"
     },
     "12": {
         "af": "Glacis",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Glacis",
         "zh_Hant_TW": "Glacis",
         "zu": "Glacis",
-        "zu_ZA": "Glacis"
+        "zu_ZA": "Glacis",
+        "sr@latin": "Glacis",
+        "tt@iqtelif": "Glacis"
     },
     "13": {
         "af": "Grand Anse Mahe",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Grand Anse Mahe",
         "zh_Hant_TW": "Grand Anse Mahe",
         "zu": "Grand Anse Mahe",
-        "zu_ZA": "Grand Anse Mahe"
+        "zu_ZA": "Grand Anse Mahe",
+        "sr@latin": "Grend Ans Mah",
+        "tt@iqtelif": "Grand Anse Mahe"
     },
     "14": {
         "af": "Grand Anse Praslin",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Grand Anse Praslin",
         "zh_Hant_TW": "Grand Anse Praslin",
         "zu": "Grand Anse Praslin",
-        "zu_ZA": "Grand Anse Praslin"
+        "zu_ZA": "Grand Anse Praslin",
+        "sr@latin": "Gren Ans Praslin",
+        "tt@iqtelif": "Grand Anse Praslin"
     },
     "15": {
         "af": "La Digue",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "La Digue",
         "zh_Hant_TW": "La Digue",
         "zu": "La Digue",
-        "zu_ZA": "La Digue"
+        "zu_ZA": "La Digue",
+        "sr@latin": "La Dig",
+        "tt@iqtelif": "La Digue"
     },
     "16": {
         "af": "English River",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "English River",
         "zh_Hant_TW": "English River",
         "zu": "English River",
-        "zu_ZA": "English River"
+        "zu_ZA": "English River",
+        "sr@latin": "Ingliš River",
+        "tt@iqtelif": "English River"
     },
     "17": {
         "af": "Mont Buxton",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Mont Buxton",
         "zh_Hant_TW": "Mont Buxton",
         "zu": "Mont Buxton",
-        "zu_ZA": "Mont Buxton"
+        "zu_ZA": "Mont Buxton",
+        "sr@latin": "Mont Bakston",
+        "tt@iqtelif": "Mont Buxton"
     },
     "18": {
         "af": "Mont Fleuri",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Mont Fleuri",
         "zh_Hant_TW": "Mont Fleuri",
         "zu": "Mont Fleuri",
-        "zu_ZA": "Mont Fleuri"
+        "zu_ZA": "Mont Fleuri",
+        "sr@latin": "Mont Fleri",
+        "tt@iqtelif": "Mont Fleuri"
     },
     "19": {
         "af": "Plaisance",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Plaisance",
         "zh_Hant_TW": "Plaisance",
         "zu": "Plaisance",
-        "zu_ZA": "Plaisance"
+        "zu_ZA": "Plaisance",
+        "sr@latin": "Plezens",
+        "tt@iqtelif": "Plaisance"
     },
     "20": {
         "af": "Pointe Larue",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Pointe Larue",
         "zh_Hant_TW": "Pointe Larue",
         "zu": "Pointe Larue",
-        "zu_ZA": "Pointe Larue"
+        "zu_ZA": "Pointe Larue",
+        "sr@latin": "Puant Lari",
+        "tt@iqtelif": "Pointe Larue"
     },
     "21": {
         "af": "Port Glaud",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Port Glaud",
         "zh_Hant_TW": "Port Glaud",
         "zu": "Port Glaud",
-        "zu_ZA": "Port Glaud"
+        "zu_ZA": "Port Glaud",
+        "sr@latin": "Port Glod",
+        "tt@iqtelif": "Port Glaud"
     },
     "22": {
         "af": "Saint Louis",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Saint Louis",
         "zh_Hant_TW": "Saint Louis",
         "zu": "Saint Louis",
-        "zu_ZA": "Saint Louis"
+        "zu_ZA": "Saint Louis",
+        "sr@latin": "Sent Luis",
+        "tt@iqtelif": "Saint Louis"
     },
     "23": {
         "af": "Takamaka",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Takamaka",
         "zh_Hant_TW": "Takamaka",
         "zu": "Takamaka",
-        "zu_ZA": "Takamaka"
+        "zu_ZA": "Takamaka",
+        "sr@latin": "Takamaka",
+        "tt@iqtelif": "Takamaka"
     },
     "24": {
         "af": "Les Mamelles",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Les Mamelles",
         "zh_Hant_TW": "Les Mamelles",
         "zu": "Les Mamelles",
-        "zu_ZA": "Les Mamelles"
+        "zu_ZA": "Les Mamelles",
+        "sr@latin": "Le Mamel",
+        "tt@iqtelif": "Les Mamelles"
     },
     "25": {
         "af": "Roche Caiman",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Roche Caiman",
         "zh_Hant_TW": "Roche Caiman",
         "zu": "Roche Caiman",
-        "zu_ZA": "Roche Caiman"
+        "zu_ZA": "Roche Caiman",
+        "sr@latin": "Roche Caiman",
+        "tt@iqtelif": "Roche Caiman"
     },
     "26": {
         "af": "Ile Perseverance I",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Ile Perseverance I",
         "zh_Hant_TW": "Ile Perseverance I",
         "zu": "Ile Perseverance I",
-        "zu_ZA": "Ile Perseverance I"
+        "zu_ZA": "Ile Perseverance I",
+        "sr@latin": "Ile Perseverance I",
+        "tt@iqtelif": "Ile Perseverance I"
     },
     "27": {
         "af": "Ile Perseverance II",
@@ -23838,6 +23890,8 @@
         "zh_Hant_MY": "Ile Perseverance II",
         "zh_Hant_TW": "Ile Perseverance II",
         "zu": "Ile Perseverance II",
-        "zu_ZA": "Ile Perseverance II"
+        "zu_ZA": "Ile Perseverance II",
+        "sr@latin": "Ile Perseverance II",
+        "tt@iqtelif": "Ile Perseverance II"
     }
 }

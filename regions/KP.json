@@ -880,7 +880,9 @@
         "zh_Hant_MY": "P'yǒngyang",
         "zh_Hant_TW": "P'yǒngyang",
         "zu": "P'yǒngyang",
-        "zu_ZA": "P'yǒngyang"
+        "zu_ZA": "P'yǒngyang",
+        "sr@latin": "P'yǒngyang",
+        "tt@iqtelif": "P'yǒngyang"
     },
     "02": {
         "af": "P'yǒngan-namdo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "P'yǒngan-namdo",
         "zh_Hant_TW": "P'yǒngan-namdo",
         "zu": "P'yǒngan-namdo",
-        "zu_ZA": "P'yǒngan-namdo"
+        "zu_ZA": "P'yǒngan-namdo",
+        "sr@latin": "P'yǒngan-namdo",
+        "tt@iqtelif": "P'yǒngan-namdo"
     },
     "03": {
         "af": "P'yǒngan-bukto",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "P'yǒngan-bukto",
         "zh_Hant_TW": "P'yǒngan-bukto",
         "zu": "P'yǒngan-bukto",
-        "zu_ZA": "P'yǒngan-bukto"
+        "zu_ZA": "P'yǒngan-bukto",
+        "sr@latin": "P'yǒngan-bukto",
+        "tt@iqtelif": "P'yǒngan-bukto"
     },
     "04": {
         "af": "Chagang-do",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Chagang-do",
         "zh_Hant_TW": "Chagang-do",
         "zu": "Chagang-do",
-        "zu_ZA": "Chagang-do"
+        "zu_ZA": "Chagang-do",
+        "sr@latin": "Čagang-do",
+        "tt@iqtelif": "Chagang-do"
     },
     "05": {
         "af": "Hwanghae-namdo",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Hwanghae-namdo",
         "zh_Hant_TW": "Hwanghae-namdo",
         "zu": "Hwanghae-namdo",
-        "zu_ZA": "Hwanghae-namdo"
+        "zu_ZA": "Hwanghae-namdo",
+        "sr@latin": "Hwanghae-namdo",
+        "tt@iqtelif": "Hwanghae-namdo"
     },
     "06": {
         "af": "Hwanghae-bukto",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Hwanghae-bukto",
         "zh_Hant_TW": "Hwanghae-bukto",
         "zu": "Hwanghae-bukto",
-        "zu_ZA": "Hwanghae-bukto"
+        "zu_ZA": "Hwanghae-bukto",
+        "sr@latin": "Hwanghae-bukto",
+        "tt@iqtelif": "Hwanghae-bukto"
     },
     "07": {
         "af": "Kangweonto",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Kangweonto",
         "zh_Hant_TW": "Kangweonto",
         "zu": "Kangweonto",
-        "zu_ZA": "Kangweonto"
+        "zu_ZA": "Kangweonto",
+        "sr@latin": "Kangweonto",
+        "tt@iqtelif": "Kangweonto"
     },
     "08": {
         "af": "Hamgyǒng-namdo",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Hamgyǒng-namdo",
         "zh_Hant_TW": "Hamgyǒng-namdo",
         "zu": "Hamgyǒng-namdo",
-        "zu_ZA": "Hamgyǒng-namdo"
+        "zu_ZA": "Hamgyǒng-namdo",
+        "sr@latin": "Hamgyǒng-namdo",
+        "tt@iqtelif": "Hamgyǒng-namdo"
     },
     "09": {
         "af": "Hamgyǒng-bukto",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Hamgyǒng-bukto",
         "zh_Hant_TW": "Hamgyǒng-bukto",
         "zu": "Hamgyǒng-bukto",
-        "zu_ZA": "Hamgyǒng-bukto"
+        "zu_ZA": "Hamgyǒng-bukto",
+        "sr@latin": "Hamgyǒng-bukto",
+        "tt@iqtelif": "Hamgyǒng-bukto"
     },
     "10": {
         "af": "Ryanggang-do",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Ryanggang-do",
         "zh_Hant_TW": "Ryanggang-do",
         "zu": "Ryanggang-do",
-        "zu_ZA": "Ryanggang-do"
+        "zu_ZA": "Ryanggang-do",
+        "sr@latin": "Ryanggang-do",
+        "tt@iqtelif": "Ryanggang-do"
     },
     "13": {
         "af": "Raseon",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Raseon",
         "zh_Hant_TW": "Raseon",
         "zu": "Raseon",
-        "zu_ZA": "Raseon"
+        "zu_ZA": "Raseon",
+        "sr@latin": "Raseon",
+        "tt@iqtelif": "Raseon"
     },
     "14": {
         "af": "Nampho",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Nampho",
         "zh_Hant_TW": "Nampho",
         "zu": "Nampho",
-        "zu_ZA": "Nampho"
+        "zu_ZA": "Nampho",
+        "sr@latin": "Nampho",
+        "tt@iqtelif": "Nampho"
     },
     "15": {
         "af": "Kaeseong",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "Kaeseong",
         "zh_Hant_TW": "Kaeseong",
         "zu": "Kaeseong",
-        "zu_ZA": "Kaeseong"
+        "zu_ZA": "Kaeseong",
+        "sr@latin": "Kaeseong",
+        "tt@iqtelif": "Kaeseong"
     }
 }

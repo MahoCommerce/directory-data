@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central"
+        "zu_ZA": "Central",
+        "sr@latin": "Centralni",
+        "tt@iqtelif": "Central"
     },
     "CH": {
         "af": "Choiseul",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Choiseul",
         "zh_Hant_TW": "Choiseul",
         "zu": "Choiseul",
-        "zu_ZA": "Choiseul"
+        "zu_ZA": "Choiseul",
+        "sr@latin": "Šuazel",
+        "tt@iqtelif": "Choiseul"
     },
     "CT": {
         "af": "Capital Territory (Honiara)",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Capital Territory (Honiara)",
         "zh_Hant_TW": "Capital Territory (Honiara)",
         "zu": "Capital Territory (Honiara)",
-        "zu_ZA": "Capital Territory (Honiara)"
+        "zu_ZA": "Capital Territory (Honiara)",
+        "sr@latin": "Glavna teritorija (Honjara)",
+        "tt@iqtelif": "Capital Territory (Honiara)"
     },
     "GU": {
         "af": "Guadalcanal",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Guadalcanal",
         "zh_Hant_TW": "Guadalcanal",
         "zu": "Guadalcanal",
-        "zu_ZA": "Guadalcanal"
+        "zu_ZA": "Guadalcanal",
+        "sr@latin": "Gvadalkanal",
+        "tt@iqtelif": "Guadalcanal"
     },
     "IS": {
         "af": "Isabel",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Isabel",
         "zh_Hant_TW": "Isabel",
         "zu": "Isabel",
-        "zu_ZA": "Isabel"
+        "zu_ZA": "Isabel",
+        "sr@latin": "Izabel",
+        "tt@iqtelif": "Isabel"
     },
     "MK": {
         "af": "Makira-Ulawa",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Makira-Ulawa",
         "zh_Hant_TW": "Makira-Ulawa",
         "zu": "Makira-Ulawa",
-        "zu_ZA": "Makira-Ulawa"
+        "zu_ZA": "Makira-Ulawa",
+        "sr@latin": "Makira-Ulawa",
+        "tt@iqtelif": "Makira-Ulawa"
     },
     "ML": {
         "af": "Malaita",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Malaita",
         "zh_Hant_TW": "Malaita",
         "zu": "Malaita",
-        "zu_ZA": "Malaita"
+        "zu_ZA": "Malaita",
+        "sr@latin": "Malaita",
+        "tt@iqtelif": "Malaita"
     },
     "RB": {
         "af": "Rennell and Bellona",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Rennell and Bellona",
         "zh_Hant_TW": "Rennell and Bellona",
         "zu": "Rennell and Bellona",
-        "zu_ZA": "Rennell and Bellona"
+        "zu_ZA": "Rennell and Bellona",
+        "sr@latin": "Renel i Belona",
+        "tt@iqtelif": "Rennell and Bellona"
     },
     "TE": {
         "af": "Temotu",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Temotu",
         "zh_Hant_TW": "Temotu",
         "zu": "Temotu",
-        "zu_ZA": "Temotu"
+        "zu_ZA": "Temotu",
+        "sr@latin": "Temotu",
+        "tt@iqtelif": "Temotu"
     },
     "WE": {
         "af": "Western",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western"
+        "zu_ZA": "Western",
+        "sr@latin": "Western",
+        "tt@iqtelif": "Western"
     }
 }

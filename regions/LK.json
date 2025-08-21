@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Western Province",
         "zh_Hant_TW": "Western Province",
         "zu": "Western Province",
-        "zu_ZA": "Western Province"
+        "zu_ZA": "Western Province",
+        "sr@latin": "Western Province",
+        "tt@iqtelif": "Western Province"
     },
     "2": {
         "af": "Central Province",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Central Province",
         "zh_Hant_TW": "Central Province",
         "zu": "Central Province",
-        "zu_ZA": "Central Province"
+        "zu_ZA": "Central Province",
+        "sr@latin": "Central Province",
+        "tt@iqtelif": "Central Province"
     },
     "3": {
         "af": "Southern Province",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Southern Province",
         "zh_Hant_TW": "Southern Province",
         "zu": "Southern Province",
-        "zu_ZA": "Southern Province"
+        "zu_ZA": "Southern Province",
+        "sr@latin": "Southern Province",
+        "tt@iqtelif": "Southern Province"
     },
     "4": {
         "af": "Northern Province",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Northern Province",
         "zh_Hant_TW": "Northern Province",
         "zu": "Northern Province",
-        "zu_ZA": "Northern Province"
+        "zu_ZA": "Northern Province",
+        "sr@latin": "Northern Province",
+        "tt@iqtelif": "Northern Province"
     },
     "5": {
         "af": "Eastern Province",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Eastern Province",
         "zh_Hant_TW": "Eastern Province",
         "zu": "Eastern Province",
-        "zu_ZA": "Eastern Province"
+        "zu_ZA": "Eastern Province",
+        "sr@latin": "Eastern Province",
+        "tt@iqtelif": "Eastern Province"
     },
     "6": {
         "af": "North Western Province",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "North Western Province",
         "zh_Hant_TW": "North Western Province",
         "zu": "North Western Province",
-        "zu_ZA": "North Western Province"
+        "zu_ZA": "North Western Province",
+        "sr@latin": "North Western Province",
+        "tt@iqtelif": "North Western Province"
     },
     "7": {
         "af": "North Central Province",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "North Central Province",
         "zh_Hant_TW": "North Central Province",
         "zu": "North Central Province",
-        "zu_ZA": "North Central Province"
+        "zu_ZA": "North Central Province",
+        "sr@latin": "North Central Province",
+        "tt@iqtelif": "North Central Province"
     },
     "8": {
         "af": "Uva Province",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Uva Province",
         "zh_Hant_TW": "Uva Province",
         "zu": "Uva Province",
-        "zu_ZA": "Uva Province"
+        "zu_ZA": "Uva Province",
+        "sr@latin": "Uva Province",
+        "tt@iqtelif": "Uva Province"
     },
     "9": {
         "af": "Sabaragamuwa Province",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Sabaragamuwa Province",
         "zh_Hant_TW": "Sabaragamuwa Province",
         "zu": "Sabaragamuwa Province",
-        "zu_ZA": "Sabaragamuwa Province"
+        "zu_ZA": "Sabaragamuwa Province",
+        "sr@latin": "Sabaragamuwa Province",
+        "tt@iqtelif": "Sabaragamuwa Province"
     },
     "11": {
         "af": "Colombo",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Colombo",
         "zh_Hant_TW": "Colombo",
         "zu": "Colombo",
-        "zu_ZA": "Colombo"
+        "zu_ZA": "Colombo",
+        "sr@latin": "Colombo",
+        "tt@iqtelif": "Colombo"
     },
     "12": {
         "af": "Gampaha",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Gampaha",
         "zh_Hant_TW": "Gampaha",
         "zu": "Gampaha",
-        "zu_ZA": "Gampaha"
+        "zu_ZA": "Gampaha",
+        "sr@latin": "Gampaha",
+        "tt@iqtelif": "Gampaha"
     },
     "13": {
         "af": "Kalutara",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Kalutara",
         "zh_Hant_TW": "Kalutara",
         "zu": "Kalutara",
-        "zu_ZA": "Kalutara"
+        "zu_ZA": "Kalutara",
+        "sr@latin": "Kalutara",
+        "tt@iqtelif": "Kalutara"
     },
     "21": {
         "af": "Kandy",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Kandy",
         "zh_Hant_TW": "Kandy",
         "zu": "Kandy",
-        "zu_ZA": "Kandy"
+        "zu_ZA": "Kandy",
+        "sr@latin": "Kandy",
+        "tt@iqtelif": "Kandy"
     },
     "22": {
         "af": "Matale",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Matale",
         "zh_Hant_TW": "Matale",
         "zu": "Matale",
-        "zu_ZA": "Matale"
+        "zu_ZA": "Matale",
+        "sr@latin": "Matale",
+        "tt@iqtelif": "Matale"
     },
     "23": {
         "af": "Nuwara Eliya",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Nuwara Eliya",
         "zh_Hant_TW": "Nuwara Eliya",
         "zu": "Nuwara Eliya",
-        "zu_ZA": "Nuwara Eliya"
+        "zu_ZA": "Nuwara Eliya",
+        "sr@latin": "Nuwara Eliya",
+        "tt@iqtelif": "Nuwara Eliya"
     },
     "31": {
         "af": "Galle",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Galle",
         "zh_Hant_TW": "Galle",
         "zu": "Galle",
-        "zu_ZA": "Galle"
+        "zu_ZA": "Galle",
+        "sr@latin": "Galle",
+        "tt@iqtelif": "Galle"
     },
     "32": {
         "af": "Matara",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Matara",
         "zh_Hant_TW": "Matara",
         "zu": "Matara",
-        "zu_ZA": "Matara"
+        "zu_ZA": "Matara",
+        "sr@latin": "Matara",
+        "tt@iqtelif": "Matara"
     },
     "33": {
         "af": "Hambantota",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Hambantota",
         "zh_Hant_TW": "Hambantota",
         "zu": "Hambantota",
-        "zu_ZA": "Hambantota"
+        "zu_ZA": "Hambantota",
+        "sr@latin": "Hambantota",
+        "tt@iqtelif": "Hambantota"
     },
     "41": {
         "af": "Jaffna",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Jaffna",
         "zh_Hant_TW": "Jaffna",
         "zu": "Jaffna",
-        "zu_ZA": "Jaffna"
+        "zu_ZA": "Jaffna",
+        "sr@latin": "Jaffna",
+        "tt@iqtelif": "Jaffna"
     },
     "42": {
         "af": "Kilinochchi",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Kilinochchi",
         "zh_Hant_TW": "Kilinochchi",
         "zu": "Kilinochchi",
-        "zu_ZA": "Kilinochchi"
+        "zu_ZA": "Kilinochchi",
+        "sr@latin": "Kilinochchi",
+        "tt@iqtelif": "Kilinochchi"
     },
     "43": {
         "af": "Mannar",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Mannar",
         "zh_Hant_TW": "Mannar",
         "zu": "Mannar",
-        "zu_ZA": "Mannar"
+        "zu_ZA": "Mannar",
+        "sr@latin": "Mannar",
+        "tt@iqtelif": "Mannar"
     },
     "44": {
         "af": "Vavuniya",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Vavuniya",
         "zh_Hant_TW": "Vavuniya",
         "zu": "Vavuniya",
-        "zu_ZA": "Vavuniya"
+        "zu_ZA": "Vavuniya",
+        "sr@latin": "Vavuniya",
+        "tt@iqtelif": "Vavuniya"
     },
     "45": {
         "af": "Mullaittivu",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Mullaittivu",
         "zh_Hant_TW": "Mullaittivu",
         "zu": "Mullaittivu",
-        "zu_ZA": "Mullaittivu"
+        "zu_ZA": "Mullaittivu",
+        "sr@latin": "Mullaittivu",
+        "tt@iqtelif": "Mullaittivu"
     },
     "51": {
         "af": "Batticaloa",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Batticaloa",
         "zh_Hant_TW": "Batticaloa",
         "zu": "Batticaloa",
-        "zu_ZA": "Batticaloa"
+        "zu_ZA": "Batticaloa",
+        "sr@latin": "Batticaloa",
+        "tt@iqtelif": "Batticaloa"
     },
     "52": {
         "af": "Ampara",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Ampara",
         "zh_Hant_TW": "Ampara",
         "zu": "Ampara",
-        "zu_ZA": "Ampara"
+        "zu_ZA": "Ampara",
+        "sr@latin": "Ampara",
+        "tt@iqtelif": "Ampara"
     },
     "53": {
         "af": "Trincomalee",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Trincomalee",
         "zh_Hant_TW": "Trincomalee",
         "zu": "Trincomalee",
-        "zu_ZA": "Trincomalee"
+        "zu_ZA": "Trincomalee",
+        "sr@latin": "Trincomalee",
+        "tt@iqtelif": "Trincomalee"
     },
     "61": {
         "af": "Kurunegala",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Kurunegala",
         "zh_Hant_TW": "Kurunegala",
         "zu": "Kurunegala",
-        "zu_ZA": "Kurunegala"
+        "zu_ZA": "Kurunegala",
+        "sr@latin": "Kurunegala",
+        "tt@iqtelif": "Kurunegala"
     },
     "62": {
         "af": "Puttalam",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Puttalam",
         "zh_Hant_TW": "Puttalam",
         "zu": "Puttalam",
-        "zu_ZA": "Puttalam"
+        "zu_ZA": "Puttalam",
+        "sr@latin": "Puttalam",
+        "tt@iqtelif": "Puttalam"
     },
     "71": {
         "af": "Anuradhapura",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Anuradhapura",
         "zh_Hant_TW": "Anuradhapura",
         "zu": "Anuradhapura",
-        "zu_ZA": "Anuradhapura"
+        "zu_ZA": "Anuradhapura",
+        "sr@latin": "Anuradhapura",
+        "tt@iqtelif": "Anuradhapura"
     },
     "72": {
         "af": "Polonnaruwa",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Polonnaruwa",
         "zh_Hant_TW": "Polonnaruwa",
         "zu": "Polonnaruwa",
-        "zu_ZA": "Polonnaruwa"
+        "zu_ZA": "Polonnaruwa",
+        "sr@latin": "Polonnaruwa",
+        "tt@iqtelif": "Polonnaruwa"
     },
     "81": {
         "af": "Badulla",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Badulla",
         "zh_Hant_TW": "Badulla",
         "zu": "Badulla",
-        "zu_ZA": "Badulla"
+        "zu_ZA": "Badulla",
+        "sr@latin": "Badula",
+        "tt@iqtelif": "Badulla"
     },
     "82": {
         "af": "Monaragala",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Monaragala",
         "zh_Hant_TW": "Monaragala",
         "zu": "Monaragala",
-        "zu_ZA": "Monaragala"
+        "zu_ZA": "Monaragala",
+        "sr@latin": "Monaragala",
+        "tt@iqtelif": "Monaragala"
     },
     "91": {
         "af": "Ratnapura",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Ratnapura",
         "zh_Hant_TW": "Ratnapura",
         "zu": "Ratnapura",
-        "zu_ZA": "Ratnapura"
+        "zu_ZA": "Ratnapura",
+        "sr@latin": "Ratnapura",
+        "tt@iqtelif": "Ratnapura"
     },
     "92": {
         "af": "Kegalla",
@@ -30019,6 +30085,8 @@
         "zh_Hant_MY": "Kegalla",
         "zh_Hant_TW": "Kegalla",
         "zu": "Kegalla",
-        "zu_ZA": "Kegalla"
+        "zu_ZA": "Kegalla",
+        "sr@latin": "Kegalla",
+        "tt@iqtelif": "Kegalla"
     }
 }

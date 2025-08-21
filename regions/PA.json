@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bocas del Toro",
         "zh_Hant_TW": "Bocas del Toro",
         "zu": "Bocas del Toro",
-        "zu_ZA": "Bocas del Toro"
+        "zu_ZA": "Bocas del Toro",
+        "sr@latin": "Bokas del Toro",
+        "tt@iqtelif": "Bocas del Toro"
     },
     "2": {
         "af": "Coclé",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Coclé",
         "zh_Hant_TW": "Coclé",
         "zu": "Coclé",
-        "zu_ZA": "Coclé"
+        "zu_ZA": "Coclé",
+        "sr@latin": "Kokle",
+        "tt@iqtelif": "Coclé"
     },
     "3": {
         "af": "Colón",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Colón",
         "zh_Hant_TW": "Colón",
         "zu": "Colón",
-        "zu_ZA": "Colón"
+        "zu_ZA": "Colón",
+        "sr@latin": "Kolon",
+        "tt@iqtelif": "Colón"
     },
     "4": {
         "af": "Chiriquí",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Chiriquí",
         "zh_Hant_TW": "Chiriquí",
         "zu": "Chiriquí",
-        "zu_ZA": "Chiriquí"
+        "zu_ZA": "Chiriquí",
+        "sr@latin": "Chiriquí",
+        "tt@iqtelif": "Chiriquí"
     },
     "5": {
         "af": "Darién",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Darién",
         "zh_Hant_TW": "Darién",
         "zu": "Darién",
-        "zu_ZA": "Darién"
+        "zu_ZA": "Darién",
+        "sr@latin": "Darjen",
+        "tt@iqtelif": "Darién"
     },
     "6": {
         "af": "Herrera",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Herrera",
         "zh_Hant_TW": "Herrera",
         "zu": "Herrera",
-        "zu_ZA": "Herrera"
+        "zu_ZA": "Herrera",
+        "sr@latin": "Herera",
+        "tt@iqtelif": "Herrera"
     },
     "7": {
         "af": "Los Santos",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Los Santos",
         "zh_Hant_TW": "Los Santos",
         "zu": "Los Santos",
-        "zu_ZA": "Los Santos"
+        "zu_ZA": "Los Santos",
+        "sr@latin": "Los Santos",
+        "tt@iqtelif": "Los Santos"
     },
     "8": {
         "af": "Panamá",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Panamá",
         "zh_Hant_TW": "Panamá",
         "zu": "Panamá",
-        "zu_ZA": "Panamá"
+        "zu_ZA": "Panamá",
+        "sr@latin": "Panama",
+        "tt@iqtelif": "Panamá"
     },
     "9": {
         "af": "Veraguas",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Veraguas",
         "zh_Hant_TW": "Veraguas",
         "zu": "Veraguas",
-        "zu_ZA": "Veraguas"
+        "zu_ZA": "Veraguas",
+        "sr@latin": "Veragvas",
+        "tt@iqtelif": "Veraguas"
     },
     "10": {
         "af": "Panamá Oeste",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Panamá Oeste",
         "zh_Hant_TW": "Panamá Oeste",
         "zu": "Panamá Oeste",
-        "zu_ZA": "Panamá Oeste"
+        "zu_ZA": "Panamá Oeste",
+        "sr@latin": "Panamá Oeste",
+        "tt@iqtelif": "Panamá Oeste"
     },
     "EM": {
         "af": "Emberá",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Emberá",
         "zh_Hant_TW": "Emberá",
         "zu": "Emberá",
-        "zu_ZA": "Emberá"
+        "zu_ZA": "Emberá",
+        "sr@latin": "Embera",
+        "tt@iqtelif": "Emberá"
     },
     "KY": {
         "af": "Guna Yala",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Guna Yala",
         "zh_Hant_TW": "Guna Yala",
         "zu": "Guna Yala",
-        "zu_ZA": "Guna Yala"
+        "zu_ZA": "Guna Yala",
+        "sr@latin": "Guna Yala",
+        "tt@iqtelif": "Guna Yala"
     },
     "NB": {
         "af": "Ngäbe-Buglé",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Ngäbe-Buglé",
         "zh_Hant_TW": "Ngäbe-Buglé",
         "zu": "Ngäbe-Buglé",
-        "zu_ZA": "Ngäbe-Buglé"
+        "zu_ZA": "Ngäbe-Buglé",
+        "sr@latin": "Ngäbe-Buglé",
+        "tt@iqtelif": "Ngäbe-Buglé"
     },
     "NT": {
         "af": "Naso Tjër Di",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Naso Tjër Di",
         "zh_Hant_TW": "Naso Tjër Di",
         "zu": "Naso Tjër Di",
-        "zu_ZA": "Naso Tjër Di"
+        "zu_ZA": "Naso Tjër Di",
+        "sr@latin": "Naso Tjër Di",
+        "tt@iqtelif": "Naso Tjër Di"
     }
 }

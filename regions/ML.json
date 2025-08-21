@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Kayes",
         "zh_Hant_TW": "Kayes",
         "zu": "Kayes",
-        "zu_ZA": "Kayes"
+        "zu_ZA": "Kayes",
+        "sr@latin": "Kayes",
+        "tt@iqtelif": "Kayes"
     },
     "2": {
         "af": "Koulikoro",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Koulikoro",
         "zh_Hant_TW": "Koulikoro",
         "zu": "Koulikoro",
-        "zu_ZA": "Koulikoro"
+        "zu_ZA": "Koulikoro",
+        "sr@latin": "Kulikoro",
+        "tt@iqtelif": "Koulikoro"
     },
     "3": {
         "af": "Sikasso",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Sikasso",
         "zh_Hant_TW": "Sikasso",
         "zu": "Sikasso",
-        "zu_ZA": "Sikasso"
+        "zu_ZA": "Sikasso",
+        "sr@latin": "Sikasso",
+        "tt@iqtelif": "Sikasso"
     },
     "4": {
         "af": "Ségou",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Ségou",
         "zh_Hant_TW": "Ségou",
         "zu": "Ségou",
-        "zu_ZA": "Ségou"
+        "zu_ZA": "Ségou",
+        "sr@latin": "Ségou",
+        "tt@iqtelif": "Ségou"
     },
     "5": {
         "af": "Mopti",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Mopti",
         "zh_Hant_TW": "Mopti",
         "zu": "Mopti",
-        "zu_ZA": "Mopti"
+        "zu_ZA": "Mopti",
+        "sr@latin": "Mopti",
+        "tt@iqtelif": "Mopti"
     },
     "6": {
         "af": "Tombouctou",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Tombouctou",
         "zh_Hant_TW": "Tombouctou",
         "zu": "Tombouctou",
-        "zu_ZA": "Tombouctou"
+        "zu_ZA": "Tombouctou",
+        "sr@latin": "Tumbuktu",
+        "tt@iqtelif": "Tombouctou"
     },
     "7": {
         "af": "Gao",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Gao",
         "zh_Hant_TW": "Gao",
         "zu": "Gao",
-        "zu_ZA": "Gao"
+        "zu_ZA": "Gao",
+        "sr@latin": "Gao",
+        "tt@iqtelif": "Gao"
     },
     "8": {
         "af": "Kidal",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kidal",
         "zh_Hant_TW": "Kidal",
         "zu": "Kidal",
-        "zu_ZA": "Kidal"
+        "zu_ZA": "Kidal",
+        "sr@latin": "Kidal",
+        "tt@iqtelif": "Kidal"
     },
     "9": {
         "af": "Ménaka",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Ménaka",
         "zh_Hant_TW": "Ménaka",
         "zu": "Ménaka",
-        "zu_ZA": "Ménaka"
+        "zu_ZA": "Ménaka",
+        "sr@latin": "Ménaka",
+        "tt@iqtelif": "Ménaka"
     },
     "10": {
         "af": "Taoudénit",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Taoudénit",
         "zh_Hant_TW": "Taoudénit",
         "zu": "Taoudénit",
-        "zu_ZA": "Taoudénit"
+        "zu_ZA": "Taoudénit",
+        "sr@latin": "Taoudénit",
+        "tt@iqtelif": "Taoudénit"
     },
     "BKO": {
         "af": "Bamako",
@@ -9710,6 +9730,8 @@
         "zh_Hant_MY": "Bamako",
         "zh_Hant_TW": "Bamako",
         "zu": "Bamako",
-        "zu_ZA": "Bamako"
+        "zu_ZA": "Bamako",
+        "sr@latin": "Bamako",
+        "tt@iqtelif": "Bamako"
     }
 }

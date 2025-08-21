@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bruxelles-Capitale, Région de",
         "zh_Hant_TW": "Bruxelles-Capitale, Région de",
         "zu": "Bruxelles-Capitale, Région de",
-        "zu_ZA": "Bruxelles-Capitale, Région de"
+        "zu_ZA": "Bruxelles-Capitale, Région de",
+        "sr@latin": "Bruxelles-Capitale, Région de",
+        "tt@iqtelif": "Bruxelles-Capitale, Région de"
     },
     "VAN": {
         "af": "Antwerpen",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Antwerpen",
         "zh_Hant_TW": "Antwerpen",
         "zu": "Antwerpen",
-        "zu_ZA": "Antwerpen"
+        "zu_ZA": "Antwerpen",
+        "sr@latin": "Antverpen",
+        "tt@iqtelif": "Antwerpen"
     },
     "VBR": {
         "af": "Vlaams-Brabant",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Vlaams-Brabant",
         "zh_Hant_TW": "Vlaams-Brabant",
         "zu": "Vlaams-Brabant",
-        "zu_ZA": "Vlaams-Brabant"
+        "zu_ZA": "Vlaams-Brabant",
+        "sr@latin": "Vlams-Brabant",
+        "tt@iqtelif": "Vlaams-Brabant"
     },
     "VLG": {
         "af": "Vlaams Gewest",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Vlaams Gewest",
         "zh_Hant_TW": "Vlaams Gewest",
         "zu": "Vlaams Gewest",
-        "zu_ZA": "Vlaams Gewest"
+        "zu_ZA": "Vlaams Gewest",
+        "sr@latin": "Flandrijska oblast",
+        "tt@iqtelif": "Vlaams Gewest"
     },
     "VLI": {
         "af": "Limburg",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Limburg",
         "zh_Hant_TW": "Limburg",
         "zu": "Limburg",
-        "zu_ZA": "Limburg"
+        "zu_ZA": "Limburg",
+        "sr@latin": "Limburg",
+        "tt@iqtelif": "Limburg"
     },
     "VOV": {
         "af": "Oost-Vlaanderen",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Oost-Vlaanderen",
         "zh_Hant_TW": "Oost-Vlaanderen",
         "zu": "Oost-Vlaanderen",
-        "zu_ZA": "Oost-Vlaanderen"
+        "zu_ZA": "Oost-Vlaanderen",
+        "sr@latin": "Istočna Flandrija",
+        "tt@iqtelif": "Oost-Vlaanderen"
     },
     "VWV": {
         "af": "West-Vlaanderen",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "West-Vlaanderen",
         "zh_Hant_TW": "West-Vlaanderen",
         "zu": "West-Vlaanderen",
-        "zu_ZA": "West-Vlaanderen"
+        "zu_ZA": "West-Vlaanderen",
+        "sr@latin": "Zapadna Flandrija",
+        "tt@iqtelif": "West-Vlaanderen"
     },
     "WAL": {
         "af": "wallonne, Région",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "wallonne, Région",
         "zh_Hant_TW": "wallonne, Région",
         "zu": "wallonne, Région",
-        "zu_ZA": "wallonne, Région"
+        "zu_ZA": "wallonne, Région",
+        "sr@latin": "Valonska oblast",
+        "tt@iqtelif": "wallonne, Région"
     },
     "WBR": {
         "af": "Brabant wallon",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Brabant wallon",
         "zh_Hant_TW": "Brabant wallon",
         "zu": "Brabant wallon",
-        "zu_ZA": "Brabant wallon"
+        "zu_ZA": "Brabant wallon",
+        "sr@latin": "Braban valon",
+        "tt@iqtelif": "Brabant wallon"
     },
     "WHT": {
         "af": "Hainaut",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Hainaut",
         "zh_Hant_TW": "Hainaut",
         "zu": "Hainaut",
-        "zu_ZA": "Hainaut"
+        "zu_ZA": "Hainaut",
+        "sr@latin": "Henot",
+        "tt@iqtelif": "Hainaut"
     },
     "WLG": {
         "af": "Liège",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Liège",
         "zh_Hant_TW": "Liège",
         "zu": "Liège",
-        "zu_ZA": "Liège"
+        "zu_ZA": "Liège",
+        "sr@latin": "Liž",
+        "tt@iqtelif": "Liège"
     },
     "WLX": {
         "af": "Luxembourg",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Luxembourg",
         "zh_Hant_TW": "Luxembourg",
         "zu": "Luxembourg",
-        "zu_ZA": "Luxembourg"
+        "zu_ZA": "Luxembourg",
+        "sr@latin": "Luksemburg",
+        "tt@iqtelif": "Luxembourg"
     },
     "WNA": {
         "af": "Namur",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "Namur",
         "zh_Hant_TW": "Namur",
         "zu": "Namur",
-        "zu_ZA": "Namur"
+        "zu_ZA": "Namur",
+        "sr@latin": "Namur",
+        "tt@iqtelif": "Namur"
     }
 }

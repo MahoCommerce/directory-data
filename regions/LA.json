@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Attapu",
         "zh_Hant_TW": "Attapu",
         "zu": "Attapu",
-        "zu_ZA": "Attapu"
+        "zu_ZA": "Attapu",
+        "sr@latin": "Atapu",
+        "tt@iqtelif": "Attapu"
     },
     "BK": {
         "af": "Bokèo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bokèo",
         "zh_Hant_TW": "Bokèo",
         "zu": "Bokèo",
-        "zu_ZA": "Bokèo"
+        "zu_ZA": "Bokèo",
+        "sr@latin": "Bokeo",
+        "tt@iqtelif": "Bokèo"
     },
     "BL": {
         "af": "Bolikhamxai",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Bolikhamxai",
         "zh_Hant_TW": "Bolikhamxai",
         "zu": "Bolikhamxai",
-        "zu_ZA": "Bolikhamxai"
+        "zu_ZA": "Bolikhamxai",
+        "sr@latin": "Bolikhamxai",
+        "tt@iqtelif": "Bolikhamxai"
     },
     "CH": {
         "af": "Champasak",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Champasak",
         "zh_Hant_TW": "Champasak",
         "zu": "Champasak",
-        "zu_ZA": "Champasak"
+        "zu_ZA": "Champasak",
+        "sr@latin": "Čampasak",
+        "tt@iqtelif": "Champasak"
     },
     "HO": {
         "af": "Houaphan",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Houaphan",
         "zh_Hant_TW": "Houaphan",
         "zu": "Houaphan",
-        "zu_ZA": "Houaphan"
+        "zu_ZA": "Houaphan",
+        "sr@latin": "Houapan",
+        "tt@iqtelif": "Houaphan"
     },
     "KH": {
         "af": "Khammouan",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Khammouan",
         "zh_Hant_TW": "Khammouan",
         "zu": "Khammouan",
-        "zu_ZA": "Khammouan"
+        "zu_ZA": "Khammouan",
+        "sr@latin": "Kamuan",
+        "tt@iqtelif": "Khammouan"
     },
     "LM": {
         "af": "Louang Namtha",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Louang Namtha",
         "zh_Hant_TW": "Louang Namtha",
         "zu": "Louang Namtha",
-        "zu_ZA": "Louang Namtha"
+        "zu_ZA": "Louang Namtha",
+        "sr@latin": "Luang Namta",
+        "tt@iqtelif": "Louang Namtha"
     },
     "LP": {
         "af": "Louangphabang",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Louangphabang",
         "zh_Hant_TW": "Louangphabang",
         "zu": "Louangphabang",
-        "zu_ZA": "Louangphabang"
+        "zu_ZA": "Louangphabang",
+        "sr@latin": "Louangphabang",
+        "tt@iqtelif": "Louangphabang"
     },
     "OU": {
         "af": "Oudômxai",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Oudômxai",
         "zh_Hant_TW": "Oudômxai",
         "zu": "Oudômxai",
-        "zu_ZA": "Oudômxai"
+        "zu_ZA": "Oudômxai",
+        "sr@latin": "Oudômxai",
+        "tt@iqtelif": "Oudômxai"
     },
     "PH": {
         "af": "Phôngsali",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Phôngsali",
         "zh_Hant_TW": "Phôngsali",
         "zu": "Phôngsali",
-        "zu_ZA": "Phôngsali"
+        "zu_ZA": "Phôngsali",
+        "sr@latin": "Fongsali",
+        "tt@iqtelif": "Phôngsali"
     },
     "SL": {
         "af": "Salavan",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Salavan",
         "zh_Hant_TW": "Salavan",
         "zu": "Salavan",
-        "zu_ZA": "Salavan"
+        "zu_ZA": "Salavan",
+        "sr@latin": "Salavan",
+        "tt@iqtelif": "Salavan"
     },
     "SV": {
         "af": "Savannakhét",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Savannakhét",
         "zh_Hant_TW": "Savannakhét",
         "zu": "Savannakhét",
-        "zu_ZA": "Savannakhét"
+        "zu_ZA": "Savannakhét",
+        "sr@latin": "Savanaket",
+        "tt@iqtelif": "Savannakhét"
     },
     "VI": {
         "af": "Viangchan",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Viangchan",
         "zh_Hant_TW": "Viangchan",
         "zu": "Viangchan",
-        "zu_ZA": "Viangchan"
+        "zu_ZA": "Viangchan",
+        "sr@latin": "Viangchan",
+        "tt@iqtelif": "Viangchan"
     },
     "VT": {
         "af": "Viangchan",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Viangchan",
         "zh_Hant_TW": "Viangchan",
         "zu": "Viangchan",
-        "zu_ZA": "Viangchan"
+        "zu_ZA": "Viangchan",
+        "sr@latin": "Viangchan",
+        "tt@iqtelif": "Viangchan"
     },
     "XA": {
         "af": "Xaignabouli",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Xaignabouli",
         "zh_Hant_TW": "Xaignabouli",
         "zu": "Xaignabouli",
-        "zu_ZA": "Xaignabouli"
+        "zu_ZA": "Xaignabouli",
+        "sr@latin": "Xaignabouli",
+        "tt@iqtelif": "Xaignabouli"
     },
     "XE": {
         "af": "Xékong",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Xékong",
         "zh_Hant_TW": "Xékong",
         "zu": "Xékong",
-        "zu_ZA": "Xékong"
+        "zu_ZA": "Xékong",
+        "sr@latin": "Zekong",
+        "tt@iqtelif": "Xékong"
     },
     "XI": {
         "af": "Xiangkhouang",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Xiangkhouang",
         "zh_Hant_TW": "Xiangkhouang",
         "zu": "Xiangkhouang",
-        "zu_ZA": "Xiangkhouang"
+        "zu_ZA": "Xiangkhouang",
+        "sr@latin": "Xiangkhouang",
+        "tt@iqtelif": "Xiangkhouang"
     },
     "XS": {
         "af": "Xaisômboun",
@@ -15891,6 +15925,8 @@
         "zh_Hant_MY": "Xaisômboun",
         "zh_Hant_TW": "Xaisômboun",
         "zu": "Xaisômboun",
-        "zu_ZA": "Xaisômboun"
+        "zu_ZA": "Xaisômboun",
+        "sr@latin": "Xaisômboun",
+        "tt@iqtelif": "Xaisômboun"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Balaka",
         "zh_Hant_TW": "Balaka",
         "zu": "Balaka",
-        "zu_ZA": "Balaka"
+        "zu_ZA": "Balaka",
+        "sr@latin": "Balaka",
+        "tt@iqtelif": "Balaka"
     },
     "BL": {
         "af": "Blantyre",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Blantyre",
         "zh_Hant_TW": "Blantyre",
         "zu": "Blantyre",
-        "zu_ZA": "Blantyre"
+        "zu_ZA": "Blantyre",
+        "sr@latin": "Blantir",
+        "tt@iqtelif": "Blantyre"
     },
     "C": {
         "af": "Central Region",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Central Region",
         "zh_Hant_TW": "Central Region",
         "zu": "Central Region",
-        "zu_ZA": "Central Region"
+        "zu_ZA": "Central Region",
+        "sr@latin": "Central Region",
+        "tt@iqtelif": "Central Region"
     },
     "CK": {
         "af": "Chikwawa",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Chikwawa",
         "zh_Hant_TW": "Chikwawa",
         "zu": "Chikwawa",
-        "zu_ZA": "Chikwawa"
+        "zu_ZA": "Chikwawa",
+        "sr@latin": "Čikvava",
+        "tt@iqtelif": "Chikwawa"
     },
     "CR": {
         "af": "Chiradzulu",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Chiradzulu",
         "zh_Hant_TW": "Chiradzulu",
         "zu": "Chiradzulu",
-        "zu_ZA": "Chiradzulu"
+        "zu_ZA": "Chiradzulu",
+        "sr@latin": "Širadzulu",
+        "tt@iqtelif": "Chiradzulu"
     },
     "CT": {
         "af": "Chitipa",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Chitipa",
         "zh_Hant_TW": "Chitipa",
         "zu": "Chitipa",
-        "zu_ZA": "Chitipa"
+        "zu_ZA": "Chitipa",
+        "sr@latin": "Čitipa",
+        "tt@iqtelif": "Chitipa"
     },
     "DE": {
         "af": "Dedza",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Dedza",
         "zh_Hant_TW": "Dedza",
         "zu": "Dedza",
-        "zu_ZA": "Dedza"
+        "zu_ZA": "Dedza",
+        "sr@latin": "Dedza",
+        "tt@iqtelif": "Dedza"
     },
     "DO": {
         "af": "Dowa",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Dowa",
         "zh_Hant_TW": "Dowa",
         "zu": "Dowa",
-        "zu_ZA": "Dowa"
+        "zu_ZA": "Dowa",
+        "sr@latin": "Dova",
+        "tt@iqtelif": "Dowa"
     },
     "KR": {
         "af": "Karonga",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Karonga",
         "zh_Hant_TW": "Karonga",
         "zu": "Karonga",
-        "zu_ZA": "Karonga"
+        "zu_ZA": "Karonga",
+        "sr@latin": "Karonga",
+        "tt@iqtelif": "Karonga"
     },
     "KS": {
         "af": "Kasungu",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Kasungu",
         "zh_Hant_TW": "Kasungu",
         "zu": "Kasungu",
-        "zu_ZA": "Kasungu"
+        "zu_ZA": "Kasungu",
+        "sr@latin": "Kasungu",
+        "tt@iqtelif": "Kasungu"
     },
     "LI": {
         "af": "Lilongwe",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Lilongwe",
         "zh_Hant_TW": "Lilongwe",
         "zu": "Lilongwe",
-        "zu_ZA": "Lilongwe"
+        "zu_ZA": "Lilongwe",
+        "sr@latin": "Lilongve",
+        "tt@iqtelif": "Lilongwe"
     },
     "LK": {
         "af": "Likoma",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Likoma",
         "zh_Hant_TW": "Likoma",
         "zu": "Likoma",
-        "zu_ZA": "Likoma"
+        "zu_ZA": "Likoma",
+        "sr@latin": "Likoma",
+        "tt@iqtelif": "Likoma"
     },
     "MC": {
         "af": "Mchinji",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Mchinji",
         "zh_Hant_TW": "Mchinji",
         "zu": "Mchinji",
-        "zu_ZA": "Mchinji"
+        "zu_ZA": "Mchinji",
+        "sr@latin": "Mchinji",
+        "tt@iqtelif": "Mchinji"
     },
     "MG": {
         "af": "Mangochi",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Mangochi",
         "zh_Hant_TW": "Mangochi",
         "zu": "Mangochi",
-        "zu_ZA": "Mangochi"
+        "zu_ZA": "Mangochi",
+        "sr@latin": "Mangoči",
+        "tt@iqtelif": "Mangochi"
     },
     "MH": {
         "af": "Machinga",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Machinga",
         "zh_Hant_TW": "Machinga",
         "zu": "Machinga",
-        "zu_ZA": "Machinga"
+        "zu_ZA": "Machinga",
+        "sr@latin": "Mačinga",
+        "tt@iqtelif": "Machinga"
     },
     "MU": {
         "af": "Mulanje",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Mulanje",
         "zh_Hant_TW": "Mulanje",
         "zu": "Mulanje",
-        "zu_ZA": "Mulanje"
+        "zu_ZA": "Mulanje",
+        "sr@latin": "Mulanje",
+        "tt@iqtelif": "Mulanje"
     },
     "MW": {
         "af": "Mwanza",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Mwanza",
         "zh_Hant_TW": "Mwanza",
         "zu": "Mwanza",
-        "zu_ZA": "Mwanza"
+        "zu_ZA": "Mwanza",
+        "sr@latin": "Mvanca",
+        "tt@iqtelif": "Mwanza"
     },
     "MZ": {
         "af": "Mzimba",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Mzimba",
         "zh_Hant_TW": "Mzimba",
         "zu": "Mzimba",
-        "zu_ZA": "Mzimba"
+        "zu_ZA": "Mzimba",
+        "sr@latin": "Mcimba",
+        "tt@iqtelif": "Mzimba"
     },
     "N": {
         "af": "Northern Region",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Northern Region",
         "zh_Hant_TW": "Northern Region",
         "zu": "Northern Region",
-        "zu_ZA": "Northern Region"
+        "zu_ZA": "Northern Region",
+        "sr@latin": "Severna Oblast",
+        "tt@iqtelif": "Northern Region"
     },
     "NB": {
         "af": "Nkhata Bay",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Nkhata Bay",
         "zh_Hant_TW": "Nkhata Bay",
         "zu": "Nkhata Bay",
-        "zu_ZA": "Nkhata Bay"
+        "zu_ZA": "Nkhata Bay",
+        "sr@latin": "Nkata Bej",
+        "tt@iqtelif": "Nkhata Bay"
     },
     "NE": {
         "af": "Neno",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Neno",
         "zh_Hant_TW": "Neno",
         "zu": "Neno",
-        "zu_ZA": "Neno"
+        "zu_ZA": "Neno",
+        "sr@latin": "Neno",
+        "tt@iqtelif": "Neno"
     },
     "NI": {
         "af": "Ntchisi",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Ntchisi",
         "zh_Hant_TW": "Ntchisi",
         "zu": "Ntchisi",
-        "zu_ZA": "Ntchisi"
+        "zu_ZA": "Ntchisi",
+        "sr@latin": "Ntchisi",
+        "tt@iqtelif": "Ntchisi"
     },
     "NK": {
         "af": "Nkhotakota",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Nkhotakota",
         "zh_Hant_TW": "Nkhotakota",
         "zu": "Nkhotakota",
-        "zu_ZA": "Nkhotakota"
+        "zu_ZA": "Nkhotakota",
+        "sr@latin": "Nkotakota",
+        "tt@iqtelif": "Nkhotakota"
     },
     "NS": {
         "af": "Nsanje",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Nsanje",
         "zh_Hant_TW": "Nsanje",
         "zu": "Nsanje",
-        "zu_ZA": "Nsanje"
+        "zu_ZA": "Nsanje",
+        "sr@latin": "Nsanje",
+        "tt@iqtelif": "Nsanje"
     },
     "NU": {
         "af": "Ntcheu",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Ntcheu",
         "zh_Hant_TW": "Ntcheu",
         "zu": "Ntcheu",
-        "zu_ZA": "Ntcheu"
+        "zu_ZA": "Ntcheu",
+        "sr@latin": "Ntcheu",
+        "tt@iqtelif": "Ntcheu"
     },
     "PH": {
         "af": "Phalombe",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Phalombe",
         "zh_Hant_TW": "Phalombe",
         "zu": "Phalombe",
-        "zu_ZA": "Phalombe"
+        "zu_ZA": "Phalombe",
+        "sr@latin": "Paloma",
+        "tt@iqtelif": "Phalombe"
     },
     "RU": {
         "af": "Rumphi",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Rumphi",
         "zh_Hant_TW": "Rumphi",
         "zu": "Rumphi",
-        "zu_ZA": "Rumphi"
+        "zu_ZA": "Rumphi",
+        "sr@latin": "Rumphi",
+        "tt@iqtelif": "Rumphi"
     },
     "S": {
         "af": "Southern Region",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Southern Region",
         "zh_Hant_TW": "Southern Region",
         "zu": "Southern Region",
-        "zu_ZA": "Southern Region"
+        "zu_ZA": "Southern Region",
+        "sr@latin": "Southern Region",
+        "tt@iqtelif": "Southern Region"
     },
     "SA": {
         "af": "Salima",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Salima",
         "zh_Hant_TW": "Salima",
         "zu": "Salima",
-        "zu_ZA": "Salima"
+        "zu_ZA": "Salima",
+        "sr@latin": "Salima",
+        "tt@iqtelif": "Salima"
     },
     "TH": {
         "af": "Thyolo",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Thyolo",
         "zh_Hant_TW": "Thyolo",
         "zu": "Thyolo",
-        "zu_ZA": "Thyolo"
+        "zu_ZA": "Thyolo",
+        "sr@latin": "Thyolo",
+        "tt@iqtelif": "Thyolo"
     },
     "ZO": {
         "af": "Zomba",
@@ -27370,6 +27430,8 @@
         "zh_Hant_MY": "Zomba",
         "zh_Hant_TW": "Zomba",
         "zu": "Zomba",
-        "zu_ZA": "Zomba"
+        "zu_ZA": "Zomba",
+        "sr@latin": "Zomba",
+        "tt@iqtelif": "Zomba"
     }
 }

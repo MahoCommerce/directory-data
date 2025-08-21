@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Charlotte",
         "zh_Hant_TW": "Charlotte",
         "zu": "Charlotte",
-        "zu_ZA": "Charlotte"
+        "zu_ZA": "Charlotte",
+        "sr@latin": "Šarlot",
+        "tt@iqtelif": "Charlotte"
     },
     "02": {
         "af": "Saint Andrew",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew"
+        "zu_ZA": "Saint Andrew",
+        "sr@latin": "Sveti Andreja",
+        "tt@iqtelif": "Saint Andrew"
     },
     "03": {
         "af": "Saint David",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Saint David",
         "zh_Hant_TW": "Saint David",
         "zu": "Saint David",
-        "zu_ZA": "Saint David"
+        "zu_ZA": "Saint David",
+        "sr@latin": "Sveti David",
+        "tt@iqtelif": "Saint David"
     },
     "04": {
         "af": "Saint George",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George"
+        "zu_ZA": "Saint George",
+        "sr@latin": "Sent Džordž",
+        "tt@iqtelif": "Saint George"
     },
     "05": {
         "af": "Saint Patrick",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Saint Patrick",
         "zh_Hant_TW": "Saint Patrick",
         "zu": "Saint Patrick",
-        "zu_ZA": "Saint Patrick"
+        "zu_ZA": "Saint Patrick",
+        "sr@latin": "Sveti Patrik",
+        "tt@iqtelif": "Saint Patrick"
     },
     "06": {
         "af": "Grenadines",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Grenadines",
         "zh_Hant_TW": "Grenadines",
         "zu": "Grenadines",
-        "zu_ZA": "Grenadines"
+        "zu_ZA": "Grenadines",
+        "sr@latin": "Grenadine",
+        "tt@iqtelif": "Grenadines"
     }
 }

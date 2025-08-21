@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Diourbel",
         "zh_Hant_TW": "Diourbel",
         "zu": "Diourbel",
-        "zu_ZA": "Diourbel"
+        "zu_ZA": "Diourbel",
+        "sr@latin": "Djurbel",
+        "tt@iqtelif": "Diourbel"
     },
     "DK": {
         "af": "Dakar",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Dakar",
         "zh_Hant_TW": "Dakar",
         "zu": "Dakar",
-        "zu_ZA": "Dakar"
+        "zu_ZA": "Dakar",
+        "sr@latin": "Dakar",
+        "tt@iqtelif": "Dakar"
     },
     "FK": {
         "af": "Fatick",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Fatick",
         "zh_Hant_TW": "Fatick",
         "zu": "Fatick",
-        "zu_ZA": "Fatick"
+        "zu_ZA": "Fatick",
+        "sr@latin": "Fatik",
+        "tt@iqtelif": "Fatick"
     },
     "KA": {
         "af": "Kaffrine",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Kaffrine",
         "zh_Hant_TW": "Kaffrine",
         "zu": "Kaffrine",
-        "zu_ZA": "Kaffrine"
+        "zu_ZA": "Kaffrine",
+        "sr@latin": "Kafrin",
+        "tt@iqtelif": "Kaffrine"
     },
     "KD": {
         "af": "Kolda",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Kolda",
         "zh_Hant_TW": "Kolda",
         "zu": "Kolda",
-        "zu_ZA": "Kolda"
+        "zu_ZA": "Kolda",
+        "sr@latin": "Kolda",
+        "tt@iqtelif": "Kolda"
     },
     "KE": {
         "af": "Kédougou",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Kédougou",
         "zh_Hant_TW": "Kédougou",
         "zu": "Kédougou",
-        "zu_ZA": "Kédougou"
+        "zu_ZA": "Kédougou",
+        "sr@latin": "Kedugu",
+        "tt@iqtelif": "Kédougou"
     },
     "KL": {
         "af": "Kaolack",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Kaolack",
         "zh_Hant_TW": "Kaolack",
         "zu": "Kaolack",
-        "zu_ZA": "Kaolack"
+        "zu_ZA": "Kaolack",
+        "sr@latin": "Kaolak",
+        "tt@iqtelif": "Kaolack"
     },
     "LG": {
         "af": "Louga",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Louga",
         "zh_Hant_TW": "Louga",
         "zu": "Louga",
-        "zu_ZA": "Louga"
+        "zu_ZA": "Louga",
+        "sr@latin": "Luga",
+        "tt@iqtelif": "Louga"
     },
     "MT": {
         "af": "Matam",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Matam",
         "zh_Hant_TW": "Matam",
         "zu": "Matam",
-        "zu_ZA": "Matam"
+        "zu_ZA": "Matam",
+        "sr@latin": "Matam",
+        "tt@iqtelif": "Matam"
     },
     "SE": {
         "af": "Sédhiou",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Sédhiou",
         "zh_Hant_TW": "Sédhiou",
         "zu": "Sédhiou",
-        "zu_ZA": "Sédhiou"
+        "zu_ZA": "Sédhiou",
+        "sr@latin": "Sédhiou",
+        "tt@iqtelif": "Sédhiou"
     },
     "SL": {
         "af": "Saint-Louis",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Saint-Louis",
         "zh_Hant_TW": "Saint-Louis",
         "zu": "Saint-Louis",
-        "zu_ZA": "Saint-Louis"
+        "zu_ZA": "Saint-Louis",
+        "sr@latin": "Sent-Luj",
+        "tt@iqtelif": "Saint-Louis"
     },
     "TC": {
         "af": "Tambacounda",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Tambacounda",
         "zh_Hant_TW": "Tambacounda",
         "zu": "Tambacounda",
-        "zu_ZA": "Tambacounda"
+        "zu_ZA": "Tambacounda",
+        "sr@latin": "Tambakunda",
+        "tt@iqtelif": "Tambacounda"
     },
     "TH": {
         "af": "Thiès",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Thiès",
         "zh_Hant_TW": "Thiès",
         "zu": "Thiès",
-        "zu_ZA": "Thiès"
+        "zu_ZA": "Thiès",
+        "sr@latin": "Thiès",
+        "tt@iqtelif": "Thiès"
     },
     "ZG": {
         "af": "Ziguinchor",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Ziguinchor",
         "zh_Hant_TW": "Ziguinchor",
         "zu": "Ziguinchor",
-        "zu_ZA": "Ziguinchor"
+        "zu_ZA": "Ziguinchor",
+        "sr@latin": "Ziguinkor",
+        "tt@iqtelif": "Ziguinchor"
     }
 }

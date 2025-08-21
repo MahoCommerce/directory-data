@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Kongo Central",
         "zh_Hant_TW": "Kongo Central",
         "zu": "Kongo Central",
-        "zu_ZA": "Kongo Central"
+        "zu_ZA": "Kongo Central",
+        "sr@latin": "Kongo Central",
+        "tt@iqtelif": "Kongo Central"
     },
     "BU": {
         "af": "Bas-Uélé",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bas-Uélé",
         "zh_Hant_TW": "Bas-Uélé",
         "zu": "Bas-Uélé",
-        "zu_ZA": "Bas-Uélé"
+        "zu_ZA": "Bas-Uélé",
+        "sr@latin": "Bas-Uélé",
+        "tt@iqtelif": "Bas-Uélé"
     },
     "EQ": {
         "af": "Équateur",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Équateur",
         "zh_Hant_TW": "Équateur",
         "zu": "Équateur",
-        "zu_ZA": "Équateur"
+        "zu_ZA": "Équateur",
+        "sr@latin": "Ekvador",
+        "tt@iqtelif": "Équateur"
     },
     "HK": {
         "af": "Haut-Katanga",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Haut-Katanga",
         "zh_Hant_TW": "Haut-Katanga",
         "zu": "Haut-Katanga",
-        "zu_ZA": "Haut-Katanga"
+        "zu_ZA": "Haut-Katanga",
+        "sr@latin": "Haut-Katanga",
+        "tt@iqtelif": "Haut-Katanga"
     },
     "HL": {
         "af": "Haut-Lomami",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Haut-Lomami",
         "zh_Hant_TW": "Haut-Lomami",
         "zu": "Haut-Lomami",
-        "zu_ZA": "Haut-Lomami"
+        "zu_ZA": "Haut-Lomami",
+        "sr@latin": "Haut-Lomami",
+        "tt@iqtelif": "Haut-Lomami"
     },
     "HU": {
         "af": "Haut-Uélé",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Haut-Uélé",
         "zh_Hant_TW": "Haut-Uélé",
         "zu": "Haut-Uélé",
-        "zu_ZA": "Haut-Uélé"
+        "zu_ZA": "Haut-Uélé",
+        "sr@latin": "Haut-Uélé",
+        "tt@iqtelif": "Haut-Uélé"
     },
     "IT": {
         "af": "Ituri",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ituri",
         "zh_Hant_TW": "Ituri",
         "zu": "Ituri",
-        "zu_ZA": "Ituri"
+        "zu_ZA": "Ituri",
+        "sr@latin": "Ituri",
+        "tt@iqtelif": "Ituri"
     },
     "KC": {
         "af": "Kasaï Central",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kasaï Central",
         "zh_Hant_TW": "Kasaï Central",
         "zu": "Kasaï Central",
-        "zu_ZA": "Kasaï Central"
+        "zu_ZA": "Kasaï Central",
+        "sr@latin": "Kasaï Central",
+        "tt@iqtelif": "Kasaï Central"
     },
     "KE": {
         "af": "Kasaï Oriental",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kasaï Oriental",
         "zh_Hant_TW": "Kasaï Oriental",
         "zu": "Kasaï Oriental",
-        "zu_ZA": "Kasaï Oriental"
+        "zu_ZA": "Kasaï Oriental",
+        "sr@latin": "Kasaï Oriental",
+        "tt@iqtelif": "Kasaï Oriental"
     },
     "KG": {
         "af": "Kwango",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Kwango",
         "zh_Hant_TW": "Kwango",
         "zu": "Kwango",
-        "zu_ZA": "Kwango"
+        "zu_ZA": "Kwango",
+        "sr@latin": "Kwango",
+        "tt@iqtelif": "Kwango"
     },
     "KL": {
         "af": "Kwilu",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Kwilu",
         "zh_Hant_TW": "Kwilu",
         "zu": "Kwilu",
-        "zu_ZA": "Kwilu"
+        "zu_ZA": "Kwilu",
+        "sr@latin": "Kwilu",
+        "tt@iqtelif": "Kwilu"
     },
     "KN": {
         "af": "Kinshasa",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Kinshasa",
         "zh_Hant_TW": "Kinshasa",
         "zu": "Kinshasa",
-        "zu_ZA": "Kinshasa"
+        "zu_ZA": "Kinshasa",
+        "sr@latin": "Kinšasa",
+        "tt@iqtelif": "Kinshasa"
     },
     "KS": {
         "af": "Kasaï",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Kasaï",
         "zh_Hant_TW": "Kasaï",
         "zu": "Kasaï",
-        "zu_ZA": "Kasaï"
+        "zu_ZA": "Kasaï",
+        "sr@latin": "Kasaï",
+        "tt@iqtelif": "Kasaï"
     },
     "LO": {
         "af": "Lomami",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Lomami",
         "zh_Hant_TW": "Lomami",
         "zu": "Lomami",
-        "zu_ZA": "Lomami"
+        "zu_ZA": "Lomami",
+        "sr@latin": "Lomami",
+        "tt@iqtelif": "Lomami"
     },
     "LU": {
         "af": "Lualaba",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Lualaba",
         "zh_Hant_TW": "Lualaba",
         "zu": "Lualaba",
-        "zu_ZA": "Lualaba"
+        "zu_ZA": "Lualaba",
+        "sr@latin": "Lualaba",
+        "tt@iqtelif": "Lualaba"
     },
     "MA": {
         "af": "Maniema",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Maniema",
         "zh_Hant_TW": "Maniema",
         "zu": "Maniema",
-        "zu_ZA": "Maniema"
+        "zu_ZA": "Maniema",
+        "sr@latin": "Manjema",
+        "tt@iqtelif": "Maniema"
     },
     "MN": {
         "af": "Mai-Ndombe",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Mai-Ndombe",
         "zh_Hant_TW": "Mai-Ndombe",
         "zu": "Mai-Ndombe",
-        "zu_ZA": "Mai-Ndombe"
+        "zu_ZA": "Mai-Ndombe",
+        "sr@latin": "Mai-Ndombe",
+        "tt@iqtelif": "Mai-Ndombe"
     },
     "MO": {
         "af": "Mongala",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Mongala",
         "zh_Hant_TW": "Mongala",
         "zu": "Mongala",
-        "zu_ZA": "Mongala"
+        "zu_ZA": "Mongala",
+        "sr@latin": "Mongala",
+        "tt@iqtelif": "Mongala"
     },
     "NK": {
         "af": "Nord-Kivu",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Nord-Kivu",
         "zh_Hant_TW": "Nord-Kivu",
         "zu": "Nord-Kivu",
-        "zu_ZA": "Nord-Kivu"
+        "zu_ZA": "Nord-Kivu",
+        "sr@latin": "Severni Kivu",
+        "tt@iqtelif": "Nord-Kivu"
     },
     "NU": {
         "af": "Nord-Ubangi",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Nord-Ubangi",
         "zh_Hant_TW": "Nord-Ubangi",
         "zu": "Nord-Ubangi",
-        "zu_ZA": "Nord-Ubangi"
+        "zu_ZA": "Nord-Ubangi",
+        "sr@latin": "Nord-Ubangi",
+        "tt@iqtelif": "Nord-Ubangi"
     },
     "SA": {
         "af": "Sankuru",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Sankuru",
         "zh_Hant_TW": "Sankuru",
         "zu": "Sankuru",
-        "zu_ZA": "Sankuru"
+        "zu_ZA": "Sankuru",
+        "sr@latin": "Sankuru",
+        "tt@iqtelif": "Sankuru"
     },
     "SK": {
         "af": "Sud-Kivu",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Sud-Kivu",
         "zh_Hant_TW": "Sud-Kivu",
         "zu": "Sud-Kivu",
-        "zu_ZA": "Sud-Kivu"
+        "zu_ZA": "Sud-Kivu",
+        "sr@latin": "Južni Kivu",
+        "tt@iqtelif": "Sud-Kivu"
     },
     "SU": {
         "af": "Sud-Ubangi",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Sud-Ubangi",
         "zh_Hant_TW": "Sud-Ubangi",
         "zu": "Sud-Ubangi",
-        "zu_ZA": "Sud-Ubangi"
+        "zu_ZA": "Sud-Ubangi",
+        "sr@latin": "Sud-Ubangi",
+        "tt@iqtelif": "Sud-Ubangi"
     },
     "TA": {
         "af": "Tanganyika",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Tanganyika",
         "zh_Hant_TW": "Tanganyika",
         "zu": "Tanganyika",
-        "zu_ZA": "Tanganyika"
+        "zu_ZA": "Tanganyika",
+        "sr@latin": "Tanganyika",
+        "tt@iqtelif": "Tanganyika"
     },
     "TO": {
         "af": "Tshopo",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Tshopo",
         "zh_Hant_TW": "Tshopo",
         "zu": "Tshopo",
-        "zu_ZA": "Tshopo"
+        "zu_ZA": "Tshopo",
+        "sr@latin": "Tshopo",
+        "tt@iqtelif": "Tshopo"
     },
     "TU": {
         "af": "Tshuapa",
@@ -22955,6 +23005,8 @@
         "zh_Hant_MY": "Tshuapa",
         "zh_Hant_TW": "Tshuapa",
         "zu": "Tshuapa",
-        "zu_ZA": "Tshuapa"
+        "zu_ZA": "Tshuapa",
+        "sr@latin": "Tshuapa",
+        "tt@iqtelif": "Tshuapa"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Arima",
         "zh_Hant_TW": "Arima",
         "zu": "Arima",
-        "zu_ZA": "Arima"
+        "zu_ZA": "Arima",
+        "sr@latin": "Arima",
+        "tt@iqtelif": "Arima"
     },
     "CHA": {
         "af": "Chaguanas",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Chaguanas",
         "zh_Hant_TW": "Chaguanas",
         "zu": "Chaguanas",
-        "zu_ZA": "Chaguanas"
+        "zu_ZA": "Chaguanas",
+        "sr@latin": "Čaguanas",
+        "tt@iqtelif": "Chaguanas"
     },
     "CTT": {
         "af": "Couva-Tabaquite-Talparo",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Couva-Tabaquite-Talparo",
         "zh_Hant_TW": "Couva-Tabaquite-Talparo",
         "zu": "Couva-Tabaquite-Talparo",
-        "zu_ZA": "Couva-Tabaquite-Talparo"
+        "zu_ZA": "Couva-Tabaquite-Talparo",
+        "sr@latin": "Kouva-Tabakvite-Talparo",
+        "tt@iqtelif": "Couva-Tabaquite-Talparo"
     },
     "DMN": {
         "af": "Diego Martin",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Diego Martin",
         "zh_Hant_TW": "Diego Martin",
         "zu": "Diego Martin",
-        "zu_ZA": "Diego Martin"
+        "zu_ZA": "Diego Martin",
+        "sr@latin": "Diego Martin",
+        "tt@iqtelif": "Diego Martin"
     },
     "MRC": {
         "af": "Mayaro-Rio Claro",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Mayaro-Rio Claro",
         "zh_Hant_TW": "Mayaro-Rio Claro",
         "zu": "Mayaro-Rio Claro",
-        "zu_ZA": "Mayaro-Rio Claro"
+        "zu_ZA": "Mayaro-Rio Claro",
+        "sr@latin": "Mayaro-Rio Claro",
+        "tt@iqtelif": "Mayaro-Rio Claro"
     },
     "PED": {
         "af": "Penal-Debe",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Penal-Debe",
         "zh_Hant_TW": "Penal-Debe",
         "zu": "Penal-Debe",
-        "zu_ZA": "Penal-Debe"
+        "zu_ZA": "Penal-Debe",
+        "sr@latin": "Penal Debe",
+        "tt@iqtelif": "Penal-Debe"
     },
     "POS": {
         "af": "Port of Spain",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Port of Spain",
         "zh_Hant_TW": "Port of Spain",
         "zu": "Port of Spain",
-        "zu_ZA": "Port of Spain"
+        "zu_ZA": "Port of Spain",
+        "sr@latin": "Port ov Spejn",
+        "tt@iqtelif": "Port of Spain"
     },
     "PRT": {
         "af": "Princes Town",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Princes Town",
         "zh_Hant_TW": "Princes Town",
         "zu": "Princes Town",
-        "zu_ZA": "Princes Town"
+        "zu_ZA": "Princes Town",
+        "sr@latin": "Prinston",
+        "tt@iqtelif": "Princes Town"
     },
     "PTF": {
         "af": "Point Fortin",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Point Fortin",
         "zh_Hant_TW": "Point Fortin",
         "zu": "Point Fortin",
-        "zu_ZA": "Point Fortin"
+        "zu_ZA": "Point Fortin",
+        "sr@latin": "Puant Fortin",
+        "tt@iqtelif": "Point Fortin"
     },
     "SFO": {
         "af": "San Fernando",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "San Fernando",
         "zh_Hant_TW": "San Fernando",
         "zu": "San Fernando",
-        "zu_ZA": "San Fernando"
+        "zu_ZA": "San Fernando",
+        "sr@latin": "San Fernando",
+        "tt@iqtelif": "San Fernando"
     },
     "SGE": {
         "af": "Sangre Grande",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Sangre Grande",
         "zh_Hant_TW": "Sangre Grande",
         "zu": "Sangre Grande",
-        "zu_ZA": "Sangre Grande"
+        "zu_ZA": "Sangre Grande",
+        "sr@latin": "Sangre Grande",
+        "tt@iqtelif": "Sangre Grande"
     },
     "SIP": {
         "af": "Siparia",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Siparia",
         "zh_Hant_TW": "Siparia",
         "zu": "Siparia",
-        "zu_ZA": "Siparia"
+        "zu_ZA": "Siparia",
+        "sr@latin": "Siparia",
+        "tt@iqtelif": "Siparia"
     },
     "SJL": {
         "af": "San Juan-Laventille",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "San Juan-Laventille",
         "zh_Hant_TW": "San Juan-Laventille",
         "zu": "San Juan-Laventille",
-        "zu_ZA": "San Juan-Laventille"
+        "zu_ZA": "San Juan-Laventille",
+        "sr@latin": "San Huan-Laventij",
+        "tt@iqtelif": "San Juan-Laventille"
     },
     "TOB": {
         "af": "Tobago",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Tobago",
         "zh_Hant_TW": "Tobago",
         "zu": "Tobago",
-        "zu_ZA": "Tobago"
+        "zu_ZA": "Tobago",
+        "sr@latin": "Tobago",
+        "tt@iqtelif": "Tobago"
     },
     "TUP": {
         "af": "Tunapuna-Piarco",
@@ -13242,6 +13270,8 @@
         "zh_Hant_MY": "Tunapuna-Piarco",
         "zh_Hant_TW": "Tunapuna-Piarco",
         "zu": "Tunapuna-Piarco",
-        "zu_ZA": "Tunapuna-Piarco"
+        "zu_ZA": "Tunapuna-Piarco",
+        "sr@latin": "Tunapuna-Piarco",
+        "tt@iqtelif": "Tunapuna-Piarco"
     }
 }

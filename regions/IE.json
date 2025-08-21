@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Connaught",
         "zh_Hant_TW": "Connaught",
         "zu": "Connaught",
-        "zu_ZA": "Connaught"
+        "zu_ZA": "Connaught",
+        "sr@latin": "Connaught",
+        "tt@iqtelif": "Connaught"
     },
     "CE": {
         "af": "Clare",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Clare",
         "zh_Hant_TW": "Clare",
         "zu": "Clare",
-        "zu_ZA": "Clare"
+        "zu_ZA": "Clare",
+        "sr@latin": "Klejr",
+        "tt@iqtelif": "Clare"
     },
     "CN": {
         "af": "Cavan",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Cavan",
         "zh_Hant_TW": "Cavan",
         "zu": "Cavan",
-        "zu_ZA": "Cavan"
+        "zu_ZA": "Cavan",
+        "sr@latin": "Kavan",
+        "tt@iqtelif": "Cavan"
     },
     "CO": {
         "af": "Cork",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Cork",
         "zh_Hant_TW": "Cork",
         "zu": "Cork",
-        "zu_ZA": "Cork"
+        "zu_ZA": "Cork",
+        "sr@latin": "Kork",
+        "tt@iqtelif": "Cork"
     },
     "CW": {
         "af": "Carlow",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Carlow",
         "zh_Hant_TW": "Carlow",
         "zu": "Carlow",
-        "zu_ZA": "Carlow"
+        "zu_ZA": "Carlow",
+        "sr@latin": "Karlov",
+        "tt@iqtelif": "Carlow"
     },
     "D": {
         "af": "Dublin",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Dublin",
         "zh_Hant_TW": "Dublin",
         "zu": "Dublin",
-        "zu_ZA": "Dublin"
+        "zu_ZA": "Dublin",
+        "sr@latin": "Dablin",
+        "tt@iqtelif": "Dublin"
     },
     "DL": {
         "af": "Donegal",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Donegal",
         "zh_Hant_TW": "Donegal",
         "zu": "Donegal",
-        "zu_ZA": "Donegal"
+        "zu_ZA": "Donegal",
+        "sr@latin": "Donegal",
+        "tt@iqtelif": "Donegal"
     },
     "G": {
         "af": "Galway",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Galway",
         "zh_Hant_TW": "Galway",
         "zu": "Galway",
-        "zu_ZA": "Galway"
+        "zu_ZA": "Galway",
+        "sr@latin": "Gejlvej",
+        "tt@iqtelif": "Galway"
     },
     "KE": {
         "af": "Kildare",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kildare",
         "zh_Hant_TW": "Kildare",
         "zu": "Kildare",
-        "zu_ZA": "Kildare"
+        "zu_ZA": "Kildare",
+        "sr@latin": "Kildare",
+        "tt@iqtelif": "Kildare"
     },
     "KK": {
         "af": "Kilkenny",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Kilkenny",
         "zh_Hant_TW": "Kilkenny",
         "zu": "Kilkenny",
-        "zu_ZA": "Kilkenny"
+        "zu_ZA": "Kilkenny",
+        "sr@latin": "Kilkeni",
+        "tt@iqtelif": "Kilkenny"
     },
     "KY": {
         "af": "Kerry",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Kerry",
         "zh_Hant_TW": "Kerry",
         "zu": "Kerry",
-        "zu_ZA": "Kerry"
+        "zu_ZA": "Kerry",
+        "sr@latin": "Keri",
+        "tt@iqtelif": "Kerry"
     },
     "L": {
         "af": "Leinster",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Leinster",
         "zh_Hant_TW": "Leinster",
         "zu": "Leinster",
-        "zu_ZA": "Leinster"
+        "zu_ZA": "Leinster",
+        "sr@latin": "Lajnster",
+        "tt@iqtelif": "Leinster"
     },
     "LD": {
         "af": "Longford",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Longford",
         "zh_Hant_TW": "Longford",
         "zu": "Longford",
-        "zu_ZA": "Longford"
+        "zu_ZA": "Longford",
+        "sr@latin": "Longford",
+        "tt@iqtelif": "Longford"
     },
     "LH": {
         "af": "Louth",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Louth",
         "zh_Hant_TW": "Louth",
         "zu": "Louth",
-        "zu_ZA": "Louth"
+        "zu_ZA": "Louth",
+        "sr@latin": "Lut",
+        "tt@iqtelif": "Louth"
     },
     "LK": {
         "af": "Limerick",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Limerick",
         "zh_Hant_TW": "Limerick",
         "zu": "Limerick",
-        "zu_ZA": "Limerick"
+        "zu_ZA": "Limerick",
+        "sr@latin": "Limerik",
+        "tt@iqtelif": "Limerick"
     },
     "LM": {
         "af": "Leitrim",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Leitrim",
         "zh_Hant_TW": "Leitrim",
         "zu": "Leitrim",
-        "zu_ZA": "Leitrim"
+        "zu_ZA": "Leitrim",
+        "sr@latin": "Lejtrim",
+        "tt@iqtelif": "Leitrim"
     },
     "LS": {
         "af": "Laois",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Laois",
         "zh_Hant_TW": "Laois",
         "zu": "Laois",
-        "zu_ZA": "Laois"
+        "zu_ZA": "Laois",
+        "sr@latin": "Laois",
+        "tt@iqtelif": "Laois"
     },
     "M": {
         "af": "Munster",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Munster",
         "zh_Hant_TW": "Munster",
         "zu": "Munster",
-        "zu_ZA": "Munster"
+        "zu_ZA": "Munster",
+        "sr@latin": "Minster",
+        "tt@iqtelif": "Munster"
     },
     "MH": {
         "af": "Meath",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Meath",
         "zh_Hant_TW": "Meath",
         "zu": "Meath",
-        "zu_ZA": "Meath"
+        "zu_ZA": "Meath",
+        "sr@latin": "Mid",
+        "tt@iqtelif": "Meath"
     },
     "MN": {
         "af": "Monaghan",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Monaghan",
         "zh_Hant_TW": "Monaghan",
         "zu": "Monaghan",
-        "zu_ZA": "Monaghan"
+        "zu_ZA": "Monaghan",
+        "sr@latin": "Monagan",
+        "tt@iqtelif": "Monaghan"
     },
     "MO": {
         "af": "Mayo",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Mayo",
         "zh_Hant_TW": "Mayo",
         "zu": "Mayo",
-        "zu_ZA": "Mayo"
+        "zu_ZA": "Mayo",
+        "sr@latin": "Mejo",
+        "tt@iqtelif": "Mayo"
     },
     "OY": {
         "af": "Offaly",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Offaly",
         "zh_Hant_TW": "Offaly",
         "zu": "Offaly",
-        "zu_ZA": "Offaly"
+        "zu_ZA": "Offaly",
+        "sr@latin": "Offaly",
+        "tt@iqtelif": "Offaly"
     },
     "RN": {
         "af": "Roscommon",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Roscommon",
         "zh_Hant_TW": "Roscommon",
         "zu": "Roscommon",
-        "zu_ZA": "Roscommon"
+        "zu_ZA": "Roscommon",
+        "sr@latin": "Roskomon",
+        "tt@iqtelif": "Roscommon"
     },
     "SO": {
         "af": "Sligo",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Sligo",
         "zh_Hant_TW": "Sligo",
         "zu": "Sligo",
-        "zu_ZA": "Sligo"
+        "zu_ZA": "Sligo",
+        "sr@latin": "Sligo",
+        "tt@iqtelif": "Sligo"
     },
     "TA": {
         "af": "Tipperary",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Tipperary",
         "zh_Hant_TW": "Tipperary",
         "zu": "Tipperary",
-        "zu_ZA": "Tipperary"
+        "zu_ZA": "Tipperary",
+        "sr@latin": "Tipperary",
+        "tt@iqtelif": "Tipperary"
     },
     "U": {
         "af": "Ulster",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Ulster",
         "zh_Hant_TW": "Ulster",
         "zu": "Ulster",
-        "zu_ZA": "Ulster"
+        "zu_ZA": "Ulster",
+        "sr@latin": "Ulster",
+        "tt@iqtelif": "Ulster"
     },
     "WD": {
         "af": "Waterford",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Waterford",
         "zh_Hant_TW": "Waterford",
         "zu": "Waterford",
-        "zu_ZA": "Waterford"
+        "zu_ZA": "Waterford",
+        "sr@latin": "Voterford",
+        "tt@iqtelif": "Waterford"
     },
     "WH": {
         "af": "Westmeath",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Westmeath",
         "zh_Hant_TW": "Westmeath",
         "zu": "Westmeath",
-        "zu_ZA": "Westmeath"
+        "zu_ZA": "Westmeath",
+        "sr@latin": "Vestmit",
+        "tt@iqtelif": "Westmeath"
     },
     "WW": {
         "af": "Wicklow",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Wicklow",
         "zh_Hant_TW": "Wicklow",
         "zu": "Wicklow",
-        "zu_ZA": "Wicklow"
+        "zu_ZA": "Wicklow",
+        "sr@latin": "Viklou",
+        "tt@iqtelif": "Wicklow"
     },
     "WX": {
         "af": "Wexford",
@@ -26487,6 +26545,8 @@
         "zh_Hant_MY": "Wexford",
         "zh_Hant_TW": "Wexford",
         "zu": "Wexford",
-        "zu_ZA": "Wexford"
+        "zu_ZA": "Wexford",
+        "sr@latin": "Veksford",
+        "tt@iqtelif": "Wexford"
     }
 }

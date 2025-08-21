@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Gilbert Islands",
         "zh_Hant_TW": "Gilbert Islands",
         "zu": "Gilbert Islands",
-        "zu_ZA": "Gilbert Islands"
+        "zu_ZA": "Gilbert Islands",
+        "sr@latin": "Gilbertova ostrva",
+        "tt@iqtelif": "Gilbert Islands"
     },
     "L": {
         "af": "Line Islands",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Line Islands",
         "zh_Hant_TW": "Line Islands",
         "zu": "Line Islands",
-        "zu_ZA": "Line Islands"
+        "zu_ZA": "Line Islands",
+        "sr@latin": "Lajn ostrva",
+        "tt@iqtelif": "Line Islands"
     },
     "P": {
         "af": "Phoenix Islands",
@@ -2646,6 +2650,8 @@
         "zh_Hant_MY": "Phoenix Islands",
         "zh_Hant_TW": "Phoenix Islands",
         "zu": "Phoenix Islands",
-        "zu_ZA": "Phoenix Islands"
+        "zu_ZA": "Phoenix Islands",
+        "sr@latin": "Feniks ostrva",
+        "tt@iqtelif": "Phoenix Islands"
     }
 }

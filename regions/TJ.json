@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Dushanbe",
         "zh_Hant_TW": "Dushanbe",
         "zu": "Dushanbe",
-        "zu_ZA": "Dushanbe"
+        "zu_ZA": "Dushanbe",
+        "sr@latin": "Dushanbe",
+        "tt@iqtelif": "Dushanbe"
     },
     "GB": {
         "af": "Kŭhistoni Badakhshon",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kŭhistoni Badakhshon",
         "zh_Hant_TW": "Kŭhistoni Badakhshon",
         "zu": "Kŭhistoni Badakhshon",
-        "zu_ZA": "Kŭhistoni Badakhshon"
+        "zu_ZA": "Kŭhistoni Badakhshon",
+        "sr@latin": "Kŭhistoni Badakhshon",
+        "tt@iqtelif": "Kŭhistoni Badakhshon"
     },
     "KT": {
         "af": "Khatlon",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Khatlon",
         "zh_Hant_TW": "Khatlon",
         "zu": "Khatlon",
-        "zu_ZA": "Khatlon"
+        "zu_ZA": "Khatlon",
+        "sr@latin": "Katlon",
+        "tt@iqtelif": "Khatlon"
     },
     "RA": {
         "af": "nohiyahoi tobei jumhurí",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "nohiyahoi tobei jumhurí",
         "zh_Hant_TW": "nohiyahoi tobei jumhurí",
         "zu": "nohiyahoi tobei jumhurí",
-        "zu_ZA": "nohiyahoi tobei jumhurí"
+        "zu_ZA": "nohiyahoi tobei jumhurí",
+        "sr@latin": "nohiyahoi tobei jumhurí",
+        "tt@iqtelif": "nohiyahoi tobei jumhurí"
     },
     "SU": {
         "af": "Sughd",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Sughd",
         "zh_Hant_TW": "Sughd",
         "zu": "Sughd",
-        "zu_ZA": "Sughd"
+        "zu_ZA": "Sughd",
+        "sr@latin": "Sughd",
+        "tt@iqtelif": "Sughd"
     }
 }

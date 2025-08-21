@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aruba",
         "zh_Hant_TW": "Aruba",
         "zu": "Aruba",
-        "zu_ZA": "Aruba"
+        "zu_ZA": "Aruba",
+        "sr@latin": "Aruba",
+        "tt@iqtelif": "Aruba"
     },
     "BQ1": {
         "af": "Bonaire",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bonaire",
         "zh_Hant_TW": "Bonaire",
         "zu": "Bonaire",
-        "zu_ZA": "Bonaire"
+        "zu_ZA": "Bonaire",
+        "sr@latin": "Boner",
+        "tt@iqtelif": "Bonaire"
     },
     "BQ2": {
         "af": "Saba",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Saba",
         "zh_Hant_TW": "Saba",
         "zu": "Saba",
-        "zu_ZA": "Saba"
+        "zu_ZA": "Saba",
+        "sr@latin": "Saba",
+        "tt@iqtelif": "Saba"
     },
     "BQ3": {
         "af": "Sint Eustatius",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Sint Eustatius",
         "zh_Hant_TW": "Sint Eustatius",
         "zu": "Sint Eustatius",
-        "zu_ZA": "Sint Eustatius"
+        "zu_ZA": "Sint Eustatius",
+        "sr@latin": "Sveti Eustahije",
+        "tt@iqtelif": "Sint Eustatius"
     },
     "CW": {
         "af": "Curaçao",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Curaçao",
         "zh_Hant_TW": "Curaçao",
         "zu": "Curaçao",
-        "zu_ZA": "Curaçao"
+        "zu_ZA": "Curaçao",
+        "sr@latin": "Kurasao",
+        "tt@iqtelif": "Curaçao"
     },
     "DR": {
         "af": "Drenthe",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Drenthe",
         "zh_Hant_TW": "Drenthe",
         "zu": "Drenthe",
-        "zu_ZA": "Drenthe"
+        "zu_ZA": "Drenthe",
+        "sr@latin": "Drente",
+        "tt@iqtelif": "Drenthe"
     },
     "FL": {
         "af": "Flevoland",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Flevoland",
         "zh_Hant_TW": "Flevoland",
         "zu": "Flevoland",
-        "zu_ZA": "Flevoland"
+        "zu_ZA": "Flevoland",
+        "sr@latin": "Flevoland",
+        "tt@iqtelif": "Flevoland"
     },
     "FR": {
         "af": "Fryslân",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Fryslân",
         "zh_Hant_TW": "Fryslân",
         "zu": "Fryslân",
-        "zu_ZA": "Fryslân"
+        "zu_ZA": "Fryslân",
+        "sr@latin": "Fryslân",
+        "tt@iqtelif": "Fryslân"
     },
     "GE": {
         "af": "Gelderland",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Gelderland",
         "zh_Hant_TW": "Gelderland",
         "zu": "Gelderland",
-        "zu_ZA": "Gelderland"
+        "zu_ZA": "Gelderland",
+        "sr@latin": "Gelderland",
+        "tt@iqtelif": "Gelderland"
     },
     "GR": {
         "af": "Groningen",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Groningen",
         "zh_Hant_TW": "Groningen",
         "zu": "Groningen",
-        "zu_ZA": "Groningen"
+        "zu_ZA": "Groningen",
+        "sr@latin": "Groningen",
+        "tt@iqtelif": "Groningen"
     },
     "LI": {
         "af": "Limburg",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Limburg",
         "zh_Hant_TW": "Limburg",
         "zu": "Limburg",
-        "zu_ZA": "Limburg"
+        "zu_ZA": "Limburg",
+        "sr@latin": "Limburg",
+        "tt@iqtelif": "Limburg"
     },
     "NB": {
         "af": "Noord-Brabant",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Noord-Brabant",
         "zh_Hant_TW": "Noord-Brabant",
         "zu": "Noord-Brabant",
-        "zu_ZA": "Noord-Brabant"
+        "zu_ZA": "Noord-Brabant",
+        "sr@latin": "Nord Brabant",
+        "tt@iqtelif": "Noord-Brabant"
     },
     "NH": {
         "af": "Noord-Holland",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Noord-Holland",
         "zh_Hant_TW": "Noord-Holland",
         "zu": "Noord-Holland",
-        "zu_ZA": "Noord-Holland"
+        "zu_ZA": "Noord-Holland",
+        "sr@latin": "Nord Holand",
+        "tt@iqtelif": "Noord-Holland"
     },
     "OV": {
         "af": "Overijssel",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Overijssel",
         "zh_Hant_TW": "Overijssel",
         "zu": "Overijssel",
-        "zu_ZA": "Overijssel"
+        "zu_ZA": "Overijssel",
+        "sr@latin": "Overijsel",
+        "tt@iqtelif": "Overijssel"
     },
     "SX": {
         "af": "Sint Maarten",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Sint Maarten",
         "zh_Hant_TW": "Sint Maarten",
         "zu": "Sint Maarten",
-        "zu_ZA": "Sint Maarten"
+        "zu_ZA": "Sint Maarten",
+        "sr@latin": "Sveti Martin",
+        "tt@iqtelif": "Sint Maarten"
     },
     "UT": {
         "af": "Utrecht",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Utrecht",
         "zh_Hant_TW": "Utrecht",
         "zu": "Utrecht",
-        "zu_ZA": "Utrecht"
+        "zu_ZA": "Utrecht",
+        "sr@latin": "Utreht",
+        "tt@iqtelif": "Utrecht"
     },
     "ZE": {
         "af": "Zeeland",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Zeeland",
         "zh_Hant_TW": "Zeeland",
         "zu": "Zeeland",
-        "zu_ZA": "Zeeland"
+        "zu_ZA": "Zeeland",
+        "sr@latin": "Zeland",
+        "tt@iqtelif": "Zeeland"
     },
     "ZH": {
         "af": "Zuid-Holland",
@@ -15891,6 +15925,8 @@
         "zh_Hant_MY": "Zuid-Holland",
         "zh_Hant_TW": "Zuid-Holland",
         "zu": "Zuid-Holland",
-        "zu_ZA": "Zuid-Holland"
+        "zu_ZA": "Zuid-Holland",
+        "sr@latin": "Zuid-Holand",
+        "tt@iqtelif": "Zuid-Holland"
     }
 }

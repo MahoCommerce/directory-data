@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Zambezi",
         "zh_Hant_TW": "Zambezi",
         "zu": "Zambezi",
-        "zu_ZA": "Zambezi"
+        "zu_ZA": "Zambezi",
+        "sr@latin": "Zambezi",
+        "tt@iqtelif": "Zambezi"
     },
     "ER": {
         "af": "Erongo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Erongo",
         "zh_Hant_TW": "Erongo",
         "zu": "Erongo",
-        "zu_ZA": "Erongo"
+        "zu_ZA": "Erongo",
+        "sr@latin": "Erongo",
+        "tt@iqtelif": "Erongo"
     },
     "HA": {
         "af": "Hardap",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Hardap",
         "zh_Hant_TW": "Hardap",
         "zu": "Hardap",
-        "zu_ZA": "Hardap"
+        "zu_ZA": "Hardap",
+        "sr@latin": "Hardap",
+        "tt@iqtelif": "Hardap"
     },
     "KA": {
         "af": "\/\/Karas",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "\/\/Karas",
         "zh_Hant_TW": "\/\/Karas",
         "zu": "\/\/Karas",
-        "zu_ZA": "\/\/Karas"
+        "zu_ZA": "\/\/Karas",
+        "sr@latin": "\/\/Karas",
+        "tt@iqtelif": "\/\/Karas"
     },
     "KE": {
         "af": "Kavango East",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Kavango East",
         "zh_Hant_TW": "Kavango East",
         "zu": "Kavango East",
-        "zu_ZA": "Kavango East"
+        "zu_ZA": "Kavango East",
+        "sr@latin": "Kavango East",
+        "tt@iqtelif": "Kavango East"
     },
     "KH": {
         "af": "Khomas",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Khomas",
         "zh_Hant_TW": "Khomas",
         "zu": "Khomas",
-        "zu_ZA": "Khomas"
+        "zu_ZA": "Khomas",
+        "sr@latin": "Komas",
+        "tt@iqtelif": "Khomas"
     },
     "KU": {
         "af": "Kunene",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Kunene",
         "zh_Hant_TW": "Kunene",
         "zu": "Kunene",
-        "zu_ZA": "Kunene"
+        "zu_ZA": "Kunene",
+        "sr@latin": "Kunene",
+        "tt@iqtelif": "Kunene"
     },
     "KW": {
         "af": "Kavango West",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kavango West",
         "zh_Hant_TW": "Kavango West",
         "zu": "Kavango West",
-        "zu_ZA": "Kavango West"
+        "zu_ZA": "Kavango West",
+        "sr@latin": "Kavango West",
+        "tt@iqtelif": "Kavango West"
     },
     "OD": {
         "af": "Otjozondjupa",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Otjozondjupa",
         "zh_Hant_TW": "Otjozondjupa",
         "zu": "Otjozondjupa",
-        "zu_ZA": "Otjozondjupa"
+        "zu_ZA": "Otjozondjupa",
+        "sr@latin": "Otjozondjupa",
+        "tt@iqtelif": "Otjozondjupa"
     },
     "OH": {
         "af": "Omaheke",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Omaheke",
         "zh_Hant_TW": "Omaheke",
         "zu": "Omaheke",
-        "zu_ZA": "Omaheke"
+        "zu_ZA": "Omaheke",
+        "sr@latin": "Omaheke",
+        "tt@iqtelif": "Omaheke"
     },
     "ON": {
         "af": "Oshana",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Oshana",
         "zh_Hant_TW": "Oshana",
         "zu": "Oshana",
-        "zu_ZA": "Oshana"
+        "zu_ZA": "Oshana",
+        "sr@latin": "Ošana",
+        "tt@iqtelif": "Oshana"
     },
     "OS": {
         "af": "Omusati",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Omusati",
         "zh_Hant_TW": "Omusati",
         "zu": "Omusati",
-        "zu_ZA": "Omusati"
+        "zu_ZA": "Omusati",
+        "sr@latin": "Omusati",
+        "tt@iqtelif": "Omusati"
     },
     "OT": {
         "af": "Oshikoto",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Oshikoto",
         "zh_Hant_TW": "Oshikoto",
         "zu": "Oshikoto",
-        "zu_ZA": "Oshikoto"
+        "zu_ZA": "Oshikoto",
+        "sr@latin": "Ošikoto",
+        "tt@iqtelif": "Oshikoto"
     },
     "OW": {
         "af": "Ohangwena",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Ohangwena",
         "zh_Hant_TW": "Ohangwena",
         "zu": "Ohangwena",
-        "zu_ZA": "Ohangwena"
+        "zu_ZA": "Ohangwena",
+        "sr@latin": "Ohangwena",
+        "tt@iqtelif": "Ohangwena"
     }
 }

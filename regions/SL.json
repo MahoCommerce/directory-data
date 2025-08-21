@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern"
+        "zu_ZA": "Eastern",
+        "sr@latin": "Eastern",
+        "tt@iqtelif": "Eastern"
     },
     "N": {
         "af": "Northern",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern"
+        "zu_ZA": "Northern",
+        "sr@latin": "Northern",
+        "tt@iqtelif": "Northern"
     },
     "NW": {
         "af": "North Western",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "North Western",
         "zh_Hant_TW": "North Western",
         "zu": "North Western",
-        "zu_ZA": "North Western"
+        "zu_ZA": "North Western",
+        "sr@latin": "North Western",
+        "tt@iqtelif": "North Western"
     },
     "S": {
         "af": "Southern",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Southern",
         "zh_Hant_TW": "Southern",
         "zu": "Southern",
-        "zu_ZA": "Southern"
+        "zu_ZA": "Southern",
+        "sr@latin": "Sautern",
+        "tt@iqtelif": "Southern"
     },
     "W": {
         "af": "Western Area (Freetown)",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Western Area (Freetown)",
         "zh_Hant_TW": "Western Area (Freetown)",
         "zu": "Western Area (Freetown)",
-        "zu_ZA": "Western Area (Freetown)"
+        "zu_ZA": "Western Area (Freetown)",
+        "sr@latin": "Zapadna oblast (Fritaun)",
+        "tt@iqtelif": "Western Area (Freetown)"
     }
 }

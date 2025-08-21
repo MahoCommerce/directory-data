@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Alberta",
         "zh_Hant_TW": "Alberta",
         "zu": "Alberta",
-        "zu_ZA": "Alberta"
+        "zu_ZA": "Alberta",
+        "sr@latin": "Alberta",
+        "tt@iqtelif": "Alberta"
     },
     "BC": {
         "af": "British Columbia",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "British Columbia",
         "zh_Hant_TW": "British Columbia",
         "zu": "British Columbia",
-        "zu_ZA": "British Columbia"
+        "zu_ZA": "British Columbia",
+        "sr@latin": "Britanska Kolumbija",
+        "tt@iqtelif": "British Columbia"
     },
     "MB": {
         "af": "Manitoba",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Manitoba",
         "zh_Hant_TW": "Manitoba",
         "zu": "Manitoba",
-        "zu_ZA": "Manitoba"
+        "zu_ZA": "Manitoba",
+        "sr@latin": "Manitoba",
+        "tt@iqtelif": "Manitoba"
     },
     "NB": {
         "af": "New Brunswick",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "New Brunswick",
         "zh_Hant_TW": "New Brunswick",
         "zu": "New Brunswick",
-        "zu_ZA": "New Brunswick"
+        "zu_ZA": "New Brunswick",
+        "sr@latin": "Nju Brunsvik",
+        "tt@iqtelif": "New Brunswick"
     },
     "NL": {
         "af": "Newfoundland and Labrador",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Newfoundland and Labrador",
         "zh_Hant_TW": "Newfoundland and Labrador",
         "zu": "Newfoundland and Labrador",
-        "zu_ZA": "Newfoundland and Labrador"
+        "zu_ZA": "Newfoundland and Labrador",
+        "sr@latin": "Njufaundlend i Labrador",
+        "tt@iqtelif": "Newfoundland and Labrador"
     },
     "NS": {
         "af": "Nova Scotia",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Nova Scotia",
         "zh_Hant_TW": "Nova Scotia",
         "zu": "Nova Scotia",
-        "zu_ZA": "Nova Scotia"
+        "zu_ZA": "Nova Scotia",
+        "sr@latin": "Nova Škotska",
+        "tt@iqtelif": "Nova Scotia"
     },
     "NT": {
         "af": "Northwest Territories",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Northwest Territories",
         "zh_Hant_TW": "Northwest Territories",
         "zu": "Northwest Territories",
-        "zu_ZA": "Northwest Territories"
+        "zu_ZA": "Northwest Territories",
+        "sr@latin": "Severozapadne teritorije",
+        "tt@iqtelif": "Northwest Territories"
     },
     "NU": {
         "af": "Nunavut",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Nunavut",
         "zh_Hant_TW": "Nunavut",
         "zu": "Nunavut",
-        "zu_ZA": "Nunavut"
+        "zu_ZA": "Nunavut",
+        "sr@latin": "Nunavut",
+        "tt@iqtelif": "Nunavut"
     },
     "ON": {
         "af": "Ontario",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Ontario",
         "zh_Hant_TW": "Ontario",
         "zu": "Ontario",
-        "zu_ZA": "Ontario"
+        "zu_ZA": "Ontario",
+        "sr@latin": "Ontario",
+        "tt@iqtelif": "Ontario"
     },
     "PE": {
         "af": "Prince Edward Island",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Prince Edward Island",
         "zh_Hant_TW": "Prince Edward Island",
         "zu": "Prince Edward Island",
-        "zu_ZA": "Prince Edward Island"
+        "zu_ZA": "Prince Edward Island",
+        "sr@latin": "Ostrvo Princa Edvarda",
+        "tt@iqtelif": "Prince Edward Island"
     },
     "QC": {
         "af": "Quebec",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Quebec",
         "zh_Hant_TW": "Quebec",
         "zu": "Quebec",
-        "zu_ZA": "Quebec"
+        "zu_ZA": "Quebec",
+        "sr@latin": "Kvebek",
+        "tt@iqtelif": "Quebec"
     },
     "SK": {
         "af": "Saskatchewan",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Saskatchewan",
         "zh_Hant_TW": "Saskatchewan",
         "zu": "Saskatchewan",
-        "zu_ZA": "Saskatchewan"
+        "zu_ZA": "Saskatchewan",
+        "sr@latin": "Saskačevan",
+        "tt@iqtelif": "Saskatchewan"
     },
     "YT": {
         "af": "Yukon",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "Yukon",
         "zh_Hant_TW": "Yukon",
         "zu": "Yukon",
-        "zu_ZA": "Yukon"
+        "zu_ZA": "Yukon",
+        "sr@latin": "Yukon",
+        "tt@iqtelif": "Yukon"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Atacora",
         "zh_Hant_TW": "Atacora",
         "zu": "Atacora",
-        "zu_ZA": "Atacora"
+        "zu_ZA": "Atacora",
+        "sr@latin": "Atacora",
+        "tt@iqtelif": "Atacora"
     },
     "AL": {
         "af": "Alibori",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Alibori",
         "zh_Hant_TW": "Alibori",
         "zu": "Alibori",
-        "zu_ZA": "Alibori"
+        "zu_ZA": "Alibori",
+        "sr@latin": "Alibori",
+        "tt@iqtelif": "Alibori"
     },
     "AQ": {
         "af": "Atlantique",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Atlantique",
         "zh_Hant_TW": "Atlantique",
         "zu": "Atlantique",
-        "zu_ZA": "Atlantique"
+        "zu_ZA": "Atlantique",
+        "sr@latin": "Atlantik",
+        "tt@iqtelif": "Atlantique"
     },
     "BO": {
         "af": "Borgou",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Borgou",
         "zh_Hant_TW": "Borgou",
         "zu": "Borgou",
-        "zu_ZA": "Borgou"
+        "zu_ZA": "Borgou",
+        "sr@latin": "Borgu",
+        "tt@iqtelif": "Borgou"
     },
     "CO": {
         "af": "Collines",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Collines",
         "zh_Hant_TW": "Collines",
         "zu": "Collines",
-        "zu_ZA": "Collines"
+        "zu_ZA": "Collines",
+        "sr@latin": "Koljines",
+        "tt@iqtelif": "Collines"
     },
     "DO": {
         "af": "Donga",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Donga",
         "zh_Hant_TW": "Donga",
         "zu": "Donga",
-        "zu_ZA": "Donga"
+        "zu_ZA": "Donga",
+        "sr@latin": "Donga",
+        "tt@iqtelif": "Donga"
     },
     "KO": {
         "af": "Couffo",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Couffo",
         "zh_Hant_TW": "Couffo",
         "zu": "Couffo",
-        "zu_ZA": "Couffo"
+        "zu_ZA": "Couffo",
+        "sr@latin": "Couffo",
+        "tt@iqtelif": "Couffo"
     },
     "LI": {
         "af": "Littoral",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Littoral",
         "zh_Hant_TW": "Littoral",
         "zu": "Littoral",
-        "zu_ZA": "Littoral"
+        "zu_ZA": "Littoral",
+        "sr@latin": "Litoral",
+        "tt@iqtelif": "Littoral"
     },
     "MO": {
         "af": "Mono",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Mono",
         "zh_Hant_TW": "Mono",
         "zu": "Mono",
-        "zu_ZA": "Mono"
+        "zu_ZA": "Mono",
+        "sr@latin": "Mono",
+        "tt@iqtelif": "Mono"
     },
     "OU": {
         "af": "Ouémé",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Ouémé",
         "zh_Hant_TW": "Ouémé",
         "zu": "Ouémé",
-        "zu_ZA": "Ouémé"
+        "zu_ZA": "Ouémé",
+        "sr@latin": "Ueme",
+        "tt@iqtelif": "Ouémé"
     },
     "PL": {
         "af": "Plateau",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Plateau",
         "zh_Hant_TW": "Plateau",
         "zu": "Plateau",
-        "zu_ZA": "Plateau"
+        "zu_ZA": "Plateau",
+        "sr@latin": "Plato",
+        "tt@iqtelif": "Plateau"
     },
     "ZO": {
         "af": "Zou",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Zou",
         "zh_Hant_TW": "Zou",
         "zu": "Zou",
-        "zu_ZA": "Zou"
+        "zu_ZA": "Zou",
+        "sr@latin": "Zu",
+        "tt@iqtelif": "Zou"
     }
 }

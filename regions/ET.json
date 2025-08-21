@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Addis Ababa",
         "zh_Hant_TW": "Addis Ababa",
         "zu": "Addis Ababa",
-        "zu_ZA": "Addis Ababa"
+        "zu_ZA": "Addis Ababa",
+        "sr@latin": "Addis Ababa",
+        "tt@iqtelif": "Addis Ababa"
     },
     "AF": {
         "af": "Afar",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Afar",
         "zh_Hant_TW": "Afar",
         "zu": "Afar",
-        "zu_ZA": "Afar"
+        "zu_ZA": "Afar",
+        "sr@latin": "Afar",
+        "tt@iqtelif": "Afar"
     },
     "AM": {
         "af": "Amara",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Amara",
         "zh_Hant_TW": "Amara",
         "zu": "Amara",
-        "zu_ZA": "Amara"
+        "zu_ZA": "Amara",
+        "sr@latin": "Amara",
+        "tt@iqtelif": "Amara"
     },
     "BE": {
         "af": "Benshangul-Gumaz",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Benshangul-Gumaz",
         "zh_Hant_TW": "Benshangul-Gumaz",
         "zu": "Benshangul-Gumaz",
-        "zu_ZA": "Benshangul-Gumaz"
+        "zu_ZA": "Benshangul-Gumaz",
+        "sr@latin": "Benshangul-Gumaz",
+        "tt@iqtelif": "Benshangul-Gumaz"
     },
     "DD": {
         "af": "Dire Dawa",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Dire Dawa",
         "zh_Hant_TW": "Dire Dawa",
         "zu": "Dire Dawa",
-        "zu_ZA": "Dire Dawa"
+        "zu_ZA": "Dire Dawa",
+        "sr@latin": "Dire Dawa",
+        "tt@iqtelif": "Dire Dawa"
     },
     "GA": {
         "af": "Gambela Peoples",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Gambela Peoples",
         "zh_Hant_TW": "Gambela Peoples",
         "zu": "Gambela Peoples",
-        "zu_ZA": "Gambela Peoples"
+        "zu_ZA": "Gambela Peoples",
+        "sr@latin": "Gambela Peoples",
+        "tt@iqtelif": "Gambela Peoples"
     },
     "HA": {
         "af": "Harari People",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Harari People",
         "zh_Hant_TW": "Harari People",
         "zu": "Harari People",
-        "zu_ZA": "Harari People"
+        "zu_ZA": "Harari People",
+        "sr@latin": "Harari People",
+        "tt@iqtelif": "Harari People"
     },
     "OR": {
         "af": "Oromia",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Oromia",
         "zh_Hant_TW": "Oromia",
         "zu": "Oromia",
-        "zu_ZA": "Oromia"
+        "zu_ZA": "Oromia",
+        "sr@latin": "Oromia",
+        "tt@iqtelif": "Oromia"
     },
     "SI": {
         "af": "Sidama",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Sidama",
         "zh_Hant_TW": "Sidama",
         "zu": "Sidama",
-        "zu_ZA": "Sidama"
+        "zu_ZA": "Sidama",
+        "sr@latin": "Sidama",
+        "tt@iqtelif": "Sidama"
     },
     "SN": {
         "af": "Southern Nations, Nationalities and Peoples",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Southern Nations, Nationalities and Peoples",
         "zh_Hant_TW": "Southern Nations, Nationalities and Peoples",
         "zu": "Southern Nations, Nationalities and Peoples",
-        "zu_ZA": "Southern Nations, Nationalities and Peoples"
+        "zu_ZA": "Southern Nations, Nationalities and Peoples",
+        "sr@latin": "Southern Nations, Nationalities and Peoples",
+        "tt@iqtelif": "Southern Nations, Nationalities and Peoples"
     },
     "SO": {
         "af": "Somali",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Somali",
         "zh_Hant_TW": "Somali",
         "zu": "Somali",
-        "zu_ZA": "Somali"
+        "zu_ZA": "Somali",
+        "sr@latin": "Somali",
+        "tt@iqtelif": "Somali"
     },
     "SW": {
         "af": "Southwest Ethiopia Peoples",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Southwest Ethiopia Peoples",
         "zh_Hant_TW": "Southwest Ethiopia Peoples",
         "zu": "Southwest Ethiopia Peoples",
-        "zu_ZA": "Southwest Ethiopia Peoples"
+        "zu_ZA": "Southwest Ethiopia Peoples",
+        "sr@latin": "Southwest Ethiopia Peoples",
+        "tt@iqtelif": "Southwest Ethiopia Peoples"
     },
     "TI": {
         "af": "Tigrai",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "Tigrai",
         "zh_Hant_TW": "Tigrai",
         "zu": "Tigrai",
-        "zu_ZA": "Tigrai"
+        "zu_ZA": "Tigrai",
+        "sr@latin": "Tigrai",
+        "tt@iqtelif": "Tigrai"
     }
 }

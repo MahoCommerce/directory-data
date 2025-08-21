@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Centrale",
         "zh_Hant_TW": "Centrale",
         "zu": "Centrale",
-        "zu_ZA": "Centrale"
+        "zu_ZA": "Centrale",
+        "sr@latin": "Centrale",
+        "tt@iqtelif": "Centrale"
     },
     "K": {
         "af": "Kara",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kara",
         "zh_Hant_TW": "Kara",
         "zu": "Kara",
-        "zu_ZA": "Kara"
+        "zu_ZA": "Kara",
+        "sr@latin": "Kara",
+        "tt@iqtelif": "Kara"
     },
     "M": {
         "af": "Maritime (Région)",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Maritime (Région)",
         "zh_Hant_TW": "Maritime (Région)",
         "zu": "Maritime (Région)",
-        "zu_ZA": "Maritime (Région)"
+        "zu_ZA": "Maritime (Région)",
+        "sr@latin": "Maritime (Région)",
+        "tt@iqtelif": "Maritime (Région)"
     },
     "P": {
         "af": "Plateaux",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Plateaux",
         "zh_Hant_TW": "Plateaux",
         "zu": "Plateaux",
-        "zu_ZA": "Plateaux"
+        "zu_ZA": "Plateaux",
+        "sr@latin": "Plato",
+        "tt@iqtelif": "Plateaux"
     },
     "S": {
         "af": "Savanes",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Savanes",
         "zh_Hant_TW": "Savanes",
         "zu": "Savanes",
-        "zu_ZA": "Savanes"
+        "zu_ZA": "Savanes",
+        "sr@latin": "Savanes",
+        "tt@iqtelif": "Savanes"
     }
 }

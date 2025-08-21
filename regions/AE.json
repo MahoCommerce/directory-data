@@ -880,7 +880,9 @@
         "zh_Hant_MY": "‘Ajmān",
         "zh_Hant_TW": "‘Ajmān",
         "zu": "‘Ajmān",
-        "zu_ZA": "‘Ajmān"
+        "zu_ZA": "‘Ajmān",
+        "sr@latin": "‘Ajmān",
+        "tt@iqtelif": "‘Ajmān"
     },
     "AZ": {
         "af": "Abū Z̧aby",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Abū Z̧aby",
         "zh_Hant_TW": "Abū Z̧aby",
         "zu": "Abū Z̧aby",
-        "zu_ZA": "Abū Z̧aby"
+        "zu_ZA": "Abū Z̧aby",
+        "sr@latin": "Abū Z̧aby",
+        "tt@iqtelif": "Abū Z̧aby"
     },
     "DU": {
         "af": "Dubayy",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Dubayy",
         "zh_Hant_TW": "Dubayy",
         "zu": "Dubayy",
-        "zu_ZA": "Dubayy"
+        "zu_ZA": "Dubayy",
+        "sr@latin": "Dubai",
+        "tt@iqtelif": "Dubayy"
     },
     "FU": {
         "af": "Al Fujayrah",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Al Fujayrah",
         "zh_Hant_TW": "Al Fujayrah",
         "zu": "Al Fujayrah",
-        "zu_ZA": "Al Fujayrah"
+        "zu_ZA": "Al Fujayrah",
+        "sr@latin": "El Fudžara",
+        "tt@iqtelif": "Al Fujayrah"
     },
     "RK": {
         "af": "Ra’s al Khaymah",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Ra’s al Khaymah",
         "zh_Hant_TW": "Ra’s al Khaymah",
         "zu": "Ra’s al Khaymah",
-        "zu_ZA": "Ra’s al Khaymah"
+        "zu_ZA": "Ra’s al Khaymah",
+        "sr@latin": "Ras al Kajmah",
+        "tt@iqtelif": "Ra’s al Khaymah"
     },
     "SH": {
         "af": "Ash Shāriqah",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ash Shāriqah",
         "zh_Hant_TW": "Ash Shāriqah",
         "zu": "Ash Shāriqah",
-        "zu_ZA": "Ash Shāriqah"
+        "zu_ZA": "Ash Shāriqah",
+        "sr@latin": "Aš Šarika",
+        "tt@iqtelif": "Ash Shāriqah"
     },
     "UQ": {
         "af": "Umm al Qaywayn",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "Umm al Qaywayn",
         "zh_Hant_TW": "Umm al Qaywayn",
         "zu": "Umm al Qaywayn",
-        "zu_ZA": "Umm al Qaywayn"
+        "zu_ZA": "Umm al Qaywayn",
+        "sr@latin": "Um al Kajvajn",
+        "tt@iqtelif": "Umm al Qaywayn"
     }
 }

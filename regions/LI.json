@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Balzers",
         "zh_Hant_TW": "Balzers",
         "zu": "Balzers",
-        "zu_ZA": "Balzers"
+        "zu_ZA": "Balzers",
+        "sr@latin": "Balzers",
+        "tt@iqtelif": "Balzers"
     },
     "02": {
         "af": "Eschen",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Eschen",
         "zh_Hant_TW": "Eschen",
         "zu": "Eschen",
-        "zu_ZA": "Eschen"
+        "zu_ZA": "Eschen",
+        "sr@latin": "Esšen",
+        "tt@iqtelif": "Eschen"
     },
     "03": {
         "af": "Gamprin",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Gamprin",
         "zh_Hant_TW": "Gamprin",
         "zu": "Gamprin",
-        "zu_ZA": "Gamprin"
+        "zu_ZA": "Gamprin",
+        "sr@latin": "Gamprin",
+        "tt@iqtelif": "Gamprin"
     },
     "04": {
         "af": "Mauren",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Mauren",
         "zh_Hant_TW": "Mauren",
         "zu": "Mauren",
-        "zu_ZA": "Mauren"
+        "zu_ZA": "Mauren",
+        "sr@latin": "Mauren",
+        "tt@iqtelif": "Mauren"
     },
     "05": {
         "af": "Planken",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Planken",
         "zh_Hant_TW": "Planken",
         "zu": "Planken",
-        "zu_ZA": "Planken"
+        "zu_ZA": "Planken",
+        "sr@latin": "Planken",
+        "tt@iqtelif": "Planken"
     },
     "06": {
         "af": "Ruggell",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ruggell",
         "zh_Hant_TW": "Ruggell",
         "zu": "Ruggell",
-        "zu_ZA": "Ruggell"
+        "zu_ZA": "Ruggell",
+        "sr@latin": "Ruggell",
+        "tt@iqtelif": "Ruggell"
     },
     "07": {
         "af": "Schaan",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Schaan",
         "zh_Hant_TW": "Schaan",
         "zu": "Schaan",
-        "zu_ZA": "Schaan"
+        "zu_ZA": "Schaan",
+        "sr@latin": "Šan",
+        "tt@iqtelif": "Schaan"
     },
     "08": {
         "af": "Schellenberg",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Schellenberg",
         "zh_Hant_TW": "Schellenberg",
         "zu": "Schellenberg",
-        "zu_ZA": "Schellenberg"
+        "zu_ZA": "Schellenberg",
+        "sr@latin": "Šelenberg",
+        "tt@iqtelif": "Schellenberg"
     },
     "09": {
         "af": "Triesen",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Triesen",
         "zh_Hant_TW": "Triesen",
         "zu": "Triesen",
-        "zu_ZA": "Triesen"
+        "zu_ZA": "Triesen",
+        "sr@latin": "Triesen",
+        "tt@iqtelif": "Triesen"
     },
     "10": {
         "af": "Triesenberg",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Triesenberg",
         "zh_Hant_TW": "Triesenberg",
         "zu": "Triesenberg",
-        "zu_ZA": "Triesenberg"
+        "zu_ZA": "Triesenberg",
+        "sr@latin": "Triesenberg",
+        "tt@iqtelif": "Triesenberg"
     },
     "11": {
         "af": "Vaduz",
@@ -9710,6 +9730,8 @@
         "zh_Hant_MY": "Vaduz",
         "zh_Hant_TW": "Vaduz",
         "zu": "Vaduz",
-        "zu_ZA": "Vaduz"
+        "zu_ZA": "Vaduz",
+        "sr@latin": "Vaduz",
+        "tt@iqtelif": "Vaduz"
     }
 }

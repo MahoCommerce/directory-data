@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central"
+        "zu_ZA": "Central",
+        "sr@latin": "Centralni",
+        "tt@iqtelif": "Central"
     },
     "CH": {
         "af": "Chobe",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Chobe",
         "zh_Hant_TW": "Chobe",
         "zu": "Chobe",
-        "zu_ZA": "Chobe"
+        "zu_ZA": "Chobe",
+        "sr@latin": "Chobe",
+        "tt@iqtelif": "Chobe"
     },
     "FR": {
         "af": "Francistown",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Francistown",
         "zh_Hant_TW": "Francistown",
         "zu": "Francistown",
-        "zu_ZA": "Francistown"
+        "zu_ZA": "Francistown",
+        "sr@latin": "Francistown",
+        "tt@iqtelif": "Francistown"
     },
     "GA": {
         "af": "Gaborone",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Gaborone",
         "zh_Hant_TW": "Gaborone",
         "zu": "Gaborone",
-        "zu_ZA": "Gaborone"
+        "zu_ZA": "Gaborone",
+        "sr@latin": "Gaborone",
+        "tt@iqtelif": "Gaborone"
     },
     "GH": {
         "af": "Ghanzi",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Ghanzi",
         "zh_Hant_TW": "Ghanzi",
         "zu": "Ghanzi",
-        "zu_ZA": "Ghanzi"
+        "zu_ZA": "Ghanzi",
+        "sr@latin": "Ganzi",
+        "tt@iqtelif": "Ghanzi"
     },
     "JW": {
         "af": "Jwaneng",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Jwaneng",
         "zh_Hant_TW": "Jwaneng",
         "zu": "Jwaneng",
-        "zu_ZA": "Jwaneng"
+        "zu_ZA": "Jwaneng",
+        "sr@latin": "Jwaneng",
+        "tt@iqtelif": "Jwaneng"
     },
     "KG": {
         "af": "Kgalagadi",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Kgalagadi",
         "zh_Hant_TW": "Kgalagadi",
         "zu": "Kgalagadi",
-        "zu_ZA": "Kgalagadi"
+        "zu_ZA": "Kgalagadi",
+        "sr@latin": "Kgalagadi",
+        "tt@iqtelif": "Kgalagadi"
     },
     "KL": {
         "af": "Kgatleng",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kgatleng",
         "zh_Hant_TW": "Kgatleng",
         "zu": "Kgatleng",
-        "zu_ZA": "Kgatleng"
+        "zu_ZA": "Kgatleng",
+        "sr@latin": "Kgatleng",
+        "tt@iqtelif": "Kgatleng"
     },
     "KW": {
         "af": "Kweneng",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kweneng",
         "zh_Hant_TW": "Kweneng",
         "zu": "Kweneng",
-        "zu_ZA": "Kweneng"
+        "zu_ZA": "Kweneng",
+        "sr@latin": "Kveneng",
+        "tt@iqtelif": "Kweneng"
     },
     "LO": {
         "af": "Lobatse",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Lobatse",
         "zh_Hant_TW": "Lobatse",
         "zu": "Lobatse",
-        "zu_ZA": "Lobatse"
+        "zu_ZA": "Lobatse",
+        "sr@latin": "Lobatse",
+        "tt@iqtelif": "Lobatse"
     },
     "NE": {
         "af": "North East",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "North East",
         "zh_Hant_TW": "North East",
         "zu": "North East",
-        "zu_ZA": "North East"
+        "zu_ZA": "North East",
+        "sr@latin": "Severoistok",
+        "tt@iqtelif": "North East"
     },
     "NW": {
         "af": "North West",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "North West",
         "zh_Hant_TW": "North West",
         "zu": "North West",
-        "zu_ZA": "North West"
+        "zu_ZA": "North West",
+        "sr@latin": "Severozapad",
+        "tt@iqtelif": "North West"
     },
     "SE": {
         "af": "South East",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "South East",
         "zh_Hant_TW": "South East",
         "zu": "South East",
-        "zu_ZA": "South East"
+        "zu_ZA": "South East",
+        "sr@latin": "Jugoistok",
+        "tt@iqtelif": "South East"
     },
     "SO": {
         "af": "Southern",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Southern",
         "zh_Hant_TW": "Southern",
         "zu": "Southern",
-        "zu_ZA": "Southern"
+        "zu_ZA": "Southern",
+        "sr@latin": "Sautern",
+        "tt@iqtelif": "Southern"
     },
     "SP": {
         "af": "Selibe Phikwe",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Selibe Phikwe",
         "zh_Hant_TW": "Selibe Phikwe",
         "zu": "Selibe Phikwe",
-        "zu_ZA": "Selibe Phikwe"
+        "zu_ZA": "Selibe Phikwe",
+        "sr@latin": "Selibe Phikwe",
+        "tt@iqtelif": "Selibe Phikwe"
     },
     "ST": {
         "af": "Sowa Town",
@@ -14125,6 +14155,8 @@
         "zh_Hant_MY": "Sowa Town",
         "zh_Hant_TW": "Sowa Town",
         "zu": "Sowa Town",
-        "zu_ZA": "Sowa Town"
+        "zu_ZA": "Sowa Town",
+        "sr@latin": "Sowa Town",
+        "tt@iqtelif": "Sowa Town"
     }
 }

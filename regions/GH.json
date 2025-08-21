@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Greater Accra",
         "zh_Hant_TW": "Greater Accra",
         "zu": "Greater Accra",
-        "zu_ZA": "Greater Accra"
+        "zu_ZA": "Greater Accra",
+        "sr@latin": "Grejter Akra",
+        "tt@iqtelif": "Greater Accra"
     },
     "AF": {
         "af": "Ahafo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ahafo",
         "zh_Hant_TW": "Ahafo",
         "zu": "Ahafo",
-        "zu_ZA": "Ahafo"
+        "zu_ZA": "Ahafo",
+        "sr@latin": "Ahafo",
+        "tt@iqtelif": "Ahafo"
     },
     "AH": {
         "af": "Ashanti",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Ashanti",
         "zh_Hant_TW": "Ashanti",
         "zu": "Ashanti",
-        "zu_ZA": "Ashanti"
+        "zu_ZA": "Ashanti",
+        "sr@latin": "Ašanti",
+        "tt@iqtelif": "Ashanti"
     },
     "BE": {
         "af": "Bono East",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Bono East",
         "zh_Hant_TW": "Bono East",
         "zu": "Bono East",
-        "zu_ZA": "Bono East"
+        "zu_ZA": "Bono East",
+        "sr@latin": "Bono East",
+        "tt@iqtelif": "Bono East"
     },
     "BO": {
         "af": "Bono",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Bono",
         "zh_Hant_TW": "Bono",
         "zu": "Bono",
-        "zu_ZA": "Bono"
+        "zu_ZA": "Bono",
+        "sr@latin": "Bono",
+        "tt@iqtelif": "Bono"
     },
     "CP": {
         "af": "Central",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central"
+        "zu_ZA": "Central",
+        "sr@latin": "Centralni",
+        "tt@iqtelif": "Central"
     },
     "EP": {
         "af": "Eastern",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern"
+        "zu_ZA": "Eastern",
+        "sr@latin": "Eastern",
+        "tt@iqtelif": "Eastern"
     },
     "NE": {
         "af": "North East",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "North East",
         "zh_Hant_TW": "North East",
         "zu": "North East",
-        "zu_ZA": "North East"
+        "zu_ZA": "North East",
+        "sr@latin": "Severoistok",
+        "tt@iqtelif": "North East"
     },
     "NP": {
         "af": "Northern",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern"
+        "zu_ZA": "Northern",
+        "sr@latin": "Northern",
+        "tt@iqtelif": "Northern"
     },
     "OT": {
         "af": "Oti",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Oti",
         "zh_Hant_TW": "Oti",
         "zu": "Oti",
-        "zu_ZA": "Oti"
+        "zu_ZA": "Oti",
+        "sr@latin": "Oti",
+        "tt@iqtelif": "Oti"
     },
     "SV": {
         "af": "Savannah",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Savannah",
         "zh_Hant_TW": "Savannah",
         "zu": "Savannah",
-        "zu_ZA": "Savannah"
+        "zu_ZA": "Savannah",
+        "sr@latin": "Savannah",
+        "tt@iqtelif": "Savannah"
     },
     "TV": {
         "af": "Volta",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Volta",
         "zh_Hant_TW": "Volta",
         "zu": "Volta",
-        "zu_ZA": "Volta"
+        "zu_ZA": "Volta",
+        "sr@latin": "Volta",
+        "tt@iqtelif": "Volta"
     },
     "UE": {
         "af": "Upper East",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Upper East",
         "zh_Hant_TW": "Upper East",
         "zu": "Upper East",
-        "zu_ZA": "Upper East"
+        "zu_ZA": "Upper East",
+        "sr@latin": "Upper East",
+        "tt@iqtelif": "Upper East"
     },
     "UW": {
         "af": "Upper West",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Upper West",
         "zh_Hant_TW": "Upper West",
         "zu": "Upper West",
-        "zu_ZA": "Upper West"
+        "zu_ZA": "Upper West",
+        "sr@latin": "Upper West",
+        "tt@iqtelif": "Upper West"
     },
     "WN": {
         "af": "Western North",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Western North",
         "zh_Hant_TW": "Western North",
         "zu": "Western North",
-        "zu_ZA": "Western North"
+        "zu_ZA": "Western North",
+        "sr@latin": "Western North",
+        "tt@iqtelif": "Western North"
     },
     "WP": {
         "af": "Western",
@@ -14125,6 +14155,8 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western"
+        "zu_ZA": "Western",
+        "sr@latin": "Western",
+        "tt@iqtelif": "Western"
     }
 }

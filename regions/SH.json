@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ascension",
         "zh_Hant_TW": "Ascension",
         "zu": "Ascension",
-        "zu_ZA": "Ascension"
+        "zu_ZA": "Ascension",
+        "sr@latin": "Ascension",
+        "tt@iqtelif": "Ascension"
     },
     "HL": {
         "af": "Saint Helena",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saint Helena",
         "zh_Hant_TW": "Saint Helena",
         "zu": "Saint Helena",
-        "zu_ZA": "Saint Helena"
+        "zu_ZA": "Saint Helena",
+        "sr@latin": "Sveta Jelena",
+        "tt@iqtelif": "Saint Helena"
     },
     "TA": {
         "af": "Tristan da Cunha",
@@ -2646,6 +2650,8 @@
         "zh_Hant_MY": "Tristan da Cunha",
         "zh_Hant_TW": "Tristan da Cunha",
         "zu": "Tristan da Cunha",
-        "zu_ZA": "Tristan da Cunha"
+        "zu_ZA": "Tristan da Cunha",
+        "sr@latin": "Tristan da Cunha",
+        "tt@iqtelif": "Tristan da Cunha"
     }
 }

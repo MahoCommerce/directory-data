@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Brokopondo",
         "zh_Hant_TW": "Brokopondo",
         "zu": "Brokopondo",
-        "zu_ZA": "Brokopondo"
+        "zu_ZA": "Brokopondo",
+        "sr@latin": "Brokopondo",
+        "tt@iqtelif": "Brokopondo"
     },
     "CM": {
         "af": "Commewijne",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Commewijne",
         "zh_Hant_TW": "Commewijne",
         "zu": "Commewijne",
-        "zu_ZA": "Commewijne"
+        "zu_ZA": "Commewijne",
+        "sr@latin": "Komevijne",
+        "tt@iqtelif": "Commewijne"
     },
     "CR": {
         "af": "Coronie",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Coronie",
         "zh_Hant_TW": "Coronie",
         "zu": "Coronie",
-        "zu_ZA": "Coronie"
+        "zu_ZA": "Coronie",
+        "sr@latin": "Koroni",
+        "tt@iqtelif": "Coronie"
     },
     "MA": {
         "af": "Marowijne",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Marowijne",
         "zh_Hant_TW": "Marowijne",
         "zu": "Marowijne",
-        "zu_ZA": "Marowijne"
+        "zu_ZA": "Marowijne",
+        "sr@latin": "Marowijne",
+        "tt@iqtelif": "Marowijne"
     },
     "NI": {
         "af": "Nickerie",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Nickerie",
         "zh_Hant_TW": "Nickerie",
         "zu": "Nickerie",
-        "zu_ZA": "Nickerie"
+        "zu_ZA": "Nickerie",
+        "sr@latin": "Nikeri",
+        "tt@iqtelif": "Nickerie"
     },
     "PM": {
         "af": "Paramaribo",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Paramaribo",
         "zh_Hant_TW": "Paramaribo",
         "zu": "Paramaribo",
-        "zu_ZA": "Paramaribo"
+        "zu_ZA": "Paramaribo",
+        "sr@latin": "Paramaribo",
+        "tt@iqtelif": "Paramaribo"
     },
     "PR": {
         "af": "Para",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Para",
         "zh_Hant_TW": "Para",
         "zu": "Para",
-        "zu_ZA": "Para"
+        "zu_ZA": "Para",
+        "sr@latin": "Para",
+        "tt@iqtelif": "Para"
     },
     "SA": {
         "af": "Saramacca",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Saramacca",
         "zh_Hant_TW": "Saramacca",
         "zu": "Saramacca",
-        "zu_ZA": "Saramacca"
+        "zu_ZA": "Saramacca",
+        "sr@latin": "Saramaka",
+        "tt@iqtelif": "Saramacca"
     },
     "SI": {
         "af": "Sipaliwini",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Sipaliwini",
         "zh_Hant_TW": "Sipaliwini",
         "zu": "Sipaliwini",
-        "zu_ZA": "Sipaliwini"
+        "zu_ZA": "Sipaliwini",
+        "sr@latin": "Sipaliwini",
+        "tt@iqtelif": "Sipaliwini"
     },
     "WA": {
         "af": "Wanica",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Wanica",
         "zh_Hant_TW": "Wanica",
         "zu": "Wanica",
-        "zu_ZA": "Wanica"
+        "zu_ZA": "Wanica",
+        "sr@latin": "Wanica",
+        "tt@iqtelif": "Wanica"
     }
 }

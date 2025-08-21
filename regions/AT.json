@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Burgenland",
         "zh_Hant_TW": "Burgenland",
         "zu": "Burgenland",
-        "zu_ZA": "Burgenland"
+        "zu_ZA": "Burgenland",
+        "sr@latin": "Burgenlend",
+        "tt@iqtelif": "Burgenland"
     },
     "2": {
         "af": "Kärnten",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kärnten",
         "zh_Hant_TW": "Kärnten",
         "zu": "Kärnten",
-        "zu_ZA": "Kärnten"
+        "zu_ZA": "Kärnten",
+        "sr@latin": "Karnten",
+        "tt@iqtelif": "Kärnten"
     },
     "3": {
         "af": "Niederösterreich",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Niederösterreich",
         "zh_Hant_TW": "Niederösterreich",
         "zu": "Niederösterreich",
-        "zu_ZA": "Niederösterreich"
+        "zu_ZA": "Niederösterreich",
+        "sr@latin": "Donja Austrija",
+        "tt@iqtelif": "Niederösterreich"
     },
     "4": {
         "af": "Oberösterreich",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Oberösterreich",
         "zh_Hant_TW": "Oberösterreich",
         "zu": "Oberösterreich",
-        "zu_ZA": "Oberösterreich"
+        "zu_ZA": "Oberösterreich",
+        "sr@latin": "Gornja Austrija",
+        "tt@iqtelif": "Oberösterreich"
     },
     "5": {
         "af": "Salzburg",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Salzburg",
         "zh_Hant_TW": "Salzburg",
         "zu": "Salzburg",
-        "zu_ZA": "Salzburg"
+        "zu_ZA": "Salzburg",
+        "sr@latin": "Salcburg",
+        "tt@iqtelif": "Salzburg"
     },
     "6": {
         "af": "Steiermark",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Steiermark",
         "zh_Hant_TW": "Steiermark",
         "zu": "Steiermark",
-        "zu_ZA": "Steiermark"
+        "zu_ZA": "Steiermark",
+        "sr@latin": "Štajermark",
+        "tt@iqtelif": "Steiermark"
     },
     "7": {
         "af": "Tirol",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Tirol",
         "zh_Hant_TW": "Tirol",
         "zu": "Tirol",
-        "zu_ZA": "Tirol"
+        "zu_ZA": "Tirol",
+        "sr@latin": "Tirol",
+        "tt@iqtelif": "Tirol"
     },
     "8": {
         "af": "Vorarlberg",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Vorarlberg",
         "zh_Hant_TW": "Vorarlberg",
         "zu": "Vorarlberg",
-        "zu_ZA": "Vorarlberg"
+        "zu_ZA": "Vorarlberg",
+        "sr@latin": "Vorarlberg",
+        "tt@iqtelif": "Vorarlberg"
     },
     "9": {
         "af": "Wien",
@@ -7944,6 +7960,8 @@
         "zh_Hant_MY": "Wien",
         "zh_Hant_TW": "Wien",
         "zu": "Wien",
-        "zu_ZA": "Wien"
+        "zu_ZA": "Wien",
+        "sr@latin": "Beč",
+        "tt@iqtelif": "Wien"
     }
 }

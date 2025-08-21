@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew"
+        "zu_ZA": "Saint Andrew",
+        "sr@latin": "Sveti Andreja",
+        "tt@iqtelif": "Saint Andrew"
     },
     "02": {
         "af": "Saint David",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saint David",
         "zh_Hant_TW": "Saint David",
         "zu": "Saint David",
-        "zu_ZA": "Saint David"
+        "zu_ZA": "Saint David",
+        "sr@latin": "Sveti David",
+        "tt@iqtelif": "Saint David"
     },
     "03": {
         "af": "Saint George",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George"
+        "zu_ZA": "Saint George",
+        "sr@latin": "Sent Džordž",
+        "tt@iqtelif": "Saint George"
     },
     "04": {
         "af": "Saint John",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John"
+        "zu_ZA": "Saint John",
+        "sr@latin": "Sent Džon",
+        "tt@iqtelif": "Saint John"
     },
     "05": {
         "af": "Saint Mark",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Saint Mark",
         "zh_Hant_TW": "Saint Mark",
         "zu": "Saint Mark",
-        "zu_ZA": "Saint Mark"
+        "zu_ZA": "Saint Mark",
+        "sr@latin": "Sveti Marko",
+        "tt@iqtelif": "Saint Mark"
     },
     "06": {
         "af": "Saint Patrick",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Saint Patrick",
         "zh_Hant_TW": "Saint Patrick",
         "zu": "Saint Patrick",
-        "zu_ZA": "Saint Patrick"
+        "zu_ZA": "Saint Patrick",
+        "sr@latin": "Sveti Patrik",
+        "tt@iqtelif": "Saint Patrick"
     },
     "10": {
         "af": "Southern Grenadine Islands",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "Southern Grenadine Islands",
         "zh_Hant_TW": "Southern Grenadine Islands",
         "zu": "Southern Grenadine Islands",
-        "zu_ZA": "Southern Grenadine Islands"
+        "zu_ZA": "Southern Grenadine Islands",
+        "sr@latin": "Južna Grenadinska ostrva",
+        "tt@iqtelif": "Southern Grenadine Islands"
     }
 }

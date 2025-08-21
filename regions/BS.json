@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Acklins",
         "zh_Hant_TW": "Acklins",
         "zu": "Acklins",
-        "zu_ZA": "Acklins"
+        "zu_ZA": "Acklins",
+        "sr@latin": "Aklins",
+        "tt@iqtelif": "Acklins"
     },
     "BI": {
         "af": "Bimini",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bimini",
         "zh_Hant_TW": "Bimini",
         "zu": "Bimini",
-        "zu_ZA": "Bimini"
+        "zu_ZA": "Bimini",
+        "sr@latin": "Bimini",
+        "tt@iqtelif": "Bimini"
     },
     "BP": {
         "af": "Black Point",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Black Point",
         "zh_Hant_TW": "Black Point",
         "zu": "Black Point",
-        "zu_ZA": "Black Point"
+        "zu_ZA": "Black Point",
+        "sr@latin": "Blek Point",
+        "tt@iqtelif": "Black Point"
     },
     "BY": {
         "af": "Berry Islands",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Berry Islands",
         "zh_Hant_TW": "Berry Islands",
         "zu": "Berry Islands",
-        "zu_ZA": "Berry Islands"
+        "zu_ZA": "Berry Islands",
+        "sr@latin": "Berska ostrva",
+        "tt@iqtelif": "Berry Islands"
     },
     "CE": {
         "af": "Central Eleuthera",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Central Eleuthera",
         "zh_Hant_TW": "Central Eleuthera",
         "zu": "Central Eleuthera",
-        "zu_ZA": "Central Eleuthera"
+        "zu_ZA": "Central Eleuthera",
+        "sr@latin": "Centralna Elejtera",
+        "tt@iqtelif": "Central Eleuthera"
     },
     "CI": {
         "af": "Cat Island",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Cat Island",
         "zh_Hant_TW": "Cat Island",
         "zu": "Cat Island",
-        "zu_ZA": "Cat Island"
+        "zu_ZA": "Cat Island",
+        "sr@latin": "Ket ostrvo",
+        "tt@iqtelif": "Cat Island"
     },
     "CK": {
         "af": "Crooked Island and Long Cay",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Crooked Island and Long Cay",
         "zh_Hant_TW": "Crooked Island and Long Cay",
         "zu": "Crooked Island and Long Cay",
-        "zu_ZA": "Crooked Island and Long Cay"
+        "zu_ZA": "Crooked Island and Long Cay",
+        "sr@latin": "Kruked Ajland i Long Kej",
+        "tt@iqtelif": "Crooked Island and Long Cay"
     },
     "CO": {
         "af": "Central Abaco",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Central Abaco",
         "zh_Hant_TW": "Central Abaco",
         "zu": "Central Abaco",
-        "zu_ZA": "Central Abaco"
+        "zu_ZA": "Central Abaco",
+        "sr@latin": "Centralni Abako",
+        "tt@iqtelif": "Central Abaco"
     },
     "CS": {
         "af": "Central Andros",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Central Andros",
         "zh_Hant_TW": "Central Andros",
         "zu": "Central Andros",
-        "zu_ZA": "Central Andros"
+        "zu_ZA": "Central Andros",
+        "sr@latin": "Centralni Andros",
+        "tt@iqtelif": "Central Andros"
     },
     "EG": {
         "af": "East Grand Bahama",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "East Grand Bahama",
         "zh_Hant_TW": "East Grand Bahama",
         "zu": "East Grand Bahama",
-        "zu_ZA": "East Grand Bahama"
+        "zu_ZA": "East Grand Bahama",
+        "sr@latin": "Istočni veliki Bahama",
+        "tt@iqtelif": "East Grand Bahama"
     },
     "EX": {
         "af": "Exuma",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Exuma",
         "zh_Hant_TW": "Exuma",
         "zu": "Exuma",
-        "zu_ZA": "Exuma"
+        "zu_ZA": "Exuma",
+        "sr@latin": "Eksuma",
+        "tt@iqtelif": "Exuma"
     },
     "FP": {
         "af": "City of Freeport",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "City of Freeport",
         "zh_Hant_TW": "City of Freeport",
         "zu": "City of Freeport",
-        "zu_ZA": "City of Freeport"
+        "zu_ZA": "City of Freeport",
+        "sr@latin": "Friport",
+        "tt@iqtelif": "City of Freeport"
     },
     "GC": {
         "af": "Grand Cay",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Grand Cay",
         "zh_Hant_TW": "Grand Cay",
         "zu": "Grand Cay",
-        "zu_ZA": "Grand Cay"
+        "zu_ZA": "Grand Cay",
+        "sr@latin": "Grend Kej",
+        "tt@iqtelif": "Grand Cay"
     },
     "HI": {
         "af": "Harbour Island",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Harbour Island",
         "zh_Hant_TW": "Harbour Island",
         "zu": "Harbour Island",
-        "zu_ZA": "Harbour Island"
+        "zu_ZA": "Harbour Island",
+        "sr@latin": "Harbursko ostrvo",
+        "tt@iqtelif": "Harbour Island"
     },
     "HT": {
         "af": "Hope Town",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Hope Town",
         "zh_Hant_TW": "Hope Town",
         "zu": "Hope Town",
-        "zu_ZA": "Hope Town"
+        "zu_ZA": "Hope Town",
+        "sr@latin": "Houptaun",
+        "tt@iqtelif": "Hope Town"
     },
     "IN": {
         "af": "Inagua",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Inagua",
         "zh_Hant_TW": "Inagua",
         "zu": "Inagua",
-        "zu_ZA": "Inagua"
+        "zu_ZA": "Inagua",
+        "sr@latin": "Inagva",
+        "tt@iqtelif": "Inagua"
     },
     "LI": {
         "af": "Long Island",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Long Island",
         "zh_Hant_TW": "Long Island",
         "zu": "Long Island",
-        "zu_ZA": "Long Island"
+        "zu_ZA": "Long Island",
+        "sr@latin": "Long Ajland",
+        "tt@iqtelif": "Long Island"
     },
     "MC": {
         "af": "Mangrove Cay",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Mangrove Cay",
         "zh_Hant_TW": "Mangrove Cay",
         "zu": "Mangrove Cay",
-        "zu_ZA": "Mangrove Cay"
+        "zu_ZA": "Mangrove Cay",
+        "sr@latin": "Mangruv Kej",
+        "tt@iqtelif": "Mangrove Cay"
     },
     "MG": {
         "af": "Mayaguana",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Mayaguana",
         "zh_Hant_TW": "Mayaguana",
         "zu": "Mayaguana",
-        "zu_ZA": "Mayaguana"
+        "zu_ZA": "Mayaguana",
+        "sr@latin": "Majagvana",
+        "tt@iqtelif": "Mayaguana"
     },
     "MI": {
         "af": "Moore's Island",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Moore's Island",
         "zh_Hant_TW": "Moore's Island",
         "zu": "Moore's Island",
-        "zu_ZA": "Moore's Island"
+        "zu_ZA": "Moore's Island",
+        "sr@latin": "Murovo ostrvo",
+        "tt@iqtelif": "Moore's Island"
     },
     "NE": {
         "af": "North Eleuthera",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "North Eleuthera",
         "zh_Hant_TW": "North Eleuthera",
         "zu": "North Eleuthera",
-        "zu_ZA": "North Eleuthera"
+        "zu_ZA": "North Eleuthera",
+        "sr@latin": "Nord Elejtera",
+        "tt@iqtelif": "North Eleuthera"
     },
     "NO": {
         "af": "North Abaco",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "North Abaco",
         "zh_Hant_TW": "North Abaco",
         "zu": "North Abaco",
-        "zu_ZA": "North Abaco"
+        "zu_ZA": "North Abaco",
+        "sr@latin": "Nord Abako",
+        "tt@iqtelif": "North Abaco"
     },
     "NP": {
         "af": "New Providence",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "New Providence",
         "zh_Hant_TW": "New Providence",
         "zu": "New Providence",
-        "zu_ZA": "New Providence"
+        "zu_ZA": "New Providence",
+        "sr@latin": "New Providence",
+        "tt@iqtelif": "New Providence"
     },
     "NS": {
         "af": "North Andros",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "North Andros",
         "zh_Hant_TW": "North Andros",
         "zu": "North Andros",
-        "zu_ZA": "North Andros"
+        "zu_ZA": "North Andros",
+        "sr@latin": "Nord Andros",
+        "tt@iqtelif": "North Andros"
     },
     "RC": {
         "af": "Rum Cay",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Rum Cay",
         "zh_Hant_TW": "Rum Cay",
         "zu": "Rum Cay",
-        "zu_ZA": "Rum Cay"
+        "zu_ZA": "Rum Cay",
+        "sr@latin": "Rum Kej",
+        "tt@iqtelif": "Rum Cay"
     },
     "RI": {
         "af": "Ragged Island",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Ragged Island",
         "zh_Hant_TW": "Ragged Island",
         "zu": "Ragged Island",
-        "zu_ZA": "Ragged Island"
+        "zu_ZA": "Ragged Island",
+        "sr@latin": "Rejdžed ostrvo",
+        "tt@iqtelif": "Ragged Island"
     },
     "SA": {
         "af": "South Andros",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "South Andros",
         "zh_Hant_TW": "South Andros",
         "zu": "South Andros",
-        "zu_ZA": "South Andros"
+        "zu_ZA": "South Andros",
+        "sr@latin": "Južni Andros",
+        "tt@iqtelif": "South Andros"
     },
     "SE": {
         "af": "South Eleuthera",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "South Eleuthera",
         "zh_Hant_TW": "South Eleuthera",
         "zu": "South Eleuthera",
-        "zu_ZA": "South Eleuthera"
+        "zu_ZA": "South Eleuthera",
+        "sr@latin": "Južna Elejtera",
+        "tt@iqtelif": "South Eleuthera"
     },
     "SO": {
         "af": "South Abaco",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "South Abaco",
         "zh_Hant_TW": "South Abaco",
         "zu": "South Abaco",
-        "zu_ZA": "South Abaco"
+        "zu_ZA": "South Abaco",
+        "sr@latin": "Južni Abako",
+        "tt@iqtelif": "South Abaco"
     },
     "SS": {
         "af": "San Salvador",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "San Salvador",
         "zh_Hant_TW": "San Salvador",
         "zu": "San Salvador",
-        "zu_ZA": "San Salvador"
+        "zu_ZA": "San Salvador",
+        "sr@latin": "San Salvador",
+        "tt@iqtelif": "San Salvador"
     },
     "SW": {
         "af": "Spanish Wells",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Spanish Wells",
         "zh_Hant_TW": "Spanish Wells",
         "zu": "Spanish Wells",
-        "zu_ZA": "Spanish Wells"
+        "zu_ZA": "Spanish Wells",
+        "sr@latin": "Španski Vels",
+        "tt@iqtelif": "Spanish Wells"
     },
     "WG": {
         "af": "West Grand Bahama",
@@ -28253,6 +28315,8 @@
         "zh_Hant_MY": "West Grand Bahama",
         "zh_Hant_TW": "West Grand Bahama",
         "zu": "West Grand Bahama",
-        "zu_ZA": "West Grand Bahama"
+        "zu_ZA": "West Grand Bahama",
+        "sr@latin": "Zapadni veliki Bahama",
+        "tt@iqtelif": "West Grand Bahama"
     }
 }

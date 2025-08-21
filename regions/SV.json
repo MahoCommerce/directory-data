@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ahuachapán",
         "zh_Hant_TW": "Ahuachapán",
         "zu": "Ahuachapán",
-        "zu_ZA": "Ahuachapán"
+        "zu_ZA": "Ahuachapán",
+        "sr@latin": "Ahuačapan",
+        "tt@iqtelif": "Ahuachapán"
     },
     "CA": {
         "af": "Cabañas",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cabañas",
         "zh_Hant_TW": "Cabañas",
         "zu": "Cabañas",
-        "zu_ZA": "Cabañas"
+        "zu_ZA": "Cabañas",
+        "sr@latin": "Kabanjas",
+        "tt@iqtelif": "Cabañas"
     },
     "CH": {
         "af": "Chalatenango",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Chalatenango",
         "zh_Hant_TW": "Chalatenango",
         "zu": "Chalatenango",
-        "zu_ZA": "Chalatenango"
+        "zu_ZA": "Chalatenango",
+        "sr@latin": "Čalatenango",
+        "tt@iqtelif": "Chalatenango"
     },
     "CU": {
         "af": "Cuscatlán",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Cuscatlán",
         "zh_Hant_TW": "Cuscatlán",
         "zu": "Cuscatlán",
-        "zu_ZA": "Cuscatlán"
+        "zu_ZA": "Cuscatlán",
+        "sr@latin": "Kuskatlan",
+        "tt@iqtelif": "Cuscatlán"
     },
     "LI": {
         "af": "La Libertad",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "La Libertad",
         "zh_Hant_TW": "La Libertad",
         "zu": "La Libertad",
-        "zu_ZA": "La Libertad"
+        "zu_ZA": "La Libertad",
+        "sr@latin": "La Libertad",
+        "tt@iqtelif": "La Libertad"
     },
     "MO": {
         "af": "Morazán",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Morazán",
         "zh_Hant_TW": "Morazán",
         "zu": "Morazán",
-        "zu_ZA": "Morazán"
+        "zu_ZA": "Morazán",
+        "sr@latin": "Morazan",
+        "tt@iqtelif": "Morazán"
     },
     "PA": {
         "af": "La Paz",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "La Paz",
         "zh_Hant_TW": "La Paz",
         "zu": "La Paz",
-        "zu_ZA": "La Paz"
+        "zu_ZA": "La Paz",
+        "sr@latin": "La Paz",
+        "tt@iqtelif": "La Paz"
     },
     "SA": {
         "af": "Santa Ana",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Santa Ana",
         "zh_Hant_TW": "Santa Ana",
         "zu": "Santa Ana",
-        "zu_ZA": "Santa Ana"
+        "zu_ZA": "Santa Ana",
+        "sr@latin": "Santa Ana",
+        "tt@iqtelif": "Santa Ana"
     },
     "SM": {
         "af": "San Miguel",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "San Miguel",
         "zh_Hant_TW": "San Miguel",
         "zu": "San Miguel",
-        "zu_ZA": "San Miguel"
+        "zu_ZA": "San Miguel",
+        "sr@latin": "San Migel",
+        "tt@iqtelif": "San Miguel"
     },
     "SO": {
         "af": "Sonsonate",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Sonsonate",
         "zh_Hant_TW": "Sonsonate",
         "zu": "Sonsonate",
-        "zu_ZA": "Sonsonate"
+        "zu_ZA": "Sonsonate",
+        "sr@latin": "Sonsonate",
+        "tt@iqtelif": "Sonsonate"
     },
     "SS": {
         "af": "San Salvador",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "San Salvador",
         "zh_Hant_TW": "San Salvador",
         "zu": "San Salvador",
-        "zu_ZA": "San Salvador"
+        "zu_ZA": "San Salvador",
+        "sr@latin": "San Salvador",
+        "tt@iqtelif": "San Salvador"
     },
     "SV": {
         "af": "San Vicente",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "San Vicente",
         "zh_Hant_TW": "San Vicente",
         "zu": "San Vicente",
-        "zu_ZA": "San Vicente"
+        "zu_ZA": "San Vicente",
+        "sr@latin": "San Vicente",
+        "tt@iqtelif": "San Vicente"
     },
     "UN": {
         "af": "La Unión",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "La Unión",
         "zh_Hant_TW": "La Unión",
         "zu": "La Unión",
-        "zu_ZA": "La Unión"
+        "zu_ZA": "La Unión",
+        "sr@latin": "La Unjion",
+        "tt@iqtelif": "La Unión"
     },
     "US": {
         "af": "Usulután",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Usulután",
         "zh_Hant_TW": "Usulután",
         "zu": "Usulután",
-        "zu_ZA": "Usulután"
+        "zu_ZA": "Usulután",
+        "sr@latin": "Usulután",
+        "tt@iqtelif": "Usulután"
     }
 }

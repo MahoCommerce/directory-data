@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Amazonas",
         "zh_Hant_TW": "Amazonas",
         "zu": "Amazonas",
-        "zu_ZA": "Amazonas"
+        "zu_ZA": "Amazonas",
+        "sr@latin": "Amazonas",
+        "tt@iqtelif": "Amazonas"
     },
     "ANT": {
         "af": "Antioquia",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Antioquia",
         "zh_Hant_TW": "Antioquia",
         "zu": "Antioquia",
-        "zu_ZA": "Antioquia"
+        "zu_ZA": "Antioquia",
+        "sr@latin": "Antiokija",
+        "tt@iqtelif": "Antioquia"
     },
     "ARA": {
         "af": "Arauca",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Arauca",
         "zh_Hant_TW": "Arauca",
         "zu": "Arauca",
-        "zu_ZA": "Arauca"
+        "zu_ZA": "Arauca",
+        "sr@latin": "Arauka",
+        "tt@iqtelif": "Arauca"
     },
     "ATL": {
         "af": "Atlántico",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Atlántico",
         "zh_Hant_TW": "Atlántico",
         "zu": "Atlántico",
-        "zu_ZA": "Atlántico"
+        "zu_ZA": "Atlántico",
+        "sr@latin": "Atlantiko",
+        "tt@iqtelif": "Atlántico"
     },
     "BOL": {
         "af": "Bolívar",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Bolívar",
         "zh_Hant_TW": "Bolívar",
         "zu": "Bolívar",
-        "zu_ZA": "Bolívar"
+        "zu_ZA": "Bolívar",
+        "sr@latin": "bolivar",
+        "tt@iqtelif": "Bolívar"
     },
     "BOY": {
         "af": "Boyacá",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Boyacá",
         "zh_Hant_TW": "Boyacá",
         "zu": "Boyacá",
-        "zu_ZA": "Boyacá"
+        "zu_ZA": "Boyacá",
+        "sr@latin": "Bojaka",
+        "tt@iqtelif": "Boyacá"
     },
     "CAL": {
         "af": "Caldas",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Caldas",
         "zh_Hant_TW": "Caldas",
         "zu": "Caldas",
-        "zu_ZA": "Caldas"
+        "zu_ZA": "Caldas",
+        "sr@latin": "Kaldas",
+        "tt@iqtelif": "Caldas"
     },
     "CAQ": {
         "af": "Caquetá",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Caquetá",
         "zh_Hant_TW": "Caquetá",
         "zu": "Caquetá",
-        "zu_ZA": "Caquetá"
+        "zu_ZA": "Caquetá",
+        "sr@latin": "Kakveta",
+        "tt@iqtelif": "Caquetá"
     },
     "CAS": {
         "af": "Casanare",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Casanare",
         "zh_Hant_TW": "Casanare",
         "zu": "Casanare",
-        "zu_ZA": "Casanare"
+        "zu_ZA": "Casanare",
+        "sr@latin": "Kazanare",
+        "tt@iqtelif": "Casanare"
     },
     "CAU": {
         "af": "Cauca",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Cauca",
         "zh_Hant_TW": "Cauca",
         "zu": "Cauca",
-        "zu_ZA": "Cauca"
+        "zu_ZA": "Cauca",
+        "sr@latin": "Kauka",
+        "tt@iqtelif": "Cauca"
     },
     "CES": {
         "af": "Cesar",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Cesar",
         "zh_Hant_TW": "Cesar",
         "zu": "Cesar",
-        "zu_ZA": "Cesar"
+        "zu_ZA": "Cesar",
+        "sr@latin": "Cezar",
+        "tt@iqtelif": "Cesar"
     },
     "CHO": {
         "af": "Chocó",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Chocó",
         "zh_Hant_TW": "Chocó",
         "zu": "Chocó",
-        "zu_ZA": "Chocó"
+        "zu_ZA": "Chocó",
+        "sr@latin": "Šoko",
+        "tt@iqtelif": "Chocó"
     },
     "COR": {
         "af": "Córdoba",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Córdoba",
         "zh_Hant_TW": "Córdoba",
         "zu": "Córdoba",
-        "zu_ZA": "Córdoba"
+        "zu_ZA": "Córdoba",
+        "sr@latin": "Kordoba",
+        "tt@iqtelif": "Córdoba"
     },
     "CUN": {
         "af": "Cundinamarca",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Cundinamarca",
         "zh_Hant_TW": "Cundinamarca",
         "zu": "Cundinamarca",
-        "zu_ZA": "Cundinamarca"
+        "zu_ZA": "Cundinamarca",
+        "sr@latin": "Kundinamarka",
+        "tt@iqtelif": "Cundinamarca"
     },
     "DC": {
         "af": "Distrito Capital de Bogotá",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Distrito Capital de Bogotá",
         "zh_Hant_TW": "Distrito Capital de Bogotá",
         "zu": "Distrito Capital de Bogotá",
-        "zu_ZA": "Distrito Capital de Bogotá"
+        "zu_ZA": "Distrito Capital de Bogotá",
+        "sr@latin": "Distrito Capital de Bogotá",
+        "tt@iqtelif": "Distrito Capital de Bogotá"
     },
     "GUA": {
         "af": "Guainía",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Guainía",
         "zh_Hant_TW": "Guainía",
         "zu": "Guainía",
-        "zu_ZA": "Guainía"
+        "zu_ZA": "Guainía",
+        "sr@latin": "Gvajnia",
+        "tt@iqtelif": "Guainía"
     },
     "GUV": {
         "af": "Guaviare",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Guaviare",
         "zh_Hant_TW": "Guaviare",
         "zu": "Guaviare",
-        "zu_ZA": "Guaviare"
+        "zu_ZA": "Guaviare",
+        "sr@latin": "Gvavjare",
+        "tt@iqtelif": "Guaviare"
     },
     "HUI": {
         "af": "Huila",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Huila",
         "zh_Hant_TW": "Huila",
         "zu": "Huila",
-        "zu_ZA": "Huila"
+        "zu_ZA": "Huila",
+        "sr@latin": "Hujla",
+        "tt@iqtelif": "Huila"
     },
     "LAG": {
         "af": "La Guajira",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "La Guajira",
         "zh_Hant_TW": "La Guajira",
         "zu": "La Guajira",
-        "zu_ZA": "La Guajira"
+        "zu_ZA": "La Guajira",
+        "sr@latin": "La Guajira",
+        "tt@iqtelif": "La Guajira"
     },
     "MAG": {
         "af": "Magdalena",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Magdalena",
         "zh_Hant_TW": "Magdalena",
         "zu": "Magdalena",
-        "zu_ZA": "Magdalena"
+        "zu_ZA": "Magdalena",
+        "sr@latin": "Magdalena",
+        "tt@iqtelif": "Magdalena"
     },
     "MET": {
         "af": "Meta",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Meta",
         "zh_Hant_TW": "Meta",
         "zu": "Meta",
-        "zu_ZA": "Meta"
+        "zu_ZA": "Meta",
+        "sr@latin": "Meta",
+        "tt@iqtelif": "Meta"
     },
     "NAR": {
         "af": "Nariño",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Nariño",
         "zh_Hant_TW": "Nariño",
         "zu": "Nariño",
-        "zu_ZA": "Nariño"
+        "zu_ZA": "Nariño",
+        "sr@latin": "Narinjo",
+        "tt@iqtelif": "Nariño"
     },
     "NSA": {
         "af": "Norte de Santander",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Norte de Santander",
         "zh_Hant_TW": "Norte de Santander",
         "zu": "Norte de Santander",
-        "zu_ZA": "Norte de Santander"
+        "zu_ZA": "Norte de Santander",
+        "sr@latin": "Norte de Santander",
+        "tt@iqtelif": "Norte de Santander"
     },
     "PUT": {
         "af": "Putumayo",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Putumayo",
         "zh_Hant_TW": "Putumayo",
         "zu": "Putumayo",
-        "zu_ZA": "Putumayo"
+        "zu_ZA": "Putumayo",
+        "sr@latin": "Putumayo",
+        "tt@iqtelif": "Putumayo"
     },
     "QUI": {
         "af": "Quindío",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Quindío",
         "zh_Hant_TW": "Quindío",
         "zu": "Quindío",
-        "zu_ZA": "Quindío"
+        "zu_ZA": "Quindío",
+        "sr@latin": "Quindío",
+        "tt@iqtelif": "Quindío"
     },
     "RIS": {
         "af": "Risaralda",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Risaralda",
         "zh_Hant_TW": "Risaralda",
         "zu": "Risaralda",
-        "zu_ZA": "Risaralda"
+        "zu_ZA": "Risaralda",
+        "sr@latin": "Risaralda",
+        "tt@iqtelif": "Risaralda"
     },
     "SAN": {
         "af": "Santander",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Santander",
         "zh_Hant_TW": "Santander",
         "zu": "Santander",
-        "zu_ZA": "Santander"
+        "zu_ZA": "Santander",
+        "sr@latin": "Santander",
+        "tt@iqtelif": "Santander"
     },
     "SAP": {
         "af": "San Andrés, Providencia y Santa Catalina",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "San Andrés, Providencia y Santa Catalina",
         "zh_Hant_TW": "San Andrés, Providencia y Santa Catalina",
         "zu": "San Andrés, Providencia y Santa Catalina",
-        "zu_ZA": "San Andrés, Providencia y Santa Catalina"
+        "zu_ZA": "San Andrés, Providencia y Santa Catalina",
+        "sr@latin": "San Andrés, Providencia y Santa Catalina",
+        "tt@iqtelif": "San Andrés, Providencia y Santa Catalina"
     },
     "SUC": {
         "af": "Sucre",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Sucre",
         "zh_Hant_TW": "Sucre",
         "zu": "Sucre",
-        "zu_ZA": "Sucre"
+        "zu_ZA": "Sucre",
+        "sr@latin": "sukre",
+        "tt@iqtelif": "Sucre"
     },
     "TOL": {
         "af": "Tolima",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Tolima",
         "zh_Hant_TW": "Tolima",
         "zu": "Tolima",
-        "zu_ZA": "Tolima"
+        "zu_ZA": "Tolima",
+        "sr@latin": "Tolima",
+        "tt@iqtelif": "Tolima"
     },
     "VAC": {
         "af": "Valle del Cauca",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Valle del Cauca",
         "zh_Hant_TW": "Valle del Cauca",
         "zu": "Valle del Cauca",
-        "zu_ZA": "Valle del Cauca"
+        "zu_ZA": "Valle del Cauca",
+        "sr@latin": "Vale del Kauka",
+        "tt@iqtelif": "Valle del Cauca"
     },
     "VAU": {
         "af": "Vaupés",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Vaupés",
         "zh_Hant_TW": "Vaupés",
         "zu": "Vaupés",
-        "zu_ZA": "Vaupés"
+        "zu_ZA": "Vaupés",
+        "sr@latin": "Vaupes",
+        "tt@iqtelif": "Vaupés"
     },
     "VID": {
         "af": "Vichada",
@@ -29136,6 +29200,8 @@
         "zh_Hant_MY": "Vichada",
         "zh_Hant_TW": "Vichada",
         "zu": "Vichada",
-        "zu_ZA": "Vichada"
+        "zu_ZA": "Vichada",
+        "sr@latin": "Višada",
+        "tt@iqtelif": "Vichada"
     }
 }

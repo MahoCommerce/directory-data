@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Banjul",
         "zh_Hant_TW": "Banjul",
         "zu": "Banjul",
-        "zu_ZA": "Banjul"
+        "zu_ZA": "Banjul",
+        "sr@latin": "Bandžul",
+        "tt@iqtelif": "Banjul"
     },
     "L": {
         "af": "Lower River",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Lower River",
         "zh_Hant_TW": "Lower River",
         "zu": "Lower River",
-        "zu_ZA": "Lower River"
+        "zu_ZA": "Lower River",
+        "sr@latin": "Louver River",
+        "tt@iqtelif": "Lower River"
     },
     "M": {
         "af": "Central River",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Central River",
         "zh_Hant_TW": "Central River",
         "zu": "Central River",
-        "zu_ZA": "Central River"
+        "zu_ZA": "Central River",
+        "sr@latin": "Sentral River",
+        "tt@iqtelif": "Central River"
     },
     "N": {
         "af": "North Bank",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "North Bank",
         "zh_Hant_TW": "North Bank",
         "zu": "North Bank",
-        "zu_ZA": "North Bank"
+        "zu_ZA": "North Bank",
+        "sr@latin": "Nord Bank",
+        "tt@iqtelif": "North Bank"
     },
     "U": {
         "af": "Upper River",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Upper River",
         "zh_Hant_TW": "Upper River",
         "zu": "Upper River",
-        "zu_ZA": "Upper River"
+        "zu_ZA": "Upper River",
+        "sr@latin": "Upper River",
+        "tt@iqtelif": "Upper River"
     },
     "W": {
         "af": "Western",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western"
+        "zu_ZA": "Western",
+        "sr@latin": "Western",
+        "tt@iqtelif": "Western"
     }
 }

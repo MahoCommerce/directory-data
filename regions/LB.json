@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aakkâr",
         "zh_Hant_TW": "Aakkâr",
         "zu": "Aakkâr",
-        "zu_ZA": "Aakkâr"
+        "zu_ZA": "Aakkâr",
+        "sr@latin": "Akar",
+        "tt@iqtelif": "Aakkâr"
     },
     "AS": {
         "af": "Ash Shimāl",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ash Shimāl",
         "zh_Hant_TW": "Ash Shimāl",
         "zu": "Ash Shimāl",
-        "zu_ZA": "Ash Shimāl"
+        "zu_ZA": "Ash Shimāl",
+        "sr@latin": "Ash Shimāl",
+        "tt@iqtelif": "Ash Shimāl"
     },
     "BA": {
         "af": "Bayrūt",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Bayrūt",
         "zh_Hant_TW": "Bayrūt",
         "zu": "Bayrūt",
-        "zu_ZA": "Bayrūt"
+        "zu_ZA": "Bayrūt",
+        "sr@latin": "Bayrūt",
+        "tt@iqtelif": "Bayrūt"
     },
     "BH": {
         "af": "Baalbek-Hermel",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Baalbek-Hermel",
         "zh_Hant_TW": "Baalbek-Hermel",
         "zu": "Baalbek-Hermel",
-        "zu_ZA": "Baalbek-Hermel"
+        "zu_ZA": "Baalbek-Hermel",
+        "sr@latin": "Balbek-Hermel",
+        "tt@iqtelif": "Baalbek-Hermel"
     },
     "BI": {
         "af": "Al Biqā‘",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Al Biqā‘",
         "zh_Hant_TW": "Al Biqā‘",
         "zu": "Al Biqā‘",
-        "zu_ZA": "Al Biqā‘"
+        "zu_ZA": "Al Biqā‘",
+        "sr@latin": "Al Biqā‘",
+        "tt@iqtelif": "Al Biqā‘"
     },
     "JA": {
         "af": "Al Janūb",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Al Janūb",
         "zh_Hant_TW": "Al Janūb",
         "zu": "Al Janūb",
-        "zu_ZA": "Al Janūb"
+        "zu_ZA": "Al Janūb",
+        "sr@latin": "Al Janūb",
+        "tt@iqtelif": "Al Janūb"
     },
     "JL": {
         "af": "Jabal Lubnān",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Jabal Lubnān",
         "zh_Hant_TW": "Jabal Lubnān",
         "zu": "Jabal Lubnān",
-        "zu_ZA": "Jabal Lubnān"
+        "zu_ZA": "Jabal Lubnān",
+        "sr@latin": "Jabal Lubnān",
+        "tt@iqtelif": "Jabal Lubnān"
     },
     "NA": {
         "af": "An Nabaţīyah",
@@ -7061,6 +7075,8 @@
         "zh_Hant_MY": "An Nabaţīyah",
         "zh_Hant_TW": "An Nabaţīyah",
         "zu": "An Nabaţīyah",
-        "zu_ZA": "An Nabaţīyah"
+        "zu_ZA": "An Nabaţīyah",
+        "sr@latin": "An Nabaţīyah",
+        "tt@iqtelif": "An Nabaţīyah"
     }
 }

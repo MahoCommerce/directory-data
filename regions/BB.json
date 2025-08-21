@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Christ Church",
         "zh_Hant_TW": "Christ Church",
         "zu": "Christ Church",
-        "zu_ZA": "Christ Church"
+        "zu_ZA": "Christ Church",
+        "sr@latin": "Hristova Crkva",
+        "tt@iqtelif": "Christ Church"
     },
     "02": {
         "af": "Saint Andrew",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saint Andrew",
         "zh_Hant_TW": "Saint Andrew",
         "zu": "Saint Andrew",
-        "zu_ZA": "Saint Andrew"
+        "zu_ZA": "Saint Andrew",
+        "sr@latin": "Sveti Andreja",
+        "tt@iqtelif": "Saint Andrew"
     },
     "03": {
         "af": "Saint George",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Saint George",
         "zh_Hant_TW": "Saint George",
         "zu": "Saint George",
-        "zu_ZA": "Saint George"
+        "zu_ZA": "Saint George",
+        "sr@latin": "Sent Džordž",
+        "tt@iqtelif": "Saint George"
     },
     "04": {
         "af": "Saint James",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Saint James",
         "zh_Hant_TW": "Saint James",
         "zu": "Saint James",
-        "zu_ZA": "Saint James"
+        "zu_ZA": "Saint James",
+        "sr@latin": "Sveti Džejms",
+        "tt@iqtelif": "Saint James"
     },
     "05": {
         "af": "Saint John",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Saint John",
         "zh_Hant_TW": "Saint John",
         "zu": "Saint John",
-        "zu_ZA": "Saint John"
+        "zu_ZA": "Saint John",
+        "sr@latin": "Sent Džon",
+        "tt@iqtelif": "Saint John"
     },
     "06": {
         "af": "Saint Joseph",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Saint Joseph",
         "zh_Hant_TW": "Saint Joseph",
         "zu": "Saint Joseph",
-        "zu_ZA": "Saint Joseph"
+        "zu_ZA": "Saint Joseph",
+        "sr@latin": "Sveti Jozef",
+        "tt@iqtelif": "Saint Joseph"
     },
     "07": {
         "af": "Saint Lucy",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Saint Lucy",
         "zh_Hant_TW": "Saint Lucy",
         "zu": "Saint Lucy",
-        "zu_ZA": "Saint Lucy"
+        "zu_ZA": "Saint Lucy",
+        "sr@latin": "Sveta Lucija",
+        "tt@iqtelif": "Saint Lucy"
     },
     "08": {
         "af": "Saint Michael",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Saint Michael",
         "zh_Hant_TW": "Saint Michael",
         "zu": "Saint Michael",
-        "zu_ZA": "Saint Michael"
+        "zu_ZA": "Saint Michael",
+        "sr@latin": "Sveti Mihajlo",
+        "tt@iqtelif": "Saint Michael"
     },
     "09": {
         "af": "Saint Peter",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Saint Peter",
         "zh_Hant_TW": "Saint Peter",
         "zu": "Saint Peter",
-        "zu_ZA": "Saint Peter"
+        "zu_ZA": "Saint Peter",
+        "sr@latin": "Sveti Petar",
+        "tt@iqtelif": "Saint Peter"
     },
     "10": {
         "af": "Saint Philip",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Saint Philip",
         "zh_Hant_TW": "Saint Philip",
         "zu": "Saint Philip",
-        "zu_ZA": "Saint Philip"
+        "zu_ZA": "Saint Philip",
+        "sr@latin": "Sveti Filip",
+        "tt@iqtelif": "Saint Philip"
     },
     "11": {
         "af": "Saint Thomas",
@@ -9710,6 +9730,8 @@
         "zh_Hant_MY": "Saint Thomas",
         "zh_Hant_TW": "Saint Thomas",
         "zu": "Saint Thomas",
-        "zu_ZA": "Saint Thomas"
+        "zu_ZA": "Saint Thomas",
+        "sr@latin": "Sveti Toma",
+        "tt@iqtelif": "Saint Thomas"
     }
 }

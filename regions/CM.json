@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Adamaoua",
         "zh_Hant_TW": "Adamaoua",
         "zu": "Adamaoua",
-        "zu_ZA": "Adamaoua"
+        "zu_ZA": "Adamaoua",
+        "sr@latin": "Adamaova",
+        "tt@iqtelif": "Adamaoua"
     },
     "CE": {
         "af": "Centre",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Centre",
         "zh_Hant_TW": "Centre",
         "zu": "Centre",
-        "zu_ZA": "Centre"
+        "zu_ZA": "Centre",
+        "sr@latin": "Centralno",
+        "tt@iqtelif": "Centre"
     },
     "EN": {
         "af": "Far North",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Far North",
         "zh_Hant_TW": "Far North",
         "zu": "Far North",
-        "zu_ZA": "Far North"
+        "zu_ZA": "Far North",
+        "sr@latin": "Far Nort",
+        "tt@iqtelif": "Far North"
     },
     "ES": {
         "af": "East",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "East",
         "zh_Hant_TW": "East",
         "zu": "East",
-        "zu_ZA": "East"
+        "zu_ZA": "East",
+        "sr@latin": "East",
+        "tt@iqtelif": "East"
     },
     "LT": {
         "af": "Littoral",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Littoral",
         "zh_Hant_TW": "Littoral",
         "zu": "Littoral",
-        "zu_ZA": "Littoral"
+        "zu_ZA": "Littoral",
+        "sr@latin": "Litoral",
+        "tt@iqtelif": "Littoral"
     },
     "NO": {
         "af": "North",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "North",
         "zh_Hant_TW": "North",
         "zu": "North",
-        "zu_ZA": "North"
+        "zu_ZA": "North",
+        "sr@latin": "Sever",
+        "tt@iqtelif": "North"
     },
     "NW": {
         "af": "North-West",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "North-West",
         "zh_Hant_TW": "North-West",
         "zu": "North-West",
-        "zu_ZA": "North-West"
+        "zu_ZA": "North-West",
+        "sr@latin": "Severozapad",
+        "tt@iqtelif": "North-West"
     },
     "OU": {
         "af": "West",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "West",
         "zh_Hant_TW": "West",
         "zu": "West",
-        "zu_ZA": "West"
+        "zu_ZA": "West",
+        "sr@latin": "West",
+        "tt@iqtelif": "West"
     },
     "SU": {
         "af": "South",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "South",
         "zh_Hant_TW": "South",
         "zu": "South",
-        "zu_ZA": "South"
+        "zu_ZA": "South",
+        "sr@latin": "South",
+        "tt@iqtelif": "South"
     },
     "SW": {
         "af": "South-West",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "South-West",
         "zh_Hant_TW": "South-West",
         "zu": "South-West",
-        "zu_ZA": "South-West"
+        "zu_ZA": "South-West",
+        "sr@latin": "Jugozapad",
+        "tt@iqtelif": "South-West"
     }
 }

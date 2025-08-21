@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Arta",
         "zh_Hant_TW": "Arta",
         "zu": "Arta",
-        "zu_ZA": "Arta"
+        "zu_ZA": "Arta",
+        "sr@latin": "Arta",
+        "tt@iqtelif": "Arta"
     },
     "AS": {
         "af": "Ali Sabieh",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ali Sabieh",
         "zh_Hant_TW": "Ali Sabieh",
         "zu": "Ali Sabieh",
-        "zu_ZA": "Ali Sabieh"
+        "zu_ZA": "Ali Sabieh",
+        "sr@latin": "Ali Sabieh",
+        "tt@iqtelif": "Ali Sabieh"
     },
     "DI": {
         "af": "Dikhil",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Dikhil",
         "zh_Hant_TW": "Dikhil",
         "zu": "Dikhil",
-        "zu_ZA": "Dikhil"
+        "zu_ZA": "Dikhil",
+        "sr@latin": "Dikil",
+        "tt@iqtelif": "Dikhil"
     },
     "DJ": {
         "af": "Djibouti",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Djibouti",
         "zh_Hant_TW": "Djibouti",
         "zu": "Djibouti",
-        "zu_ZA": "Djibouti"
+        "zu_ZA": "Djibouti",
+        "sr@latin": "Džibuti",
+        "tt@iqtelif": "Djibouti"
     },
     "OB": {
         "af": "Obock",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Obock",
         "zh_Hant_TW": "Obock",
         "zu": "Obock",
-        "zu_ZA": "Obock"
+        "zu_ZA": "Obock",
+        "sr@latin": "Obock",
+        "tt@iqtelif": "Obock"
     },
     "TA": {
         "af": "Tadjourah",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Tadjourah",
         "zh_Hant_TW": "Tadjourah",
         "zu": "Tadjourah",
-        "zu_ZA": "Tadjourah"
+        "zu_ZA": "Tadjourah",
+        "sr@latin": "Tadjourah",
+        "tt@iqtelif": "Tadjourah"
     }
 }

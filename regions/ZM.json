@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western"
+        "zu_ZA": "Western",
+        "sr@latin": "Western",
+        "tt@iqtelif": "Western"
     },
     "02": {
         "af": "Central",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central"
+        "zu_ZA": "Central",
+        "sr@latin": "Centralni",
+        "tt@iqtelif": "Central"
     },
     "03": {
         "af": "Eastern",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern"
+        "zu_ZA": "Eastern",
+        "sr@latin": "Eastern",
+        "tt@iqtelif": "Eastern"
     },
     "04": {
         "af": "Luapula",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Luapula",
         "zh_Hant_TW": "Luapula",
         "zu": "Luapula",
-        "zu_ZA": "Luapula"
+        "zu_ZA": "Luapula",
+        "sr@latin": "Luapula",
+        "tt@iqtelif": "Luapula"
     },
     "05": {
         "af": "Northern",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern"
+        "zu_ZA": "Northern",
+        "sr@latin": "Northern",
+        "tt@iqtelif": "Northern"
     },
     "06": {
         "af": "North-Western",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "North-Western",
         "zh_Hant_TW": "North-Western",
         "zu": "North-Western",
-        "zu_ZA": "North-Western"
+        "zu_ZA": "North-Western",
+        "sr@latin": "Severozapadni",
+        "tt@iqtelif": "North-Western"
     },
     "07": {
         "af": "Southern",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Southern",
         "zh_Hant_TW": "Southern",
         "zu": "Southern",
-        "zu_ZA": "Southern"
+        "zu_ZA": "Southern",
+        "sr@latin": "Sautern",
+        "tt@iqtelif": "Southern"
     },
     "08": {
         "af": "Copperbelt",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Copperbelt",
         "zh_Hant_TW": "Copperbelt",
         "zu": "Copperbelt",
-        "zu_ZA": "Copperbelt"
+        "zu_ZA": "Copperbelt",
+        "sr@latin": "Koperbelt",
+        "tt@iqtelif": "Copperbelt"
     },
     "09": {
         "af": "Lusaka",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Lusaka",
         "zh_Hant_TW": "Lusaka",
         "zu": "Lusaka",
-        "zu_ZA": "Lusaka"
+        "zu_ZA": "Lusaka",
+        "sr@latin": "Lusaka",
+        "tt@iqtelif": "Lusaka"
     },
     "10": {
         "af": "Muchinga",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Muchinga",
         "zh_Hant_TW": "Muchinga",
         "zu": "Muchinga",
-        "zu_ZA": "Muchinga"
+        "zu_ZA": "Muchinga",
+        "sr@latin": "Muchinga",
+        "tt@iqtelif": "Muchinga"
     }
 }

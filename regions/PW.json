@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aimeliik",
         "zh_Hant_TW": "Aimeliik",
         "zu": "Aimeliik",
-        "zu_ZA": "Aimeliik"
+        "zu_ZA": "Aimeliik",
+        "sr@latin": "Ajmelik",
+        "tt@iqtelif": "Aimeliik"
     },
     "004": {
         "af": "Airai",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Airai",
         "zh_Hant_TW": "Airai",
         "zu": "Airai",
-        "zu_ZA": "Airai"
+        "zu_ZA": "Airai",
+        "sr@latin": "Ajrai",
+        "tt@iqtelif": "Airai"
     },
     "010": {
         "af": "Angaur",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Angaur",
         "zh_Hant_TW": "Angaur",
         "zu": "Angaur",
-        "zu_ZA": "Angaur"
+        "zu_ZA": "Angaur",
+        "sr@latin": "Angaur",
+        "tt@iqtelif": "Angaur"
     },
     "050": {
         "af": "Hatohobei",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Hatohobei",
         "zh_Hant_TW": "Hatohobei",
         "zu": "Hatohobei",
-        "zu_ZA": "Hatohobei"
+        "zu_ZA": "Hatohobei",
+        "sr@latin": "Hatohobei",
+        "tt@iqtelif": "Hatohobei"
     },
     "100": {
         "af": "Kayangel",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Kayangel",
         "zh_Hant_TW": "Kayangel",
         "zu": "Kayangel",
-        "zu_ZA": "Kayangel"
+        "zu_ZA": "Kayangel",
+        "sr@latin": "Kajangel",
+        "tt@iqtelif": "Kayangel"
     },
     "150": {
         "af": "Koror",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Koror",
         "zh_Hant_TW": "Koror",
         "zu": "Koror",
-        "zu_ZA": "Koror"
+        "zu_ZA": "Koror",
+        "sr@latin": "Koror",
+        "tt@iqtelif": "Koror"
     },
     "212": {
         "af": "Melekeok",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Melekeok",
         "zh_Hant_TW": "Melekeok",
         "zu": "Melekeok",
-        "zu_ZA": "Melekeok"
+        "zu_ZA": "Melekeok",
+        "sr@latin": "Melekeok",
+        "tt@iqtelif": "Melekeok"
     },
     "214": {
         "af": "Ngaraard",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Ngaraard",
         "zh_Hant_TW": "Ngaraard",
         "zu": "Ngaraard",
-        "zu_ZA": "Ngaraard"
+        "zu_ZA": "Ngaraard",
+        "sr@latin": "Ngarard",
+        "tt@iqtelif": "Ngaraard"
     },
     "218": {
         "af": "Ngarchelong",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Ngarchelong",
         "zh_Hant_TW": "Ngarchelong",
         "zu": "Ngarchelong",
-        "zu_ZA": "Ngarchelong"
+        "zu_ZA": "Ngarchelong",
+        "sr@latin": "Ngarčelong",
+        "tt@iqtelif": "Ngarchelong"
     },
     "222": {
         "af": "Ngardmau",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Ngardmau",
         "zh_Hant_TW": "Ngardmau",
         "zu": "Ngardmau",
-        "zu_ZA": "Ngardmau"
+        "zu_ZA": "Ngardmau",
+        "sr@latin": "Ngardmau",
+        "tt@iqtelif": "Ngardmau"
     },
     "224": {
         "af": "Ngatpang",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Ngatpang",
         "zh_Hant_TW": "Ngatpang",
         "zu": "Ngatpang",
-        "zu_ZA": "Ngatpang"
+        "zu_ZA": "Ngatpang",
+        "sr@latin": "Ngatpang",
+        "tt@iqtelif": "Ngatpang"
     },
     "226": {
         "af": "Ngchesar",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Ngchesar",
         "zh_Hant_TW": "Ngchesar",
         "zu": "Ngchesar",
-        "zu_ZA": "Ngchesar"
+        "zu_ZA": "Ngchesar",
+        "sr@latin": "Ngchesar",
+        "tt@iqtelif": "Ngchesar"
     },
     "227": {
         "af": "Ngeremlengui",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Ngeremlengui",
         "zh_Hant_TW": "Ngeremlengui",
         "zu": "Ngeremlengui",
-        "zu_ZA": "Ngeremlengui"
+        "zu_ZA": "Ngeremlengui",
+        "sr@latin": "Ngeremlengui",
+        "tt@iqtelif": "Ngeremlengui"
     },
     "228": {
         "af": "Ngiwal",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Ngiwal",
         "zh_Hant_TW": "Ngiwal",
         "zu": "Ngiwal",
-        "zu_ZA": "Ngiwal"
+        "zu_ZA": "Ngiwal",
+        "sr@latin": "Ngiwal",
+        "tt@iqtelif": "Ngiwal"
     },
     "350": {
         "af": "Peleliu",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Peleliu",
         "zh_Hant_TW": "Peleliu",
         "zu": "Peleliu",
-        "zu_ZA": "Peleliu"
+        "zu_ZA": "Peleliu",
+        "sr@latin": "Peleliu",
+        "tt@iqtelif": "Peleliu"
     },
     "370": {
         "af": "Sonsorol",
@@ -14125,6 +14155,8 @@
         "zh_Hant_MY": "Sonsorol",
         "zh_Hant_TW": "Sonsorol",
         "zu": "Sonsorol",
-        "zu_ZA": "Sonsorol"
+        "zu_ZA": "Sonsorol",
+        "sr@latin": "Sonsorol",
+        "tt@iqtelif": "Sonsorol"
     }
 }

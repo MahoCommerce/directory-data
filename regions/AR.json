@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Salta",
         "zh_Hant_TW": "Salta",
         "zu": "Salta",
-        "zu_ZA": "Salta"
+        "zu_ZA": "Salta",
+        "sr@latin": "Salta",
+        "tt@iqtelif": "Salta"
     },
     "B": {
         "af": "Buenos Aires",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Buenos Aires",
         "zh_Hant_TW": "Buenos Aires",
         "zu": "Buenos Aires",
-        "zu_ZA": "Buenos Aires"
+        "zu_ZA": "Buenos Aires",
+        "sr@latin": "Buenos Aires",
+        "tt@iqtelif": "Buenos Aires"
     },
     "C": {
         "af": "Ciudad Autónoma de Buenos Aires",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Ciudad Autónoma de Buenos Aires",
         "zh_Hant_TW": "Ciudad Autónoma de Buenos Aires",
         "zu": "Ciudad Autónoma de Buenos Aires",
-        "zu_ZA": "Ciudad Autónoma de Buenos Aires"
+        "zu_ZA": "Ciudad Autónoma de Buenos Aires",
+        "sr@latin": "Autonomni grad Buenos Aires",
+        "tt@iqtelif": "Ciudad Autónoma de Buenos Aires"
     },
     "D": {
         "af": "San Luis",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "San Luis",
         "zh_Hant_TW": "San Luis",
         "zu": "San Luis",
-        "zu_ZA": "San Luis"
+        "zu_ZA": "San Luis",
+        "sr@latin": "San Luis",
+        "tt@iqtelif": "San Luis"
     },
     "E": {
         "af": "Entre Ríos",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Entre Ríos",
         "zh_Hant_TW": "Entre Ríos",
         "zu": "Entre Ríos",
-        "zu_ZA": "Entre Ríos"
+        "zu_ZA": "Entre Ríos",
+        "sr@latin": "Entre Ríos",
+        "tt@iqtelif": "Entre Ríos"
     },
     "F": {
         "af": "La Rioja",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "La Rioja",
         "zh_Hant_TW": "La Rioja",
         "zu": "La Rioja",
-        "zu_ZA": "La Rioja"
+        "zu_ZA": "La Rioja",
+        "sr@latin": "La Rioha",
+        "tt@iqtelif": "La Rioja"
     },
     "G": {
         "af": "Santiago del Estero",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Santiago del Estero",
         "zh_Hant_TW": "Santiago del Estero",
         "zu": "Santiago del Estero",
-        "zu_ZA": "Santiago del Estero"
+        "zu_ZA": "Santiago del Estero",
+        "sr@latin": "Santjago del Estero",
+        "tt@iqtelif": "Santiago del Estero"
     },
     "H": {
         "af": "Chaco",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Chaco",
         "zh_Hant_TW": "Chaco",
         "zu": "Chaco",
-        "zu_ZA": "Chaco"
+        "zu_ZA": "Chaco",
+        "sr@latin": "Čako",
+        "tt@iqtelif": "Chaco"
     },
     "J": {
         "af": "San Juan",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "San Juan",
         "zh_Hant_TW": "San Juan",
         "zu": "San Juan",
-        "zu_ZA": "San Juan"
+        "zu_ZA": "San Juan",
+        "sr@latin": "San Huan",
+        "tt@iqtelif": "San Juan"
     },
     "K": {
         "af": "Catamarca",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Catamarca",
         "zh_Hant_TW": "Catamarca",
         "zu": "Catamarca",
-        "zu_ZA": "Catamarca"
+        "zu_ZA": "Catamarca",
+        "sr@latin": "Katamarka",
+        "tt@iqtelif": "Catamarca"
     },
     "L": {
         "af": "La Pampa",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "La Pampa",
         "zh_Hant_TW": "La Pampa",
         "zu": "La Pampa",
-        "zu_ZA": "La Pampa"
+        "zu_ZA": "La Pampa",
+        "sr@latin": "La Pampa",
+        "tt@iqtelif": "La Pampa"
     },
     "M": {
         "af": "Mendoza",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Mendoza",
         "zh_Hant_TW": "Mendoza",
         "zu": "Mendoza",
-        "zu_ZA": "Mendoza"
+        "zu_ZA": "Mendoza",
+        "sr@latin": "Mendoza",
+        "tt@iqtelif": "Mendoza"
     },
     "N": {
         "af": "Misiones",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Misiones",
         "zh_Hant_TW": "Misiones",
         "zu": "Misiones",
-        "zu_ZA": "Misiones"
+        "zu_ZA": "Misiones",
+        "sr@latin": "Misjon",
+        "tt@iqtelif": "Misiones"
     },
     "P": {
         "af": "Formosa",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Formosa",
         "zh_Hant_TW": "Formosa",
         "zu": "Formosa",
-        "zu_ZA": "Formosa"
+        "zu_ZA": "Formosa",
+        "sr@latin": "Formoza",
+        "tt@iqtelif": "Formosa"
     },
     "Q": {
         "af": "Neuquén",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Neuquén",
         "zh_Hant_TW": "Neuquén",
         "zu": "Neuquén",
-        "zu_ZA": "Neuquén"
+        "zu_ZA": "Neuquén",
+        "sr@latin": "Neuquén",
+        "tt@iqtelif": "Neuquén"
     },
     "R": {
         "af": "Río Negro",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Río Negro",
         "zh_Hant_TW": "Río Negro",
         "zu": "Río Negro",
-        "zu_ZA": "Río Negro"
+        "zu_ZA": "Río Negro",
+        "sr@latin": "Rio Negro",
+        "tt@iqtelif": "Río Negro"
     },
     "S": {
         "af": "Santa Fe",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Santa Fe",
         "zh_Hant_TW": "Santa Fe",
         "zu": "Santa Fe",
-        "zu_ZA": "Santa Fe"
+        "zu_ZA": "Santa Fe",
+        "sr@latin": "Santa Fe",
+        "tt@iqtelif": "Santa Fe"
     },
     "T": {
         "af": "Tucumán",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Tucumán",
         "zh_Hant_TW": "Tucumán",
         "zu": "Tucumán",
-        "zu_ZA": "Tucumán"
+        "zu_ZA": "Tucumán",
+        "sr@latin": "Tucumán",
+        "tt@iqtelif": "Tucumán"
     },
     "U": {
         "af": "Chubut",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Chubut",
         "zh_Hant_TW": "Chubut",
         "zu": "Chubut",
-        "zu_ZA": "Chubut"
+        "zu_ZA": "Chubut",
+        "sr@latin": "Čubut",
+        "tt@iqtelif": "Chubut"
     },
     "V": {
         "af": "Tierra del Fuego",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Tierra del Fuego",
         "zh_Hant_TW": "Tierra del Fuego",
         "zu": "Tierra del Fuego",
-        "zu_ZA": "Tierra del Fuego"
+        "zu_ZA": "Tierra del Fuego",
+        "sr@latin": "Ognjena Zemlja",
+        "tt@iqtelif": "Tierra del Fuego"
     },
     "W": {
         "af": "Corrientes",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Corrientes",
         "zh_Hant_TW": "Corrientes",
         "zu": "Corrientes",
-        "zu_ZA": "Corrientes"
+        "zu_ZA": "Corrientes",
+        "sr@latin": "Korijentes",
+        "tt@iqtelif": "Corrientes"
     },
     "X": {
         "af": "Córdoba",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Córdoba",
         "zh_Hant_TW": "Córdoba",
         "zu": "Córdoba",
-        "zu_ZA": "Córdoba"
+        "zu_ZA": "Córdoba",
+        "sr@latin": "Kordoba",
+        "tt@iqtelif": "Córdoba"
     },
     "Y": {
         "af": "Jujuy",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Jujuy",
         "zh_Hant_TW": "Jujuy",
         "zu": "Jujuy",
-        "zu_ZA": "Jujuy"
+        "zu_ZA": "Jujuy",
+        "sr@latin": "Džudžuj",
+        "tt@iqtelif": "Jujuy"
     },
     "Z": {
         "af": "Santa Cruz",
@@ -21189,6 +21235,8 @@
         "zh_Hant_MY": "Santa Cruz",
         "zh_Hant_TW": "Santa Cruz",
         "zu": "Santa Cruz",
-        "zu_ZA": "Santa Cruz"
+        "zu_ZA": "Santa Cruz",
+        "sr@latin": "Santa Kruz",
+        "tt@iqtelif": "Santa Cruz"
     }
 }

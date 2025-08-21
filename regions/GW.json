@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bafatá",
         "zh_Hant_TW": "Bafatá",
         "zu": "Bafatá",
-        "zu_ZA": "Bafatá"
+        "zu_ZA": "Bafatá",
+        "sr@latin": "Bafata",
+        "tt@iqtelif": "Bafatá"
     },
     "BL": {
         "af": "Bolama \/ Bijagós",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bolama \/ Bijagós",
         "zh_Hant_TW": "Bolama \/ Bijagós",
         "zu": "Bolama \/ Bijagós",
-        "zu_ZA": "Bolama \/ Bijagós"
+        "zu_ZA": "Bolama \/ Bijagós",
+        "sr@latin": "Bolama \/ Bijagós",
+        "tt@iqtelif": "Bolama \/ Bijagós"
     },
     "BM": {
         "af": "Biombo",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Biombo",
         "zh_Hant_TW": "Biombo",
         "zu": "Biombo",
-        "zu_ZA": "Biombo"
+        "zu_ZA": "Biombo",
+        "sr@latin": "Bjombo",
+        "tt@iqtelif": "Biombo"
     },
     "BS": {
         "af": "Bissau",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Bissau",
         "zh_Hant_TW": "Bissau",
         "zu": "Bissau",
-        "zu_ZA": "Bissau"
+        "zu_ZA": "Bissau",
+        "sr@latin": "Bisau",
+        "tt@iqtelif": "Bissau"
     },
     "CA": {
         "af": "Cacheu",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Cacheu",
         "zh_Hant_TW": "Cacheu",
         "zu": "Cacheu",
-        "zu_ZA": "Cacheu"
+        "zu_ZA": "Cacheu",
+        "sr@latin": "Kašo",
+        "tt@iqtelif": "Cacheu"
     },
     "GA": {
         "af": "Gabú",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Gabú",
         "zh_Hant_TW": "Gabú",
         "zu": "Gabú",
-        "zu_ZA": "Gabú"
+        "zu_ZA": "Gabú",
+        "sr@latin": "Gabu",
+        "tt@iqtelif": "Gabú"
     },
     "L": {
         "af": "Leste",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Leste",
         "zh_Hant_TW": "Leste",
         "zu": "Leste",
-        "zu_ZA": "Leste"
+        "zu_ZA": "Leste",
+        "sr@latin": "Leste",
+        "tt@iqtelif": "Leste"
     },
     "N": {
         "af": "Norte",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Norte",
         "zh_Hant_TW": "Norte",
         "zu": "Norte",
-        "zu_ZA": "Norte"
+        "zu_ZA": "Norte",
+        "sr@latin": "Norte",
+        "tt@iqtelif": "Norte"
     },
     "OI": {
         "af": "Oio",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Oio",
         "zh_Hant_TW": "Oio",
         "zu": "Oio",
-        "zu_ZA": "Oio"
+        "zu_ZA": "Oio",
+        "sr@latin": "Ojo",
+        "tt@iqtelif": "Oio"
     },
     "QU": {
         "af": "Quinara",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Quinara",
         "zh_Hant_TW": "Quinara",
         "zu": "Quinara",
-        "zu_ZA": "Quinara"
+        "zu_ZA": "Quinara",
+        "sr@latin": "Quinara",
+        "tt@iqtelif": "Quinara"
     },
     "S": {
         "af": "Sul",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Sul",
         "zh_Hant_TW": "Sul",
         "zu": "Sul",
-        "zu_ZA": "Sul"
+        "zu_ZA": "Sul",
+        "sr@latin": "Sul",
+        "tt@iqtelif": "Sul"
     },
     "TO": {
         "af": "Tombali",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Tombali",
         "zh_Hant_TW": "Tombali",
         "zu": "Tombali",
-        "zu_ZA": "Tombali"
+        "zu_ZA": "Tombali",
+        "sr@latin": "Tombali",
+        "tt@iqtelif": "Tombali"
     }
 }

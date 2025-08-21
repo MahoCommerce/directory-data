@@ -880,7 +880,9 @@
         "zh_Hant_MY": "El Beni",
         "zh_Hant_TW": "El Beni",
         "zu": "El Beni",
-        "zu_ZA": "El Beni"
+        "zu_ZA": "El Beni",
+        "sr@latin": "El Beni",
+        "tt@iqtelif": "El Beni"
     },
     "C": {
         "af": "Cochabamba",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cochabamba",
         "zh_Hant_TW": "Cochabamba",
         "zu": "Cochabamba",
-        "zu_ZA": "Cochabamba"
+        "zu_ZA": "Cochabamba",
+        "sr@latin": "Kočabamba",
+        "tt@iqtelif": "Cochabamba"
     },
     "H": {
         "af": "Chuquisaca",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Chuquisaca",
         "zh_Hant_TW": "Chuquisaca",
         "zu": "Chuquisaca",
-        "zu_ZA": "Chuquisaca"
+        "zu_ZA": "Chuquisaca",
+        "sr@latin": "Čukuisaka",
+        "tt@iqtelif": "Chuquisaca"
     },
     "L": {
         "af": "La Paz",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "La Paz",
         "zh_Hant_TW": "La Paz",
         "zu": "La Paz",
-        "zu_ZA": "La Paz"
+        "zu_ZA": "La Paz",
+        "sr@latin": "La Paz",
+        "tt@iqtelif": "La Paz"
     },
     "N": {
         "af": "Pando",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Pando",
         "zh_Hant_TW": "Pando",
         "zu": "Pando",
-        "zu_ZA": "Pando"
+        "zu_ZA": "Pando",
+        "sr@latin": "Pando",
+        "tt@iqtelif": "Pando"
     },
     "O": {
         "af": "Oruro",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Oruro",
         "zh_Hant_TW": "Oruro",
         "zu": "Oruro",
-        "zu_ZA": "Oruro"
+        "zu_ZA": "Oruro",
+        "sr@latin": "Oruro",
+        "tt@iqtelif": "Oruro"
     },
     "P": {
         "af": "Potosí",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Potosí",
         "zh_Hant_TW": "Potosí",
         "zu": "Potosí",
-        "zu_ZA": "Potosí"
+        "zu_ZA": "Potosí",
+        "sr@latin": "Potosi",
+        "tt@iqtelif": "Potosí"
     },
     "S": {
         "af": "Santa Cruz",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Santa Cruz",
         "zh_Hant_TW": "Santa Cruz",
         "zu": "Santa Cruz",
-        "zu_ZA": "Santa Cruz"
+        "zu_ZA": "Santa Cruz",
+        "sr@latin": "Santa Kruz",
+        "tt@iqtelif": "Santa Cruz"
     },
     "T": {
         "af": "Tarija",
@@ -7944,6 +7960,8 @@
         "zh_Hant_MY": "Tarija",
         "zh_Hant_TW": "Tarija",
         "zu": "Tarija",
-        "zu_ZA": "Tarija"
+        "zu_ZA": "Tarija",
+        "sr@latin": "Tariha",
+        "tt@iqtelif": "Tarija"
     }
 }

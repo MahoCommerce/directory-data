@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Annobon",
         "zh_Hant_TW": "Annobon",
         "zu": "Annobon",
-        "zu_ZA": "Annobon"
+        "zu_ZA": "Annobon",
+        "sr@latin": "Annobon",
+        "tt@iqtelif": "Annobon"
     },
     "BN": {
         "af": "Bioko Nord",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bioko Nord",
         "zh_Hant_TW": "Bioko Nord",
         "zu": "Bioko Nord",
-        "zu_ZA": "Bioko Nord"
+        "zu_ZA": "Bioko Nord",
+        "sr@latin": "Bioko Nord",
+        "tt@iqtelif": "Bioko Nord"
     },
     "BS": {
         "af": "Bioko Sud",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Bioko Sud",
         "zh_Hant_TW": "Bioko Sud",
         "zu": "Bioko Sud",
-        "zu_ZA": "Bioko Sud"
+        "zu_ZA": "Bioko Sud",
+        "sr@latin": "Bioko Sud",
+        "tt@iqtelif": "Bioko Sud"
     },
     "C": {
         "af": "Région Continentale",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Région Continentale",
         "zh_Hant_TW": "Région Continentale",
         "zu": "Région Continentale",
-        "zu_ZA": "Région Continentale"
+        "zu_ZA": "Région Continentale",
+        "sr@latin": "Région Continentale",
+        "tt@iqtelif": "Région Continentale"
     },
     "CS": {
         "af": "Centro Sud",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Centro Sud",
         "zh_Hant_TW": "Centro Sud",
         "zu": "Centro Sud",
-        "zu_ZA": "Centro Sud"
+        "zu_ZA": "Centro Sud",
+        "sr@latin": "Centro Sud",
+        "tt@iqtelif": "Centro Sud"
     },
     "DJ": {
         "af": "Djibloho",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Djibloho",
         "zh_Hant_TW": "Djibloho",
         "zu": "Djibloho",
-        "zu_ZA": "Djibloho"
+        "zu_ZA": "Djibloho",
+        "sr@latin": "Djibloho",
+        "tt@iqtelif": "Djibloho"
     },
     "I": {
         "af": "Région Insulaire",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Région Insulaire",
         "zh_Hant_TW": "Région Insulaire",
         "zu": "Région Insulaire",
-        "zu_ZA": "Région Insulaire"
+        "zu_ZA": "Région Insulaire",
+        "sr@latin": "Région Insulaire",
+        "tt@iqtelif": "Région Insulaire"
     },
     "KN": {
         "af": "Kié-Ntem",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kié-Ntem",
         "zh_Hant_TW": "Kié-Ntem",
         "zu": "Kié-Ntem",
-        "zu_ZA": "Kié-Ntem"
+        "zu_ZA": "Kié-Ntem",
+        "sr@latin": "Kié-Ntem",
+        "tt@iqtelif": "Kié-Ntem"
     },
     "LI": {
         "af": "Littoral",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Littoral",
         "zh_Hant_TW": "Littoral",
         "zu": "Littoral",
-        "zu_ZA": "Littoral"
+        "zu_ZA": "Littoral",
+        "sr@latin": "Litoral",
+        "tt@iqtelif": "Littoral"
     },
     "WN": {
         "af": "Wele-Nzas",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Wele-Nzas",
         "zh_Hant_TW": "Wele-Nzas",
         "zu": "Wele-Nzas",
-        "zu_ZA": "Wele-Nzas"
+        "zu_ZA": "Wele-Nzas",
+        "sr@latin": "Wele-Nzas",
+        "tt@iqtelif": "Wele-Nzas"
     }
 }

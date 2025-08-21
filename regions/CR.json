@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Alajuela",
         "zh_Hant_TW": "Alajuela",
         "zu": "Alajuela",
-        "zu_ZA": "Alajuela"
+        "zu_ZA": "Alajuela",
+        "sr@latin": "Alahuela",
+        "tt@iqtelif": "Alajuela"
     },
     "C": {
         "af": "Cartago",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cartago",
         "zh_Hant_TW": "Cartago",
         "zu": "Cartago",
-        "zu_ZA": "Cartago"
+        "zu_ZA": "Cartago",
+        "sr@latin": "Kartago",
+        "tt@iqtelif": "Cartago"
     },
     "G": {
         "af": "Guanacaste",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Guanacaste",
         "zh_Hant_TW": "Guanacaste",
         "zu": "Guanacaste",
-        "zu_ZA": "Guanacaste"
+        "zu_ZA": "Guanacaste",
+        "sr@latin": "Gvanakaste",
+        "tt@iqtelif": "Guanacaste"
     },
     "H": {
         "af": "Heredia",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Heredia",
         "zh_Hant_TW": "Heredia",
         "zu": "Heredia",
-        "zu_ZA": "Heredia"
+        "zu_ZA": "Heredia",
+        "sr@latin": "Heredija",
+        "tt@iqtelif": "Heredia"
     },
     "L": {
         "af": "Limón",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Limón",
         "zh_Hant_TW": "Limón",
         "zu": "Limón",
-        "zu_ZA": "Limón"
+        "zu_ZA": "Limón",
+        "sr@latin": "Limon",
+        "tt@iqtelif": "Limón"
     },
     "P": {
         "af": "Puntarenas",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Puntarenas",
         "zh_Hant_TW": "Puntarenas",
         "zu": "Puntarenas",
-        "zu_ZA": "Puntarenas"
+        "zu_ZA": "Puntarenas",
+        "sr@latin": "Puntarenas",
+        "tt@iqtelif": "Puntarenas"
     },
     "SJ": {
         "af": "San José",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "San José",
         "zh_Hant_TW": "San José",
         "zu": "San José",
-        "zu_ZA": "San José"
+        "zu_ZA": "San José",
+        "sr@latin": "San Hose",
+        "tt@iqtelif": "San José"
     }
 }

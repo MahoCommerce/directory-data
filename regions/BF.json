@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Boucle du Mouhoun",
         "zh_Hant_TW": "Boucle du Mouhoun",
         "zu": "Boucle du Mouhoun",
-        "zu_ZA": "Boucle du Mouhoun"
+        "zu_ZA": "Boucle du Mouhoun",
+        "sr@latin": "Bukl di Muun",
+        "tt@iqtelif": "Boucle du Mouhoun"
     },
     "02": {
         "af": "Cascades",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cascades",
         "zh_Hant_TW": "Cascades",
         "zu": "Cascades",
-        "zu_ZA": "Cascades"
+        "zu_ZA": "Cascades",
+        "sr@latin": "Kaskades",
+        "tt@iqtelif": "Cascades"
     },
     "03": {
         "af": "Centre",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Centre",
         "zh_Hant_TW": "Centre",
         "zu": "Centre",
-        "zu_ZA": "Centre"
+        "zu_ZA": "Centre",
+        "sr@latin": "Centralno",
+        "tt@iqtelif": "Centre"
     },
     "04": {
         "af": "Centre-Est",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Centre-Est",
         "zh_Hant_TW": "Centre-Est",
         "zu": "Centre-Est",
-        "zu_ZA": "Centre-Est"
+        "zu_ZA": "Centre-Est",
+        "sr@latin": "Centralno-istočni",
+        "tt@iqtelif": "Centre-Est"
     },
     "05": {
         "af": "Centre-Nord",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Centre-Nord",
         "zh_Hant_TW": "Centre-Nord",
         "zu": "Centre-Nord",
-        "zu_ZA": "Centre-Nord"
+        "zu_ZA": "Centre-Nord",
+        "sr@latin": "Centralno-severni",
+        "tt@iqtelif": "Centre-Nord"
     },
     "06": {
         "af": "Centre-Ouest",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Centre-Ouest",
         "zh_Hant_TW": "Centre-Ouest",
         "zu": "Centre-Ouest",
-        "zu_ZA": "Centre-Ouest"
+        "zu_ZA": "Centre-Ouest",
+        "sr@latin": "Centralno-zapadni",
+        "tt@iqtelif": "Centre-Ouest"
     },
     "07": {
         "af": "Centre-Sud",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Centre-Sud",
         "zh_Hant_TW": "Centre-Sud",
         "zu": "Centre-Sud",
-        "zu_ZA": "Centre-Sud"
+        "zu_ZA": "Centre-Sud",
+        "sr@latin": "Centralno-južni",
+        "tt@iqtelif": "Centre-Sud"
     },
     "08": {
         "af": "Est",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Est",
         "zh_Hant_TW": "Est",
         "zu": "Est",
-        "zu_ZA": "Est"
+        "zu_ZA": "Est",
+        "sr@latin": "Istok",
+        "tt@iqtelif": "Est"
     },
     "09": {
         "af": "Hauts-Bassins",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Hauts-Bassins",
         "zh_Hant_TW": "Hauts-Bassins",
         "zu": "Hauts-Bassins",
-        "zu_ZA": "Hauts-Bassins"
+        "zu_ZA": "Hauts-Bassins",
+        "sr@latin": "Gornji Baseni",
+        "tt@iqtelif": "Hauts-Bassins"
     },
     "10": {
         "af": "Nord",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Nord",
         "zh_Hant_TW": "Nord",
         "zu": "Nord",
-        "zu_ZA": "Nord"
+        "zu_ZA": "Nord",
+        "sr@latin": "Sever",
+        "tt@iqtelif": "Nord"
     },
     "11": {
         "af": "Plateau-Central",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Plateau-Central",
         "zh_Hant_TW": "Plateau-Central",
         "zu": "Plateau-Central",
-        "zu_ZA": "Plateau-Central"
+        "zu_ZA": "Plateau-Central",
+        "sr@latin": "Središnji Plato",
+        "tt@iqtelif": "Plateau-Central"
     },
     "12": {
         "af": "Sahel",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Sahel",
         "zh_Hant_TW": "Sahel",
         "zu": "Sahel",
-        "zu_ZA": "Sahel"
+        "zu_ZA": "Sahel",
+        "sr@latin": "Sael",
+        "tt@iqtelif": "Sahel"
     },
     "13": {
         "af": "Sud-Ouest",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Sud-Ouest",
         "zh_Hant_TW": "Sud-Ouest",
         "zu": "Sud-Ouest",
-        "zu_ZA": "Sud-Ouest"
+        "zu_ZA": "Sud-Ouest",
+        "sr@latin": "Jugozapad",
+        "tt@iqtelif": "Sud-Ouest"
     },
     "BAL": {
         "af": "Balé",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Balé",
         "zh_Hant_TW": "Balé",
         "zu": "Balé",
-        "zu_ZA": "Balé"
+        "zu_ZA": "Balé",
+        "sr@latin": "Bale",
+        "tt@iqtelif": "Balé"
     },
     "BAM": {
         "af": "Bam",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Bam",
         "zh_Hant_TW": "Bam",
         "zu": "Bam",
-        "zu_ZA": "Bam"
+        "zu_ZA": "Bam",
+        "sr@latin": "Bam",
+        "tt@iqtelif": "Bam"
     },
     "BAN": {
         "af": "Banwa",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Banwa",
         "zh_Hant_TW": "Banwa",
         "zu": "Banwa",
-        "zu_ZA": "Banwa"
+        "zu_ZA": "Banwa",
+        "sr@latin": "Banva",
+        "tt@iqtelif": "Banwa"
     },
     "BAZ": {
         "af": "Bazèga",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Bazèga",
         "zh_Hant_TW": "Bazèga",
         "zu": "Bazèga",
-        "zu_ZA": "Bazèga"
+        "zu_ZA": "Bazèga",
+        "sr@latin": "Bazega",
+        "tt@iqtelif": "Bazèga"
     },
     "BGR": {
         "af": "Bougouriba",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Bougouriba",
         "zh_Hant_TW": "Bougouriba",
         "zu": "Bougouriba",
-        "zu_ZA": "Bougouriba"
+        "zu_ZA": "Bougouriba",
+        "sr@latin": "Buguriba",
+        "tt@iqtelif": "Bougouriba"
     },
     "BLG": {
         "af": "Boulgou",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Boulgou",
         "zh_Hant_TW": "Boulgou",
         "zu": "Boulgou",
-        "zu_ZA": "Boulgou"
+        "zu_ZA": "Boulgou",
+        "sr@latin": "Bulgu",
+        "tt@iqtelif": "Boulgou"
     },
     "BLK": {
         "af": "Boulkiemdé",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Boulkiemdé",
         "zh_Hant_TW": "Boulkiemdé",
         "zu": "Boulkiemdé",
-        "zu_ZA": "Boulkiemdé"
+        "zu_ZA": "Boulkiemdé",
+        "sr@latin": "Bulkjemde",
+        "tt@iqtelif": "Boulkiemdé"
     },
     "COM": {
         "af": "Comoé",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Comoé",
         "zh_Hant_TW": "Comoé",
         "zu": "Comoé",
-        "zu_ZA": "Comoé"
+        "zu_ZA": "Comoé",
+        "sr@latin": "Komoe",
+        "tt@iqtelif": "Comoé"
     },
     "GAN": {
         "af": "Ganzourgou",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Ganzourgou",
         "zh_Hant_TW": "Ganzourgou",
         "zu": "Ganzourgou",
-        "zu_ZA": "Ganzourgou"
+        "zu_ZA": "Ganzourgou",
+        "sr@latin": "Ganzurgu",
+        "tt@iqtelif": "Ganzourgou"
     },
     "GNA": {
         "af": "Gnagna",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Gnagna",
         "zh_Hant_TW": "Gnagna",
         "zu": "Gnagna",
-        "zu_ZA": "Gnagna"
+        "zu_ZA": "Gnagna",
+        "sr@latin": "Njanja",
+        "tt@iqtelif": "Gnagna"
     },
     "GOU": {
         "af": "Gourma",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Gourma",
         "zh_Hant_TW": "Gourma",
         "zu": "Gourma",
-        "zu_ZA": "Gourma"
+        "zu_ZA": "Gourma",
+        "sr@latin": "Gurma",
+        "tt@iqtelif": "Gourma"
     },
     "HOU": {
         "af": "Houet",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Houet",
         "zh_Hant_TW": "Houet",
         "zu": "Houet",
-        "zu_ZA": "Houet"
+        "zu_ZA": "Houet",
+        "sr@latin": "Ue",
+        "tt@iqtelif": "Houet"
     },
     "IOB": {
         "af": "Ioba",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Ioba",
         "zh_Hant_TW": "Ioba",
         "zu": "Ioba",
-        "zu_ZA": "Ioba"
+        "zu_ZA": "Ioba",
+        "sr@latin": "Joba",
+        "tt@iqtelif": "Ioba"
     },
     "KAD": {
         "af": "Kadiogo",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Kadiogo",
         "zh_Hant_TW": "Kadiogo",
         "zu": "Kadiogo",
-        "zu_ZA": "Kadiogo"
+        "zu_ZA": "Kadiogo",
+        "sr@latin": "Kadjogo",
+        "tt@iqtelif": "Kadiogo"
     },
     "KEN": {
         "af": "Kénédougou",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Kénédougou",
         "zh_Hant_TW": "Kénédougou",
         "zu": "Kénédougou",
-        "zu_ZA": "Kénédougou"
+        "zu_ZA": "Kénédougou",
+        "sr@latin": "Kenedugu",
+        "tt@iqtelif": "Kénédougou"
     },
     "KMD": {
         "af": "Komondjari",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Komondjari",
         "zh_Hant_TW": "Komondjari",
         "zu": "Komondjari",
-        "zu_ZA": "Komondjari"
+        "zu_ZA": "Komondjari",
+        "sr@latin": "Komonddžari",
+        "tt@iqtelif": "Komondjari"
     },
     "KMP": {
         "af": "Kompienga",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Kompienga",
         "zh_Hant_TW": "Kompienga",
         "zu": "Kompienga",
-        "zu_ZA": "Kompienga"
+        "zu_ZA": "Kompienga",
+        "sr@latin": "Kompjenga",
+        "tt@iqtelif": "Kompienga"
     },
     "KOP": {
         "af": "Koulpélogo",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Koulpélogo",
         "zh_Hant_TW": "Koulpélogo",
         "zu": "Koulpélogo",
-        "zu_ZA": "Koulpélogo"
+        "zu_ZA": "Koulpélogo",
+        "sr@latin": "Kulpelogo",
+        "tt@iqtelif": "Koulpélogo"
     },
     "KOS": {
         "af": "Kossi",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Kossi",
         "zh_Hant_TW": "Kossi",
         "zu": "Kossi",
-        "zu_ZA": "Kossi"
+        "zu_ZA": "Kossi",
+        "sr@latin": "Kosi",
+        "tt@iqtelif": "Kossi"
     },
     "KOT": {
         "af": "Kouritenga",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Kouritenga",
         "zh_Hant_TW": "Kouritenga",
         "zu": "Kouritenga",
-        "zu_ZA": "Kouritenga"
+        "zu_ZA": "Kouritenga",
+        "sr@latin": "Kuritenga",
+        "tt@iqtelif": "Kouritenga"
     },
     "KOW": {
         "af": "Kourwéogo",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Kourwéogo",
         "zh_Hant_TW": "Kourwéogo",
         "zu": "Kourwéogo",
-        "zu_ZA": "Kourwéogo"
+        "zu_ZA": "Kourwéogo",
+        "sr@latin": "Kurveogo",
+        "tt@iqtelif": "Kourwéogo"
     },
     "LER": {
         "af": "Léraba",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Léraba",
         "zh_Hant_TW": "Léraba",
         "zu": "Léraba",
-        "zu_ZA": "Léraba"
+        "zu_ZA": "Léraba",
+        "sr@latin": "Leraba",
+        "tt@iqtelif": "Léraba"
     },
     "LOR": {
         "af": "Loroum",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Loroum",
         "zh_Hant_TW": "Loroum",
         "zu": "Loroum",
-        "zu_ZA": "Loroum"
+        "zu_ZA": "Loroum",
+        "sr@latin": "Lorum",
+        "tt@iqtelif": "Loroum"
     },
     "MOU": {
         "af": "Mouhoun",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Mouhoun",
         "zh_Hant_TW": "Mouhoun",
         "zu": "Mouhoun",
-        "zu_ZA": "Mouhoun"
+        "zu_ZA": "Mouhoun",
+        "sr@latin": "Muun",
+        "tt@iqtelif": "Mouhoun"
     },
     "NAM": {
         "af": "Namentenga",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Namentenga",
         "zh_Hant_TW": "Namentenga",
         "zu": "Namentenga",
-        "zu_ZA": "Namentenga"
+        "zu_ZA": "Namentenga",
+        "sr@latin": "Namentenga",
+        "tt@iqtelif": "Namentenga"
     },
     "NAO": {
         "af": "Nahouri",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Nahouri",
         "zh_Hant_TW": "Nahouri",
         "zu": "Nahouri",
-        "zu_ZA": "Nahouri"
+        "zu_ZA": "Nahouri",
+        "sr@latin": "Nahouri",
+        "tt@iqtelif": "Nahouri"
     },
     "NAY": {
         "af": "Nayala",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Nayala",
         "zh_Hant_TW": "Nayala",
         "zu": "Nayala",
-        "zu_ZA": "Nayala"
+        "zu_ZA": "Nayala",
+        "sr@latin": "Najala",
+        "tt@iqtelif": "Nayala"
     },
     "NOU": {
         "af": "Noumbiel",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Noumbiel",
         "zh_Hant_TW": "Noumbiel",
         "zu": "Noumbiel",
-        "zu_ZA": "Noumbiel"
+        "zu_ZA": "Noumbiel",
+        "sr@latin": "Numbjel",
+        "tt@iqtelif": "Noumbiel"
     },
     "OUB": {
         "af": "Oubritenga",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "Oubritenga",
         "zh_Hant_TW": "Oubritenga",
         "zu": "Oubritenga",
-        "zu_ZA": "Oubritenga"
+        "zu_ZA": "Oubritenga",
+        "sr@latin": "Ubritenga",
+        "tt@iqtelif": "Oubritenga"
     },
     "OUD": {
         "af": "Oudalan",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Oudalan",
         "zh_Hant_TW": "Oudalan",
         "zu": "Oudalan",
-        "zu_ZA": "Oudalan"
+        "zu_ZA": "Oudalan",
+        "sr@latin": "Udalan",
+        "tt@iqtelif": "Oudalan"
     },
     "PAS": {
         "af": "Passoré",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Passoré",
         "zh_Hant_TW": "Passoré",
         "zu": "Passoré",
-        "zu_ZA": "Passoré"
+        "zu_ZA": "Passoré",
+        "sr@latin": "Pasore",
+        "tt@iqtelif": "Passoré"
     },
     "PON": {
         "af": "Poni",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "Poni",
         "zh_Hant_TW": "Poni",
         "zu": "Poni",
-        "zu_ZA": "Poni"
+        "zu_ZA": "Poni",
+        "sr@latin": "Poni",
+        "tt@iqtelif": "Poni"
     },
     "SEN": {
         "af": "Séno",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Séno",
         "zh_Hant_TW": "Séno",
         "zu": "Séno",
-        "zu_ZA": "Séno"
+        "zu_ZA": "Séno",
+        "sr@latin": "Seno",
+        "tt@iqtelif": "Séno"
     },
     "SIS": {
         "af": "Sissili",
@@ -41498,7 +41590,9 @@
         "zh_Hant_MY": "Sissili",
         "zh_Hant_TW": "Sissili",
         "zu": "Sissili",
-        "zu_ZA": "Sissili"
+        "zu_ZA": "Sissili",
+        "sr@latin": "Sisili",
+        "tt@iqtelif": "Sissili"
     },
     "SMT": {
         "af": "Sanmatenga",
@@ -42381,7 +42475,9 @@
         "zh_Hant_MY": "Sanmatenga",
         "zh_Hant_TW": "Sanmatenga",
         "zu": "Sanmatenga",
-        "zu_ZA": "Sanmatenga"
+        "zu_ZA": "Sanmatenga",
+        "sr@latin": "Sanmatenga",
+        "tt@iqtelif": "Sanmatenga"
     },
     "SNG": {
         "af": "Sanguié",
@@ -43264,7 +43360,9 @@
         "zh_Hant_MY": "Sanguié",
         "zh_Hant_TW": "Sanguié",
         "zu": "Sanguié",
-        "zu_ZA": "Sanguié"
+        "zu_ZA": "Sanguié",
+        "sr@latin": "Sangje",
+        "tt@iqtelif": "Sanguié"
     },
     "SOM": {
         "af": "Soum",
@@ -44147,7 +44245,9 @@
         "zh_Hant_MY": "Soum",
         "zh_Hant_TW": "Soum",
         "zu": "Soum",
-        "zu_ZA": "Soum"
+        "zu_ZA": "Soum",
+        "sr@latin": "Sum",
+        "tt@iqtelif": "Soum"
     },
     "SOR": {
         "af": "Sourou",
@@ -45030,7 +45130,9 @@
         "zh_Hant_MY": "Sourou",
         "zh_Hant_TW": "Sourou",
         "zu": "Sourou",
-        "zu_ZA": "Sourou"
+        "zu_ZA": "Sourou",
+        "sr@latin": "Suru",
+        "tt@iqtelif": "Sourou"
     },
     "TAP": {
         "af": "Tapoa",
@@ -45913,7 +46015,9 @@
         "zh_Hant_MY": "Tapoa",
         "zh_Hant_TW": "Tapoa",
         "zu": "Tapoa",
-        "zu_ZA": "Tapoa"
+        "zu_ZA": "Tapoa",
+        "sr@latin": "Tapoa",
+        "tt@iqtelif": "Tapoa"
     },
     "TUI": {
         "af": "Tuy",
@@ -46796,7 +46900,9 @@
         "zh_Hant_MY": "Tuy",
         "zh_Hant_TW": "Tuy",
         "zu": "Tuy",
-        "zu_ZA": "Tuy"
+        "zu_ZA": "Tuy",
+        "sr@latin": "Tuy",
+        "tt@iqtelif": "Tuy"
     },
     "YAG": {
         "af": "Yagha",
@@ -47679,7 +47785,9 @@
         "zh_Hant_MY": "Yagha",
         "zh_Hant_TW": "Yagha",
         "zu": "Yagha",
-        "zu_ZA": "Yagha"
+        "zu_ZA": "Yagha",
+        "sr@latin": "Jaga",
+        "tt@iqtelif": "Yagha"
     },
     "YAT": {
         "af": "Yatenga",
@@ -48562,7 +48670,9 @@
         "zh_Hant_MY": "Yatenga",
         "zh_Hant_TW": "Yatenga",
         "zu": "Yatenga",
-        "zu_ZA": "Yatenga"
+        "zu_ZA": "Yatenga",
+        "sr@latin": "Jatenga",
+        "tt@iqtelif": "Yatenga"
     },
     "ZIR": {
         "af": "Ziro",
@@ -49445,7 +49555,9 @@
         "zh_Hant_MY": "Ziro",
         "zh_Hant_TW": "Ziro",
         "zu": "Ziro",
-        "zu_ZA": "Ziro"
+        "zu_ZA": "Ziro",
+        "sr@latin": "Ziro",
+        "tt@iqtelif": "Ziro"
     },
     "ZON": {
         "af": "Zondoma",
@@ -50328,7 +50440,9 @@
         "zh_Hant_MY": "Zondoma",
         "zh_Hant_TW": "Zondoma",
         "zu": "Zondoma",
-        "zu_ZA": "Zondoma"
+        "zu_ZA": "Zondoma",
+        "sr@latin": "Zondoma",
+        "tt@iqtelif": "Zondoma"
     },
     "ZOU": {
         "af": "Zoundwéogo",
@@ -51211,6 +51325,8 @@
         "zh_Hant_MY": "Zoundwéogo",
         "zh_Hant_TW": "Zoundwéogo",
         "zu": "Zoundwéogo",
-        "zu_ZA": "Zoundwéogo"
+        "zu_ZA": "Zoundwéogo",
+        "sr@latin": "Zundveogo",
+        "tt@iqtelif": "Zoundwéogo"
     }
 }

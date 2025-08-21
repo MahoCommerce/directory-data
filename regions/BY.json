@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bresckaja voblasć",
         "zh_Hant_TW": "Bresckaja voblasć",
         "zu": "Bresckaja voblasć",
-        "zu_ZA": "Bresckaja voblasć"
+        "zu_ZA": "Bresckaja voblasć",
+        "sr@latin": "Bresckaja voblasć",
+        "tt@iqtelif": "Bresckaja voblasć"
     },
     "HM": {
         "af": "Gorod Minsk",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Gorod Minsk",
         "zh_Hant_TW": "Gorod Minsk",
         "zu": "Gorod Minsk",
-        "zu_ZA": "Gorod Minsk"
+        "zu_ZA": "Gorod Minsk",
+        "sr@latin": "Gorod Minsk",
+        "tt@iqtelif": "Gorod Minsk"
     },
     "HO": {
         "af": "Gomel'skaja oblast'",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Gomel'skaja oblast'",
         "zh_Hant_TW": "Gomel'skaja oblast'",
         "zu": "Gomel'skaja oblast'",
-        "zu_ZA": "Gomel'skaja oblast'"
+        "zu_ZA": "Gomel'skaja oblast'",
+        "sr@latin": "Gomel'skaja oblast'",
+        "tt@iqtelif": "Gomel'skaja oblast'"
     },
     "HR": {
         "af": "Grodnenskaja oblast'",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Grodnenskaja oblast'",
         "zh_Hant_TW": "Grodnenskaja oblast'",
         "zu": "Grodnenskaja oblast'",
-        "zu_ZA": "Grodnenskaja oblast'"
+        "zu_ZA": "Grodnenskaja oblast'",
+        "sr@latin": "Grodnenskaja oblast'",
+        "tt@iqtelif": "Grodnenskaja oblast'"
     },
     "MA": {
         "af": "Mahilioŭskaja voblasć",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Mahilioŭskaja voblasć",
         "zh_Hant_TW": "Mahilioŭskaja voblasć",
         "zu": "Mahilioŭskaja voblasć",
-        "zu_ZA": "Mahilioŭskaja voblasć"
+        "zu_ZA": "Mahilioŭskaja voblasć",
+        "sr@latin": "Mahilioŭskaja voblasć",
+        "tt@iqtelif": "Mahilioŭskaja voblasć"
     },
     "MI": {
         "af": "Minskaja oblast'",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Minskaja oblast'",
         "zh_Hant_TW": "Minskaja oblast'",
         "zu": "Minskaja oblast'",
-        "zu_ZA": "Minskaja oblast'"
+        "zu_ZA": "Minskaja oblast'",
+        "sr@latin": "Minskaja oblast'",
+        "tt@iqtelif": "Minskaja oblast'"
     },
     "VI": {
         "af": "Viciebskaja voblasć",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "Viciebskaja voblasć",
         "zh_Hant_TW": "Viciebskaja voblasć",
         "zu": "Viciebskaja voblasć",
-        "zu_ZA": "Viciebskaja voblasć"
+        "zu_ZA": "Viciebskaja voblasć",
+        "sr@latin": "Viciebskaja voblasć",
+        "tt@iqtelif": "Viciebskaja voblasć"
     }
 }

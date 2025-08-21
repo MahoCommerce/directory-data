@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Central Singapore",
         "zh_Hant_TW": "Central Singapore",
         "zu": "Central Singapore",
-        "zu_ZA": "Central Singapore"
+        "zu_ZA": "Central Singapore",
+        "sr@latin": "Srednji Singapur",
+        "tt@iqtelif": "Central Singapore"
     },
     "02": {
         "af": "North East",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "North East",
         "zh_Hant_TW": "North East",
         "zu": "North East",
-        "zu_ZA": "North East"
+        "zu_ZA": "North East",
+        "sr@latin": "Severoistok",
+        "tt@iqtelif": "North East"
     },
     "03": {
         "af": "North West",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "North West",
         "zh_Hant_TW": "North West",
         "zu": "North West",
-        "zu_ZA": "North West"
+        "zu_ZA": "North West",
+        "sr@latin": "Severozapad",
+        "tt@iqtelif": "North West"
     },
     "04": {
         "af": "South East",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "South East",
         "zh_Hant_TW": "South East",
         "zu": "South East",
-        "zu_ZA": "South East"
+        "zu_ZA": "South East",
+        "sr@latin": "Jugoistok",
+        "tt@iqtelif": "South East"
     },
     "05": {
         "af": "South West",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "South West",
         "zh_Hant_TW": "South West",
         "zu": "South West",
-        "zu_ZA": "South West"
+        "zu_ZA": "South West",
+        "sr@latin": "Jugozapad",
+        "tt@iqtelif": "South West"
     }
 }

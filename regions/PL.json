@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Dolnośląskie",
         "zh_Hant_TW": "Dolnośląskie",
         "zu": "Dolnośląskie",
-        "zu_ZA": "Dolnośląskie"
+        "zu_ZA": "Dolnośląskie",
+        "sr@latin": "Dolnošleski",
+        "tt@iqtelif": "Dolnośląskie"
     },
     "04": {
         "af": "Kujawsko-Pomorskie",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kujawsko-Pomorskie",
         "zh_Hant_TW": "Kujawsko-Pomorskie",
         "zu": "Kujawsko-Pomorskie",
-        "zu_ZA": "Kujawsko-Pomorskie"
+        "zu_ZA": "Kujawsko-Pomorskie",
+        "sr@latin": "Kujawsko-Pomorskie",
+        "tt@iqtelif": "Kujawsko-Pomorskie"
     },
     "06": {
         "af": "Lubelskie",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Lubelskie",
         "zh_Hant_TW": "Lubelskie",
         "zu": "Lubelskie",
-        "zu_ZA": "Lubelskie"
+        "zu_ZA": "Lubelskie",
+        "sr@latin": "Lubelskie",
+        "tt@iqtelif": "Lubelskie"
     },
     "08": {
         "af": "Lubuskie",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Lubuskie",
         "zh_Hant_TW": "Lubuskie",
         "zu": "Lubuskie",
-        "zu_ZA": "Lubuskie"
+        "zu_ZA": "Lubuskie",
+        "sr@latin": "Lubuški",
+        "tt@iqtelif": "Lubuskie"
     },
     "10": {
         "af": "Łódzkie",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Łódzkie",
         "zh_Hant_TW": "Łódzkie",
         "zu": "Łódzkie",
-        "zu_ZA": "Łódzkie"
+        "zu_ZA": "Łódzkie",
+        "sr@latin": "Łódzkie",
+        "tt@iqtelif": "Łódzkie"
     },
     "12": {
         "af": "Małopolskie",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Małopolskie",
         "zh_Hant_TW": "Małopolskie",
         "zu": "Małopolskie",
-        "zu_ZA": "Małopolskie"
+        "zu_ZA": "Małopolskie",
+        "sr@latin": "Malopoljski",
+        "tt@iqtelif": "Małopolskie"
     },
     "14": {
         "af": "Mazowieckie",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Mazowieckie",
         "zh_Hant_TW": "Mazowieckie",
         "zu": "Mazowieckie",
-        "zu_ZA": "Mazowieckie"
+        "zu_ZA": "Mazowieckie",
+        "sr@latin": "Mazowieckie",
+        "tt@iqtelif": "Mazowieckie"
     },
     "16": {
         "af": "Opolskie",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Opolskie",
         "zh_Hant_TW": "Opolskie",
         "zu": "Opolskie",
-        "zu_ZA": "Opolskie"
+        "zu_ZA": "Opolskie",
+        "sr@latin": "Opolskie",
+        "tt@iqtelif": "Opolskie"
     },
     "18": {
         "af": "Podkarpackie",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Podkarpackie",
         "zh_Hant_TW": "Podkarpackie",
         "zu": "Podkarpackie",
-        "zu_ZA": "Podkarpackie"
+        "zu_ZA": "Podkarpackie",
+        "sr@latin": "Podkarpackie",
+        "tt@iqtelif": "Podkarpackie"
     },
     "20": {
         "af": "Podlaskie",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Podlaskie",
         "zh_Hant_TW": "Podlaskie",
         "zu": "Podlaskie",
-        "zu_ZA": "Podlaskie"
+        "zu_ZA": "Podlaskie",
+        "sr@latin": "Podlaskie",
+        "tt@iqtelif": "Podlaskie"
     },
     "22": {
         "af": "Pomorskie",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Pomorskie",
         "zh_Hant_TW": "Pomorskie",
         "zu": "Pomorskie",
-        "zu_ZA": "Pomorskie"
+        "zu_ZA": "Pomorskie",
+        "sr@latin": "Pomorskie",
+        "tt@iqtelif": "Pomorskie"
     },
     "24": {
         "af": "Śląskie",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Śląskie",
         "zh_Hant_TW": "Śląskie",
         "zu": "Śląskie",
-        "zu_ZA": "Śląskie"
+        "zu_ZA": "Śląskie",
+        "sr@latin": "Śląskie",
+        "tt@iqtelif": "Śląskie"
     },
     "26": {
         "af": "Świętokrzyskie",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Świętokrzyskie",
         "zh_Hant_TW": "Świętokrzyskie",
         "zu": "Świętokrzyskie",
-        "zu_ZA": "Świętokrzyskie"
+        "zu_ZA": "Świętokrzyskie",
+        "sr@latin": "Świętokrzyskie",
+        "tt@iqtelif": "Świętokrzyskie"
     },
     "28": {
         "af": "Warmińsko-Mazurskie",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Warmińsko-Mazurskie",
         "zh_Hant_TW": "Warmińsko-Mazurskie",
         "zu": "Warmińsko-Mazurskie",
-        "zu_ZA": "Warmińsko-Mazurskie"
+        "zu_ZA": "Warmińsko-Mazurskie",
+        "sr@latin": "Warmińsko-Mazurskie",
+        "tt@iqtelif": "Warmińsko-Mazurskie"
     },
     "30": {
         "af": "Wielkopolskie",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Wielkopolskie",
         "zh_Hant_TW": "Wielkopolskie",
         "zu": "Wielkopolskie",
-        "zu_ZA": "Wielkopolskie"
+        "zu_ZA": "Wielkopolskie",
+        "sr@latin": "Wielkopolskie",
+        "tt@iqtelif": "Wielkopolskie"
     },
     "32": {
         "af": "Zachodniopomorskie",
@@ -14125,6 +14155,8 @@
         "zh_Hant_MY": "Zachodniopomorskie",
         "zh_Hant_TW": "Zachodniopomorskie",
         "zu": "Zachodniopomorskie",
-        "zu_ZA": "Zachodniopomorskie"
+        "zu_ZA": "Zachodniopomorskie",
+        "sr@latin": "Zachodniopomorskie",
+        "tt@iqtelif": "Zachodniopomorskie"
     }
 }

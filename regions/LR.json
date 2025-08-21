@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bong",
         "zh_Hant_TW": "Bong",
         "zu": "Bong",
-        "zu_ZA": "Bong"
+        "zu_ZA": "Bong",
+        "sr@latin": "Bong",
+        "tt@iqtelif": "Bong"
     },
     "BM": {
         "af": "Bomi",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bomi",
         "zh_Hant_TW": "Bomi",
         "zu": "Bomi",
-        "zu_ZA": "Bomi"
+        "zu_ZA": "Bomi",
+        "sr@latin": "Bomi",
+        "tt@iqtelif": "Bomi"
     },
     "CM": {
         "af": "Grand Cape Mount",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Grand Cape Mount",
         "zh_Hant_TW": "Grand Cape Mount",
         "zu": "Grand Cape Mount",
-        "zu_ZA": "Grand Cape Mount"
+        "zu_ZA": "Grand Cape Mount",
+        "sr@latin": "Grend Kejp Maunt",
+        "tt@iqtelif": "Grand Cape Mount"
     },
     "GB": {
         "af": "Grand Bassa",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Grand Bassa",
         "zh_Hant_TW": "Grand Bassa",
         "zu": "Grand Bassa",
-        "zu_ZA": "Grand Bassa"
+        "zu_ZA": "Grand Bassa",
+        "sr@latin": "Grend Basa",
+        "tt@iqtelif": "Grand Bassa"
     },
     "GG": {
         "af": "Grand Gedeh",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Grand Gedeh",
         "zh_Hant_TW": "Grand Gedeh",
         "zu": "Grand Gedeh",
-        "zu_ZA": "Grand Gedeh"
+        "zu_ZA": "Grand Gedeh",
+        "sr@latin": "Grend Gedeh",
+        "tt@iqtelif": "Grand Gedeh"
     },
     "GK": {
         "af": "Grand Kru",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Grand Kru",
         "zh_Hant_TW": "Grand Kru",
         "zu": "Grand Kru",
-        "zu_ZA": "Grand Kru"
+        "zu_ZA": "Grand Kru",
+        "sr@latin": "Grend Kru",
+        "tt@iqtelif": "Grand Kru"
     },
     "GP": {
         "af": "Gbarpolu",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Gbarpolu",
         "zh_Hant_TW": "Gbarpolu",
         "zu": "Gbarpolu",
-        "zu_ZA": "Gbarpolu"
+        "zu_ZA": "Gbarpolu",
+        "sr@latin": "Gbarpolu",
+        "tt@iqtelif": "Gbarpolu"
     },
     "LO": {
         "af": "Lofa",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Lofa",
         "zh_Hant_TW": "Lofa",
         "zu": "Lofa",
-        "zu_ZA": "Lofa"
+        "zu_ZA": "Lofa",
+        "sr@latin": "Lofa",
+        "tt@iqtelif": "Lofa"
     },
     "MG": {
         "af": "Margibi",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Margibi",
         "zh_Hant_TW": "Margibi",
         "zu": "Margibi",
-        "zu_ZA": "Margibi"
+        "zu_ZA": "Margibi",
+        "sr@latin": "Margibi",
+        "tt@iqtelif": "Margibi"
     },
     "MO": {
         "af": "Montserrado",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Montserrado",
         "zh_Hant_TW": "Montserrado",
         "zu": "Montserrado",
-        "zu_ZA": "Montserrado"
+        "zu_ZA": "Montserrado",
+        "sr@latin": "Montserado",
+        "tt@iqtelif": "Montserrado"
     },
     "MY": {
         "af": "Maryland",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Maryland",
         "zh_Hant_TW": "Maryland",
         "zu": "Maryland",
-        "zu_ZA": "Maryland"
+        "zu_ZA": "Maryland",
+        "sr@latin": "Merilend",
+        "tt@iqtelif": "Maryland"
     },
     "NI": {
         "af": "Nimba",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Nimba",
         "zh_Hant_TW": "Nimba",
         "zu": "Nimba",
-        "zu_ZA": "Nimba"
+        "zu_ZA": "Nimba",
+        "sr@latin": "Nimba",
+        "tt@iqtelif": "Nimba"
     },
     "RG": {
         "af": "River Gee",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "River Gee",
         "zh_Hant_TW": "River Gee",
         "zu": "River Gee",
-        "zu_ZA": "River Gee"
+        "zu_ZA": "River Gee",
+        "sr@latin": "River Gee",
+        "tt@iqtelif": "River Gee"
     },
     "RI": {
         "af": "River Cess",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "River Cess",
         "zh_Hant_TW": "River Cess",
         "zu": "River Cess",
-        "zu_ZA": "River Cess"
+        "zu_ZA": "River Cess",
+        "sr@latin": "River Cess",
+        "tt@iqtelif": "River Cess"
     },
     "SI": {
         "af": "Sinoe",
@@ -13242,6 +13270,8 @@
         "zh_Hant_MY": "Sinoe",
         "zh_Hant_TW": "Sinoe",
         "zu": "Sinoe",
-        "zu_ZA": "Sinoe"
+        "zu_ZA": "Sinoe",
+        "sr@latin": "Sinoe",
+        "tt@iqtelif": "Sinoe"
     }
 }

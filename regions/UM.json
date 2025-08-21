@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Johnston Atoll",
         "zh_Hant_TW": "Johnston Atoll",
         "zu": "Johnston Atoll",
-        "zu_ZA": "Johnston Atoll"
+        "zu_ZA": "Johnston Atoll",
+        "sr@latin": "Džonston Atol",
+        "tt@iqtelif": "Johnston Atoll"
     },
     "71": {
         "af": "Midway Islands",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Midway Islands",
         "zh_Hant_TW": "Midway Islands",
         "zu": "Midway Islands",
-        "zu_ZA": "Midway Islands"
+        "zu_ZA": "Midway Islands",
+        "sr@latin": "Ostrva Midvej",
+        "tt@iqtelif": "Midway Islands"
     },
     "76": {
         "af": "Navassa Island",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Navassa Island",
         "zh_Hant_TW": "Navassa Island",
         "zu": "Navassa Island",
-        "zu_ZA": "Navassa Island"
+        "zu_ZA": "Navassa Island",
+        "sr@latin": "Navassa Island",
+        "tt@iqtelif": "Navassa Island"
     },
     "79": {
         "af": "Wake Island",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Wake Island",
         "zh_Hant_TW": "Wake Island",
         "zu": "Wake Island",
-        "zu_ZA": "Wake Island"
+        "zu_ZA": "Wake Island",
+        "sr@latin": "Ostrvo Vejk",
+        "tt@iqtelif": "Wake Island"
     },
     "81": {
         "af": "Baker Island",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Baker Island",
         "zh_Hant_TW": "Baker Island",
         "zu": "Baker Island",
-        "zu_ZA": "Baker Island"
+        "zu_ZA": "Baker Island",
+        "sr@latin": "Bejker ostrvo",
+        "tt@iqtelif": "Baker Island"
     },
     "84": {
         "af": "Howland Island",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Howland Island",
         "zh_Hant_TW": "Howland Island",
         "zu": "Howland Island",
-        "zu_ZA": "Howland Island"
+        "zu_ZA": "Howland Island",
+        "sr@latin": "Aland ostrva",
+        "tt@iqtelif": "Howland Island"
     },
     "86": {
         "af": "Jarvis Island",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Jarvis Island",
         "zh_Hant_TW": "Jarvis Island",
         "zu": "Jarvis Island",
-        "zu_ZA": "Jarvis Island"
+        "zu_ZA": "Jarvis Island",
+        "sr@latin": "Džarvis ostrvo",
+        "tt@iqtelif": "Jarvis Island"
     },
     "89": {
         "af": "Kingman Reef",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kingman Reef",
         "zh_Hant_TW": "Kingman Reef",
         "zu": "Kingman Reef",
-        "zu_ZA": "Kingman Reef"
+        "zu_ZA": "Kingman Reef",
+        "sr@latin": "Kingman Rif",
+        "tt@iqtelif": "Kingman Reef"
     },
     "95": {
         "af": "Palmyra Atoll",
@@ -7944,6 +7960,8 @@
         "zh_Hant_MY": "Palmyra Atoll",
         "zh_Hant_TW": "Palmyra Atoll",
         "zu": "Palmyra Atoll",
-        "zu_ZA": "Palmyra Atoll"
+        "zu_ZA": "Palmyra Atoll",
+        "sr@latin": "Palmira Atol",
+        "tt@iqtelif": "Palmyra Atoll"
     }
 }

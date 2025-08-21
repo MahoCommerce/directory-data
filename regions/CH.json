@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aargau",
         "zh_Hant_TW": "Aargau",
         "zu": "Aargau",
-        "zu_ZA": "Aargau"
+        "zu_ZA": "Aargau",
+        "sr@latin": "Argau",
+        "tt@iqtelif": "Aargau"
     },
     "AI": {
         "af": "Appenzell Innerrhoden",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Appenzell Innerrhoden",
         "zh_Hant_TW": "Appenzell Innerrhoden",
         "zu": "Appenzell Innerrhoden",
-        "zu_ZA": "Appenzell Innerrhoden"
+        "zu_ZA": "Appenzell Innerrhoden",
+        "sr@latin": "Apencel Ineroden",
+        "tt@iqtelif": "Appenzell Innerrhoden"
     },
     "AR": {
         "af": "Appenzell Ausserrhoden",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Appenzell Ausserrhoden",
         "zh_Hant_TW": "Appenzell Ausserrhoden",
         "zu": "Appenzell Ausserrhoden",
-        "zu_ZA": "Appenzell Ausserrhoden"
+        "zu_ZA": "Appenzell Ausserrhoden",
+        "sr@latin": "Apencel Auseroden",
+        "tt@iqtelif": "Appenzell Ausserrhoden"
     },
     "BE": {
         "af": "Berne",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Berne",
         "zh_Hant_TW": "Berne",
         "zu": "Berne",
-        "zu_ZA": "Berne"
+        "zu_ZA": "Berne",
+        "sr@latin": "Berne",
+        "tt@iqtelif": "Berne"
     },
     "BL": {
         "af": "Basel-Landschaft",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Basel-Landschaft",
         "zh_Hant_TW": "Basel-Landschaft",
         "zu": "Basel-Landschaft",
-        "zu_ZA": "Basel-Landschaft"
+        "zu_ZA": "Basel-Landschaft",
+        "sr@latin": "Bazel-Landšaft",
+        "tt@iqtelif": "Basel-Landschaft"
     },
     "BS": {
         "af": "Basel-Stadt",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Basel-Stadt",
         "zh_Hant_TW": "Basel-Stadt",
         "zu": "Basel-Stadt",
-        "zu_ZA": "Basel-Stadt"
+        "zu_ZA": "Basel-Stadt",
+        "sr@latin": "Bazelštat",
+        "tt@iqtelif": "Basel-Stadt"
     },
     "FR": {
         "af": "Fribourg",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Fribourg",
         "zh_Hant_TW": "Fribourg",
         "zu": "Fribourg",
-        "zu_ZA": "Fribourg"
+        "zu_ZA": "Fribourg",
+        "sr@latin": "Fribourg",
+        "tt@iqtelif": "Fribourg"
     },
     "GE": {
         "af": "Genève",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Genève",
         "zh_Hant_TW": "Genève",
         "zu": "Genève",
-        "zu_ZA": "Genève"
+        "zu_ZA": "Genève",
+        "sr@latin": "Ženeva",
+        "tt@iqtelif": "Genève"
     },
     "GL": {
         "af": "Glarus",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Glarus",
         "zh_Hant_TW": "Glarus",
         "zu": "Glarus",
-        "zu_ZA": "Glarus"
+        "zu_ZA": "Glarus",
+        "sr@latin": "Glorus",
+        "tt@iqtelif": "Glarus"
     },
     "GR": {
         "af": "Graubünden",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Graubünden",
         "zh_Hant_TW": "Graubünden",
         "zu": "Graubünden",
-        "zu_ZA": "Graubünden"
+        "zu_ZA": "Graubünden",
+        "sr@latin": "Grojbinden",
+        "tt@iqtelif": "Graubünden"
     },
     "JU": {
         "af": "Jura",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Jura",
         "zh_Hant_TW": "Jura",
         "zu": "Jura",
-        "zu_ZA": "Jura"
+        "zu_ZA": "Jura",
+        "sr@latin": "Djura",
+        "tt@iqtelif": "Jura"
     },
     "LU": {
         "af": "Luzern",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Luzern",
         "zh_Hant_TW": "Luzern",
         "zu": "Luzern",
-        "zu_ZA": "Luzern"
+        "zu_ZA": "Luzern",
+        "sr@latin": "Lucern",
+        "tt@iqtelif": "Luzern"
     },
     "NE": {
         "af": "Neuchâtel",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Neuchâtel",
         "zh_Hant_TW": "Neuchâtel",
         "zu": "Neuchâtel",
-        "zu_ZA": "Neuchâtel"
+        "zu_ZA": "Neuchâtel",
+        "sr@latin": "Nošatel",
+        "tt@iqtelif": "Neuchâtel"
     },
     "NW": {
         "af": "Nidwalden",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Nidwalden",
         "zh_Hant_TW": "Nidwalden",
         "zu": "Nidwalden",
-        "zu_ZA": "Nidwalden"
+        "zu_ZA": "Nidwalden",
+        "sr@latin": "Nidvalden",
+        "tt@iqtelif": "Nidwalden"
     },
     "OW": {
         "af": "Obwalden",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Obwalden",
         "zh_Hant_TW": "Obwalden",
         "zu": "Obwalden",
-        "zu_ZA": "Obwalden"
+        "zu_ZA": "Obwalden",
+        "sr@latin": "Obvalden",
+        "tt@iqtelif": "Obwalden"
     },
     "SG": {
         "af": "Sankt Gallen",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Sankt Gallen",
         "zh_Hant_TW": "Sankt Gallen",
         "zu": "Sankt Gallen",
-        "zu_ZA": "Sankt Gallen"
+        "zu_ZA": "Sankt Gallen",
+        "sr@latin": "Sent Galen",
+        "tt@iqtelif": "Sankt Gallen"
     },
     "SH": {
         "af": "Schaffhausen",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Schaffhausen",
         "zh_Hant_TW": "Schaffhausen",
         "zu": "Schaffhausen",
-        "zu_ZA": "Schaffhausen"
+        "zu_ZA": "Schaffhausen",
+        "sr@latin": "Šafhauzen",
+        "tt@iqtelif": "Schaffhausen"
     },
     "SO": {
         "af": "Solothurn",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Solothurn",
         "zh_Hant_TW": "Solothurn",
         "zu": "Solothurn",
-        "zu_ZA": "Solothurn"
+        "zu_ZA": "Solothurn",
+        "sr@latin": "Soloturn",
+        "tt@iqtelif": "Solothurn"
     },
     "SZ": {
         "af": "Schwyz",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Schwyz",
         "zh_Hant_TW": "Schwyz",
         "zu": "Schwyz",
-        "zu_ZA": "Schwyz"
+        "zu_ZA": "Schwyz",
+        "sr@latin": "Švajcarska",
+        "tt@iqtelif": "Schwyz"
     },
     "TG": {
         "af": "Thurgau",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Thurgau",
         "zh_Hant_TW": "Thurgau",
         "zu": "Thurgau",
-        "zu_ZA": "Thurgau"
+        "zu_ZA": "Thurgau",
+        "sr@latin": "Tirgo",
+        "tt@iqtelif": "Thurgau"
     },
     "TI": {
         "af": "Ticino",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Ticino",
         "zh_Hant_TW": "Ticino",
         "zu": "Ticino",
-        "zu_ZA": "Ticino"
+        "zu_ZA": "Ticino",
+        "sr@latin": "Tićino",
+        "tt@iqtelif": "Ticino"
     },
     "UR": {
         "af": "Uri",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Uri",
         "zh_Hant_TW": "Uri",
         "zu": "Uri",
-        "zu_ZA": "Uri"
+        "zu_ZA": "Uri",
+        "sr@latin": "Uri",
+        "tt@iqtelif": "Uri"
     },
     "VD": {
         "af": "Vaud",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Vaud",
         "zh_Hant_TW": "Vaud",
         "zu": "Vaud",
-        "zu_ZA": "Vaud"
+        "zu_ZA": "Vaud",
+        "sr@latin": "Vod",
+        "tt@iqtelif": "Vaud"
     },
     "VS": {
         "af": "Valais",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Valais",
         "zh_Hant_TW": "Valais",
         "zu": "Valais",
-        "zu_ZA": "Valais"
+        "zu_ZA": "Valais",
+        "sr@latin": "Vale",
+        "tt@iqtelif": "Valais"
     },
     "ZG": {
         "af": "Zug",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Zug",
         "zh_Hant_TW": "Zug",
         "zu": "Zug",
-        "zu_ZA": "Zug"
+        "zu_ZA": "Zug",
+        "sr@latin": "Cig",
+        "tt@iqtelif": "Zug"
     },
     "ZH": {
         "af": "Zürich",
@@ -22955,6 +23005,8 @@
         "zh_Hant_MY": "Zürich",
         "zh_Hant_TW": "Zürich",
         "zu": "Zürich",
-        "zu_ZA": "Zürich"
+        "zu_ZA": "Zürich",
+        "sr@latin": "Cirih",
+        "tt@iqtelif": "Zürich"
     }
 }

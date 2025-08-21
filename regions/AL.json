@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Berat",
         "zh_Hant_TW": "Berat",
         "zu": "Berat",
-        "zu_ZA": "Berat"
+        "zu_ZA": "Berat",
+        "sr@latin": "Berat",
+        "tt@iqtelif": "Berat"
     },
     "02": {
         "af": "Durrës",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Durrës",
         "zh_Hant_TW": "Durrës",
         "zu": "Durrës",
-        "zu_ZA": "Durrës"
+        "zu_ZA": "Durrës",
+        "sr@latin": "Drač",
+        "tt@iqtelif": "Durrës"
     },
     "03": {
         "af": "Elbasan",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Elbasan",
         "zh_Hant_TW": "Elbasan",
         "zu": "Elbasan",
-        "zu_ZA": "Elbasan"
+        "zu_ZA": "Elbasan",
+        "sr@latin": "elbasansko pismo",
+        "tt@iqtelif": "Elbasan"
     },
     "04": {
         "af": "Fier",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Fier",
         "zh_Hant_TW": "Fier",
         "zu": "Fier",
-        "zu_ZA": "Fier"
+        "zu_ZA": "Fier",
+        "sr@latin": "Fjer",
+        "tt@iqtelif": "Fier"
     },
     "05": {
         "af": "Gjirokastër",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Gjirokastër",
         "zh_Hant_TW": "Gjirokastër",
         "zu": "Gjirokastër",
-        "zu_ZA": "Gjirokastër"
+        "zu_ZA": "Gjirokastër",
+        "sr@latin": "Gjirokastar",
+        "tt@iqtelif": "Gjirokastër"
     },
     "06": {
         "af": "Korçë",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Korçë",
         "zh_Hant_TW": "Korçë",
         "zu": "Korçë",
-        "zu_ZA": "Korçë"
+        "zu_ZA": "Korçë",
+        "sr@latin": "Korča",
+        "tt@iqtelif": "Korçë"
     },
     "07": {
         "af": "Kukës",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Kukës",
         "zh_Hant_TW": "Kukës",
         "zu": "Kukës",
-        "zu_ZA": "Kukës"
+        "zu_ZA": "Kukës",
+        "sr@latin": "Kukaš",
+        "tt@iqtelif": "Kukës"
     },
     "08": {
         "af": "Lezhë",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Lezhë",
         "zh_Hant_TW": "Lezhë",
         "zu": "Lezhë",
-        "zu_ZA": "Lezhë"
+        "zu_ZA": "Lezhë",
+        "sr@latin": "Ležani",
+        "tt@iqtelif": "Lezhë"
     },
     "09": {
         "af": "Dibër",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Dibër",
         "zh_Hant_TW": "Dibër",
         "zu": "Dibër",
-        "zu_ZA": "Dibër"
+        "zu_ZA": "Dibër",
+        "sr@latin": "Dibar",
+        "tt@iqtelif": "Dibër"
     },
     "10": {
         "af": "Shkodër",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Shkodër",
         "zh_Hant_TW": "Shkodër",
         "zu": "Shkodër",
-        "zu_ZA": "Shkodër"
+        "zu_ZA": "Shkodër",
+        "sr@latin": "Skadar",
+        "tt@iqtelif": "Shkodër"
     },
     "11": {
         "af": "Tiranë",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Tiranë",
         "zh_Hant_TW": "Tiranë",
         "zu": "Tiranë",
-        "zu_ZA": "Tiranë"
+        "zu_ZA": "Tiranë",
+        "sr@latin": "Tirana",
+        "tt@iqtelif": "Tiranë"
     },
     "12": {
         "af": "Vlorë",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Vlorë",
         "zh_Hant_TW": "Vlorë",
         "zu": "Vlorë",
-        "zu_ZA": "Vlorë"
+        "zu_ZA": "Vlorë",
+        "sr@latin": "Vlora",
+        "tt@iqtelif": "Vlorë"
     }
 }

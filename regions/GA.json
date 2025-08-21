@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Estuaire",
         "zh_Hant_TW": "Estuaire",
         "zu": "Estuaire",
-        "zu_ZA": "Estuaire"
+        "zu_ZA": "Estuaire",
+        "sr@latin": "Estuair",
+        "tt@iqtelif": "Estuaire"
     },
     "2": {
         "af": "Haut-Ogooué",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Haut-Ogooué",
         "zh_Hant_TW": "Haut-Ogooué",
         "zu": "Haut-Ogooué",
-        "zu_ZA": "Haut-Ogooué"
+        "zu_ZA": "Haut-Ogooué",
+        "sr@latin": "Haut-Ogooué",
+        "tt@iqtelif": "Haut-Ogooué"
     },
     "3": {
         "af": "Moyen-Ogooué",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Moyen-Ogooué",
         "zh_Hant_TW": "Moyen-Ogooué",
         "zu": "Moyen-Ogooué",
-        "zu_ZA": "Moyen-Ogooué"
+        "zu_ZA": "Moyen-Ogooué",
+        "sr@latin": "Muajan-Ogoue",
+        "tt@iqtelif": "Moyen-Ogooué"
     },
     "4": {
         "af": "Ngounié",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Ngounié",
         "zh_Hant_TW": "Ngounié",
         "zu": "Ngounié",
-        "zu_ZA": "Ngounié"
+        "zu_ZA": "Ngounié",
+        "sr@latin": "Ngounié",
+        "tt@iqtelif": "Ngounié"
     },
     "5": {
         "af": "Nyanga",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Nyanga",
         "zh_Hant_TW": "Nyanga",
         "zu": "Nyanga",
-        "zu_ZA": "Nyanga"
+        "zu_ZA": "Nyanga",
+        "sr@latin": "Nyanga",
+        "tt@iqtelif": "Nyanga"
     },
     "6": {
         "af": "Ogooué-Ivindo",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ogooué-Ivindo",
         "zh_Hant_TW": "Ogooué-Ivindo",
         "zu": "Ogooué-Ivindo",
-        "zu_ZA": "Ogooué-Ivindo"
+        "zu_ZA": "Ogooué-Ivindo",
+        "sr@latin": "Ogooué-Ivindo",
+        "tt@iqtelif": "Ogooué-Ivindo"
     },
     "7": {
         "af": "Ogooué-Lolo",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ogooué-Lolo",
         "zh_Hant_TW": "Ogooué-Lolo",
         "zu": "Ogooué-Lolo",
-        "zu_ZA": "Ogooué-Lolo"
+        "zu_ZA": "Ogooué-Lolo",
+        "sr@latin": "Ogooué-Lolo",
+        "tt@iqtelif": "Ogooué-Lolo"
     },
     "8": {
         "af": "Ogooué-Maritime",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Ogooué-Maritime",
         "zh_Hant_TW": "Ogooué-Maritime",
         "zu": "Ogooué-Maritime",
-        "zu_ZA": "Ogooué-Maritime"
+        "zu_ZA": "Ogooué-Maritime",
+        "sr@latin": "Ogooué-Maritime",
+        "tt@iqtelif": "Ogooué-Maritime"
     },
     "9": {
         "af": "Woleu-Ntem",
@@ -7944,6 +7960,8 @@
         "zh_Hant_MY": "Woleu-Ntem",
         "zh_Hant_TW": "Woleu-Ntem",
         "zu": "Woleu-Ntem",
-        "zu_ZA": "Woleu-Ntem"
+        "zu_ZA": "Woleu-Ntem",
+        "sr@latin": "Woleu-Ntem",
+        "tt@iqtelif": "Woleu-Ntem"
     }
 }

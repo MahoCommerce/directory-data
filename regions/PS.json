@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bethlehem",
         "zh_Hant_TW": "Bethlehem",
         "zu": "Bethlehem",
-        "zu_ZA": "Bethlehem"
+        "zu_ZA": "Bethlehem",
+        "sr@latin": "Betlem",
+        "tt@iqtelif": "Bethlehem"
     },
     "DEB": {
         "af": "Deir El Balah",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Deir El Balah",
         "zh_Hant_TW": "Deir El Balah",
         "zu": "Deir El Balah",
-        "zu_ZA": "Deir El Balah"
+        "zu_ZA": "Deir El Balah",
+        "sr@latin": "Deir El Balah",
+        "tt@iqtelif": "Deir El Balah"
     },
     "GZA": {
         "af": "Gaza",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Gaza",
         "zh_Hant_TW": "Gaza",
         "zu": "Gaza",
-        "zu_ZA": "Gaza"
+        "zu_ZA": "Gaza",
+        "sr@latin": "Gaza",
+        "tt@iqtelif": "Gaza"
     },
     "HBN": {
         "af": "Hebron",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Hebron",
         "zh_Hant_TW": "Hebron",
         "zu": "Hebron",
-        "zu_ZA": "Hebron"
+        "zu_ZA": "Hebron",
+        "sr@latin": "Hebron",
+        "tt@iqtelif": "Hebron"
     },
     "JEM": {
         "af": "Jerusalem",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Jerusalem",
         "zh_Hant_TW": "Jerusalem",
         "zu": "Jerusalem",
-        "zu_ZA": "Jerusalem"
+        "zu_ZA": "Jerusalem",
+        "sr@latin": "Jerusalim",
+        "tt@iqtelif": "Jerusalem"
     },
     "JEN": {
         "af": "Jenin",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Jenin",
         "zh_Hant_TW": "Jenin",
         "zu": "Jenin",
-        "zu_ZA": "Jenin"
+        "zu_ZA": "Jenin",
+        "sr@latin": "Jenin",
+        "tt@iqtelif": "Jenin"
     },
     "JRH": {
         "af": "Jericho and Al Aghwar",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Jericho and Al Aghwar",
         "zh_Hant_TW": "Jericho and Al Aghwar",
         "zu": "Jericho and Al Aghwar",
-        "zu_ZA": "Jericho and Al Aghwar"
+        "zu_ZA": "Jericho and Al Aghwar",
+        "sr@latin": "Jericho and Al Aghwar",
+        "tt@iqtelif": "Jericho and Al Aghwar"
     },
     "KYS": {
         "af": "Khan Yunis",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Khan Yunis",
         "zh_Hant_TW": "Khan Yunis",
         "zu": "Khan Yunis",
-        "zu_ZA": "Khan Yunis"
+        "zu_ZA": "Khan Yunis",
+        "sr@latin": "Khan Yunis",
+        "tt@iqtelif": "Khan Yunis"
     },
     "NBS": {
         "af": "Nablus",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Nablus",
         "zh_Hant_TW": "Nablus",
         "zu": "Nablus",
-        "zu_ZA": "Nablus"
+        "zu_ZA": "Nablus",
+        "sr@latin": "Nablus",
+        "tt@iqtelif": "Nablus"
     },
     "NGZ": {
         "af": "North Gaza",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "North Gaza",
         "zh_Hant_TW": "North Gaza",
         "zu": "North Gaza",
-        "zu_ZA": "North Gaza"
+        "zu_ZA": "North Gaza",
+        "sr@latin": "Severna Gaza",
+        "tt@iqtelif": "North Gaza"
     },
     "QQA": {
         "af": "Qalqilya",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Qalqilya",
         "zh_Hant_TW": "Qalqilya",
         "zu": "Qalqilya",
-        "zu_ZA": "Qalqilya"
+        "zu_ZA": "Qalqilya",
+        "sr@latin": "Qalqilya",
+        "tt@iqtelif": "Qalqilya"
     },
     "RBH": {
         "af": "Ramallah",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Ramallah",
         "zh_Hant_TW": "Ramallah",
         "zu": "Ramallah",
-        "zu_ZA": "Ramallah"
+        "zu_ZA": "Ramallah",
+        "sr@latin": "Ramala",
+        "tt@iqtelif": "Ramallah"
     },
     "RFH": {
         "af": "Rafah",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Rafah",
         "zh_Hant_TW": "Rafah",
         "zu": "Rafah",
-        "zu_ZA": "Rafah"
+        "zu_ZA": "Rafah",
+        "sr@latin": "Rafa",
+        "tt@iqtelif": "Rafah"
     },
     "SLT": {
         "af": "Salfit",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Salfit",
         "zh_Hant_TW": "Salfit",
         "zu": "Salfit",
-        "zu_ZA": "Salfit"
+        "zu_ZA": "Salfit",
+        "sr@latin": "Salfit",
+        "tt@iqtelif": "Salfit"
     },
     "TBS": {
         "af": "Tubas",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Tubas",
         "zh_Hant_TW": "Tubas",
         "zu": "Tubas",
-        "zu_ZA": "Tubas"
+        "zu_ZA": "Tubas",
+        "sr@latin": "Tubaš",
+        "tt@iqtelif": "Tubas"
     },
     "TKM": {
         "af": "Tulkarm",
@@ -14125,6 +14155,8 @@
         "zh_Hant_MY": "Tulkarm",
         "zh_Hant_TW": "Tulkarm",
         "zu": "Tulkarm",
-        "zu_ZA": "Tulkarm"
+        "zu_ZA": "Tulkarm",
+        "sr@latin": "Tulkarm",
+        "tt@iqtelif": "Tulkarm"
     }
 }

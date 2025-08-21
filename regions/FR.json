@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ain",
         "zh_Hant_TW": "Ain",
         "zu": "Ain",
-        "zu_ZA": "Ain"
+        "zu_ZA": "Ain",
+        "sr@latin": "Ajn",
+        "tt@iqtelif": "Ain"
     },
     "02": {
         "af": "Aisne",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Aisne",
         "zh_Hant_TW": "Aisne",
         "zu": "Aisne",
-        "zu_ZA": "Aisne"
+        "zu_ZA": "Aisne",
+        "sr@latin": "Aisn",
+        "tt@iqtelif": "Aisne"
     },
     "03": {
         "af": "Allier",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Allier",
         "zh_Hant_TW": "Allier",
         "zu": "Allier",
-        "zu_ZA": "Allier"
+        "zu_ZA": "Allier",
+        "sr@latin": "Aljer",
+        "tt@iqtelif": "Allier"
     },
     "04": {
         "af": "Alpes-de-Haute-Provence",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Alpes-de-Haute-Provence",
         "zh_Hant_TW": "Alpes-de-Haute-Provence",
         "zu": "Alpes-de-Haute-Provence",
-        "zu_ZA": "Alpes-de-Haute-Provence"
+        "zu_ZA": "Alpes-de-Haute-Provence",
+        "sr@latin": "Alpes-de-Haute-Provence",
+        "tt@iqtelif": "Alpes-de-Haute-Provence"
     },
     "05": {
         "af": "Hautes-Alpes",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Hautes-Alpes",
         "zh_Hant_TW": "Hautes-Alpes",
         "zu": "Hautes-Alpes",
-        "zu_ZA": "Hautes-Alpes"
+        "zu_ZA": "Hautes-Alpes",
+        "sr@latin": "Gornji Alpi",
+        "tt@iqtelif": "Hautes-Alpes"
     },
     "06": {
         "af": "Alpes-Maritimes",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Alpes-Maritimes",
         "zh_Hant_TW": "Alpes-Maritimes",
         "zu": "Alpes-Maritimes",
-        "zu_ZA": "Alpes-Maritimes"
+        "zu_ZA": "Alpes-Maritimes",
+        "sr@latin": "Primorski Alpi",
+        "tt@iqtelif": "Alpes-Maritimes"
     },
     "07": {
         "af": "Ardèche",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ardèche",
         "zh_Hant_TW": "Ardèche",
         "zu": "Ardèche",
-        "zu_ZA": "Ardèche"
+        "zu_ZA": "Ardèche",
+        "sr@latin": "Ardeš",
+        "tt@iqtelif": "Ardèche"
     },
     "08": {
         "af": "Ardennes",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Ardennes",
         "zh_Hant_TW": "Ardennes",
         "zu": "Ardennes",
-        "zu_ZA": "Ardennes"
+        "zu_ZA": "Ardennes",
+        "sr@latin": "Arden",
+        "tt@iqtelif": "Ardennes"
     },
     "09": {
         "af": "Ariège",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Ariège",
         "zh_Hant_TW": "Ariège",
         "zu": "Ariège",
-        "zu_ZA": "Ariège"
+        "zu_ZA": "Ariège",
+        "sr@latin": "Arjež",
+        "tt@iqtelif": "Ariège"
     },
     "10": {
         "af": "Aube",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Aube",
         "zh_Hant_TW": "Aube",
         "zu": "Aube",
-        "zu_ZA": "Aube"
+        "zu_ZA": "Aube",
+        "sr@latin": "Aube",
+        "tt@iqtelif": "Aube"
     },
     "11": {
         "af": "Aude",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Aude",
         "zh_Hant_TW": "Aude",
         "zu": "Aude",
-        "zu_ZA": "Aude"
+        "zu_ZA": "Aude",
+        "sr@latin": "Aude",
+        "tt@iqtelif": "Aude"
     },
     "12": {
         "af": "Aveyron",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Aveyron",
         "zh_Hant_TW": "Aveyron",
         "zu": "Aveyron",
-        "zu_ZA": "Aveyron"
+        "zu_ZA": "Aveyron",
+        "sr@latin": "Avejron",
+        "tt@iqtelif": "Aveyron"
     },
     "13": {
         "af": "Bouches-du-Rhône",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Bouches-du-Rhône",
         "zh_Hant_TW": "Bouches-du-Rhône",
         "zu": "Bouches-du-Rhône",
-        "zu_ZA": "Bouches-du-Rhône"
+        "zu_ZA": "Bouches-du-Rhône",
+        "sr@latin": "Buš-di-Ron",
+        "tt@iqtelif": "Bouches-du-Rhône"
     },
     "14": {
         "af": "Calvados",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Calvados",
         "zh_Hant_TW": "Calvados",
         "zu": "Calvados",
-        "zu_ZA": "Calvados"
+        "zu_ZA": "Calvados",
+        "sr@latin": "Kalvado",
+        "tt@iqtelif": "Calvados"
     },
     "15": {
         "af": "Cantal",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Cantal",
         "zh_Hant_TW": "Cantal",
         "zu": "Cantal",
-        "zu_ZA": "Cantal"
+        "zu_ZA": "Cantal",
+        "sr@latin": "Kantal",
+        "tt@iqtelif": "Cantal"
     },
     "16": {
         "af": "Charente",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Charente",
         "zh_Hant_TW": "Charente",
         "zu": "Charente",
-        "zu_ZA": "Charente"
+        "zu_ZA": "Charente",
+        "sr@latin": "Šarant",
+        "tt@iqtelif": "Charente"
     },
     "17": {
         "af": "Charente-Maritime",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Charente-Maritime",
         "zh_Hant_TW": "Charente-Maritime",
         "zu": "Charente-Maritime",
-        "zu_ZA": "Charente-Maritime"
+        "zu_ZA": "Charente-Maritime",
+        "sr@latin": "Primorski Šarant",
+        "tt@iqtelif": "Charente-Maritime"
     },
     "18": {
         "af": "Cher",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Cher",
         "zh_Hant_TW": "Cher",
         "zu": "Cher",
-        "zu_ZA": "Cher"
+        "zu_ZA": "Cher",
+        "sr@latin": "Šer",
+        "tt@iqtelif": "Cher"
     },
     "19": {
         "af": "Corrèze",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Corrèze",
         "zh_Hant_TW": "Corrèze",
         "zu": "Corrèze",
-        "zu_ZA": "Corrèze"
+        "zu_ZA": "Corrèze",
+        "sr@latin": "Korece",
+        "tt@iqtelif": "Corrèze"
     },
     "20R": {
         "af": "Corse",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Corse",
         "zh_Hant_TW": "Corse",
         "zu": "Corse",
-        "zu_ZA": "Corse"
+        "zu_ZA": "Corse",
+        "sr@latin": "Korzika",
+        "tt@iqtelif": "Corse"
     },
     "21": {
         "af": "Côte-d'Or",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Côte-d'Or",
         "zh_Hant_TW": "Côte-d'Or",
         "zu": "Côte-d'Or",
-        "zu_ZA": "Côte-d'Or"
+        "zu_ZA": "Côte-d'Or",
+        "sr@latin": "Kot-d'Or",
+        "tt@iqtelif": "Côte-d'Or"
     },
     "22": {
         "af": "Côtes-d'Armor",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Côtes-d'Armor",
         "zh_Hant_TW": "Côtes-d'Armor",
         "zu": "Côtes-d'Armor",
-        "zu_ZA": "Côtes-d'Armor"
+        "zu_ZA": "Côtes-d'Armor",
+        "sr@latin": "Kot-d'Armor",
+        "tt@iqtelif": "Côtes-d'Armor"
     },
     "23": {
         "af": "Creuse",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Creuse",
         "zh_Hant_TW": "Creuse",
         "zu": "Creuse",
-        "zu_ZA": "Creuse"
+        "zu_ZA": "Creuse",
+        "sr@latin": "Krez",
+        "tt@iqtelif": "Creuse"
     },
     "24": {
         "af": "Dordogne",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Dordogne",
         "zh_Hant_TW": "Dordogne",
         "zu": "Dordogne",
-        "zu_ZA": "Dordogne"
+        "zu_ZA": "Dordogne",
+        "sr@latin": "Dordonj",
+        "tt@iqtelif": "Dordogne"
     },
     "25": {
         "af": "Doubs",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Doubs",
         "zh_Hant_TW": "Doubs",
         "zu": "Doubs",
-        "zu_ZA": "Doubs"
+        "zu_ZA": "Doubs",
+        "sr@latin": "Dubs",
+        "tt@iqtelif": "Doubs"
     },
     "26": {
         "af": "Drôme",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Drôme",
         "zh_Hant_TW": "Drôme",
         "zu": "Drôme",
-        "zu_ZA": "Drôme"
+        "zu_ZA": "Drôme",
+        "sr@latin": "Drom",
+        "tt@iqtelif": "Drôme"
     },
     "27": {
         "af": "Eure",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Eure",
         "zh_Hant_TW": "Eure",
         "zu": "Eure",
-        "zu_ZA": "Eure"
+        "zu_ZA": "Eure",
+        "sr@latin": "Er",
+        "tt@iqtelif": "Eure"
     },
     "28": {
         "af": "Eure-et-Loir",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Eure-et-Loir",
         "zh_Hant_TW": "Eure-et-Loir",
         "zu": "Eure-et-Loir",
-        "zu_ZA": "Eure-et-Loir"
+        "zu_ZA": "Eure-et-Loir",
+        "sr@latin": "Er-e-Luar",
+        "tt@iqtelif": "Eure-et-Loir"
     },
     "29": {
         "af": "Finistère",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Finistère",
         "zh_Hant_TW": "Finistère",
         "zu": "Finistère",
-        "zu_ZA": "Finistère"
+        "zu_ZA": "Finistère",
+        "sr@latin": "Finister",
+        "tt@iqtelif": "Finistère"
     },
     "2A": {
         "af": "Corse-du-Sud",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Corse-du-Sud",
         "zh_Hant_TW": "Corse-du-Sud",
         "zu": "Corse-du-Sud",
-        "zu_ZA": "Corse-du-Sud"
+        "zu_ZA": "Corse-du-Sud",
+        "sr@latin": "Južna Korzika",
+        "tt@iqtelif": "Corse-du-Sud"
     },
     "2B": {
         "af": "Haute-Corse",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Haute-Corse",
         "zh_Hant_TW": "Haute-Corse",
         "zu": "Haute-Corse",
-        "zu_ZA": "Haute-Corse"
+        "zu_ZA": "Haute-Corse",
+        "sr@latin": "Gornja Korzika",
+        "tt@iqtelif": "Haute-Corse"
     },
     "30": {
         "af": "Gard",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Gard",
         "zh_Hant_TW": "Gard",
         "zu": "Gard",
-        "zu_ZA": "Gard"
+        "zu_ZA": "Gard",
+        "sr@latin": "Gard",
+        "tt@iqtelif": "Gard"
     },
     "31": {
         "af": "Haute-Garonne",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Haute-Garonne",
         "zh_Hant_TW": "Haute-Garonne",
         "zu": "Haute-Garonne",
-        "zu_ZA": "Haute-Garonne"
+        "zu_ZA": "Haute-Garonne",
+        "sr@latin": "Gornja Garona",
+        "tt@iqtelif": "Haute-Garonne"
     },
     "32": {
         "af": "Gers",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Gers",
         "zh_Hant_TW": "Gers",
         "zu": "Gers",
-        "zu_ZA": "Gers"
+        "zu_ZA": "Gers",
+        "sr@latin": "Žer",
+        "tt@iqtelif": "Gers"
     },
     "33": {
         "af": "Gironde",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Gironde",
         "zh_Hant_TW": "Gironde",
         "zu": "Gironde",
-        "zu_ZA": "Gironde"
+        "zu_ZA": "Gironde",
+        "sr@latin": "Žiron",
+        "tt@iqtelif": "Gironde"
     },
     "34": {
         "af": "Hérault",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Hérault",
         "zh_Hant_TW": "Hérault",
         "zu": "Hérault",
-        "zu_ZA": "Hérault"
+        "zu_ZA": "Hérault",
+        "sr@latin": "Herot",
+        "tt@iqtelif": "Hérault"
     },
     "35": {
         "af": "Ille-et-Vilaine",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Ille-et-Vilaine",
         "zh_Hant_TW": "Ille-et-Vilaine",
         "zu": "Ille-et-Vilaine",
-        "zu_ZA": "Ille-et-Vilaine"
+        "zu_ZA": "Ille-et-Vilaine",
+        "sr@latin": "Il-e-Vilen",
+        "tt@iqtelif": "Ille-et-Vilaine"
     },
     "36": {
         "af": "Indre",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Indre",
         "zh_Hant_TW": "Indre",
         "zu": "Indre",
-        "zu_ZA": "Indre"
+        "zu_ZA": "Indre",
+        "sr@latin": "Andr",
+        "tt@iqtelif": "Indre"
     },
     "37": {
         "af": "Indre-et-Loire",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Indre-et-Loire",
         "zh_Hant_TW": "Indre-et-Loire",
         "zu": "Indre-et-Loire",
-        "zu_ZA": "Indre-et-Loire"
+        "zu_ZA": "Indre-et-Loire",
+        "sr@latin": "Andr i Loara",
+        "tt@iqtelif": "Indre-et-Loire"
     },
     "38": {
         "af": "Isère",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Isère",
         "zh_Hant_TW": "Isère",
         "zu": "Isère",
-        "zu_ZA": "Isère"
+        "zu_ZA": "Isère",
+        "sr@latin": "Izer",
+        "tt@iqtelif": "Isère"
     },
     "39": {
         "af": "Jura",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Jura",
         "zh_Hant_TW": "Jura",
         "zu": "Jura",
-        "zu_ZA": "Jura"
+        "zu_ZA": "Jura",
+        "sr@latin": "Djura",
+        "tt@iqtelif": "Jura"
     },
     "40": {
         "af": "Landes",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "Landes",
         "zh_Hant_TW": "Landes",
         "zu": "Landes",
-        "zu_ZA": "Landes"
+        "zu_ZA": "Landes",
+        "sr@latin": "Land",
+        "tt@iqtelif": "Landes"
     },
     "41": {
         "af": "Loir-et-Cher",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Loir-et-Cher",
         "zh_Hant_TW": "Loir-et-Cher",
         "zu": "Loir-et-Cher",
-        "zu_ZA": "Loir-et-Cher"
+        "zu_ZA": "Loir-et-Cher",
+        "sr@latin": "Luar-e-šer",
+        "tt@iqtelif": "Loir-et-Cher"
     },
     "42": {
         "af": "Loire",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Loire",
         "zh_Hant_TW": "Loire",
         "zu": "Loire",
-        "zu_ZA": "Loire"
+        "zu_ZA": "Loire",
+        "sr@latin": "Luara",
+        "tt@iqtelif": "Loire"
     },
     "43": {
         "af": "Haute-Loire",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "Haute-Loire",
         "zh_Hant_TW": "Haute-Loire",
         "zu": "Haute-Loire",
-        "zu_ZA": "Haute-Loire"
+        "zu_ZA": "Haute-Loire",
+        "sr@latin": "Gornja Luara",
+        "tt@iqtelif": "Haute-Loire"
     },
     "44": {
         "af": "Loire-Atlantique",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Loire-Atlantique",
         "zh_Hant_TW": "Loire-Atlantique",
         "zu": "Loire-Atlantique",
-        "zu_ZA": "Loire-Atlantique"
+        "zu_ZA": "Loire-Atlantique",
+        "sr@latin": "Atlantička Luara",
+        "tt@iqtelif": "Loire-Atlantique"
     },
     "45": {
         "af": "Loiret",
@@ -41498,7 +41590,9 @@
         "zh_Hant_MY": "Loiret",
         "zh_Hant_TW": "Loiret",
         "zu": "Loiret",
-        "zu_ZA": "Loiret"
+        "zu_ZA": "Loiret",
+        "sr@latin": "Luar",
+        "tt@iqtelif": "Loiret"
     },
     "46": {
         "af": "Lot",
@@ -42381,7 +42475,9 @@
         "zh_Hant_MY": "Lot",
         "zh_Hant_TW": "Lot",
         "zu": "Lot",
-        "zu_ZA": "Lot"
+        "zu_ZA": "Lot",
+        "sr@latin": "Lot",
+        "tt@iqtelif": "Lot"
     },
     "47": {
         "af": "Lot-et-Garonne",
@@ -43264,7 +43360,9 @@
         "zh_Hant_MY": "Lot-et-Garonne",
         "zh_Hant_TW": "Lot-et-Garonne",
         "zu": "Lot-et-Garonne",
-        "zu_ZA": "Lot-et-Garonne"
+        "zu_ZA": "Lot-et-Garonne",
+        "sr@latin": "Lot-e-Garon",
+        "tt@iqtelif": "Lot-et-Garonne"
     },
     "48": {
         "af": "Lozère",
@@ -44147,7 +44245,9 @@
         "zh_Hant_MY": "Lozère",
         "zh_Hant_TW": "Lozère",
         "zu": "Lozère",
-        "zu_ZA": "Lozère"
+        "zu_ZA": "Lozère",
+        "sr@latin": "Lozer",
+        "tt@iqtelif": "Lozère"
     },
     "49": {
         "af": "Maine-et-Loire",
@@ -45030,7 +45130,9 @@
         "zh_Hant_MY": "Maine-et-Loire",
         "zh_Hant_TW": "Maine-et-Loire",
         "zu": "Maine-et-Loire",
-        "zu_ZA": "Maine-et-Loire"
+        "zu_ZA": "Maine-et-Loire",
+        "sr@latin": "Men-e-Luar",
+        "tt@iqtelif": "Maine-et-Loire"
     },
     "50": {
         "af": "Manche",
@@ -45913,7 +46015,9 @@
         "zh_Hant_MY": "Manche",
         "zh_Hant_TW": "Manche",
         "zu": "Manche",
-        "zu_ZA": "Manche"
+        "zu_ZA": "Manche",
+        "sr@latin": "Manš",
+        "tt@iqtelif": "Manche"
     },
     "51": {
         "af": "Marne",
@@ -46796,7 +46900,9 @@
         "zh_Hant_MY": "Marne",
         "zh_Hant_TW": "Marne",
         "zu": "Marne",
-        "zu_ZA": "Marne"
+        "zu_ZA": "Marne",
+        "sr@latin": "Marn",
+        "tt@iqtelif": "Marne"
     },
     "52": {
         "af": "Haute-Marne",
@@ -47679,7 +47785,9 @@
         "zh_Hant_MY": "Haute-Marne",
         "zh_Hant_TW": "Haute-Marne",
         "zu": "Haute-Marne",
-        "zu_ZA": "Haute-Marne"
+        "zu_ZA": "Haute-Marne",
+        "sr@latin": "Gornja Marna",
+        "tt@iqtelif": "Haute-Marne"
     },
     "53": {
         "af": "Mayenne",
@@ -48562,7 +48670,9 @@
         "zh_Hant_MY": "Mayenne",
         "zh_Hant_TW": "Mayenne",
         "zu": "Mayenne",
-        "zu_ZA": "Mayenne"
+        "zu_ZA": "Mayenne",
+        "sr@latin": "Majen",
+        "tt@iqtelif": "Mayenne"
     },
     "54": {
         "af": "Meurthe-et-Moselle",
@@ -49445,7 +49555,9 @@
         "zh_Hant_MY": "Meurthe-et-Moselle",
         "zh_Hant_TW": "Meurthe-et-Moselle",
         "zu": "Meurthe-et-Moselle",
-        "zu_ZA": "Meurthe-et-Moselle"
+        "zu_ZA": "Meurthe-et-Moselle",
+        "sr@latin": "Mert-e-Mozel",
+        "tt@iqtelif": "Meurthe-et-Moselle"
     },
     "55": {
         "af": "Meuse",
@@ -50328,7 +50440,9 @@
         "zh_Hant_MY": "Meuse",
         "zh_Hant_TW": "Meuse",
         "zu": "Meuse",
-        "zu_ZA": "Meuse"
+        "zu_ZA": "Meuse",
+        "sr@latin": "Mez",
+        "tt@iqtelif": "Meuse"
     },
     "56": {
         "af": "Morbihan",
@@ -51211,7 +51325,9 @@
         "zh_Hant_MY": "Morbihan",
         "zh_Hant_TW": "Morbihan",
         "zu": "Morbihan",
-        "zu_ZA": "Morbihan"
+        "zu_ZA": "Morbihan",
+        "sr@latin": "Morbian",
+        "tt@iqtelif": "Morbihan"
     },
     "57": {
         "af": "Moselle",
@@ -52094,7 +52210,9 @@
         "zh_Hant_MY": "Moselle",
         "zh_Hant_TW": "Moselle",
         "zu": "Moselle",
-        "zu_ZA": "Moselle"
+        "zu_ZA": "Moselle",
+        "sr@latin": "Mozel",
+        "tt@iqtelif": "Moselle"
     },
     "58": {
         "af": "Nièvre",
@@ -52977,7 +53095,9 @@
         "zh_Hant_MY": "Nièvre",
         "zh_Hant_TW": "Nièvre",
         "zu": "Nièvre",
-        "zu_ZA": "Nièvre"
+        "zu_ZA": "Nièvre",
+        "sr@latin": "Njevr",
+        "tt@iqtelif": "Nièvre"
     },
     "59": {
         "af": "Nord",
@@ -53860,7 +53980,9 @@
         "zh_Hant_MY": "Nord",
         "zh_Hant_TW": "Nord",
         "zu": "Nord",
-        "zu_ZA": "Nord"
+        "zu_ZA": "Nord",
+        "sr@latin": "Sever",
+        "tt@iqtelif": "Nord"
     },
     "60": {
         "af": "Oise",
@@ -54743,7 +54865,9 @@
         "zh_Hant_MY": "Oise",
         "zh_Hant_TW": "Oise",
         "zu": "Oise",
-        "zu_ZA": "Oise"
+        "zu_ZA": "Oise",
+        "sr@latin": "Uaz",
+        "tt@iqtelif": "Oise"
     },
     "61": {
         "af": "Orne",
@@ -55626,7 +55750,9 @@
         "zh_Hant_MY": "Orne",
         "zh_Hant_TW": "Orne",
         "zu": "Orne",
-        "zu_ZA": "Orne"
+        "zu_ZA": "Orne",
+        "sr@latin": "Orne",
+        "tt@iqtelif": "Orne"
     },
     "62": {
         "af": "Pas-de-Calais",
@@ -56509,7 +56635,9 @@
         "zh_Hant_MY": "Pas-de-Calais",
         "zh_Hant_TW": "Pas-de-Calais",
         "zu": "Pas-de-Calais",
-        "zu_ZA": "Pas-de-Calais"
+        "zu_ZA": "Pas-de-Calais",
+        "sr@latin": "Pa-d-Kale",
+        "tt@iqtelif": "Pas-de-Calais"
     },
     "63": {
         "af": "Puy-de-Dôme",
@@ -57392,7 +57520,9 @@
         "zh_Hant_MY": "Puy-de-Dôme",
         "zh_Hant_TW": "Puy-de-Dôme",
         "zu": "Puy-de-Dôme",
-        "zu_ZA": "Puy-de-Dôme"
+        "zu_ZA": "Puy-de-Dôme",
+        "sr@latin": "Pij-d-Dom",
+        "tt@iqtelif": "Puy-de-Dôme"
     },
     "64": {
         "af": "Pyrénées-Atlantiques",
@@ -58275,7 +58405,9 @@
         "zh_Hant_MY": "Pyrénées-Atlantiques",
         "zh_Hant_TW": "Pyrénées-Atlantiques",
         "zu": "Pyrénées-Atlantiques",
-        "zu_ZA": "Pyrénées-Atlantiques"
+        "zu_ZA": "Pyrénées-Atlantiques",
+        "sr@latin": "Atlantski Pirineji",
+        "tt@iqtelif": "Pyrénées-Atlantiques"
     },
     "65": {
         "af": "Hautes-Pyrénées",
@@ -59158,7 +59290,9 @@
         "zh_Hant_MY": "Hautes-Pyrénées",
         "zh_Hant_TW": "Hautes-Pyrénées",
         "zu": "Hautes-Pyrénées",
-        "zu_ZA": "Hautes-Pyrénées"
+        "zu_ZA": "Hautes-Pyrénées",
+        "sr@latin": "Gornji Pirineji",
+        "tt@iqtelif": "Hautes-Pyrénées"
     },
     "66": {
         "af": "Pyrénées-Orientales",
@@ -60041,7 +60175,9 @@
         "zh_Hant_MY": "Pyrénées-Orientales",
         "zh_Hant_TW": "Pyrénées-Orientales",
         "zu": "Pyrénées-Orientales",
-        "zu_ZA": "Pyrénées-Orientales"
+        "zu_ZA": "Pyrénées-Orientales",
+        "sr@latin": "Istočni Pirineji",
+        "tt@iqtelif": "Pyrénées-Orientales"
     },
     "67": {
         "af": "Bas-Rhin",
@@ -60924,7 +61060,9 @@
         "zh_Hant_MY": "Bas-Rhin",
         "zh_Hant_TW": "Bas-Rhin",
         "zu": "Bas-Rhin",
-        "zu_ZA": "Bas-Rhin"
+        "zu_ZA": "Bas-Rhin",
+        "sr@latin": "Donji Rin",
+        "tt@iqtelif": "Bas-Rhin"
     },
     "68": {
         "af": "Haut-Rhin",
@@ -61807,7 +61945,9 @@
         "zh_Hant_MY": "Haut-Rhin",
         "zh_Hant_TW": "Haut-Rhin",
         "zu": "Haut-Rhin",
-        "zu_ZA": "Haut-Rhin"
+        "zu_ZA": "Haut-Rhin",
+        "sr@latin": "Gornja Rajna",
+        "tt@iqtelif": "Haut-Rhin"
     },
     "69": {
         "af": "Rhône",
@@ -62690,7 +62830,9 @@
         "zh_Hant_MY": "Rhône",
         "zh_Hant_TW": "Rhône",
         "zu": "Rhône",
-        "zu_ZA": "Rhône"
+        "zu_ZA": "Rhône",
+        "sr@latin": "Ron",
+        "tt@iqtelif": "Rhône"
     },
     "69M": {
         "af": "Métropole de Lyon",
@@ -63573,7 +63715,9 @@
         "zh_Hant_MY": "Métropole de Lyon",
         "zh_Hant_TW": "Métropole de Lyon",
         "zu": "Métropole de Lyon",
-        "zu_ZA": "Métropole de Lyon"
+        "zu_ZA": "Métropole de Lyon",
+        "sr@latin": "Métropole de Lyon",
+        "tt@iqtelif": "Métropole de Lyon"
     },
     "6AE": {
         "af": "Alsace",
@@ -64456,7 +64600,9 @@
         "zh_Hant_MY": "Alsace",
         "zh_Hant_TW": "Alsace",
         "zu": "Alsace",
-        "zu_ZA": "Alsace"
+        "zu_ZA": "Alsace",
+        "sr@latin": "Alsace",
+        "tt@iqtelif": "Alsace"
     },
     "70": {
         "af": "Haute-Saône",
@@ -65339,7 +65485,9 @@
         "zh_Hant_MY": "Haute-Saône",
         "zh_Hant_TW": "Haute-Saône",
         "zu": "Haute-Saône",
-        "zu_ZA": "Haute-Saône"
+        "zu_ZA": "Haute-Saône",
+        "sr@latin": "Gornja Savona",
+        "tt@iqtelif": "Haute-Saône"
     },
     "71": {
         "af": "Saône-et-Loire",
@@ -66222,7 +66370,9 @@
         "zh_Hant_MY": "Saône-et-Loire",
         "zh_Hant_TW": "Saône-et-Loire",
         "zu": "Saône-et-Loire",
-        "zu_ZA": "Saône-et-Loire"
+        "zu_ZA": "Saône-et-Loire",
+        "sr@latin": "Saon-e-Luar",
+        "tt@iqtelif": "Saône-et-Loire"
     },
     "72": {
         "af": "Sarthe",
@@ -67105,7 +67255,9 @@
         "zh_Hant_MY": "Sarthe",
         "zh_Hant_TW": "Sarthe",
         "zu": "Sarthe",
-        "zu_ZA": "Sarthe"
+        "zu_ZA": "Sarthe",
+        "sr@latin": "Sarte",
+        "tt@iqtelif": "Sarthe"
     },
     "73": {
         "af": "Savoie",
@@ -67988,7 +68140,9 @@
         "zh_Hant_MY": "Savoie",
         "zh_Hant_TW": "Savoie",
         "zu": "Savoie",
-        "zu_ZA": "Savoie"
+        "zu_ZA": "Savoie",
+        "sr@latin": "Savoja",
+        "tt@iqtelif": "Savoie"
     },
     "74": {
         "af": "Haute-Savoie",
@@ -68871,7 +69025,9 @@
         "zh_Hant_MY": "Haute-Savoie",
         "zh_Hant_TW": "Haute-Savoie",
         "zu": "Haute-Savoie",
-        "zu_ZA": "Haute-Savoie"
+        "zu_ZA": "Haute-Savoie",
+        "sr@latin": "Gornja Savoja",
+        "tt@iqtelif": "Haute-Savoie"
     },
     "75C": {
         "af": "Paris",
@@ -69754,7 +69910,9 @@
         "zh_Hant_MY": "Paris",
         "zh_Hant_TW": "Paris",
         "zu": "Paris",
-        "zu_ZA": "Paris"
+        "zu_ZA": "Paris",
+        "sr@latin": "Pariz",
+        "tt@iqtelif": "Paris"
     },
     "76": {
         "af": "Seine-Maritime",
@@ -70637,7 +70795,9 @@
         "zh_Hant_MY": "Seine-Maritime",
         "zh_Hant_TW": "Seine-Maritime",
         "zu": "Seine-Maritime",
-        "zu_ZA": "Seine-Maritime"
+        "zu_ZA": "Seine-Maritime",
+        "sr@latin": "Seine-Maritime",
+        "tt@iqtelif": "Seine-Maritime"
     },
     "77": {
         "af": "Seine-et-Marne",
@@ -71520,7 +71680,9 @@
         "zh_Hant_MY": "Seine-et-Marne",
         "zh_Hant_TW": "Seine-et-Marne",
         "zu": "Seine-et-Marne",
-        "zu_ZA": "Seine-et-Marne"
+        "zu_ZA": "Seine-et-Marne",
+        "sr@latin": "Sena i Marna",
+        "tt@iqtelif": "Seine-et-Marne"
     },
     "78": {
         "af": "Yvelines",
@@ -72403,7 +72565,9 @@
         "zh_Hant_MY": "Yvelines",
         "zh_Hant_TW": "Yvelines",
         "zu": "Yvelines",
-        "zu_ZA": "Yvelines"
+        "zu_ZA": "Yvelines",
+        "sr@latin": "Ivelin",
+        "tt@iqtelif": "Yvelines"
     },
     "79": {
         "af": "Deux-Sèvres",
@@ -73286,7 +73450,9 @@
         "zh_Hant_MY": "Deux-Sèvres",
         "zh_Hant_TW": "Deux-Sèvres",
         "zu": "Deux-Sèvres",
-        "zu_ZA": "Deux-Sèvres"
+        "zu_ZA": "Deux-Sèvres",
+        "sr@latin": "Dva-Sevra",
+        "tt@iqtelif": "Deux-Sèvres"
     },
     "80": {
         "af": "Somme",
@@ -74169,7 +74335,9 @@
         "zh_Hant_MY": "Somme",
         "zh_Hant_TW": "Somme",
         "zu": "Somme",
-        "zu_ZA": "Somme"
+        "zu_ZA": "Somme",
+        "sr@latin": "Some",
+        "tt@iqtelif": "Somme"
     },
     "81": {
         "af": "Tarn",
@@ -75052,7 +75220,9 @@
         "zh_Hant_MY": "Tarn",
         "zh_Hant_TW": "Tarn",
         "zu": "Tarn",
-        "zu_ZA": "Tarn"
+        "zu_ZA": "Tarn",
+        "sr@latin": "Tarn",
+        "tt@iqtelif": "Tarn"
     },
     "82": {
         "af": "Tarn-et-Garonne",
@@ -75935,7 +76105,9 @@
         "zh_Hant_MY": "Tarn-et-Garonne",
         "zh_Hant_TW": "Tarn-et-Garonne",
         "zu": "Tarn-et-Garonne",
-        "zu_ZA": "Tarn-et-Garonne"
+        "zu_ZA": "Tarn-et-Garonne",
+        "sr@latin": "Tarn-et-Garonne",
+        "tt@iqtelif": "Tarn-et-Garonne"
     },
     "83": {
         "af": "Var",
@@ -76818,7 +76990,9 @@
         "zh_Hant_MY": "Var",
         "zh_Hant_TW": "Var",
         "zu": "Var",
-        "zu_ZA": "Var"
+        "zu_ZA": "Var",
+        "sr@latin": "Var",
+        "tt@iqtelif": "Var"
     },
     "84": {
         "af": "Vaucluse",
@@ -77701,7 +77875,9 @@
         "zh_Hant_MY": "Vaucluse",
         "zh_Hant_TW": "Vaucluse",
         "zu": "Vaucluse",
-        "zu_ZA": "Vaucluse"
+        "zu_ZA": "Vaucluse",
+        "sr@latin": "Vokliz",
+        "tt@iqtelif": "Vaucluse"
     },
     "85": {
         "af": "Vendée",
@@ -78584,7 +78760,9 @@
         "zh_Hant_MY": "Vendée",
         "zh_Hant_TW": "Vendée",
         "zu": "Vendée",
-        "zu_ZA": "Vendée"
+        "zu_ZA": "Vendée",
+        "sr@latin": "Vande",
+        "tt@iqtelif": "Vendée"
     },
     "86": {
         "af": "Vienne",
@@ -79467,7 +79645,9 @@
         "zh_Hant_MY": "Vienne",
         "zh_Hant_TW": "Vienne",
         "zu": "Vienne",
-        "zu_ZA": "Vienne"
+        "zu_ZA": "Vienne",
+        "sr@latin": "Vjen",
+        "tt@iqtelif": "Vienne"
     },
     "87": {
         "af": "Haute-Vienne",
@@ -80350,7 +80530,9 @@
         "zh_Hant_MY": "Haute-Vienne",
         "zh_Hant_TW": "Haute-Vienne",
         "zu": "Haute-Vienne",
-        "zu_ZA": "Haute-Vienne"
+        "zu_ZA": "Haute-Vienne",
+        "sr@latin": "Gornja Vjena",
+        "tt@iqtelif": "Haute-Vienne"
     },
     "88": {
         "af": "Vosges",
@@ -81233,7 +81415,9 @@
         "zh_Hant_MY": "Vosges",
         "zh_Hant_TW": "Vosges",
         "zu": "Vosges",
-        "zu_ZA": "Vosges"
+        "zu_ZA": "Vosges",
+        "sr@latin": "Vosg",
+        "tt@iqtelif": "Vosges"
     },
     "89": {
         "af": "Yonne",
@@ -82116,7 +82300,9 @@
         "zh_Hant_MY": "Yonne",
         "zh_Hant_TW": "Yonne",
         "zu": "Yonne",
-        "zu_ZA": "Yonne"
+        "zu_ZA": "Yonne",
+        "sr@latin": "Jone",
+        "tt@iqtelif": "Yonne"
     },
     "90": {
         "af": "Territoire de Belfort",
@@ -82999,7 +83185,9 @@
         "zh_Hant_MY": "Territoire de Belfort",
         "zh_Hant_TW": "Territoire de Belfort",
         "zu": "Territoire de Belfort",
-        "zu_ZA": "Territoire de Belfort"
+        "zu_ZA": "Territoire de Belfort",
+        "sr@latin": "Belfortska teritorija",
+        "tt@iqtelif": "Territoire de Belfort"
     },
     "91": {
         "af": "Essonne",
@@ -83882,7 +84070,9 @@
         "zh_Hant_MY": "Essonne",
         "zh_Hant_TW": "Essonne",
         "zu": "Essonne",
-        "zu_ZA": "Essonne"
+        "zu_ZA": "Essonne",
+        "sr@latin": "Eson",
+        "tt@iqtelif": "Essonne"
     },
     "92": {
         "af": "Hauts-de-Seine",
@@ -84765,7 +84955,9 @@
         "zh_Hant_MY": "Hauts-de-Seine",
         "zh_Hant_TW": "Hauts-de-Seine",
         "zu": "Hauts-de-Seine",
-        "zu_ZA": "Hauts-de-Seine"
+        "zu_ZA": "Hauts-de-Seine",
+        "sr@latin": "Gornja Sena",
+        "tt@iqtelif": "Hauts-de-Seine"
     },
     "93": {
         "af": "Seine-Saint-Denis",
@@ -85648,7 +85840,9 @@
         "zh_Hant_MY": "Seine-Saint-Denis",
         "zh_Hant_TW": "Seine-Saint-Denis",
         "zu": "Seine-Saint-Denis",
-        "zu_ZA": "Seine-Saint-Denis"
+        "zu_ZA": "Seine-Saint-Denis",
+        "sr@latin": "Seine-Saint-Denis",
+        "tt@iqtelif": "Seine-Saint-Denis"
     },
     "94": {
         "af": "Val-de-Marne",
@@ -86531,7 +86725,9 @@
         "zh_Hant_MY": "Val-de-Marne",
         "zh_Hant_TW": "Val-de-Marne",
         "zu": "Val-de-Marne",
-        "zu_ZA": "Val-de-Marne"
+        "zu_ZA": "Val-de-Marne",
+        "sr@latin": "Val-d-Marn",
+        "tt@iqtelif": "Val-de-Marne"
     },
     "95": {
         "af": "Val-d'Oise",
@@ -87414,7 +87610,9 @@
         "zh_Hant_MY": "Val-d'Oise",
         "zh_Hant_TW": "Val-d'Oise",
         "zu": "Val-d'Oise",
-        "zu_ZA": "Val-d'Oise"
+        "zu_ZA": "Val-d'Oise",
+        "sr@latin": "Val-d'Oise",
+        "tt@iqtelif": "Val-d'Oise"
     },
     "971": {
         "af": "Guadeloupe",
@@ -88297,7 +88495,9 @@
         "zh_Hant_MY": "Guadeloupe",
         "zh_Hant_TW": "Guadeloupe",
         "zu": "Guadeloupe",
-        "zu_ZA": "Guadeloupe"
+        "zu_ZA": "Guadeloupe",
+        "sr@latin": "Gvadalupe",
+        "tt@iqtelif": "Guadeloupe"
     },
     "972": {
         "af": "Martinique",
@@ -89180,7 +89380,9 @@
         "zh_Hant_MY": "Martinique",
         "zh_Hant_TW": "Martinique",
         "zu": "Martinique",
-        "zu_ZA": "Martinique"
+        "zu_ZA": "Martinique",
+        "sr@latin": "Martinik",
+        "tt@iqtelif": "Martinique"
     },
     "973": {
         "af": "Guyane (française)",
@@ -90063,7 +90265,9 @@
         "zh_Hant_MY": "Guyane (française)",
         "zh_Hant_TW": "Guyane (française)",
         "zu": "Guyane (française)",
-        "zu_ZA": "Guyane (française)"
+        "zu_ZA": "Guyane (française)",
+        "sr@latin": "Guyane (française)",
+        "tt@iqtelif": "Guyane (française)"
     },
     "974": {
         "af": "La Réunion",
@@ -90946,7 +91150,9 @@
         "zh_Hant_MY": "La Réunion",
         "zh_Hant_TW": "La Réunion",
         "zu": "La Réunion",
-        "zu_ZA": "La Réunion"
+        "zu_ZA": "La Réunion",
+        "sr@latin": "La Réunion",
+        "tt@iqtelif": "La Réunion"
     },
     "976": {
         "af": "Mayotte",
@@ -91829,7 +92035,9 @@
         "zh_Hant_MY": "Mayotte",
         "zh_Hant_TW": "Mayotte",
         "zu": "Mayotte",
-        "zu_ZA": "Mayotte"
+        "zu_ZA": "Mayotte",
+        "sr@latin": "Majot",
+        "tt@iqtelif": "Mayotte"
     },
     "ARA": {
         "af": "Auvergne-Rhône-Alpes",
@@ -92712,7 +92920,9 @@
         "zh_Hant_MY": "Auvergne-Rhône-Alpes",
         "zh_Hant_TW": "Auvergne-Rhône-Alpes",
         "zu": "Auvergne-Rhône-Alpes",
-        "zu_ZA": "Auvergne-Rhône-Alpes"
+        "zu_ZA": "Auvergne-Rhône-Alpes",
+        "sr@latin": "Auvergne-Rhône-Alpes",
+        "tt@iqtelif": "Auvergne-Rhône-Alpes"
     },
     "BFC": {
         "af": "Bourgogne-Franche-Comté",
@@ -93595,7 +93805,9 @@
         "zh_Hant_MY": "Bourgogne-Franche-Comté",
         "zh_Hant_TW": "Bourgogne-Franche-Comté",
         "zu": "Bourgogne-Franche-Comté",
-        "zu_ZA": "Bourgogne-Franche-Comté"
+        "zu_ZA": "Bourgogne-Franche-Comté",
+        "sr@latin": "Bourgogne-Franche-Comté",
+        "tt@iqtelif": "Bourgogne-Franche-Comté"
     },
     "BL": {
         "af": "Saint-Barthélemy",
@@ -94478,7 +94690,9 @@
         "zh_Hant_MY": "Saint-Barthélemy",
         "zh_Hant_TW": "Saint-Barthélemy",
         "zu": "Saint-Barthélemy",
-        "zu_ZA": "Saint-Barthélemy"
+        "zu_ZA": "Saint-Barthélemy",
+        "sr@latin": "Sent Bartelemi",
+        "tt@iqtelif": "Saint-Barthélemy"
     },
     "BRE": {
         "af": "Bretagne",
@@ -95361,7 +95575,9 @@
         "zh_Hant_MY": "Bretagne",
         "zh_Hant_TW": "Bretagne",
         "zu": "Bretagne",
-        "zu_ZA": "Bretagne"
+        "zu_ZA": "Bretagne",
+        "sr@latin": "Bretanja",
+        "tt@iqtelif": "Bretagne"
     },
     "CP": {
         "af": "Clipperton",
@@ -96244,7 +96460,9 @@
         "zh_Hant_MY": "Clipperton",
         "zh_Hant_TW": "Clipperton",
         "zu": "Clipperton",
-        "zu_ZA": "Clipperton"
+        "zu_ZA": "Clipperton",
+        "sr@latin": "Kliperton",
+        "tt@iqtelif": "Clipperton"
     },
     "CVL": {
         "af": "Centre-Val de Loire",
@@ -97127,7 +97345,9 @@
         "zh_Hant_MY": "Centre-Val de Loire",
         "zh_Hant_TW": "Centre-Val de Loire",
         "zu": "Centre-Val de Loire",
-        "zu_ZA": "Centre-Val de Loire"
+        "zu_ZA": "Centre-Val de Loire",
+        "sr@latin": "Centre-Val de Loire",
+        "tt@iqtelif": "Centre-Val de Loire"
     },
     "GES": {
         "af": "Grand-Est",
@@ -98010,7 +98230,9 @@
         "zh_Hant_MY": "Grand-Est",
         "zh_Hant_TW": "Grand-Est",
         "zu": "Grand-Est",
-        "zu_ZA": "Grand-Est"
+        "zu_ZA": "Grand-Est",
+        "sr@latin": "Grand-Est",
+        "tt@iqtelif": "Grand-Est"
     },
     "HDF": {
         "af": "Hauts-de-France",
@@ -98893,7 +99115,9 @@
         "zh_Hant_MY": "Hauts-de-France",
         "zh_Hant_TW": "Hauts-de-France",
         "zu": "Hauts-de-France",
-        "zu_ZA": "Hauts-de-France"
+        "zu_ZA": "Hauts-de-France",
+        "sr@latin": "Hauts-de-France",
+        "tt@iqtelif": "Hauts-de-France"
     },
     "IDF": {
         "af": "Île-de-France",
@@ -99776,7 +100000,9 @@
         "zh_Hant_MY": "Île-de-France",
         "zh_Hant_TW": "Île-de-France",
         "zu": "Île-de-France",
-        "zu_ZA": "Île-de-France"
+        "zu_ZA": "Île-de-France",
+        "sr@latin": "Il de Frans",
+        "tt@iqtelif": "Île-de-France"
     },
     "MF": {
         "af": "Saint-Martin",
@@ -100659,7 +100885,9 @@
         "zh_Hant_MY": "Saint-Martin",
         "zh_Hant_TW": "Saint-Martin",
         "zu": "Saint-Martin",
-        "zu_ZA": "Saint-Martin"
+        "zu_ZA": "Saint-Martin",
+        "sr@latin": "Sent Marten",
+        "tt@iqtelif": "Saint-Martin"
     },
     "NAQ": {
         "af": "Nouvelle-Aquitaine",
@@ -101542,7 +101770,9 @@
         "zh_Hant_MY": "Nouvelle-Aquitaine",
         "zh_Hant_TW": "Nouvelle-Aquitaine",
         "zu": "Nouvelle-Aquitaine",
-        "zu_ZA": "Nouvelle-Aquitaine"
+        "zu_ZA": "Nouvelle-Aquitaine",
+        "sr@latin": "Nouvelle-Aquitaine",
+        "tt@iqtelif": "Nouvelle-Aquitaine"
     },
     "NC": {
         "af": "Nouvelle-Calédonie",
@@ -102425,7 +102655,9 @@
         "zh_Hant_MY": "Nouvelle-Calédonie",
         "zh_Hant_TW": "Nouvelle-Calédonie",
         "zu": "Nouvelle-Calédonie",
-        "zu_ZA": "Nouvelle-Calédonie"
+        "zu_ZA": "Nouvelle-Calédonie",
+        "sr@latin": "Nova Kaledonija",
+        "tt@iqtelif": "Nouvelle-Calédonie"
     },
     "NOR": {
         "af": "Normandie",
@@ -103308,7 +103540,9 @@
         "zh_Hant_MY": "Normandie",
         "zh_Hant_TW": "Normandie",
         "zu": "Normandie",
-        "zu_ZA": "Normandie"
+        "zu_ZA": "Normandie",
+        "sr@latin": "Normandie",
+        "tt@iqtelif": "Normandie"
     },
     "OCC": {
         "af": "Occitanie",
@@ -104191,7 +104425,9 @@
         "zh_Hant_MY": "Occitanie",
         "zh_Hant_TW": "Occitanie",
         "zu": "Occitanie",
-        "zu_ZA": "Occitanie"
+        "zu_ZA": "Occitanie",
+        "sr@latin": "Occitanie",
+        "tt@iqtelif": "Occitanie"
     },
     "PAC": {
         "af": "Provence-Alpes-Côte-d’Azur",
@@ -105074,7 +105310,9 @@
         "zh_Hant_MY": "Provence-Alpes-Côte-d’Azur",
         "zh_Hant_TW": "Provence-Alpes-Côte-d’Azur",
         "zu": "Provence-Alpes-Côte-d’Azur",
-        "zu_ZA": "Provence-Alpes-Côte-d’Azur"
+        "zu_ZA": "Provence-Alpes-Côte-d’Azur",
+        "sr@latin": "Provence-Alpes-Côte-d’Azur",
+        "tt@iqtelif": "Provence-Alpes-Côte-d’Azur"
     },
     "PDL": {
         "af": "Pays-de-la-Loire",
@@ -105957,7 +106195,9 @@
         "zh_Hant_MY": "Pays-de-la-Loire",
         "zh_Hant_TW": "Pays-de-la-Loire",
         "zu": "Pays-de-la-Loire",
-        "zu_ZA": "Pays-de-la-Loire"
+        "zu_ZA": "Pays-de-la-Loire",
+        "sr@latin": "Pays-de-la-Loire",
+        "tt@iqtelif": "Pays-de-la-Loire"
     },
     "PF": {
         "af": "Polynésie française",
@@ -106840,7 +107080,9 @@
         "zh_Hant_MY": "Polynésie française",
         "zh_Hant_TW": "Polynésie française",
         "zu": "Polynésie française",
-        "zu_ZA": "Polynésie française"
+        "zu_ZA": "Polynésie française",
+        "sr@latin": "Francuska Polinezija",
+        "tt@iqtelif": "Polynésie française"
     },
     "PM": {
         "af": "Saint-Pierre-et-Miquelon",
@@ -107723,7 +107965,9 @@
         "zh_Hant_MY": "Saint-Pierre-et-Miquelon",
         "zh_Hant_TW": "Saint-Pierre-et-Miquelon",
         "zu": "Saint-Pierre-et-Miquelon",
-        "zu_ZA": "Saint-Pierre-et-Miquelon"
+        "zu_ZA": "Saint-Pierre-et-Miquelon",
+        "sr@latin": "Sveti Pjer i Mikelon",
+        "tt@iqtelif": "Saint-Pierre-et-Miquelon"
     },
     "TF": {
         "af": "Terres australes françaises",
@@ -108606,7 +108850,9 @@
         "zh_Hant_MY": "Terres australes françaises",
         "zh_Hant_TW": "Terres australes françaises",
         "zu": "Terres australes françaises",
-        "zu_ZA": "Terres australes françaises"
+        "zu_ZA": "Terres australes françaises",
+        "sr@latin": "Francuske australijske zemlje",
+        "tt@iqtelif": "Terres australes françaises"
     },
     "WF": {
         "af": "Wallis-et-Futuna",
@@ -109489,6 +109735,8 @@
         "zh_Hant_MY": "Wallis-et-Futuna",
         "zh_Hant_TW": "Wallis-et-Futuna",
         "zu": "Wallis-et-Futuna",
-        "zu_ZA": "Wallis-et-Futuna"
+        "zu_ZA": "Wallis-et-Futuna",
+        "sr@latin": "Valis i Futuna",
+        "tt@iqtelif": "Wallis-et-Futuna"
     }
 }

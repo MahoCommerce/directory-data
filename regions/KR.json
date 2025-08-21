@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Seoul-teukbyeolsi",
         "zh_Hant_TW": "Seoul-teukbyeolsi",
         "zu": "Seoul-teukbyeolsi",
-        "zu_ZA": "Seoul-teukbyeolsi"
+        "zu_ZA": "Seoul-teukbyeolsi",
+        "sr@latin": "Seoul-teukbyeolsi",
+        "tt@iqtelif": "Seoul-teukbyeolsi"
     },
     "26": {
         "af": "Busan-gwangyeoksi",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Busan-gwangyeoksi",
         "zh_Hant_TW": "Busan-gwangyeoksi",
         "zu": "Busan-gwangyeoksi",
-        "zu_ZA": "Busan-gwangyeoksi"
+        "zu_ZA": "Busan-gwangyeoksi",
+        "sr@latin": "Busan-gwangyeoksi",
+        "tt@iqtelif": "Busan-gwangyeoksi"
     },
     "27": {
         "af": "Daegu-gwangyeoksi",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Daegu-gwangyeoksi",
         "zh_Hant_TW": "Daegu-gwangyeoksi",
         "zu": "Daegu-gwangyeoksi",
-        "zu_ZA": "Daegu-gwangyeoksi"
+        "zu_ZA": "Daegu-gwangyeoksi",
+        "sr@latin": "Daegu-gwangyeoksi",
+        "tt@iqtelif": "Daegu-gwangyeoksi"
     },
     "28": {
         "af": "Incheon-gwangyeoksi",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Incheon-gwangyeoksi",
         "zh_Hant_TW": "Incheon-gwangyeoksi",
         "zu": "Incheon-gwangyeoksi",
-        "zu_ZA": "Incheon-gwangyeoksi"
+        "zu_ZA": "Incheon-gwangyeoksi",
+        "sr@latin": "Incheon-gwangyeoksi",
+        "tt@iqtelif": "Incheon-gwangyeoksi"
     },
     "29": {
         "af": "Gwangju-gwangyeoksi",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Gwangju-gwangyeoksi",
         "zh_Hant_TW": "Gwangju-gwangyeoksi",
         "zu": "Gwangju-gwangyeoksi",
-        "zu_ZA": "Gwangju-gwangyeoksi"
+        "zu_ZA": "Gwangju-gwangyeoksi",
+        "sr@latin": "Gwangju-gwangyeoksi",
+        "tt@iqtelif": "Gwangju-gwangyeoksi"
     },
     "30": {
         "af": "Daejeon-gwangyeoksi",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Daejeon-gwangyeoksi",
         "zh_Hant_TW": "Daejeon-gwangyeoksi",
         "zu": "Daejeon-gwangyeoksi",
-        "zu_ZA": "Daejeon-gwangyeoksi"
+        "zu_ZA": "Daejeon-gwangyeoksi",
+        "sr@latin": "Daejeon-gwangyeoksi",
+        "tt@iqtelif": "Daejeon-gwangyeoksi"
     },
     "31": {
         "af": "Ulsan-gwangyeoksi",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ulsan-gwangyeoksi",
         "zh_Hant_TW": "Ulsan-gwangyeoksi",
         "zu": "Ulsan-gwangyeoksi",
-        "zu_ZA": "Ulsan-gwangyeoksi"
+        "zu_ZA": "Ulsan-gwangyeoksi",
+        "sr@latin": "Ulsan-gwangyeoksi",
+        "tt@iqtelif": "Ulsan-gwangyeoksi"
     },
     "41": {
         "af": "Gyeonggi-do",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Gyeonggi-do",
         "zh_Hant_TW": "Gyeonggi-do",
         "zu": "Gyeonggi-do",
-        "zu_ZA": "Gyeonggi-do"
+        "zu_ZA": "Gyeonggi-do",
+        "sr@latin": "Gyeonggi-do",
+        "tt@iqtelif": "Gyeonggi-do"
     },
     "42": {
         "af": "Gangwon-teukbyeoljachido",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Gangwon-teukbyeoljachido",
         "zh_Hant_TW": "Gangwon-teukbyeoljachido",
         "zu": "Gangwon-teukbyeoljachido",
-        "zu_ZA": "Gangwon-teukbyeoljachido"
+        "zu_ZA": "Gangwon-teukbyeoljachido",
+        "sr@latin": "Gangwon-teukbyeoljachido",
+        "tt@iqtelif": "Gangwon-teukbyeoljachido"
     },
     "43": {
         "af": "Chungcheongbuk-do",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Chungcheongbuk-do",
         "zh_Hant_TW": "Chungcheongbuk-do",
         "zu": "Chungcheongbuk-do",
-        "zu_ZA": "Chungcheongbuk-do"
+        "zu_ZA": "Chungcheongbuk-do",
+        "sr@latin": "Chungcheongbuk-do",
+        "tt@iqtelif": "Chungcheongbuk-do"
     },
     "44": {
         "af": "Chungcheongnam-do",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Chungcheongnam-do",
         "zh_Hant_TW": "Chungcheongnam-do",
         "zu": "Chungcheongnam-do",
-        "zu_ZA": "Chungcheongnam-do"
+        "zu_ZA": "Chungcheongnam-do",
+        "sr@latin": "Chungcheongnam-do",
+        "tt@iqtelif": "Chungcheongnam-do"
     },
     "45": {
         "af": "Jeollabuk-do",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Jeollabuk-do",
         "zh_Hant_TW": "Jeollabuk-do",
         "zu": "Jeollabuk-do",
-        "zu_ZA": "Jeollabuk-do"
+        "zu_ZA": "Jeollabuk-do",
+        "sr@latin": "Jeollabuk-do",
+        "tt@iqtelif": "Jeollabuk-do"
     },
     "46": {
         "af": "Jeollanam-do",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Jeollanam-do",
         "zh_Hant_TW": "Jeollanam-do",
         "zu": "Jeollanam-do",
-        "zu_ZA": "Jeollanam-do"
+        "zu_ZA": "Jeollanam-do",
+        "sr@latin": "Jeollanam-do",
+        "tt@iqtelif": "Jeollanam-do"
     },
     "47": {
         "af": "Gyeongsangbuk-do",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Gyeongsangbuk-do",
         "zh_Hant_TW": "Gyeongsangbuk-do",
         "zu": "Gyeongsangbuk-do",
-        "zu_ZA": "Gyeongsangbuk-do"
+        "zu_ZA": "Gyeongsangbuk-do",
+        "sr@latin": "Gyeongsangbuk-do",
+        "tt@iqtelif": "Gyeongsangbuk-do"
     },
     "48": {
         "af": "Gyeongsangnam-do",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Gyeongsangnam-do",
         "zh_Hant_TW": "Gyeongsangnam-do",
         "zu": "Gyeongsangnam-do",
-        "zu_ZA": "Gyeongsangnam-do"
+        "zu_ZA": "Gyeongsangnam-do",
+        "sr@latin": "Gyeongsangnam-do",
+        "tt@iqtelif": "Gyeongsangnam-do"
     },
     "49": {
         "af": "Jeju-teukbyeoljachido",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Jeju-teukbyeoljachido",
         "zh_Hant_TW": "Jeju-teukbyeoljachido",
         "zu": "Jeju-teukbyeoljachido",
-        "zu_ZA": "Jeju-teukbyeoljachido"
+        "zu_ZA": "Jeju-teukbyeoljachido",
+        "sr@latin": "Jeju-teukbyeoljachido",
+        "tt@iqtelif": "Jeju-teukbyeoljachido"
     },
     "50": {
         "af": "Sejong",
@@ -15008,6 +15040,8 @@
         "zh_Hant_MY": "Sejong",
         "zh_Hant_TW": "Sejong",
         "zu": "Sejong",
-        "zu_ZA": "Sejong"
+        "zu_ZA": "Sejong",
+        "sr@latin": "Sejong",
+        "tt@iqtelif": "Sejong"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Eastern Cape",
         "zh_Hant_TW": "Eastern Cape",
         "zu": "Eastern Cape",
-        "zu_ZA": "Eastern Cape"
+        "zu_ZA": "Eastern Cape",
+        "sr@latin": "Istočni Kejp",
+        "tt@iqtelif": "Eastern Cape"
     },
     "FS": {
         "af": "Free State",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Free State",
         "zh_Hant_TW": "Free State",
         "zu": "Free State",
-        "zu_ZA": "Free State"
+        "zu_ZA": "Free State",
+        "sr@latin": "Free State",
+        "tt@iqtelif": "Free State"
     },
     "GP": {
         "af": "Gauteng",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Gauteng",
         "zh_Hant_TW": "Gauteng",
         "zu": "Gauteng",
-        "zu_ZA": "Gauteng"
+        "zu_ZA": "Gauteng",
+        "sr@latin": "Gauteng",
+        "tt@iqtelif": "Gauteng"
     },
     "KZN": {
         "af": "Kwazulu-Natal",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Kwazulu-Natal",
         "zh_Hant_TW": "Kwazulu-Natal",
         "zu": "Kwazulu-Natal",
-        "zu_ZA": "Kwazulu-Natal"
+        "zu_ZA": "Kwazulu-Natal",
+        "sr@latin": "Kvaculu-Natal",
+        "tt@iqtelif": "Kwazulu-Natal"
     },
     "LP": {
         "af": "Limpopo",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Limpopo",
         "zh_Hant_TW": "Limpopo",
         "zu": "Limpopo",
-        "zu_ZA": "Limpopo"
+        "zu_ZA": "Limpopo",
+        "sr@latin": "Limpopo",
+        "tt@iqtelif": "Limpopo"
     },
     "MP": {
         "af": "Mpumalanga",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Mpumalanga",
         "zh_Hant_TW": "Mpumalanga",
         "zu": "Mpumalanga",
-        "zu_ZA": "Mpumalanga"
+        "zu_ZA": "Mpumalanga",
+        "sr@latin": "Mpumalanga",
+        "tt@iqtelif": "Mpumalanga"
     },
     "NC": {
         "af": "Northern Cape",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Northern Cape",
         "zh_Hant_TW": "Northern Cape",
         "zu": "Northern Cape",
-        "zu_ZA": "Northern Cape"
+        "zu_ZA": "Northern Cape",
+        "sr@latin": "Northern Cape",
+        "tt@iqtelif": "Northern Cape"
     },
     "NW": {
         "af": "North-West",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "North-West",
         "zh_Hant_TW": "North-West",
         "zu": "North-West",
-        "zu_ZA": "North-West"
+        "zu_ZA": "North-West",
+        "sr@latin": "Severozapad",
+        "tt@iqtelif": "North-West"
     },
     "WC": {
         "af": "Western Cape",
@@ -7944,6 +7960,8 @@
         "zh_Hant_MY": "Western Cape",
         "zh_Hant_TW": "Western Cape",
         "zu": "Western Cape",
-        "zu_ZA": "Western Cape"
+        "zu_ZA": "Western Cape",
+        "sr@latin": "Western Cape",
+        "tt@iqtelif": "Western Cape"
     }
 }

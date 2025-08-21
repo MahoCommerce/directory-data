@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aveiro",
         "zh_Hant_TW": "Aveiro",
         "zu": "Aveiro",
-        "zu_ZA": "Aveiro"
+        "zu_ZA": "Aveiro",
+        "sr@latin": "Aveiro",
+        "tt@iqtelif": "Aveiro"
     },
     "02": {
         "af": "Beja",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Beja",
         "zh_Hant_TW": "Beja",
         "zu": "Beja",
-        "zu_ZA": "Beja"
+        "zu_ZA": "Beja",
+        "sr@latin": "Beža",
+        "tt@iqtelif": "Beja"
     },
     "03": {
         "af": "Braga",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Braga",
         "zh_Hant_TW": "Braga",
         "zu": "Braga",
-        "zu_ZA": "Braga"
+        "zu_ZA": "Braga",
+        "sr@latin": "Braga",
+        "tt@iqtelif": "Braga"
     },
     "04": {
         "af": "Bragança",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Bragança",
         "zh_Hant_TW": "Bragança",
         "zu": "Bragança",
-        "zu_ZA": "Bragança"
+        "zu_ZA": "Bragança",
+        "sr@latin": "Bragansa",
+        "tt@iqtelif": "Bragança"
     },
     "05": {
         "af": "Castelo Branco",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Castelo Branco",
         "zh_Hant_TW": "Castelo Branco",
         "zu": "Castelo Branco",
-        "zu_ZA": "Castelo Branco"
+        "zu_ZA": "Castelo Branco",
+        "sr@latin": "Kastelo Branko",
+        "tt@iqtelif": "Castelo Branco"
     },
     "06": {
         "af": "Coimbra",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Coimbra",
         "zh_Hant_TW": "Coimbra",
         "zu": "Coimbra",
-        "zu_ZA": "Coimbra"
+        "zu_ZA": "Coimbra",
+        "sr@latin": "Koimbra",
+        "tt@iqtelif": "Coimbra"
     },
     "07": {
         "af": "Évora",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Évora",
         "zh_Hant_TW": "Évora",
         "zu": "Évora",
-        "zu_ZA": "Évora"
+        "zu_ZA": "Évora",
+        "sr@latin": "Evora",
+        "tt@iqtelif": "Évora"
     },
     "08": {
         "af": "Faro",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Faro",
         "zh_Hant_TW": "Faro",
         "zu": "Faro",
-        "zu_ZA": "Faro"
+        "zu_ZA": "Faro",
+        "sr@latin": "Faro",
+        "tt@iqtelif": "Faro"
     },
     "09": {
         "af": "Guarda",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Guarda",
         "zh_Hant_TW": "Guarda",
         "zu": "Guarda",
-        "zu_ZA": "Guarda"
+        "zu_ZA": "Guarda",
+        "sr@latin": "Gvarda",
+        "tt@iqtelif": "Guarda"
     },
     "10": {
         "af": "Leiria",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Leiria",
         "zh_Hant_TW": "Leiria",
         "zu": "Leiria",
-        "zu_ZA": "Leiria"
+        "zu_ZA": "Leiria",
+        "sr@latin": "Leirja",
+        "tt@iqtelif": "Leiria"
     },
     "11": {
         "af": "Lisboa",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Lisboa",
         "zh_Hant_TW": "Lisboa",
         "zu": "Lisboa",
-        "zu_ZA": "Lisboa"
+        "zu_ZA": "Lisboa",
+        "sr@latin": "Lisabon",
+        "tt@iqtelif": "Lisboa"
     },
     "12": {
         "af": "Portalegre",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Portalegre",
         "zh_Hant_TW": "Portalegre",
         "zu": "Portalegre",
-        "zu_ZA": "Portalegre"
+        "zu_ZA": "Portalegre",
+        "sr@latin": "Porto Alegre",
+        "tt@iqtelif": "Portalegre"
     },
     "13": {
         "af": "Porto",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Porto",
         "zh_Hant_TW": "Porto",
         "zu": "Porto",
-        "zu_ZA": "Porto"
+        "zu_ZA": "Porto",
+        "sr@latin": "Porto",
+        "tt@iqtelif": "Porto"
     },
     "14": {
         "af": "Santarém",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Santarém",
         "zh_Hant_TW": "Santarém",
         "zu": "Santarém",
-        "zu_ZA": "Santarém"
+        "zu_ZA": "Santarém",
+        "sr@latin": "Santarem",
+        "tt@iqtelif": "Santarém"
     },
     "15": {
         "af": "Setúbal",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Setúbal",
         "zh_Hant_TW": "Setúbal",
         "zu": "Setúbal",
-        "zu_ZA": "Setúbal"
+        "zu_ZA": "Setúbal",
+        "sr@latin": "Setúbal",
+        "tt@iqtelif": "Setúbal"
     },
     "16": {
         "af": "Viana do Castelo",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Viana do Castelo",
         "zh_Hant_TW": "Viana do Castelo",
         "zu": "Viana do Castelo",
-        "zu_ZA": "Viana do Castelo"
+        "zu_ZA": "Viana do Castelo",
+        "sr@latin": "Vjana do Kastelo",
+        "tt@iqtelif": "Viana do Castelo"
     },
     "17": {
         "af": "Vila Real",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Vila Real",
         "zh_Hant_TW": "Vila Real",
         "zu": "Vila Real",
-        "zu_ZA": "Vila Real"
+        "zu_ZA": "Vila Real",
+        "sr@latin": "Vila Real",
+        "tt@iqtelif": "Vila Real"
     },
     "18": {
         "af": "Viseu",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Viseu",
         "zh_Hant_TW": "Viseu",
         "zu": "Viseu",
-        "zu_ZA": "Viseu"
+        "zu_ZA": "Viseu",
+        "sr@latin": "Viseu",
+        "tt@iqtelif": "Viseu"
     },
     "20": {
         "af": "Região Autónoma dos Açores",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Região Autónoma dos Açores",
         "zh_Hant_TW": "Região Autónoma dos Açores",
         "zu": "Região Autónoma dos Açores",
-        "zu_ZA": "Região Autónoma dos Açores"
+        "zu_ZA": "Região Autónoma dos Açores",
+        "sr@latin": "Região Autónoma dos Açores",
+        "tt@iqtelif": "Região Autónoma dos Açores"
     },
     "30": {
         "af": "Região Autónoma da Madeira",
@@ -17657,6 +17695,8 @@
         "zh_Hant_MY": "Região Autónoma da Madeira",
         "zh_Hant_TW": "Região Autónoma da Madeira",
         "zu": "Região Autónoma da Madeira",
-        "zu_ZA": "Região Autónoma da Madeira"
+        "zu_ZA": "Região Autónoma da Madeira",
+        "sr@latin": "Região Autónoma da Madeira",
+        "tt@iqtelif": "Região Autónoma da Madeira"
     }
 }

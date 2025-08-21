@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Oslo",
         "zh_Hant_TW": "Oslo",
         "zu": "Oslo",
-        "zu_ZA": "Oslo"
+        "zu_ZA": "Oslo",
+        "sr@latin": "Oslo",
+        "tt@iqtelif": "Oslo"
     },
     "11": {
         "af": "Rogaland",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Rogaland",
         "zh_Hant_TW": "Rogaland",
         "zu": "Rogaland",
-        "zu_ZA": "Rogaland"
+        "zu_ZA": "Rogaland",
+        "sr@latin": "Rogalend",
+        "tt@iqtelif": "Rogaland"
     },
     "15": {
         "af": "Møre og Romsdal",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Møre og Romsdal",
         "zh_Hant_TW": "Møre og Romsdal",
         "zu": "Møre og Romsdal",
-        "zu_ZA": "Møre og Romsdal"
+        "zu_ZA": "Møre og Romsdal",
+        "sr@latin": "Mor og Romsdal",
+        "tt@iqtelif": "Møre og Romsdal"
     },
     "18": {
         "af": "Nordland",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Nordland",
         "zh_Hant_TW": "Nordland",
         "zu": "Nordland",
-        "zu_ZA": "Nordland"
+        "zu_ZA": "Nordland",
+        "sr@latin": "Nordland",
+        "tt@iqtelif": "Nordland"
     },
     "21": {
         "af": "Svalbard (Arctic Region)",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Svalbard (Arctic Region)",
         "zh_Hant_TW": "Svalbard (Arctic Region)",
         "zu": "Svalbard (Arctic Region)",
-        "zu_ZA": "Svalbard (Arctic Region)"
+        "zu_ZA": "Svalbard (Arctic Region)",
+        "sr@latin": "Svalbard (Artička oblast)",
+        "tt@iqtelif": "Svalbard (Arctic Region)"
     },
     "22": {
         "af": "Jan Mayen (Arctic Region)",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Jan Mayen (Arctic Region)",
         "zh_Hant_TW": "Jan Mayen (Arctic Region)",
         "zu": "Jan Mayen (Arctic Region)",
-        "zu_ZA": "Jan Mayen (Arctic Region)"
+        "zu_ZA": "Jan Mayen (Arctic Region)",
+        "sr@latin": "Jan Majen (Arktička oblast)",
+        "tt@iqtelif": "Jan Mayen (Arctic Region)"
     },
     "30": {
         "af": "Viken",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Viken",
         "zh_Hant_TW": "Viken",
         "zu": "Viken",
-        "zu_ZA": "Viken"
+        "zu_ZA": "Viken",
+        "sr@latin": "Viken",
+        "tt@iqtelif": "Viken"
     },
     "34": {
         "af": "Innlandet",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Innlandet",
         "zh_Hant_TW": "Innlandet",
         "zu": "Innlandet",
-        "zu_ZA": "Innlandet"
+        "zu_ZA": "Innlandet",
+        "sr@latin": "Innlandet",
+        "tt@iqtelif": "Innlandet"
     },
     "38": {
         "af": "Vestfold og Telemark",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Vestfold og Telemark",
         "zh_Hant_TW": "Vestfold og Telemark",
         "zu": "Vestfold og Telemark",
-        "zu_ZA": "Vestfold og Telemark"
+        "zu_ZA": "Vestfold og Telemark",
+        "sr@latin": "Vestfold og Telemark",
+        "tt@iqtelif": "Vestfold og Telemark"
     },
     "42": {
         "af": "Agder",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Agder",
         "zh_Hant_TW": "Agder",
         "zu": "Agder",
-        "zu_ZA": "Agder"
+        "zu_ZA": "Agder",
+        "sr@latin": "Agder",
+        "tt@iqtelif": "Agder"
     },
     "46": {
         "af": "Vestland",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Vestland",
         "zh_Hant_TW": "Vestland",
         "zu": "Vestland",
-        "zu_ZA": "Vestland"
+        "zu_ZA": "Vestland",
+        "sr@latin": "Vestland",
+        "tt@iqtelif": "Vestland"
     },
     "50": {
         "af": "Trööndelage",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Trööndelage",
         "zh_Hant_TW": "Trööndelage",
         "zu": "Trööndelage",
-        "zu_ZA": "Trööndelage"
+        "zu_ZA": "Trööndelage",
+        "sr@latin": "Trööndelage",
+        "tt@iqtelif": "Trööndelage"
     },
     "54": {
         "af": "Romssa ja Finnmárkku",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "Romssa ja Finnmárkku",
         "zh_Hant_TW": "Romssa ja Finnmárkku",
         "zu": "Romssa ja Finnmárkku",
-        "zu_ZA": "Romssa ja Finnmárkku"
+        "zu_ZA": "Romssa ja Finnmárkku",
+        "sr@latin": "Romssa ja Finnmárkku",
+        "tt@iqtelif": "Romssa ja Finnmárkku"
     }
 }

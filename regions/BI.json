@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bubanza",
         "zh_Hant_TW": "Bubanza",
         "zu": "Bubanza",
-        "zu_ZA": "Bubanza"
+        "zu_ZA": "Bubanza",
+        "sr@latin": "Bubanca",
+        "tt@iqtelif": "Bubanza"
     },
     "BL": {
         "af": "Bujumbura Rural",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bujumbura Rural",
         "zh_Hant_TW": "Bujumbura Rural",
         "zu": "Bujumbura Rural",
-        "zu_ZA": "Bujumbura Rural"
+        "zu_ZA": "Bujumbura Rural",
+        "sr@latin": "Bužumbura Rural",
+        "tt@iqtelif": "Bujumbura Rural"
     },
     "BM": {
         "af": "Bujumbura Mairie",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Bujumbura Mairie",
         "zh_Hant_TW": "Bujumbura Mairie",
         "zu": "Bujumbura Mairie",
-        "zu_ZA": "Bujumbura Mairie"
+        "zu_ZA": "Bujumbura Mairie",
+        "sr@latin": "Bužumbura Majri",
+        "tt@iqtelif": "Bujumbura Mairie"
     },
     "BR": {
         "af": "Bururi",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Bururi",
         "zh_Hant_TW": "Bururi",
         "zu": "Bururi",
-        "zu_ZA": "Bururi"
+        "zu_ZA": "Bururi",
+        "sr@latin": "Bururi",
+        "tt@iqtelif": "Bururi"
     },
     "CA": {
         "af": "Cankuzo",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Cankuzo",
         "zh_Hant_TW": "Cankuzo",
         "zu": "Cankuzo",
-        "zu_ZA": "Cankuzo"
+        "zu_ZA": "Cankuzo",
+        "sr@latin": "Kankuco",
+        "tt@iqtelif": "Cankuzo"
     },
     "CI": {
         "af": "Cibitoke",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Cibitoke",
         "zh_Hant_TW": "Cibitoke",
         "zu": "Cibitoke",
-        "zu_ZA": "Cibitoke"
+        "zu_ZA": "Cibitoke",
+        "sr@latin": "Ćibitok",
+        "tt@iqtelif": "Cibitoke"
     },
     "GI": {
         "af": "Gitega",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Gitega",
         "zh_Hant_TW": "Gitega",
         "zu": "Gitega",
-        "zu_ZA": "Gitega"
+        "zu_ZA": "Gitega",
+        "sr@latin": "Đitega",
+        "tt@iqtelif": "Gitega"
     },
     "KI": {
         "af": "Kirundo",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kirundo",
         "zh_Hant_TW": "Kirundo",
         "zu": "Kirundo",
-        "zu_ZA": "Kirundo"
+        "zu_ZA": "Kirundo",
+        "sr@latin": "Kirundo",
+        "tt@iqtelif": "Kirundo"
     },
     "KR": {
         "af": "Karuzi",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Karuzi",
         "zh_Hant_TW": "Karuzi",
         "zu": "Karuzi",
-        "zu_ZA": "Karuzi"
+        "zu_ZA": "Karuzi",
+        "sr@latin": "Karuci",
+        "tt@iqtelif": "Karuzi"
     },
     "KY": {
         "af": "Kayanza",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Kayanza",
         "zh_Hant_TW": "Kayanza",
         "zu": "Kayanza",
-        "zu_ZA": "Kayanza"
+        "zu_ZA": "Kayanza",
+        "sr@latin": "Kajanca",
+        "tt@iqtelif": "Kayanza"
     },
     "MA": {
         "af": "Makamba",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Makamba",
         "zh_Hant_TW": "Makamba",
         "zu": "Makamba",
-        "zu_ZA": "Makamba"
+        "zu_ZA": "Makamba",
+        "sr@latin": "Makamba",
+        "tt@iqtelif": "Makamba"
     },
     "MU": {
         "af": "Muramvya",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Muramvya",
         "zh_Hant_TW": "Muramvya",
         "zu": "Muramvya",
-        "zu_ZA": "Muramvya"
+        "zu_ZA": "Muramvya",
+        "sr@latin": "Muravja",
+        "tt@iqtelif": "Muramvya"
     },
     "MW": {
         "af": "Mwaro",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Mwaro",
         "zh_Hant_TW": "Mwaro",
         "zu": "Mwaro",
-        "zu_ZA": "Mwaro"
+        "zu_ZA": "Mwaro",
+        "sr@latin": "Mvaro",
+        "tt@iqtelif": "Mwaro"
     },
     "MY": {
         "af": "Muyinga",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Muyinga",
         "zh_Hant_TW": "Muyinga",
         "zu": "Muyinga",
-        "zu_ZA": "Muyinga"
+        "zu_ZA": "Muyinga",
+        "sr@latin": "Muyinga",
+        "tt@iqtelif": "Muyinga"
     },
     "NG": {
         "af": "Ngozi",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Ngozi",
         "zh_Hant_TW": "Ngozi",
         "zu": "Ngozi",
-        "zu_ZA": "Ngozi"
+        "zu_ZA": "Ngozi",
+        "sr@latin": "Ngoci",
+        "tt@iqtelif": "Ngozi"
     },
     "RM": {
         "af": "Rumonge",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Rumonge",
         "zh_Hant_TW": "Rumonge",
         "zu": "Rumonge",
-        "zu_ZA": "Rumonge"
+        "zu_ZA": "Rumonge",
+        "sr@latin": "Rumonge",
+        "tt@iqtelif": "Rumonge"
     },
     "RT": {
         "af": "Rutana",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Rutana",
         "zh_Hant_TW": "Rutana",
         "zu": "Rutana",
-        "zu_ZA": "Rutana"
+        "zu_ZA": "Rutana",
+        "sr@latin": "Rutana",
+        "tt@iqtelif": "Rutana"
     },
     "RY": {
         "af": "Ruyigi",
@@ -15891,6 +15925,8 @@
         "zh_Hant_MY": "Ruyigi",
         "zh_Hant_TW": "Ruyigi",
         "zu": "Ruyigi",
-        "zu_ZA": "Ruyigi"
+        "zu_ZA": "Ruyigi",
+        "sr@latin": "Rujigi",
+        "tt@iqtelif": "Ruyigi"
     }
 }

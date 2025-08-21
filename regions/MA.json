@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Tanger-Tétouan-Al Hoceïma",
         "zh_Hant_TW": "Tanger-Tétouan-Al Hoceïma",
         "zu": "Tanger-Tétouan-Al Hoceïma",
-        "zu_ZA": "Tanger-Tétouan-Al Hoceïma"
+        "zu_ZA": "Tanger-Tétouan-Al Hoceïma",
+        "sr@latin": "Tanger-Tétouan-Al Hoceïma",
+        "tt@iqtelif": "Tanger-Tétouan-Al Hoceïma"
     },
     "02": {
         "af": "L'Oriental",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "L'Oriental",
         "zh_Hant_TW": "L'Oriental",
         "zu": "L'Oriental",
-        "zu_ZA": "L'Oriental"
+        "zu_ZA": "L'Oriental",
+        "sr@latin": "L'Orjental",
+        "tt@iqtelif": "L'Oriental"
     },
     "03": {
         "af": "Fès-Meknès",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Fès-Meknès",
         "zh_Hant_TW": "Fès-Meknès",
         "zu": "Fès-Meknès",
-        "zu_ZA": "Fès-Meknès"
+        "zu_ZA": "Fès-Meknès",
+        "sr@latin": "Fès-Meknès",
+        "tt@iqtelif": "Fès-Meknès"
     },
     "04": {
         "af": "Rabat-Salé-Kénitra",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Rabat-Salé-Kénitra",
         "zh_Hant_TW": "Rabat-Salé-Kénitra",
         "zu": "Rabat-Salé-Kénitra",
-        "zu_ZA": "Rabat-Salé-Kénitra"
+        "zu_ZA": "Rabat-Salé-Kénitra",
+        "sr@latin": "Rabat-Salé-Kénitra",
+        "tt@iqtelif": "Rabat-Salé-Kénitra"
     },
     "05": {
         "af": "Béni Mellal-Khénifra",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Béni Mellal-Khénifra",
         "zh_Hant_TW": "Béni Mellal-Khénifra",
         "zu": "Béni Mellal-Khénifra",
-        "zu_ZA": "Béni Mellal-Khénifra"
+        "zu_ZA": "Béni Mellal-Khénifra",
+        "sr@latin": "Béni Mellal-Khénifra",
+        "tt@iqtelif": "Béni Mellal-Khénifra"
     },
     "06": {
         "af": "Casablanca-Settat",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Casablanca-Settat",
         "zh_Hant_TW": "Casablanca-Settat",
         "zu": "Casablanca-Settat",
-        "zu_ZA": "Casablanca-Settat"
+        "zu_ZA": "Casablanca-Settat",
+        "sr@latin": "Casablanca-Settat",
+        "tt@iqtelif": "Casablanca-Settat"
     },
     "07": {
         "af": "Marrakech-Safi",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Marrakech-Safi",
         "zh_Hant_TW": "Marrakech-Safi",
         "zu": "Marrakech-Safi",
-        "zu_ZA": "Marrakech-Safi"
+        "zu_ZA": "Marrakech-Safi",
+        "sr@latin": "Marrakech-Safi",
+        "tt@iqtelif": "Marrakech-Safi"
     },
     "08": {
         "af": "Drâa-Tafilalet",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Drâa-Tafilalet",
         "zh_Hant_TW": "Drâa-Tafilalet",
         "zu": "Drâa-Tafilalet",
-        "zu_ZA": "Drâa-Tafilalet"
+        "zu_ZA": "Drâa-Tafilalet",
+        "sr@latin": "Drâa-Tafilalet",
+        "tt@iqtelif": "Drâa-Tafilalet"
     },
     "09": {
         "af": "Souss-Massa",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Souss-Massa",
         "zh_Hant_TW": "Souss-Massa",
         "zu": "Souss-Massa",
-        "zu_ZA": "Souss-Massa"
+        "zu_ZA": "Souss-Massa",
+        "sr@latin": "Souss-Massa",
+        "tt@iqtelif": "Souss-Massa"
     },
     "10": {
         "af": "Guelmim-Oued Noun (EH-partial)",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Guelmim-Oued Noun (EH-partial)",
         "zh_Hant_TW": "Guelmim-Oued Noun (EH-partial)",
         "zu": "Guelmim-Oued Noun (EH-partial)",
-        "zu_ZA": "Guelmim-Oued Noun (EH-partial)"
+        "zu_ZA": "Guelmim-Oued Noun (EH-partial)",
+        "sr@latin": "Guelmim-Oued Noun (EH-partial)",
+        "tt@iqtelif": "Guelmim-Oued Noun (EH-partial)"
     },
     "11": {
         "af": "Laâyoune-Sakia El Hamra (EH-partial)",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Laâyoune-Sakia El Hamra (EH-partial)",
         "zh_Hant_TW": "Laâyoune-Sakia El Hamra (EH-partial)",
         "zu": "Laâyoune-Sakia El Hamra (EH-partial)",
-        "zu_ZA": "Laâyoune-Sakia El Hamra (EH-partial)"
+        "zu_ZA": "Laâyoune-Sakia El Hamra (EH-partial)",
+        "sr@latin": "Laâyoune-Sakia El Hamra (EH-partial)",
+        "tt@iqtelif": "Laâyoune-Sakia El Hamra (EH-partial)"
     },
     "12": {
         "af": "Dakhla-Oued Ed-Dahab (EH)",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Dakhla-Oued Ed-Dahab (EH)",
         "zh_Hant_TW": "Dakhla-Oued Ed-Dahab (EH)",
         "zu": "Dakhla-Oued Ed-Dahab (EH)",
-        "zu_ZA": "Dakhla-Oued Ed-Dahab (EH)"
+        "zu_ZA": "Dakhla-Oued Ed-Dahab (EH)",
+        "sr@latin": "Dakhla-Oued Ed-Dahab (EH)",
+        "tt@iqtelif": "Dakhla-Oued Ed-Dahab (EH)"
     },
     "AGD": {
         "af": "Agadir-Ida-Ou-Tanane",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Agadir-Ida-Ou-Tanane",
         "zh_Hant_TW": "Agadir-Ida-Ou-Tanane",
         "zu": "Agadir-Ida-Ou-Tanane",
-        "zu_ZA": "Agadir-Ida-Ou-Tanane"
+        "zu_ZA": "Agadir-Ida-Ou-Tanane",
+        "sr@latin": "Agadir-Ida-Ou-Tanane",
+        "tt@iqtelif": "Agadir-Ida-Ou-Tanane"
     },
     "AOU": {
         "af": "Aousserd (EH)",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Aousserd (EH)",
         "zh_Hant_TW": "Aousserd (EH)",
         "zu": "Aousserd (EH)",
-        "zu_ZA": "Aousserd (EH)"
+        "zu_ZA": "Aousserd (EH)",
+        "sr@latin": "Aousserd (EH)",
+        "tt@iqtelif": "Aousserd (EH)"
     },
     "ASZ": {
         "af": "Assa-Zag (EH-partial)",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Assa-Zag (EH-partial)",
         "zh_Hant_TW": "Assa-Zag (EH-partial)",
         "zu": "Assa-Zag (EH-partial)",
-        "zu_ZA": "Assa-Zag (EH-partial)"
+        "zu_ZA": "Assa-Zag (EH-partial)",
+        "sr@latin": "Assa-Zag (EH-partial)",
+        "tt@iqtelif": "Assa-Zag (EH-partial)"
     },
     "AZI": {
         "af": "Azilal",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Azilal",
         "zh_Hant_TW": "Azilal",
         "zu": "Azilal",
-        "zu_ZA": "Azilal"
+        "zu_ZA": "Azilal",
+        "sr@latin": "Azilal",
+        "tt@iqtelif": "Azilal"
     },
     "BEM": {
         "af": "Béni Mellal",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Béni Mellal",
         "zh_Hant_TW": "Béni Mellal",
         "zu": "Béni Mellal",
-        "zu_ZA": "Béni Mellal"
+        "zu_ZA": "Béni Mellal",
+        "sr@latin": "Béni Mellal",
+        "tt@iqtelif": "Béni Mellal"
     },
     "BER": {
         "af": "Berkane",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Berkane",
         "zh_Hant_TW": "Berkane",
         "zu": "Berkane",
-        "zu_ZA": "Berkane"
+        "zu_ZA": "Berkane",
+        "sr@latin": "Berkane",
+        "tt@iqtelif": "Berkane"
     },
     "BES": {
         "af": "Benslimane",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Benslimane",
         "zh_Hant_TW": "Benslimane",
         "zu": "Benslimane",
-        "zu_ZA": "Benslimane"
+        "zu_ZA": "Benslimane",
+        "sr@latin": "Benslimane",
+        "tt@iqtelif": "Benslimane"
     },
     "BOD": {
         "af": "Boujdour (EH)",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Boujdour (EH)",
         "zh_Hant_TW": "Boujdour (EH)",
         "zu": "Boujdour (EH)",
-        "zu_ZA": "Boujdour (EH)"
+        "zu_ZA": "Boujdour (EH)",
+        "sr@latin": "Buždur (EH)",
+        "tt@iqtelif": "Boujdour (EH)"
     },
     "BOM": {
         "af": "Boulemane",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Boulemane",
         "zh_Hant_TW": "Boulemane",
         "zu": "Boulemane",
-        "zu_ZA": "Boulemane"
+        "zu_ZA": "Boulemane",
+        "sr@latin": "Bulman",
+        "tt@iqtelif": "Boulemane"
     },
     "BRR": {
         "af": "Berrechid",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Berrechid",
         "zh_Hant_TW": "Berrechid",
         "zu": "Berrechid",
-        "zu_ZA": "Berrechid"
+        "zu_ZA": "Berrechid",
+        "sr@latin": "Berrechid",
+        "tt@iqtelif": "Berrechid"
     },
     "CAS": {
         "af": "Casablanca",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Casablanca",
         "zh_Hant_TW": "Casablanca",
         "zu": "Casablanca",
-        "zu_ZA": "Casablanca"
+        "zu_ZA": "Casablanca",
+        "sr@latin": "Casablanca",
+        "tt@iqtelif": "Casablanca"
     },
     "CHE": {
         "af": "Chefchaouen",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Chefchaouen",
         "zh_Hant_TW": "Chefchaouen",
         "zu": "Chefchaouen",
-        "zu_ZA": "Chefchaouen"
+        "zu_ZA": "Chefchaouen",
+        "sr@latin": "Čefčaun",
+        "tt@iqtelif": "Chefchaouen"
     },
     "CHI": {
         "af": "Chichaoua",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Chichaoua",
         "zh_Hant_TW": "Chichaoua",
         "zu": "Chichaoua",
-        "zu_ZA": "Chichaoua"
+        "zu_ZA": "Chichaoua",
+        "sr@latin": "Čičava",
+        "tt@iqtelif": "Chichaoua"
     },
     "CHT": {
         "af": "Chtouka-Ait Baha",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Chtouka-Ait Baha",
         "zh_Hant_TW": "Chtouka-Ait Baha",
         "zu": "Chtouka-Ait Baha",
-        "zu_ZA": "Chtouka-Ait Baha"
+        "zu_ZA": "Chtouka-Ait Baha",
+        "sr@latin": "Chtouka-Ait Baha",
+        "tt@iqtelif": "Chtouka-Ait Baha"
     },
     "DRI": {
         "af": "Driouch",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Driouch",
         "zh_Hant_TW": "Driouch",
         "zu": "Driouch",
-        "zu_ZA": "Driouch"
+        "zu_ZA": "Driouch",
+        "sr@latin": "Driouch",
+        "tt@iqtelif": "Driouch"
     },
     "ERR": {
         "af": "Errachidia",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Errachidia",
         "zh_Hant_TW": "Errachidia",
         "zu": "Errachidia",
-        "zu_ZA": "Errachidia"
+        "zu_ZA": "Errachidia",
+        "sr@latin": "Erakidija",
+        "tt@iqtelif": "Errachidia"
     },
     "ESI": {
         "af": "Essaouira",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Essaouira",
         "zh_Hant_TW": "Essaouira",
         "zu": "Essaouira",
-        "zu_ZA": "Essaouira"
+        "zu_ZA": "Essaouira",
+        "sr@latin": "Essaouira",
+        "tt@iqtelif": "Essaouira"
     },
     "ESM": {
         "af": "Es-Semara (EH-partial)",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Es-Semara (EH-partial)",
         "zh_Hant_TW": "Es-Semara (EH-partial)",
         "zu": "Es-Semara (EH-partial)",
-        "zu_ZA": "Es-Semara (EH-partial)"
+        "zu_ZA": "Es-Semara (EH-partial)",
+        "sr@latin": "Es-Semara (EH-partial)",
+        "tt@iqtelif": "Es-Semara (EH-partial)"
     },
     "FAH": {
         "af": "Fahs-Anjra",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Fahs-Anjra",
         "zh_Hant_TW": "Fahs-Anjra",
         "zu": "Fahs-Anjra",
-        "zu_ZA": "Fahs-Anjra"
+        "zu_ZA": "Fahs-Anjra",
+        "sr@latin": "Fahs-Anjra",
+        "tt@iqtelif": "Fahs-Anjra"
     },
     "FES": {
         "af": "Fès",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Fès",
         "zh_Hant_TW": "Fès",
         "zu": "Fès",
-        "zu_ZA": "Fès"
+        "zu_ZA": "Fès",
+        "sr@latin": "Fès",
+        "tt@iqtelif": "Fès"
     },
     "FIG": {
         "af": "Figuig",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Figuig",
         "zh_Hant_TW": "Figuig",
         "zu": "Figuig",
-        "zu_ZA": "Figuig"
+        "zu_ZA": "Figuig",
+        "sr@latin": "Figujg",
+        "tt@iqtelif": "Figuig"
     },
     "FQH": {
         "af": "Fquih Ben Salah",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Fquih Ben Salah",
         "zh_Hant_TW": "Fquih Ben Salah",
         "zu": "Fquih Ben Salah",
-        "zu_ZA": "Fquih Ben Salah"
+        "zu_ZA": "Fquih Ben Salah",
+        "sr@latin": "Fquih Ben Salah",
+        "tt@iqtelif": "Fquih Ben Salah"
     },
     "GUE": {
         "af": "Guelmim",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Guelmim",
         "zh_Hant_TW": "Guelmim",
         "zu": "Guelmim",
-        "zu_ZA": "Guelmim"
+        "zu_ZA": "Guelmim",
+        "sr@latin": "Gvelmim",
+        "tt@iqtelif": "Guelmim"
     },
     "GUF": {
         "af": "Guercif",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Guercif",
         "zh_Hant_TW": "Guercif",
         "zu": "Guercif",
-        "zu_ZA": "Guercif"
+        "zu_ZA": "Guercif",
+        "sr@latin": "Guercif",
+        "tt@iqtelif": "Guercif"
     },
     "HAJ": {
         "af": "El Hajeb",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "El Hajeb",
         "zh_Hant_TW": "El Hajeb",
         "zu": "El Hajeb",
-        "zu_ZA": "El Hajeb"
+        "zu_ZA": "El Hajeb",
+        "sr@latin": "El Hajeb",
+        "tt@iqtelif": "El Hajeb"
     },
     "HAO": {
         "af": "Al Haouz",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Al Haouz",
         "zh_Hant_TW": "Al Haouz",
         "zu": "Al Haouz",
-        "zu_ZA": "Al Haouz"
+        "zu_ZA": "Al Haouz",
+        "sr@latin": "Al Haouz",
+        "tt@iqtelif": "Al Haouz"
     },
     "HOC": {
         "af": "Al Hoceïma",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Al Hoceïma",
         "zh_Hant_TW": "Al Hoceïma",
         "zu": "Al Hoceïma",
-        "zu_ZA": "Al Hoceïma"
+        "zu_ZA": "Al Hoceïma",
+        "sr@latin": "Al Hokejma",
+        "tt@iqtelif": "Al Hoceïma"
     },
     "IFR": {
         "af": "Ifrane",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Ifrane",
         "zh_Hant_TW": "Ifrane",
         "zu": "Ifrane",
-        "zu_ZA": "Ifrane"
+        "zu_ZA": "Ifrane",
+        "sr@latin": "Ifran",
+        "tt@iqtelif": "Ifrane"
     },
     "INE": {
         "af": "Inezgane-Ait Melloul",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Inezgane-Ait Melloul",
         "zh_Hant_TW": "Inezgane-Ait Melloul",
         "zu": "Inezgane-Ait Melloul",
-        "zu_ZA": "Inezgane-Ait Melloul"
+        "zu_ZA": "Inezgane-Ait Melloul",
+        "sr@latin": "Inezgane-Ait Melloul",
+        "tt@iqtelif": "Inezgane-Ait Melloul"
     },
     "JDI": {
         "af": "El Jadida",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "El Jadida",
         "zh_Hant_TW": "El Jadida",
         "zu": "El Jadida",
-        "zu_ZA": "El Jadida"
+        "zu_ZA": "El Jadida",
+        "sr@latin": "El Jadida",
+        "tt@iqtelif": "El Jadida"
     },
     "JRA": {
         "af": "Jerada",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Jerada",
         "zh_Hant_TW": "Jerada",
         "zu": "Jerada",
-        "zu_ZA": "Jerada"
+        "zu_ZA": "Jerada",
+        "sr@latin": "Jerada",
+        "tt@iqtelif": "Jerada"
     },
     "KEN": {
         "af": "Kénitra",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Kénitra",
         "zh_Hant_TW": "Kénitra",
         "zu": "Kénitra",
-        "zu_ZA": "Kénitra"
+        "zu_ZA": "Kénitra",
+        "sr@latin": "Kenitra",
+        "tt@iqtelif": "Kénitra"
     },
     "KES": {
         "af": "El Kelâa des Sraghna",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "El Kelâa des Sraghna",
         "zh_Hant_TW": "El Kelâa des Sraghna",
         "zu": "El Kelâa des Sraghna",
-        "zu_ZA": "El Kelâa des Sraghna"
+        "zu_ZA": "El Kelâa des Sraghna",
+        "sr@latin": "El Kelâa des Sraghna",
+        "tt@iqtelif": "El Kelâa des Sraghna"
     },
     "KHE": {
         "af": "Khémisset",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Khémisset",
         "zh_Hant_TW": "Khémisset",
         "zu": "Khémisset",
-        "zu_ZA": "Khémisset"
+        "zu_ZA": "Khémisset",
+        "sr@latin": "Khémisset",
+        "tt@iqtelif": "Khémisset"
     },
     "KHN": {
         "af": "Khénifra",
@@ -41498,7 +41590,9 @@
         "zh_Hant_MY": "Khénifra",
         "zh_Hant_TW": "Khénifra",
         "zu": "Khénifra",
-        "zu_ZA": "Khénifra"
+        "zu_ZA": "Khénifra",
+        "sr@latin": "Khénifra",
+        "tt@iqtelif": "Khénifra"
     },
     "KHO": {
         "af": "Khouribga",
@@ -42381,7 +42475,9 @@
         "zh_Hant_MY": "Khouribga",
         "zh_Hant_TW": "Khouribga",
         "zu": "Khouribga",
-        "zu_ZA": "Khouribga"
+        "zu_ZA": "Khouribga",
+        "sr@latin": "Khouribga",
+        "tt@iqtelif": "Khouribga"
     },
     "LAA": {
         "af": "Laâyoune (EH)",
@@ -43264,7 +43360,9 @@
         "zh_Hant_MY": "Laâyoune (EH)",
         "zh_Hant_TW": "Laâyoune (EH)",
         "zu": "Laâyoune (EH)",
-        "zu_ZA": "Laâyoune (EH)"
+        "zu_ZA": "Laâyoune (EH)",
+        "sr@latin": "Laâyoune (EH)",
+        "tt@iqtelif": "Laâyoune (EH)"
     },
     "LAR": {
         "af": "Larache",
@@ -44147,7 +44245,9 @@
         "zh_Hant_MY": "Larache",
         "zh_Hant_TW": "Larache",
         "zu": "Larache",
-        "zu_ZA": "Larache"
+        "zu_ZA": "Larache",
+        "sr@latin": "Laraš",
+        "tt@iqtelif": "Larache"
     },
     "MAR": {
         "af": "Marrakech",
@@ -45030,7 +45130,9 @@
         "zh_Hant_MY": "Marrakech",
         "zh_Hant_TW": "Marrakech",
         "zu": "Marrakech",
-        "zu_ZA": "Marrakech"
+        "zu_ZA": "Marrakech",
+        "sr@latin": "Marrakech",
+        "tt@iqtelif": "Marrakech"
     },
     "MDF": {
         "af": "M’diq-Fnideq",
@@ -45913,7 +46015,9 @@
         "zh_Hant_MY": "M’diq-Fnideq",
         "zh_Hant_TW": "M’diq-Fnideq",
         "zu": "M’diq-Fnideq",
-        "zu_ZA": "M’diq-Fnideq"
+        "zu_ZA": "M’diq-Fnideq",
+        "sr@latin": "M’diq-Fnideq",
+        "tt@iqtelif": "M’diq-Fnideq"
     },
     "MED": {
         "af": "Médiouna",
@@ -46796,7 +46900,9 @@
         "zh_Hant_MY": "Médiouna",
         "zh_Hant_TW": "Médiouna",
         "zu": "Médiouna",
-        "zu_ZA": "Médiouna"
+        "zu_ZA": "Médiouna",
+        "sr@latin": "Mediuna",
+        "tt@iqtelif": "Médiouna"
     },
     "MEK": {
         "af": "Meknès",
@@ -47679,7 +47785,9 @@
         "zh_Hant_MY": "Meknès",
         "zh_Hant_TW": "Meknès",
         "zu": "Meknès",
-        "zu_ZA": "Meknès"
+        "zu_ZA": "Meknès",
+        "sr@latin": "Meknes",
+        "tt@iqtelif": "Meknès"
     },
     "MID": {
         "af": "Midelt",
@@ -48562,7 +48670,9 @@
         "zh_Hant_MY": "Midelt",
         "zh_Hant_TW": "Midelt",
         "zu": "Midelt",
-        "zu_ZA": "Midelt"
+        "zu_ZA": "Midelt",
+        "sr@latin": "Midelt",
+        "tt@iqtelif": "Midelt"
     },
     "MOH": {
         "af": "Mohammadia",
@@ -49445,7 +49555,9 @@
         "zh_Hant_MY": "Mohammadia",
         "zh_Hant_TW": "Mohammadia",
         "zu": "Mohammadia",
-        "zu_ZA": "Mohammadia"
+        "zu_ZA": "Mohammadia",
+        "sr@latin": "Mohamadija",
+        "tt@iqtelif": "Mohammadia"
     },
     "MOU": {
         "af": "Moulay Yacoub",
@@ -50328,7 +50440,9 @@
         "zh_Hant_MY": "Moulay Yacoub",
         "zh_Hant_TW": "Moulay Yacoub",
         "zu": "Moulay Yacoub",
-        "zu_ZA": "Moulay Yacoub"
+        "zu_ZA": "Moulay Yacoub",
+        "sr@latin": "Mula Jakob",
+        "tt@iqtelif": "Moulay Yacoub"
     },
     "NAD": {
         "af": "Nador",
@@ -51211,7 +51325,9 @@
         "zh_Hant_MY": "Nador",
         "zh_Hant_TW": "Nador",
         "zu": "Nador",
-        "zu_ZA": "Nador"
+        "zu_ZA": "Nador",
+        "sr@latin": "Nador",
+        "tt@iqtelif": "Nador"
     },
     "NOU": {
         "af": "Nouaceur",
@@ -52094,7 +52210,9 @@
         "zh_Hant_MY": "Nouaceur",
         "zh_Hant_TW": "Nouaceur",
         "zu": "Nouaceur",
-        "zu_ZA": "Nouaceur"
+        "zu_ZA": "Nouaceur",
+        "sr@latin": "Nuaser",
+        "tt@iqtelif": "Nouaceur"
     },
     "OUA": {
         "af": "Ouarzazate",
@@ -52977,7 +53095,9 @@
         "zh_Hant_MY": "Ouarzazate",
         "zh_Hant_TW": "Ouarzazate",
         "zu": "Ouarzazate",
-        "zu_ZA": "Ouarzazate"
+        "zu_ZA": "Ouarzazate",
+        "sr@latin": "Uarzazate",
+        "tt@iqtelif": "Ouarzazate"
     },
     "OUD": {
         "af": "Oued Ed-Dahab (EH)",
@@ -53860,7 +53980,9 @@
         "zh_Hant_MY": "Oued Ed-Dahab (EH)",
         "zh_Hant_TW": "Oued Ed-Dahab (EH)",
         "zu": "Oued Ed-Dahab (EH)",
-        "zu_ZA": "Oued Ed-Dahab (EH)"
+        "zu_ZA": "Oued Ed-Dahab (EH)",
+        "sr@latin": "Oued Ed-Dahab (EH)",
+        "tt@iqtelif": "Oued Ed-Dahab (EH)"
     },
     "OUJ": {
         "af": "Oujda-Angad",
@@ -54743,7 +54865,9 @@
         "zh_Hant_MY": "Oujda-Angad",
         "zh_Hant_TW": "Oujda-Angad",
         "zu": "Oujda-Angad",
-        "zu_ZA": "Oujda-Angad"
+        "zu_ZA": "Oujda-Angad",
+        "sr@latin": "Udžda-Angad",
+        "tt@iqtelif": "Oujda-Angad"
     },
     "OUZ": {
         "af": "Ouezzane",
@@ -55626,7 +55750,9 @@
         "zh_Hant_MY": "Ouezzane",
         "zh_Hant_TW": "Ouezzane",
         "zu": "Ouezzane",
-        "zu_ZA": "Ouezzane"
+        "zu_ZA": "Ouezzane",
+        "sr@latin": "Ouezzane",
+        "tt@iqtelif": "Ouezzane"
     },
     "RAB": {
         "af": "Rabat",
@@ -56509,7 +56635,9 @@
         "zh_Hant_MY": "Rabat",
         "zh_Hant_TW": "Rabat",
         "zu": "Rabat",
-        "zu_ZA": "Rabat"
+        "zu_ZA": "Rabat",
+        "sr@latin": "Rabat",
+        "tt@iqtelif": "Rabat"
     },
     "REH": {
         "af": "Rehamna",
@@ -57392,7 +57520,9 @@
         "zh_Hant_MY": "Rehamna",
         "zh_Hant_TW": "Rehamna",
         "zu": "Rehamna",
-        "zu_ZA": "Rehamna"
+        "zu_ZA": "Rehamna",
+        "sr@latin": "Rehamna",
+        "tt@iqtelif": "Rehamna"
     },
     "SAF": {
         "af": "Safi",
@@ -58275,7 +58405,9 @@
         "zh_Hant_MY": "Safi",
         "zh_Hant_TW": "Safi",
         "zu": "Safi",
-        "zu_ZA": "Safi"
+        "zu_ZA": "Safi",
+        "sr@latin": "Safi",
+        "tt@iqtelif": "Safi"
     },
     "SAL": {
         "af": "Salé",
@@ -59158,7 +59290,9 @@
         "zh_Hant_MY": "Salé",
         "zh_Hant_TW": "Salé",
         "zu": "Salé",
-        "zu_ZA": "Salé"
+        "zu_ZA": "Salé",
+        "sr@latin": "Sale",
+        "tt@iqtelif": "Salé"
     },
     "SEF": {
         "af": "Sefrou",
@@ -60041,7 +60175,9 @@
         "zh_Hant_MY": "Sefrou",
         "zh_Hant_TW": "Sefrou",
         "zu": "Sefrou",
-        "zu_ZA": "Sefrou"
+        "zu_ZA": "Sefrou",
+        "sr@latin": "Sefrou",
+        "tt@iqtelif": "Sefrou"
     },
     "SET": {
         "af": "Settat",
@@ -60924,7 +61060,9 @@
         "zh_Hant_MY": "Settat",
         "zh_Hant_TW": "Settat",
         "zu": "Settat",
-        "zu_ZA": "Settat"
+        "zu_ZA": "Settat",
+        "sr@latin": "Setat",
+        "tt@iqtelif": "Settat"
     },
     "SIB": {
         "af": "Sidi Bennour",
@@ -61807,7 +61945,9 @@
         "zh_Hant_MY": "Sidi Bennour",
         "zh_Hant_TW": "Sidi Bennour",
         "zu": "Sidi Bennour",
-        "zu_ZA": "Sidi Bennour"
+        "zu_ZA": "Sidi Bennour",
+        "sr@latin": "Sidi Bennour",
+        "tt@iqtelif": "Sidi Bennour"
     },
     "SIF": {
         "af": "Sidi Ifni",
@@ -62690,7 +62830,9 @@
         "zh_Hant_MY": "Sidi Ifni",
         "zh_Hant_TW": "Sidi Ifni",
         "zu": "Sidi Ifni",
-        "zu_ZA": "Sidi Ifni"
+        "zu_ZA": "Sidi Ifni",
+        "sr@latin": "Sidi Ifni",
+        "tt@iqtelif": "Sidi Ifni"
     },
     "SIK": {
         "af": "Sidi Kacem",
@@ -63573,7 +63715,9 @@
         "zh_Hant_MY": "Sidi Kacem",
         "zh_Hant_TW": "Sidi Kacem",
         "zu": "Sidi Kacem",
-        "zu_ZA": "Sidi Kacem"
+        "zu_ZA": "Sidi Kacem",
+        "sr@latin": "Sidi Kacem",
+        "tt@iqtelif": "Sidi Kacem"
     },
     "SIL": {
         "af": "Sidi Slimane",
@@ -64456,7 +64600,9 @@
         "zh_Hant_MY": "Sidi Slimane",
         "zh_Hant_TW": "Sidi Slimane",
         "zu": "Sidi Slimane",
-        "zu_ZA": "Sidi Slimane"
+        "zu_ZA": "Sidi Slimane",
+        "sr@latin": "Sidi Slimane",
+        "tt@iqtelif": "Sidi Slimane"
     },
     "SKH": {
         "af": "Skhirate-Témara",
@@ -65339,7 +65485,9 @@
         "zh_Hant_MY": "Skhirate-Témara",
         "zh_Hant_TW": "Skhirate-Témara",
         "zu": "Skhirate-Témara",
-        "zu_ZA": "Skhirate-Témara"
+        "zu_ZA": "Skhirate-Témara",
+        "sr@latin": "Skhirate-Témara",
+        "tt@iqtelif": "Skhirate-Témara"
     },
     "TAF": {
         "af": "Tarfaya (EH-partial)",
@@ -66222,7 +66370,9 @@
         "zh_Hant_MY": "Tarfaya (EH-partial)",
         "zh_Hant_TW": "Tarfaya (EH-partial)",
         "zu": "Tarfaya (EH-partial)",
-        "zu_ZA": "Tarfaya (EH-partial)"
+        "zu_ZA": "Tarfaya (EH-partial)",
+        "sr@latin": "Tarfaya (EH-partial)",
+        "tt@iqtelif": "Tarfaya (EH-partial)"
     },
     "TAI": {
         "af": "Taourirt",
@@ -67105,7 +67255,9 @@
         "zh_Hant_MY": "Taourirt",
         "zh_Hant_TW": "Taourirt",
         "zu": "Taourirt",
-        "zu_ZA": "Taourirt"
+        "zu_ZA": "Taourirt",
+        "sr@latin": "Taourirt",
+        "tt@iqtelif": "Taourirt"
     },
     "TAO": {
         "af": "Taounate",
@@ -67988,7 +68140,9 @@
         "zh_Hant_MY": "Taounate",
         "zh_Hant_TW": "Taounate",
         "zu": "Taounate",
-        "zu_ZA": "Taounate"
+        "zu_ZA": "Taounate",
+        "sr@latin": "Taounate",
+        "tt@iqtelif": "Taounate"
     },
     "TAR": {
         "af": "Taroudannt",
@@ -68871,7 +69025,9 @@
         "zh_Hant_MY": "Taroudannt",
         "zh_Hant_TW": "Taroudannt",
         "zu": "Taroudannt",
-        "zu_ZA": "Taroudannt"
+        "zu_ZA": "Taroudannt",
+        "sr@latin": "Taroudannt",
+        "tt@iqtelif": "Taroudannt"
     },
     "TAT": {
         "af": "Tata",
@@ -69754,7 +69910,9 @@
         "zh_Hant_MY": "Tata",
         "zh_Hant_TW": "Tata",
         "zu": "Tata",
-        "zu_ZA": "Tata"
+        "zu_ZA": "Tata",
+        "sr@latin": "Tata",
+        "tt@iqtelif": "Tata"
     },
     "TAZ": {
         "af": "Taza",
@@ -70637,7 +70795,9 @@
         "zh_Hant_MY": "Taza",
         "zh_Hant_TW": "Taza",
         "zu": "Taza",
-        "zu_ZA": "Taza"
+        "zu_ZA": "Taza",
+        "sr@latin": "Taza",
+        "tt@iqtelif": "Taza"
     },
     "TET": {
         "af": "Tétouan",
@@ -71520,7 +71680,9 @@
         "zh_Hant_MY": "Tétouan",
         "zh_Hant_TW": "Tétouan",
         "zu": "Tétouan",
-        "zu_ZA": "Tétouan"
+        "zu_ZA": "Tétouan",
+        "sr@latin": "Tetuan",
+        "tt@iqtelif": "Tétouan"
     },
     "TIN": {
         "af": "Tinghir",
@@ -72403,7 +72565,9 @@
         "zh_Hant_MY": "Tinghir",
         "zh_Hant_TW": "Tinghir",
         "zu": "Tinghir",
-        "zu_ZA": "Tinghir"
+        "zu_ZA": "Tinghir",
+        "sr@latin": "Tinghir",
+        "tt@iqtelif": "Tinghir"
     },
     "TIZ": {
         "af": "Tiznit",
@@ -73286,7 +73450,9 @@
         "zh_Hant_MY": "Tiznit",
         "zh_Hant_TW": "Tiznit",
         "zu": "Tiznit",
-        "zu_ZA": "Tiznit"
+        "zu_ZA": "Tiznit",
+        "sr@latin": "Tiznit",
+        "tt@iqtelif": "Tiznit"
     },
     "TNG": {
         "af": "Tanger-Assilah",
@@ -74169,7 +74335,9 @@
         "zh_Hant_MY": "Tanger-Assilah",
         "zh_Hant_TW": "Tanger-Assilah",
         "zu": "Tanger-Assilah",
-        "zu_ZA": "Tanger-Assilah"
+        "zu_ZA": "Tanger-Assilah",
+        "sr@latin": "Tanger-Assilah",
+        "tt@iqtelif": "Tanger-Assilah"
     },
     "TNT": {
         "af": "Tan-Tan (EH-partial)",
@@ -75052,7 +75220,9 @@
         "zh_Hant_MY": "Tan-Tan (EH-partial)",
         "zh_Hant_TW": "Tan-Tan (EH-partial)",
         "zu": "Tan-Tan (EH-partial)",
-        "zu_ZA": "Tan-Tan (EH-partial)"
+        "zu_ZA": "Tan-Tan (EH-partial)",
+        "sr@latin": "Tan-Tan (EH-partial)",
+        "tt@iqtelif": "Tan-Tan (EH-partial)"
     },
     "YUS": {
         "af": "Youssoufia",
@@ -75935,7 +76105,9 @@
         "zh_Hant_MY": "Youssoufia",
         "zh_Hant_TW": "Youssoufia",
         "zu": "Youssoufia",
-        "zu_ZA": "Youssoufia"
+        "zu_ZA": "Youssoufia",
+        "sr@latin": "Youssoufia",
+        "tt@iqtelif": "Youssoufia"
     },
     "ZAG": {
         "af": "Zagora",
@@ -76818,6 +76990,8 @@
         "zh_Hant_MY": "Zagora",
         "zh_Hant_TW": "Zagora",
         "zu": "Zagora",
-        "zu_ZA": "Zagora"
+        "zu_ZA": "Zagora",
+        "sr@latin": "Zagora",
+        "tt@iqtelif": "Zagora"
     }
 }

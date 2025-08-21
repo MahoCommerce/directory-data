@@ -880,7 +880,9 @@
         "zh_Hant_MY": "'Eua",
         "zh_Hant_TW": "'Eua",
         "zu": "'Eua",
-        "zu_ZA": "'Eua"
+        "zu_ZA": "'Eua",
+        "sr@latin": "Eva",
+        "tt@iqtelif": "'Eua"
     },
     "02": {
         "af": "Ha'apai",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ha'apai",
         "zh_Hant_TW": "Ha'apai",
         "zu": "Ha'apai",
-        "zu_ZA": "Ha'apai"
+        "zu_ZA": "Ha'apai",
+        "sr@latin": "Ha'apai",
+        "tt@iqtelif": "Ha'apai"
     },
     "03": {
         "af": "Niuas",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Niuas",
         "zh_Hant_TW": "Niuas",
         "zu": "Niuas",
-        "zu_ZA": "Niuas"
+        "zu_ZA": "Niuas",
+        "sr@latin": "Niuas",
+        "tt@iqtelif": "Niuas"
     },
     "04": {
         "af": "Tongatapu",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Tongatapu",
         "zh_Hant_TW": "Tongatapu",
         "zu": "Tongatapu",
-        "zu_ZA": "Tongatapu"
+        "zu_ZA": "Tongatapu",
+        "sr@latin": "Tongatapu",
+        "tt@iqtelif": "Tongatapu"
     },
     "05": {
         "af": "Vava'u",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Vava'u",
         "zh_Hant_TW": "Vava'u",
         "zu": "Vava'u",
-        "zu_ZA": "Vava'u"
+        "zu_ZA": "Vava'u",
+        "sr@latin": "Vavau",
+        "tt@iqtelif": "Vava'u"
     }
 }

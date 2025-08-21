@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Markazī",
         "zh_Hant_TW": "Markazī",
         "zu": "Markazī",
-        "zu_ZA": "Markazī"
+        "zu_ZA": "Markazī",
+        "sr@latin": "Markazī",
+        "tt@iqtelif": "Markazī"
     },
     "01": {
         "af": "Gīlān",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Gīlān",
         "zh_Hant_TW": "Gīlān",
         "zu": "Gīlān",
-        "zu_ZA": "Gīlān"
+        "zu_ZA": "Gīlān",
+        "sr@latin": "Gilan",
+        "tt@iqtelif": "Gīlān"
     },
     "02": {
         "af": "Māzandarān",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Māzandarān",
         "zh_Hant_TW": "Māzandarān",
         "zu": "Māzandarān",
-        "zu_ZA": "Māzandarān"
+        "zu_ZA": "Māzandarān",
+        "sr@latin": "Māzandarān",
+        "tt@iqtelif": "Māzandarān"
     },
     "03": {
         "af": "Āz̄ārbāyjān-e Shārqī",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Āz̄ārbāyjān-e Shārqī",
         "zh_Hant_TW": "Āz̄ārbāyjān-e Shārqī",
         "zu": "Āz̄ārbāyjān-e Shārqī",
-        "zu_ZA": "Āz̄ārbāyjān-e Shārqī"
+        "zu_ZA": "Āz̄ārbāyjān-e Shārqī",
+        "sr@latin": "Āz̄ārbāyjān-e Shārqī",
+        "tt@iqtelif": "Āz̄ārbāyjān-e Shārqī"
     },
     "04": {
         "af": "Āz̄ārbāyjān-e Ghārbī",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Āz̄ārbāyjān-e Ghārbī",
         "zh_Hant_TW": "Āz̄ārbāyjān-e Ghārbī",
         "zu": "Āz̄ārbāyjān-e Ghārbī",
-        "zu_ZA": "Āz̄ārbāyjān-e Ghārbī"
+        "zu_ZA": "Āz̄ārbāyjān-e Ghārbī",
+        "sr@latin": "Āz̄ārbāyjān-e Ghārbī",
+        "tt@iqtelif": "Āz̄ārbāyjān-e Ghārbī"
     },
     "05": {
         "af": "Kermānshāh",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Kermānshāh",
         "zh_Hant_TW": "Kermānshāh",
         "zu": "Kermānshāh",
-        "zu_ZA": "Kermānshāh"
+        "zu_ZA": "Kermānshāh",
+        "sr@latin": "Kermanšah",
+        "tt@iqtelif": "Kermānshāh"
     },
     "06": {
         "af": "Khūzestān",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Khūzestān",
         "zh_Hant_TW": "Khūzestān",
         "zu": "Khūzestān",
-        "zu_ZA": "Khūzestān"
+        "zu_ZA": "Khūzestān",
+        "sr@latin": "Kuzestan",
+        "tt@iqtelif": "Khūzestān"
     },
     "07": {
         "af": "Fārs",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Fārs",
         "zh_Hant_TW": "Fārs",
         "zu": "Fārs",
-        "zu_ZA": "Fārs"
+        "zu_ZA": "Fārs",
+        "sr@latin": "Fars",
+        "tt@iqtelif": "Fārs"
     },
     "08": {
         "af": "Kermān",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kermān",
         "zh_Hant_TW": "Kermān",
         "zu": "Kermān",
-        "zu_ZA": "Kermān"
+        "zu_ZA": "Kermān",
+        "sr@latin": "Kerman",
+        "tt@iqtelif": "Kermān"
     },
     "09": {
         "af": "Khorāsān-e Raẕavī",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Khorāsān-e Raẕavī",
         "zh_Hant_TW": "Khorāsān-e Raẕavī",
         "zu": "Khorāsān-e Raẕavī",
-        "zu_ZA": "Khorāsān-e Raẕavī"
+        "zu_ZA": "Khorāsān-e Raẕavī",
+        "sr@latin": "Khorāsān-e Raẕavī",
+        "tt@iqtelif": "Khorāsān-e Raẕavī"
     },
     "10": {
         "af": "Eşfahān",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Eşfahān",
         "zh_Hant_TW": "Eşfahān",
         "zu": "Eşfahān",
-        "zu_ZA": "Eşfahān"
+        "zu_ZA": "Eşfahān",
+        "sr@latin": "Ešfahan",
+        "tt@iqtelif": "Eşfahān"
     },
     "11": {
         "af": "Sīstān va Balūchestān",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Sīstān va Balūchestān",
         "zh_Hant_TW": "Sīstān va Balūchestān",
         "zu": "Sīstān va Balūchestān",
-        "zu_ZA": "Sīstān va Balūchestān"
+        "zu_ZA": "Sīstān va Balūchestān",
+        "sr@latin": "Sīstān va Balūchestān",
+        "tt@iqtelif": "Sīstān va Balūchestān"
     },
     "12": {
         "af": "Kordestān",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Kordestān",
         "zh_Hant_TW": "Kordestān",
         "zu": "Kordestān",
-        "zu_ZA": "Kordestān"
+        "zu_ZA": "Kordestān",
+        "sr@latin": "Kordestan",
+        "tt@iqtelif": "Kordestān"
     },
     "13": {
         "af": "Hamadān",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Hamadān",
         "zh_Hant_TW": "Hamadān",
         "zu": "Hamadān",
-        "zu_ZA": "Hamadān"
+        "zu_ZA": "Hamadān",
+        "sr@latin": "Hamadan",
+        "tt@iqtelif": "Hamadān"
     },
     "14": {
         "af": "Chahār Maḩāl va Bakhtīārī",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Chahār Maḩāl va Bakhtīārī",
         "zh_Hant_TW": "Chahār Maḩāl va Bakhtīārī",
         "zu": "Chahār Maḩāl va Bakhtīārī",
-        "zu_ZA": "Chahār Maḩāl va Bakhtīārī"
+        "zu_ZA": "Chahār Maḩāl va Bakhtīārī",
+        "sr@latin": "Chahār Maḩāl va Bakhtīārī",
+        "tt@iqtelif": "Chahār Maḩāl va Bakhtīārī"
     },
     "15": {
         "af": "Lorestān",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Lorestān",
         "zh_Hant_TW": "Lorestān",
         "zu": "Lorestān",
-        "zu_ZA": "Lorestān"
+        "zu_ZA": "Lorestān",
+        "sr@latin": "Lorestan",
+        "tt@iqtelif": "Lorestān"
     },
     "16": {
         "af": "Īlām",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Īlām",
         "zh_Hant_TW": "Īlām",
         "zu": "Īlām",
-        "zu_ZA": "Īlām"
+        "zu_ZA": "Īlām",
+        "sr@latin": "Īlām",
+        "tt@iqtelif": "Īlām"
     },
     "17": {
         "af": "Kohgīlūyeh va Bowyer Aḩmad",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Kohgīlūyeh va Bowyer Aḩmad",
         "zh_Hant_TW": "Kohgīlūyeh va Bowyer Aḩmad",
         "zu": "Kohgīlūyeh va Bowyer Aḩmad",
-        "zu_ZA": "Kohgīlūyeh va Bowyer Aḩmad"
+        "zu_ZA": "Kohgīlūyeh va Bowyer Aḩmad",
+        "sr@latin": "Kohgīlūyeh va Bowyer Aḩmad",
+        "tt@iqtelif": "Kohgīlūyeh va Bowyer Aḩmad"
     },
     "18": {
         "af": "Būshehr",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Būshehr",
         "zh_Hant_TW": "Būshehr",
         "zu": "Būshehr",
-        "zu_ZA": "Būshehr"
+        "zu_ZA": "Būshehr",
+        "sr@latin": "Būshehr",
+        "tt@iqtelif": "Būshehr"
     },
     "19": {
         "af": "Zanjān",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Zanjān",
         "zh_Hant_TW": "Zanjān",
         "zu": "Zanjān",
-        "zu_ZA": "Zanjān"
+        "zu_ZA": "Zanjān",
+        "sr@latin": "Zanjān",
+        "tt@iqtelif": "Zanjān"
     },
     "20": {
         "af": "Semnān",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Semnān",
         "zh_Hant_TW": "Semnān",
         "zu": "Semnān",
-        "zu_ZA": "Semnān"
+        "zu_ZA": "Semnān",
+        "sr@latin": "Semnan",
+        "tt@iqtelif": "Semnān"
     },
     "21": {
         "af": "Yazd",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Yazd",
         "zh_Hant_TW": "Yazd",
         "zu": "Yazd",
-        "zu_ZA": "Yazd"
+        "zu_ZA": "Yazd",
+        "sr@latin": "Jazd",
+        "tt@iqtelif": "Yazd"
     },
     "22": {
         "af": "Hormozgān",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Hormozgān",
         "zh_Hant_TW": "Hormozgān",
         "zu": "Hormozgān",
-        "zu_ZA": "Hormozgān"
+        "zu_ZA": "Hormozgān",
+        "sr@latin": "Hormozgan",
+        "tt@iqtelif": "Hormozgān"
     },
     "23": {
         "af": "Tehrān",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Tehrān",
         "zh_Hant_TW": "Tehrān",
         "zu": "Tehrān",
-        "zu_ZA": "Tehrān"
+        "zu_ZA": "Tehrān",
+        "sr@latin": "Teheran",
+        "tt@iqtelif": "Tehrān"
     },
     "24": {
         "af": "Ardabīl",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Ardabīl",
         "zh_Hant_TW": "Ardabīl",
         "zu": "Ardabīl",
-        "zu_ZA": "Ardabīl"
+        "zu_ZA": "Ardabīl",
+        "sr@latin": "Ardabil",
+        "tt@iqtelif": "Ardabīl"
     },
     "25": {
         "af": "Qom",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Qom",
         "zh_Hant_TW": "Qom",
         "zu": "Qom",
-        "zu_ZA": "Qom"
+        "zu_ZA": "Qom",
+        "sr@latin": "Kom",
+        "tt@iqtelif": "Qom"
     },
     "26": {
         "af": "Qazvīn",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Qazvīn",
         "zh_Hant_TW": "Qazvīn",
         "zu": "Qazvīn",
-        "zu_ZA": "Qazvīn"
+        "zu_ZA": "Qazvīn",
+        "sr@latin": "Gazvin",
+        "tt@iqtelif": "Qazvīn"
     },
     "27": {
         "af": "Golestān",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Golestān",
         "zh_Hant_TW": "Golestān",
         "zu": "Golestān",
-        "zu_ZA": "Golestān"
+        "zu_ZA": "Golestān",
+        "sr@latin": "Golestan",
+        "tt@iqtelif": "Golestān"
     },
     "28": {
         "af": "Khorāsān-e Shomālī",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Khorāsān-e Shomālī",
         "zh_Hant_TW": "Khorāsān-e Shomālī",
         "zu": "Khorāsān-e Shomālī",
-        "zu_ZA": "Khorāsān-e Shomālī"
+        "zu_ZA": "Khorāsān-e Shomālī",
+        "sr@latin": "Khorāsān-e Shomālī",
+        "tt@iqtelif": "Khorāsān-e Shomālī"
     },
     "29": {
         "af": "Khorāsān-e Jonūbī",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Khorāsān-e Jonūbī",
         "zh_Hant_TW": "Khorāsān-e Jonūbī",
         "zu": "Khorāsān-e Jonūbī",
-        "zu_ZA": "Khorāsān-e Jonūbī"
+        "zu_ZA": "Khorāsān-e Jonūbī",
+        "sr@latin": "Khorāsān-e Jonūbī",
+        "tt@iqtelif": "Khorāsān-e Jonūbī"
     },
     "30": {
         "af": "Alborz",
@@ -27370,6 +27430,8 @@
         "zh_Hant_MY": "Alborz",
         "zh_Hant_TW": "Alborz",
         "zu": "Alborz",
-        "zu_ZA": "Alborz"
+        "zu_ZA": "Alborz",
+        "sr@latin": "Alborz",
+        "tt@iqtelif": "Alborz"
     }
 }

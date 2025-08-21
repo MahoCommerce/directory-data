@@ -880,7 +880,9 @@
         "zh_Hant_MY": "City of Kigali",
         "zh_Hant_TW": "City of Kigali",
         "zu": "City of Kigali",
-        "zu_ZA": "City of Kigali"
+        "zu_ZA": "City of Kigali",
+        "sr@latin": "City of Kigali",
+        "tt@iqtelif": "City of Kigali"
     },
     "02": {
         "af": "Eastern",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Eastern",
         "zh_Hant_TW": "Eastern",
         "zu": "Eastern",
-        "zu_ZA": "Eastern"
+        "zu_ZA": "Eastern",
+        "sr@latin": "Eastern",
+        "tt@iqtelif": "Eastern"
     },
     "03": {
         "af": "Northern",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern"
+        "zu_ZA": "Northern",
+        "sr@latin": "Northern",
+        "tt@iqtelif": "Northern"
     },
     "04": {
         "af": "Western",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western"
+        "zu_ZA": "Western",
+        "sr@latin": "Western",
+        "tt@iqtelif": "Western"
     },
     "05": {
         "af": "Southern",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Southern",
         "zh_Hant_TW": "Southern",
         "zu": "Southern",
-        "zu_ZA": "Southern"
+        "zu_ZA": "Southern",
+        "sr@latin": "Sautern",
+        "tt@iqtelif": "Southern"
     }
 }

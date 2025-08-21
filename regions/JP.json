@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Hokkaido",
         "zh_Hant_TW": "Hokkaido",
         "zu": "Hokkaido",
-        "zu_ZA": "Hokkaido"
+        "zu_ZA": "Hokkaido",
+        "sr@latin": "Hokaido",
+        "tt@iqtelif": "Hokkaido"
     },
     "02": {
         "af": "Aomori",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Aomori",
         "zh_Hant_TW": "Aomori",
         "zu": "Aomori",
-        "zu_ZA": "Aomori"
+        "zu_ZA": "Aomori",
+        "sr@latin": "Aomori",
+        "tt@iqtelif": "Aomori"
     },
     "03": {
         "af": "Iwate",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Iwate",
         "zh_Hant_TW": "Iwate",
         "zu": "Iwate",
-        "zu_ZA": "Iwate"
+        "zu_ZA": "Iwate",
+        "sr@latin": "Ivate",
+        "tt@iqtelif": "Iwate"
     },
     "04": {
         "af": "Miyagi",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Miyagi",
         "zh_Hant_TW": "Miyagi",
         "zu": "Miyagi",
-        "zu_ZA": "Miyagi"
+        "zu_ZA": "Miyagi",
+        "sr@latin": "Mijagi",
+        "tt@iqtelif": "Miyagi"
     },
     "05": {
         "af": "Akita",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Akita",
         "zh_Hant_TW": "Akita",
         "zu": "Akita",
-        "zu_ZA": "Akita"
+        "zu_ZA": "Akita",
+        "sr@latin": "Akita",
+        "tt@iqtelif": "Akita"
     },
     "06": {
         "af": "Yamagata",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Yamagata",
         "zh_Hant_TW": "Yamagata",
         "zu": "Yamagata",
-        "zu_ZA": "Yamagata"
+        "zu_ZA": "Yamagata",
+        "sr@latin": "Jamagata",
+        "tt@iqtelif": "Yamagata"
     },
     "07": {
         "af": "Fukushima",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Fukushima",
         "zh_Hant_TW": "Fukushima",
         "zu": "Fukushima",
-        "zu_ZA": "Fukushima"
+        "zu_ZA": "Fukushima",
+        "sr@latin": "Fukušima",
+        "tt@iqtelif": "Fukushima"
     },
     "08": {
         "af": "Ibaraki",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Ibaraki",
         "zh_Hant_TW": "Ibaraki",
         "zu": "Ibaraki",
-        "zu_ZA": "Ibaraki"
+        "zu_ZA": "Ibaraki",
+        "sr@latin": "Ibaraki",
+        "tt@iqtelif": "Ibaraki"
     },
     "09": {
         "af": "Tochigi",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Tochigi",
         "zh_Hant_TW": "Tochigi",
         "zu": "Tochigi",
-        "zu_ZA": "Tochigi"
+        "zu_ZA": "Tochigi",
+        "sr@latin": "Točigi",
+        "tt@iqtelif": "Tochigi"
     },
     "10": {
         "af": "Gunma",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Gunma",
         "zh_Hant_TW": "Gunma",
         "zu": "Gunma",
-        "zu_ZA": "Gunma"
+        "zu_ZA": "Gunma",
+        "sr@latin": "Gunma",
+        "tt@iqtelif": "Gunma"
     },
     "11": {
         "af": "Saitama",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Saitama",
         "zh_Hant_TW": "Saitama",
         "zu": "Saitama",
-        "zu_ZA": "Saitama"
+        "zu_ZA": "Saitama",
+        "sr@latin": "Saitama",
+        "tt@iqtelif": "Saitama"
     },
     "12": {
         "af": "Chiba",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Chiba",
         "zh_Hant_TW": "Chiba",
         "zu": "Chiba",
-        "zu_ZA": "Chiba"
+        "zu_ZA": "Chiba",
+        "sr@latin": "Čiba",
+        "tt@iqtelif": "Chiba"
     },
     "13": {
         "af": "Tokyo",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Tokyo",
         "zh_Hant_TW": "Tokyo",
         "zu": "Tokyo",
-        "zu_ZA": "Tokyo"
+        "zu_ZA": "Tokyo",
+        "sr@latin": "Tokio",
+        "tt@iqtelif": "Tokyo"
     },
     "14": {
         "af": "Kanagawa",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Kanagawa",
         "zh_Hant_TW": "Kanagawa",
         "zu": "Kanagawa",
-        "zu_ZA": "Kanagawa"
+        "zu_ZA": "Kanagawa",
+        "sr@latin": "Kanagava",
+        "tt@iqtelif": "Kanagawa"
     },
     "15": {
         "af": "Niigata",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Niigata",
         "zh_Hant_TW": "Niigata",
         "zu": "Niigata",
-        "zu_ZA": "Niigata"
+        "zu_ZA": "Niigata",
+        "sr@latin": "Nigata",
+        "tt@iqtelif": "Niigata"
     },
     "16": {
         "af": "Toyama",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Toyama",
         "zh_Hant_TW": "Toyama",
         "zu": "Toyama",
-        "zu_ZA": "Toyama"
+        "zu_ZA": "Toyama",
+        "sr@latin": "Tojama",
+        "tt@iqtelif": "Toyama"
     },
     "17": {
         "af": "Ishikawa",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Ishikawa",
         "zh_Hant_TW": "Ishikawa",
         "zu": "Ishikawa",
-        "zu_ZA": "Ishikawa"
+        "zu_ZA": "Ishikawa",
+        "sr@latin": "Išikava",
+        "tt@iqtelif": "Ishikawa"
     },
     "18": {
         "af": "Fukui",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Fukui",
         "zh_Hant_TW": "Fukui",
         "zu": "Fukui",
-        "zu_ZA": "Fukui"
+        "zu_ZA": "Fukui",
+        "sr@latin": "Fukui",
+        "tt@iqtelif": "Fukui"
     },
     "19": {
         "af": "Yamanashi",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Yamanashi",
         "zh_Hant_TW": "Yamanashi",
         "zu": "Yamanashi",
-        "zu_ZA": "Yamanashi"
+        "zu_ZA": "Yamanashi",
+        "sr@latin": "Jamanaši",
+        "tt@iqtelif": "Yamanashi"
     },
     "20": {
         "af": "Nagano",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Nagano",
         "zh_Hant_TW": "Nagano",
         "zu": "Nagano",
-        "zu_ZA": "Nagano"
+        "zu_ZA": "Nagano",
+        "sr@latin": "Nagano",
+        "tt@iqtelif": "Nagano"
     },
     "21": {
         "af": "Gifu",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Gifu",
         "zh_Hant_TW": "Gifu",
         "zu": "Gifu",
-        "zu_ZA": "Gifu"
+        "zu_ZA": "Gifu",
+        "sr@latin": "Gifu",
+        "tt@iqtelif": "Gifu"
     },
     "22": {
         "af": "Shizuoka",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Shizuoka",
         "zh_Hant_TW": "Shizuoka",
         "zu": "Shizuoka",
-        "zu_ZA": "Shizuoka"
+        "zu_ZA": "Shizuoka",
+        "sr@latin": "Šizuka",
+        "tt@iqtelif": "Shizuoka"
     },
     "23": {
         "af": "Aichi",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Aichi",
         "zh_Hant_TW": "Aichi",
         "zu": "Aichi",
-        "zu_ZA": "Aichi"
+        "zu_ZA": "Aichi",
+        "sr@latin": "Aiči",
+        "tt@iqtelif": "Aichi"
     },
     "24": {
         "af": "Mie",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Mie",
         "zh_Hant_TW": "Mie",
         "zu": "Mie",
-        "zu_ZA": "Mie"
+        "zu_ZA": "Mie",
+        "sr@latin": "Mje",
+        "tt@iqtelif": "Mie"
     },
     "25": {
         "af": "Shiga",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Shiga",
         "zh_Hant_TW": "Shiga",
         "zu": "Shiga",
-        "zu_ZA": "Shiga"
+        "zu_ZA": "Shiga",
+        "sr@latin": "Shiga",
+        "tt@iqtelif": "Shiga"
     },
     "26": {
         "af": "Kyoto",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Kyoto",
         "zh_Hant_TW": "Kyoto",
         "zu": "Kyoto",
-        "zu_ZA": "Kyoto"
+        "zu_ZA": "Kyoto",
+        "sr@latin": "Kjoto",
+        "tt@iqtelif": "Kyoto"
     },
     "27": {
         "af": "Osaka",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Osaka",
         "zh_Hant_TW": "Osaka",
         "zu": "Osaka",
-        "zu_ZA": "Osaka"
+        "zu_ZA": "Osaka",
+        "sr@latin": "Osaka",
+        "tt@iqtelif": "Osaka"
     },
     "28": {
         "af": "Hyogo",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Hyogo",
         "zh_Hant_TW": "Hyogo",
         "zu": "Hyogo",
-        "zu_ZA": "Hyogo"
+        "zu_ZA": "Hyogo",
+        "sr@latin": "Hjogo",
+        "tt@iqtelif": "Hyogo"
     },
     "29": {
         "af": "Nara",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Nara",
         "zh_Hant_TW": "Nara",
         "zu": "Nara",
-        "zu_ZA": "Nara"
+        "zu_ZA": "Nara",
+        "sr@latin": "Nara",
+        "tt@iqtelif": "Nara"
     },
     "30": {
         "af": "Wakayama",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Wakayama",
         "zh_Hant_TW": "Wakayama",
         "zu": "Wakayama",
-        "zu_ZA": "Wakayama"
+        "zu_ZA": "Wakayama",
+        "sr@latin": "Wakayama",
+        "tt@iqtelif": "Wakayama"
     },
     "31": {
         "af": "Tottori",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Tottori",
         "zh_Hant_TW": "Tottori",
         "zu": "Tottori",
-        "zu_ZA": "Tottori"
+        "zu_ZA": "Tottori",
+        "sr@latin": "Totori",
+        "tt@iqtelif": "Tottori"
     },
     "32": {
         "af": "Shimane",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Shimane",
         "zh_Hant_TW": "Shimane",
         "zu": "Shimane",
-        "zu_ZA": "Shimane"
+        "zu_ZA": "Shimane",
+        "sr@latin": "Šimane",
+        "tt@iqtelif": "Shimane"
     },
     "33": {
         "af": "Okayama",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Okayama",
         "zh_Hant_TW": "Okayama",
         "zu": "Okayama",
-        "zu_ZA": "Okayama"
+        "zu_ZA": "Okayama",
+        "sr@latin": "Okajama",
+        "tt@iqtelif": "Okayama"
     },
     "34": {
         "af": "Hiroshima",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Hiroshima",
         "zh_Hant_TW": "Hiroshima",
         "zu": "Hiroshima",
-        "zu_ZA": "Hiroshima"
+        "zu_ZA": "Hiroshima",
+        "sr@latin": "Hirošima",
+        "tt@iqtelif": "Hiroshima"
     },
     "35": {
         "af": "Yamaguchi",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Yamaguchi",
         "zh_Hant_TW": "Yamaguchi",
         "zu": "Yamaguchi",
-        "zu_ZA": "Yamaguchi"
+        "zu_ZA": "Yamaguchi",
+        "sr@latin": "Jamaguči",
+        "tt@iqtelif": "Yamaguchi"
     },
     "36": {
         "af": "Tokushima",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Tokushima",
         "zh_Hant_TW": "Tokushima",
         "zu": "Tokushima",
-        "zu_ZA": "Tokushima"
+        "zu_ZA": "Tokushima",
+        "sr@latin": "Tokušima",
+        "tt@iqtelif": "Tokushima"
     },
     "37": {
         "af": "Kagawa",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Kagawa",
         "zh_Hant_TW": "Kagawa",
         "zu": "Kagawa",
-        "zu_ZA": "Kagawa"
+        "zu_ZA": "Kagawa",
+        "sr@latin": "Kagava",
+        "tt@iqtelif": "Kagawa"
     },
     "38": {
         "af": "Ehime",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Ehime",
         "zh_Hant_TW": "Ehime",
         "zu": "Ehime",
-        "zu_ZA": "Ehime"
+        "zu_ZA": "Ehime",
+        "sr@latin": "Eime",
+        "tt@iqtelif": "Ehime"
     },
     "39": {
         "af": "Kochi",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Kochi",
         "zh_Hant_TW": "Kochi",
         "zu": "Kochi",
-        "zu_ZA": "Kochi"
+        "zu_ZA": "Kochi",
+        "sr@latin": "Koči",
+        "tt@iqtelif": "Kochi"
     },
     "40": {
         "af": "Fukuoka",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Fukuoka",
         "zh_Hant_TW": "Fukuoka",
         "zu": "Fukuoka",
-        "zu_ZA": "Fukuoka"
+        "zu_ZA": "Fukuoka",
+        "sr@latin": "Fukuoka",
+        "tt@iqtelif": "Fukuoka"
     },
     "41": {
         "af": "Saga",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Saga",
         "zh_Hant_TW": "Saga",
         "zu": "Saga",
-        "zu_ZA": "Saga"
+        "zu_ZA": "Saga",
+        "sr@latin": "Saga",
+        "tt@iqtelif": "Saga"
     },
     "42": {
         "af": "Nagasaki",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "Nagasaki",
         "zh_Hant_TW": "Nagasaki",
         "zu": "Nagasaki",
-        "zu_ZA": "Nagasaki"
+        "zu_ZA": "Nagasaki",
+        "sr@latin": "Nagasaki",
+        "tt@iqtelif": "Nagasaki"
     },
     "43": {
         "af": "Kumamoto",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Kumamoto",
         "zh_Hant_TW": "Kumamoto",
         "zu": "Kumamoto",
-        "zu_ZA": "Kumamoto"
+        "zu_ZA": "Kumamoto",
+        "sr@latin": "Kumamoto",
+        "tt@iqtelif": "Kumamoto"
     },
     "44": {
         "af": "Oita",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Oita",
         "zh_Hant_TW": "Oita",
         "zu": "Oita",
-        "zu_ZA": "Oita"
+        "zu_ZA": "Oita",
+        "sr@latin": "Oita",
+        "tt@iqtelif": "Oita"
     },
     "45": {
         "af": "Miyazaki",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "Miyazaki",
         "zh_Hant_TW": "Miyazaki",
         "zu": "Miyazaki",
-        "zu_ZA": "Miyazaki"
+        "zu_ZA": "Miyazaki",
+        "sr@latin": "Mijazaki",
+        "tt@iqtelif": "Miyazaki"
     },
     "46": {
         "af": "Kagoshima",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Kagoshima",
         "zh_Hant_TW": "Kagoshima",
         "zu": "Kagoshima",
-        "zu_ZA": "Kagoshima"
+        "zu_ZA": "Kagoshima",
+        "sr@latin": "Kagošima",
+        "tt@iqtelif": "Kagoshima"
     },
     "47": {
         "af": "Okinawa",
@@ -41498,6 +41590,8 @@
         "zh_Hant_MY": "Okinawa",
         "zh_Hant_TW": "Okinawa",
         "zu": "Okinawa",
-        "zu_ZA": "Okinawa"
+        "zu_ZA": "Okinawa",
+        "sr@latin": "Okinava",
+        "tt@iqtelif": "Okinawa"
     }
 }

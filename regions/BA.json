@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Federacija Bosne i Hercegovine",
         "zh_Hant_TW": "Federacija Bosne i Hercegovine",
         "zu": "Federacija Bosne i Hercegovine",
-        "zu_ZA": "Federacija Bosne i Hercegovine"
+        "zu_ZA": "Federacija Bosne i Hercegovine",
+        "sr@latin": "Federacija Bosne i Hercegovine",
+        "tt@iqtelif": "Federacija Bosne i Hercegovine"
     },
     "BRC": {
         "af": "Brčko distrikt",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Brčko distrikt",
         "zh_Hant_TW": "Brčko distrikt",
         "zu": "Brčko distrikt",
-        "zu_ZA": "Brčko distrikt"
+        "zu_ZA": "Brčko distrikt",
+        "sr@latin": "Brčki okrug",
+        "tt@iqtelif": "Brčko distrikt"
     },
     "SRP": {
         "af": "Republika Srpska",
@@ -2646,6 +2650,8 @@
         "zh_Hant_MY": "Republika Srpska",
         "zh_Hant_TW": "Republika Srpska",
         "zu": "Republika Srpska",
-        "zu_ZA": "Republika Srpska"
+        "zu_ZA": "Republika Srpska",
+        "sr@latin": "Republika Srpska",
+        "tt@iqtelif": "Republika Srpska"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Dimashq",
         "zh_Hant_TW": "Dimashq",
         "zu": "Dimashq",
-        "zu_ZA": "Dimashq"
+        "zu_ZA": "Dimashq",
+        "sr@latin": "Damask",
+        "tt@iqtelif": "Dimashq"
     },
     "DR": {
         "af": "Dar'ā",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Dar'ā",
         "zh_Hant_TW": "Dar'ā",
         "zu": "Dar'ā",
-        "zu_ZA": "Dar'ā"
+        "zu_ZA": "Dar'ā",
+        "sr@latin": "Dar'ā",
+        "tt@iqtelif": "Dar'ā"
     },
     "DY": {
         "af": "Dayr az Zawr",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Dayr az Zawr",
         "zh_Hant_TW": "Dayr az Zawr",
         "zu": "Dayr az Zawr",
-        "zu_ZA": "Dayr az Zawr"
+        "zu_ZA": "Dayr az Zawr",
+        "sr@latin": "Dejr Az Zar",
+        "tt@iqtelif": "Dayr az Zawr"
     },
     "HA": {
         "af": "Al Ḩasakah",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Al Ḩasakah",
         "zh_Hant_TW": "Al Ḩasakah",
         "zu": "Al Ḩasakah",
-        "zu_ZA": "Al Ḩasakah"
+        "zu_ZA": "Al Ḩasakah",
+        "sr@latin": "Al Ḩasakah",
+        "tt@iqtelif": "Al Ḩasakah"
     },
     "HI": {
         "af": "Ḩimş",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Ḩimş",
         "zh_Hant_TW": "Ḩimş",
         "zu": "Ḩimş",
-        "zu_ZA": "Ḩimş"
+        "zu_ZA": "Ḩimş",
+        "sr@latin": "Ḩimş",
+        "tt@iqtelif": "Ḩimş"
     },
     "HL": {
         "af": "Ḩalab",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ḩalab",
         "zh_Hant_TW": "Ḩalab",
         "zu": "Ḩalab",
-        "zu_ZA": "Ḩalab"
+        "zu_ZA": "Ḩalab",
+        "sr@latin": "Ḩalab",
+        "tt@iqtelif": "Ḩalab"
     },
     "HM": {
         "af": "Ḩamāh",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ḩamāh",
         "zh_Hant_TW": "Ḩamāh",
         "zu": "Ḩamāh",
-        "zu_ZA": "Ḩamāh"
+        "zu_ZA": "Ḩamāh",
+        "sr@latin": "Ḩamāh",
+        "tt@iqtelif": "Ḩamāh"
     },
     "ID": {
         "af": "Idlib",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Idlib",
         "zh_Hant_TW": "Idlib",
         "zu": "Idlib",
-        "zu_ZA": "Idlib"
+        "zu_ZA": "Idlib",
+        "sr@latin": "Idlib",
+        "tt@iqtelif": "Idlib"
     },
     "LA": {
         "af": "Al Lādhiqīyah",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Al Lādhiqīyah",
         "zh_Hant_TW": "Al Lādhiqīyah",
         "zu": "Al Lādhiqīyah",
-        "zu_ZA": "Al Lādhiqīyah"
+        "zu_ZA": "Al Lādhiqīyah",
+        "sr@latin": "Al Lādhiqīyah",
+        "tt@iqtelif": "Al Lādhiqīyah"
     },
     "QU": {
         "af": "Al Qunayţirah",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Al Qunayţirah",
         "zh_Hant_TW": "Al Qunayţirah",
         "zu": "Al Qunayţirah",
-        "zu_ZA": "Al Qunayţirah"
+        "zu_ZA": "Al Qunayţirah",
+        "sr@latin": "Al Qunayţirah",
+        "tt@iqtelif": "Al Qunayţirah"
     },
     "RA": {
         "af": "Ar Raqqah",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Ar Raqqah",
         "zh_Hant_TW": "Ar Raqqah",
         "zu": "Ar Raqqah",
-        "zu_ZA": "Ar Raqqah"
+        "zu_ZA": "Ar Raqqah",
+        "sr@latin": "Ar Rakah",
+        "tt@iqtelif": "Ar Raqqah"
     },
     "RD": {
         "af": "Rīf Dimashq",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Rīf Dimashq",
         "zh_Hant_TW": "Rīf Dimashq",
         "zu": "Rīf Dimashq",
-        "zu_ZA": "Rīf Dimashq"
+        "zu_ZA": "Rīf Dimashq",
+        "sr@latin": "Rīf Dimashq",
+        "tt@iqtelif": "Rīf Dimashq"
     },
     "SU": {
         "af": "As Suwaydā'",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "As Suwaydā'",
         "zh_Hant_TW": "As Suwaydā'",
         "zu": "As Suwaydā'",
-        "zu_ZA": "As Suwaydā'"
+        "zu_ZA": "As Suwaydā'",
+        "sr@latin": "As Suwaydā'",
+        "tt@iqtelif": "As Suwaydā'"
     },
     "TA": {
         "af": "Ţarţūs",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Ţarţūs",
         "zh_Hant_TW": "Ţarţūs",
         "zu": "Ţarţūs",
-        "zu_ZA": "Ţarţūs"
+        "zu_ZA": "Ţarţūs",
+        "sr@latin": "Ţarţūs",
+        "tt@iqtelif": "Ţarţūs"
     }
 }

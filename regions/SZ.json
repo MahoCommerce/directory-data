@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Hhohho",
         "zh_Hant_TW": "Hhohho",
         "zu": "Hhohho",
-        "zu_ZA": "Hhohho"
+        "zu_ZA": "Hhohho",
+        "sr@latin": "Hoho",
+        "tt@iqtelif": "Hhohho"
     },
     "LU": {
         "af": "Lubombo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Lubombo",
         "zh_Hant_TW": "Lubombo",
         "zu": "Lubombo",
-        "zu_ZA": "Lubombo"
+        "zu_ZA": "Lubombo",
+        "sr@latin": "Lubombo",
+        "tt@iqtelif": "Lubombo"
     },
     "MA": {
         "af": "Manzini",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Manzini",
         "zh_Hant_TW": "Manzini",
         "zu": "Manzini",
-        "zu_ZA": "Manzini"
+        "zu_ZA": "Manzini",
+        "sr@latin": "Mancini",
+        "tt@iqtelif": "Manzini"
     },
     "SH": {
         "af": "Shiselweni",
@@ -3529,6 +3535,8 @@
         "zh_Hant_MY": "Shiselweni",
         "zh_Hant_TW": "Shiselweni",
         "zu": "Shiselweni",
-        "zu_ZA": "Shiselweni"
+        "zu_ZA": "Shiselweni",
+        "sr@latin": "Shiselweni",
+        "tt@iqtelif": "Shiselweni"
     }
 }

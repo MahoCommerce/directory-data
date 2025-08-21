@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Atlántida",
         "zh_Hant_TW": "Atlántida",
         "zu": "Atlántida",
-        "zu_ZA": "Atlántida"
+        "zu_ZA": "Atlántida",
+        "sr@latin": "Atlantida",
+        "tt@iqtelif": "Atlántida"
     },
     "CH": {
         "af": "Choluteca",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Choluteca",
         "zh_Hant_TW": "Choluteca",
         "zu": "Choluteca",
-        "zu_ZA": "Choluteca"
+        "zu_ZA": "Choluteca",
+        "sr@latin": "Koluteka",
+        "tt@iqtelif": "Choluteca"
     },
     "CL": {
         "af": "Colón",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Colón",
         "zh_Hant_TW": "Colón",
         "zu": "Colón",
-        "zu_ZA": "Colón"
+        "zu_ZA": "Colón",
+        "sr@latin": "Kolon",
+        "tt@iqtelif": "Colón"
     },
     "CM": {
         "af": "Comayagua",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Comayagua",
         "zh_Hant_TW": "Comayagua",
         "zu": "Comayagua",
-        "zu_ZA": "Comayagua"
+        "zu_ZA": "Comayagua",
+        "sr@latin": "Komajagva",
+        "tt@iqtelif": "Comayagua"
     },
     "CP": {
         "af": "Copán",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Copán",
         "zh_Hant_TW": "Copán",
         "zu": "Copán",
-        "zu_ZA": "Copán"
+        "zu_ZA": "Copán",
+        "sr@latin": "Kopan",
+        "tt@iqtelif": "Copán"
     },
     "CR": {
         "af": "Cortés",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Cortés",
         "zh_Hant_TW": "Cortés",
         "zu": "Cortés",
-        "zu_ZA": "Cortés"
+        "zu_ZA": "Cortés",
+        "sr@latin": "Kortez",
+        "tt@iqtelif": "Cortés"
     },
     "EP": {
         "af": "El Paraíso",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "El Paraíso",
         "zh_Hant_TW": "El Paraíso",
         "zu": "El Paraíso",
-        "zu_ZA": "El Paraíso"
+        "zu_ZA": "El Paraíso",
+        "sr@latin": "El Paraiso",
+        "tt@iqtelif": "El Paraíso"
     },
     "FM": {
         "af": "Francisco Morazán",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Francisco Morazán",
         "zh_Hant_TW": "Francisco Morazán",
         "zu": "Francisco Morazán",
-        "zu_ZA": "Francisco Morazán"
+        "zu_ZA": "Francisco Morazán",
+        "sr@latin": "Francisko Moracan",
+        "tt@iqtelif": "Francisco Morazán"
     },
     "GD": {
         "af": "Gracias a Dios",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Gracias a Dios",
         "zh_Hant_TW": "Gracias a Dios",
         "zu": "Gracias a Dios",
-        "zu_ZA": "Gracias a Dios"
+        "zu_ZA": "Gracias a Dios",
+        "sr@latin": "Gracias a Dios",
+        "tt@iqtelif": "Gracias a Dios"
     },
     "IB": {
         "af": "Islas de la Bahía",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Islas de la Bahía",
         "zh_Hant_TW": "Islas de la Bahía",
         "zu": "Islas de la Bahía",
-        "zu_ZA": "Islas de la Bahía"
+        "zu_ZA": "Islas de la Bahía",
+        "sr@latin": "Islas de la Bahía",
+        "tt@iqtelif": "Islas de la Bahía"
     },
     "IN": {
         "af": "Intibucá",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Intibucá",
         "zh_Hant_TW": "Intibucá",
         "zu": "Intibucá",
-        "zu_ZA": "Intibucá"
+        "zu_ZA": "Intibucá",
+        "sr@latin": "Intibuka",
+        "tt@iqtelif": "Intibucá"
     },
     "LE": {
         "af": "Lempira",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Lempira",
         "zh_Hant_TW": "Lempira",
         "zu": "Lempira",
-        "zu_ZA": "Lempira"
+        "zu_ZA": "Lempira",
+        "sr@latin": "Lempira",
+        "tt@iqtelif": "Lempira"
     },
     "LP": {
         "af": "La Paz",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "La Paz",
         "zh_Hant_TW": "La Paz",
         "zu": "La Paz",
-        "zu_ZA": "La Paz"
+        "zu_ZA": "La Paz",
+        "sr@latin": "La Paz",
+        "tt@iqtelif": "La Paz"
     },
     "OC": {
         "af": "Ocotepeque",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Ocotepeque",
         "zh_Hant_TW": "Ocotepeque",
         "zu": "Ocotepeque",
-        "zu_ZA": "Ocotepeque"
+        "zu_ZA": "Ocotepeque",
+        "sr@latin": "Ocotepeque",
+        "tt@iqtelif": "Ocotepeque"
     },
     "OL": {
         "af": "Olancho",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Olancho",
         "zh_Hant_TW": "Olancho",
         "zu": "Olancho",
-        "zu_ZA": "Olancho"
+        "zu_ZA": "Olancho",
+        "sr@latin": "Olancho",
+        "tt@iqtelif": "Olancho"
     },
     "SB": {
         "af": "Santa Bárbara",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Santa Bárbara",
         "zh_Hant_TW": "Santa Bárbara",
         "zu": "Santa Bárbara",
-        "zu_ZA": "Santa Bárbara"
+        "zu_ZA": "Santa Bárbara",
+        "sr@latin": "Santa Barbara",
+        "tt@iqtelif": "Santa Bárbara"
     },
     "VA": {
         "af": "Valle",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Valle",
         "zh_Hant_TW": "Valle",
         "zu": "Valle",
-        "zu_ZA": "Valle"
+        "zu_ZA": "Valle",
+        "sr@latin": "Vale",
+        "tt@iqtelif": "Valle"
     },
     "YO": {
         "af": "Yoro",
@@ -15891,6 +15925,8 @@
         "zh_Hant_MY": "Yoro",
         "zh_Hant_TW": "Yoro",
         "zu": "Yoro",
-        "zu_ZA": "Yoro"
+        "zu_ZA": "Yoro",
+        "sr@latin": "Joro",
+        "tt@iqtelif": "Yoro"
     }
 }

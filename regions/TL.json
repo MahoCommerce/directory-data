@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aileu",
         "zh_Hant_TW": "Aileu",
         "zu": "Aileu",
-        "zu_ZA": "Aileu"
+        "zu_ZA": "Aileu",
+        "sr@latin": "Ajle",
+        "tt@iqtelif": "Aileu"
     },
     "AN": {
         "af": "Ainaro",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ainaro",
         "zh_Hant_TW": "Ainaro",
         "zu": "Ainaro",
-        "zu_ZA": "Ainaro"
+        "zu_ZA": "Ainaro",
+        "sr@latin": "Ajnaro",
+        "tt@iqtelif": "Ainaro"
     },
     "BA": {
         "af": "Baucau",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Baucau",
         "zh_Hant_TW": "Baucau",
         "zu": "Baucau",
-        "zu_ZA": "Baucau"
+        "zu_ZA": "Baucau",
+        "sr@latin": "Bakau",
+        "tt@iqtelif": "Baucau"
     },
     "BO": {
         "af": "Bobonaro",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Bobonaro",
         "zh_Hant_TW": "Bobonaro",
         "zu": "Bobonaro",
-        "zu_ZA": "Bobonaro"
+        "zu_ZA": "Bobonaro",
+        "sr@latin": "Bobonaro",
+        "tt@iqtelif": "Bobonaro"
     },
     "CO": {
         "af": "Cova Lima",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Cova Lima",
         "zh_Hant_TW": "Cova Lima",
         "zu": "Cova Lima",
-        "zu_ZA": "Cova Lima"
+        "zu_ZA": "Cova Lima",
+        "sr@latin": "Kova Lima",
+        "tt@iqtelif": "Cova Lima"
     },
     "DI": {
         "af": "Díli",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Díli",
         "zh_Hant_TW": "Díli",
         "zu": "Díli",
-        "zu_ZA": "Díli"
+        "zu_ZA": "Díli",
+        "sr@latin": "Dili",
+        "tt@iqtelif": "Díli"
     },
     "ER": {
         "af": "Ermera",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ermera",
         "zh_Hant_TW": "Ermera",
         "zu": "Ermera",
-        "zu_ZA": "Ermera"
+        "zu_ZA": "Ermera",
+        "sr@latin": "Ermera",
+        "tt@iqtelif": "Ermera"
     },
     "LA": {
         "af": "Lautein",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Lautein",
         "zh_Hant_TW": "Lautein",
         "zu": "Lautein",
-        "zu_ZA": "Lautein"
+        "zu_ZA": "Lautein",
+        "sr@latin": "Lautein",
+        "tt@iqtelif": "Lautein"
     },
     "LI": {
         "af": "Likisá",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Likisá",
         "zh_Hant_TW": "Likisá",
         "zu": "Likisá",
-        "zu_ZA": "Likisá"
+        "zu_ZA": "Likisá",
+        "sr@latin": "Likisá",
+        "tt@iqtelif": "Likisá"
     },
     "MF": {
         "af": "Manufahi",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Manufahi",
         "zh_Hant_TW": "Manufahi",
         "zu": "Manufahi",
-        "zu_ZA": "Manufahi"
+        "zu_ZA": "Manufahi",
+        "sr@latin": "Manufai",
+        "tt@iqtelif": "Manufahi"
     },
     "MT": {
         "af": "Manatuto",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Manatuto",
         "zh_Hant_TW": "Manatuto",
         "zu": "Manatuto",
-        "zu_ZA": "Manatuto"
+        "zu_ZA": "Manatuto",
+        "sr@latin": "Manatuto",
+        "tt@iqtelif": "Manatuto"
     },
     "OE": {
         "af": "Oekusi-Ambenu",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Oekusi-Ambenu",
         "zh_Hant_TW": "Oekusi-Ambenu",
         "zu": "Oekusi-Ambenu",
-        "zu_ZA": "Oekusi-Ambenu"
+        "zu_ZA": "Oekusi-Ambenu",
+        "sr@latin": "Oekusi-Ambenu",
+        "tt@iqtelif": "Oekusi-Ambenu"
     },
     "VI": {
         "af": "Vikeke",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "Vikeke",
         "zh_Hant_TW": "Vikeke",
         "zu": "Vikeke",
-        "zu_ZA": "Vikeke"
+        "zu_ZA": "Vikeke",
+        "sr@latin": "Vikeke",
+        "tt@iqtelif": "Vikeke"
     }
 }

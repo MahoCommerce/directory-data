@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Alo",
         "zh_Hant_TW": "Alo",
         "zu": "Alo",
-        "zu_ZA": "Alo"
+        "zu_ZA": "Alo",
+        "sr@latin": "Alo",
+        "tt@iqtelif": "Alo"
     },
     "SG": {
         "af": "Sigave",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Sigave",
         "zh_Hant_TW": "Sigave",
         "zu": "Sigave",
-        "zu_ZA": "Sigave"
+        "zu_ZA": "Sigave",
+        "sr@latin": "Sigave",
+        "tt@iqtelif": "Sigave"
     },
     "UV": {
         "af": "Uvea",
@@ -2646,6 +2650,8 @@
         "zh_Hant_MY": "Uvea",
         "zh_Hant_TW": "Uvea",
         "zu": "Uvea",
-        "zu_ZA": "Uvea"
+        "zu_ZA": "Uvea",
+        "sr@latin": "Uvea",
+        "tt@iqtelif": "Uvea"
     }
 }

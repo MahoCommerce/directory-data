@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Maseru",
         "zh_Hant_TW": "Maseru",
         "zu": "Maseru",
-        "zu_ZA": "Maseru"
+        "zu_ZA": "Maseru",
+        "sr@latin": "Maseri",
+        "tt@iqtelif": "Maseru"
     },
     "B": {
         "af": "Botha-Bothe",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Botha-Bothe",
         "zh_Hant_TW": "Botha-Bothe",
         "zu": "Botha-Bothe",
-        "zu_ZA": "Botha-Bothe"
+        "zu_ZA": "Botha-Bothe",
+        "sr@latin": "Botha-Bothe",
+        "tt@iqtelif": "Botha-Bothe"
     },
     "C": {
         "af": "Leribe",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Leribe",
         "zh_Hant_TW": "Leribe",
         "zu": "Leribe",
-        "zu_ZA": "Leribe"
+        "zu_ZA": "Leribe",
+        "sr@latin": "Leribe",
+        "tt@iqtelif": "Leribe"
     },
     "D": {
         "af": "Berea",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Berea",
         "zh_Hant_TW": "Berea",
         "zu": "Berea",
-        "zu_ZA": "Berea"
+        "zu_ZA": "Berea",
+        "sr@latin": "Berea",
+        "tt@iqtelif": "Berea"
     },
     "E": {
         "af": "Mafeteng",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Mafeteng",
         "zh_Hant_TW": "Mafeteng",
         "zu": "Mafeteng",
-        "zu_ZA": "Mafeteng"
+        "zu_ZA": "Mafeteng",
+        "sr@latin": "Mafeteng",
+        "tt@iqtelif": "Mafeteng"
     },
     "F": {
         "af": "Mohale's Hoek",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Mohale's Hoek",
         "zh_Hant_TW": "Mohale's Hoek",
         "zu": "Mohale's Hoek",
-        "zu_ZA": "Mohale's Hoek"
+        "zu_ZA": "Mohale's Hoek",
+        "sr@latin": "Mohale's Hoek",
+        "tt@iqtelif": "Mohale's Hoek"
     },
     "G": {
         "af": "Quthing",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Quthing",
         "zh_Hant_TW": "Quthing",
         "zu": "Quthing",
-        "zu_ZA": "Quthing"
+        "zu_ZA": "Quthing",
+        "sr@latin": "Quthing",
+        "tt@iqtelif": "Quthing"
     },
     "H": {
         "af": "Qacha's Nek",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Qacha's Nek",
         "zh_Hant_TW": "Qacha's Nek",
         "zu": "Qacha's Nek",
-        "zu_ZA": "Qacha's Nek"
+        "zu_ZA": "Qacha's Nek",
+        "sr@latin": "Qacha's Nek",
+        "tt@iqtelif": "Qacha's Nek"
     },
     "J": {
         "af": "Mokhotlong",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Mokhotlong",
         "zh_Hant_TW": "Mokhotlong",
         "zu": "Mokhotlong",
-        "zu_ZA": "Mokhotlong"
+        "zu_ZA": "Mokhotlong",
+        "sr@latin": "Mokotlong",
+        "tt@iqtelif": "Mokhotlong"
     },
     "K": {
         "af": "Thaba-Tseka",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Thaba-Tseka",
         "zh_Hant_TW": "Thaba-Tseka",
         "zu": "Thaba-Tseka",
-        "zu_ZA": "Thaba-Tseka"
+        "zu_ZA": "Thaba-Tseka",
+        "sr@latin": "Thaba-Tseka",
+        "tt@iqtelif": "Thaba-Tseka"
     }
 }

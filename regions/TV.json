@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Funafuti",
         "zh_Hant_TW": "Funafuti",
         "zu": "Funafuti",
-        "zu_ZA": "Funafuti"
+        "zu_ZA": "Funafuti",
+        "sr@latin": "Funafuti",
+        "tt@iqtelif": "Funafuti"
     },
     "NIT": {
         "af": "Niutao",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Niutao",
         "zh_Hant_TW": "Niutao",
         "zu": "Niutao",
-        "zu_ZA": "Niutao"
+        "zu_ZA": "Niutao",
+        "sr@latin": "Niutao",
+        "tt@iqtelif": "Niutao"
     },
     "NKF": {
         "af": "Nukufetau",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Nukufetau",
         "zh_Hant_TW": "Nukufetau",
         "zu": "Nukufetau",
-        "zu_ZA": "Nukufetau"
+        "zu_ZA": "Nukufetau",
+        "sr@latin": "Nukufetau",
+        "tt@iqtelif": "Nukufetau"
     },
     "NKL": {
         "af": "Nukulaelae",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Nukulaelae",
         "zh_Hant_TW": "Nukulaelae",
         "zu": "Nukulaelae",
-        "zu_ZA": "Nukulaelae"
+        "zu_ZA": "Nukulaelae",
+        "sr@latin": "Nukulaelae",
+        "tt@iqtelif": "Nukulaelae"
     },
     "NMA": {
         "af": "Nanumea",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Nanumea",
         "zh_Hant_TW": "Nanumea",
         "zu": "Nanumea",
-        "zu_ZA": "Nanumea"
+        "zu_ZA": "Nanumea",
+        "sr@latin": "Nanumea",
+        "tt@iqtelif": "Nanumea"
     },
     "NMG": {
         "af": "Nanumaga",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Nanumaga",
         "zh_Hant_TW": "Nanumaga",
         "zu": "Nanumaga",
-        "zu_ZA": "Nanumaga"
+        "zu_ZA": "Nanumaga",
+        "sr@latin": "Nanumaga",
+        "tt@iqtelif": "Nanumaga"
     },
     "NUI": {
         "af": "Nui",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Nui",
         "zh_Hant_TW": "Nui",
         "zu": "Nui",
-        "zu_ZA": "Nui"
+        "zu_ZA": "Nui",
+        "sr@latin": "Nui",
+        "tt@iqtelif": "Nui"
     },
     "VAI": {
         "af": "Vaitupu",
@@ -7061,6 +7075,8 @@
         "zh_Hant_MY": "Vaitupu",
         "zh_Hant_TW": "Vaitupu",
         "zu": "Vaitupu",
-        "zu_ZA": "Vaitupu"
+        "zu_ZA": "Vaitupu",
+        "sr@latin": "Vaitupu",
+        "tt@iqtelif": "Vaitupu"
     }
 }

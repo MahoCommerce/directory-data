@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Sagaing",
         "zh_Hant_TW": "Sagaing",
         "zu": "Sagaing",
-        "zu_ZA": "Sagaing"
+        "zu_ZA": "Sagaing",
+        "sr@latin": "Sagaing",
+        "tt@iqtelif": "Sagaing"
     },
     "02": {
         "af": "Bago",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bago",
         "zh_Hant_TW": "Bago",
         "zu": "Bago",
-        "zu_ZA": "Bago"
+        "zu_ZA": "Bago",
+        "sr@latin": "Bago",
+        "tt@iqtelif": "Bago"
     },
     "03": {
         "af": "Magway",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Magway",
         "zh_Hant_TW": "Magway",
         "zu": "Magway",
-        "zu_ZA": "Magway"
+        "zu_ZA": "Magway",
+        "sr@latin": "Magway",
+        "tt@iqtelif": "Magway"
     },
     "04": {
         "af": "Mandalay",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Mandalay",
         "zh_Hant_TW": "Mandalay",
         "zu": "Mandalay",
-        "zu_ZA": "Mandalay"
+        "zu_ZA": "Mandalay",
+        "sr@latin": "Mandalai",
+        "tt@iqtelif": "Mandalay"
     },
     "05": {
         "af": "Tanintharyi",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Tanintharyi",
         "zh_Hant_TW": "Tanintharyi",
         "zu": "Tanintharyi",
-        "zu_ZA": "Tanintharyi"
+        "zu_ZA": "Tanintharyi",
+        "sr@latin": "Tanintharyi",
+        "tt@iqtelif": "Tanintharyi"
     },
     "06": {
         "af": "Yangon",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Yangon",
         "zh_Hant_TW": "Yangon",
         "zu": "Yangon",
-        "zu_ZA": "Yangon"
+        "zu_ZA": "Yangon",
+        "sr@latin": "Jangon",
+        "tt@iqtelif": "Yangon"
     },
     "07": {
         "af": "Ayeyarwady",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ayeyarwady",
         "zh_Hant_TW": "Ayeyarwady",
         "zu": "Ayeyarwady",
-        "zu_ZA": "Ayeyarwady"
+        "zu_ZA": "Ayeyarwady",
+        "sr@latin": "Ajejarvadi",
+        "tt@iqtelif": "Ayeyarwady"
     },
     "11": {
         "af": "Kachin",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kachin",
         "zh_Hant_TW": "Kachin",
         "zu": "Kachin",
-        "zu_ZA": "Kachin"
+        "zu_ZA": "Kachin",
+        "sr@latin": "Kačin",
+        "tt@iqtelif": "Kachin"
     },
     "12": {
         "af": "Kayah",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kayah",
         "zh_Hant_TW": "Kayah",
         "zu": "Kayah",
-        "zu_ZA": "Kayah"
+        "zu_ZA": "Kayah",
+        "sr@latin": "Kajah",
+        "tt@iqtelif": "Kayah"
     },
     "13": {
         "af": "Kayin",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Kayin",
         "zh_Hant_TW": "Kayin",
         "zu": "Kayin",
-        "zu_ZA": "Kayin"
+        "zu_ZA": "Kayin",
+        "sr@latin": "Kayin",
+        "tt@iqtelif": "Kayin"
     },
     "14": {
         "af": "Chin",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Chin",
         "zh_Hant_TW": "Chin",
         "zu": "Chin",
-        "zu_ZA": "Chin"
+        "zu_ZA": "Chin",
+        "sr@latin": "Kin",
+        "tt@iqtelif": "Chin"
     },
     "15": {
         "af": "Mon",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Mon",
         "zh_Hant_TW": "Mon",
         "zu": "Mon",
-        "zu_ZA": "Mon"
+        "zu_ZA": "Mon",
+        "sr@latin": "Mon",
+        "tt@iqtelif": "Mon"
     },
     "16": {
         "af": "Rakhine",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Rakhine",
         "zh_Hant_TW": "Rakhine",
         "zu": "Rakhine",
-        "zu_ZA": "Rakhine"
+        "zu_ZA": "Rakhine",
+        "sr@latin": "Rakine",
+        "tt@iqtelif": "Rakhine"
     },
     "17": {
         "af": "Shan",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Shan",
         "zh_Hant_TW": "Shan",
         "zu": "Shan",
-        "zu_ZA": "Shan"
+        "zu_ZA": "Shan",
+        "sr@latin": "Šan",
+        "tt@iqtelif": "Shan"
     },
     "18": {
         "af": "Nay Pyi Taw",
@@ -13242,6 +13270,8 @@
         "zh_Hant_MY": "Nay Pyi Taw",
         "zh_Hant_TW": "Nay Pyi Taw",
         "zu": "Nay Pyi Taw",
-        "zu_ZA": "Nay Pyi Taw"
+        "zu_ZA": "Nay Pyi Taw",
+        "sr@latin": "Nay Pyi Taw",
+        "tt@iqtelif": "Nay Pyi Taw"
     }
 }

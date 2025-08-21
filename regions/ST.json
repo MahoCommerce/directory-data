@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Água Grande",
         "zh_Hant_TW": "Água Grande",
         "zu": "Água Grande",
-        "zu_ZA": "Água Grande"
+        "zu_ZA": "Água Grande",
+        "sr@latin": "Água Grande",
+        "tt@iqtelif": "Água Grande"
     },
     "02": {
         "af": "Cantagalo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cantagalo",
         "zh_Hant_TW": "Cantagalo",
         "zu": "Cantagalo",
-        "zu_ZA": "Cantagalo"
+        "zu_ZA": "Cantagalo",
+        "sr@latin": "Cantagalo",
+        "tt@iqtelif": "Cantagalo"
     },
     "03": {
         "af": "Caué",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Caué",
         "zh_Hant_TW": "Caué",
         "zu": "Caué",
-        "zu_ZA": "Caué"
+        "zu_ZA": "Caué",
+        "sr@latin": "Caué",
+        "tt@iqtelif": "Caué"
     },
     "04": {
         "af": "Lembá",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Lembá",
         "zh_Hant_TW": "Lembá",
         "zu": "Lembá",
-        "zu_ZA": "Lembá"
+        "zu_ZA": "Lembá",
+        "sr@latin": "Lembá",
+        "tt@iqtelif": "Lembá"
     },
     "05": {
         "af": "Lobata",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Lobata",
         "zh_Hant_TW": "Lobata",
         "zu": "Lobata",
-        "zu_ZA": "Lobata"
+        "zu_ZA": "Lobata",
+        "sr@latin": "Lobata",
+        "tt@iqtelif": "Lobata"
     },
     "06": {
         "af": "Mé-Zóchi",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Mé-Zóchi",
         "zh_Hant_TW": "Mé-Zóchi",
         "zu": "Mé-Zóchi",
-        "zu_ZA": "Mé-Zóchi"
+        "zu_ZA": "Mé-Zóchi",
+        "sr@latin": "Mé-Zóchi",
+        "tt@iqtelif": "Mé-Zóchi"
     },
     "P": {
         "af": "Príncipe",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "Príncipe",
         "zh_Hant_TW": "Príncipe",
         "zu": "Príncipe",
-        "zu_ZA": "Príncipe"
+        "zu_ZA": "Príncipe",
+        "sr@latin": "Príncipe",
+        "tt@iqtelif": "Príncipe"
     }
 }

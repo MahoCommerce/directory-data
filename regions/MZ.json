@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Niassa",
         "zh_Hant_TW": "Niassa",
         "zu": "Niassa",
-        "zu_ZA": "Niassa"
+        "zu_ZA": "Niassa",
+        "sr@latin": "Njasa",
+        "tt@iqtelif": "Niassa"
     },
     "B": {
         "af": "Manica",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Manica",
         "zh_Hant_TW": "Manica",
         "zu": "Manica",
-        "zu_ZA": "Manica"
+        "zu_ZA": "Manica",
+        "sr@latin": "Manika",
+        "tt@iqtelif": "Manica"
     },
     "G": {
         "af": "Gaza",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Gaza",
         "zh_Hant_TW": "Gaza",
         "zu": "Gaza",
-        "zu_ZA": "Gaza"
+        "zu_ZA": "Gaza",
+        "sr@latin": "Gaza",
+        "tt@iqtelif": "Gaza"
     },
     "I": {
         "af": "Inhambane",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Inhambane",
         "zh_Hant_TW": "Inhambane",
         "zu": "Inhambane",
-        "zu_ZA": "Inhambane"
+        "zu_ZA": "Inhambane",
+        "sr@latin": "Inhambane",
+        "tt@iqtelif": "Inhambane"
     },
     "L": {
         "af": "Maputo",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Maputo",
         "zh_Hant_TW": "Maputo",
         "zu": "Maputo",
-        "zu_ZA": "Maputo"
+        "zu_ZA": "Maputo",
+        "sr@latin": "Maputo",
+        "tt@iqtelif": "Maputo"
     },
     "MPM": {
         "af": "Maputo",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Maputo",
         "zh_Hant_TW": "Maputo",
         "zu": "Maputo",
-        "zu_ZA": "Maputo"
+        "zu_ZA": "Maputo",
+        "sr@latin": "Maputo",
+        "tt@iqtelif": "Maputo"
     },
     "N": {
         "af": "Nampula",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Nampula",
         "zh_Hant_TW": "Nampula",
         "zu": "Nampula",
-        "zu_ZA": "Nampula"
+        "zu_ZA": "Nampula",
+        "sr@latin": "Nampula",
+        "tt@iqtelif": "Nampula"
     },
     "P": {
         "af": "Cabo Delgado",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Cabo Delgado",
         "zh_Hant_TW": "Cabo Delgado",
         "zu": "Cabo Delgado",
-        "zu_ZA": "Cabo Delgado"
+        "zu_ZA": "Cabo Delgado",
+        "sr@latin": "Kabo Delgado",
+        "tt@iqtelif": "Cabo Delgado"
     },
     "Q": {
         "af": "Zambézia",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Zambézia",
         "zh_Hant_TW": "Zambézia",
         "zu": "Zambézia",
-        "zu_ZA": "Zambézia"
+        "zu_ZA": "Zambézia",
+        "sr@latin": "Zambézia",
+        "tt@iqtelif": "Zambézia"
     },
     "S": {
         "af": "Sofala",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Sofala",
         "zh_Hant_TW": "Sofala",
         "zu": "Sofala",
-        "zu_ZA": "Sofala"
+        "zu_ZA": "Sofala",
+        "sr@latin": "Sofala",
+        "tt@iqtelif": "Sofala"
     },
     "T": {
         "af": "Tete",
@@ -9710,6 +9730,8 @@
         "zh_Hant_MY": "Tete",
         "zh_Hant_TW": "Tete",
         "zu": "Tete",
-        "zu_ZA": "Tete"
+        "zu_ZA": "Tete",
+        "sr@latin": "Tete",
+        "tt@iqtelif": "Tete"
     }
 }

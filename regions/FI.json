@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Landskapet Åland",
         "zh_Hant_TW": "Landskapet Åland",
         "zu": "Landskapet Åland",
-        "zu_ZA": "Landskapet Åland"
+        "zu_ZA": "Landskapet Åland",
+        "sr@latin": "Avenanman makunta",
+        "tt@iqtelif": "Landskapet Åland"
     },
     "02": {
         "af": "Etelä-Karjala",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Etelä-Karjala",
         "zh_Hant_TW": "Etelä-Karjala",
         "zu": "Etelä-Karjala",
-        "zu_ZA": "Etelä-Karjala"
+        "zu_ZA": "Etelä-Karjala",
+        "sr@latin": "Etela-Karjala",
+        "tt@iqtelif": "Etelä-Karjala"
     },
     "03": {
         "af": "Etelä-Pohjanmaa",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Etelä-Pohjanmaa",
         "zh_Hant_TW": "Etelä-Pohjanmaa",
         "zu": "Etelä-Pohjanmaa",
-        "zu_ZA": "Etelä-Pohjanmaa"
+        "zu_ZA": "Etelä-Pohjanmaa",
+        "sr@latin": "Etela-Pojanma",
+        "tt@iqtelif": "Etelä-Pohjanmaa"
     },
     "04": {
         "af": "Etelä-Savo",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Etelä-Savo",
         "zh_Hant_TW": "Etelä-Savo",
         "zu": "Etelä-Savo",
-        "zu_ZA": "Etelä-Savo"
+        "zu_ZA": "Etelä-Savo",
+        "sr@latin": "Etela-Savo",
+        "tt@iqtelif": "Etelä-Savo"
     },
     "05": {
         "af": "Kainuu",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Kainuu",
         "zh_Hant_TW": "Kainuu",
         "zu": "Kainuu",
-        "zu_ZA": "Kainuu"
+        "zu_ZA": "Kainuu",
+        "sr@latin": "Kainuu",
+        "tt@iqtelif": "Kainuu"
     },
     "06": {
         "af": "Kanta-Häme",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Kanta-Häme",
         "zh_Hant_TW": "Kanta-Häme",
         "zu": "Kanta-Häme",
-        "zu_ZA": "Kanta-Häme"
+        "zu_ZA": "Kanta-Häme",
+        "sr@latin": "Kanta-Häme",
+        "tt@iqtelif": "Kanta-Häme"
     },
     "07": {
         "af": "Keski-Pohjanmaa",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Keski-Pohjanmaa",
         "zh_Hant_TW": "Keski-Pohjanmaa",
         "zu": "Keski-Pohjanmaa",
-        "zu_ZA": "Keski-Pohjanmaa"
+        "zu_ZA": "Keski-Pohjanmaa",
+        "sr@latin": "Keski-Pohjanmaa",
+        "tt@iqtelif": "Keski-Pohjanmaa"
     },
     "08": {
         "af": "Keski-Suomi",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Keski-Suomi",
         "zh_Hant_TW": "Keski-Suomi",
         "zu": "Keski-Suomi",
-        "zu_ZA": "Keski-Suomi"
+        "zu_ZA": "Keski-Suomi",
+        "sr@latin": "Keski-Suomi",
+        "tt@iqtelif": "Keski-Suomi"
     },
     "09": {
         "af": "Kymenlaakso",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kymenlaakso",
         "zh_Hant_TW": "Kymenlaakso",
         "zu": "Kymenlaakso",
-        "zu_ZA": "Kymenlaakso"
+        "zu_ZA": "Kymenlaakso",
+        "sr@latin": "Kimenlakso",
+        "tt@iqtelif": "Kymenlaakso"
     },
     "10": {
         "af": "Lappi",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Lappi",
         "zh_Hant_TW": "Lappi",
         "zu": "Lappi",
-        "zu_ZA": "Lappi"
+        "zu_ZA": "Lappi",
+        "sr@latin": "Lapi",
+        "tt@iqtelif": "Lappi"
     },
     "11": {
         "af": "Pirkanmaa",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Pirkanmaa",
         "zh_Hant_TW": "Pirkanmaa",
         "zu": "Pirkanmaa",
-        "zu_ZA": "Pirkanmaa"
+        "zu_ZA": "Pirkanmaa",
+        "sr@latin": "Pirkanmaa",
+        "tt@iqtelif": "Pirkanmaa"
     },
     "12": {
         "af": "Pohjanmaa",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Pohjanmaa",
         "zh_Hant_TW": "Pohjanmaa",
         "zu": "Pohjanmaa",
-        "zu_ZA": "Pohjanmaa"
+        "zu_ZA": "Pohjanmaa",
+        "sr@latin": "Pojanma",
+        "tt@iqtelif": "Pohjanmaa"
     },
     "13": {
         "af": "Pohjois-Karjala",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Pohjois-Karjala",
         "zh_Hant_TW": "Pohjois-Karjala",
         "zu": "Pohjois-Karjala",
-        "zu_ZA": "Pohjois-Karjala"
+        "zu_ZA": "Pohjois-Karjala",
+        "sr@latin": "Pohjois-Karjala",
+        "tt@iqtelif": "Pohjois-Karjala"
     },
     "14": {
         "af": "Pohjois-Pohjanmaa",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Pohjois-Pohjanmaa",
         "zh_Hant_TW": "Pohjois-Pohjanmaa",
         "zu": "Pohjois-Pohjanmaa",
-        "zu_ZA": "Pohjois-Pohjanmaa"
+        "zu_ZA": "Pohjois-Pohjanmaa",
+        "sr@latin": "Pohjois-Pohjanmaa",
+        "tt@iqtelif": "Pohjois-Pohjanmaa"
     },
     "15": {
         "af": "Pohjois-Savo",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Pohjois-Savo",
         "zh_Hant_TW": "Pohjois-Savo",
         "zu": "Pohjois-Savo",
-        "zu_ZA": "Pohjois-Savo"
+        "zu_ZA": "Pohjois-Savo",
+        "sr@latin": "Pohjois-Savo",
+        "tt@iqtelif": "Pohjois-Savo"
     },
     "16": {
         "af": "Päijät-Häme",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Päijät-Häme",
         "zh_Hant_TW": "Päijät-Häme",
         "zu": "Päijät-Häme",
-        "zu_ZA": "Päijät-Häme"
+        "zu_ZA": "Päijät-Häme",
+        "sr@latin": "Päijät-Häme",
+        "tt@iqtelif": "Päijät-Häme"
     },
     "17": {
         "af": "Satakunta",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Satakunta",
         "zh_Hant_TW": "Satakunta",
         "zu": "Satakunta",
-        "zu_ZA": "Satakunta"
+        "zu_ZA": "Satakunta",
+        "sr@latin": "Satakunta",
+        "tt@iqtelif": "Satakunta"
     },
     "18": {
         "af": "Uusimaa",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Uusimaa",
         "zh_Hant_TW": "Uusimaa",
         "zu": "Uusimaa",
-        "zu_ZA": "Uusimaa"
+        "zu_ZA": "Uusimaa",
+        "sr@latin": "Uusimaa",
+        "tt@iqtelif": "Uusimaa"
     },
     "19": {
         "af": "Varsinais-Suomi",
@@ -16774,6 +16810,8 @@
         "zh_Hant_MY": "Varsinais-Suomi",
         "zh_Hant_TW": "Varsinais-Suomi",
         "zu": "Varsinais-Suomi",
-        "zu_ZA": "Varsinais-Suomi"
+        "zu_ZA": "Varsinais-Suomi",
+        "sr@latin": "Varsinais-Suomi",
+        "tt@iqtelif": "Varsinais-Suomi"
     }
 }

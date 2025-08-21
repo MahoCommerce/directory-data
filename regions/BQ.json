@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bonaire",
         "zh_Hant_TW": "Bonaire",
         "zu": "Bonaire",
-        "zu_ZA": "Bonaire"
+        "zu_ZA": "Bonaire",
+        "sr@latin": "Boner",
+        "tt@iqtelif": "Bonaire"
     },
     "SA": {
         "af": "Saba",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Saba",
         "zh_Hant_TW": "Saba",
         "zu": "Saba",
-        "zu_ZA": "Saba"
+        "zu_ZA": "Saba",
+        "sr@latin": "Saba",
+        "tt@iqtelif": "Saba"
     },
     "SE": {
         "af": "Sint Eustatius",
@@ -2646,6 +2650,8 @@
         "zh_Hant_MY": "Sint Eustatius",
         "zh_Hant_TW": "Sint Eustatius",
         "zu": "Sint Eustatius",
-        "zu_ZA": "Sint Eustatius"
+        "zu_ZA": "Sint Eustatius",
+        "sr@latin": "Sveti Eustahije",
+        "tt@iqtelif": "Sint Eustatius"
     }
 }

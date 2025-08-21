@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Boké",
         "zh_Hant_TW": "Boké",
         "zu": "Boké",
-        "zu_ZA": "Boké"
+        "zu_ZA": "Boké",
+        "sr@latin": "Boke",
+        "tt@iqtelif": "Boké"
     },
     "BE": {
         "af": "Beyla",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Beyla",
         "zh_Hant_TW": "Beyla",
         "zu": "Beyla",
-        "zu_ZA": "Beyla"
+        "zu_ZA": "Beyla",
+        "sr@latin": "Bejla",
+        "tt@iqtelif": "Beyla"
     },
     "BF": {
         "af": "Boffa",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Boffa",
         "zh_Hant_TW": "Boffa",
         "zu": "Boffa",
-        "zu_ZA": "Boffa"
+        "zu_ZA": "Boffa",
+        "sr@latin": "Bofa",
+        "tt@iqtelif": "Boffa"
     },
     "BK": {
         "af": "Boké",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Boké",
         "zh_Hant_TW": "Boké",
         "zu": "Boké",
-        "zu_ZA": "Boké"
+        "zu_ZA": "Boké",
+        "sr@latin": "Boke",
+        "tt@iqtelif": "Boké"
     },
     "C": {
         "af": "Conakry",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Conakry",
         "zh_Hant_TW": "Conakry",
         "zu": "Conakry",
-        "zu_ZA": "Conakry"
+        "zu_ZA": "Conakry",
+        "sr@latin": "Konakri",
+        "tt@iqtelif": "Conakry"
     },
     "CO": {
         "af": "Coyah",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Coyah",
         "zh_Hant_TW": "Coyah",
         "zu": "Coyah",
-        "zu_ZA": "Coyah"
+        "zu_ZA": "Coyah",
+        "sr@latin": "Kojah",
+        "tt@iqtelif": "Coyah"
     },
     "D": {
         "af": "Kindia",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Kindia",
         "zh_Hant_TW": "Kindia",
         "zu": "Kindia",
-        "zu_ZA": "Kindia"
+        "zu_ZA": "Kindia",
+        "sr@latin": "Kindija",
+        "tt@iqtelif": "Kindia"
     },
     "DB": {
         "af": "Dabola",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Dabola",
         "zh_Hant_TW": "Dabola",
         "zu": "Dabola",
-        "zu_ZA": "Dabola"
+        "zu_ZA": "Dabola",
+        "sr@latin": "Dabola",
+        "tt@iqtelif": "Dabola"
     },
     "DI": {
         "af": "Dinguiraye",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Dinguiraye",
         "zh_Hant_TW": "Dinguiraye",
         "zu": "Dinguiraye",
-        "zu_ZA": "Dinguiraye"
+        "zu_ZA": "Dinguiraye",
+        "sr@latin": "Dinguiraye",
+        "tt@iqtelif": "Dinguiraye"
     },
     "DL": {
         "af": "Dalaba",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Dalaba",
         "zh_Hant_TW": "Dalaba",
         "zu": "Dalaba",
-        "zu_ZA": "Dalaba"
+        "zu_ZA": "Dalaba",
+        "sr@latin": "Dalaba",
+        "tt@iqtelif": "Dalaba"
     },
     "DU": {
         "af": "Dubréka",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Dubréka",
         "zh_Hant_TW": "Dubréka",
         "zu": "Dubréka",
-        "zu_ZA": "Dubréka"
+        "zu_ZA": "Dubréka",
+        "sr@latin": "Dubreka",
+        "tt@iqtelif": "Dubréka"
     },
     "F": {
         "af": "Faranah",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Faranah",
         "zh_Hant_TW": "Faranah",
         "zu": "Faranah",
-        "zu_ZA": "Faranah"
+        "zu_ZA": "Faranah",
+        "sr@latin": "Farana",
+        "tt@iqtelif": "Faranah"
     },
     "FA": {
         "af": "Faranah",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Faranah",
         "zh_Hant_TW": "Faranah",
         "zu": "Faranah",
-        "zu_ZA": "Faranah"
+        "zu_ZA": "Faranah",
+        "sr@latin": "Farana",
+        "tt@iqtelif": "Faranah"
     },
     "FO": {
         "af": "Forécariah",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Forécariah",
         "zh_Hant_TW": "Forécariah",
         "zu": "Forécariah",
-        "zu_ZA": "Forécariah"
+        "zu_ZA": "Forécariah",
+        "sr@latin": "Forekarja",
+        "tt@iqtelif": "Forécariah"
     },
     "FR": {
         "af": "Fria",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Fria",
         "zh_Hant_TW": "Fria",
         "zu": "Fria",
-        "zu_ZA": "Fria"
+        "zu_ZA": "Fria",
+        "sr@latin": "Fria",
+        "tt@iqtelif": "Fria"
     },
     "GA": {
         "af": "Gaoual",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Gaoual",
         "zh_Hant_TW": "Gaoual",
         "zu": "Gaoual",
-        "zu_ZA": "Gaoual"
+        "zu_ZA": "Gaoual",
+        "sr@latin": "Gaual",
+        "tt@iqtelif": "Gaoual"
     },
     "GU": {
         "af": "Guékédou",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Guékédou",
         "zh_Hant_TW": "Guékédou",
         "zu": "Guékédou",
-        "zu_ZA": "Guékédou"
+        "zu_ZA": "Guékédou",
+        "sr@latin": "Gvekedou",
+        "tt@iqtelif": "Guékédou"
     },
     "K": {
         "af": "Kankan",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Kankan",
         "zh_Hant_TW": "Kankan",
         "zu": "Kankan",
-        "zu_ZA": "Kankan"
+        "zu_ZA": "Kankan",
+        "sr@latin": "Kankan",
+        "tt@iqtelif": "Kankan"
     },
     "KA": {
         "af": "Kankan",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Kankan",
         "zh_Hant_TW": "Kankan",
         "zu": "Kankan",
-        "zu_ZA": "Kankan"
+        "zu_ZA": "Kankan",
+        "sr@latin": "Kankan",
+        "tt@iqtelif": "Kankan"
     },
     "KB": {
         "af": "Koubia",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Koubia",
         "zh_Hant_TW": "Koubia",
         "zu": "Koubia",
-        "zu_ZA": "Koubia"
+        "zu_ZA": "Koubia",
+        "sr@latin": "Kubja",
+        "tt@iqtelif": "Koubia"
     },
     "KD": {
         "af": "Kindia",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Kindia",
         "zh_Hant_TW": "Kindia",
         "zu": "Kindia",
-        "zu_ZA": "Kindia"
+        "zu_ZA": "Kindia",
+        "sr@latin": "Kindija",
+        "tt@iqtelif": "Kindia"
     },
     "KE": {
         "af": "Kérouané",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Kérouané",
         "zh_Hant_TW": "Kérouané",
         "zu": "Kérouané",
-        "zu_ZA": "Kérouané"
+        "zu_ZA": "Kérouané",
+        "sr@latin": "Keruane",
+        "tt@iqtelif": "Kérouané"
     },
     "KN": {
         "af": "Koundara",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Koundara",
         "zh_Hant_TW": "Koundara",
         "zu": "Koundara",
-        "zu_ZA": "Koundara"
+        "zu_ZA": "Koundara",
+        "sr@latin": "Kundara",
+        "tt@iqtelif": "Koundara"
     },
     "KO": {
         "af": "Kouroussa",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Kouroussa",
         "zh_Hant_TW": "Kouroussa",
         "zu": "Kouroussa",
-        "zu_ZA": "Kouroussa"
+        "zu_ZA": "Kouroussa",
+        "sr@latin": "Kurusa",
+        "tt@iqtelif": "Kouroussa"
     },
     "KS": {
         "af": "Kissidougou",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Kissidougou",
         "zh_Hant_TW": "Kissidougou",
         "zu": "Kissidougou",
-        "zu_ZA": "Kissidougou"
+        "zu_ZA": "Kissidougou",
+        "sr@latin": "Kisidugu",
+        "tt@iqtelif": "Kissidougou"
     },
     "L": {
         "af": "Labé",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Labé",
         "zh_Hant_TW": "Labé",
         "zu": "Labé",
-        "zu_ZA": "Labé"
+        "zu_ZA": "Labé",
+        "sr@latin": "Labe",
+        "tt@iqtelif": "Labé"
     },
     "LA": {
         "af": "Labé",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Labé",
         "zh_Hant_TW": "Labé",
         "zu": "Labé",
-        "zu_ZA": "Labé"
+        "zu_ZA": "Labé",
+        "sr@latin": "Labe",
+        "tt@iqtelif": "Labé"
     },
     "LE": {
         "af": "Lélouma",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Lélouma",
         "zh_Hant_TW": "Lélouma",
         "zu": "Lélouma",
-        "zu_ZA": "Lélouma"
+        "zu_ZA": "Lélouma",
+        "sr@latin": "Leluma",
+        "tt@iqtelif": "Lélouma"
     },
     "LO": {
         "af": "Lola",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Lola",
         "zh_Hant_TW": "Lola",
         "zu": "Lola",
-        "zu_ZA": "Lola"
+        "zu_ZA": "Lola",
+        "sr@latin": "Lola",
+        "tt@iqtelif": "Lola"
     },
     "M": {
         "af": "Mamou",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Mamou",
         "zh_Hant_TW": "Mamou",
         "zu": "Mamou",
-        "zu_ZA": "Mamou"
+        "zu_ZA": "Mamou",
+        "sr@latin": "Mamu",
+        "tt@iqtelif": "Mamou"
     },
     "MC": {
         "af": "Macenta",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Macenta",
         "zh_Hant_TW": "Macenta",
         "zu": "Macenta",
-        "zu_ZA": "Macenta"
+        "zu_ZA": "Macenta",
+        "sr@latin": "Macenta",
+        "tt@iqtelif": "Macenta"
     },
     "MD": {
         "af": "Mandiana",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Mandiana",
         "zh_Hant_TW": "Mandiana",
         "zu": "Mandiana",
-        "zu_ZA": "Mandiana"
+        "zu_ZA": "Mandiana",
+        "sr@latin": "Mandjana",
+        "tt@iqtelif": "Mandiana"
     },
     "ML": {
         "af": "Mali",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Mali",
         "zh_Hant_TW": "Mali",
         "zu": "Mali",
-        "zu_ZA": "Mali"
+        "zu_ZA": "Mali",
+        "sr@latin": "Mali",
+        "tt@iqtelif": "Mali"
     },
     "MM": {
         "af": "Mamou",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Mamou",
         "zh_Hant_TW": "Mamou",
         "zu": "Mamou",
-        "zu_ZA": "Mamou"
+        "zu_ZA": "Mamou",
+        "sr@latin": "Mamu",
+        "tt@iqtelif": "Mamou"
     },
     "N": {
         "af": "Nzérékoré",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Nzérékoré",
         "zh_Hant_TW": "Nzérékoré",
         "zu": "Nzérékoré",
-        "zu_ZA": "Nzérékoré"
+        "zu_ZA": "Nzérékoré",
+        "sr@latin": "Nzérékoré",
+        "tt@iqtelif": "Nzérékoré"
     },
     "NZ": {
         "af": "Nzérékoré",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Nzérékoré",
         "zh_Hant_TW": "Nzérékoré",
         "zu": "Nzérékoré",
-        "zu_ZA": "Nzérékoré"
+        "zu_ZA": "Nzérékoré",
+        "sr@latin": "Nzérékoré",
+        "tt@iqtelif": "Nzérékoré"
     },
     "PI": {
         "af": "Pita",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Pita",
         "zh_Hant_TW": "Pita",
         "zu": "Pita",
-        "zu_ZA": "Pita"
+        "zu_ZA": "Pita",
+        "sr@latin": "Pita",
+        "tt@iqtelif": "Pita"
     },
     "SI": {
         "af": "Siguiri",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Siguiri",
         "zh_Hant_TW": "Siguiri",
         "zu": "Siguiri",
-        "zu_ZA": "Siguiri"
+        "zu_ZA": "Siguiri",
+        "sr@latin": "Siguiri",
+        "tt@iqtelif": "Siguiri"
     },
     "TE": {
         "af": "Télimélé",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Télimélé",
         "zh_Hant_TW": "Télimélé",
         "zu": "Télimélé",
-        "zu_ZA": "Télimélé"
+        "zu_ZA": "Télimélé",
+        "sr@latin": "Télimélé",
+        "tt@iqtelif": "Télimélé"
     },
     "TO": {
         "af": "Tougué",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Tougué",
         "zh_Hant_TW": "Tougué",
         "zu": "Tougué",
-        "zu_ZA": "Tougué"
+        "zu_ZA": "Tougué",
+        "sr@latin": "Tougué",
+        "tt@iqtelif": "Tougué"
     },
     "YO": {
         "af": "Yomou",
@@ -36200,6 +36280,8 @@
         "zh_Hant_MY": "Yomou",
         "zh_Hant_TW": "Yomou",
         "zu": "Yomou",
-        "zu_ZA": "Yomou"
+        "zu_ZA": "Yomou",
+        "sr@latin": "Jomu",
+        "tt@iqtelif": "Yomou"
     }
 }

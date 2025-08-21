@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ar Riyāḑ",
         "zh_Hant_TW": "Ar Riyāḑ",
         "zu": "Ar Riyāḑ",
-        "zu_ZA": "Ar Riyāḑ"
+        "zu_ZA": "Ar Riyāḑ",
+        "sr@latin": "Ar Riyāḑ",
+        "tt@iqtelif": "Ar Riyāḑ"
     },
     "02": {
         "af": "Makkah al Mukarramah",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Makkah al Mukarramah",
         "zh_Hant_TW": "Makkah al Mukarramah",
         "zu": "Makkah al Mukarramah",
-        "zu_ZA": "Makkah al Mukarramah"
+        "zu_ZA": "Makkah al Mukarramah",
+        "sr@latin": "Makkah al Mukarramah",
+        "tt@iqtelif": "Makkah al Mukarramah"
     },
     "03": {
         "af": "Al Madīnah al Munawwarah",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Al Madīnah al Munawwarah",
         "zh_Hant_TW": "Al Madīnah al Munawwarah",
         "zu": "Al Madīnah al Munawwarah",
-        "zu_ZA": "Al Madīnah al Munawwarah"
+        "zu_ZA": "Al Madīnah al Munawwarah",
+        "sr@latin": "Al Madīnah al Munawwarah",
+        "tt@iqtelif": "Al Madīnah al Munawwarah"
     },
     "04": {
         "af": "Ash Sharqīyah",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Ash Sharqīyah",
         "zh_Hant_TW": "Ash Sharqīyah",
         "zu": "Ash Sharqīyah",
-        "zu_ZA": "Ash Sharqīyah"
+        "zu_ZA": "Ash Sharqīyah",
+        "sr@latin": "Aš Šarkija",
+        "tt@iqtelif": "Ash Sharqīyah"
     },
     "05": {
         "af": "Al Qaşīm",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Al Qaşīm",
         "zh_Hant_TW": "Al Qaşīm",
         "zu": "Al Qaşīm",
-        "zu_ZA": "Al Qaşīm"
+        "zu_ZA": "Al Qaşīm",
+        "sr@latin": "Al Qaşīm",
+        "tt@iqtelif": "Al Qaşīm"
     },
     "06": {
         "af": "Ḩā'il",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ḩā'il",
         "zh_Hant_TW": "Ḩā'il",
         "zu": "Ḩā'il",
-        "zu_ZA": "Ḩā'il"
+        "zu_ZA": "Ḩā'il",
+        "sr@latin": "Ḩā'il",
+        "tt@iqtelif": "Ḩā'il"
     },
     "07": {
         "af": "Tabūk",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Tabūk",
         "zh_Hant_TW": "Tabūk",
         "zu": "Tabūk",
-        "zu_ZA": "Tabūk"
+        "zu_ZA": "Tabūk",
+        "sr@latin": "Tabuk",
+        "tt@iqtelif": "Tabūk"
     },
     "08": {
         "af": "Al Ḩudūd ash Shamālīyah",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Al Ḩudūd ash Shamālīyah",
         "zh_Hant_TW": "Al Ḩudūd ash Shamālīyah",
         "zu": "Al Ḩudūd ash Shamālīyah",
-        "zu_ZA": "Al Ḩudūd ash Shamālīyah"
+        "zu_ZA": "Al Ḩudūd ash Shamālīyah",
+        "sr@latin": "Al Ḩudūd ash Shamālīyah",
+        "tt@iqtelif": "Al Ḩudūd ash Shamālīyah"
     },
     "09": {
         "af": "Jāzān",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Jāzān",
         "zh_Hant_TW": "Jāzān",
         "zu": "Jāzān",
-        "zu_ZA": "Jāzān"
+        "zu_ZA": "Jāzān",
+        "sr@latin": "Jāzān",
+        "tt@iqtelif": "Jāzān"
     },
     "10": {
         "af": "Najrān",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Najrān",
         "zh_Hant_TW": "Najrān",
         "zu": "Najrān",
-        "zu_ZA": "Najrān"
+        "zu_ZA": "Najrān",
+        "sr@latin": "Najran",
+        "tt@iqtelif": "Najrān"
     },
     "11": {
         "af": "Al Bāḩah",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Al Bāḩah",
         "zh_Hant_TW": "Al Bāḩah",
         "zu": "Al Bāḩah",
-        "zu_ZA": "Al Bāḩah"
+        "zu_ZA": "Al Bāḩah",
+        "sr@latin": "Al Bāḩah",
+        "tt@iqtelif": "Al Bāḩah"
     },
     "12": {
         "af": "Al Jawf",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Al Jawf",
         "zh_Hant_TW": "Al Jawf",
         "zu": "Al Jawf",
-        "zu_ZA": "Al Jawf"
+        "zu_ZA": "Al Jawf",
+        "sr@latin": "Al Jawf",
+        "tt@iqtelif": "Al Jawf"
     },
     "14": {
         "af": "'Asīr",
@@ -11476,6 +11500,8 @@
         "zh_Hant_MY": "'Asīr",
         "zh_Hant_TW": "'Asīr",
         "zu": "'Asīr",
-        "zu_ZA": "'Asīr"
+        "zu_ZA": "'Asīr",
+        "sr@latin": "'Asīr",
+        "tt@iqtelif": "'Asīr"
     }
 }

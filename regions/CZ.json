@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Praha, Hlavní město",
         "zh_Hant_TW": "Praha, Hlavní město",
         "zu": "Praha, Hlavní město",
-        "zu_ZA": "Praha, Hlavní město"
+        "zu_ZA": "Praha, Hlavní město",
+        "sr@latin": "Praha, Hlavní město",
+        "tt@iqtelif": "Praha, Hlavní město"
     },
     "20": {
         "af": "Středočeský kraj",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Středočeský kraj",
         "zh_Hant_TW": "Středočeský kraj",
         "zu": "Středočeský kraj",
-        "zu_ZA": "Středočeský kraj"
+        "zu_ZA": "Středočeský kraj",
+        "sr@latin": "Středočeský kraj",
+        "tt@iqtelif": "Středočeský kraj"
     },
     "20A": {
         "af": "Praha-západ",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Praha-západ",
         "zh_Hant_TW": "Praha-západ",
         "zu": "Praha-západ",
-        "zu_ZA": "Praha-západ"
+        "zu_ZA": "Praha-západ",
+        "sr@latin": "Praha-západ",
+        "tt@iqtelif": "Praha-západ"
     },
     "20B": {
         "af": "Příbram",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Příbram",
         "zh_Hant_TW": "Příbram",
         "zu": "Příbram",
-        "zu_ZA": "Příbram"
+        "zu_ZA": "Příbram",
+        "sr@latin": "Příbram",
+        "tt@iqtelif": "Příbram"
     },
     "20C": {
         "af": "Rakovník",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Rakovník",
         "zh_Hant_TW": "Rakovník",
         "zu": "Rakovník",
-        "zu_ZA": "Rakovník"
+        "zu_ZA": "Rakovník",
+        "sr@latin": "Rakovnik",
+        "tt@iqtelif": "Rakovník"
     },
     "31": {
         "af": "Jihočeský kraj",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Jihočeský kraj",
         "zh_Hant_TW": "Jihočeský kraj",
         "zu": "Jihočeský kraj",
-        "zu_ZA": "Jihočeský kraj"
+        "zu_ZA": "Jihočeský kraj",
+        "sr@latin": "Jihočeský kraj",
+        "tt@iqtelif": "Jihočeský kraj"
     },
     "32": {
         "af": "Plzeňský kraj",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Plzeňský kraj",
         "zh_Hant_TW": "Plzeňský kraj",
         "zu": "Plzeňský kraj",
-        "zu_ZA": "Plzeňský kraj"
+        "zu_ZA": "Plzeňský kraj",
+        "sr@latin": "Plzeňský kraj",
+        "tt@iqtelif": "Plzeňský kraj"
     },
     "41": {
         "af": "Karlovarský kraj",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Karlovarský kraj",
         "zh_Hant_TW": "Karlovarský kraj",
         "zu": "Karlovarský kraj",
-        "zu_ZA": "Karlovarský kraj"
+        "zu_ZA": "Karlovarský kraj",
+        "sr@latin": "Karlovarski kraj",
+        "tt@iqtelif": "Karlovarský kraj"
     },
     "42": {
         "af": "Ústecký kraj",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Ústecký kraj",
         "zh_Hant_TW": "Ústecký kraj",
         "zu": "Ústecký kraj",
-        "zu_ZA": "Ústecký kraj"
+        "zu_ZA": "Ústecký kraj",
+        "sr@latin": "Ustečki kraj",
+        "tt@iqtelif": "Ústecký kraj"
     },
     "51": {
         "af": "Liberecký kraj",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Liberecký kraj",
         "zh_Hant_TW": "Liberecký kraj",
         "zu": "Liberecký kraj",
-        "zu_ZA": "Liberecký kraj"
+        "zu_ZA": "Liberecký kraj",
+        "sr@latin": "Liberečki kraj",
+        "tt@iqtelif": "Liberecký kraj"
     },
     "52": {
         "af": "Královéhradecký kraj",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Královéhradecký kraj",
         "zh_Hant_TW": "Královéhradecký kraj",
         "zu": "Královéhradecký kraj",
-        "zu_ZA": "Královéhradecký kraj"
+        "zu_ZA": "Královéhradecký kraj",
+        "sr@latin": "Královéhradecký kraj",
+        "tt@iqtelif": "Královéhradecký kraj"
     },
     "53": {
         "af": "Pardubický kraj",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Pardubický kraj",
         "zh_Hant_TW": "Pardubický kraj",
         "zu": "Pardubický kraj",
-        "zu_ZA": "Pardubický kraj"
+        "zu_ZA": "Pardubický kraj",
+        "sr@latin": "Pardubički kraj",
+        "tt@iqtelif": "Pardubický kraj"
     },
     "63": {
         "af": "Kraj Vysočina",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Kraj Vysočina",
         "zh_Hant_TW": "Kraj Vysočina",
         "zu": "Kraj Vysočina",
-        "zu_ZA": "Kraj Vysočina"
+        "zu_ZA": "Kraj Vysočina",
+        "sr@latin": "Kraj Vysočina",
+        "tt@iqtelif": "Kraj Vysočina"
     },
     "64": {
         "af": "Jihomoravský kraj",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Jihomoravský kraj",
         "zh_Hant_TW": "Jihomoravský kraj",
         "zu": "Jihomoravský kraj",
-        "zu_ZA": "Jihomoravský kraj"
+        "zu_ZA": "Jihomoravský kraj",
+        "sr@latin": "Jihomoravský kraj",
+        "tt@iqtelif": "Jihomoravský kraj"
     },
     "71": {
         "af": "Olomoucký kraj",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Olomoucký kraj",
         "zh_Hant_TW": "Olomoucký kraj",
         "zu": "Olomoucký kraj",
-        "zu_ZA": "Olomoucký kraj"
+        "zu_ZA": "Olomoucký kraj",
+        "sr@latin": "Olomučki kraj",
+        "tt@iqtelif": "Olomoucký kraj"
     },
     "72": {
         "af": "Zlínský kraj",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Zlínský kraj",
         "zh_Hant_TW": "Zlínský kraj",
         "zu": "Zlínský kraj",
-        "zu_ZA": "Zlínský kraj"
+        "zu_ZA": "Zlínský kraj",
+        "sr@latin": "Zlínský kraj",
+        "tt@iqtelif": "Zlínský kraj"
     },
     "80": {
         "af": "Moravskoslezský kraj",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Moravskoslezský kraj",
         "zh_Hant_TW": "Moravskoslezský kraj",
         "zu": "Moravskoslezský kraj",
-        "zu_ZA": "Moravskoslezský kraj"
+        "zu_ZA": "Moravskoslezský kraj",
+        "sr@latin": "Moravskoslezský kraj",
+        "tt@iqtelif": "Moravskoslezský kraj"
     },
     "201": {
         "af": "Benešov",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Benešov",
         "zh_Hant_TW": "Benešov",
         "zu": "Benešov",
-        "zu_ZA": "Benešov"
+        "zu_ZA": "Benešov",
+        "sr@latin": "Benešov",
+        "tt@iqtelif": "Benešov"
     },
     "202": {
         "af": "Beroun",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Beroun",
         "zh_Hant_TW": "Beroun",
         "zu": "Beroun",
-        "zu_ZA": "Beroun"
+        "zu_ZA": "Beroun",
+        "sr@latin": "Beroun",
+        "tt@iqtelif": "Beroun"
     },
     "203": {
         "af": "Kladno",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Kladno",
         "zh_Hant_TW": "Kladno",
         "zu": "Kladno",
-        "zu_ZA": "Kladno"
+        "zu_ZA": "Kladno",
+        "sr@latin": "Kladno",
+        "tt@iqtelif": "Kladno"
     },
     "204": {
         "af": "Kolín",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Kolín",
         "zh_Hant_TW": "Kolín",
         "zu": "Kolín",
-        "zu_ZA": "Kolín"
+        "zu_ZA": "Kolín",
+        "sr@latin": "Kolin",
+        "tt@iqtelif": "Kolín"
     },
     "205": {
         "af": "Kutná Hora",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Kutná Hora",
         "zh_Hant_TW": "Kutná Hora",
         "zu": "Kutná Hora",
-        "zu_ZA": "Kutná Hora"
+        "zu_ZA": "Kutná Hora",
+        "sr@latin": "Kutna Hora",
+        "tt@iqtelif": "Kutná Hora"
     },
     "206": {
         "af": "Mělník",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Mělník",
         "zh_Hant_TW": "Mělník",
         "zu": "Mělník",
-        "zu_ZA": "Mělník"
+        "zu_ZA": "Mělník",
+        "sr@latin": "Melnik",
+        "tt@iqtelif": "Mělník"
     },
     "207": {
         "af": "Mladá Boleslav",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Mladá Boleslav",
         "zh_Hant_TW": "Mladá Boleslav",
         "zu": "Mladá Boleslav",
-        "zu_ZA": "Mladá Boleslav"
+        "zu_ZA": "Mladá Boleslav",
+        "sr@latin": "Mlada Boleslav",
+        "tt@iqtelif": "Mladá Boleslav"
     },
     "208": {
         "af": "Nymburk",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Nymburk",
         "zh_Hant_TW": "Nymburk",
         "zu": "Nymburk",
-        "zu_ZA": "Nymburk"
+        "zu_ZA": "Nymburk",
+        "sr@latin": "Nymburk",
+        "tt@iqtelif": "Nymburk"
     },
     "209": {
         "af": "Praha-východ",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Praha-východ",
         "zh_Hant_TW": "Praha-východ",
         "zu": "Praha-východ",
-        "zu_ZA": "Praha-východ"
+        "zu_ZA": "Praha-východ",
+        "sr@latin": "Praha-východ",
+        "tt@iqtelif": "Praha-východ"
     },
     "311": {
         "af": "České Budějovice",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "České Budějovice",
         "zh_Hant_TW": "České Budějovice",
         "zu": "České Budějovice",
-        "zu_ZA": "České Budějovice"
+        "zu_ZA": "České Budějovice",
+        "sr@latin": "České Budějovice",
+        "tt@iqtelif": "České Budějovice"
     },
     "312": {
         "af": "Český Krumlov",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Český Krumlov",
         "zh_Hant_TW": "Český Krumlov",
         "zu": "Český Krumlov",
-        "zu_ZA": "Český Krumlov"
+        "zu_ZA": "Český Krumlov",
+        "sr@latin": "Češki Krumlov",
+        "tt@iqtelif": "Český Krumlov"
     },
     "313": {
         "af": "Jindřichův Hradec",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Jindřichův Hradec",
         "zh_Hant_TW": "Jindřichův Hradec",
         "zu": "Jindřichův Hradec",
-        "zu_ZA": "Jindřichův Hradec"
+        "zu_ZA": "Jindřichův Hradec",
+        "sr@latin": "Jinduričev Hradec",
+        "tt@iqtelif": "Jindřichův Hradec"
     },
     "314": {
         "af": "Písek",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Písek",
         "zh_Hant_TW": "Písek",
         "zu": "Písek",
-        "zu_ZA": "Písek"
+        "zu_ZA": "Písek",
+        "sr@latin": "Pišek",
+        "tt@iqtelif": "Písek"
     },
     "315": {
         "af": "Prachatice",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Prachatice",
         "zh_Hant_TW": "Prachatice",
         "zu": "Prachatice",
-        "zu_ZA": "Prachatice"
+        "zu_ZA": "Prachatice",
+        "sr@latin": "Prachatice",
+        "tt@iqtelif": "Prachatice"
     },
     "316": {
         "af": "Strakonice",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Strakonice",
         "zh_Hant_TW": "Strakonice",
         "zu": "Strakonice",
-        "zu_ZA": "Strakonice"
+        "zu_ZA": "Strakonice",
+        "sr@latin": "Strakonice",
+        "tt@iqtelif": "Strakonice"
     },
     "317": {
         "af": "Tábor",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Tábor",
         "zh_Hant_TW": "Tábor",
         "zu": "Tábor",
-        "zu_ZA": "Tábor"
+        "zu_ZA": "Tábor",
+        "sr@latin": "Tabor",
+        "tt@iqtelif": "Tábor"
     },
     "321": {
         "af": "Domažlice",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Domažlice",
         "zh_Hant_TW": "Domažlice",
         "zu": "Domažlice",
-        "zu_ZA": "Domažlice"
+        "zu_ZA": "Domažlice",
+        "sr@latin": "Domažlice",
+        "tt@iqtelif": "Domažlice"
     },
     "322": {
         "af": "Klatovy",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Klatovy",
         "zh_Hant_TW": "Klatovy",
         "zu": "Klatovy",
-        "zu_ZA": "Klatovy"
+        "zu_ZA": "Klatovy",
+        "sr@latin": "Klatovi",
+        "tt@iqtelif": "Klatovy"
     },
     "323": {
         "af": "Plzeň-město",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Plzeň-město",
         "zh_Hant_TW": "Plzeň-město",
         "zu": "Plzeň-město",
-        "zu_ZA": "Plzeň-město"
+        "zu_ZA": "Plzeň-město",
+        "sr@latin": "Plzeň-město",
+        "tt@iqtelif": "Plzeň-město"
     },
     "324": {
         "af": "Plzeň-jih",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Plzeň-jih",
         "zh_Hant_TW": "Plzeň-jih",
         "zu": "Plzeň-jih",
-        "zu_ZA": "Plzeň-jih"
+        "zu_ZA": "Plzeň-jih",
+        "sr@latin": "Plzeň-jih",
+        "tt@iqtelif": "Plzeň-jih"
     },
     "325": {
         "af": "Plzeň-sever",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Plzeň-sever",
         "zh_Hant_TW": "Plzeň-sever",
         "zu": "Plzeň-sever",
-        "zu_ZA": "Plzeň-sever"
+        "zu_ZA": "Plzeň-sever",
+        "sr@latin": "Plzeň-sever",
+        "tt@iqtelif": "Plzeň-sever"
     },
     "326": {
         "af": "Rokycany",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Rokycany",
         "zh_Hant_TW": "Rokycany",
         "zu": "Rokycany",
-        "zu_ZA": "Rokycany"
+        "zu_ZA": "Rokycany",
+        "sr@latin": "Rokycany",
+        "tt@iqtelif": "Rokycany"
     },
     "327": {
         "af": "Tachov",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Tachov",
         "zh_Hant_TW": "Tachov",
         "zu": "Tachov",
-        "zu_ZA": "Tachov"
+        "zu_ZA": "Tachov",
+        "sr@latin": "Tachov",
+        "tt@iqtelif": "Tachov"
     },
     "411": {
         "af": "Cheb",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Cheb",
         "zh_Hant_TW": "Cheb",
         "zu": "Cheb",
-        "zu_ZA": "Cheb"
+        "zu_ZA": "Cheb",
+        "sr@latin": "Čeb",
+        "tt@iqtelif": "Cheb"
     },
     "412": {
         "af": "Karlovy Vary",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "Karlovy Vary",
         "zh_Hant_TW": "Karlovy Vary",
         "zu": "Karlovy Vary",
-        "zu_ZA": "Karlovy Vary"
+        "zu_ZA": "Karlovy Vary",
+        "sr@latin": "Karlovi Vari",
+        "tt@iqtelif": "Karlovy Vary"
     },
     "413": {
         "af": "Sokolov",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Sokolov",
         "zh_Hant_TW": "Sokolov",
         "zu": "Sokolov",
-        "zu_ZA": "Sokolov"
+        "zu_ZA": "Sokolov",
+        "sr@latin": "Sokolov",
+        "tt@iqtelif": "Sokolov"
     },
     "421": {
         "af": "Děčín",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Děčín",
         "zh_Hant_TW": "Děčín",
         "zu": "Děčín",
-        "zu_ZA": "Děčín"
+        "zu_ZA": "Děčín",
+        "sr@latin": "Dečin",
+        "tt@iqtelif": "Děčín"
     },
     "422": {
         "af": "Chomutov",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "Chomutov",
         "zh_Hant_TW": "Chomutov",
         "zu": "Chomutov",
-        "zu_ZA": "Chomutov"
+        "zu_ZA": "Chomutov",
+        "sr@latin": "Čomutov",
+        "tt@iqtelif": "Chomutov"
     },
     "423": {
         "af": "Litoměřice",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Litoměřice",
         "zh_Hant_TW": "Litoměřice",
         "zu": "Litoměřice",
-        "zu_ZA": "Litoměřice"
+        "zu_ZA": "Litoměřice",
+        "sr@latin": "Litomerice",
+        "tt@iqtelif": "Litoměřice"
     },
     "424": {
         "af": "Louny",
@@ -41498,7 +41590,9 @@
         "zh_Hant_MY": "Louny",
         "zh_Hant_TW": "Louny",
         "zu": "Louny",
-        "zu_ZA": "Louny"
+        "zu_ZA": "Louny",
+        "sr@latin": "Luni",
+        "tt@iqtelif": "Louny"
     },
     "425": {
         "af": "Most",
@@ -42381,7 +42475,9 @@
         "zh_Hant_MY": "Most",
         "zh_Hant_TW": "Most",
         "zu": "Most",
-        "zu_ZA": "Most"
+        "zu_ZA": "Most",
+        "sr@latin": "Most",
+        "tt@iqtelif": "Most"
     },
     "426": {
         "af": "Teplice",
@@ -43264,7 +43360,9 @@
         "zh_Hant_MY": "Teplice",
         "zh_Hant_TW": "Teplice",
         "zu": "Teplice",
-        "zu_ZA": "Teplice"
+        "zu_ZA": "Teplice",
+        "sr@latin": "Teplice",
+        "tt@iqtelif": "Teplice"
     },
     "427": {
         "af": "Ústí nad Labem",
@@ -44147,7 +44245,9 @@
         "zh_Hant_MY": "Ústí nad Labem",
         "zh_Hant_TW": "Ústí nad Labem",
         "zu": "Ústí nad Labem",
-        "zu_ZA": "Ústí nad Labem"
+        "zu_ZA": "Ústí nad Labem",
+        "sr@latin": "Ústí nad Labem",
+        "tt@iqtelif": "Ústí nad Labem"
     },
     "511": {
         "af": "Česká Lípa",
@@ -45030,7 +45130,9 @@
         "zh_Hant_MY": "Česká Lípa",
         "zh_Hant_TW": "Česká Lípa",
         "zu": "Česká Lípa",
-        "zu_ZA": "Česká Lípa"
+        "zu_ZA": "Česká Lípa",
+        "sr@latin": "Češka Lipa",
+        "tt@iqtelif": "Česká Lípa"
     },
     "512": {
         "af": "Jablonec nad Nisou",
@@ -45913,7 +46015,9 @@
         "zh_Hant_MY": "Jablonec nad Nisou",
         "zh_Hant_TW": "Jablonec nad Nisou",
         "zu": "Jablonec nad Nisou",
-        "zu_ZA": "Jablonec nad Nisou"
+        "zu_ZA": "Jablonec nad Nisou",
+        "sr@latin": "Jablonec na Nisou",
+        "tt@iqtelif": "Jablonec nad Nisou"
     },
     "513": {
         "af": "Liberec",
@@ -46796,7 +46900,9 @@
         "zh_Hant_MY": "Liberec",
         "zh_Hant_TW": "Liberec",
         "zu": "Liberec",
-        "zu_ZA": "Liberec"
+        "zu_ZA": "Liberec",
+        "sr@latin": "Liberek",
+        "tt@iqtelif": "Liberec"
     },
     "514": {
         "af": "Semily",
@@ -47679,7 +47785,9 @@
         "zh_Hant_MY": "Semily",
         "zh_Hant_TW": "Semily",
         "zu": "Semily",
-        "zu_ZA": "Semily"
+        "zu_ZA": "Semily",
+        "sr@latin": "Semili",
+        "tt@iqtelif": "Semily"
     },
     "521": {
         "af": "Hradec Králové",
@@ -48562,7 +48670,9 @@
         "zh_Hant_MY": "Hradec Králové",
         "zh_Hant_TW": "Hradec Králové",
         "zu": "Hradec Králové",
-        "zu_ZA": "Hradec Králové"
+        "zu_ZA": "Hradec Králové",
+        "sr@latin": "Hradec Kralove",
+        "tt@iqtelif": "Hradec Králové"
     },
     "522": {
         "af": "Jičín",
@@ -49445,7 +49555,9 @@
         "zh_Hant_MY": "Jičín",
         "zh_Hant_TW": "Jičín",
         "zu": "Jičín",
-        "zu_ZA": "Jičín"
+        "zu_ZA": "Jičín",
+        "sr@latin": "Jičin",
+        "tt@iqtelif": "Jičín"
     },
     "523": {
         "af": "Náchod",
@@ -50328,7 +50440,9 @@
         "zh_Hant_MY": "Náchod",
         "zh_Hant_TW": "Náchod",
         "zu": "Náchod",
-        "zu_ZA": "Náchod"
+        "zu_ZA": "Náchod",
+        "sr@latin": "Nahod",
+        "tt@iqtelif": "Náchod"
     },
     "524": {
         "af": "Rychnov nad Kněžnou",
@@ -51211,7 +51325,9 @@
         "zh_Hant_MY": "Rychnov nad Kněžnou",
         "zh_Hant_TW": "Rychnov nad Kněžnou",
         "zu": "Rychnov nad Kněžnou",
-        "zu_ZA": "Rychnov nad Kněžnou"
+        "zu_ZA": "Rychnov nad Kněžnou",
+        "sr@latin": "Rychnov nad Kněžnou",
+        "tt@iqtelif": "Rychnov nad Kněžnou"
     },
     "525": {
         "af": "Trutnov",
@@ -52094,7 +52210,9 @@
         "zh_Hant_MY": "Trutnov",
         "zh_Hant_TW": "Trutnov",
         "zu": "Trutnov",
-        "zu_ZA": "Trutnov"
+        "zu_ZA": "Trutnov",
+        "sr@latin": "Trutnov",
+        "tt@iqtelif": "Trutnov"
     },
     "531": {
         "af": "Chrudim",
@@ -52977,7 +53095,9 @@
         "zh_Hant_MY": "Chrudim",
         "zh_Hant_TW": "Chrudim",
         "zu": "Chrudim",
-        "zu_ZA": "Chrudim"
+        "zu_ZA": "Chrudim",
+        "sr@latin": "Krudim",
+        "tt@iqtelif": "Chrudim"
     },
     "532": {
         "af": "Pardubice",
@@ -53860,7 +53980,9 @@
         "zh_Hant_MY": "Pardubice",
         "zh_Hant_TW": "Pardubice",
         "zu": "Pardubice",
-        "zu_ZA": "Pardubice"
+        "zu_ZA": "Pardubice",
+        "sr@latin": "Pardubice",
+        "tt@iqtelif": "Pardubice"
     },
     "533": {
         "af": "Svitavy",
@@ -54743,7 +54865,9 @@
         "zh_Hant_MY": "Svitavy",
         "zh_Hant_TW": "Svitavy",
         "zu": "Svitavy",
-        "zu_ZA": "Svitavy"
+        "zu_ZA": "Svitavy",
+        "sr@latin": "Svitavy",
+        "tt@iqtelif": "Svitavy"
     },
     "534": {
         "af": "Ústí nad Orlicí",
@@ -55626,7 +55750,9 @@
         "zh_Hant_MY": "Ústí nad Orlicí",
         "zh_Hant_TW": "Ústí nad Orlicí",
         "zu": "Ústí nad Orlicí",
-        "zu_ZA": "Ústí nad Orlicí"
+        "zu_ZA": "Ústí nad Orlicí",
+        "sr@latin": "Ústí nad Orlicí",
+        "tt@iqtelif": "Ústí nad Orlicí"
     },
     "631": {
         "af": "Havlíčkův Brod",
@@ -56509,7 +56635,9 @@
         "zh_Hant_MY": "Havlíčkův Brod",
         "zh_Hant_TW": "Havlíčkův Brod",
         "zu": "Havlíčkův Brod",
-        "zu_ZA": "Havlíčkův Brod"
+        "zu_ZA": "Havlíčkův Brod",
+        "sr@latin": "Havličkov Brod",
+        "tt@iqtelif": "Havlíčkův Brod"
     },
     "632": {
         "af": "Jihlava",
@@ -57392,7 +57520,9 @@
         "zh_Hant_MY": "Jihlava",
         "zh_Hant_TW": "Jihlava",
         "zu": "Jihlava",
-        "zu_ZA": "Jihlava"
+        "zu_ZA": "Jihlava",
+        "sr@latin": "Jihlava",
+        "tt@iqtelif": "Jihlava"
     },
     "633": {
         "af": "Pelhřimov",
@@ -58275,7 +58405,9 @@
         "zh_Hant_MY": "Pelhřimov",
         "zh_Hant_TW": "Pelhřimov",
         "zu": "Pelhřimov",
-        "zu_ZA": "Pelhřimov"
+        "zu_ZA": "Pelhřimov",
+        "sr@latin": "Pelhrimov",
+        "tt@iqtelif": "Pelhřimov"
     },
     "634": {
         "af": "Třebíč",
@@ -59158,7 +59290,9 @@
         "zh_Hant_MY": "Třebíč",
         "zh_Hant_TW": "Třebíč",
         "zu": "Třebíč",
-        "zu_ZA": "Třebíč"
+        "zu_ZA": "Třebíč",
+        "sr@latin": "Trebič",
+        "tt@iqtelif": "Třebíč"
     },
     "635": {
         "af": "Žďár nad Sázavou",
@@ -60041,7 +60175,9 @@
         "zh_Hant_MY": "Žďár nad Sázavou",
         "zh_Hant_TW": "Žďár nad Sázavou",
         "zu": "Žďár nad Sázavou",
-        "zu_ZA": "Žďár nad Sázavou"
+        "zu_ZA": "Žďár nad Sázavou",
+        "sr@latin": "Žďár nad Sázavou",
+        "tt@iqtelif": "Žďár nad Sázavou"
     },
     "641": {
         "af": "Blansko",
@@ -60924,7 +61060,9 @@
         "zh_Hant_MY": "Blansko",
         "zh_Hant_TW": "Blansko",
         "zu": "Blansko",
-        "zu_ZA": "Blansko"
+        "zu_ZA": "Blansko",
+        "sr@latin": "Blansko",
+        "tt@iqtelif": "Blansko"
     },
     "642": {
         "af": "Brno-město",
@@ -61807,7 +61945,9 @@
         "zh_Hant_MY": "Brno-město",
         "zh_Hant_TW": "Brno-město",
         "zu": "Brno-město",
-        "zu_ZA": "Brno-město"
+        "zu_ZA": "Brno-město",
+        "sr@latin": "Brno-mesto",
+        "tt@iqtelif": "Brno-město"
     },
     "643": {
         "af": "Brno-venkov",
@@ -62690,7 +62830,9 @@
         "zh_Hant_MY": "Brno-venkov",
         "zh_Hant_TW": "Brno-venkov",
         "zu": "Brno-venkov",
-        "zu_ZA": "Brno-venkov"
+        "zu_ZA": "Brno-venkov",
+        "sr@latin": "Brno-venkov",
+        "tt@iqtelif": "Brno-venkov"
     },
     "644": {
         "af": "Břeclav",
@@ -63573,7 +63715,9 @@
         "zh_Hant_MY": "Břeclav",
         "zh_Hant_TW": "Břeclav",
         "zu": "Břeclav",
-        "zu_ZA": "Břeclav"
+        "zu_ZA": "Břeclav",
+        "sr@latin": "Breclav",
+        "tt@iqtelif": "Břeclav"
     },
     "645": {
         "af": "Hodonín",
@@ -64456,7 +64600,9 @@
         "zh_Hant_MY": "Hodonín",
         "zh_Hant_TW": "Hodonín",
         "zu": "Hodonín",
-        "zu_ZA": "Hodonín"
+        "zu_ZA": "Hodonín",
+        "sr@latin": "Hodonin",
+        "tt@iqtelif": "Hodonín"
     },
     "646": {
         "af": "Vyškov",
@@ -65339,7 +65485,9 @@
         "zh_Hant_MY": "Vyškov",
         "zh_Hant_TW": "Vyškov",
         "zu": "Vyškov",
-        "zu_ZA": "Vyškov"
+        "zu_ZA": "Vyškov",
+        "sr@latin": "Viškov",
+        "tt@iqtelif": "Vyškov"
     },
     "647": {
         "af": "Znojmo",
@@ -66222,7 +66370,9 @@
         "zh_Hant_MY": "Znojmo",
         "zh_Hant_TW": "Znojmo",
         "zu": "Znojmo",
-        "zu_ZA": "Znojmo"
+        "zu_ZA": "Znojmo",
+        "sr@latin": "Znojmo",
+        "tt@iqtelif": "Znojmo"
     },
     "711": {
         "af": "Jeseník",
@@ -67105,7 +67255,9 @@
         "zh_Hant_MY": "Jeseník",
         "zh_Hant_TW": "Jeseník",
         "zu": "Jeseník",
-        "zu_ZA": "Jeseník"
+        "zu_ZA": "Jeseník",
+        "sr@latin": "Jesenik",
+        "tt@iqtelif": "Jeseník"
     },
     "712": {
         "af": "Olomouc",
@@ -67988,7 +68140,9 @@
         "zh_Hant_MY": "Olomouc",
         "zh_Hant_TW": "Olomouc",
         "zu": "Olomouc",
-        "zu_ZA": "Olomouc"
+        "zu_ZA": "Olomouc",
+        "sr@latin": "Olomuk",
+        "tt@iqtelif": "Olomouc"
     },
     "713": {
         "af": "Prostějov",
@@ -68871,7 +69025,9 @@
         "zh_Hant_MY": "Prostějov",
         "zh_Hant_TW": "Prostějov",
         "zu": "Prostějov",
-        "zu_ZA": "Prostějov"
+        "zu_ZA": "Prostějov",
+        "sr@latin": "Prostějov",
+        "tt@iqtelif": "Prostějov"
     },
     "714": {
         "af": "Přerov",
@@ -69754,7 +69910,9 @@
         "zh_Hant_MY": "Přerov",
         "zh_Hant_TW": "Přerov",
         "zu": "Přerov",
-        "zu_ZA": "Přerov"
+        "zu_ZA": "Přerov",
+        "sr@latin": "Prerov",
+        "tt@iqtelif": "Přerov"
     },
     "715": {
         "af": "Šumperk",
@@ -70637,7 +70795,9 @@
         "zh_Hant_MY": "Šumperk",
         "zh_Hant_TW": "Šumperk",
         "zu": "Šumperk",
-        "zu_ZA": "Šumperk"
+        "zu_ZA": "Šumperk",
+        "sr@latin": "Šumperk",
+        "tt@iqtelif": "Šumperk"
     },
     "721": {
         "af": "Kroměříž",
@@ -71520,7 +71680,9 @@
         "zh_Hant_MY": "Kroměříž",
         "zh_Hant_TW": "Kroměříž",
         "zu": "Kroměříž",
-        "zu_ZA": "Kroměříž"
+        "zu_ZA": "Kroměříž",
+        "sr@latin": "Kroměříž",
+        "tt@iqtelif": "Kroměříž"
     },
     "722": {
         "af": "Uherské Hradiště",
@@ -72403,7 +72565,9 @@
         "zh_Hant_MY": "Uherské Hradiště",
         "zh_Hant_TW": "Uherské Hradiště",
         "zu": "Uherské Hradiště",
-        "zu_ZA": "Uherské Hradiště"
+        "zu_ZA": "Uherské Hradiště",
+        "sr@latin": "Uherské Hradiště",
+        "tt@iqtelif": "Uherské Hradiště"
     },
     "723": {
         "af": "Vsetín",
@@ -73286,7 +73450,9 @@
         "zh_Hant_MY": "Vsetín",
         "zh_Hant_TW": "Vsetín",
         "zu": "Vsetín",
-        "zu_ZA": "Vsetín"
+        "zu_ZA": "Vsetín",
+        "sr@latin": "Vsetín",
+        "tt@iqtelif": "Vsetín"
     },
     "724": {
         "af": "Zlín",
@@ -74169,7 +74335,9 @@
         "zh_Hant_MY": "Zlín",
         "zh_Hant_TW": "Zlín",
         "zu": "Zlín",
-        "zu_ZA": "Zlín"
+        "zu_ZA": "Zlín",
+        "sr@latin": "Zlin",
+        "tt@iqtelif": "Zlín"
     },
     "801": {
         "af": "Bruntál",
@@ -75052,7 +75220,9 @@
         "zh_Hant_MY": "Bruntál",
         "zh_Hant_TW": "Bruntál",
         "zu": "Bruntál",
-        "zu_ZA": "Bruntál"
+        "zu_ZA": "Bruntál",
+        "sr@latin": "Bruntal",
+        "tt@iqtelif": "Bruntál"
     },
     "802": {
         "af": "Frýdek-Místek",
@@ -75935,7 +76105,9 @@
         "zh_Hant_MY": "Frýdek-Místek",
         "zh_Hant_TW": "Frýdek-Místek",
         "zu": "Frýdek-Místek",
-        "zu_ZA": "Frýdek-Místek"
+        "zu_ZA": "Frýdek-Místek",
+        "sr@latin": "Frýdek-Místek",
+        "tt@iqtelif": "Frýdek-Místek"
     },
     "803": {
         "af": "Karviná",
@@ -76818,7 +76990,9 @@
         "zh_Hant_MY": "Karviná",
         "zh_Hant_TW": "Karviná",
         "zu": "Karviná",
-        "zu_ZA": "Karviná"
+        "zu_ZA": "Karviná",
+        "sr@latin": "Karvina",
+        "tt@iqtelif": "Karviná"
     },
     "804": {
         "af": "Nový Jičín",
@@ -77701,7 +77875,9 @@
         "zh_Hant_MY": "Nový Jičín",
         "zh_Hant_TW": "Nový Jičín",
         "zu": "Nový Jičín",
-        "zu_ZA": "Nový Jičín"
+        "zu_ZA": "Nový Jičín",
+        "sr@latin": "Novi Jičin",
+        "tt@iqtelif": "Nový Jičín"
     },
     "805": {
         "af": "Opava",
@@ -78584,7 +78760,9 @@
         "zh_Hant_MY": "Opava",
         "zh_Hant_TW": "Opava",
         "zu": "Opava",
-        "zu_ZA": "Opava"
+        "zu_ZA": "Opava",
+        "sr@latin": "Opava",
+        "tt@iqtelif": "Opava"
     },
     "806": {
         "af": "Ostrava-město",
@@ -79467,6 +79645,8 @@
         "zh_Hant_MY": "Ostrava-město",
         "zh_Hant_TW": "Ostrava-město",
         "zu": "Ostrava-město",
-        "zu_ZA": "Ostrava-město"
+        "zu_ZA": "Ostrava-město",
+        "sr@latin": "Ostrava-město",
+        "tt@iqtelif": "Ostrava-město"
     }
 }

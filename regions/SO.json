@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Awdal",
         "zh_Hant_TW": "Awdal",
         "zu": "Awdal",
-        "zu_ZA": "Awdal"
+        "zu_ZA": "Awdal",
+        "sr@latin": "Avdal",
+        "tt@iqtelif": "Awdal"
     },
     "BK": {
         "af": "Bakool",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bakool",
         "zh_Hant_TW": "Bakool",
         "zu": "Bakool",
-        "zu_ZA": "Bakool"
+        "zu_ZA": "Bakool",
+        "sr@latin": "Bakul",
+        "tt@iqtelif": "Bakool"
     },
     "BN": {
         "af": "Banaadir",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Banaadir",
         "zh_Hant_TW": "Banaadir",
         "zu": "Banaadir",
-        "zu_ZA": "Banaadir"
+        "zu_ZA": "Banaadir",
+        "sr@latin": "Banadir",
+        "tt@iqtelif": "Banaadir"
     },
     "BR": {
         "af": "Bari",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Bari",
         "zh_Hant_TW": "Bari",
         "zu": "Bari",
-        "zu_ZA": "Bari"
+        "zu_ZA": "Bari",
+        "sr@latin": "Bari",
+        "tt@iqtelif": "Bari"
     },
     "BY": {
         "af": "Bay",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Bay",
         "zh_Hant_TW": "Bay",
         "zu": "Bay",
-        "zu_ZA": "Bay"
+        "zu_ZA": "Bay",
+        "sr@latin": "Bej",
+        "tt@iqtelif": "Bay"
     },
     "GA": {
         "af": "Galguduud",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Galguduud",
         "zh_Hant_TW": "Galguduud",
         "zu": "Galguduud",
-        "zu_ZA": "Galguduud"
+        "zu_ZA": "Galguduud",
+        "sr@latin": "Galgudud",
+        "tt@iqtelif": "Galguduud"
     },
     "GE": {
         "af": "Gedo",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Gedo",
         "zh_Hant_TW": "Gedo",
         "zu": "Gedo",
-        "zu_ZA": "Gedo"
+        "zu_ZA": "Gedo",
+        "sr@latin": "Gedo",
+        "tt@iqtelif": "Gedo"
     },
     "HI": {
         "af": "Hiiraan",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Hiiraan",
         "zh_Hant_TW": "Hiiraan",
         "zu": "Hiiraan",
-        "zu_ZA": "Hiiraan"
+        "zu_ZA": "Hiiraan",
+        "sr@latin": "Hiiraan",
+        "tt@iqtelif": "Hiiraan"
     },
     "JD": {
         "af": "Jubbada Dhexe",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Jubbada Dhexe",
         "zh_Hant_TW": "Jubbada Dhexe",
         "zu": "Jubbada Dhexe",
-        "zu_ZA": "Jubbada Dhexe"
+        "zu_ZA": "Jubbada Dhexe",
+        "sr@latin": "Jubbada Dhexe",
+        "tt@iqtelif": "Jubbada Dhexe"
     },
     "JH": {
         "af": "Jubbada Hoose",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Jubbada Hoose",
         "zh_Hant_TW": "Jubbada Hoose",
         "zu": "Jubbada Hoose",
-        "zu_ZA": "Jubbada Hoose"
+        "zu_ZA": "Jubbada Hoose",
+        "sr@latin": "Jubbada Hoose",
+        "tt@iqtelif": "Jubbada Hoose"
     },
     "MU": {
         "af": "Mudug",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Mudug",
         "zh_Hant_TW": "Mudug",
         "zu": "Mudug",
-        "zu_ZA": "Mudug"
+        "zu_ZA": "Mudug",
+        "sr@latin": "Mudug",
+        "tt@iqtelif": "Mudug"
     },
     "NU": {
         "af": "Nugaal",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Nugaal",
         "zh_Hant_TW": "Nugaal",
         "zu": "Nugaal",
-        "zu_ZA": "Nugaal"
+        "zu_ZA": "Nugaal",
+        "sr@latin": "Nugal",
+        "tt@iqtelif": "Nugaal"
     },
     "SA": {
         "af": "Sanaag",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Sanaag",
         "zh_Hant_TW": "Sanaag",
         "zu": "Sanaag",
-        "zu_ZA": "Sanaag"
+        "zu_ZA": "Sanaag",
+        "sr@latin": "Sanaag",
+        "tt@iqtelif": "Sanaag"
     },
     "SD": {
         "af": "Shabeellaha Dhexe",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Shabeellaha Dhexe",
         "zh_Hant_TW": "Shabeellaha Dhexe",
         "zu": "Shabeellaha Dhexe",
-        "zu_ZA": "Shabeellaha Dhexe"
+        "zu_ZA": "Shabeellaha Dhexe",
+        "sr@latin": "Shabeellaha Dhexe",
+        "tt@iqtelif": "Shabeellaha Dhexe"
     },
     "SH": {
         "af": "Shabeellaha Hoose",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Shabeellaha Hoose",
         "zh_Hant_TW": "Shabeellaha Hoose",
         "zu": "Shabeellaha Hoose",
-        "zu_ZA": "Shabeellaha Hoose"
+        "zu_ZA": "Shabeellaha Hoose",
+        "sr@latin": "Shabeellaha Hoose",
+        "tt@iqtelif": "Shabeellaha Hoose"
     },
     "SO": {
         "af": "Sool",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Sool",
         "zh_Hant_TW": "Sool",
         "zu": "Sool",
-        "zu_ZA": "Sool"
+        "zu_ZA": "Sool",
+        "sr@latin": "Sool",
+        "tt@iqtelif": "Sool"
     },
     "TO": {
         "af": "Togdheer",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Togdheer",
         "zh_Hant_TW": "Togdheer",
         "zu": "Togdheer",
-        "zu_ZA": "Togdheer"
+        "zu_ZA": "Togdheer",
+        "sr@latin": "Togdheer",
+        "tt@iqtelif": "Togdheer"
     },
     "WO": {
         "af": "Woqooyi Galbeed",
@@ -15891,6 +15925,8 @@
         "zh_Hant_MY": "Woqooyi Galbeed",
         "zh_Hant_TW": "Woqooyi Galbeed",
         "zu": "Woqooyi Galbeed",
-        "zu_ZA": "Woqooyi Galbeed"
+        "zu_ZA": "Woqooyi Galbeed",
+        "sr@latin": "Woqooyi Galbeed",
+        "tt@iqtelif": "Woqooyi Galbeed"
     }
 }

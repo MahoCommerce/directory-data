@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Chimbu",
         "zh_Hant_TW": "Chimbu",
         "zu": "Chimbu",
-        "zu_ZA": "Chimbu"
+        "zu_ZA": "Chimbu",
+        "sr@latin": "Čimbu",
+        "tt@iqtelif": "Chimbu"
     },
     "CPM": {
         "af": "Central",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central"
+        "zu_ZA": "Central",
+        "sr@latin": "Centralni",
+        "tt@iqtelif": "Central"
     },
     "EBR": {
         "af": "East New Britain",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "East New Britain",
         "zh_Hant_TW": "East New Britain",
         "zu": "East New Britain",
-        "zu_ZA": "East New Britain"
+        "zu_ZA": "East New Britain",
+        "sr@latin": "Istočna Nova Britanija",
+        "tt@iqtelif": "East New Britain"
     },
     "EHG": {
         "af": "Eastern Highlands",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Eastern Highlands",
         "zh_Hant_TW": "Eastern Highlands",
         "zu": "Eastern Highlands",
-        "zu_ZA": "Eastern Highlands"
+        "zu_ZA": "Eastern Highlands",
+        "sr@latin": "Eastern Highlands",
+        "tt@iqtelif": "Eastern Highlands"
     },
     "EPW": {
         "af": "Enga",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Enga",
         "zh_Hant_TW": "Enga",
         "zu": "Enga",
-        "zu_ZA": "Enga"
+        "zu_ZA": "Enga",
+        "sr@latin": "Enga",
+        "tt@iqtelif": "Enga"
     },
     "ESW": {
         "af": "East Sepik",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "East Sepik",
         "zh_Hant_TW": "East Sepik",
         "zu": "East Sepik",
-        "zu_ZA": "East Sepik"
+        "zu_ZA": "East Sepik",
+        "sr@latin": "Istočni Sepik",
+        "tt@iqtelif": "East Sepik"
     },
     "GPK": {
         "af": "Gulf",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Gulf",
         "zh_Hant_TW": "Gulf",
         "zu": "Gulf",
-        "zu_ZA": "Gulf"
+        "zu_ZA": "Gulf",
+        "sr@latin": "Golf",
+        "tt@iqtelif": "Gulf"
     },
     "HLA": {
         "af": "Hela",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Hela",
         "zh_Hant_TW": "Hela",
         "zu": "Hela",
-        "zu_ZA": "Hela"
+        "zu_ZA": "Hela",
+        "sr@latin": "Hela",
+        "tt@iqtelif": "Hela"
     },
     "JWK": {
         "af": "Jiwaka",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Jiwaka",
         "zh_Hant_TW": "Jiwaka",
         "zu": "Jiwaka",
-        "zu_ZA": "Jiwaka"
+        "zu_ZA": "Jiwaka",
+        "sr@latin": "Jiwaka",
+        "tt@iqtelif": "Jiwaka"
     },
     "MBA": {
         "af": "Milne Bay",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Milne Bay",
         "zh_Hant_TW": "Milne Bay",
         "zu": "Milne Bay",
-        "zu_ZA": "Milne Bay"
+        "zu_ZA": "Milne Bay",
+        "sr@latin": "Milne Bej",
+        "tt@iqtelif": "Milne Bay"
     },
     "MPL": {
         "af": "Morobe",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Morobe",
         "zh_Hant_TW": "Morobe",
         "zu": "Morobe",
-        "zu_ZA": "Morobe"
+        "zu_ZA": "Morobe",
+        "sr@latin": "Morobe",
+        "tt@iqtelif": "Morobe"
     },
     "MPM": {
         "af": "Madang",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Madang",
         "zh_Hant_TW": "Madang",
         "zu": "Madang",
-        "zu_ZA": "Madang"
+        "zu_ZA": "Madang",
+        "sr@latin": "Madang",
+        "tt@iqtelif": "Madang"
     },
     "MRL": {
         "af": "Manus",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Manus",
         "zh_Hant_TW": "Manus",
         "zu": "Manus",
-        "zu_ZA": "Manus"
+        "zu_ZA": "Manus",
+        "sr@latin": "Manus",
+        "tt@iqtelif": "Manus"
     },
     "NCD": {
         "af": "National Capital District (Port Moresby)",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "National Capital District (Port Moresby)",
         "zh_Hant_TW": "National Capital District (Port Moresby)",
         "zu": "National Capital District (Port Moresby)",
-        "zu_ZA": "National Capital District (Port Moresby)"
+        "zu_ZA": "National Capital District (Port Moresby)",
+        "sr@latin": "National Capital District (Port Moresby)",
+        "tt@iqtelif": "National Capital District (Port Moresby)"
     },
     "NIK": {
         "af": "New Ireland",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "New Ireland",
         "zh_Hant_TW": "New Ireland",
         "zu": "New Ireland",
-        "zu_ZA": "New Ireland"
+        "zu_ZA": "New Ireland",
+        "sr@latin": "Nova Irska",
+        "tt@iqtelif": "New Ireland"
     },
     "NPP": {
         "af": "Northern",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Northern",
         "zh_Hant_TW": "Northern",
         "zu": "Northern",
-        "zu_ZA": "Northern"
+        "zu_ZA": "Northern",
+        "sr@latin": "Northern",
+        "tt@iqtelif": "Northern"
     },
     "NSB": {
         "af": "Bougainville",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Bougainville",
         "zh_Hant_TW": "Bougainville",
         "zu": "Bougainville",
-        "zu_ZA": "Bougainville"
+        "zu_ZA": "Bougainville",
+        "sr@latin": "Buganvil",
+        "tt@iqtelif": "Bougainville"
     },
     "SAN": {
         "af": "West Sepik",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "West Sepik",
         "zh_Hant_TW": "West Sepik",
         "zu": "West Sepik",
-        "zu_ZA": "West Sepik"
+        "zu_ZA": "West Sepik",
+        "sr@latin": "West Sepik",
+        "tt@iqtelif": "West Sepik"
     },
     "SHM": {
         "af": "Southern Highlands",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Southern Highlands",
         "zh_Hant_TW": "Southern Highlands",
         "zu": "Southern Highlands",
-        "zu_ZA": "Southern Highlands"
+        "zu_ZA": "Southern Highlands",
+        "sr@latin": "Southern Highlands",
+        "tt@iqtelif": "Southern Highlands"
     },
     "WBK": {
         "af": "West New Britain",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "West New Britain",
         "zh_Hant_TW": "West New Britain",
         "zu": "West New Britain",
-        "zu_ZA": "West New Britain"
+        "zu_ZA": "West New Britain",
+        "sr@latin": "Zapadna Nova Britanija",
+        "tt@iqtelif": "West New Britain"
     },
     "WHM": {
         "af": "Western Highlands",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Western Highlands",
         "zh_Hant_TW": "Western Highlands",
         "zu": "Western Highlands",
-        "zu_ZA": "Western Highlands"
+        "zu_ZA": "Western Highlands",
+        "sr@latin": "Western Highlands",
+        "tt@iqtelif": "Western Highlands"
     },
     "WPD": {
         "af": "Western",
@@ -19423,6 +19465,8 @@
         "zh_Hant_MY": "Western",
         "zh_Hant_TW": "Western",
         "zu": "Western",
-        "zu_ZA": "Western"
+        "zu_ZA": "Western",
+        "sr@latin": "Western",
+        "tt@iqtelif": "Western"
     }
 }

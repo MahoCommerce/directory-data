@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Lékoumou",
         "zh_Hant_TW": "Lékoumou",
         "zu": "Lékoumou",
-        "zu_ZA": "Lékoumou"
+        "zu_ZA": "Lékoumou",
+        "sr@latin": "Lekumu",
+        "tt@iqtelif": "Lékoumou"
     },
     "5": {
         "af": "Kouilou",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kouilou",
         "zh_Hant_TW": "Kouilou",
         "zu": "Kouilou",
-        "zu_ZA": "Kouilou"
+        "zu_ZA": "Kouilou",
+        "sr@latin": "Kuilu",
+        "tt@iqtelif": "Kouilou"
     },
     "7": {
         "af": "Likouala",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Likouala",
         "zh_Hant_TW": "Likouala",
         "zu": "Likouala",
-        "zu_ZA": "Likouala"
+        "zu_ZA": "Likouala",
+        "sr@latin": "Likuala",
+        "tt@iqtelif": "Likouala"
     },
     "8": {
         "af": "Cuvette",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Cuvette",
         "zh_Hant_TW": "Cuvette",
         "zu": "Cuvette",
-        "zu_ZA": "Cuvette"
+        "zu_ZA": "Cuvette",
+        "sr@latin": "Kuvet",
+        "tt@iqtelif": "Cuvette"
     },
     "9": {
         "af": "Niari",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Niari",
         "zh_Hant_TW": "Niari",
         "zu": "Niari",
-        "zu_ZA": "Niari"
+        "zu_ZA": "Niari",
+        "sr@latin": "Njari",
+        "tt@iqtelif": "Niari"
     },
     "11": {
         "af": "Bouenza",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Bouenza",
         "zh_Hant_TW": "Bouenza",
         "zu": "Bouenza",
-        "zu_ZA": "Bouenza"
+        "zu_ZA": "Bouenza",
+        "sr@latin": "Buenca",
+        "tt@iqtelif": "Bouenza"
     },
     "12": {
         "af": "Pool",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Pool",
         "zh_Hant_TW": "Pool",
         "zu": "Pool",
-        "zu_ZA": "Pool"
+        "zu_ZA": "Pool",
+        "sr@latin": "Pul",
+        "tt@iqtelif": "Pool"
     },
     "13": {
         "af": "Sangha",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Sangha",
         "zh_Hant_TW": "Sangha",
         "zu": "Sangha",
-        "zu_ZA": "Sangha"
+        "zu_ZA": "Sangha",
+        "sr@latin": "Sanga",
+        "tt@iqtelif": "Sangha"
     },
     "14": {
         "af": "Plateaux",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Plateaux",
         "zh_Hant_TW": "Plateaux",
         "zu": "Plateaux",
-        "zu_ZA": "Plateaux"
+        "zu_ZA": "Plateaux",
+        "sr@latin": "Plato",
+        "tt@iqtelif": "Plateaux"
     },
     "15": {
         "af": "Cuvette-Ouest",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Cuvette-Ouest",
         "zh_Hant_TW": "Cuvette-Ouest",
         "zu": "Cuvette-Ouest",
-        "zu_ZA": "Cuvette-Ouest"
+        "zu_ZA": "Cuvette-Ouest",
+        "sr@latin": "Zapadni Kuvet",
+        "tt@iqtelif": "Cuvette-Ouest"
     },
     "16": {
         "af": "Pointe-Noire",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Pointe-Noire",
         "zh_Hant_TW": "Pointe-Noire",
         "zu": "Pointe-Noire",
-        "zu_ZA": "Pointe-Noire"
+        "zu_ZA": "Pointe-Noire",
+        "sr@latin": "Pointe-Noire",
+        "tt@iqtelif": "Pointe-Noire"
     },
     "BZV": {
         "af": "Brazzaville",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Brazzaville",
         "zh_Hant_TW": "Brazzaville",
         "zu": "Brazzaville",
-        "zu_ZA": "Brazzaville"
+        "zu_ZA": "Brazzaville",
+        "sr@latin": "Brazavil",
+        "tt@iqtelif": "Brazzaville"
     }
 }

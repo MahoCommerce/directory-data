@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Banghāzī",
         "zh_Hant_TW": "Banghāzī",
         "zu": "Banghāzī",
-        "zu_ZA": "Banghāzī"
+        "zu_ZA": "Banghāzī",
+        "sr@latin": "Bangazi",
+        "tt@iqtelif": "Banghāzī"
     },
     "BU": {
         "af": "Al Buţnān",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Al Buţnān",
         "zh_Hant_TW": "Al Buţnān",
         "zu": "Al Buţnān",
-        "zu_ZA": "Al Buţnān"
+        "zu_ZA": "Al Buţnān",
+        "sr@latin": "Al Butnan",
+        "tt@iqtelif": "Al Buţnān"
     },
     "DR": {
         "af": "Darnah",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Darnah",
         "zh_Hant_TW": "Darnah",
         "zu": "Darnah",
-        "zu_ZA": "Darnah"
+        "zu_ZA": "Darnah",
+        "sr@latin": "Darna",
+        "tt@iqtelif": "Darnah"
     },
     "GT": {
         "af": "Ghāt",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Ghāt",
         "zh_Hant_TW": "Ghāt",
         "zu": "Ghāt",
-        "zu_ZA": "Ghāt"
+        "zu_ZA": "Ghāt",
+        "sr@latin": "Gat",
+        "tt@iqtelif": "Ghāt"
     },
     "JA": {
         "af": "Al Jabal al Akhḑar",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Al Jabal al Akhḑar",
         "zh_Hant_TW": "Al Jabal al Akhḑar",
         "zu": "Al Jabal al Akhḑar",
-        "zu_ZA": "Al Jabal al Akhḑar"
+        "zu_ZA": "Al Jabal al Akhḑar",
+        "sr@latin": "Al Jabal al Akhḑar",
+        "tt@iqtelif": "Al Jabal al Akhḑar"
     },
     "JG": {
         "af": "Al Jabal al Gharbī",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Al Jabal al Gharbī",
         "zh_Hant_TW": "Al Jabal al Gharbī",
         "zu": "Al Jabal al Gharbī",
-        "zu_ZA": "Al Jabal al Gharbī"
+        "zu_ZA": "Al Jabal al Gharbī",
+        "sr@latin": "Al Jabal al Gharbī",
+        "tt@iqtelif": "Al Jabal al Gharbī"
     },
     "JI": {
         "af": "Al Jafārah",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Al Jafārah",
         "zh_Hant_TW": "Al Jafārah",
         "zu": "Al Jafārah",
-        "zu_ZA": "Al Jafārah"
+        "zu_ZA": "Al Jafārah",
+        "sr@latin": "Al Jafārah",
+        "tt@iqtelif": "Al Jafārah"
     },
     "JU": {
         "af": "Al Jufrah",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Al Jufrah",
         "zh_Hant_TW": "Al Jufrah",
         "zu": "Al Jufrah",
-        "zu_ZA": "Al Jufrah"
+        "zu_ZA": "Al Jufrah",
+        "sr@latin": "Al Jufrah",
+        "tt@iqtelif": "Al Jufrah"
     },
     "KF": {
         "af": "Al Kufrah",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Al Kufrah",
         "zh_Hant_TW": "Al Kufrah",
         "zu": "Al Kufrah",
-        "zu_ZA": "Al Kufrah"
+        "zu_ZA": "Al Kufrah",
+        "sr@latin": "Al Kufrah",
+        "tt@iqtelif": "Al Kufrah"
     },
     "MB": {
         "af": "Al Marqab",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Al Marqab",
         "zh_Hant_TW": "Al Marqab",
         "zu": "Al Marqab",
-        "zu_ZA": "Al Marqab"
+        "zu_ZA": "Al Marqab",
+        "sr@latin": "Al Marqab",
+        "tt@iqtelif": "Al Marqab"
     },
     "MI": {
         "af": "Mişrātah",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Mişrātah",
         "zh_Hant_TW": "Mişrātah",
         "zu": "Mişrātah",
-        "zu_ZA": "Mişrātah"
+        "zu_ZA": "Mişrātah",
+        "sr@latin": "Mişrātah",
+        "tt@iqtelif": "Mişrātah"
     },
     "MJ": {
         "af": "Al Marj",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Al Marj",
         "zh_Hant_TW": "Al Marj",
         "zu": "Al Marj",
-        "zu_ZA": "Al Marj"
+        "zu_ZA": "Al Marj",
+        "sr@latin": "Al Marj",
+        "tt@iqtelif": "Al Marj"
     },
     "MQ": {
         "af": "Murzuq",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Murzuq",
         "zh_Hant_TW": "Murzuq",
         "zu": "Murzuq",
-        "zu_ZA": "Murzuq"
+        "zu_ZA": "Murzuq",
+        "sr@latin": "Mutcuk",
+        "tt@iqtelif": "Murzuq"
     },
     "NL": {
         "af": "Nālūt",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Nālūt",
         "zh_Hant_TW": "Nālūt",
         "zu": "Nālūt",
-        "zu_ZA": "Nālūt"
+        "zu_ZA": "Nālūt",
+        "sr@latin": "Nalut",
+        "tt@iqtelif": "Nālūt"
     },
     "NQ": {
         "af": "An Nuqāţ al Khams",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "An Nuqāţ al Khams",
         "zh_Hant_TW": "An Nuqāţ al Khams",
         "zu": "An Nuqāţ al Khams",
-        "zu_ZA": "An Nuqāţ al Khams"
+        "zu_ZA": "An Nuqāţ al Khams",
+        "sr@latin": "An Nuqāţ al Khams",
+        "tt@iqtelif": "An Nuqāţ al Khams"
     },
     "SB": {
         "af": "Sabhā",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Sabhā",
         "zh_Hant_TW": "Sabhā",
         "zu": "Sabhā",
-        "zu_ZA": "Sabhā"
+        "zu_ZA": "Sabhā",
+        "sr@latin": "Seba",
+        "tt@iqtelif": "Sabhā"
     },
     "SR": {
         "af": "Surt",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Surt",
         "zh_Hant_TW": "Surt",
         "zu": "Surt",
-        "zu_ZA": "Surt"
+        "zu_ZA": "Surt",
+        "sr@latin": "Surt",
+        "tt@iqtelif": "Surt"
     },
     "TB": {
         "af": "Ţarābulus",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Ţarābulus",
         "zh_Hant_TW": "Ţarābulus",
         "zu": "Ţarābulus",
-        "zu_ZA": "Ţarābulus"
+        "zu_ZA": "Ţarābulus",
+        "sr@latin": "Ţarābulus",
+        "tt@iqtelif": "Ţarābulus"
     },
     "WA": {
         "af": "Al Wāḩāt",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Al Wāḩāt",
         "zh_Hant_TW": "Al Wāḩāt",
         "zu": "Al Wāḩāt",
-        "zu_ZA": "Al Wāḩāt"
+        "zu_ZA": "Al Wāḩāt",
+        "sr@latin": "Al Wāḩāt",
+        "tt@iqtelif": "Al Wāḩāt"
     },
     "WD": {
         "af": "Wādī al Ḩayāt",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Wādī al Ḩayāt",
         "zh_Hant_TW": "Wādī al Ḩayāt",
         "zu": "Wādī al Ḩayāt",
-        "zu_ZA": "Wādī al Ḩayāt"
+        "zu_ZA": "Wādī al Ḩayāt",
+        "sr@latin": "Wādī al Ḩayāt",
+        "tt@iqtelif": "Wādī al Ḩayāt"
     },
     "WS": {
         "af": "Wādī ash Shāţi’",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Wādī ash Shāţi’",
         "zh_Hant_TW": "Wādī ash Shāţi’",
         "zu": "Wādī ash Shāţi’",
-        "zu_ZA": "Wādī ash Shāţi’"
+        "zu_ZA": "Wādī ash Shāţi’",
+        "sr@latin": "Wādī ash Shāţi’",
+        "tt@iqtelif": "Wādī ash Shāţi’"
     },
     "ZA": {
         "af": "Az Zāwiyah",
@@ -19423,6 +19465,8 @@
         "zh_Hant_MY": "Az Zāwiyah",
         "zh_Hant_TW": "Az Zāwiyah",
         "zu": "Az Zāwiyah",
-        "zu_ZA": "Az Zāwiyah"
+        "zu_ZA": "Az Zāwiyah",
+        "sr@latin": "Az Zāwiyah",
+        "tt@iqtelif": "Az Zāwiyah"
     }
 }

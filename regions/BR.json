@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Acre",
         "zh_Hant_TW": "Acre",
         "zu": "Acre",
-        "zu_ZA": "Acre"
+        "zu_ZA": "Acre",
+        "sr@latin": "Akre",
+        "tt@iqtelif": "Acre"
     },
     "AL": {
         "af": "Alagoas",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Alagoas",
         "zh_Hant_TW": "Alagoas",
         "zu": "Alagoas",
-        "zu_ZA": "Alagoas"
+        "zu_ZA": "Alagoas",
+        "sr@latin": "Alagoas",
+        "tt@iqtelif": "Alagoas"
     },
     "AM": {
         "af": "Amazonas",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Amazonas",
         "zh_Hant_TW": "Amazonas",
         "zu": "Amazonas",
-        "zu_ZA": "Amazonas"
+        "zu_ZA": "Amazonas",
+        "sr@latin": "Amazonas",
+        "tt@iqtelif": "Amazonas"
     },
     "AP": {
         "af": "Amapá",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Amapá",
         "zh_Hant_TW": "Amapá",
         "zu": "Amapá",
-        "zu_ZA": "Amapá"
+        "zu_ZA": "Amapá",
+        "sr@latin": "Amapa",
+        "tt@iqtelif": "Amapá"
     },
     "BA": {
         "af": "Bahia",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Bahia",
         "zh_Hant_TW": "Bahia",
         "zu": "Bahia",
-        "zu_ZA": "Bahia"
+        "zu_ZA": "Bahia",
+        "sr@latin": "Baija",
+        "tt@iqtelif": "Bahia"
     },
     "CE": {
         "af": "Ceará",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ceará",
         "zh_Hant_TW": "Ceará",
         "zu": "Ceará",
-        "zu_ZA": "Ceará"
+        "zu_ZA": "Ceará",
+        "sr@latin": "Siara",
+        "tt@iqtelif": "Ceará"
     },
     "DF": {
         "af": "Distrito Federal",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Distrito Federal",
         "zh_Hant_TW": "Distrito Federal",
         "zu": "Distrito Federal",
-        "zu_ZA": "Distrito Federal"
+        "zu_ZA": "Distrito Federal",
+        "sr@latin": "Federalni okrug",
+        "tt@iqtelif": "Distrito Federal"
     },
     "ES": {
         "af": "Espírito Santo",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Espírito Santo",
         "zh_Hant_TW": "Espírito Santo",
         "zu": "Espírito Santo",
-        "zu_ZA": "Espírito Santo"
+        "zu_ZA": "Espírito Santo",
+        "sr@latin": "Espirito Santo",
+        "tt@iqtelif": "Espírito Santo"
     },
     "GO": {
         "af": "Goiás",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Goiás",
         "zh_Hant_TW": "Goiás",
         "zu": "Goiás",
-        "zu_ZA": "Goiás"
+        "zu_ZA": "Goiás",
+        "sr@latin": "Gojas",
+        "tt@iqtelif": "Goiás"
     },
     "MA": {
         "af": "Maranhão",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Maranhão",
         "zh_Hant_TW": "Maranhão",
         "zu": "Maranhão",
-        "zu_ZA": "Maranhão"
+        "zu_ZA": "Maranhão",
+        "sr@latin": "Maranao",
+        "tt@iqtelif": "Maranhão"
     },
     "MG": {
         "af": "Minas Gerais",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Minas Gerais",
         "zh_Hant_TW": "Minas Gerais",
         "zu": "Minas Gerais",
-        "zu_ZA": "Minas Gerais"
+        "zu_ZA": "Minas Gerais",
+        "sr@latin": "Minas Gerajis",
+        "tt@iqtelif": "Minas Gerais"
     },
     "MS": {
         "af": "Mato Grosso do Sul",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Mato Grosso do Sul",
         "zh_Hant_TW": "Mato Grosso do Sul",
         "zu": "Mato Grosso do Sul",
-        "zu_ZA": "Mato Grosso do Sul"
+        "zu_ZA": "Mato Grosso do Sul",
+        "sr@latin": "Mato Groso do Sul",
+        "tt@iqtelif": "Mato Grosso do Sul"
     },
     "MT": {
         "af": "Mato Grosso",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Mato Grosso",
         "zh_Hant_TW": "Mato Grosso",
         "zu": "Mato Grosso",
-        "zu_ZA": "Mato Grosso"
+        "zu_ZA": "Mato Grosso",
+        "sr@latin": "Mato Groso",
+        "tt@iqtelif": "Mato Grosso"
     },
     "PA": {
         "af": "Pará",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Pará",
         "zh_Hant_TW": "Pará",
         "zu": "Pará",
-        "zu_ZA": "Pará"
+        "zu_ZA": "Pará",
+        "sr@latin": "Para",
+        "tt@iqtelif": "Pará"
     },
     "PB": {
         "af": "Paraíba",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Paraíba",
         "zh_Hant_TW": "Paraíba",
         "zu": "Paraíba",
-        "zu_ZA": "Paraíba"
+        "zu_ZA": "Paraíba",
+        "sr@latin": "Paraiba",
+        "tt@iqtelif": "Paraíba"
     },
     "PE": {
         "af": "Pernambuco",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Pernambuco",
         "zh_Hant_TW": "Pernambuco",
         "zu": "Pernambuco",
-        "zu_ZA": "Pernambuco"
+        "zu_ZA": "Pernambuco",
+        "sr@latin": "Pernambuko",
+        "tt@iqtelif": "Pernambuco"
     },
     "PI": {
         "af": "Piauí",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Piauí",
         "zh_Hant_TW": "Piauí",
         "zu": "Piauí",
-        "zu_ZA": "Piauí"
+        "zu_ZA": "Piauí",
+        "sr@latin": "Pjavi",
+        "tt@iqtelif": "Piauí"
     },
     "PR": {
         "af": "Paraná",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Paraná",
         "zh_Hant_TW": "Paraná",
         "zu": "Paraná",
-        "zu_ZA": "Paraná"
+        "zu_ZA": "Paraná",
+        "sr@latin": "Parana",
+        "tt@iqtelif": "Paraná"
     },
     "RJ": {
         "af": "Rio de Janeiro",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Rio de Janeiro",
         "zh_Hant_TW": "Rio de Janeiro",
         "zu": "Rio de Janeiro",
-        "zu_ZA": "Rio de Janeiro"
+        "zu_ZA": "Rio de Janeiro",
+        "sr@latin": "Rio de Žaneiro",
+        "tt@iqtelif": "Rio de Janeiro"
     },
     "RN": {
         "af": "Rio Grande do Norte",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Rio Grande do Norte",
         "zh_Hant_TW": "Rio Grande do Norte",
         "zu": "Rio Grande do Norte",
-        "zu_ZA": "Rio Grande do Norte"
+        "zu_ZA": "Rio Grande do Norte",
+        "sr@latin": "Rio Grande do Norte",
+        "tt@iqtelif": "Rio Grande do Norte"
     },
     "RO": {
         "af": "Rondônia",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Rondônia",
         "zh_Hant_TW": "Rondônia",
         "zu": "Rondônia",
-        "zu_ZA": "Rondônia"
+        "zu_ZA": "Rondônia",
+        "sr@latin": "Rondonija",
+        "tt@iqtelif": "Rondônia"
     },
     "RR": {
         "af": "Roraima",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Roraima",
         "zh_Hant_TW": "Roraima",
         "zu": "Roraima",
-        "zu_ZA": "Roraima"
+        "zu_ZA": "Roraima",
+        "sr@latin": "Rorajima",
+        "tt@iqtelif": "Roraima"
     },
     "RS": {
         "af": "Rio Grande do Sul",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Rio Grande do Sul",
         "zh_Hant_TW": "Rio Grande do Sul",
         "zu": "Rio Grande do Sul",
-        "zu_ZA": "Rio Grande do Sul"
+        "zu_ZA": "Rio Grande do Sul",
+        "sr@latin": "Rio Grande do Sul",
+        "tt@iqtelif": "Rio Grande do Sul"
     },
     "SC": {
         "af": "Santa Catarina",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Santa Catarina",
         "zh_Hant_TW": "Santa Catarina",
         "zu": "Santa Catarina",
-        "zu_ZA": "Santa Catarina"
+        "zu_ZA": "Santa Catarina",
+        "sr@latin": "Santa Katarina",
+        "tt@iqtelif": "Santa Catarina"
     },
     "SE": {
         "af": "Sergipe",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Sergipe",
         "zh_Hant_TW": "Sergipe",
         "zu": "Sergipe",
-        "zu_ZA": "Sergipe"
+        "zu_ZA": "Sergipe",
+        "sr@latin": "Sergipe",
+        "tt@iqtelif": "Sergipe"
     },
     "SP": {
         "af": "São Paulo",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "São Paulo",
         "zh_Hant_TW": "São Paulo",
         "zu": "São Paulo",
-        "zu_ZA": "São Paulo"
+        "zu_ZA": "São Paulo",
+        "sr@latin": "Sao Paulo",
+        "tt@iqtelif": "São Paulo"
     },
     "TO": {
         "af": "Tocantins",
@@ -23838,6 +23890,8 @@
         "zh_Hant_MY": "Tocantins",
         "zh_Hant_TW": "Tocantins",
         "zu": "Tocantins",
-        "zu_ZA": "Tocantins"
+        "zu_ZA": "Tocantins",
+        "sr@latin": "Tokantins",
+        "tt@iqtelif": "Tocantins"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Belize",
         "zh_Hant_TW": "Belize",
         "zu": "Belize",
-        "zu_ZA": "Belize"
+        "zu_ZA": "Belize",
+        "sr@latin": "Belize",
+        "tt@iqtelif": "Belize"
     },
     "CY": {
         "af": "Cayo",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cayo",
         "zh_Hant_TW": "Cayo",
         "zu": "Cayo",
-        "zu_ZA": "Cayo"
+        "zu_ZA": "Cayo",
+        "sr@latin": "Kajo",
+        "tt@iqtelif": "Cayo"
     },
     "CZL": {
         "af": "Corozal",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Corozal",
         "zh_Hant_TW": "Corozal",
         "zu": "Corozal",
-        "zu_ZA": "Corozal"
+        "zu_ZA": "Corozal",
+        "sr@latin": "Korocal",
+        "tt@iqtelif": "Corozal"
     },
     "OW": {
         "af": "Orange Walk",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Orange Walk",
         "zh_Hant_TW": "Orange Walk",
         "zu": "Orange Walk",
-        "zu_ZA": "Orange Walk"
+        "zu_ZA": "Orange Walk",
+        "sr@latin": "Oranž Vok",
+        "tt@iqtelif": "Orange Walk"
     },
     "SC": {
         "af": "Stann Creek",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Stann Creek",
         "zh_Hant_TW": "Stann Creek",
         "zu": "Stann Creek",
-        "zu_ZA": "Stann Creek"
+        "zu_ZA": "Stann Creek",
+        "sr@latin": "Stan Krik",
+        "tt@iqtelif": "Stann Creek"
     },
     "TOL": {
         "af": "Toledo",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Toledo",
         "zh_Hant_TW": "Toledo",
         "zu": "Toledo",
-        "zu_ZA": "Toledo"
+        "zu_ZA": "Toledo",
+        "sr@latin": "Toledo",
+        "tt@iqtelif": "Toledo"
     }
 }

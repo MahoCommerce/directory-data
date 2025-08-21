@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Northern Bahr el Ghazal",
         "zh_Hant_TW": "Northern Bahr el Ghazal",
         "zu": "Northern Bahr el Ghazal",
-        "zu_ZA": "Northern Bahr el Ghazal"
+        "zu_ZA": "Northern Bahr el Ghazal",
+        "sr@latin": "Northern Bahr el Ghazal",
+        "tt@iqtelif": "Northern Bahr el Ghazal"
     },
     "BW": {
         "af": "Western Bahr el Ghazal",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Western Bahr el Ghazal",
         "zh_Hant_TW": "Western Bahr el Ghazal",
         "zu": "Western Bahr el Ghazal",
-        "zu_ZA": "Western Bahr el Ghazal"
+        "zu_ZA": "Western Bahr el Ghazal",
+        "sr@latin": "Western Bahr el Ghazal",
+        "tt@iqtelif": "Western Bahr el Ghazal"
     },
     "EC": {
         "af": "Central Equatoria",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Central Equatoria",
         "zh_Hant_TW": "Central Equatoria",
         "zu": "Central Equatoria",
-        "zu_ZA": "Central Equatoria"
+        "zu_ZA": "Central Equatoria",
+        "sr@latin": "Centralni Ekvator",
+        "tt@iqtelif": "Central Equatoria"
     },
     "EE": {
         "af": "Eastern Equatoria",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Eastern Equatoria",
         "zh_Hant_TW": "Eastern Equatoria",
         "zu": "Eastern Equatoria",
-        "zu_ZA": "Eastern Equatoria"
+        "zu_ZA": "Eastern Equatoria",
+        "sr@latin": "Istočna Ekvatorija",
+        "tt@iqtelif": "Eastern Equatoria"
     },
     "EW": {
         "af": "Western Equatoria",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Western Equatoria",
         "zh_Hant_TW": "Western Equatoria",
         "zu": "Western Equatoria",
-        "zu_ZA": "Western Equatoria"
+        "zu_ZA": "Western Equatoria",
+        "sr@latin": "Zapadna Ekvatorija",
+        "tt@iqtelif": "Western Equatoria"
     },
     "JG": {
         "af": "Jonglei",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Jonglei",
         "zh_Hant_TW": "Jonglei",
         "zu": "Jonglei",
-        "zu_ZA": "Jonglei"
+        "zu_ZA": "Jonglei",
+        "sr@latin": "Jonglei",
+        "tt@iqtelif": "Jonglei"
     },
     "LK": {
         "af": "Lakes",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Lakes",
         "zh_Hant_TW": "Lakes",
         "zu": "Lakes",
-        "zu_ZA": "Lakes"
+        "zu_ZA": "Lakes",
+        "sr@latin": "Lejks",
+        "tt@iqtelif": "Lakes"
     },
     "NU": {
         "af": "Upper Nile",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Upper Nile",
         "zh_Hant_TW": "Upper Nile",
         "zu": "Upper Nile",
-        "zu_ZA": "Upper Nile"
+        "zu_ZA": "Upper Nile",
+        "sr@latin": "Gornji Nil",
+        "tt@iqtelif": "Upper Nile"
     },
     "UY": {
         "af": "Unity",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Unity",
         "zh_Hant_TW": "Unity",
         "zu": "Unity",
-        "zu_ZA": "Unity"
+        "zu_ZA": "Unity",
+        "sr@latin": "Juniti",
+        "tt@iqtelif": "Unity"
     },
     "WR": {
         "af": "Warrap",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Warrap",
         "zh_Hant_TW": "Warrap",
         "zu": "Warrap",
-        "zu_ZA": "Warrap"
+        "zu_ZA": "Warrap",
+        "sr@latin": "Varap",
+        "tt@iqtelif": "Warrap"
     }
 }

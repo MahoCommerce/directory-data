@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Nordjylland",
         "zh_Hant_TW": "Nordjylland",
         "zu": "Nordjylland",
-        "zu_ZA": "Nordjylland"
+        "zu_ZA": "Nordjylland",
+        "sr@latin": "Nordjylland",
+        "tt@iqtelif": "Nordjylland"
     },
     "82": {
         "af": "Midtjylland",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Midtjylland",
         "zh_Hant_TW": "Midtjylland",
         "zu": "Midtjylland",
-        "zu_ZA": "Midtjylland"
+        "zu_ZA": "Midtjylland",
+        "sr@latin": "Midtjilend",
+        "tt@iqtelif": "Midtjylland"
     },
     "83": {
         "af": "Syddanmark",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Syddanmark",
         "zh_Hant_TW": "Syddanmark",
         "zu": "Syddanmark",
-        "zu_ZA": "Syddanmark"
+        "zu_ZA": "Syddanmark",
+        "sr@latin": "Syddanmark",
+        "tt@iqtelif": "Syddanmark"
     },
     "84": {
         "af": "Hovedstaden",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Hovedstaden",
         "zh_Hant_TW": "Hovedstaden",
         "zu": "Hovedstaden",
-        "zu_ZA": "Hovedstaden"
+        "zu_ZA": "Hovedstaden",
+        "sr@latin": "Hovedštaden",
+        "tt@iqtelif": "Hovedstaden"
     },
     "85": {
         "af": "Sjælland",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Sjælland",
         "zh_Hant_TW": "Sjælland",
         "zu": "Sjælland",
-        "zu_ZA": "Sjælland"
+        "zu_ZA": "Sjælland",
+        "sr@latin": "Sjælland",
+        "tt@iqtelif": "Sjælland"
     }
 }

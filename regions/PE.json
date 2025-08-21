@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Amarumayu",
         "zh_Hant_TW": "Amarumayu",
         "zu": "Amarumayu",
-        "zu_ZA": "Amarumayu"
+        "zu_ZA": "Amarumayu",
+        "sr@latin": "Amarumayu",
+        "tt@iqtelif": "Amarumayu"
     },
     "ANC": {
         "af": "Ancash",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ancash",
         "zh_Hant_TW": "Ancash",
         "zu": "Ancash",
-        "zu_ZA": "Ancash"
+        "zu_ZA": "Ancash",
+        "sr@latin": "Ankaš",
+        "tt@iqtelif": "Ancash"
     },
     "APU": {
         "af": "Apurimaq",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Apurimaq",
         "zh_Hant_TW": "Apurimaq",
         "zu": "Apurimaq",
-        "zu_ZA": "Apurimaq"
+        "zu_ZA": "Apurimaq",
+        "sr@latin": "Apurimaq",
+        "tt@iqtelif": "Apurimaq"
     },
     "ARE": {
         "af": "Arequipa",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Arequipa",
         "zh_Hant_TW": "Arequipa",
         "zu": "Arequipa",
-        "zu_ZA": "Arequipa"
+        "zu_ZA": "Arequipa",
+        "sr@latin": "Arekvipa",
+        "tt@iqtelif": "Arequipa"
     },
     "AYA": {
         "af": "Ayacucho",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Ayacucho",
         "zh_Hant_TW": "Ayacucho",
         "zu": "Ayacucho",
-        "zu_ZA": "Ayacucho"
+        "zu_ZA": "Ayacucho",
+        "sr@latin": "Ajakučo",
+        "tt@iqtelif": "Ayacucho"
     },
     "CAJ": {
         "af": "Cajamarca",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Cajamarca",
         "zh_Hant_TW": "Cajamarca",
         "zu": "Cajamarca",
-        "zu_ZA": "Cajamarca"
+        "zu_ZA": "Cajamarca",
+        "sr@latin": "Kajamarka",
+        "tt@iqtelif": "Cajamarca"
     },
     "CAL": {
         "af": "El Callao",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "El Callao",
         "zh_Hant_TW": "El Callao",
         "zu": "El Callao",
-        "zu_ZA": "El Callao"
+        "zu_ZA": "El Callao",
+        "sr@latin": "El Callao",
+        "tt@iqtelif": "El Callao"
     },
     "CUS": {
         "af": "Cusco",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Cusco",
         "zh_Hant_TW": "Cusco",
         "zu": "Cusco",
-        "zu_ZA": "Cusco"
+        "zu_ZA": "Cusco",
+        "sr@latin": "Cusco",
+        "tt@iqtelif": "Cusco"
     },
     "HUC": {
         "af": "Huánuco",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Huánuco",
         "zh_Hant_TW": "Huánuco",
         "zu": "Huánuco",
-        "zu_ZA": "Huánuco"
+        "zu_ZA": "Huánuco",
+        "sr@latin": "Hvanuko",
+        "tt@iqtelif": "Huánuco"
     },
     "HUV": {
         "af": "Huancavelica",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Huancavelica",
         "zh_Hant_TW": "Huancavelica",
         "zu": "Huancavelica",
-        "zu_ZA": "Huancavelica"
+        "zu_ZA": "Huancavelica",
+        "sr@latin": "Hvankavelika",
+        "tt@iqtelif": "Huancavelica"
     },
     "ICA": {
         "af": "Ica",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Ica",
         "zh_Hant_TW": "Ica",
         "zu": "Ica",
-        "zu_ZA": "Ica"
+        "zu_ZA": "Ica",
+        "sr@latin": "Ika",
+        "tt@iqtelif": "Ica"
     },
     "JUN": {
         "af": "Hunin",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Hunin",
         "zh_Hant_TW": "Hunin",
         "zu": "Hunin",
-        "zu_ZA": "Hunin"
+        "zu_ZA": "Hunin",
+        "sr@latin": "Hunin",
+        "tt@iqtelif": "Hunin"
     },
     "LAL": {
         "af": "La Libertad",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "La Libertad",
         "zh_Hant_TW": "La Libertad",
         "zu": "La Libertad",
-        "zu_ZA": "La Libertad"
+        "zu_ZA": "La Libertad",
+        "sr@latin": "La Libertad",
+        "tt@iqtelif": "La Libertad"
     },
     "LAM": {
         "af": "Lambayeque",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Lambayeque",
         "zh_Hant_TW": "Lambayeque",
         "zu": "Lambayeque",
-        "zu_ZA": "Lambayeque"
+        "zu_ZA": "Lambayeque",
+        "sr@latin": "Lambajek",
+        "tt@iqtelif": "Lambayeque"
     },
     "LIM": {
         "af": "Lima",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Lima",
         "zh_Hant_TW": "Lima",
         "zu": "Lima",
-        "zu_ZA": "Lima"
+        "zu_ZA": "Lima",
+        "sr@latin": "Lima",
+        "tt@iqtelif": "Lima"
     },
     "LMA": {
         "af": "Lima hatun llaqta",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Lima hatun llaqta",
         "zh_Hant_TW": "Lima hatun llaqta",
         "zu": "Lima hatun llaqta",
-        "zu_ZA": "Lima hatun llaqta"
+        "zu_ZA": "Lima hatun llaqta",
+        "sr@latin": "Lima hatun llaqta",
+        "tt@iqtelif": "Lima hatun llaqta"
     },
     "LOR": {
         "af": "Loreto",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Loreto",
         "zh_Hant_TW": "Loreto",
         "zu": "Loreto",
-        "zu_ZA": "Loreto"
+        "zu_ZA": "Loreto",
+        "sr@latin": "Loreto",
+        "tt@iqtelif": "Loreto"
     },
     "MDD": {
         "af": "Madre de Dios",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Madre de Dios",
         "zh_Hant_TW": "Madre de Dios",
         "zu": "Madre de Dios",
-        "zu_ZA": "Madre de Dios"
+        "zu_ZA": "Madre de Dios",
+        "sr@latin": "Madre de Dios",
+        "tt@iqtelif": "Madre de Dios"
     },
     "MOQ": {
         "af": "Moquegua",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Moquegua",
         "zh_Hant_TW": "Moquegua",
         "zu": "Moquegua",
-        "zu_ZA": "Moquegua"
+        "zu_ZA": "Moquegua",
+        "sr@latin": "Mokvegva",
+        "tt@iqtelif": "Moquegua"
     },
     "PAS": {
         "af": "Pasco",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Pasco",
         "zh_Hant_TW": "Pasco",
         "zu": "Pasco",
-        "zu_ZA": "Pasco"
+        "zu_ZA": "Pasco",
+        "sr@latin": "Pasko",
+        "tt@iqtelif": "Pasco"
     },
     "PIU": {
         "af": "Piura",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Piura",
         "zh_Hant_TW": "Piura",
         "zu": "Piura",
-        "zu_ZA": "Piura"
+        "zu_ZA": "Piura",
+        "sr@latin": "Pjura",
+        "tt@iqtelif": "Piura"
     },
     "PUN": {
         "af": "Puno",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Puno",
         "zh_Hant_TW": "Puno",
         "zu": "Puno",
-        "zu_ZA": "Puno"
+        "zu_ZA": "Puno",
+        "sr@latin": "Puno",
+        "tt@iqtelif": "Puno"
     },
     "SAM": {
         "af": "San Martin",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "San Martin",
         "zh_Hant_TW": "San Martin",
         "zu": "San Martin",
-        "zu_ZA": "San Martin"
+        "zu_ZA": "San Martin",
+        "sr@latin": "San Martin",
+        "tt@iqtelif": "San Martin"
     },
     "TAC": {
         "af": "Tacna",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Tacna",
         "zh_Hant_TW": "Tacna",
         "zu": "Tacna",
-        "zu_ZA": "Tacna"
+        "zu_ZA": "Tacna",
+        "sr@latin": "Tacna",
+        "tt@iqtelif": "Tacna"
     },
     "TUM": {
         "af": "Tumbes",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Tumbes",
         "zh_Hant_TW": "Tumbes",
         "zu": "Tumbes",
-        "zu_ZA": "Tumbes"
+        "zu_ZA": "Tumbes",
+        "sr@latin": "Tumbs",
+        "tt@iqtelif": "Tumbes"
     },
     "UCA": {
         "af": "Ucayali",
@@ -22955,6 +23005,8 @@
         "zh_Hant_MY": "Ucayali",
         "zh_Hant_TW": "Ucayali",
         "zu": "Ucayali",
-        "zu_ZA": "Ucayali"
+        "zu_ZA": "Ucayali",
+        "sr@latin": "Ukajali",
+        "tt@iqtelif": "Ucayali"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Al ‘Āşimah",
         "zh_Hant_TW": "Al ‘Āşimah",
         "zu": "Al ‘Āşimah",
-        "zu_ZA": "Al ‘Āşimah"
+        "zu_ZA": "Al ‘Āşimah",
+        "sr@latin": "Al ‘Āşimah",
+        "tt@iqtelif": "Al ‘Āşimah"
     },
     "14": {
         "af": "Al Janūbīyah",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Al Janūbīyah",
         "zh_Hant_TW": "Al Janūbīyah",
         "zu": "Al Janūbīyah",
-        "zu_ZA": "Al Janūbīyah"
+        "zu_ZA": "Al Janūbīyah",
+        "sr@latin": "Al Džanubija",
+        "tt@iqtelif": "Al Janūbīyah"
     },
     "15": {
         "af": "Al Muḩarraq",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Al Muḩarraq",
         "zh_Hant_TW": "Al Muḩarraq",
         "zu": "Al Muḩarraq",
-        "zu_ZA": "Al Muḩarraq"
+        "zu_ZA": "Al Muḩarraq",
+        "sr@latin": "Al Muharak",
+        "tt@iqtelif": "Al Muḩarraq"
     },
     "17": {
         "af": "Ash Shamālīyah",
@@ -3529,6 +3535,8 @@
         "zh_Hant_MY": "Ash Shamālīyah",
         "zh_Hant_TW": "Ash Shamālīyah",
         "zu": "Ash Shamālīyah",
-        "zu_ZA": "Ash Shamālīyah"
+        "zu_ZA": "Ash Shamālīyah",
+        "sr@latin": "Aš Šamalija",
+        "tt@iqtelif": "Ash Shamālīyah"
     }
 }

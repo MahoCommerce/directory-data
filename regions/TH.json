@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Krung Thep Maha Nakhon",
         "zh_Hant_TW": "Krung Thep Maha Nakhon",
         "zu": "Krung Thep Maha Nakhon",
-        "zu_ZA": "Krung Thep Maha Nakhon"
+        "zu_ZA": "Krung Thep Maha Nakhon",
+        "sr@latin": "Krung Thep Maha Nakhon",
+        "tt@iqtelif": "Krung Thep Maha Nakhon"
     },
     "11": {
         "af": "Samut Prakan",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Samut Prakan",
         "zh_Hant_TW": "Samut Prakan",
         "zu": "Samut Prakan",
-        "zu_ZA": "Samut Prakan"
+        "zu_ZA": "Samut Prakan",
+        "sr@latin": "Samut Prakan",
+        "tt@iqtelif": "Samut Prakan"
     },
     "12": {
         "af": "Nonthaburi",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Nonthaburi",
         "zh_Hant_TW": "Nonthaburi",
         "zu": "Nonthaburi",
-        "zu_ZA": "Nonthaburi"
+        "zu_ZA": "Nonthaburi",
+        "sr@latin": "Nontaburi",
+        "tt@iqtelif": "Nonthaburi"
     },
     "13": {
         "af": "Pathum Thani",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Pathum Thani",
         "zh_Hant_TW": "Pathum Thani",
         "zu": "Pathum Thani",
-        "zu_ZA": "Pathum Thani"
+        "zu_ZA": "Pathum Thani",
+        "sr@latin": "Patum Tani",
+        "tt@iqtelif": "Pathum Thani"
     },
     "14": {
         "af": "Phra Nakhon Si Ayutthaya",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Phra Nakhon Si Ayutthaya",
         "zh_Hant_TW": "Phra Nakhon Si Ayutthaya",
         "zu": "Phra Nakhon Si Ayutthaya",
-        "zu_ZA": "Phra Nakhon Si Ayutthaya"
+        "zu_ZA": "Phra Nakhon Si Ayutthaya",
+        "sr@latin": "Phra Nakhon Si Ayutthaya",
+        "tt@iqtelif": "Phra Nakhon Si Ayutthaya"
     },
     "15": {
         "af": "Ang Thong",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Ang Thong",
         "zh_Hant_TW": "Ang Thong",
         "zu": "Ang Thong",
-        "zu_ZA": "Ang Thong"
+        "zu_ZA": "Ang Thong",
+        "sr@latin": "Ang Tong",
+        "tt@iqtelif": "Ang Thong"
     },
     "16": {
         "af": "Lop Buri",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Lop Buri",
         "zh_Hant_TW": "Lop Buri",
         "zu": "Lop Buri",
-        "zu_ZA": "Lop Buri"
+        "zu_ZA": "Lop Buri",
+        "sr@latin": "Lop Buri",
+        "tt@iqtelif": "Lop Buri"
     },
     "17": {
         "af": "Sing Buri",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Sing Buri",
         "zh_Hant_TW": "Sing Buri",
         "zu": "Sing Buri",
-        "zu_ZA": "Sing Buri"
+        "zu_ZA": "Sing Buri",
+        "sr@latin": "Sin Buri",
+        "tt@iqtelif": "Sing Buri"
     },
     "18": {
         "af": "Chai Nat",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Chai Nat",
         "zh_Hant_TW": "Chai Nat",
         "zu": "Chai Nat",
-        "zu_ZA": "Chai Nat"
+        "zu_ZA": "Chai Nat",
+        "sr@latin": "Čai Nat",
+        "tt@iqtelif": "Chai Nat"
     },
     "19": {
         "af": "Saraburi",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Saraburi",
         "zh_Hant_TW": "Saraburi",
         "zu": "Saraburi",
-        "zu_ZA": "Saraburi"
+        "zu_ZA": "Saraburi",
+        "sr@latin": "Saraburi",
+        "tt@iqtelif": "Saraburi"
     },
     "20": {
         "af": "Chon Buri",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Chon Buri",
         "zh_Hant_TW": "Chon Buri",
         "zu": "Chon Buri",
-        "zu_ZA": "Chon Buri"
+        "zu_ZA": "Chon Buri",
+        "sr@latin": "Čon Buri",
+        "tt@iqtelif": "Chon Buri"
     },
     "21": {
         "af": "Rayong",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Rayong",
         "zh_Hant_TW": "Rayong",
         "zu": "Rayong",
-        "zu_ZA": "Rayong"
+        "zu_ZA": "Rayong",
+        "sr@latin": "Rajong",
+        "tt@iqtelif": "Rayong"
     },
     "22": {
         "af": "Chanthaburi",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Chanthaburi",
         "zh_Hant_TW": "Chanthaburi",
         "zu": "Chanthaburi",
-        "zu_ZA": "Chanthaburi"
+        "zu_ZA": "Chanthaburi",
+        "sr@latin": "Čantaburi",
+        "tt@iqtelif": "Chanthaburi"
     },
     "23": {
         "af": "Trat",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Trat",
         "zh_Hant_TW": "Trat",
         "zu": "Trat",
-        "zu_ZA": "Trat"
+        "zu_ZA": "Trat",
+        "sr@latin": "Trat",
+        "tt@iqtelif": "Trat"
     },
     "24": {
         "af": "Chachoengsao",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Chachoengsao",
         "zh_Hant_TW": "Chachoengsao",
         "zu": "Chachoengsao",
-        "zu_ZA": "Chachoengsao"
+        "zu_ZA": "Chachoengsao",
+        "sr@latin": "Čačoengsao",
+        "tt@iqtelif": "Chachoengsao"
     },
     "25": {
         "af": "Prachin Buri",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Prachin Buri",
         "zh_Hant_TW": "Prachin Buri",
         "zu": "Prachin Buri",
-        "zu_ZA": "Prachin Buri"
+        "zu_ZA": "Prachin Buri",
+        "sr@latin": "Pračin Buri",
+        "tt@iqtelif": "Prachin Buri"
     },
     "26": {
         "af": "Nakhon Nayok",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Nakhon Nayok",
         "zh_Hant_TW": "Nakhon Nayok",
         "zu": "Nakhon Nayok",
-        "zu_ZA": "Nakhon Nayok"
+        "zu_ZA": "Nakhon Nayok",
+        "sr@latin": "Nakon Najok",
+        "tt@iqtelif": "Nakhon Nayok"
     },
     "27": {
         "af": "Sa Kaeo",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Sa Kaeo",
         "zh_Hant_TW": "Sa Kaeo",
         "zu": "Sa Kaeo",
-        "zu_ZA": "Sa Kaeo"
+        "zu_ZA": "Sa Kaeo",
+        "sr@latin": "Sa Kaeo",
+        "tt@iqtelif": "Sa Kaeo"
     },
     "30": {
         "af": "Nakhon Ratchasima",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Nakhon Ratchasima",
         "zh_Hant_TW": "Nakhon Ratchasima",
         "zu": "Nakhon Ratchasima",
-        "zu_ZA": "Nakhon Ratchasima"
+        "zu_ZA": "Nakhon Ratchasima",
+        "sr@latin": "Nakon Račasima",
+        "tt@iqtelif": "Nakhon Ratchasima"
     },
     "31": {
         "af": "Buri Ram",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Buri Ram",
         "zh_Hant_TW": "Buri Ram",
         "zu": "Buri Ram",
-        "zu_ZA": "Buri Ram"
+        "zu_ZA": "Buri Ram",
+        "sr@latin": "Buri Ram",
+        "tt@iqtelif": "Buri Ram"
     },
     "32": {
         "af": "Surin",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Surin",
         "zh_Hant_TW": "Surin",
         "zu": "Surin",
-        "zu_ZA": "Surin"
+        "zu_ZA": "Surin",
+        "sr@latin": "Surin",
+        "tt@iqtelif": "Surin"
     },
     "33": {
         "af": "Si Sa Ket",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Si Sa Ket",
         "zh_Hant_TW": "Si Sa Ket",
         "zu": "Si Sa Ket",
-        "zu_ZA": "Si Sa Ket"
+        "zu_ZA": "Si Sa Ket",
+        "sr@latin": "Si Sa Ket",
+        "tt@iqtelif": "Si Sa Ket"
     },
     "34": {
         "af": "Ubon Ratchathani",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Ubon Ratchathani",
         "zh_Hant_TW": "Ubon Ratchathani",
         "zu": "Ubon Ratchathani",
-        "zu_ZA": "Ubon Ratchathani"
+        "zu_ZA": "Ubon Ratchathani",
+        "sr@latin": "Ubon Račatani",
+        "tt@iqtelif": "Ubon Ratchathani"
     },
     "35": {
         "af": "Yasothon",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Yasothon",
         "zh_Hant_TW": "Yasothon",
         "zu": "Yasothon",
-        "zu_ZA": "Yasothon"
+        "zu_ZA": "Yasothon",
+        "sr@latin": "Jasoton",
+        "tt@iqtelif": "Yasothon"
     },
     "36": {
         "af": "Chaiyaphum",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Chaiyaphum",
         "zh_Hant_TW": "Chaiyaphum",
         "zu": "Chaiyaphum",
-        "zu_ZA": "Chaiyaphum"
+        "zu_ZA": "Chaiyaphum",
+        "sr@latin": "Čajiafum",
+        "tt@iqtelif": "Chaiyaphum"
     },
     "37": {
         "af": "Amnat Charoen",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Amnat Charoen",
         "zh_Hant_TW": "Amnat Charoen",
         "zu": "Amnat Charoen",
-        "zu_ZA": "Amnat Charoen"
+        "zu_ZA": "Amnat Charoen",
+        "sr@latin": "Amnat Charoen",
+        "tt@iqtelif": "Amnat Charoen"
     },
     "38": {
         "af": "Bueng Kan",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Bueng Kan",
         "zh_Hant_TW": "Bueng Kan",
         "zu": "Bueng Kan",
-        "zu_ZA": "Bueng Kan"
+        "zu_ZA": "Bueng Kan",
+        "sr@latin": "Bueng Kan",
+        "tt@iqtelif": "Bueng Kan"
     },
     "39": {
         "af": "Nong Bua Lam Phu",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Nong Bua Lam Phu",
         "zh_Hant_TW": "Nong Bua Lam Phu",
         "zu": "Nong Bua Lam Phu",
-        "zu_ZA": "Nong Bua Lam Phu"
+        "zu_ZA": "Nong Bua Lam Phu",
+        "sr@latin": "Nong Bua Lam Phu",
+        "tt@iqtelif": "Nong Bua Lam Phu"
     },
     "40": {
         "af": "Khon Kaen",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Khon Kaen",
         "zh_Hant_TW": "Khon Kaen",
         "zu": "Khon Kaen",
-        "zu_ZA": "Khon Kaen"
+        "zu_ZA": "Khon Kaen",
+        "sr@latin": "Kon Kaen",
+        "tt@iqtelif": "Khon Kaen"
     },
     "41": {
         "af": "Udon Thani",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Udon Thani",
         "zh_Hant_TW": "Udon Thani",
         "zu": "Udon Thani",
-        "zu_ZA": "Udon Thani"
+        "zu_ZA": "Udon Thani",
+        "sr@latin": "Udon Tani",
+        "tt@iqtelif": "Udon Thani"
     },
     "42": {
         "af": "Loei",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Loei",
         "zh_Hant_TW": "Loei",
         "zu": "Loei",
-        "zu_ZA": "Loei"
+        "zu_ZA": "Loei",
+        "sr@latin": "Loj",
+        "tt@iqtelif": "Loei"
     },
     "43": {
         "af": "Nong Khai",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Nong Khai",
         "zh_Hant_TW": "Nong Khai",
         "zu": "Nong Khai",
-        "zu_ZA": "Nong Khai"
+        "zu_ZA": "Nong Khai",
+        "sr@latin": "Nong Kaj",
+        "tt@iqtelif": "Nong Khai"
     },
     "44": {
         "af": "Maha Sarakham",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Maha Sarakham",
         "zh_Hant_TW": "Maha Sarakham",
         "zu": "Maha Sarakham",
-        "zu_ZA": "Maha Sarakham"
+        "zu_ZA": "Maha Sarakham",
+        "sr@latin": "Maha Sarakam",
+        "tt@iqtelif": "Maha Sarakham"
     },
     "45": {
         "af": "Roi Et",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Roi Et",
         "zh_Hant_TW": "Roi Et",
         "zu": "Roi Et",
-        "zu_ZA": "Roi Et"
+        "zu_ZA": "Roi Et",
+        "sr@latin": "Roi Et",
+        "tt@iqtelif": "Roi Et"
     },
     "46": {
         "af": "Kalasin",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Kalasin",
         "zh_Hant_TW": "Kalasin",
         "zu": "Kalasin",
-        "zu_ZA": "Kalasin"
+        "zu_ZA": "Kalasin",
+        "sr@latin": "Kalasin",
+        "tt@iqtelif": "Kalasin"
     },
     "47": {
         "af": "Sakon Nakhon",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Sakon Nakhon",
         "zh_Hant_TW": "Sakon Nakhon",
         "zu": "Sakon Nakhon",
-        "zu_ZA": "Sakon Nakhon"
+        "zu_ZA": "Sakon Nakhon",
+        "sr@latin": "Sakon Nakon",
+        "tt@iqtelif": "Sakon Nakhon"
     },
     "48": {
         "af": "Nakhon Phanom",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Nakhon Phanom",
         "zh_Hant_TW": "Nakhon Phanom",
         "zu": "Nakhon Phanom",
-        "zu_ZA": "Nakhon Phanom"
+        "zu_ZA": "Nakhon Phanom",
+        "sr@latin": "Nakon Fanom",
+        "tt@iqtelif": "Nakhon Phanom"
     },
     "49": {
         "af": "Mukdahan",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Mukdahan",
         "zh_Hant_TW": "Mukdahan",
         "zu": "Mukdahan",
-        "zu_ZA": "Mukdahan"
+        "zu_ZA": "Mukdahan",
+        "sr@latin": "Mukdahan",
+        "tt@iqtelif": "Mukdahan"
     },
     "50": {
         "af": "Chiang Mai",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Chiang Mai",
         "zh_Hant_TW": "Chiang Mai",
         "zu": "Chiang Mai",
-        "zu_ZA": "Chiang Mai"
+        "zu_ZA": "Chiang Mai",
+        "sr@latin": "Čjang Mai",
+        "tt@iqtelif": "Chiang Mai"
     },
     "51": {
         "af": "Lamphun",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Lamphun",
         "zh_Hant_TW": "Lamphun",
         "zu": "Lamphun",
-        "zu_ZA": "Lamphun"
+        "zu_ZA": "Lamphun",
+        "sr@latin": "Lamfun",
+        "tt@iqtelif": "Lamphun"
     },
     "52": {
         "af": "Lampang",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Lampang",
         "zh_Hant_TW": "Lampang",
         "zu": "Lampang",
-        "zu_ZA": "Lampang"
+        "zu_ZA": "Lampang",
+        "sr@latin": "Lampang",
+        "tt@iqtelif": "Lampang"
     },
     "53": {
         "af": "Uttaradit",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "Uttaradit",
         "zh_Hant_TW": "Uttaradit",
         "zu": "Uttaradit",
-        "zu_ZA": "Uttaradit"
+        "zu_ZA": "Uttaradit",
+        "sr@latin": "Utaradit",
+        "tt@iqtelif": "Uttaradit"
     },
     "54": {
         "af": "Phrae",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Phrae",
         "zh_Hant_TW": "Phrae",
         "zu": "Phrae",
-        "zu_ZA": "Phrae"
+        "zu_ZA": "Phrae",
+        "sr@latin": "Fre",
+        "tt@iqtelif": "Phrae"
     },
     "55": {
         "af": "Nan",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Nan",
         "zh_Hant_TW": "Nan",
         "zu": "Nan",
-        "zu_ZA": "Nan"
+        "zu_ZA": "Nan",
+        "sr@latin": "Nan",
+        "tt@iqtelif": "Nan"
     },
     "56": {
         "af": "Phayao",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "Phayao",
         "zh_Hant_TW": "Phayao",
         "zu": "Phayao",
-        "zu_ZA": "Phayao"
+        "zu_ZA": "Phayao",
+        "sr@latin": "Pajao",
+        "tt@iqtelif": "Phayao"
     },
     "57": {
         "af": "Chiang Rai",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Chiang Rai",
         "zh_Hant_TW": "Chiang Rai",
         "zu": "Chiang Rai",
-        "zu_ZA": "Chiang Rai"
+        "zu_ZA": "Chiang Rai",
+        "sr@latin": "Čjang Rai",
+        "tt@iqtelif": "Chiang Rai"
     },
     "58": {
         "af": "Mae Hong Son",
@@ -41498,7 +41590,9 @@
         "zh_Hant_MY": "Mae Hong Son",
         "zh_Hant_TW": "Mae Hong Son",
         "zu": "Mae Hong Son",
-        "zu_ZA": "Mae Hong Son"
+        "zu_ZA": "Mae Hong Son",
+        "sr@latin": "Me Hong Son",
+        "tt@iqtelif": "Mae Hong Son"
     },
     "60": {
         "af": "Nakhon Sawan",
@@ -42381,7 +42475,9 @@
         "zh_Hant_MY": "Nakhon Sawan",
         "zh_Hant_TW": "Nakhon Sawan",
         "zu": "Nakhon Sawan",
-        "zu_ZA": "Nakhon Sawan"
+        "zu_ZA": "Nakhon Sawan",
+        "sr@latin": "Nakon Savan",
+        "tt@iqtelif": "Nakhon Sawan"
     },
     "61": {
         "af": "Uthai Thani",
@@ -43264,7 +43360,9 @@
         "zh_Hant_MY": "Uthai Thani",
         "zh_Hant_TW": "Uthai Thani",
         "zu": "Uthai Thani",
-        "zu_ZA": "Uthai Thani"
+        "zu_ZA": "Uthai Thani",
+        "sr@latin": "Utaj Tani",
+        "tt@iqtelif": "Uthai Thani"
     },
     "62": {
         "af": "Kamphaeng Phet",
@@ -44147,7 +44245,9 @@
         "zh_Hant_MY": "Kamphaeng Phet",
         "zh_Hant_TW": "Kamphaeng Phet",
         "zu": "Kamphaeng Phet",
-        "zu_ZA": "Kamphaeng Phet"
+        "zu_ZA": "Kamphaeng Phet",
+        "sr@latin": "Kamphaeng Phet",
+        "tt@iqtelif": "Kamphaeng Phet"
     },
     "63": {
         "af": "Tak",
@@ -45030,7 +45130,9 @@
         "zh_Hant_MY": "Tak",
         "zh_Hant_TW": "Tak",
         "zu": "Tak",
-        "zu_ZA": "Tak"
+        "zu_ZA": "Tak",
+        "sr@latin": "Tak",
+        "tt@iqtelif": "Tak"
     },
     "64": {
         "af": "Sukhothai",
@@ -45913,7 +46015,9 @@
         "zh_Hant_MY": "Sukhothai",
         "zh_Hant_TW": "Sukhothai",
         "zu": "Sukhothai",
-        "zu_ZA": "Sukhothai"
+        "zu_ZA": "Sukhothai",
+        "sr@latin": "Sukhothai",
+        "tt@iqtelif": "Sukhothai"
     },
     "65": {
         "af": "Phitsanulok",
@@ -46796,7 +46900,9 @@
         "zh_Hant_MY": "Phitsanulok",
         "zh_Hant_TW": "Phitsanulok",
         "zu": "Phitsanulok",
-        "zu_ZA": "Phitsanulok"
+        "zu_ZA": "Phitsanulok",
+        "sr@latin": "Phitsanulok",
+        "tt@iqtelif": "Phitsanulok"
     },
     "66": {
         "af": "Phichit",
@@ -47679,7 +47785,9 @@
         "zh_Hant_MY": "Phichit",
         "zh_Hant_TW": "Phichit",
         "zu": "Phichit",
-        "zu_ZA": "Phichit"
+        "zu_ZA": "Phichit",
+        "sr@latin": "Pičit",
+        "tt@iqtelif": "Phichit"
     },
     "67": {
         "af": "Phetchabun",
@@ -48562,7 +48670,9 @@
         "zh_Hant_MY": "Phetchabun",
         "zh_Hant_TW": "Phetchabun",
         "zu": "Phetchabun",
-        "zu_ZA": "Phetchabun"
+        "zu_ZA": "Phetchabun",
+        "sr@latin": "Phetchabun",
+        "tt@iqtelif": "Phetchabun"
     },
     "70": {
         "af": "Ratchaburi",
@@ -49445,7 +49555,9 @@
         "zh_Hant_MY": "Ratchaburi",
         "zh_Hant_TW": "Ratchaburi",
         "zu": "Ratchaburi",
-        "zu_ZA": "Ratchaburi"
+        "zu_ZA": "Ratchaburi",
+        "sr@latin": "Račaburi",
+        "tt@iqtelif": "Ratchaburi"
     },
     "71": {
         "af": "Kanchanaburi",
@@ -50328,7 +50440,9 @@
         "zh_Hant_MY": "Kanchanaburi",
         "zh_Hant_TW": "Kanchanaburi",
         "zu": "Kanchanaburi",
-        "zu_ZA": "Kanchanaburi"
+        "zu_ZA": "Kanchanaburi",
+        "sr@latin": "Kančanaburi",
+        "tt@iqtelif": "Kanchanaburi"
     },
     "72": {
         "af": "Suphan Buri",
@@ -51211,7 +51325,9 @@
         "zh_Hant_MY": "Suphan Buri",
         "zh_Hant_TW": "Suphan Buri",
         "zu": "Suphan Buri",
-        "zu_ZA": "Suphan Buri"
+        "zu_ZA": "Suphan Buri",
+        "sr@latin": "Sufan Buri",
+        "tt@iqtelif": "Suphan Buri"
     },
     "73": {
         "af": "Nakhon Pathom",
@@ -52094,7 +52210,9 @@
         "zh_Hant_MY": "Nakhon Pathom",
         "zh_Hant_TW": "Nakhon Pathom",
         "zu": "Nakhon Pathom",
-        "zu_ZA": "Nakhon Pathom"
+        "zu_ZA": "Nakhon Pathom",
+        "sr@latin": "Nakon Patom",
+        "tt@iqtelif": "Nakhon Pathom"
     },
     "74": {
         "af": "Samut Sakhon",
@@ -52977,7 +53095,9 @@
         "zh_Hant_MY": "Samut Sakhon",
         "zh_Hant_TW": "Samut Sakhon",
         "zu": "Samut Sakhon",
-        "zu_ZA": "Samut Sakhon"
+        "zu_ZA": "Samut Sakhon",
+        "sr@latin": "Samut Sakhon",
+        "tt@iqtelif": "Samut Sakhon"
     },
     "75": {
         "af": "Samut Songkhram",
@@ -53860,7 +53980,9 @@
         "zh_Hant_MY": "Samut Songkhram",
         "zh_Hant_TW": "Samut Songkhram",
         "zu": "Samut Songkhram",
-        "zu_ZA": "Samut Songkhram"
+        "zu_ZA": "Samut Songkhram",
+        "sr@latin": "Samut Songkhram",
+        "tt@iqtelif": "Samut Songkhram"
     },
     "76": {
         "af": "Phetchaburi",
@@ -54743,7 +54865,9 @@
         "zh_Hant_MY": "Phetchaburi",
         "zh_Hant_TW": "Phetchaburi",
         "zu": "Phetchaburi",
-        "zu_ZA": "Phetchaburi"
+        "zu_ZA": "Phetchaburi",
+        "sr@latin": "Pečaburi",
+        "tt@iqtelif": "Phetchaburi"
     },
     "77": {
         "af": "Prachuap Khiri Khan",
@@ -55626,7 +55750,9 @@
         "zh_Hant_MY": "Prachuap Khiri Khan",
         "zh_Hant_TW": "Prachuap Khiri Khan",
         "zu": "Prachuap Khiri Khan",
-        "zu_ZA": "Prachuap Khiri Khan"
+        "zu_ZA": "Prachuap Khiri Khan",
+        "sr@latin": "Pračuap Kiri Kan",
+        "tt@iqtelif": "Prachuap Khiri Khan"
     },
     "80": {
         "af": "Nakhon Si Thammarat",
@@ -56509,7 +56635,9 @@
         "zh_Hant_MY": "Nakhon Si Thammarat",
         "zh_Hant_TW": "Nakhon Si Thammarat",
         "zu": "Nakhon Si Thammarat",
-        "zu_ZA": "Nakhon Si Thammarat"
+        "zu_ZA": "Nakhon Si Thammarat",
+        "sr@latin": "Nakon Si Tamarat",
+        "tt@iqtelif": "Nakhon Si Thammarat"
     },
     "81": {
         "af": "Krabi",
@@ -57392,7 +57520,9 @@
         "zh_Hant_MY": "Krabi",
         "zh_Hant_TW": "Krabi",
         "zu": "Krabi",
-        "zu_ZA": "Krabi"
+        "zu_ZA": "Krabi",
+        "sr@latin": "Krabi",
+        "tt@iqtelif": "Krabi"
     },
     "82": {
         "af": "Phangnga",
@@ -58275,7 +58405,9 @@
         "zh_Hant_MY": "Phangnga",
         "zh_Hant_TW": "Phangnga",
         "zu": "Phangnga",
-        "zu_ZA": "Phangnga"
+        "zu_ZA": "Phangnga",
+        "sr@latin": "Phangnga",
+        "tt@iqtelif": "Phangnga"
     },
     "83": {
         "af": "Phuket",
@@ -59158,7 +59290,9 @@
         "zh_Hant_MY": "Phuket",
         "zh_Hant_TW": "Phuket",
         "zu": "Phuket",
-        "zu_ZA": "Phuket"
+        "zu_ZA": "Phuket",
+        "sr@latin": "Fuke",
+        "tt@iqtelif": "Phuket"
     },
     "84": {
         "af": "Surat Thani",
@@ -60041,7 +60175,9 @@
         "zh_Hant_MY": "Surat Thani",
         "zh_Hant_TW": "Surat Thani",
         "zu": "Surat Thani",
-        "zu_ZA": "Surat Thani"
+        "zu_ZA": "Surat Thani",
+        "sr@latin": "Surat Tani",
+        "tt@iqtelif": "Surat Thani"
     },
     "85": {
         "af": "Ranong",
@@ -60924,7 +61060,9 @@
         "zh_Hant_MY": "Ranong",
         "zh_Hant_TW": "Ranong",
         "zu": "Ranong",
-        "zu_ZA": "Ranong"
+        "zu_ZA": "Ranong",
+        "sr@latin": "Ranong",
+        "tt@iqtelif": "Ranong"
     },
     "86": {
         "af": "Chumphon",
@@ -61807,7 +61945,9 @@
         "zh_Hant_MY": "Chumphon",
         "zh_Hant_TW": "Chumphon",
         "zu": "Chumphon",
-        "zu_ZA": "Chumphon"
+        "zu_ZA": "Chumphon",
+        "sr@latin": "Čumfon",
+        "tt@iqtelif": "Chumphon"
     },
     "90": {
         "af": "Songkhla",
@@ -62690,7 +62830,9 @@
         "zh_Hant_MY": "Songkhla",
         "zh_Hant_TW": "Songkhla",
         "zu": "Songkhla",
-        "zu_ZA": "Songkhla"
+        "zu_ZA": "Songkhla",
+        "sr@latin": "Songkhla",
+        "tt@iqtelif": "Songkhla"
     },
     "91": {
         "af": "Satun",
@@ -63573,7 +63715,9 @@
         "zh_Hant_MY": "Satun",
         "zh_Hant_TW": "Satun",
         "zu": "Satun",
-        "zu_ZA": "Satun"
+        "zu_ZA": "Satun",
+        "sr@latin": "Satun",
+        "tt@iqtelif": "Satun"
     },
     "92": {
         "af": "Trang",
@@ -64456,7 +64600,9 @@
         "zh_Hant_MY": "Trang",
         "zh_Hant_TW": "Trang",
         "zu": "Trang",
-        "zu_ZA": "Trang"
+        "zu_ZA": "Trang",
+        "sr@latin": "Trang",
+        "tt@iqtelif": "Trang"
     },
     "93": {
         "af": "Phatthalung",
@@ -65339,7 +65485,9 @@
         "zh_Hant_MY": "Phatthalung",
         "zh_Hant_TW": "Phatthalung",
         "zu": "Phatthalung",
-        "zu_ZA": "Phatthalung"
+        "zu_ZA": "Phatthalung",
+        "sr@latin": "Ptalun",
+        "tt@iqtelif": "Phatthalung"
     },
     "94": {
         "af": "Pattani",
@@ -66222,7 +66370,9 @@
         "zh_Hant_MY": "Pattani",
         "zh_Hant_TW": "Pattani",
         "zu": "Pattani",
-        "zu_ZA": "Pattani"
+        "zu_ZA": "Pattani",
+        "sr@latin": "Patani",
+        "tt@iqtelif": "Pattani"
     },
     "95": {
         "af": "Yala",
@@ -67105,7 +67255,9 @@
         "zh_Hant_MY": "Yala",
         "zh_Hant_TW": "Yala",
         "zu": "Yala",
-        "zu_ZA": "Yala"
+        "zu_ZA": "Yala",
+        "sr@latin": "Jala",
+        "tt@iqtelif": "Yala"
     },
     "96": {
         "af": "Narathiwat",
@@ -67988,7 +68140,9 @@
         "zh_Hant_MY": "Narathiwat",
         "zh_Hant_TW": "Narathiwat",
         "zu": "Narathiwat",
-        "zu_ZA": "Narathiwat"
+        "zu_ZA": "Narathiwat",
+        "sr@latin": "Narativat",
+        "tt@iqtelif": "Narathiwat"
     },
     "S": {
         "af": "Phatthaya",
@@ -68871,6 +69025,8 @@
         "zh_Hant_MY": "Phatthaya",
         "zh_Hant_TW": "Phatthaya",
         "zu": "Phatthaya",
-        "zu_ZA": "Phatthaya"
+        "zu_ZA": "Phatthaya",
+        "sr@latin": "Pataja",
+        "tt@iqtelif": "Phatthaya"
     }
 }

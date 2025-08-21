@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Lefkosia",
         "zh_Hant_TW": "Lefkosia",
         "zu": "Lefkosia",
-        "zu_ZA": "Lefkosia"
+        "zu_ZA": "Lefkosia",
+        "sr@latin": "Lefkosia",
+        "tt@iqtelif": "Lefkosia"
     },
     "02": {
         "af": "Lemesos",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Lemesos",
         "zh_Hant_TW": "Lemesos",
         "zu": "Lemesos",
-        "zu_ZA": "Lemesos"
+        "zu_ZA": "Lemesos",
+        "sr@latin": "Lemesos",
+        "tt@iqtelif": "Lemesos"
     },
     "03": {
         "af": "Larnaka",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Larnaka",
         "zh_Hant_TW": "Larnaka",
         "zu": "Larnaka",
-        "zu_ZA": "Larnaka"
+        "zu_ZA": "Larnaka",
+        "sr@latin": "Larnaka",
+        "tt@iqtelif": "Larnaka"
     },
     "04": {
         "af": "Ammochostos",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Ammochostos",
         "zh_Hant_TW": "Ammochostos",
         "zu": "Ammochostos",
-        "zu_ZA": "Ammochostos"
+        "zu_ZA": "Ammochostos",
+        "sr@latin": "Ammochostos",
+        "tt@iqtelif": "Ammochostos"
     },
     "05": {
         "af": "Baf",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Baf",
         "zh_Hant_TW": "Baf",
         "zu": "Baf",
-        "zu_ZA": "Baf"
+        "zu_ZA": "Baf",
+        "sr@latin": "Baf",
+        "tt@iqtelif": "Baf"
     },
     "06": {
         "af": "Girne",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Girne",
         "zh_Hant_TW": "Girne",
         "zu": "Girne",
-        "zu_ZA": "Girne"
+        "zu_ZA": "Girne",
+        "sr@latin": "Girne",
+        "tt@iqtelif": "Girne"
     }
 }

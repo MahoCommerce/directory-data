@@ -880,7 +880,9 @@
         "zh_Hant_MY": "La Colle",
         "zh_Hant_TW": "La Colle",
         "zu": "La Colle",
-        "zu_ZA": "La Colle"
+        "zu_ZA": "La Colle",
+        "sr@latin": "La Kole",
+        "tt@iqtelif": "La Colle"
     },
     "CO": {
         "af": "La Condamine",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "La Condamine",
         "zh_Hant_TW": "La Condamine",
         "zu": "La Condamine",
-        "zu_ZA": "La Condamine"
+        "zu_ZA": "La Condamine",
+        "sr@latin": "La Kondamin",
+        "tt@iqtelif": "La Condamine"
     },
     "FO": {
         "af": "Fontvieille",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Fontvieille",
         "zh_Hant_TW": "Fontvieille",
         "zu": "Fontvieille",
-        "zu_ZA": "Fontvieille"
+        "zu_ZA": "Fontvieille",
+        "sr@latin": "Fontvjej",
+        "tt@iqtelif": "Fontvieille"
     },
     "GA": {
         "af": "La Gare",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "La Gare",
         "zh_Hant_TW": "La Gare",
         "zu": "La Gare",
-        "zu_ZA": "La Gare"
+        "zu_ZA": "La Gare",
+        "sr@latin": "La Gare",
+        "tt@iqtelif": "La Gare"
     },
     "JE": {
         "af": "Jardin Exotique",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Jardin Exotique",
         "zh_Hant_TW": "Jardin Exotique",
         "zu": "Jardin Exotique",
-        "zu_ZA": "Jardin Exotique"
+        "zu_ZA": "Jardin Exotique",
+        "sr@latin": "Egzotični vrt",
+        "tt@iqtelif": "Jardin Exotique"
     },
     "LA": {
         "af": "Larvotto",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Larvotto",
         "zh_Hant_TW": "Larvotto",
         "zu": "Larvotto",
-        "zu_ZA": "Larvotto"
+        "zu_ZA": "Larvotto",
+        "sr@latin": "Larvoto",
+        "tt@iqtelif": "Larvotto"
     },
     "MA": {
         "af": "Malbousquet",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Malbousquet",
         "zh_Hant_TW": "Malbousquet",
         "zu": "Malbousquet",
-        "zu_ZA": "Malbousquet"
+        "zu_ZA": "Malbousquet",
+        "sr@latin": "Malbusk",
+        "tt@iqtelif": "Malbousquet"
     },
     "MC": {
         "af": "Monte-Carlo",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Monte-Carlo",
         "zh_Hant_TW": "Monte-Carlo",
         "zu": "Monte-Carlo",
-        "zu_ZA": "Monte-Carlo"
+        "zu_ZA": "Monte-Carlo",
+        "sr@latin": "Monte Karlo",
+        "tt@iqtelif": "Monte-Carlo"
     },
     "MG": {
         "af": "Moneghetti",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Moneghetti",
         "zh_Hant_TW": "Moneghetti",
         "zu": "Moneghetti",
-        "zu_ZA": "Moneghetti"
+        "zu_ZA": "Moneghetti",
+        "sr@latin": "Monegeti",
+        "tt@iqtelif": "Moneghetti"
     },
     "MO": {
         "af": "Monaco-Ville",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Monaco-Ville",
         "zh_Hant_TW": "Monaco-Ville",
         "zu": "Monaco-Ville",
-        "zu_ZA": "Monaco-Ville"
+        "zu_ZA": "Monaco-Ville",
+        "sr@latin": "Monako-Vij",
+        "tt@iqtelif": "Monaco-Ville"
     },
     "MU": {
         "af": "Moulins",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Moulins",
         "zh_Hant_TW": "Moulins",
         "zu": "Moulins",
-        "zu_ZA": "Moulins"
+        "zu_ZA": "Moulins",
+        "sr@latin": "Mulan",
+        "tt@iqtelif": "Moulins"
     },
     "PH": {
         "af": "Port-Hercule",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Port-Hercule",
         "zh_Hant_TW": "Port-Hercule",
         "zu": "Port-Hercule",
-        "zu_ZA": "Port-Hercule"
+        "zu_ZA": "Port-Hercule",
+        "sr@latin": "Port-Hercule",
+        "tt@iqtelif": "Port-Hercule"
     },
     "SD": {
         "af": "Sainte-Dévote",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Sainte-Dévote",
         "zh_Hant_TW": "Sainte-Dévote",
         "zu": "Sainte-Dévote",
-        "zu_ZA": "Sainte-Dévote"
+        "zu_ZA": "Sainte-Dévote",
+        "sr@latin": "Sent Devot",
+        "tt@iqtelif": "Sainte-Dévote"
     },
     "SO": {
         "af": "La Source",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "La Source",
         "zh_Hant_TW": "La Source",
         "zu": "La Source",
-        "zu_ZA": "La Source"
+        "zu_ZA": "La Source",
+        "sr@latin": "La Sours",
+        "tt@iqtelif": "La Source"
     },
     "SP": {
         "af": "Spélugues",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Spélugues",
         "zh_Hant_TW": "Spélugues",
         "zu": "Spélugues",
-        "zu_ZA": "Spélugues"
+        "zu_ZA": "Spélugues",
+        "sr@latin": "Spélugues",
+        "tt@iqtelif": "Spélugues"
     },
     "SR": {
         "af": "Saint-Roman",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Saint-Roman",
         "zh_Hant_TW": "Saint-Roman",
         "zu": "Saint-Roman",
-        "zu_ZA": "Saint-Roman"
+        "zu_ZA": "Saint-Roman",
+        "sr@latin": "Saint-Roman",
+        "tt@iqtelif": "Saint-Roman"
     },
     "VR": {
         "af": "Vallon de la Rousse",
@@ -15008,6 +15040,8 @@
         "zh_Hant_MY": "Vallon de la Rousse",
         "zh_Hant_TW": "Vallon de la Rousse",
         "zu": "Vallon de la Rousse",
-        "zu_ZA": "Vallon de la Rousse"
+        "zu_ZA": "Vallon de la Rousse",
+        "sr@latin": "Valon d la Rus",
+        "tt@iqtelif": "Vallon de la Rousse"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aiwo",
         "zh_Hant_TW": "Aiwo",
         "zu": "Aiwo",
-        "zu_ZA": "Aiwo"
+        "zu_ZA": "Aiwo",
+        "sr@latin": "Ajvo",
+        "tt@iqtelif": "Aiwo"
     },
     "02": {
         "af": "Anabar",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Anabar",
         "zh_Hant_TW": "Anabar",
         "zu": "Anabar",
-        "zu_ZA": "Anabar"
+        "zu_ZA": "Anabar",
+        "sr@latin": "Anabar",
+        "tt@iqtelif": "Anabar"
     },
     "03": {
         "af": "Anetan",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Anetan",
         "zh_Hant_TW": "Anetan",
         "zu": "Anetan",
-        "zu_ZA": "Anetan"
+        "zu_ZA": "Anetan",
+        "sr@latin": "Anetan",
+        "tt@iqtelif": "Anetan"
     },
     "04": {
         "af": "Anibare",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Anibare",
         "zh_Hant_TW": "Anibare",
         "zu": "Anibare",
-        "zu_ZA": "Anibare"
+        "zu_ZA": "Anibare",
+        "sr@latin": "Anibare",
+        "tt@iqtelif": "Anibare"
     },
     "05": {
         "af": "Baitsi",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Baitsi",
         "zh_Hant_TW": "Baitsi",
         "zu": "Baitsi",
-        "zu_ZA": "Baitsi"
+        "zu_ZA": "Baitsi",
+        "sr@latin": "Baitsi",
+        "tt@iqtelif": "Baitsi"
     },
     "06": {
         "af": "Boe",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Boe",
         "zh_Hant_TW": "Boe",
         "zu": "Boe",
-        "zu_ZA": "Boe"
+        "zu_ZA": "Boe",
+        "sr@latin": "Boe",
+        "tt@iqtelif": "Boe"
     },
     "07": {
         "af": "Buada",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Buada",
         "zh_Hant_TW": "Buada",
         "zu": "Buada",
-        "zu_ZA": "Buada"
+        "zu_ZA": "Buada",
+        "sr@latin": "Buada",
+        "tt@iqtelif": "Buada"
     },
     "08": {
         "af": "Denigomodu",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Denigomodu",
         "zh_Hant_TW": "Denigomodu",
         "zu": "Denigomodu",
-        "zu_ZA": "Denigomodu"
+        "zu_ZA": "Denigomodu",
+        "sr@latin": "Denigomodu",
+        "tt@iqtelif": "Denigomodu"
     },
     "09": {
         "af": "Ewa",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Ewa",
         "zh_Hant_TW": "Ewa",
         "zu": "Ewa",
-        "zu_ZA": "Ewa"
+        "zu_ZA": "Ewa",
+        "sr@latin": "Eva",
+        "tt@iqtelif": "Ewa"
     },
     "10": {
         "af": "Ijuw",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Ijuw",
         "zh_Hant_TW": "Ijuw",
         "zu": "Ijuw",
-        "zu_ZA": "Ijuw"
+        "zu_ZA": "Ijuw",
+        "sr@latin": "Ijuw",
+        "tt@iqtelif": "Ijuw"
     },
     "11": {
         "af": "Meneng",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Meneng",
         "zh_Hant_TW": "Meneng",
         "zu": "Meneng",
-        "zu_ZA": "Meneng"
+        "zu_ZA": "Meneng",
+        "sr@latin": "Meneng",
+        "tt@iqtelif": "Meneng"
     },
     "12": {
         "af": "Nibok",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Nibok",
         "zh_Hant_TW": "Nibok",
         "zu": "Nibok",
-        "zu_ZA": "Nibok"
+        "zu_ZA": "Nibok",
+        "sr@latin": "Nibok",
+        "tt@iqtelif": "Nibok"
     },
     "13": {
         "af": "Uaboe",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Uaboe",
         "zh_Hant_TW": "Uaboe",
         "zu": "Uaboe",
-        "zu_ZA": "Uaboe"
+        "zu_ZA": "Uaboe",
+        "sr@latin": "Uaboe",
+        "tt@iqtelif": "Uaboe"
     },
     "14": {
         "af": "Yaren",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Yaren",
         "zh_Hant_TW": "Yaren",
         "zu": "Yaren",
-        "zu_ZA": "Yaren"
+        "zu_ZA": "Yaren",
+        "sr@latin": "Jaren",
+        "tt@iqtelif": "Yaren"
     }
 }

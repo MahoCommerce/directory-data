@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ailuk",
         "zh_Hant_TW": "Ailuk",
         "zu": "Ailuk",
-        "zu_ZA": "Ailuk"
+        "zu_ZA": "Ailuk",
+        "sr@latin": "Ajluk",
+        "tt@iqtelif": "Ailuk"
     },
     "ALL": {
         "af": "Ailinglaplap",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ailinglaplap",
         "zh_Hant_TW": "Ailinglaplap",
         "zu": "Ailinglaplap",
-        "zu_ZA": "Ailinglaplap"
+        "zu_ZA": "Ailinglaplap",
+        "sr@latin": "Ajlinglaplap",
+        "tt@iqtelif": "Ailinglaplap"
     },
     "ARN": {
         "af": "Arno",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Arno",
         "zh_Hant_TW": "Arno",
         "zu": "Arno",
-        "zu_ZA": "Arno"
+        "zu_ZA": "Arno",
+        "sr@latin": "Arno",
+        "tt@iqtelif": "Arno"
     },
     "AUR": {
         "af": "Aur",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Aur",
         "zh_Hant_TW": "Aur",
         "zu": "Aur",
-        "zu_ZA": "Aur"
+        "zu_ZA": "Aur",
+        "sr@latin": "Aur",
+        "tt@iqtelif": "Aur"
     },
     "EBO": {
         "af": "Ebon",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Ebon",
         "zh_Hant_TW": "Ebon",
         "zu": "Ebon",
-        "zu_ZA": "Ebon"
+        "zu_ZA": "Ebon",
+        "sr@latin": "Ebon",
+        "tt@iqtelif": "Ebon"
     },
     "ENI": {
         "af": "Enewetak & Ujelang",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Enewetak & Ujelang",
         "zh_Hant_TW": "Enewetak & Ujelang",
         "zu": "Enewetak & Ujelang",
-        "zu_ZA": "Enewetak & Ujelang"
+        "zu_ZA": "Enewetak & Ujelang",
+        "sr@latin": "Enewetak & Ujelang",
+        "tt@iqtelif": "Enewetak & Ujelang"
     },
     "JAB": {
         "af": "Jabat",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Jabat",
         "zh_Hant_TW": "Jabat",
         "zu": "Jabat",
-        "zu_ZA": "Jabat"
+        "zu_ZA": "Jabat",
+        "sr@latin": "Džabat",
+        "tt@iqtelif": "Jabat"
     },
     "JAL": {
         "af": "Jaluit",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Jaluit",
         "zh_Hant_TW": "Jaluit",
         "zu": "Jaluit",
-        "zu_ZA": "Jaluit"
+        "zu_ZA": "Jaluit",
+        "sr@latin": "Jaluit",
+        "tt@iqtelif": "Jaluit"
     },
     "KIL": {
         "af": "Bikini & Kili",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Bikini & Kili",
         "zh_Hant_TW": "Bikini & Kili",
         "zu": "Bikini & Kili",
-        "zu_ZA": "Bikini & Kili"
+        "zu_ZA": "Bikini & Kili",
+        "sr@latin": "Bikini & Kili",
+        "tt@iqtelif": "Bikini & Kili"
     },
     "KWA": {
         "af": "Kwajalein",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Kwajalein",
         "zh_Hant_TW": "Kwajalein",
         "zu": "Kwajalein",
-        "zu_ZA": "Kwajalein"
+        "zu_ZA": "Kwajalein",
+        "sr@latin": "Kvajalajn",
+        "tt@iqtelif": "Kwajalein"
     },
     "L": {
         "af": "Ralik chain",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Ralik chain",
         "zh_Hant_TW": "Ralik chain",
         "zu": "Ralik chain",
-        "zu_ZA": "Ralik chain"
+        "zu_ZA": "Ralik chain",
+        "sr@latin": "Ralik chain",
+        "tt@iqtelif": "Ralik chain"
     },
     "LAE": {
         "af": "Lae",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Lae",
         "zh_Hant_TW": "Lae",
         "zu": "Lae",
-        "zu_ZA": "Lae"
+        "zu_ZA": "Lae",
+        "sr@latin": "Lae",
+        "tt@iqtelif": "Lae"
     },
     "LIB": {
         "af": "Lib",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Lib",
         "zh_Hant_TW": "Lib",
         "zu": "Lib",
-        "zu_ZA": "Lib"
+        "zu_ZA": "Lib",
+        "sr@latin": "Lib",
+        "tt@iqtelif": "Lib"
     },
     "LIK": {
         "af": "Likiep",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Likiep",
         "zh_Hant_TW": "Likiep",
         "zu": "Likiep",
-        "zu_ZA": "Likiep"
+        "zu_ZA": "Likiep",
+        "sr@latin": "Likjep",
+        "tt@iqtelif": "Likiep"
     },
     "MAJ": {
         "af": "Majuro",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Majuro",
         "zh_Hant_TW": "Majuro",
         "zu": "Majuro",
-        "zu_ZA": "Majuro"
+        "zu_ZA": "Majuro",
+        "sr@latin": "Mažuro",
+        "tt@iqtelif": "Majuro"
     },
     "MAL": {
         "af": "Maloelap",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Maloelap",
         "zh_Hant_TW": "Maloelap",
         "zu": "Maloelap",
-        "zu_ZA": "Maloelap"
+        "zu_ZA": "Maloelap",
+        "sr@latin": "Maloelap",
+        "tt@iqtelif": "Maloelap"
     },
     "MEJ": {
         "af": "Mejit",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Mejit",
         "zh_Hant_TW": "Mejit",
         "zu": "Mejit",
-        "zu_ZA": "Mejit"
+        "zu_ZA": "Mejit",
+        "sr@latin": "Mejit",
+        "tt@iqtelif": "Mejit"
     },
     "MIL": {
         "af": "Mili",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Mili",
         "zh_Hant_TW": "Mili",
         "zu": "Mili",
-        "zu_ZA": "Mili"
+        "zu_ZA": "Mili",
+        "sr@latin": "Mili",
+        "tt@iqtelif": "Mili"
     },
     "NMK": {
         "af": "Namdrik",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Namdrik",
         "zh_Hant_TW": "Namdrik",
         "zu": "Namdrik",
-        "zu_ZA": "Namdrik"
+        "zu_ZA": "Namdrik",
+        "sr@latin": "Namdrik",
+        "tt@iqtelif": "Namdrik"
     },
     "NMU": {
         "af": "Namu",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Namu",
         "zh_Hant_TW": "Namu",
         "zu": "Namu",
-        "zu_ZA": "Namu"
+        "zu_ZA": "Namu",
+        "sr@latin": "Namu",
+        "tt@iqtelif": "Namu"
     },
     "RON": {
         "af": "Rongelap",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Rongelap",
         "zh_Hant_TW": "Rongelap",
         "zu": "Rongelap",
-        "zu_ZA": "Rongelap"
+        "zu_ZA": "Rongelap",
+        "sr@latin": "Rongelap",
+        "tt@iqtelif": "Rongelap"
     },
     "T": {
         "af": "Ratak chain",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Ratak chain",
         "zh_Hant_TW": "Ratak chain",
         "zu": "Ratak chain",
-        "zu_ZA": "Ratak chain"
+        "zu_ZA": "Ratak chain",
+        "sr@latin": "Ratak chain",
+        "tt@iqtelif": "Ratak chain"
     },
     "UJA": {
         "af": "Ujae",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Ujae",
         "zh_Hant_TW": "Ujae",
         "zu": "Ujae",
-        "zu_ZA": "Ujae"
+        "zu_ZA": "Ujae",
+        "sr@latin": "Ujae",
+        "tt@iqtelif": "Ujae"
     },
     "UTI": {
         "af": "Utrik",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Utrik",
         "zh_Hant_TW": "Utrik",
         "zu": "Utrik",
-        "zu_ZA": "Utrik"
+        "zu_ZA": "Utrik",
+        "sr@latin": "Utrik",
+        "tt@iqtelif": "Utrik"
     },
     "WTH": {
         "af": "Wotho",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Wotho",
         "zh_Hant_TW": "Wotho",
         "zu": "Wotho",
-        "zu_ZA": "Wotho"
+        "zu_ZA": "Wotho",
+        "sr@latin": "Voto",
+        "tt@iqtelif": "Wotho"
     },
     "WTJ": {
         "af": "Wotje",
@@ -22955,6 +23005,8 @@
         "zh_Hant_MY": "Wotje",
         "zh_Hant_TW": "Wotje",
         "zu": "Wotje",
-        "zu_ZA": "Wotje"
+        "zu_ZA": "Wotje",
+        "sr@latin": "Votje",
+        "tt@iqtelif": "Wotje"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Auckland",
         "zh_Hant_TW": "Auckland",
         "zu": "Auckland",
-        "zu_ZA": "Auckland"
+        "zu_ZA": "Auckland",
+        "sr@latin": "Okland",
+        "tt@iqtelif": "Auckland"
     },
     "BOP": {
         "af": "Bay of Plenty",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bay of Plenty",
         "zh_Hant_TW": "Bay of Plenty",
         "zu": "Bay of Plenty",
-        "zu_ZA": "Bay of Plenty"
+        "zu_ZA": "Bay of Plenty",
+        "sr@latin": "Bay of Plenty",
+        "tt@iqtelif": "Bay of Plenty"
     },
     "CAN": {
         "af": "Canterbury",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Canterbury",
         "zh_Hant_TW": "Canterbury",
         "zu": "Canterbury",
-        "zu_ZA": "Canterbury"
+        "zu_ZA": "Canterbury",
+        "sr@latin": "Kanterburi",
+        "tt@iqtelif": "Canterbury"
     },
     "CIT": {
         "af": "Chatham Islands Territory",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Chatham Islands Territory",
         "zh_Hant_TW": "Chatham Islands Territory",
         "zu": "Chatham Islands Territory",
-        "zu_ZA": "Chatham Islands Territory"
+        "zu_ZA": "Chatham Islands Territory",
+        "sr@latin": "Teritorija Čatam ostrva",
+        "tt@iqtelif": "Chatham Islands Territory"
     },
     "GIS": {
         "af": "Gisborne",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Gisborne",
         "zh_Hant_TW": "Gisborne",
         "zu": "Gisborne",
-        "zu_ZA": "Gisborne"
+        "zu_ZA": "Gisborne",
+        "sr@latin": "Gisborne",
+        "tt@iqtelif": "Gisborne"
     },
     "HKB": {
         "af": "Hawke's Bay",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Hawke's Bay",
         "zh_Hant_TW": "Hawke's Bay",
         "zu": "Hawke's Bay",
-        "zu_ZA": "Hawke's Bay"
+        "zu_ZA": "Hawke's Bay",
+        "sr@latin": "Hovkiz Bej",
+        "tt@iqtelif": "Hawke's Bay"
     },
     "MBH": {
         "af": "Marlborough",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Marlborough",
         "zh_Hant_TW": "Marlborough",
         "zu": "Marlborough",
-        "zu_ZA": "Marlborough"
+        "zu_ZA": "Marlborough",
+        "sr@latin": "Marlborough",
+        "tt@iqtelif": "Marlborough"
     },
     "MWT": {
         "af": "Manawatū-Whanganui",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Manawatū-Whanganui",
         "zh_Hant_TW": "Manawatū-Whanganui",
         "zu": "Manawatū-Whanganui",
-        "zu_ZA": "Manawatū-Whanganui"
+        "zu_ZA": "Manawatū-Whanganui",
+        "sr@latin": "Manawatū-Whanganui",
+        "tt@iqtelif": "Manawatū-Whanganui"
     },
     "NSN": {
         "af": "Nelson",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Nelson",
         "zh_Hant_TW": "Nelson",
         "zu": "Nelson",
-        "zu_ZA": "Nelson"
+        "zu_ZA": "Nelson",
+        "sr@latin": "Nelson",
+        "tt@iqtelif": "Nelson"
     },
     "NTL": {
         "af": "Northland",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Northland",
         "zh_Hant_TW": "Northland",
         "zu": "Northland",
-        "zu_ZA": "Northland"
+        "zu_ZA": "Northland",
+        "sr@latin": "Nordland",
+        "tt@iqtelif": "Northland"
     },
     "OTA": {
         "af": "Otago",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Otago",
         "zh_Hant_TW": "Otago",
         "zu": "Otago",
-        "zu_ZA": "Otago"
+        "zu_ZA": "Otago",
+        "sr@latin": "Otago",
+        "tt@iqtelif": "Otago"
     },
     "STL": {
         "af": "Southland",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Southland",
         "zh_Hant_TW": "Southland",
         "zu": "Southland",
-        "zu_ZA": "Southland"
+        "zu_ZA": "Southland",
+        "sr@latin": "Sautlend",
+        "tt@iqtelif": "Southland"
     },
     "TAS": {
         "af": "Tasman",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Tasman",
         "zh_Hant_TW": "Tasman",
         "zu": "Tasman",
-        "zu_ZA": "Tasman"
+        "zu_ZA": "Tasman",
+        "sr@latin": "Tasman",
+        "tt@iqtelif": "Tasman"
     },
     "TKI": {
         "af": "Taranaki",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Taranaki",
         "zh_Hant_TW": "Taranaki",
         "zu": "Taranaki",
-        "zu_ZA": "Taranaki"
+        "zu_ZA": "Taranaki",
+        "sr@latin": "Taranaki",
+        "tt@iqtelif": "Taranaki"
     },
     "WGN": {
         "af": "Greater Wellington",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Greater Wellington",
         "zh_Hant_TW": "Greater Wellington",
         "zu": "Greater Wellington",
-        "zu_ZA": "Greater Wellington"
+        "zu_ZA": "Greater Wellington",
+        "sr@latin": "Greater Wellington",
+        "tt@iqtelif": "Greater Wellington"
     },
     "WKO": {
         "af": "Waikato",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Waikato",
         "zh_Hant_TW": "Waikato",
         "zu": "Waikato",
-        "zu_ZA": "Waikato"
+        "zu_ZA": "Waikato",
+        "sr@latin": "Waikato",
+        "tt@iqtelif": "Waikato"
     },
     "WTC": {
         "af": "West Coast",
@@ -15008,6 +15040,8 @@
         "zh_Hant_MY": "West Coast",
         "zh_Hant_TW": "West Coast",
         "zu": "West Coast",
-        "zu_ZA": "West Coast"
+        "zu_ZA": "West Coast",
+        "sr@latin": "Zapadna Obala",
+        "tt@iqtelif": "West Coast"
     }
 }

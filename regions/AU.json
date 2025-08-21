@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Australian Capital Territory",
         "zh_Hant_TW": "Australian Capital Territory",
         "zu": "Australian Capital Territory",
-        "zu_ZA": "Australian Capital Territory"
+        "zu_ZA": "Australian Capital Territory",
+        "sr@latin": "Australijska glavna teritorija",
+        "tt@iqtelif": "Australian Capital Territory"
     },
     "NSW": {
         "af": "New South Wales",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "New South Wales",
         "zh_Hant_TW": "New South Wales",
         "zu": "New South Wales",
-        "zu_ZA": "New South Wales"
+        "zu_ZA": "New South Wales",
+        "sr@latin": "Novi Južni Vels",
+        "tt@iqtelif": "New South Wales"
     },
     "NT": {
         "af": "Northern Territory",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Northern Territory",
         "zh_Hant_TW": "Northern Territory",
         "zu": "Northern Territory",
-        "zu_ZA": "Northern Territory"
+        "zu_ZA": "Northern Territory",
+        "sr@latin": "Severna Teritorija",
+        "tt@iqtelif": "Northern Territory"
     },
     "QLD": {
         "af": "Queensland",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Queensland",
         "zh_Hant_TW": "Queensland",
         "zu": "Queensland",
-        "zu_ZA": "Queensland"
+        "zu_ZA": "Queensland",
+        "sr@latin": "Kvinslend",
+        "tt@iqtelif": "Queensland"
     },
     "SA": {
         "af": "South Australia",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "South Australia",
         "zh_Hant_TW": "South Australia",
         "zu": "South Australia",
-        "zu_ZA": "South Australia"
+        "zu_ZA": "South Australia",
+        "sr@latin": "Južna Australija",
+        "tt@iqtelif": "South Australia"
     },
     "TAS": {
         "af": "Tasmania",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Tasmania",
         "zh_Hant_TW": "Tasmania",
         "zu": "Tasmania",
-        "zu_ZA": "Tasmania"
+        "zu_ZA": "Tasmania",
+        "sr@latin": "Tasmanija",
+        "tt@iqtelif": "Tasmania"
     },
     "VIC": {
         "af": "Victoria",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Victoria",
         "zh_Hant_TW": "Victoria",
         "zu": "Victoria",
-        "zu_ZA": "Victoria"
+        "zu_ZA": "Victoria",
+        "sr@latin": "Viktorija",
+        "tt@iqtelif": "Victoria"
     },
     "WA": {
         "af": "Western Australia",
@@ -7061,6 +7075,8 @@
         "zh_Hant_MY": "Western Australia",
         "zh_Hant_TW": "Western Australia",
         "zu": "Western Australia",
-        "zu_ZA": "Western Australia"
+        "zu_ZA": "Western Australia",
+        "sr@latin": "Zapadna Australija",
+        "tt@iqtelif": "Western Australia"
     }
 }

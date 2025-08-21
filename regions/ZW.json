@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Bulawayo",
         "zh_Hant_TW": "Bulawayo",
         "zu": "Bulawayo",
-        "zu_ZA": "Bulawayo"
+        "zu_ZA": "Bulawayo",
+        "sr@latin": "Bulavajo",
+        "tt@iqtelif": "Bulawayo"
     },
     "HA": {
         "af": "Harare",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Harare",
         "zh_Hant_TW": "Harare",
         "zu": "Harare",
-        "zu_ZA": "Harare"
+        "zu_ZA": "Harare",
+        "sr@latin": "Harare",
+        "tt@iqtelif": "Harare"
     },
     "MA": {
         "af": "Manicaland",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Manicaland",
         "zh_Hant_TW": "Manicaland",
         "zu": "Manicaland",
-        "zu_ZA": "Manicaland"
+        "zu_ZA": "Manicaland",
+        "sr@latin": "Manikalend",
+        "tt@iqtelif": "Manicaland"
     },
     "MC": {
         "af": "Mashonaland Central",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Mashonaland Central",
         "zh_Hant_TW": "Mashonaland Central",
         "zu": "Mashonaland Central",
-        "zu_ZA": "Mashonaland Central"
+        "zu_ZA": "Mashonaland Central",
+        "sr@latin": "Mashonaland Central",
+        "tt@iqtelif": "Mashonaland Central"
     },
     "ME": {
         "af": "Mashonaland East",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Mashonaland East",
         "zh_Hant_TW": "Mashonaland East",
         "zu": "Mashonaland East",
-        "zu_ZA": "Mashonaland East"
+        "zu_ZA": "Mashonaland East",
+        "sr@latin": "Mashonaland East",
+        "tt@iqtelif": "Mashonaland East"
     },
     "MI": {
         "af": "Midlands",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Midlands",
         "zh_Hant_TW": "Midlands",
         "zu": "Midlands",
-        "zu_ZA": "Midlands"
+        "zu_ZA": "Midlands",
+        "sr@latin": "Midlends",
+        "tt@iqtelif": "Midlands"
     },
     "MN": {
         "af": "Matabeleland North",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Matabeleland North",
         "zh_Hant_TW": "Matabeleland North",
         "zu": "Matabeleland North",
-        "zu_ZA": "Matabeleland North"
+        "zu_ZA": "Matabeleland North",
+        "sr@latin": "Matabeleland North",
+        "tt@iqtelif": "Matabeleland North"
     },
     "MS": {
         "af": "Matabeleland South",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Matabeleland South",
         "zh_Hant_TW": "Matabeleland South",
         "zu": "Matabeleland South",
-        "zu_ZA": "Matabeleland South"
+        "zu_ZA": "Matabeleland South",
+        "sr@latin": "Matabeleland South",
+        "tt@iqtelif": "Matabeleland South"
     },
     "MV": {
         "af": "Masvingo",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Masvingo",
         "zh_Hant_TW": "Masvingo",
         "zu": "Masvingo",
-        "zu_ZA": "Masvingo"
+        "zu_ZA": "Masvingo",
+        "sr@latin": "Masvingo",
+        "tt@iqtelif": "Masvingo"
     },
     "MW": {
         "af": "Mashonaland West",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Mashonaland West",
         "zh_Hant_TW": "Mashonaland West",
         "zu": "Mashonaland West",
-        "zu_ZA": "Mashonaland West"
+        "zu_ZA": "Mashonaland West",
+        "sr@latin": "Mashonaland West",
+        "tt@iqtelif": "Mashonaland West"
     }
 }

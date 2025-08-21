@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ulaanbaatar",
         "zh_Hant_TW": "Ulaanbaatar",
         "zu": "Ulaanbaatar",
-        "zu_ZA": "Ulaanbaatar"
+        "zu_ZA": "Ulaanbaatar",
+        "sr@latin": "Ulaanbaatar",
+        "tt@iqtelif": "Ulaanbaatar"
     },
     "035": {
         "af": "Orhon",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Orhon",
         "zh_Hant_TW": "Orhon",
         "zu": "Orhon",
-        "zu_ZA": "Orhon"
+        "zu_ZA": "Orhon",
+        "sr@latin": "Oron",
+        "tt@iqtelif": "Orhon"
     },
     "037": {
         "af": "Darhan uul",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Darhan uul",
         "zh_Hant_TW": "Darhan uul",
         "zu": "Darhan uul",
-        "zu_ZA": "Darhan uul"
+        "zu_ZA": "Darhan uul",
+        "sr@latin": "Daran uul",
+        "tt@iqtelif": "Darhan uul"
     },
     "039": {
         "af": "Hentiy",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Hentiy",
         "zh_Hant_TW": "Hentiy",
         "zu": "Hentiy",
-        "zu_ZA": "Hentiy"
+        "zu_ZA": "Hentiy",
+        "sr@latin": "Hentij",
+        "tt@iqtelif": "Hentiy"
     },
     "041": {
         "af": "Hövsgöl",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Hövsgöl",
         "zh_Hant_TW": "Hövsgöl",
         "zu": "Hövsgöl",
-        "zu_ZA": "Hövsgöl"
+        "zu_ZA": "Hövsgöl",
+        "sr@latin": "Hovsgol",
+        "tt@iqtelif": "Hövsgöl"
     },
     "043": {
         "af": "Hovd",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Hovd",
         "zh_Hant_TW": "Hovd",
         "zu": "Hovd",
-        "zu_ZA": "Hovd"
+        "zu_ZA": "Hovd",
+        "sr@latin": "Houd",
+        "tt@iqtelif": "Hovd"
     },
     "046": {
         "af": "Uvs",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Uvs",
         "zh_Hant_TW": "Uvs",
         "zu": "Uvs",
-        "zu_ZA": "Uvs"
+        "zu_ZA": "Uvs",
+        "sr@latin": "Uvs",
+        "tt@iqtelif": "Uvs"
     },
     "047": {
         "af": "Töv",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Töv",
         "zh_Hant_TW": "Töv",
         "zu": "Töv",
-        "zu_ZA": "Töv"
+        "zu_ZA": "Töv",
+        "sr@latin": "Tov",
+        "tt@iqtelif": "Töv"
     },
     "049": {
         "af": "Selenge",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Selenge",
         "zh_Hant_TW": "Selenge",
         "zu": "Selenge",
-        "zu_ZA": "Selenge"
+        "zu_ZA": "Selenge",
+        "sr@latin": "Selenge",
+        "tt@iqtelif": "Selenge"
     },
     "051": {
         "af": "Sühbaatar",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Sühbaatar",
         "zh_Hant_TW": "Sühbaatar",
         "zu": "Sühbaatar",
-        "zu_ZA": "Sühbaatar"
+        "zu_ZA": "Sühbaatar",
+        "sr@latin": "Sühbaatar",
+        "tt@iqtelif": "Sühbaatar"
     },
     "053": {
         "af": "Ömnögovĭ",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Ömnögovĭ",
         "zh_Hant_TW": "Ömnögovĭ",
         "zu": "Ömnögovĭ",
-        "zu_ZA": "Ömnögovĭ"
+        "zu_ZA": "Ömnögovĭ",
+        "sr@latin": "Ömnögovĭ",
+        "tt@iqtelif": "Ömnögovĭ"
     },
     "055": {
         "af": "Övörhangay",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Övörhangay",
         "zh_Hant_TW": "Övörhangay",
         "zu": "Övörhangay",
-        "zu_ZA": "Övörhangay"
+        "zu_ZA": "Övörhangay",
+        "sr@latin": "Övörhangay",
+        "tt@iqtelif": "Övörhangay"
     },
     "057": {
         "af": "Dzavhan",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Dzavhan",
         "zh_Hant_TW": "Dzavhan",
         "zu": "Dzavhan",
-        "zu_ZA": "Dzavhan"
+        "zu_ZA": "Dzavhan",
+        "sr@latin": "Dzavhan",
+        "tt@iqtelif": "Dzavhan"
     },
     "059": {
         "af": "Dundgovĭ",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Dundgovĭ",
         "zh_Hant_TW": "Dundgovĭ",
         "zu": "Dundgovĭ",
-        "zu_ZA": "Dundgovĭ"
+        "zu_ZA": "Dundgovĭ",
+        "sr@latin": "Dundgovĭ",
+        "tt@iqtelif": "Dundgovĭ"
     },
     "061": {
         "af": "Dornod",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Dornod",
         "zh_Hant_TW": "Dornod",
         "zu": "Dornod",
-        "zu_ZA": "Dornod"
+        "zu_ZA": "Dornod",
+        "sr@latin": "Dornod",
+        "tt@iqtelif": "Dornod"
     },
     "063": {
         "af": "Dornogovĭ",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Dornogovĭ",
         "zh_Hant_TW": "Dornogovĭ",
         "zu": "Dornogovĭ",
-        "zu_ZA": "Dornogovĭ"
+        "zu_ZA": "Dornogovĭ",
+        "sr@latin": "Dornogovĭ",
+        "tt@iqtelif": "Dornogovĭ"
     },
     "064": {
         "af": "Govĭ-Sümber",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Govĭ-Sümber",
         "zh_Hant_TW": "Govĭ-Sümber",
         "zu": "Govĭ-Sümber",
-        "zu_ZA": "Govĭ-Sümber"
+        "zu_ZA": "Govĭ-Sümber",
+        "sr@latin": "Govĭ-Sümber",
+        "tt@iqtelif": "Govĭ-Sümber"
     },
     "065": {
         "af": "Govĭ-Altay",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Govĭ-Altay",
         "zh_Hant_TW": "Govĭ-Altay",
         "zu": "Govĭ-Altay",
-        "zu_ZA": "Govĭ-Altay"
+        "zu_ZA": "Govĭ-Altay",
+        "sr@latin": "Govĭ-Altay",
+        "tt@iqtelif": "Govĭ-Altay"
     },
     "067": {
         "af": "Bulgan",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Bulgan",
         "zh_Hant_TW": "Bulgan",
         "zu": "Bulgan",
-        "zu_ZA": "Bulgan"
+        "zu_ZA": "Bulgan",
+        "sr@latin": "Bulgan",
+        "tt@iqtelif": "Bulgan"
     },
     "069": {
         "af": "Bayanhongor",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Bayanhongor",
         "zh_Hant_TW": "Bayanhongor",
         "zu": "Bayanhongor",
-        "zu_ZA": "Bayanhongor"
+        "zu_ZA": "Bayanhongor",
+        "sr@latin": "Bajanongor",
+        "tt@iqtelif": "Bayanhongor"
     },
     "071": {
         "af": "Bayan-Ölgiy",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Bayan-Ölgiy",
         "zh_Hant_TW": "Bayan-Ölgiy",
         "zu": "Bayan-Ölgiy",
-        "zu_ZA": "Bayan-Ölgiy"
+        "zu_ZA": "Bayan-Ölgiy",
+        "sr@latin": "Bayan-Ölgiy",
+        "tt@iqtelif": "Bayan-Ölgiy"
     },
     "073": {
         "af": "Arhangay",
@@ -19423,6 +19465,8 @@
         "zh_Hant_MY": "Arhangay",
         "zh_Hant_TW": "Arhangay",
         "zu": "Arhangay",
-        "zu_ZA": "Arhangay"
+        "zu_ZA": "Arhangay",
+        "sr@latin": "Arangaj",
+        "tt@iqtelif": "Arhangay"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Abidjan",
         "zh_Hant_TW": "Abidjan",
         "zu": "Abidjan",
-        "zu_ZA": "Abidjan"
+        "zu_ZA": "Abidjan",
+        "sr@latin": "Abidjan",
+        "tt@iqtelif": "Abidjan"
     },
     "BS": {
         "af": "Bas-Sassandra",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bas-Sassandra",
         "zh_Hant_TW": "Bas-Sassandra",
         "zu": "Bas-Sassandra",
-        "zu_ZA": "Bas-Sassandra"
+        "zu_ZA": "Bas-Sassandra",
+        "sr@latin": "Bas-Sassandra",
+        "tt@iqtelif": "Bas-Sassandra"
     },
     "CM": {
         "af": "Comoé",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Comoé",
         "zh_Hant_TW": "Comoé",
         "zu": "Comoé",
-        "zu_ZA": "Comoé"
+        "zu_ZA": "Comoé",
+        "sr@latin": "Komoe",
+        "tt@iqtelif": "Comoé"
     },
     "DN": {
         "af": "Denguélé",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Denguélé",
         "zh_Hant_TW": "Denguélé",
         "zu": "Denguélé",
-        "zu_ZA": "Denguélé"
+        "zu_ZA": "Denguélé",
+        "sr@latin": "Denguélé",
+        "tt@iqtelif": "Denguélé"
     },
     "GD": {
         "af": "Gôh-Djiboua",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Gôh-Djiboua",
         "zh_Hant_TW": "Gôh-Djiboua",
         "zu": "Gôh-Djiboua",
-        "zu_ZA": "Gôh-Djiboua"
+        "zu_ZA": "Gôh-Djiboua",
+        "sr@latin": "Gôh-Djiboua",
+        "tt@iqtelif": "Gôh-Djiboua"
     },
     "LC": {
         "af": "Lacs",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Lacs",
         "zh_Hant_TW": "Lacs",
         "zu": "Lacs",
-        "zu_ZA": "Lacs"
+        "zu_ZA": "Lacs",
+        "sr@latin": "Lacs",
+        "tt@iqtelif": "Lacs"
     },
     "LG": {
         "af": "Lagunes",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Lagunes",
         "zh_Hant_TW": "Lagunes",
         "zu": "Lagunes",
-        "zu_ZA": "Lagunes"
+        "zu_ZA": "Lagunes",
+        "sr@latin": "Lagunes",
+        "tt@iqtelif": "Lagunes"
     },
     "MG": {
         "af": "Montagnes",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Montagnes",
         "zh_Hant_TW": "Montagnes",
         "zu": "Montagnes",
-        "zu_ZA": "Montagnes"
+        "zu_ZA": "Montagnes",
+        "sr@latin": "Montagnes",
+        "tt@iqtelif": "Montagnes"
     },
     "SM": {
         "af": "Sassandra-Marahoué",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Sassandra-Marahoué",
         "zh_Hant_TW": "Sassandra-Marahoué",
         "zu": "Sassandra-Marahoué",
-        "zu_ZA": "Sassandra-Marahoué"
+        "zu_ZA": "Sassandra-Marahoué",
+        "sr@latin": "Sassandra-Marahoué",
+        "tt@iqtelif": "Sassandra-Marahoué"
     },
     "SV": {
         "af": "Savanes",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Savanes",
         "zh_Hant_TW": "Savanes",
         "zu": "Savanes",
-        "zu_ZA": "Savanes"
+        "zu_ZA": "Savanes",
+        "sr@latin": "Savanes",
+        "tt@iqtelif": "Savanes"
     },
     "VB": {
         "af": "Vallée du Bandama",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Vallée du Bandama",
         "zh_Hant_TW": "Vallée du Bandama",
         "zu": "Vallée du Bandama",
-        "zu_ZA": "Vallée du Bandama"
+        "zu_ZA": "Vallée du Bandama",
+        "sr@latin": "Vallée du Bandama",
+        "tt@iqtelif": "Vallée du Bandama"
     },
     "WR": {
         "af": "Woroba",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Woroba",
         "zh_Hant_TW": "Woroba",
         "zu": "Woroba",
-        "zu_ZA": "Woroba"
+        "zu_ZA": "Woroba",
+        "sr@latin": "Woroba",
+        "tt@iqtelif": "Woroba"
     },
     "YM": {
         "af": "Yamoussoukro",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Yamoussoukro",
         "zh_Hant_TW": "Yamoussoukro",
         "zu": "Yamoussoukro",
-        "zu_ZA": "Yamoussoukro"
+        "zu_ZA": "Yamoussoukro",
+        "sr@latin": "Yamoussoukro",
+        "tt@iqtelif": "Yamoussoukro"
     },
     "ZZ": {
         "af": "Zanzan",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Zanzan",
         "zh_Hant_TW": "Zanzan",
         "zu": "Zanzan",
-        "zu_ZA": "Zanzan"
+        "zu_ZA": "Zanzan",
+        "sr@latin": "Zanzan",
+        "tt@iqtelif": "Zanzan"
     }
 }

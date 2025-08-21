@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Guatemala",
         "zh_Hant_TW": "Guatemala",
         "zu": "Guatemala",
-        "zu_ZA": "Guatemala"
+        "zu_ZA": "Guatemala",
+        "sr@latin": "Gvatemala",
+        "tt@iqtelif": "Guatemala"
     },
     "02": {
         "af": "El Progreso",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "El Progreso",
         "zh_Hant_TW": "El Progreso",
         "zu": "El Progreso",
-        "zu_ZA": "El Progreso"
+        "zu_ZA": "El Progreso",
+        "sr@latin": "El Progreso",
+        "tt@iqtelif": "El Progreso"
     },
     "03": {
         "af": "Sacatepéquez",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Sacatepéquez",
         "zh_Hant_TW": "Sacatepéquez",
         "zu": "Sacatepéquez",
-        "zu_ZA": "Sacatepéquez"
+        "zu_ZA": "Sacatepéquez",
+        "sr@latin": "Sacatepéquez",
+        "tt@iqtelif": "Sacatepéquez"
     },
     "04": {
         "af": "Chimaltenango",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Chimaltenango",
         "zh_Hant_TW": "Chimaltenango",
         "zu": "Chimaltenango",
-        "zu_ZA": "Chimaltenango"
+        "zu_ZA": "Chimaltenango",
+        "sr@latin": "Kimaltenango",
+        "tt@iqtelif": "Chimaltenango"
     },
     "05": {
         "af": "Escuintla",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Escuintla",
         "zh_Hant_TW": "Escuintla",
         "zu": "Escuintla",
-        "zu_ZA": "Escuintla"
+        "zu_ZA": "Escuintla",
+        "sr@latin": "Eskuintla",
+        "tt@iqtelif": "Escuintla"
     },
     "06": {
         "af": "Santa Rosa",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Santa Rosa",
         "zh_Hant_TW": "Santa Rosa",
         "zu": "Santa Rosa",
-        "zu_ZA": "Santa Rosa"
+        "zu_ZA": "Santa Rosa",
+        "sr@latin": "Santa Roza",
+        "tt@iqtelif": "Santa Rosa"
     },
     "07": {
         "af": "Sololá",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Sololá",
         "zh_Hant_TW": "Sololá",
         "zu": "Sololá",
-        "zu_ZA": "Sololá"
+        "zu_ZA": "Sololá",
+        "sr@latin": "Solola",
+        "tt@iqtelif": "Sololá"
     },
     "08": {
         "af": "Totonicapán",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Totonicapán",
         "zh_Hant_TW": "Totonicapán",
         "zu": "Totonicapán",
-        "zu_ZA": "Totonicapán"
+        "zu_ZA": "Totonicapán",
+        "sr@latin": "Totonicapán",
+        "tt@iqtelif": "Totonicapán"
     },
     "09": {
         "af": "Quetzaltenango",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Quetzaltenango",
         "zh_Hant_TW": "Quetzaltenango",
         "zu": "Quetzaltenango",
-        "zu_ZA": "Quetzaltenango"
+        "zu_ZA": "Quetzaltenango",
+        "sr@latin": "Kvecaltenango",
+        "tt@iqtelif": "Quetzaltenango"
     },
     "10": {
         "af": "Suchitepéquez",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Suchitepéquez",
         "zh_Hant_TW": "Suchitepéquez",
         "zu": "Suchitepéquez",
-        "zu_ZA": "Suchitepéquez"
+        "zu_ZA": "Suchitepéquez",
+        "sr@latin": "Suchitepéquez",
+        "tt@iqtelif": "Suchitepéquez"
     },
     "11": {
         "af": "Retalhuleu",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Retalhuleu",
         "zh_Hant_TW": "Retalhuleu",
         "zu": "Retalhuleu",
-        "zu_ZA": "Retalhuleu"
+        "zu_ZA": "Retalhuleu",
+        "sr@latin": "Retolulo",
+        "tt@iqtelif": "Retalhuleu"
     },
     "12": {
         "af": "San Marcos",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "San Marcos",
         "zh_Hant_TW": "San Marcos",
         "zu": "San Marcos",
-        "zu_ZA": "San Marcos"
+        "zu_ZA": "San Marcos",
+        "sr@latin": "San Markos",
+        "tt@iqtelif": "San Marcos"
     },
     "13": {
         "af": "Huehuetenango",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Huehuetenango",
         "zh_Hant_TW": "Huehuetenango",
         "zu": "Huehuetenango",
-        "zu_ZA": "Huehuetenango"
+        "zu_ZA": "Huehuetenango",
+        "sr@latin": "Huehuetenango",
+        "tt@iqtelif": "Huehuetenango"
     },
     "14": {
         "af": "Quiché",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Quiché",
         "zh_Hant_TW": "Quiché",
         "zu": "Quiché",
-        "zu_ZA": "Quiché"
+        "zu_ZA": "Quiché",
+        "sr@latin": "Quiché",
+        "tt@iqtelif": "Quiché"
     },
     "15": {
         "af": "Baja Verapaz",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Baja Verapaz",
         "zh_Hant_TW": "Baja Verapaz",
         "zu": "Baja Verapaz",
-        "zu_ZA": "Baja Verapaz"
+        "zu_ZA": "Baja Verapaz",
+        "sr@latin": "Baha Verapaz",
+        "tt@iqtelif": "Baja Verapaz"
     },
     "16": {
         "af": "Alta Verapaz",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Alta Verapaz",
         "zh_Hant_TW": "Alta Verapaz",
         "zu": "Alta Verapaz",
-        "zu_ZA": "Alta Verapaz"
+        "zu_ZA": "Alta Verapaz",
+        "sr@latin": "Alta Verapaz",
+        "tt@iqtelif": "Alta Verapaz"
     },
     "17": {
         "af": "Petén",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Petén",
         "zh_Hant_TW": "Petén",
         "zu": "Petén",
-        "zu_ZA": "Petén"
+        "zu_ZA": "Petén",
+        "sr@latin": "Peten",
+        "tt@iqtelif": "Petén"
     },
     "18": {
         "af": "Izabal",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Izabal",
         "zh_Hant_TW": "Izabal",
         "zu": "Izabal",
-        "zu_ZA": "Izabal"
+        "zu_ZA": "Izabal",
+        "sr@latin": "Izabal",
+        "tt@iqtelif": "Izabal"
     },
     "19": {
         "af": "Zacapa",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Zacapa",
         "zh_Hant_TW": "Zacapa",
         "zu": "Zacapa",
-        "zu_ZA": "Zacapa"
+        "zu_ZA": "Zacapa",
+        "sr@latin": "Zakapa",
+        "tt@iqtelif": "Zacapa"
     },
     "20": {
         "af": "Chiquimula",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Chiquimula",
         "zh_Hant_TW": "Chiquimula",
         "zu": "Chiquimula",
-        "zu_ZA": "Chiquimula"
+        "zu_ZA": "Chiquimula",
+        "sr@latin": "Chiquimula",
+        "tt@iqtelif": "Chiquimula"
     },
     "21": {
         "af": "Jalapa",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Jalapa",
         "zh_Hant_TW": "Jalapa",
         "zu": "Jalapa",
-        "zu_ZA": "Jalapa"
+        "zu_ZA": "Jalapa",
+        "sr@latin": "Džalapa",
+        "tt@iqtelif": "Jalapa"
     },
     "22": {
         "af": "Jutiapa",
@@ -19423,6 +19465,8 @@
         "zh_Hant_MY": "Jutiapa",
         "zh_Hant_TW": "Jutiapa",
         "zu": "Jutiapa",
-        "zu_ZA": "Jutiapa"
+        "zu_ZA": "Jutiapa",
+        "sr@latin": "Jutiapa",
+        "tt@iqtelif": "Jutiapa"
     }
 }

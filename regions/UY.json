@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Artigas",
         "zh_Hant_TW": "Artigas",
         "zu": "Artigas",
-        "zu_ZA": "Artigas"
+        "zu_ZA": "Artigas",
+        "sr@latin": "Artigas",
+        "tt@iqtelif": "Artigas"
     },
     "CA": {
         "af": "Canelones",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Canelones",
         "zh_Hant_TW": "Canelones",
         "zu": "Canelones",
-        "zu_ZA": "Canelones"
+        "zu_ZA": "Canelones",
+        "sr@latin": "Kanelones",
+        "tt@iqtelif": "Canelones"
     },
     "CL": {
         "af": "Cerro Largo",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Cerro Largo",
         "zh_Hant_TW": "Cerro Largo",
         "zu": "Cerro Largo",
-        "zu_ZA": "Cerro Largo"
+        "zu_ZA": "Cerro Largo",
+        "sr@latin": "Sero Largo",
+        "tt@iqtelif": "Cerro Largo"
     },
     "CO": {
         "af": "Colonia",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Colonia",
         "zh_Hant_TW": "Colonia",
         "zu": "Colonia",
-        "zu_ZA": "Colonia"
+        "zu_ZA": "Colonia",
+        "sr@latin": "Kolonija",
+        "tt@iqtelif": "Colonia"
     },
     "DU": {
         "af": "Durazno",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Durazno",
         "zh_Hant_TW": "Durazno",
         "zu": "Durazno",
-        "zu_ZA": "Durazno"
+        "zu_ZA": "Durazno",
+        "sr@latin": "Durazno",
+        "tt@iqtelif": "Durazno"
     },
     "FD": {
         "af": "Florida",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Florida",
         "zh_Hant_TW": "Florida",
         "zu": "Florida",
-        "zu_ZA": "Florida"
+        "zu_ZA": "Florida",
+        "sr@latin": "Florida",
+        "tt@iqtelif": "Florida"
     },
     "FS": {
         "af": "Flores",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Flores",
         "zh_Hant_TW": "Flores",
         "zu": "Flores",
-        "zu_ZA": "Flores"
+        "zu_ZA": "Flores",
+        "sr@latin": "Flores",
+        "tt@iqtelif": "Flores"
     },
     "LA": {
         "af": "Lavalleja",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Lavalleja",
         "zh_Hant_TW": "Lavalleja",
         "zu": "Lavalleja",
-        "zu_ZA": "Lavalleja"
+        "zu_ZA": "Lavalleja",
+        "sr@latin": "Lavaljeha",
+        "tt@iqtelif": "Lavalleja"
     },
     "MA": {
         "af": "Maldonado",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Maldonado",
         "zh_Hant_TW": "Maldonado",
         "zu": "Maldonado",
-        "zu_ZA": "Maldonado"
+        "zu_ZA": "Maldonado",
+        "sr@latin": "Maldonado",
+        "tt@iqtelif": "Maldonado"
     },
     "MO": {
         "af": "Montevideo",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Montevideo",
         "zh_Hant_TW": "Montevideo",
         "zu": "Montevideo",
-        "zu_ZA": "Montevideo"
+        "zu_ZA": "Montevideo",
+        "sr@latin": "Montevideo",
+        "tt@iqtelif": "Montevideo"
     },
     "PA": {
         "af": "Paysandú",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Paysandú",
         "zh_Hant_TW": "Paysandú",
         "zu": "Paysandú",
-        "zu_ZA": "Paysandú"
+        "zu_ZA": "Paysandú",
+        "sr@latin": "Paysandú",
+        "tt@iqtelif": "Paysandú"
     },
     "RN": {
         "af": "Río Negro",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Río Negro",
         "zh_Hant_TW": "Río Negro",
         "zu": "Río Negro",
-        "zu_ZA": "Río Negro"
+        "zu_ZA": "Río Negro",
+        "sr@latin": "Rio Negro",
+        "tt@iqtelif": "Río Negro"
     },
     "RO": {
         "af": "Rocha",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Rocha",
         "zh_Hant_TW": "Rocha",
         "zu": "Rocha",
-        "zu_ZA": "Rocha"
+        "zu_ZA": "Rocha",
+        "sr@latin": "Rocha",
+        "tt@iqtelif": "Rocha"
     },
     "RV": {
         "af": "Rivera",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Rivera",
         "zh_Hant_TW": "Rivera",
         "zu": "Rivera",
-        "zu_ZA": "Rivera"
+        "zu_ZA": "Rivera",
+        "sr@latin": "Rivera",
+        "tt@iqtelif": "Rivera"
     },
     "SA": {
         "af": "Salto",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Salto",
         "zh_Hant_TW": "Salto",
         "zu": "Salto",
-        "zu_ZA": "Salto"
+        "zu_ZA": "Salto",
+        "sr@latin": "Salto",
+        "tt@iqtelif": "Salto"
     },
     "SJ": {
         "af": "San José",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "San José",
         "zh_Hant_TW": "San José",
         "zu": "San José",
-        "zu_ZA": "San José"
+        "zu_ZA": "San José",
+        "sr@latin": "San Hose",
+        "tt@iqtelif": "San José"
     },
     "SO": {
         "af": "Soriano",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Soriano",
         "zh_Hant_TW": "Soriano",
         "zu": "Soriano",
-        "zu_ZA": "Soriano"
+        "zu_ZA": "Soriano",
+        "sr@latin": "Sorjano",
+        "tt@iqtelif": "Soriano"
     },
     "TA": {
         "af": "Tacuarembó",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Tacuarembó",
         "zh_Hant_TW": "Tacuarembó",
         "zu": "Tacuarembó",
-        "zu_ZA": "Tacuarembó"
+        "zu_ZA": "Tacuarembó",
+        "sr@latin": "Tacuarembó",
+        "tt@iqtelif": "Tacuarembó"
     },
     "TT": {
         "af": "Treinta y Tres",
@@ -16774,6 +16810,8 @@
         "zh_Hant_MY": "Treinta y Tres",
         "zh_Hant_TW": "Treinta y Tres",
         "zu": "Treinta y Tres",
-        "zu_ZA": "Treinta y Tres"
+        "zu_ZA": "Treinta y Tres",
+        "sr@latin": "Treinta y Tres",
+        "tt@iqtelif": "Treinta y Tres"
     }
 }

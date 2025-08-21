@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Banskobystrický kraj",
         "zh_Hant_TW": "Banskobystrický kraj",
         "zu": "Banskobystrický kraj",
-        "zu_ZA": "Banskobystrický kraj"
+        "zu_ZA": "Banskobystrický kraj",
+        "sr@latin": "Banskobistrički kraj",
+        "tt@iqtelif": "Banskobystrický kraj"
     },
     "BL": {
         "af": "Bratislavský kraj",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bratislavský kraj",
         "zh_Hant_TW": "Bratislavský kraj",
         "zu": "Bratislavský kraj",
-        "zu_ZA": "Bratislavský kraj"
+        "zu_ZA": "Bratislavský kraj",
+        "sr@latin": "Bratislavski kraj",
+        "tt@iqtelif": "Bratislavský kraj"
     },
     "KI": {
         "af": "Košický kraj",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Košický kraj",
         "zh_Hant_TW": "Košický kraj",
         "zu": "Košický kraj",
-        "zu_ZA": "Košický kraj"
+        "zu_ZA": "Košický kraj",
+        "sr@latin": "Košički kraj",
+        "tt@iqtelif": "Košický kraj"
     },
     "NI": {
         "af": "Nitriansky kraj",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Nitriansky kraj",
         "zh_Hant_TW": "Nitriansky kraj",
         "zu": "Nitriansky kraj",
-        "zu_ZA": "Nitriansky kraj"
+        "zu_ZA": "Nitriansky kraj",
+        "sr@latin": "Nitrianski kraj",
+        "tt@iqtelif": "Nitriansky kraj"
     },
     "PV": {
         "af": "Prešovský kraj",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Prešovský kraj",
         "zh_Hant_TW": "Prešovský kraj",
         "zu": "Prešovský kraj",
-        "zu_ZA": "Prešovský kraj"
+        "zu_ZA": "Prešovský kraj",
+        "sr@latin": "Prešovski kraj",
+        "tt@iqtelif": "Prešovský kraj"
     },
     "TA": {
         "af": "Trnavský kraj",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Trnavský kraj",
         "zh_Hant_TW": "Trnavský kraj",
         "zu": "Trnavský kraj",
-        "zu_ZA": "Trnavský kraj"
+        "zu_ZA": "Trnavský kraj",
+        "sr@latin": "Trnavski kraj",
+        "tt@iqtelif": "Trnavský kraj"
     },
     "TC": {
         "af": "Trenčiansky kraj",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Trenčiansky kraj",
         "zh_Hant_TW": "Trenčiansky kraj",
         "zu": "Trenčiansky kraj",
-        "zu_ZA": "Trenčiansky kraj"
+        "zu_ZA": "Trenčiansky kraj",
+        "sr@latin": "Trenčjanski kraj",
+        "tt@iqtelif": "Trenčiansky kraj"
     },
     "ZI": {
         "af": "Žilinský kraj",
@@ -7061,6 +7075,8 @@
         "zh_Hant_MY": "Žilinský kraj",
         "zh_Hant_TW": "Žilinský kraj",
         "zu": "Žilinský kraj",
-        "zu_ZA": "Žilinský kraj"
+        "zu_ZA": "Žilinský kraj",
+        "sr@latin": "Žilinski kraj",
+        "tt@iqtelif": "Žilinský kraj"
     }
 }

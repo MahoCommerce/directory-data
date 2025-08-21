@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Arusha",
         "zh_Hant_TW": "Arusha",
         "zu": "Arusha",
-        "zu_ZA": "Arusha"
+        "zu_ZA": "Arusha",
+        "sr@latin": "Aruša",
+        "tt@iqtelif": "Arusha"
     },
     "02": {
         "af": "Dar es Salaam",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Dar es Salaam",
         "zh_Hant_TW": "Dar es Salaam",
         "zu": "Dar es Salaam",
-        "zu_ZA": "Dar es Salaam"
+        "zu_ZA": "Dar es Salaam",
+        "sr@latin": "Dar es Salaam",
+        "tt@iqtelif": "Dar es Salaam"
     },
     "03": {
         "af": "Dodoma",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Dodoma",
         "zh_Hant_TW": "Dodoma",
         "zu": "Dodoma",
-        "zu_ZA": "Dodoma"
+        "zu_ZA": "Dodoma",
+        "sr@latin": "Dodoma",
+        "tt@iqtelif": "Dodoma"
     },
     "04": {
         "af": "Iringa",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Iringa",
         "zh_Hant_TW": "Iringa",
         "zu": "Iringa",
-        "zu_ZA": "Iringa"
+        "zu_ZA": "Iringa",
+        "sr@latin": "Iringa",
+        "tt@iqtelif": "Iringa"
     },
     "05": {
         "af": "Kagera",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Kagera",
         "zh_Hant_TW": "Kagera",
         "zu": "Kagera",
-        "zu_ZA": "Kagera"
+        "zu_ZA": "Kagera",
+        "sr@latin": "Kagera",
+        "tt@iqtelif": "Kagera"
     },
     "06": {
         "af": "Pemba North",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Pemba North",
         "zh_Hant_TW": "Pemba North",
         "zu": "Pemba North",
-        "zu_ZA": "Pemba North"
+        "zu_ZA": "Pemba North",
+        "sr@latin": "Pemba North",
+        "tt@iqtelif": "Pemba North"
     },
     "07": {
         "af": "Zanzibar North",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Zanzibar North",
         "zh_Hant_TW": "Zanzibar North",
         "zu": "Zanzibar North",
-        "zu_ZA": "Zanzibar North"
+        "zu_ZA": "Zanzibar North",
+        "sr@latin": "Zanzibar North",
+        "tt@iqtelif": "Zanzibar North"
     },
     "08": {
         "af": "Kigoma",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Kigoma",
         "zh_Hant_TW": "Kigoma",
         "zu": "Kigoma",
-        "zu_ZA": "Kigoma"
+        "zu_ZA": "Kigoma",
+        "sr@latin": "Kigoma",
+        "tt@iqtelif": "Kigoma"
     },
     "09": {
         "af": "Kilimanjaro",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kilimanjaro",
         "zh_Hant_TW": "Kilimanjaro",
         "zu": "Kilimanjaro",
-        "zu_ZA": "Kilimanjaro"
+        "zu_ZA": "Kilimanjaro",
+        "sr@latin": "Kilimandžaro",
+        "tt@iqtelif": "Kilimanjaro"
     },
     "10": {
         "af": "Pemba South",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Pemba South",
         "zh_Hant_TW": "Pemba South",
         "zu": "Pemba South",
-        "zu_ZA": "Pemba South"
+        "zu_ZA": "Pemba South",
+        "sr@latin": "Pemba South",
+        "tt@iqtelif": "Pemba South"
     },
     "11": {
         "af": "Zanzibar South",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Zanzibar South",
         "zh_Hant_TW": "Zanzibar South",
         "zu": "Zanzibar South",
-        "zu_ZA": "Zanzibar South"
+        "zu_ZA": "Zanzibar South",
+        "sr@latin": "Zanzibar South",
+        "tt@iqtelif": "Zanzibar South"
     },
     "12": {
         "af": "Lindi",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Lindi",
         "zh_Hant_TW": "Lindi",
         "zu": "Lindi",
-        "zu_ZA": "Lindi"
+        "zu_ZA": "Lindi",
+        "sr@latin": "Lindi",
+        "tt@iqtelif": "Lindi"
     },
     "13": {
         "af": "Mara",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Mara",
         "zh_Hant_TW": "Mara",
         "zu": "Mara",
-        "zu_ZA": "Mara"
+        "zu_ZA": "Mara",
+        "sr@latin": "Mara",
+        "tt@iqtelif": "Mara"
     },
     "14": {
         "af": "Mbeya",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Mbeya",
         "zh_Hant_TW": "Mbeya",
         "zu": "Mbeya",
-        "zu_ZA": "Mbeya"
+        "zu_ZA": "Mbeya",
+        "sr@latin": "Mbeja",
+        "tt@iqtelif": "Mbeya"
     },
     "15": {
         "af": "Zanzibar West",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Zanzibar West",
         "zh_Hant_TW": "Zanzibar West",
         "zu": "Zanzibar West",
-        "zu_ZA": "Zanzibar West"
+        "zu_ZA": "Zanzibar West",
+        "sr@latin": "Zanzibar West",
+        "tt@iqtelif": "Zanzibar West"
     },
     "16": {
         "af": "Morogoro",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Morogoro",
         "zh_Hant_TW": "Morogoro",
         "zu": "Morogoro",
-        "zu_ZA": "Morogoro"
+        "zu_ZA": "Morogoro",
+        "sr@latin": "Morogoro",
+        "tt@iqtelif": "Morogoro"
     },
     "17": {
         "af": "Mtwara",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Mtwara",
         "zh_Hant_TW": "Mtwara",
         "zu": "Mtwara",
-        "zu_ZA": "Mtwara"
+        "zu_ZA": "Mtwara",
+        "sr@latin": "Metvara",
+        "tt@iqtelif": "Mtwara"
     },
     "18": {
         "af": "Mwanza",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Mwanza",
         "zh_Hant_TW": "Mwanza",
         "zu": "Mwanza",
-        "zu_ZA": "Mwanza"
+        "zu_ZA": "Mwanza",
+        "sr@latin": "Mvanca",
+        "tt@iqtelif": "Mwanza"
     },
     "19": {
         "af": "Coast",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Coast",
         "zh_Hant_TW": "Coast",
         "zu": "Coast",
-        "zu_ZA": "Coast"
+        "zu_ZA": "Coast",
+        "sr@latin": "Coast",
+        "tt@iqtelif": "Coast"
     },
     "20": {
         "af": "Rukwa",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Rukwa",
         "zh_Hant_TW": "Rukwa",
         "zu": "Rukwa",
-        "zu_ZA": "Rukwa"
+        "zu_ZA": "Rukwa",
+        "sr@latin": "Rukwa",
+        "tt@iqtelif": "Rukwa"
     },
     "21": {
         "af": "Ruvuma",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Ruvuma",
         "zh_Hant_TW": "Ruvuma",
         "zu": "Ruvuma",
-        "zu_ZA": "Ruvuma"
+        "zu_ZA": "Ruvuma",
+        "sr@latin": "Ruvuma",
+        "tt@iqtelif": "Ruvuma"
     },
     "22": {
         "af": "Shinyanga",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Shinyanga",
         "zh_Hant_TW": "Shinyanga",
         "zu": "Shinyanga",
-        "zu_ZA": "Shinyanga"
+        "zu_ZA": "Shinyanga",
+        "sr@latin": "Shinyanga",
+        "tt@iqtelif": "Shinyanga"
     },
     "23": {
         "af": "Singida",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Singida",
         "zh_Hant_TW": "Singida",
         "zu": "Singida",
-        "zu_ZA": "Singida"
+        "zu_ZA": "Singida",
+        "sr@latin": "Singida",
+        "tt@iqtelif": "Singida"
     },
     "24": {
         "af": "Tabora",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Tabora",
         "zh_Hant_TW": "Tabora",
         "zu": "Tabora",
-        "zu_ZA": "Tabora"
+        "zu_ZA": "Tabora",
+        "sr@latin": "Tabora",
+        "tt@iqtelif": "Tabora"
     },
     "25": {
         "af": "Tanga",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Tanga",
         "zh_Hant_TW": "Tanga",
         "zu": "Tanga",
-        "zu_ZA": "Tanga"
+        "zu_ZA": "Tanga",
+        "sr@latin": "Tanga",
+        "tt@iqtelif": "Tanga"
     },
     "26": {
         "af": "Manyara",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Manyara",
         "zh_Hant_TW": "Manyara",
         "zu": "Manyara",
-        "zu_ZA": "Manyara"
+        "zu_ZA": "Manyara",
+        "sr@latin": "Manjara",
+        "tt@iqtelif": "Manyara"
     },
     "27": {
         "af": "Geita",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Geita",
         "zh_Hant_TW": "Geita",
         "zu": "Geita",
-        "zu_ZA": "Geita"
+        "zu_ZA": "Geita",
+        "sr@latin": "Geita",
+        "tt@iqtelif": "Geita"
     },
     "28": {
         "af": "Katavi",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Katavi",
         "zh_Hant_TW": "Katavi",
         "zu": "Katavi",
-        "zu_ZA": "Katavi"
+        "zu_ZA": "Katavi",
+        "sr@latin": "Katavi",
+        "tt@iqtelif": "Katavi"
     },
     "29": {
         "af": "Njombe",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Njombe",
         "zh_Hant_TW": "Njombe",
         "zu": "Njombe",
-        "zu_ZA": "Njombe"
+        "zu_ZA": "Njombe",
+        "sr@latin": "Njombe",
+        "tt@iqtelif": "Njombe"
     },
     "30": {
         "af": "Simiyu",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Simiyu",
         "zh_Hant_TW": "Simiyu",
         "zu": "Simiyu",
-        "zu_ZA": "Simiyu"
+        "zu_ZA": "Simiyu",
+        "sr@latin": "Simiyu",
+        "tt@iqtelif": "Simiyu"
     },
     "31": {
         "af": "Songwe",
@@ -27370,6 +27430,8 @@
         "zh_Hant_MY": "Songwe",
         "zh_Hant_TW": "Songwe",
         "zu": "Songwe",
-        "zu_ZA": "Songwe"
+        "zu_ZA": "Songwe",
+        "sr@latin": "Songwe",
+        "tt@iqtelif": "Songwe"
     }
 }

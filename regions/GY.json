@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Barima-Waini",
         "zh_Hant_TW": "Barima-Waini",
         "zu": "Barima-Waini",
-        "zu_ZA": "Barima-Waini"
+        "zu_ZA": "Barima-Waini",
+        "sr@latin": "Barima-Vaini",
+        "tt@iqtelif": "Barima-Waini"
     },
     "CU": {
         "af": "Cuyuni-Mazaruni",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Cuyuni-Mazaruni",
         "zh_Hant_TW": "Cuyuni-Mazaruni",
         "zu": "Cuyuni-Mazaruni",
-        "zu_ZA": "Cuyuni-Mazaruni"
+        "zu_ZA": "Cuyuni-Mazaruni",
+        "sr@latin": "Kujuni-Mazaruni",
+        "tt@iqtelif": "Cuyuni-Mazaruni"
     },
     "DE": {
         "af": "Demerara-Mahaica",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Demerara-Mahaica",
         "zh_Hant_TW": "Demerara-Mahaica",
         "zu": "Demerara-Mahaica",
-        "zu_ZA": "Demerara-Mahaica"
+        "zu_ZA": "Demerara-Mahaica",
+        "sr@latin": "Demerara-Mahajka",
+        "tt@iqtelif": "Demerara-Mahaica"
     },
     "EB": {
         "af": "East Berbice-Corentyne",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "East Berbice-Corentyne",
         "zh_Hant_TW": "East Berbice-Corentyne",
         "zu": "East Berbice-Corentyne",
-        "zu_ZA": "East Berbice-Corentyne"
+        "zu_ZA": "East Berbice-Corentyne",
+        "sr@latin": "Ist Berbis-Korentin",
+        "tt@iqtelif": "East Berbice-Corentyne"
     },
     "ES": {
         "af": "Essequibo Islands-West Demerara",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Essequibo Islands-West Demerara",
         "zh_Hant_TW": "Essequibo Islands-West Demerara",
         "zu": "Essequibo Islands-West Demerara",
-        "zu_ZA": "Essequibo Islands-West Demerara"
+        "zu_ZA": "Essequibo Islands-West Demerara",
+        "sr@latin": "Essequibo Islands-West Demerara",
+        "tt@iqtelif": "Essequibo Islands-West Demerara"
     },
     "MA": {
         "af": "Mahaica-Berbice",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Mahaica-Berbice",
         "zh_Hant_TW": "Mahaica-Berbice",
         "zu": "Mahaica-Berbice",
-        "zu_ZA": "Mahaica-Berbice"
+        "zu_ZA": "Mahaica-Berbice",
+        "sr@latin": "Mahaica-Berbice",
+        "tt@iqtelif": "Mahaica-Berbice"
     },
     "PM": {
         "af": "Pomeroon-Supenaam",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Pomeroon-Supenaam",
         "zh_Hant_TW": "Pomeroon-Supenaam",
         "zu": "Pomeroon-Supenaam",
-        "zu_ZA": "Pomeroon-Supenaam"
+        "zu_ZA": "Pomeroon-Supenaam",
+        "sr@latin": "Pomerun Supenam",
+        "tt@iqtelif": "Pomeroon-Supenaam"
     },
     "PT": {
         "af": "Potaro-Siparuni",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Potaro-Siparuni",
         "zh_Hant_TW": "Potaro-Siparuni",
         "zu": "Potaro-Siparuni",
-        "zu_ZA": "Potaro-Siparuni"
+        "zu_ZA": "Potaro-Siparuni",
+        "sr@latin": "Potaro-Siparuni",
+        "tt@iqtelif": "Potaro-Siparuni"
     },
     "UD": {
         "af": "Upper Demerara-Berbice",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Upper Demerara-Berbice",
         "zh_Hant_TW": "Upper Demerara-Berbice",
         "zu": "Upper Demerara-Berbice",
-        "zu_ZA": "Upper Demerara-Berbice"
+        "zu_ZA": "Upper Demerara-Berbice",
+        "sr@latin": "Upper Demerara-Berbice",
+        "tt@iqtelif": "Upper Demerara-Berbice"
     },
     "UT": {
         "af": "Upper Takutu-Upper Essequibo",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Upper Takutu-Upper Essequibo",
         "zh_Hant_TW": "Upper Takutu-Upper Essequibo",
         "zu": "Upper Takutu-Upper Essequibo",
-        "zu_ZA": "Upper Takutu-Upper Essequibo"
+        "zu_ZA": "Upper Takutu-Upper Essequibo",
+        "sr@latin": "Upper Takutu-Upper Essequibo",
+        "tt@iqtelif": "Upper Takutu-Upper Essequibo"
     }
 }

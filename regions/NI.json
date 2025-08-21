@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Costa Caribe Norte",
         "zh_Hant_TW": "Costa Caribe Norte",
         "zu": "Costa Caribe Norte",
-        "zu_ZA": "Costa Caribe Norte"
+        "zu_ZA": "Costa Caribe Norte",
+        "sr@latin": "Costa Caribe Norte",
+        "tt@iqtelif": "Costa Caribe Norte"
     },
     "AS": {
         "af": "Costa Caribe Sur",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Costa Caribe Sur",
         "zh_Hant_TW": "Costa Caribe Sur",
         "zu": "Costa Caribe Sur",
-        "zu_ZA": "Costa Caribe Sur"
+        "zu_ZA": "Costa Caribe Sur",
+        "sr@latin": "Costa Caribe Sur",
+        "tt@iqtelif": "Costa Caribe Sur"
     },
     "BO": {
         "af": "Boaco",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Boaco",
         "zh_Hant_TW": "Boaco",
         "zu": "Boaco",
-        "zu_ZA": "Boaco"
+        "zu_ZA": "Boaco",
+        "sr@latin": "Boako",
+        "tt@iqtelif": "Boaco"
     },
     "CA": {
         "af": "Carazo",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Carazo",
         "zh_Hant_TW": "Carazo",
         "zu": "Carazo",
-        "zu_ZA": "Carazo"
+        "zu_ZA": "Carazo",
+        "sr@latin": "Karaco",
+        "tt@iqtelif": "Carazo"
     },
     "CI": {
         "af": "Chinandega",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Chinandega",
         "zh_Hant_TW": "Chinandega",
         "zu": "Chinandega",
-        "zu_ZA": "Chinandega"
+        "zu_ZA": "Chinandega",
+        "sr@latin": "Činandega",
+        "tt@iqtelif": "Chinandega"
     },
     "CO": {
         "af": "Chontales",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Chontales",
         "zh_Hant_TW": "Chontales",
         "zu": "Chontales",
-        "zu_ZA": "Chontales"
+        "zu_ZA": "Chontales",
+        "sr@latin": "Šontal",
+        "tt@iqtelif": "Chontales"
     },
     "ES": {
         "af": "Estelí",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Estelí",
         "zh_Hant_TW": "Estelí",
         "zu": "Estelí",
-        "zu_ZA": "Estelí"
+        "zu_ZA": "Estelí",
+        "sr@latin": "Esteli",
+        "tt@iqtelif": "Estelí"
     },
     "GR": {
         "af": "Granada",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Granada",
         "zh_Hant_TW": "Granada",
         "zu": "Granada",
-        "zu_ZA": "Granada"
+        "zu_ZA": "Granada",
+        "sr@latin": "Grenada",
+        "tt@iqtelif": "Granada"
     },
     "JI": {
         "af": "Jinotega",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Jinotega",
         "zh_Hant_TW": "Jinotega",
         "zu": "Jinotega",
-        "zu_ZA": "Jinotega"
+        "zu_ZA": "Jinotega",
+        "sr@latin": "Džinotega",
+        "tt@iqtelif": "Jinotega"
     },
     "LE": {
         "af": "León",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "León",
         "zh_Hant_TW": "León",
         "zu": "León",
-        "zu_ZA": "León"
+        "zu_ZA": "León",
+        "sr@latin": "Leon",
+        "tt@iqtelif": "León"
     },
     "MD": {
         "af": "Madriz",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Madriz",
         "zh_Hant_TW": "Madriz",
         "zu": "Madriz",
-        "zu_ZA": "Madriz"
+        "zu_ZA": "Madriz",
+        "sr@latin": "Madriz",
+        "tt@iqtelif": "Madriz"
     },
     "MN": {
         "af": "Managua",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Managua",
         "zh_Hant_TW": "Managua",
         "zu": "Managua",
-        "zu_ZA": "Managua"
+        "zu_ZA": "Managua",
+        "sr@latin": "Managva",
+        "tt@iqtelif": "Managua"
     },
     "MS": {
         "af": "Masaya",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Masaya",
         "zh_Hant_TW": "Masaya",
         "zu": "Masaya",
-        "zu_ZA": "Masaya"
+        "zu_ZA": "Masaya",
+        "sr@latin": "Masaja",
+        "tt@iqtelif": "Masaya"
     },
     "MT": {
         "af": "Matagalpa",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Matagalpa",
         "zh_Hant_TW": "Matagalpa",
         "zu": "Matagalpa",
-        "zu_ZA": "Matagalpa"
+        "zu_ZA": "Matagalpa",
+        "sr@latin": "Matagalpa",
+        "tt@iqtelif": "Matagalpa"
     },
     "NS": {
         "af": "Nueva Segovia",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Nueva Segovia",
         "zh_Hant_TW": "Nueva Segovia",
         "zu": "Nueva Segovia",
-        "zu_ZA": "Nueva Segovia"
+        "zu_ZA": "Nueva Segovia",
+        "sr@latin": "Nueva Segovja",
+        "tt@iqtelif": "Nueva Segovia"
     },
     "RI": {
         "af": "Rivas",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Rivas",
         "zh_Hant_TW": "Rivas",
         "zu": "Rivas",
-        "zu_ZA": "Rivas"
+        "zu_ZA": "Rivas",
+        "sr@latin": "Rivas",
+        "tt@iqtelif": "Rivas"
     },
     "SJ": {
         "af": "Río San Juan",
@@ -15008,6 +15040,8 @@
         "zh_Hant_MY": "Río San Juan",
         "zh_Hant_TW": "Río San Juan",
         "zu": "Río San Juan",
-        "zu_ZA": "Río San Juan"
+        "zu_ZA": "Río San Juan",
+        "sr@latin": "Rio San Huan",
+        "tt@iqtelif": "Río San Juan"
     }
 }

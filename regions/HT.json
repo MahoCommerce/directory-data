@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Artibonite",
         "zh_Hant_TW": "Artibonite",
         "zu": "Artibonite",
-        "zu_ZA": "Artibonite"
+        "zu_ZA": "Artibonite",
+        "sr@latin": "Artibonit",
+        "tt@iqtelif": "Artibonite"
     },
     "CE": {
         "af": "Centre",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Centre",
         "zh_Hant_TW": "Centre",
         "zu": "Centre",
-        "zu_ZA": "Centre"
+        "zu_ZA": "Centre",
+        "sr@latin": "Centralno",
+        "tt@iqtelif": "Centre"
     },
     "GA": {
         "af": "Grande’Anse",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Grande’Anse",
         "zh_Hant_TW": "Grande’Anse",
         "zu": "Grande’Anse",
-        "zu_ZA": "Grande’Anse"
+        "zu_ZA": "Grande’Anse",
+        "sr@latin": "Grande’Anse",
+        "tt@iqtelif": "Grande’Anse"
     },
     "ND": {
         "af": "Nord",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Nord",
         "zh_Hant_TW": "Nord",
         "zu": "Nord",
-        "zu_ZA": "Nord"
+        "zu_ZA": "Nord",
+        "sr@latin": "Sever",
+        "tt@iqtelif": "Nord"
     },
     "NE": {
         "af": "Nord-Est",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Nord-Est",
         "zh_Hant_TW": "Nord-Est",
         "zu": "Nord-Est",
-        "zu_ZA": "Nord-Est"
+        "zu_ZA": "Nord-Est",
+        "sr@latin": "Severoistok",
+        "tt@iqtelif": "Nord-Est"
     },
     "NI": {
         "af": "Nippes",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Nippes",
         "zh_Hant_TW": "Nippes",
         "zu": "Nippes",
-        "zu_ZA": "Nippes"
+        "zu_ZA": "Nippes",
+        "sr@latin": "Nippes",
+        "tt@iqtelif": "Nippes"
     },
     "NO": {
         "af": "Nord-Ouest",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Nord-Ouest",
         "zh_Hant_TW": "Nord-Ouest",
         "zu": "Nord-Ouest",
-        "zu_ZA": "Nord-Ouest"
+        "zu_ZA": "Nord-Ouest",
+        "sr@latin": "Severozapad",
+        "tt@iqtelif": "Nord-Ouest"
     },
     "OU": {
         "af": "Ouest",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Ouest",
         "zh_Hant_TW": "Ouest",
         "zu": "Ouest",
-        "zu_ZA": "Ouest"
+        "zu_ZA": "Ouest",
+        "sr@latin": "Ouest",
+        "tt@iqtelif": "Ouest"
     },
     "SD": {
         "af": "Sud",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Sud",
         "zh_Hant_TW": "Sud",
         "zu": "Sud",
-        "zu_ZA": "Sud"
+        "zu_ZA": "Sud",
+        "sr@latin": "Sud",
+        "tt@iqtelif": "Sud"
     },
     "SE": {
         "af": "Sud-Est",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Sud-Est",
         "zh_Hant_TW": "Sud-Est",
         "zu": "Sud-Est",
-        "zu_ZA": "Sud-Est"
+        "zu_ZA": "Sud-Est",
+        "sr@latin": "Sud-Est",
+        "tt@iqtelif": "Sud-Est"
     }
 }

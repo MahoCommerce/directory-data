@@ -880,7 +880,9 @@
         "zh_Hant_MY": "National Capital Region",
         "zh_Hant_TW": "National Capital Region",
         "zu": "National Capital Region",
-        "zu_ZA": "National Capital Region"
+        "zu_ZA": "National Capital Region",
+        "sr@latin": "National Capital Region",
+        "tt@iqtelif": "National Capital Region"
     },
     "01": {
         "af": "Ilocos (Region I)",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ilocos (Region I)",
         "zh_Hant_TW": "Ilocos (Region I)",
         "zu": "Ilocos (Region I)",
-        "zu_ZA": "Ilocos (Region I)"
+        "zu_ZA": "Ilocos (Region I)",
+        "sr@latin": "Ilokos (Oblast I)",
+        "tt@iqtelif": "Ilocos (Region I)"
     },
     "02": {
         "af": "Cagayan Valley (Region II)",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Cagayan Valley (Region II)",
         "zh_Hant_TW": "Cagayan Valley (Region II)",
         "zu": "Cagayan Valley (Region II)",
-        "zu_ZA": "Cagayan Valley (Region II)"
+        "zu_ZA": "Cagayan Valley (Region II)",
+        "sr@latin": "Cagayan Valley (Region II)",
+        "tt@iqtelif": "Cagayan Valley (Region II)"
     },
     "03": {
         "af": "Central Luzon (Region III)",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Central Luzon (Region III)",
         "zh_Hant_TW": "Central Luzon (Region III)",
         "zu": "Central Luzon (Region III)",
-        "zu_ZA": "Central Luzon (Region III)"
+        "zu_ZA": "Central Luzon (Region III)",
+        "sr@latin": "Central Luzon (Region III)",
+        "tt@iqtelif": "Central Luzon (Region III)"
     },
     "05": {
         "af": "Bicol (Region V)",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Bicol (Region V)",
         "zh_Hant_TW": "Bicol (Region V)",
         "zu": "Bicol (Region V)",
-        "zu_ZA": "Bicol (Region V)"
+        "zu_ZA": "Bicol (Region V)",
+        "sr@latin": "Bikol (5 oblast)",
+        "tt@iqtelif": "Bicol (Region V)"
     },
     "06": {
         "af": "Western Visayas (Region VI)",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Western Visayas (Region VI)",
         "zh_Hant_TW": "Western Visayas (Region VI)",
         "zu": "Western Visayas (Region VI)",
-        "zu_ZA": "Western Visayas (Region VI)"
+        "zu_ZA": "Western Visayas (Region VI)",
+        "sr@latin": "Western Visayas (Region VI)",
+        "tt@iqtelif": "Western Visayas (Region VI)"
     },
     "07": {
         "af": "Central Visayas (Region VII)",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Central Visayas (Region VII)",
         "zh_Hant_TW": "Central Visayas (Region VII)",
         "zu": "Central Visayas (Region VII)",
-        "zu_ZA": "Central Visayas (Region VII)"
+        "zu_ZA": "Central Visayas (Region VII)",
+        "sr@latin": "Sentral Visajas (7. oblast)",
+        "tt@iqtelif": "Central Visayas (Region VII)"
     },
     "08": {
         "af": "Eastern Visayas (Region VIII)",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Eastern Visayas (Region VIII)",
         "zh_Hant_TW": "Eastern Visayas (Region VIII)",
         "zu": "Eastern Visayas (Region VIII)",
-        "zu_ZA": "Eastern Visayas (Region VIII)"
+        "zu_ZA": "Eastern Visayas (Region VIII)",
+        "sr@latin": "Eastern Visayas (Region VIII)",
+        "tt@iqtelif": "Eastern Visayas (Region VIII)"
     },
     "09": {
         "af": "Zamboanga Peninsula (Region IX)",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Zamboanga Peninsula (Region IX)",
         "zh_Hant_TW": "Zamboanga Peninsula (Region IX)",
         "zu": "Zamboanga Peninsula (Region IX)",
-        "zu_ZA": "Zamboanga Peninsula (Region IX)"
+        "zu_ZA": "Zamboanga Peninsula (Region IX)",
+        "sr@latin": "Zamboanga Peninsula (Region IX)",
+        "tt@iqtelif": "Zamboanga Peninsula (Region IX)"
     },
     "10": {
         "af": "Northern Mindanao (Region X)",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Northern Mindanao (Region X)",
         "zh_Hant_TW": "Northern Mindanao (Region X)",
         "zu": "Northern Mindanao (Region X)",
-        "zu_ZA": "Northern Mindanao (Region X)"
+        "zu_ZA": "Northern Mindanao (Region X)",
+        "sr@latin": "Northern Mindanao (Region X)",
+        "tt@iqtelif": "Northern Mindanao (Region X)"
     },
     "11": {
         "af": "Davao (Region XI)",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Davao (Region XI)",
         "zh_Hant_TW": "Davao (Region XI)",
         "zu": "Davao (Region XI)",
-        "zu_ZA": "Davao (Region XI)"
+        "zu_ZA": "Davao (Region XI)",
+        "sr@latin": "Davao (11. oblast)",
+        "tt@iqtelif": "Davao (Region XI)"
     },
     "12": {
         "af": "Soccsksargen (Region XII)",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Soccsksargen (Region XII)",
         "zh_Hant_TW": "Soccsksargen (Region XII)",
         "zu": "Soccsksargen (Region XII)",
-        "zu_ZA": "Soccsksargen (Region XII)"
+        "zu_ZA": "Soccsksargen (Region XII)",
+        "sr@latin": "Soccsksargen (Region XII)",
+        "tt@iqtelif": "Soccsksargen (Region XII)"
     },
     "13": {
         "af": "Caraga (Region XIII)",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Caraga (Region XIII)",
         "zh_Hant_TW": "Caraga (Region XIII)",
         "zu": "Caraga (Region XIII)",
-        "zu_ZA": "Caraga (Region XIII)"
+        "zu_ZA": "Caraga (Region XIII)",
+        "sr@latin": "Karaga (13 oblast)",
+        "tt@iqtelif": "Caraga (Region XIII)"
     },
     "14": {
         "af": "Autonomous Region in Muslim Mindanao (ARMM)",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Autonomous Region in Muslim Mindanao (ARMM)",
         "zh_Hant_TW": "Autonomous Region in Muslim Mindanao (ARMM)",
         "zu": "Autonomous Region in Muslim Mindanao (ARMM)",
-        "zu_ZA": "Autonomous Region in Muslim Mindanao (ARMM)"
+        "zu_ZA": "Autonomous Region in Muslim Mindanao (ARMM)",
+        "sr@latin": "Nezavisna oblast u muslimanskom Mindanau (ARMM)",
+        "tt@iqtelif": "Autonomous Region in Muslim Mindanao (ARMM)"
     },
     "15": {
         "af": "Cordillera Administrative Region (CAR)",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Cordillera Administrative Region (CAR)",
         "zh_Hant_TW": "Cordillera Administrative Region (CAR)",
         "zu": "Cordillera Administrative Region (CAR)",
-        "zu_ZA": "Cordillera Administrative Region (CAR)"
+        "zu_ZA": "Cordillera Administrative Region (CAR)",
+        "sr@latin": "Kordiljerska administrativna oblast (KAO)",
+        "tt@iqtelif": "Cordillera Administrative Region (CAR)"
     },
     "40": {
         "af": "Calabarzon (Region IV-A)",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Calabarzon (Region IV-A)",
         "zh_Hant_TW": "Calabarzon (Region IV-A)",
         "zu": "Calabarzon (Region IV-A)",
-        "zu_ZA": "Calabarzon (Region IV-A)"
+        "zu_ZA": "Calabarzon (Region IV-A)",
+        "sr@latin": "Calabarzon (Region IV-A)",
+        "tt@iqtelif": "Calabarzon (Region IV-A)"
     },
     "41": {
         "af": "Mimaropa (Region IV-B)",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Mimaropa (Region IV-B)",
         "zh_Hant_TW": "Mimaropa (Region IV-B)",
         "zu": "Mimaropa (Region IV-B)",
-        "zu_ZA": "Mimaropa (Region IV-B)"
+        "zu_ZA": "Mimaropa (Region IV-B)",
+        "sr@latin": "Mimaropa (Region IV-B)",
+        "tt@iqtelif": "Mimaropa (Region IV-B)"
     },
     "ABR": {
         "af": "Abra",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Abra",
         "zh_Hant_TW": "Abra",
         "zu": "Abra",
-        "zu_ZA": "Abra"
+        "zu_ZA": "Abra",
+        "sr@latin": "Abra",
+        "tt@iqtelif": "Abra"
     },
     "AGN": {
         "af": "Agusan del Norte",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Agusan del Norte",
         "zh_Hant_TW": "Agusan del Norte",
         "zu": "Agusan del Norte",
-        "zu_ZA": "Agusan del Norte"
+        "zu_ZA": "Agusan del Norte",
+        "sr@latin": "Severni Agusan",
+        "tt@iqtelif": "Agusan del Norte"
     },
     "AGS": {
         "af": "Agusan del Sur",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Agusan del Sur",
         "zh_Hant_TW": "Agusan del Sur",
         "zu": "Agusan del Sur",
-        "zu_ZA": "Agusan del Sur"
+        "zu_ZA": "Agusan del Sur",
+        "sr@latin": "Južni Agusan",
+        "tt@iqtelif": "Agusan del Sur"
     },
     "AKL": {
         "af": "Aklan",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Aklan",
         "zh_Hant_TW": "Aklan",
         "zu": "Aklan",
-        "zu_ZA": "Aklan"
+        "zu_ZA": "Aklan",
+        "sr@latin": "Aklan",
+        "tt@iqtelif": "Aklan"
     },
     "ALB": {
         "af": "Albay",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Albay",
         "zh_Hant_TW": "Albay",
         "zu": "Albay",
-        "zu_ZA": "Albay"
+        "zu_ZA": "Albay",
+        "sr@latin": "Albaj",
+        "tt@iqtelif": "Albay"
     },
     "ANT": {
         "af": "Antique",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Antique",
         "zh_Hant_TW": "Antique",
         "zu": "Antique",
-        "zu_ZA": "Antique"
+        "zu_ZA": "Antique",
+        "sr@latin": "Staro",
+        "tt@iqtelif": "Antique"
     },
     "APA": {
         "af": "Apayao",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Apayao",
         "zh_Hant_TW": "Apayao",
         "zu": "Apayao",
-        "zu_ZA": "Apayao"
+        "zu_ZA": "Apayao",
+        "sr@latin": "Apajao",
+        "tt@iqtelif": "Apayao"
     },
     "AUR": {
         "af": "Aurora",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "Aurora",
         "zh_Hant_TW": "Aurora",
         "zu": "Aurora",
-        "zu_ZA": "Aurora"
+        "zu_ZA": "Aurora",
+        "sr@latin": "Aurora",
+        "tt@iqtelif": "Aurora"
     },
     "BAN": {
         "af": "Bataan",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Bataan",
         "zh_Hant_TW": "Bataan",
         "zu": "Bataan",
-        "zu_ZA": "Bataan"
+        "zu_ZA": "Bataan",
+        "sr@latin": "Bataan",
+        "tt@iqtelif": "Bataan"
     },
     "BAS": {
         "af": "Basilan",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Basilan",
         "zh_Hant_TW": "Basilan",
         "zu": "Basilan",
-        "zu_ZA": "Basilan"
+        "zu_ZA": "Basilan",
+        "sr@latin": "Bazilan",
+        "tt@iqtelif": "Basilan"
     },
     "BEN": {
         "af": "Benguet",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Benguet",
         "zh_Hant_TW": "Benguet",
         "zu": "Benguet",
-        "zu_ZA": "Benguet"
+        "zu_ZA": "Benguet",
+        "sr@latin": "Benguet",
+        "tt@iqtelif": "Benguet"
     },
     "BIL": {
         "af": "Biliran",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Biliran",
         "zh_Hant_TW": "Biliran",
         "zu": "Biliran",
-        "zu_ZA": "Biliran"
+        "zu_ZA": "Biliran",
+        "sr@latin": "Biliran",
+        "tt@iqtelif": "Biliran"
     },
     "BOH": {
         "af": "Bohol",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Bohol",
         "zh_Hant_TW": "Bohol",
         "zu": "Bohol",
-        "zu_ZA": "Bohol"
+        "zu_ZA": "Bohol",
+        "sr@latin": "Bohol",
+        "tt@iqtelif": "Bohol"
     },
     "BTG": {
         "af": "Batangas",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Batangas",
         "zh_Hant_TW": "Batangas",
         "zu": "Batangas",
-        "zu_ZA": "Batangas"
+        "zu_ZA": "Batangas",
+        "sr@latin": "Batangas",
+        "tt@iqtelif": "Batangas"
     },
     "BTN": {
         "af": "Batanes",
@@ -28253,7 +28315,9 @@
         "zh_Hant_MY": "Batanes",
         "zh_Hant_TW": "Batanes",
         "zu": "Batanes",
-        "zu_ZA": "Batanes"
+        "zu_ZA": "Batanes",
+        "sr@latin": "Batans",
+        "tt@iqtelif": "Batanes"
     },
     "BUK": {
         "af": "Bukidnon",
@@ -29136,7 +29200,9 @@
         "zh_Hant_MY": "Bukidnon",
         "zh_Hant_TW": "Bukidnon",
         "zu": "Bukidnon",
-        "zu_ZA": "Bukidnon"
+        "zu_ZA": "Bukidnon",
+        "sr@latin": "Bukidnon",
+        "tt@iqtelif": "Bukidnon"
     },
     "BUL": {
         "af": "Bulacan",
@@ -30019,7 +30085,9 @@
         "zh_Hant_MY": "Bulacan",
         "zh_Hant_TW": "Bulacan",
         "zu": "Bulacan",
-        "zu_ZA": "Bulacan"
+        "zu_ZA": "Bulacan",
+        "sr@latin": "Bulakan",
+        "tt@iqtelif": "Bulacan"
     },
     "CAG": {
         "af": "Cagayan",
@@ -30902,7 +30970,9 @@
         "zh_Hant_MY": "Cagayan",
         "zh_Hant_TW": "Cagayan",
         "zu": "Cagayan",
-        "zu_ZA": "Cagayan"
+        "zu_ZA": "Cagayan",
+        "sr@latin": "Kagajan",
+        "tt@iqtelif": "Cagayan"
     },
     "CAM": {
         "af": "Camiguin",
@@ -31785,7 +31855,9 @@
         "zh_Hant_MY": "Camiguin",
         "zh_Hant_TW": "Camiguin",
         "zu": "Camiguin",
-        "zu_ZA": "Camiguin"
+        "zu_ZA": "Camiguin",
+        "sr@latin": "Kamiguin",
+        "tt@iqtelif": "Camiguin"
     },
     "CAN": {
         "af": "Camarines Norte",
@@ -32668,7 +32740,9 @@
         "zh_Hant_MY": "Camarines Norte",
         "zh_Hant_TW": "Camarines Norte",
         "zu": "Camarines Norte",
-        "zu_ZA": "Camarines Norte"
+        "zu_ZA": "Camarines Norte",
+        "sr@latin": "Kamarines Norte",
+        "tt@iqtelif": "Camarines Norte"
     },
     "CAP": {
         "af": "Capiz",
@@ -33551,7 +33625,9 @@
         "zh_Hant_MY": "Capiz",
         "zh_Hant_TW": "Capiz",
         "zu": "Capiz",
-        "zu_ZA": "Capiz"
+        "zu_ZA": "Capiz",
+        "sr@latin": "Kapiz",
+        "tt@iqtelif": "Capiz"
     },
     "CAS": {
         "af": "Camarines Sur",
@@ -34434,7 +34510,9 @@
         "zh_Hant_MY": "Camarines Sur",
         "zh_Hant_TW": "Camarines Sur",
         "zu": "Camarines Sur",
-        "zu_ZA": "Camarines Sur"
+        "zu_ZA": "Camarines Sur",
+        "sr@latin": "Kamarines Sur",
+        "tt@iqtelif": "Camarines Sur"
     },
     "CAT": {
         "af": "Catanduanes",
@@ -35317,7 +35395,9 @@
         "zh_Hant_MY": "Catanduanes",
         "zh_Hant_TW": "Catanduanes",
         "zu": "Catanduanes",
-        "zu_ZA": "Catanduanes"
+        "zu_ZA": "Catanduanes",
+        "sr@latin": "Katanduanes",
+        "tt@iqtelif": "Catanduanes"
     },
     "CAV": {
         "af": "Cavite",
@@ -36200,7 +36280,9 @@
         "zh_Hant_MY": "Cavite",
         "zh_Hant_TW": "Cavite",
         "zu": "Cavite",
-        "zu_ZA": "Cavite"
+        "zu_ZA": "Cavite",
+        "sr@latin": "Kavite",
+        "tt@iqtelif": "Cavite"
     },
     "CEB": {
         "af": "Cebu",
@@ -37083,7 +37165,9 @@
         "zh_Hant_MY": "Cebu",
         "zh_Hant_TW": "Cebu",
         "zu": "Cebu",
-        "zu_ZA": "Cebu"
+        "zu_ZA": "Cebu",
+        "sr@latin": "Cebu",
+        "tt@iqtelif": "Cebu"
     },
     "COM": {
         "af": "Davao de Oro",
@@ -37966,7 +38050,9 @@
         "zh_Hant_MY": "Davao de Oro",
         "zh_Hant_TW": "Davao de Oro",
         "zu": "Davao de Oro",
-        "zu_ZA": "Davao de Oro"
+        "zu_ZA": "Davao de Oro",
+        "sr@latin": "Davao de Oro",
+        "tt@iqtelif": "Davao de Oro"
     },
     "DAO": {
         "af": "Davao Oriental",
@@ -38849,7 +38935,9 @@
         "zh_Hant_MY": "Davao Oriental",
         "zh_Hant_TW": "Davao Oriental",
         "zu": "Davao Oriental",
-        "zu_ZA": "Davao Oriental"
+        "zu_ZA": "Davao Oriental",
+        "sr@latin": "Davao istočni",
+        "tt@iqtelif": "Davao Oriental"
     },
     "DAS": {
         "af": "Davao del Sur",
@@ -39732,7 +39820,9 @@
         "zh_Hant_MY": "Davao del Sur",
         "zh_Hant_TW": "Davao del Sur",
         "zu": "Davao del Sur",
-        "zu_ZA": "Davao del Sur"
+        "zu_ZA": "Davao del Sur",
+        "sr@latin": "Davao južni",
+        "tt@iqtelif": "Davao del Sur"
     },
     "DAV": {
         "af": "Davao del Norte",
@@ -40615,7 +40705,9 @@
         "zh_Hant_MY": "Davao del Norte",
         "zh_Hant_TW": "Davao del Norte",
         "zu": "Davao del Norte",
-        "zu_ZA": "Davao del Norte"
+        "zu_ZA": "Davao del Norte",
+        "sr@latin": "Davao severni",
+        "tt@iqtelif": "Davao del Norte"
     },
     "DIN": {
         "af": "Dinagat Islands",
@@ -41498,7 +41590,9 @@
         "zh_Hant_MY": "Dinagat Islands",
         "zh_Hant_TW": "Dinagat Islands",
         "zu": "Dinagat Islands",
-        "zu_ZA": "Dinagat Islands"
+        "zu_ZA": "Dinagat Islands",
+        "sr@latin": "Dinagat ostrva",
+        "tt@iqtelif": "Dinagat Islands"
     },
     "DVO": {
         "af": "Davao Occidental",
@@ -42381,7 +42475,9 @@
         "zh_Hant_MY": "Davao Occidental",
         "zh_Hant_TW": "Davao Occidental",
         "zu": "Davao Occidental",
-        "zu_ZA": "Davao Occidental"
+        "zu_ZA": "Davao Occidental",
+        "sr@latin": "Davao Occidental",
+        "tt@iqtelif": "Davao Occidental"
     },
     "EAS": {
         "af": "Eastern Samar",
@@ -43264,7 +43360,9 @@
         "zh_Hant_MY": "Eastern Samar",
         "zh_Hant_TW": "Eastern Samar",
         "zu": "Eastern Samar",
-        "zu_ZA": "Eastern Samar"
+        "zu_ZA": "Eastern Samar",
+        "sr@latin": "Istočni Samar",
+        "tt@iqtelif": "Eastern Samar"
     },
     "GUI": {
         "af": "Guimaras",
@@ -44147,7 +44245,9 @@
         "zh_Hant_MY": "Guimaras",
         "zh_Hant_TW": "Guimaras",
         "zu": "Guimaras",
-        "zu_ZA": "Guimaras"
+        "zu_ZA": "Guimaras",
+        "sr@latin": "Gvimaras",
+        "tt@iqtelif": "Guimaras"
     },
     "IFU": {
         "af": "Ifugao",
@@ -45030,7 +45130,9 @@
         "zh_Hant_MY": "Ifugao",
         "zh_Hant_TW": "Ifugao",
         "zu": "Ifugao",
-        "zu_ZA": "Ifugao"
+        "zu_ZA": "Ifugao",
+        "sr@latin": "Ifugao",
+        "tt@iqtelif": "Ifugao"
     },
     "ILI": {
         "af": "Iloilo",
@@ -45913,7 +46015,9 @@
         "zh_Hant_MY": "Iloilo",
         "zh_Hant_TW": "Iloilo",
         "zu": "Iloilo",
-        "zu_ZA": "Iloilo"
+        "zu_ZA": "Iloilo",
+        "sr@latin": "Ilojlo",
+        "tt@iqtelif": "Iloilo"
     },
     "ILN": {
         "af": "Ilocos Norte",
@@ -46796,7 +46900,9 @@
         "zh_Hant_MY": "Ilocos Norte",
         "zh_Hant_TW": "Ilocos Norte",
         "zu": "Ilocos Norte",
-        "zu_ZA": "Ilocos Norte"
+        "zu_ZA": "Ilocos Norte",
+        "sr@latin": "Severni Ilokos",
+        "tt@iqtelif": "Ilocos Norte"
     },
     "ILS": {
         "af": "Ilocos Sur",
@@ -47679,7 +47785,9 @@
         "zh_Hant_MY": "Ilocos Sur",
         "zh_Hant_TW": "Ilocos Sur",
         "zu": "Ilocos Sur",
-        "zu_ZA": "Ilocos Sur"
+        "zu_ZA": "Ilocos Sur",
+        "sr@latin": "Južni Ilokos",
+        "tt@iqtelif": "Ilocos Sur"
     },
     "ISA": {
         "af": "Isabela",
@@ -48562,7 +48670,9 @@
         "zh_Hant_MY": "Isabela",
         "zh_Hant_TW": "Isabela",
         "zu": "Isabela",
-        "zu_ZA": "Isabela"
+        "zu_ZA": "Isabela",
+        "sr@latin": "Izabela",
+        "tt@iqtelif": "Isabela"
     },
     "KAL": {
         "af": "Kalinga",
@@ -49445,7 +49555,9 @@
         "zh_Hant_MY": "Kalinga",
         "zh_Hant_TW": "Kalinga",
         "zu": "Kalinga",
-        "zu_ZA": "Kalinga"
+        "zu_ZA": "Kalinga",
+        "sr@latin": "Kalinga",
+        "tt@iqtelif": "Kalinga"
     },
     "LAG": {
         "af": "Laguna",
@@ -50328,7 +50440,9 @@
         "zh_Hant_MY": "Laguna",
         "zh_Hant_TW": "Laguna",
         "zu": "Laguna",
-        "zu_ZA": "Laguna"
+        "zu_ZA": "Laguna",
+        "sr@latin": "Laguna",
+        "tt@iqtelif": "Laguna"
     },
     "LAN": {
         "af": "Lanao del Norte",
@@ -51211,7 +51325,9 @@
         "zh_Hant_MY": "Lanao del Norte",
         "zh_Hant_TW": "Lanao del Norte",
         "zu": "Lanao del Norte",
-        "zu_ZA": "Lanao del Norte"
+        "zu_ZA": "Lanao del Norte",
+        "sr@latin": "Lanao del Norte",
+        "tt@iqtelif": "Lanao del Norte"
     },
     "LAS": {
         "af": "Lanao del Sur",
@@ -52094,7 +52210,9 @@
         "zh_Hant_MY": "Lanao del Sur",
         "zh_Hant_TW": "Lanao del Sur",
         "zu": "Lanao del Sur",
-        "zu_ZA": "Lanao del Sur"
+        "zu_ZA": "Lanao del Sur",
+        "sr@latin": "Lanao del Sur",
+        "tt@iqtelif": "Lanao del Sur"
     },
     "LEY": {
         "af": "Leyte",
@@ -52977,7 +53095,9 @@
         "zh_Hant_MY": "Leyte",
         "zh_Hant_TW": "Leyte",
         "zu": "Leyte",
-        "zu_ZA": "Leyte"
+        "zu_ZA": "Leyte",
+        "sr@latin": "Lejte",
+        "tt@iqtelif": "Leyte"
     },
     "LUN": {
         "af": "La Union",
@@ -53860,7 +53980,9 @@
         "zh_Hant_MY": "La Union",
         "zh_Hant_TW": "La Union",
         "zu": "La Union",
-        "zu_ZA": "La Union"
+        "zu_ZA": "La Union",
+        "sr@latin": "La Unjon",
+        "tt@iqtelif": "La Union"
     },
     "MAD": {
         "af": "Marinduque",
@@ -54743,7 +54865,9 @@
         "zh_Hant_MY": "Marinduque",
         "zh_Hant_TW": "Marinduque",
         "zu": "Marinduque",
-        "zu_ZA": "Marinduque"
+        "zu_ZA": "Marinduque",
+        "sr@latin": "Marinduque",
+        "tt@iqtelif": "Marinduque"
     },
     "MAS": {
         "af": "Masbate",
@@ -55626,7 +55750,9 @@
         "zh_Hant_MY": "Masbate",
         "zh_Hant_TW": "Masbate",
         "zu": "Masbate",
-        "zu_ZA": "Masbate"
+        "zu_ZA": "Masbate",
+        "sr@latin": "Mazbate",
+        "tt@iqtelif": "Masbate"
     },
     "MDC": {
         "af": "Mindoro Occidental",
@@ -56509,7 +56635,9 @@
         "zh_Hant_MY": "Mindoro Occidental",
         "zh_Hant_TW": "Mindoro Occidental",
         "zu": "Mindoro Occidental",
-        "zu_ZA": "Mindoro Occidental"
+        "zu_ZA": "Mindoro Occidental",
+        "sr@latin": "Mindoro Occidental",
+        "tt@iqtelif": "Mindoro Occidental"
     },
     "MDR": {
         "af": "Mindoro Oriental",
@@ -57392,7 +57520,9 @@
         "zh_Hant_MY": "Mindoro Oriental",
         "zh_Hant_TW": "Mindoro Oriental",
         "zu": "Mindoro Oriental",
-        "zu_ZA": "Mindoro Oriental"
+        "zu_ZA": "Mindoro Oriental",
+        "sr@latin": "Mindoro Oriental",
+        "tt@iqtelif": "Mindoro Oriental"
     },
     "MGN": {
         "af": "Maguindanao del Norte",
@@ -58275,7 +58405,9 @@
         "zh_Hant_MY": "Maguindanao del Norte",
         "zh_Hant_TW": "Maguindanao del Norte",
         "zu": "Maguindanao del Norte",
-        "zu_ZA": "Maguindanao del Norte"
+        "zu_ZA": "Maguindanao del Norte",
+        "sr@latin": "Maguindanao del Norte",
+        "tt@iqtelif": "Maguindanao del Norte"
     },
     "MGS": {
         "af": "Maguindanao del Sur",
@@ -59158,7 +59290,9 @@
         "zh_Hant_MY": "Maguindanao del Sur",
         "zh_Hant_TW": "Maguindanao del Sur",
         "zu": "Maguindanao del Sur",
-        "zu_ZA": "Maguindanao del Sur"
+        "zu_ZA": "Maguindanao del Sur",
+        "sr@latin": "Maguindanao del Sur",
+        "tt@iqtelif": "Maguindanao del Sur"
     },
     "MOU": {
         "af": "Mountain Province",
@@ -60041,7 +60175,9 @@
         "zh_Hant_MY": "Mountain Province",
         "zh_Hant_TW": "Mountain Province",
         "zu": "Mountain Province",
-        "zu_ZA": "Mountain Province"
+        "zu_ZA": "Mountain Province",
+        "sr@latin": "Mountain Province",
+        "tt@iqtelif": "Mountain Province"
     },
     "MSC": {
         "af": "Misamis Occidental",
@@ -60924,7 +61060,9 @@
         "zh_Hant_MY": "Misamis Occidental",
         "zh_Hant_TW": "Misamis Occidental",
         "zu": "Misamis Occidental",
-        "zu_ZA": "Misamis Occidental"
+        "zu_ZA": "Misamis Occidental",
+        "sr@latin": "Misamis Occidental",
+        "tt@iqtelif": "Misamis Occidental"
     },
     "MSR": {
         "af": "Misamis Oriental",
@@ -61807,7 +61945,9 @@
         "zh_Hant_MY": "Misamis Oriental",
         "zh_Hant_TW": "Misamis Oriental",
         "zu": "Misamis Oriental",
-        "zu_ZA": "Misamis Oriental"
+        "zu_ZA": "Misamis Oriental",
+        "sr@latin": "Misamis Oriental",
+        "tt@iqtelif": "Misamis Oriental"
     },
     "NCO": {
         "af": "Cotabato",
@@ -62690,7 +62830,9 @@
         "zh_Hant_MY": "Cotabato",
         "zh_Hant_TW": "Cotabato",
         "zu": "Cotabato",
-        "zu_ZA": "Cotabato"
+        "zu_ZA": "Cotabato",
+        "sr@latin": "Cotabato",
+        "tt@iqtelif": "Cotabato"
     },
     "NEC": {
         "af": "Negros Occidental",
@@ -63573,7 +63715,9 @@
         "zh_Hant_MY": "Negros Occidental",
         "zh_Hant_TW": "Negros Occidental",
         "zu": "Negros Occidental",
-        "zu_ZA": "Negros Occidental"
+        "zu_ZA": "Negros Occidental",
+        "sr@latin": "Negros Occidental",
+        "tt@iqtelif": "Negros Occidental"
     },
     "NER": {
         "af": "Negros Oriental",
@@ -64456,7 +64600,9 @@
         "zh_Hant_MY": "Negros Oriental",
         "zh_Hant_TW": "Negros Oriental",
         "zu": "Negros Oriental",
-        "zu_ZA": "Negros Oriental"
+        "zu_ZA": "Negros Oriental",
+        "sr@latin": "Negros Oriental",
+        "tt@iqtelif": "Negros Oriental"
     },
     "NSA": {
         "af": "Northern Samar",
@@ -65339,7 +65485,9 @@
         "zh_Hant_MY": "Northern Samar",
         "zh_Hant_TW": "Northern Samar",
         "zu": "Northern Samar",
-        "zu_ZA": "Northern Samar"
+        "zu_ZA": "Northern Samar",
+        "sr@latin": "Severni Samar",
+        "tt@iqtelif": "Northern Samar"
     },
     "NUE": {
         "af": "Nueva Ecija",
@@ -66222,7 +66370,9 @@
         "zh_Hant_MY": "Nueva Ecija",
         "zh_Hant_TW": "Nueva Ecija",
         "zu": "Nueva Ecija",
-        "zu_ZA": "Nueva Ecija"
+        "zu_ZA": "Nueva Ecija",
+        "sr@latin": "Nueva Ecija",
+        "tt@iqtelif": "Nueva Ecija"
     },
     "NUV": {
         "af": "Nueva Vizcaya",
@@ -67105,7 +67255,9 @@
         "zh_Hant_MY": "Nueva Vizcaya",
         "zh_Hant_TW": "Nueva Vizcaya",
         "zu": "Nueva Vizcaya",
-        "zu_ZA": "Nueva Vizcaya"
+        "zu_ZA": "Nueva Vizcaya",
+        "sr@latin": "Nueva Vizcaya",
+        "tt@iqtelif": "Nueva Vizcaya"
     },
     "PAM": {
         "af": "Pampanga",
@@ -67988,7 +68140,9 @@
         "zh_Hant_MY": "Pampanga",
         "zh_Hant_TW": "Pampanga",
         "zu": "Pampanga",
-        "zu_ZA": "Pampanga"
+        "zu_ZA": "Pampanga",
+        "sr@latin": "Pampanga",
+        "tt@iqtelif": "Pampanga"
     },
     "PAN": {
         "af": "Pangasinan",
@@ -68871,7 +69025,9 @@
         "zh_Hant_MY": "Pangasinan",
         "zh_Hant_TW": "Pangasinan",
         "zu": "Pangasinan",
-        "zu_ZA": "Pangasinan"
+        "zu_ZA": "Pangasinan",
+        "sr@latin": "Pangasinan",
+        "tt@iqtelif": "Pangasinan"
     },
     "PLW": {
         "af": "Palawan",
@@ -69754,7 +69910,9 @@
         "zh_Hant_MY": "Palawan",
         "zh_Hant_TW": "Palawan",
         "zu": "Palawan",
-        "zu_ZA": "Palawan"
+        "zu_ZA": "Palawan",
+        "sr@latin": "Palavan",
+        "tt@iqtelif": "Palawan"
     },
     "QUE": {
         "af": "Quezon",
@@ -70637,7 +70795,9 @@
         "zh_Hant_MY": "Quezon",
         "zh_Hant_TW": "Quezon",
         "zu": "Quezon",
-        "zu_ZA": "Quezon"
+        "zu_ZA": "Quezon",
+        "sr@latin": "Kvecon",
+        "tt@iqtelif": "Quezon"
     },
     "QUI": {
         "af": "Quirino",
@@ -71520,7 +71680,9 @@
         "zh_Hant_MY": "Quirino",
         "zh_Hant_TW": "Quirino",
         "zu": "Quirino",
-        "zu_ZA": "Quirino"
+        "zu_ZA": "Quirino",
+        "sr@latin": "Kvirino",
+        "tt@iqtelif": "Quirino"
     },
     "RIZ": {
         "af": "Rizal",
@@ -72403,7 +72565,9 @@
         "zh_Hant_MY": "Rizal",
         "zh_Hant_TW": "Rizal",
         "zu": "Rizal",
-        "zu_ZA": "Rizal"
+        "zu_ZA": "Rizal",
+        "sr@latin": "Rizal",
+        "tt@iqtelif": "Rizal"
     },
     "ROM": {
         "af": "Romblon",
@@ -73286,7 +73450,9 @@
         "zh_Hant_MY": "Romblon",
         "zh_Hant_TW": "Romblon",
         "zu": "Romblon",
-        "zu_ZA": "Romblon"
+        "zu_ZA": "Romblon",
+        "sr@latin": "Romblon",
+        "tt@iqtelif": "Romblon"
     },
     "SAR": {
         "af": "Sarangani",
@@ -74169,7 +74335,9 @@
         "zh_Hant_MY": "Sarangani",
         "zh_Hant_TW": "Sarangani",
         "zu": "Sarangani",
-        "zu_ZA": "Sarangani"
+        "zu_ZA": "Sarangani",
+        "sr@latin": "Sarangani",
+        "tt@iqtelif": "Sarangani"
     },
     "SCO": {
         "af": "South Cotabato",
@@ -75052,7 +75220,9 @@
         "zh_Hant_MY": "South Cotabato",
         "zh_Hant_TW": "South Cotabato",
         "zu": "South Cotabato",
-        "zu_ZA": "South Cotabato"
+        "zu_ZA": "South Cotabato",
+        "sr@latin": "Južna Kotabato",
+        "tt@iqtelif": "South Cotabato"
     },
     "SIG": {
         "af": "Siquijor",
@@ -75935,7 +76105,9 @@
         "zh_Hant_MY": "Siquijor",
         "zh_Hant_TW": "Siquijor",
         "zu": "Siquijor",
-        "zu_ZA": "Siquijor"
+        "zu_ZA": "Siquijor",
+        "sr@latin": "Siquijor",
+        "tt@iqtelif": "Siquijor"
     },
     "SLE": {
         "af": "Southern Leyte",
@@ -76818,7 +76990,9 @@
         "zh_Hant_MY": "Southern Leyte",
         "zh_Hant_TW": "Southern Leyte",
         "zu": "Southern Leyte",
-        "zu_ZA": "Southern Leyte"
+        "zu_ZA": "Southern Leyte",
+        "sr@latin": "Southern Leyte",
+        "tt@iqtelif": "Southern Leyte"
     },
     "SLU": {
         "af": "Sulu",
@@ -77701,7 +77875,9 @@
         "zh_Hant_MY": "Sulu",
         "zh_Hant_TW": "Sulu",
         "zu": "Sulu",
-        "zu_ZA": "Sulu"
+        "zu_ZA": "Sulu",
+        "sr@latin": "Sulu",
+        "tt@iqtelif": "Sulu"
     },
     "SOR": {
         "af": "Sorsogon",
@@ -78584,7 +78760,9 @@
         "zh_Hant_MY": "Sorsogon",
         "zh_Hant_TW": "Sorsogon",
         "zu": "Sorsogon",
-        "zu_ZA": "Sorsogon"
+        "zu_ZA": "Sorsogon",
+        "sr@latin": "Sorsogon",
+        "tt@iqtelif": "Sorsogon"
     },
     "SUK": {
         "af": "Sultan Kudarat",
@@ -79467,7 +79645,9 @@
         "zh_Hant_MY": "Sultan Kudarat",
         "zh_Hant_TW": "Sultan Kudarat",
         "zu": "Sultan Kudarat",
-        "zu_ZA": "Sultan Kudarat"
+        "zu_ZA": "Sultan Kudarat",
+        "sr@latin": "Sultan Kudara",
+        "tt@iqtelif": "Sultan Kudarat"
     },
     "SUN": {
         "af": "Surigao del Norte",
@@ -80350,7 +80530,9 @@
         "zh_Hant_MY": "Surigao del Norte",
         "zh_Hant_TW": "Surigao del Norte",
         "zu": "Surigao del Norte",
-        "zu_ZA": "Surigao del Norte"
+        "zu_ZA": "Surigao del Norte",
+        "sr@latin": "Surigao del Norte",
+        "tt@iqtelif": "Surigao del Norte"
     },
     "SUR": {
         "af": "Surigao del Sur",
@@ -81233,7 +81415,9 @@
         "zh_Hant_MY": "Surigao del Sur",
         "zh_Hant_TW": "Surigao del Sur",
         "zu": "Surigao del Sur",
-        "zu_ZA": "Surigao del Sur"
+        "zu_ZA": "Surigao del Sur",
+        "sr@latin": "Surigao del Sur",
+        "tt@iqtelif": "Surigao del Sur"
     },
     "TAR": {
         "af": "Tarlac",
@@ -82116,7 +82300,9 @@
         "zh_Hant_MY": "Tarlac",
         "zh_Hant_TW": "Tarlac",
         "zu": "Tarlac",
-        "zu_ZA": "Tarlac"
+        "zu_ZA": "Tarlac",
+        "sr@latin": "Tarlac",
+        "tt@iqtelif": "Tarlac"
     },
     "TAW": {
         "af": "Tawi-Tawi",
@@ -82999,7 +83185,9 @@
         "zh_Hant_MY": "Tawi-Tawi",
         "zh_Hant_TW": "Tawi-Tawi",
         "zu": "Tawi-Tawi",
-        "zu_ZA": "Tawi-Tawi"
+        "zu_ZA": "Tawi-Tawi",
+        "sr@latin": "Tawi-Tawi",
+        "tt@iqtelif": "Tawi-Tawi"
     },
     "WSA": {
         "af": "Samar",
@@ -83882,7 +84070,9 @@
         "zh_Hant_MY": "Samar",
         "zh_Hant_TW": "Samar",
         "zu": "Samar",
-        "zu_ZA": "Samar"
+        "zu_ZA": "Samar",
+        "sr@latin": "Samar",
+        "tt@iqtelif": "Samar"
     },
     "ZAN": {
         "af": "Zamboanga del Norte",
@@ -84765,7 +84955,9 @@
         "zh_Hant_MY": "Zamboanga del Norte",
         "zh_Hant_TW": "Zamboanga del Norte",
         "zu": "Zamboanga del Norte",
-        "zu_ZA": "Zamboanga del Norte"
+        "zu_ZA": "Zamboanga del Norte",
+        "sr@latin": "Zamboanga del Norte",
+        "tt@iqtelif": "Zamboanga del Norte"
     },
     "ZAS": {
         "af": "Zamboanga del Sur",
@@ -85648,7 +85840,9 @@
         "zh_Hant_MY": "Zamboanga del Sur",
         "zh_Hant_TW": "Zamboanga del Sur",
         "zu": "Zamboanga del Sur",
-        "zu_ZA": "Zamboanga del Sur"
+        "zu_ZA": "Zamboanga del Sur",
+        "sr@latin": "Zamboanga del Sur",
+        "tt@iqtelif": "Zamboanga del Sur"
     },
     "ZMB": {
         "af": "Zambales",
@@ -86531,7 +86725,9 @@
         "zh_Hant_MY": "Zambales",
         "zh_Hant_TW": "Zambales",
         "zu": "Zambales",
-        "zu_ZA": "Zambales"
+        "zu_ZA": "Zambales",
+        "sr@latin": "Zambales",
+        "tt@iqtelif": "Zambales"
     },
     "ZSI": {
         "af": "Zamboanga Sibugay",
@@ -87414,6 +87610,8 @@
         "zh_Hant_MY": "Zamboanga Sibugay",
         "zh_Hant_TW": "Zamboanga Sibugay",
         "zu": "Zamboanga Sibugay",
-        "zu_ZA": "Zamboanga Sibugay"
+        "zu_ZA": "Zamboanga Sibugay",
+        "sr@latin": "Zamboanga Sibugay",
+        "tt@iqtelif": "Zamboanga Sibugay"
     }
 }

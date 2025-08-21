@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Agadez",
         "zh_Hant_TW": "Agadez",
         "zu": "Agadez",
-        "zu_ZA": "Agadez"
+        "zu_ZA": "Agadez",
+        "sr@latin": "Agadez",
+        "tt@iqtelif": "Agadez"
     },
     "2": {
         "af": "Diffa",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Diffa",
         "zh_Hant_TW": "Diffa",
         "zu": "Diffa",
-        "zu_ZA": "Diffa"
+        "zu_ZA": "Diffa",
+        "sr@latin": "Difa",
+        "tt@iqtelif": "Diffa"
     },
     "3": {
         "af": "Dosso",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Dosso",
         "zh_Hant_TW": "Dosso",
         "zu": "Dosso",
-        "zu_ZA": "Dosso"
+        "zu_ZA": "Dosso",
+        "sr@latin": "Doso",
+        "tt@iqtelif": "Dosso"
     },
     "4": {
         "af": "Maradi",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Maradi",
         "zh_Hant_TW": "Maradi",
         "zu": "Maradi",
-        "zu_ZA": "Maradi"
+        "zu_ZA": "Maradi",
+        "sr@latin": "Maradi",
+        "tt@iqtelif": "Maradi"
     },
     "5": {
         "af": "Tahoua",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Tahoua",
         "zh_Hant_TW": "Tahoua",
         "zu": "Tahoua",
-        "zu_ZA": "Tahoua"
+        "zu_ZA": "Tahoua",
+        "sr@latin": "Tahoua",
+        "tt@iqtelif": "Tahoua"
     },
     "6": {
         "af": "Tillabéri",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Tillabéri",
         "zh_Hant_TW": "Tillabéri",
         "zu": "Tillabéri",
-        "zu_ZA": "Tillabéri"
+        "zu_ZA": "Tillabéri",
+        "sr@latin": "Tilaberi",
+        "tt@iqtelif": "Tillabéri"
     },
     "7": {
         "af": "Zinder",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Zinder",
         "zh_Hant_TW": "Zinder",
         "zu": "Zinder",
-        "zu_ZA": "Zinder"
+        "zu_ZA": "Zinder",
+        "sr@latin": "Zinder",
+        "tt@iqtelif": "Zinder"
     },
     "8": {
         "af": "Niamey",
@@ -7061,6 +7075,8 @@
         "zh_Hant_MY": "Niamey",
         "zh_Hant_TW": "Niamey",
         "zu": "Niamey",
-        "zu_ZA": "Niamey"
+        "zu_ZA": "Niamey",
+        "sr@latin": "Nijamej",
+        "tt@iqtelif": "Niamey"
     }
 }

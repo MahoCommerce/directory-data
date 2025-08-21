@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aragac̣otn",
         "zh_Hant_TW": "Aragac̣otn",
         "zu": "Aragac̣otn",
-        "zu_ZA": "Aragac̣otn"
+        "zu_ZA": "Aragac̣otn",
+        "sr@latin": "Aragac̣otn",
+        "tt@iqtelif": "Aragac̣otn"
     },
     "AR": {
         "af": "Ararat",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Ararat",
         "zh_Hant_TW": "Ararat",
         "zu": "Ararat",
-        "zu_ZA": "Ararat"
+        "zu_ZA": "Ararat",
+        "sr@latin": "Ararat",
+        "tt@iqtelif": "Ararat"
     },
     "AV": {
         "af": "Armavir",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Armavir",
         "zh_Hant_TW": "Armavir",
         "zu": "Armavir",
-        "zu_ZA": "Armavir"
+        "zu_ZA": "Armavir",
+        "sr@latin": "Armavir",
+        "tt@iqtelif": "Armavir"
     },
     "ER": {
         "af": "Erevan",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Erevan",
         "zh_Hant_TW": "Erevan",
         "zu": "Erevan",
-        "zu_ZA": "Erevan"
+        "zu_ZA": "Erevan",
+        "sr@latin": "Jerevan",
+        "tt@iqtelif": "Erevan"
     },
     "GR": {
         "af": "Geġark'unik'",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Geġark'unik'",
         "zh_Hant_TW": "Geġark'unik'",
         "zu": "Geġark'unik'",
-        "zu_ZA": "Geġark'unik'"
+        "zu_ZA": "Geġark'unik'",
+        "sr@latin": "Geġark'unik'",
+        "tt@iqtelif": "Geġark'unik'"
     },
     "KT": {
         "af": "Kotayk'",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Kotayk'",
         "zh_Hant_TW": "Kotayk'",
         "zu": "Kotayk'",
-        "zu_ZA": "Kotayk'"
+        "zu_ZA": "Kotayk'",
+        "sr@latin": "Kotajk",
+        "tt@iqtelif": "Kotayk'"
     },
     "LO": {
         "af": "Loṙi",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Loṙi",
         "zh_Hant_TW": "Loṙi",
         "zu": "Loṙi",
-        "zu_ZA": "Loṙi"
+        "zu_ZA": "Loṙi",
+        "sr@latin": "Loṙi",
+        "tt@iqtelif": "Loṙi"
     },
     "SH": {
         "af": "Širak",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Širak",
         "zh_Hant_TW": "Širak",
         "zu": "Širak",
-        "zu_ZA": "Širak"
+        "zu_ZA": "Širak",
+        "sr@latin": "Širak",
+        "tt@iqtelif": "Širak"
     },
     "SU": {
         "af": "Syunik'",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Syunik'",
         "zh_Hant_TW": "Syunik'",
         "zu": "Syunik'",
-        "zu_ZA": "Syunik'"
+        "zu_ZA": "Syunik'",
+        "sr@latin": "Sjunik",
+        "tt@iqtelif": "Syunik'"
     },
     "TV": {
         "af": "Tavuš",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Tavuš",
         "zh_Hant_TW": "Tavuš",
         "zu": "Tavuš",
-        "zu_ZA": "Tavuš"
+        "zu_ZA": "Tavuš",
+        "sr@latin": "Tavuš",
+        "tt@iqtelif": "Tavuš"
     },
     "VD": {
         "af": "Vayoć Jor",
@@ -9710,6 +9730,8 @@
         "zh_Hant_MY": "Vayoć Jor",
         "zh_Hant_TW": "Vayoć Jor",
         "zu": "Vayoć Jor",
-        "zu_ZA": "Vayoć Jor"
+        "zu_ZA": "Vayoć Jor",
+        "sr@latin": "Vayoć Jor",
+        "tt@iqtelif": "Vayoć Jor"
     }
 }

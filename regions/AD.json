@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Canillo",
         "zh_Hant_TW": "Canillo",
         "zu": "Canillo",
-        "zu_ZA": "Canillo"
+        "zu_ZA": "Canillo",
+        "sr@latin": "Kaniljo",
+        "tt@iqtelif": "Canillo"
     },
     "03": {
         "af": "Encamp",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Encamp",
         "zh_Hant_TW": "Encamp",
         "zu": "Encamp",
-        "zu_ZA": "Encamp"
+        "zu_ZA": "Encamp",
+        "sr@latin": "Enkamp",
+        "tt@iqtelif": "Encamp"
     },
     "04": {
         "af": "La Massana",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "La Massana",
         "zh_Hant_TW": "La Massana",
         "zu": "La Massana",
-        "zu_ZA": "La Massana"
+        "zu_ZA": "La Massana",
+        "sr@latin": "La Masana",
+        "tt@iqtelif": "La Massana"
     },
     "05": {
         "af": "Ordino",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Ordino",
         "zh_Hant_TW": "Ordino",
         "zu": "Ordino",
-        "zu_ZA": "Ordino"
+        "zu_ZA": "Ordino",
+        "sr@latin": "Ordino",
+        "tt@iqtelif": "Ordino"
     },
     "06": {
         "af": "Sant Julià de Lòria",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Sant Julià de Lòria",
         "zh_Hant_TW": "Sant Julià de Lòria",
         "zu": "Sant Julià de Lòria",
-        "zu_ZA": "Sant Julià de Lòria"
+        "zu_ZA": "Sant Julià de Lòria",
+        "sr@latin": "San Hulija de Lorja",
+        "tt@iqtelif": "Sant Julià de Lòria"
     },
     "07": {
         "af": "Andorra la Vella",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Andorra la Vella",
         "zh_Hant_TW": "Andorra la Vella",
         "zu": "Andorra la Vella",
-        "zu_ZA": "Andorra la Vella"
+        "zu_ZA": "Andorra la Vella",
+        "sr@latin": "Andora la Vela",
+        "tt@iqtelif": "Andorra la Vella"
     },
     "08": {
         "af": "Escaldes-Engordany",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "Escaldes-Engordany",
         "zh_Hant_TW": "Escaldes-Engordany",
         "zu": "Escaldes-Engordany",
-        "zu_ZA": "Escaldes-Engordany"
+        "zu_ZA": "Escaldes-Engordany",
+        "sr@latin": "Eskaldes-Engordani",
+        "tt@iqtelif": "Escaldes-Engordany"
     }
 }

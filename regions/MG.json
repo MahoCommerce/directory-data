@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Toamasina",
         "zh_Hant_TW": "Toamasina",
         "zu": "Toamasina",
-        "zu_ZA": "Toamasina"
+        "zu_ZA": "Toamasina",
+        "sr@latin": "Toamasina",
+        "tt@iqtelif": "Toamasina"
     },
     "D": {
         "af": "Antsiranana",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Antsiranana",
         "zh_Hant_TW": "Antsiranana",
         "zu": "Antsiranana",
-        "zu_ZA": "Antsiranana"
+        "zu_ZA": "Antsiranana",
+        "sr@latin": "Antsiranana",
+        "tt@iqtelif": "Antsiranana"
     },
     "F": {
         "af": "Fianarantsoa",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Fianarantsoa",
         "zh_Hant_TW": "Fianarantsoa",
         "zu": "Fianarantsoa",
-        "zu_ZA": "Fianarantsoa"
+        "zu_ZA": "Fianarantsoa",
+        "sr@latin": "Fianarantsoa",
+        "tt@iqtelif": "Fianarantsoa"
     },
     "M": {
         "af": "Mahajanga",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Mahajanga",
         "zh_Hant_TW": "Mahajanga",
         "zu": "Mahajanga",
-        "zu_ZA": "Mahajanga"
+        "zu_ZA": "Mahajanga",
+        "sr@latin": "Mahadžanga",
+        "tt@iqtelif": "Mahajanga"
     },
     "T": {
         "af": "Antananarivo",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Antananarivo",
         "zh_Hant_TW": "Antananarivo",
         "zu": "Antananarivo",
-        "zu_ZA": "Antananarivo"
+        "zu_ZA": "Antananarivo",
+        "sr@latin": "Antananarivo",
+        "tt@iqtelif": "Antananarivo"
     },
     "U": {
         "af": "Toliara",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Toliara",
         "zh_Hant_TW": "Toliara",
         "zu": "Toliara",
-        "zu_ZA": "Toliara"
+        "zu_ZA": "Toliara",
+        "sr@latin": "Toliara",
+        "tt@iqtelif": "Toliara"
     }
 }

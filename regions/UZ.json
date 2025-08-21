@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Andijon",
         "zh_Hant_TW": "Andijon",
         "zu": "Andijon",
-        "zu_ZA": "Andijon"
+        "zu_ZA": "Andijon",
+        "sr@latin": "Andižon",
+        "tt@iqtelif": "Andijon"
     },
     "BU": {
         "af": "Buxoro",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Buxoro",
         "zh_Hant_TW": "Buxoro",
         "zu": "Buxoro",
-        "zu_ZA": "Buxoro"
+        "zu_ZA": "Buxoro",
+        "sr@latin": "Buksoro",
+        "tt@iqtelif": "Buxoro"
     },
     "FA": {
         "af": "Farg‘ona",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Farg‘ona",
         "zh_Hant_TW": "Farg‘ona",
         "zu": "Farg‘ona",
-        "zu_ZA": "Farg‘ona"
+        "zu_ZA": "Farg‘ona",
+        "sr@latin": "Farg‘ona",
+        "tt@iqtelif": "Farg‘ona"
     },
     "JI": {
         "af": "Jizzax",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Jizzax",
         "zh_Hant_TW": "Jizzax",
         "zu": "Jizzax",
-        "zu_ZA": "Jizzax"
+        "zu_ZA": "Jizzax",
+        "sr@latin": "Jizzax",
+        "tt@iqtelif": "Jizzax"
     },
     "NG": {
         "af": "Namangan",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Namangan",
         "zh_Hant_TW": "Namangan",
         "zu": "Namangan",
-        "zu_ZA": "Namangan"
+        "zu_ZA": "Namangan",
+        "sr@latin": "Namangan",
+        "tt@iqtelif": "Namangan"
     },
     "NW": {
         "af": "Navoiy",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Navoiy",
         "zh_Hant_TW": "Navoiy",
         "zu": "Navoiy",
-        "zu_ZA": "Navoiy"
+        "zu_ZA": "Navoiy",
+        "sr@latin": "Navoji",
+        "tt@iqtelif": "Navoiy"
     },
     "QA": {
         "af": "Qashqadaryo",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Qashqadaryo",
         "zh_Hant_TW": "Qashqadaryo",
         "zu": "Qashqadaryo",
-        "zu_ZA": "Qashqadaryo"
+        "zu_ZA": "Qashqadaryo",
+        "sr@latin": "Qashqadaryo",
+        "tt@iqtelif": "Qashqadaryo"
     },
     "QR": {
         "af": "Qoraqalpog‘iston Respublikasi",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Qoraqalpog‘iston Respublikasi",
         "zh_Hant_TW": "Qoraqalpog‘iston Respublikasi",
         "zu": "Qoraqalpog‘iston Respublikasi",
-        "zu_ZA": "Qoraqalpog‘iston Respublikasi"
+        "zu_ZA": "Qoraqalpog‘iston Respublikasi",
+        "sr@latin": "Qoraqalpog‘iston Respublikasi",
+        "tt@iqtelif": "Qoraqalpog‘iston Respublikasi"
     },
     "SA": {
         "af": "Samarqand",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Samarqand",
         "zh_Hant_TW": "Samarqand",
         "zu": "Samarqand",
-        "zu_ZA": "Samarqand"
+        "zu_ZA": "Samarqand",
+        "sr@latin": "Samarkand",
+        "tt@iqtelif": "Samarqand"
     },
     "SI": {
         "af": "Sirdaryo",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Sirdaryo",
         "zh_Hant_TW": "Sirdaryo",
         "zu": "Sirdaryo",
-        "zu_ZA": "Sirdaryo"
+        "zu_ZA": "Sirdaryo",
+        "sr@latin": "Sirdaryo",
+        "tt@iqtelif": "Sirdaryo"
     },
     "SU": {
         "af": "Surxondaryo",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Surxondaryo",
         "zh_Hant_TW": "Surxondaryo",
         "zu": "Surxondaryo",
-        "zu_ZA": "Surxondaryo"
+        "zu_ZA": "Surxondaryo",
+        "sr@latin": "Surxondaryo",
+        "tt@iqtelif": "Surxondaryo"
     },
     "TK": {
         "af": "Toshkent",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Toshkent",
         "zh_Hant_TW": "Toshkent",
         "zu": "Toshkent",
-        "zu_ZA": "Toshkent"
+        "zu_ZA": "Toshkent",
+        "sr@latin": "Taškent",
+        "tt@iqtelif": "Toshkent"
     },
     "TO": {
         "af": "Toshkent",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Toshkent",
         "zh_Hant_TW": "Toshkent",
         "zu": "Toshkent",
-        "zu_ZA": "Toshkent"
+        "zu_ZA": "Toshkent",
+        "sr@latin": "Taškent",
+        "tt@iqtelif": "Toshkent"
     },
     "XO": {
         "af": "Xorazm",
@@ -12359,6 +12385,8 @@
         "zh_Hant_MY": "Xorazm",
         "zh_Hant_TW": "Xorazm",
         "zu": "Xorazm",
-        "zu_ZA": "Xorazm"
+        "zu_ZA": "Xorazm",
+        "sr@latin": "Xorazm",
+        "tt@iqtelif": "Xorazm"
     }
 }

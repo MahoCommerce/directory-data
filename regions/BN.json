@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Belait",
         "zh_Hant_TW": "Belait",
         "zu": "Belait",
-        "zu_ZA": "Belait"
+        "zu_ZA": "Belait",
+        "sr@latin": "Belet",
+        "tt@iqtelif": "Belait"
     },
     "BM": {
         "af": "Brunei-Muara",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Brunei-Muara",
         "zh_Hant_TW": "Brunei-Muara",
         "zu": "Brunei-Muara",
-        "zu_ZA": "Brunei-Muara"
+        "zu_ZA": "Brunei-Muara",
+        "sr@latin": "Brunej-Muara",
+        "tt@iqtelif": "Brunei-Muara"
     },
     "TE": {
         "af": "Temburong",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Temburong",
         "zh_Hant_TW": "Temburong",
         "zu": "Temburong",
-        "zu_ZA": "Temburong"
+        "zu_ZA": "Temburong",
+        "sr@latin": "Temburong",
+        "tt@iqtelif": "Temburong"
     },
     "TU": {
         "af": "Tutong",
@@ -3529,6 +3535,8 @@
         "zh_Hant_MY": "Tutong",
         "zh_Hant_TW": "Tutong",
         "zu": "Tutong",
-        "zu_ZA": "Tutong"
+        "zu_ZA": "Tutong",
+        "sr@latin": "Tutong",
+        "tt@iqtelif": "Tutong"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "A'ana",
         "zh_Hant_TW": "A'ana",
         "zu": "A'ana",
-        "zu_ZA": "A'ana"
+        "zu_ZA": "A'ana",
+        "sr@latin": "A'ana",
+        "tt@iqtelif": "A'ana"
     },
     "AL": {
         "af": "Aiga-i-le-Tai",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Aiga-i-le-Tai",
         "zh_Hant_TW": "Aiga-i-le-Tai",
         "zu": "Aiga-i-le-Tai",
-        "zu_ZA": "Aiga-i-le-Tai"
+        "zu_ZA": "Aiga-i-le-Tai",
+        "sr@latin": "Ajgajletaj",
+        "tt@iqtelif": "Aiga-i-le-Tai"
     },
     "AT": {
         "af": "Atua",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Atua",
         "zh_Hant_TW": "Atua",
         "zu": "Atua",
-        "zu_ZA": "Atua"
+        "zu_ZA": "Atua",
+        "sr@latin": "Atua",
+        "tt@iqtelif": "Atua"
     },
     "FA": {
         "af": "Fa'asaleleaga",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Fa'asaleleaga",
         "zh_Hant_TW": "Fa'asaleleaga",
         "zu": "Fa'asaleleaga",
-        "zu_ZA": "Fa'asaleleaga"
+        "zu_ZA": "Fa'asaleleaga",
+        "sr@latin": "Fa'asaleliga",
+        "tt@iqtelif": "Fa'asaleleaga"
     },
     "GE": {
         "af": "Gaga'emauga",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Gaga'emauga",
         "zh_Hant_TW": "Gaga'emauga",
         "zu": "Gaga'emauga",
-        "zu_ZA": "Gaga'emauga"
+        "zu_ZA": "Gaga'emauga",
+        "sr@latin": "Gaga'emauga",
+        "tt@iqtelif": "Gaga'emauga"
     },
     "GI": {
         "af": "Gagaifomauga",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Gagaifomauga",
         "zh_Hant_TW": "Gagaifomauga",
         "zu": "Gagaifomauga",
-        "zu_ZA": "Gagaifomauga"
+        "zu_ZA": "Gagaifomauga",
+        "sr@latin": "Gagaifomauga",
+        "tt@iqtelif": "Gagaifomauga"
     },
     "PA": {
         "af": "Palauli",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Palauli",
         "zh_Hant_TW": "Palauli",
         "zu": "Palauli",
-        "zu_ZA": "Palauli"
+        "zu_ZA": "Palauli",
+        "sr@latin": "Palauli",
+        "tt@iqtelif": "Palauli"
     },
     "SA": {
         "af": "Satupa'itea",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Satupa'itea",
         "zh_Hant_TW": "Satupa'itea",
         "zu": "Satupa'itea",
-        "zu_ZA": "Satupa'itea"
+        "zu_ZA": "Satupa'itea",
+        "sr@latin": "Satupa'itea",
+        "tt@iqtelif": "Satupa'itea"
     },
     "TU": {
         "af": "Tuamasaga",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Tuamasaga",
         "zh_Hant_TW": "Tuamasaga",
         "zu": "Tuamasaga",
-        "zu_ZA": "Tuamasaga"
+        "zu_ZA": "Tuamasaga",
+        "sr@latin": "Tuamasaga",
+        "tt@iqtelif": "Tuamasaga"
     },
     "VF": {
         "af": "Va'a-o-Fonoti",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Va'a-o-Fonoti",
         "zh_Hant_TW": "Va'a-o-Fonoti",
         "zu": "Va'a-o-Fonoti",
-        "zu_ZA": "Va'a-o-Fonoti"
+        "zu_ZA": "Va'a-o-Fonoti",
+        "sr@latin": "Va'a-o-Fonoti",
+        "tt@iqtelif": "Va'a-o-Fonoti"
     },
     "VS": {
         "af": "Vaisigano",
@@ -9710,6 +9730,8 @@
         "zh_Hant_MY": "Vaisigano",
         "zh_Hant_TW": "Vaisigano",
         "zu": "Vaisigano",
-        "zu_ZA": "Vaisigano"
+        "zu_ZA": "Vaisigano",
+        "sr@latin": "Vezigano",
+        "tt@iqtelif": "Vaisigano"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Aguascalientes",
         "zh_Hant_TW": "Aguascalientes",
         "zu": "Aguascalientes",
-        "zu_ZA": "Aguascalientes"
+        "zu_ZA": "Aguascalientes",
+        "sr@latin": "Agvaskalientes",
+        "tt@iqtelif": "Aguascalientes"
     },
     "BCN": {
         "af": "Baja California",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Baja California",
         "zh_Hant_TW": "Baja California",
         "zu": "Baja California",
-        "zu_ZA": "Baja California"
+        "zu_ZA": "Baja California",
+        "sr@latin": "Baha Kalifornija",
+        "tt@iqtelif": "Baja California"
     },
     "BCS": {
         "af": "Baja California Sur",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Baja California Sur",
         "zh_Hant_TW": "Baja California Sur",
         "zu": "Baja California Sur",
-        "zu_ZA": "Baja California Sur"
+        "zu_ZA": "Baja California Sur",
+        "sr@latin": "Baha Kalifornija Sur",
+        "tt@iqtelif": "Baja California Sur"
     },
     "CAM": {
         "af": "Campeche",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Campeche",
         "zh_Hant_TW": "Campeche",
         "zu": "Campeche",
-        "zu_ZA": "Campeche"
+        "zu_ZA": "Campeche",
+        "sr@latin": "Kampeče",
+        "tt@iqtelif": "Campeche"
     },
     "CHH": {
         "af": "Chihuahua",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Chihuahua",
         "zh_Hant_TW": "Chihuahua",
         "zu": "Chihuahua",
-        "zu_ZA": "Chihuahua"
+        "zu_ZA": "Chihuahua",
+        "sr@latin": "Čiuaua",
+        "tt@iqtelif": "Chihuahua"
     },
     "CHP": {
         "af": "Chiapas",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Chiapas",
         "zh_Hant_TW": "Chiapas",
         "zu": "Chiapas",
-        "zu_ZA": "Chiapas"
+        "zu_ZA": "Chiapas",
+        "sr@latin": "Kjapas",
+        "tt@iqtelif": "Chiapas"
     },
     "CMX": {
         "af": "Ciudad de México",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Ciudad de México",
         "zh_Hant_TW": "Ciudad de México",
         "zu": "Ciudad de México",
-        "zu_ZA": "Ciudad de México"
+        "zu_ZA": "Ciudad de México",
+        "sr@latin": "Ciudad de México",
+        "tt@iqtelif": "Ciudad de México"
     },
     "COA": {
         "af": "Coahuila de Zaragoza",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Coahuila de Zaragoza",
         "zh_Hant_TW": "Coahuila de Zaragoza",
         "zu": "Coahuila de Zaragoza",
-        "zu_ZA": "Coahuila de Zaragoza"
+        "zu_ZA": "Coahuila de Zaragoza",
+        "sr@latin": "Coahuila de Zaragoza",
+        "tt@iqtelif": "Coahuila de Zaragoza"
     },
     "COL": {
         "af": "Colima",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Colima",
         "zh_Hant_TW": "Colima",
         "zu": "Colima",
-        "zu_ZA": "Colima"
+        "zu_ZA": "Colima",
+        "sr@latin": "Kolima",
+        "tt@iqtelif": "Colima"
     },
     "DUR": {
         "af": "Durango",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Durango",
         "zh_Hant_TW": "Durango",
         "zu": "Durango",
-        "zu_ZA": "Durango"
+        "zu_ZA": "Durango",
+        "sr@latin": "Durango",
+        "tt@iqtelif": "Durango"
     },
     "GRO": {
         "af": "Guerrero",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Guerrero",
         "zh_Hant_TW": "Guerrero",
         "zu": "Guerrero",
-        "zu_ZA": "Guerrero"
+        "zu_ZA": "Guerrero",
+        "sr@latin": "Gverero",
+        "tt@iqtelif": "Guerrero"
     },
     "GUA": {
         "af": "Guanajuato",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Guanajuato",
         "zh_Hant_TW": "Guanajuato",
         "zu": "Guanajuato",
-        "zu_ZA": "Guanajuato"
+        "zu_ZA": "Guanajuato",
+        "sr@latin": "Gvanahuato",
+        "tt@iqtelif": "Guanajuato"
     },
     "HID": {
         "af": "Hidalgo",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Hidalgo",
         "zh_Hant_TW": "Hidalgo",
         "zu": "Hidalgo",
-        "zu_ZA": "Hidalgo"
+        "zu_ZA": "Hidalgo",
+        "sr@latin": "Hidalgo",
+        "tt@iqtelif": "Hidalgo"
     },
     "JAL": {
         "af": "Jalisco",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Jalisco",
         "zh_Hant_TW": "Jalisco",
         "zu": "Jalisco",
-        "zu_ZA": "Jalisco"
+        "zu_ZA": "Jalisco",
+        "sr@latin": "Halisko",
+        "tt@iqtelif": "Jalisco"
     },
     "MEX": {
         "af": "México",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "México",
         "zh_Hant_TW": "México",
         "zu": "México",
-        "zu_ZA": "México"
+        "zu_ZA": "México",
+        "sr@latin": "Meksiko",
+        "tt@iqtelif": "México"
     },
     "MIC": {
         "af": "Michoacán de Ocampo",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Michoacán de Ocampo",
         "zh_Hant_TW": "Michoacán de Ocampo",
         "zu": "Michoacán de Ocampo",
-        "zu_ZA": "Michoacán de Ocampo"
+        "zu_ZA": "Michoacán de Ocampo",
+        "sr@latin": "Michoacán de Ocampo",
+        "tt@iqtelif": "Michoacán de Ocampo"
     },
     "MOR": {
         "af": "Morelos",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Morelos",
         "zh_Hant_TW": "Morelos",
         "zu": "Morelos",
-        "zu_ZA": "Morelos"
+        "zu_ZA": "Morelos",
+        "sr@latin": "Morelos",
+        "tt@iqtelif": "Morelos"
     },
     "NAY": {
         "af": "Nayarit",
@@ -15891,7 +15925,9 @@
         "zh_Hant_MY": "Nayarit",
         "zh_Hant_TW": "Nayarit",
         "zu": "Nayarit",
-        "zu_ZA": "Nayarit"
+        "zu_ZA": "Nayarit",
+        "sr@latin": "Nijarit",
+        "tt@iqtelif": "Nayarit"
     },
     "NLE": {
         "af": "Nuevo León",
@@ -16774,7 +16810,9 @@
         "zh_Hant_MY": "Nuevo León",
         "zh_Hant_TW": "Nuevo León",
         "zu": "Nuevo León",
-        "zu_ZA": "Nuevo León"
+        "zu_ZA": "Nuevo León",
+        "sr@latin": "Nuevo Leon",
+        "tt@iqtelif": "Nuevo León"
     },
     "OAX": {
         "af": "Oaxaca",
@@ -17657,7 +17695,9 @@
         "zh_Hant_MY": "Oaxaca",
         "zh_Hant_TW": "Oaxaca",
         "zu": "Oaxaca",
-        "zu_ZA": "Oaxaca"
+        "zu_ZA": "Oaxaca",
+        "sr@latin": "Oaksaka",
+        "tt@iqtelif": "Oaxaca"
     },
     "PUE": {
         "af": "Puebla",
@@ -18540,7 +18580,9 @@
         "zh_Hant_MY": "Puebla",
         "zh_Hant_TW": "Puebla",
         "zu": "Puebla",
-        "zu_ZA": "Puebla"
+        "zu_ZA": "Puebla",
+        "sr@latin": "Puebla",
+        "tt@iqtelif": "Puebla"
     },
     "QUE": {
         "af": "Querétaro",
@@ -19423,7 +19465,9 @@
         "zh_Hant_MY": "Querétaro",
         "zh_Hant_TW": "Querétaro",
         "zu": "Querétaro",
-        "zu_ZA": "Querétaro"
+        "zu_ZA": "Querétaro",
+        "sr@latin": "Kveretaro",
+        "tt@iqtelif": "Querétaro"
     },
     "ROO": {
         "af": "Quintana Roo",
@@ -20306,7 +20350,9 @@
         "zh_Hant_MY": "Quintana Roo",
         "zh_Hant_TW": "Quintana Roo",
         "zu": "Quintana Roo",
-        "zu_ZA": "Quintana Roo"
+        "zu_ZA": "Quintana Roo",
+        "sr@latin": "Kvintana Ru",
+        "tt@iqtelif": "Quintana Roo"
     },
     "SIN": {
         "af": "Sinaloa",
@@ -21189,7 +21235,9 @@
         "zh_Hant_MY": "Sinaloa",
         "zh_Hant_TW": "Sinaloa",
         "zu": "Sinaloa",
-        "zu_ZA": "Sinaloa"
+        "zu_ZA": "Sinaloa",
+        "sr@latin": "Sinaloa",
+        "tt@iqtelif": "Sinaloa"
     },
     "SLP": {
         "af": "San Luis Potosí",
@@ -22072,7 +22120,9 @@
         "zh_Hant_MY": "San Luis Potosí",
         "zh_Hant_TW": "San Luis Potosí",
         "zu": "San Luis Potosí",
-        "zu_ZA": "San Luis Potosí"
+        "zu_ZA": "San Luis Potosí",
+        "sr@latin": "San Luis Potosi",
+        "tt@iqtelif": "San Luis Potosí"
     },
     "SON": {
         "af": "Sonora",
@@ -22955,7 +23005,9 @@
         "zh_Hant_MY": "Sonora",
         "zh_Hant_TW": "Sonora",
         "zu": "Sonora",
-        "zu_ZA": "Sonora"
+        "zu_ZA": "Sonora",
+        "sr@latin": "Sonora",
+        "tt@iqtelif": "Sonora"
     },
     "TAB": {
         "af": "Tabasco",
@@ -23838,7 +23890,9 @@
         "zh_Hant_MY": "Tabasco",
         "zh_Hant_TW": "Tabasco",
         "zu": "Tabasco",
-        "zu_ZA": "Tabasco"
+        "zu_ZA": "Tabasco",
+        "sr@latin": "Tabasko",
+        "tt@iqtelif": "Tabasco"
     },
     "TAM": {
         "af": "Tamaulipas",
@@ -24721,7 +24775,9 @@
         "zh_Hant_MY": "Tamaulipas",
         "zh_Hant_TW": "Tamaulipas",
         "zu": "Tamaulipas",
-        "zu_ZA": "Tamaulipas"
+        "zu_ZA": "Tamaulipas",
+        "sr@latin": "Tamaulipas",
+        "tt@iqtelif": "Tamaulipas"
     },
     "TLA": {
         "af": "Tlaxcala",
@@ -25604,7 +25660,9 @@
         "zh_Hant_MY": "Tlaxcala",
         "zh_Hant_TW": "Tlaxcala",
         "zu": "Tlaxcala",
-        "zu_ZA": "Tlaxcala"
+        "zu_ZA": "Tlaxcala",
+        "sr@latin": "Tlakskala",
+        "tt@iqtelif": "Tlaxcala"
     },
     "VER": {
         "af": "Veracruz de Ignacio de la Llave",
@@ -26487,7 +26545,9 @@
         "zh_Hant_MY": "Veracruz de Ignacio de la Llave",
         "zh_Hant_TW": "Veracruz de Ignacio de la Llave",
         "zu": "Veracruz de Ignacio de la Llave",
-        "zu_ZA": "Veracruz de Ignacio de la Llave"
+        "zu_ZA": "Veracruz de Ignacio de la Llave",
+        "sr@latin": "Veracruz de Ignacio de la Llave",
+        "tt@iqtelif": "Veracruz de Ignacio de la Llave"
     },
     "YUC": {
         "af": "Yucatán",
@@ -27370,7 +27430,9 @@
         "zh_Hant_MY": "Yucatán",
         "zh_Hant_TW": "Yucatán",
         "zu": "Yucatán",
-        "zu_ZA": "Yucatán"
+        "zu_ZA": "Yucatán",
+        "sr@latin": "Jukatan",
+        "tt@iqtelif": "Yucatán"
     },
     "ZAC": {
         "af": "Zacatecas",
@@ -28253,6 +28315,8 @@
         "zh_Hant_MY": "Zacatecas",
         "zh_Hant_TW": "Zacatecas",
         "zu": "Zacatecas",
-        "zu_ZA": "Zacatecas"
+        "zu_ZA": "Zacatecas",
+        "sr@latin": "Zakatekas",
+        "tt@iqtelif": "Zacatecas"
     }
 }

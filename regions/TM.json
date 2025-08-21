@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ahal",
         "zh_Hant_TW": "Ahal",
         "zu": "Ahal",
-        "zu_ZA": "Ahal"
+        "zu_ZA": "Ahal",
+        "sr@latin": "Ahal",
+        "tt@iqtelif": "Ahal"
     },
     "B": {
         "af": "Balkan",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Balkan",
         "zh_Hant_TW": "Balkan",
         "zu": "Balkan",
-        "zu_ZA": "Balkan"
+        "zu_ZA": "Balkan",
+        "sr@latin": "Balkan",
+        "tt@iqtelif": "Balkan"
     },
     "D": {
         "af": "Daşoguz",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Daşoguz",
         "zh_Hant_TW": "Daşoguz",
         "zu": "Daşoguz",
-        "zu_ZA": "Daşoguz"
+        "zu_ZA": "Daşoguz",
+        "sr@latin": "Dašoguz",
+        "tt@iqtelif": "Daşoguz"
     },
     "L": {
         "af": "Lebap",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Lebap",
         "zh_Hant_TW": "Lebap",
         "zu": "Lebap",
-        "zu_ZA": "Lebap"
+        "zu_ZA": "Lebap",
+        "sr@latin": "Lebap",
+        "tt@iqtelif": "Lebap"
     },
     "M": {
         "af": "Mary",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Mary",
         "zh_Hant_TW": "Mary",
         "zu": "Mary",
-        "zu_ZA": "Mary"
+        "zu_ZA": "Mary",
+        "sr@latin": "Meri",
+        "tt@iqtelif": "Mary"
     },
     "S": {
         "af": "Aşgabat",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Aşgabat",
         "zh_Hant_TW": "Aşgabat",
         "zu": "Aşgabat",
-        "zu_ZA": "Aşgabat"
+        "zu_ZA": "Aşgabat",
+        "sr@latin": "Ašgabat",
+        "tt@iqtelif": "Aşgabat"
     }
 }

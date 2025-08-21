@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Anjouan",
         "zh_Hant_TW": "Anjouan",
         "zu": "Anjouan",
-        "zu_ZA": "Anjouan"
+        "zu_ZA": "Anjouan",
+        "sr@latin": "Anjouan",
+        "tt@iqtelif": "Anjouan"
     },
     "G": {
         "af": "Grande Comore",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Grande Comore",
         "zh_Hant_TW": "Grande Comore",
         "zu": "Grande Comore",
-        "zu_ZA": "Grande Comore"
+        "zu_ZA": "Grande Comore",
+        "sr@latin": "Grande Comore",
+        "tt@iqtelif": "Grande Comore"
     },
     "M": {
         "af": "Mohéli",
@@ -2646,6 +2650,8 @@
         "zh_Hant_MY": "Mohéli",
         "zh_Hant_TW": "Mohéli",
         "zu": "Mohéli",
-        "zu_ZA": "Mohéli"
+        "zu_ZA": "Mohéli",
+        "sr@latin": "Mohéli",
+        "tt@iqtelif": "Mohéli"
     }
 }

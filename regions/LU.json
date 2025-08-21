@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Capellen",
         "zh_Hant_TW": "Capellen",
         "zu": "Capellen",
-        "zu_ZA": "Capellen"
+        "zu_ZA": "Capellen",
+        "sr@latin": "Capellen",
+        "tt@iqtelif": "Capellen"
     },
     "CL": {
         "af": "Clervaux",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Clervaux",
         "zh_Hant_TW": "Clervaux",
         "zu": "Clervaux",
-        "zu_ZA": "Clervaux"
+        "zu_ZA": "Clervaux",
+        "sr@latin": "Clervaux",
+        "tt@iqtelif": "Clervaux"
     },
     "DI": {
         "af": "Diekirch",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Diekirch",
         "zh_Hant_TW": "Diekirch",
         "zu": "Diekirch",
-        "zu_ZA": "Diekirch"
+        "zu_ZA": "Diekirch",
+        "sr@latin": "Diekirch",
+        "tt@iqtelif": "Diekirch"
     },
     "EC": {
         "af": "Echternach",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Echternach",
         "zh_Hant_TW": "Echternach",
         "zu": "Echternach",
-        "zu_ZA": "Echternach"
+        "zu_ZA": "Echternach",
+        "sr@latin": "Echternach",
+        "tt@iqtelif": "Echternach"
     },
     "ES": {
         "af": "Esch-sur-Alzette",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Esch-sur-Alzette",
         "zh_Hant_TW": "Esch-sur-Alzette",
         "zu": "Esch-sur-Alzette",
-        "zu_ZA": "Esch-sur-Alzette"
+        "zu_ZA": "Esch-sur-Alzette",
+        "sr@latin": "Esch-sur-Alzette",
+        "tt@iqtelif": "Esch-sur-Alzette"
     },
     "GR": {
         "af": "Grevenmacher",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Grevenmacher",
         "zh_Hant_TW": "Grevenmacher",
         "zu": "Grevenmacher",
-        "zu_ZA": "Grevenmacher"
+        "zu_ZA": "Grevenmacher",
+        "sr@latin": "Grevenmačer",
+        "tt@iqtelif": "Grevenmacher"
     },
     "LU": {
         "af": "Luxembourg",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Luxembourg",
         "zh_Hant_TW": "Luxembourg",
         "zu": "Luxembourg",
-        "zu_ZA": "Luxembourg"
+        "zu_ZA": "Luxembourg",
+        "sr@latin": "Luksemburg",
+        "tt@iqtelif": "Luxembourg"
     },
     "ME": {
         "af": "Mersch",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Mersch",
         "zh_Hant_TW": "Mersch",
         "zu": "Mersch",
-        "zu_ZA": "Mersch"
+        "zu_ZA": "Mersch",
+        "sr@latin": "Mersch",
+        "tt@iqtelif": "Mersch"
     },
     "RD": {
         "af": "Redange",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Redange",
         "zh_Hant_TW": "Redange",
         "zu": "Redange",
-        "zu_ZA": "Redange"
+        "zu_ZA": "Redange",
+        "sr@latin": "Redange",
+        "tt@iqtelif": "Redange"
     },
     "RM": {
         "af": "Remich",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Remich",
         "zh_Hant_TW": "Remich",
         "zu": "Remich",
-        "zu_ZA": "Remich"
+        "zu_ZA": "Remich",
+        "sr@latin": "Remich",
+        "tt@iqtelif": "Remich"
     },
     "VD": {
         "af": "Vianden",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Vianden",
         "zh_Hant_TW": "Vianden",
         "zu": "Vianden",
-        "zu_ZA": "Vianden"
+        "zu_ZA": "Vianden",
+        "sr@latin": "Vianden",
+        "tt@iqtelif": "Vianden"
     },
     "WI": {
         "af": "Wiltz",
@@ -10593,6 +10615,8 @@
         "zh_Hant_MY": "Wiltz",
         "zh_Hant_TW": "Wiltz",
         "zu": "Wiltz",
-        "zu_ZA": "Wiltz"
+        "zu_ZA": "Wiltz",
+        "sr@latin": "Wiltz",
+        "tt@iqtelif": "Wiltz"
     }
 }

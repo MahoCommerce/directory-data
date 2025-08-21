@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Concepción",
         "zh_Hant_TW": "Concepción",
         "zu": "Concepción",
-        "zu_ZA": "Concepción"
+        "zu_ZA": "Concepción",
+        "sr@latin": "Konsepsion",
+        "tt@iqtelif": "Concepción"
     },
     "2": {
         "af": "San Pedro",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "San Pedro",
         "zh_Hant_TW": "San Pedro",
         "zu": "San Pedro",
-        "zu_ZA": "San Pedro"
+        "zu_ZA": "San Pedro",
+        "sr@latin": "San Pedro",
+        "tt@iqtelif": "San Pedro"
     },
     "3": {
         "af": "Cordillera",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Cordillera",
         "zh_Hant_TW": "Cordillera",
         "zu": "Cordillera",
-        "zu_ZA": "Cordillera"
+        "zu_ZA": "Cordillera",
+        "sr@latin": "Kordiljeri",
+        "tt@iqtelif": "Cordillera"
     },
     "4": {
         "af": "Guairá",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Guairá",
         "zh_Hant_TW": "Guairá",
         "zu": "Guairá",
-        "zu_ZA": "Guairá"
+        "zu_ZA": "Guairá",
+        "sr@latin": "Gvajra",
+        "tt@iqtelif": "Guairá"
     },
     "5": {
         "af": "Caaguazú",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Caaguazú",
         "zh_Hant_TW": "Caaguazú",
         "zu": "Caaguazú",
-        "zu_ZA": "Caaguazú"
+        "zu_ZA": "Caaguazú",
+        "sr@latin": "Caaguazú",
+        "tt@iqtelif": "Caaguazú"
     },
     "6": {
         "af": "Caazapá",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Caazapá",
         "zh_Hant_TW": "Caazapá",
         "zu": "Caazapá",
-        "zu_ZA": "Caazapá"
+        "zu_ZA": "Caazapá",
+        "sr@latin": "Caazapá",
+        "tt@iqtelif": "Caazapá"
     },
     "7": {
         "af": "Itapúa",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Itapúa",
         "zh_Hant_TW": "Itapúa",
         "zu": "Itapúa",
-        "zu_ZA": "Itapúa"
+        "zu_ZA": "Itapúa",
+        "sr@latin": "Itapua",
+        "tt@iqtelif": "Itapúa"
     },
     "8": {
         "af": "Misiones",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Misiones",
         "zh_Hant_TW": "Misiones",
         "zu": "Misiones",
-        "zu_ZA": "Misiones"
+        "zu_ZA": "Misiones",
+        "sr@latin": "Misjon",
+        "tt@iqtelif": "Misiones"
     },
     "9": {
         "af": "Paraguarí",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Paraguarí",
         "zh_Hant_TW": "Paraguarí",
         "zu": "Paraguarí",
-        "zu_ZA": "Paraguarí"
+        "zu_ZA": "Paraguarí",
+        "sr@latin": "Paragvari",
+        "tt@iqtelif": "Paraguarí"
     },
     "10": {
         "af": "Alto Paraná",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Alto Paraná",
         "zh_Hant_TW": "Alto Paraná",
         "zu": "Alto Paraná",
-        "zu_ZA": "Alto Paraná"
+        "zu_ZA": "Alto Paraná",
+        "sr@latin": "Alto Parana",
+        "tt@iqtelif": "Alto Paraná"
     },
     "11": {
         "af": "Central",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Central",
         "zh_Hant_TW": "Central",
         "zu": "Central",
-        "zu_ZA": "Central"
+        "zu_ZA": "Central",
+        "sr@latin": "Centralni",
+        "tt@iqtelif": "Central"
     },
     "12": {
         "af": "Ñeembucú",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Ñeembucú",
         "zh_Hant_TW": "Ñeembucú",
         "zu": "Ñeembucú",
-        "zu_ZA": "Ñeembucú"
+        "zu_ZA": "Ñeembucú",
+        "sr@latin": "Ñeembucú",
+        "tt@iqtelif": "Ñeembucú"
     },
     "13": {
         "af": "Amambay",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Amambay",
         "zh_Hant_TW": "Amambay",
         "zu": "Amambay",
-        "zu_ZA": "Amambay"
+        "zu_ZA": "Amambay",
+        "sr@latin": "Amambej",
+        "tt@iqtelif": "Amambay"
     },
     "14": {
         "af": "Canindeyú",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Canindeyú",
         "zh_Hant_TW": "Canindeyú",
         "zu": "Canindeyú",
-        "zu_ZA": "Canindeyú"
+        "zu_ZA": "Canindeyú",
+        "sr@latin": "Kanindeji",
+        "tt@iqtelif": "Canindeyú"
     },
     "15": {
         "af": "Presidente Hayes",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Presidente Hayes",
         "zh_Hant_TW": "Presidente Hayes",
         "zu": "Presidente Hayes",
-        "zu_ZA": "Presidente Hayes"
+        "zu_ZA": "Presidente Hayes",
+        "sr@latin": "Presidente Hayes",
+        "tt@iqtelif": "Presidente Hayes"
     },
     "16": {
         "af": "Alto Paraguay",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Alto Paraguay",
         "zh_Hant_TW": "Alto Paraguay",
         "zu": "Alto Paraguay",
-        "zu_ZA": "Alto Paraguay"
+        "zu_ZA": "Alto Paraguay",
+        "sr@latin": "Alto Paragvaj",
+        "tt@iqtelif": "Alto Paraguay"
     },
     "19": {
         "af": "Boquerón",
@@ -15008,7 +15040,9 @@
         "zh_Hant_MY": "Boquerón",
         "zh_Hant_TW": "Boquerón",
         "zu": "Boquerón",
-        "zu_ZA": "Boquerón"
+        "zu_ZA": "Boquerón",
+        "sr@latin": "Bokeron",
+        "tt@iqtelif": "Boquerón"
     },
     "ASU": {
         "af": "Asunción",
@@ -15891,6 +15925,8 @@
         "zh_Hant_MY": "Asunción",
         "zh_Hant_TW": "Asunción",
         "zu": "Asunción",
-        "zu_ZA": "Asunción"
+        "zu_ZA": "Asunción",
+        "sr@latin": "Asunsion",
+        "tt@iqtelif": "Asunción"
     }
 }

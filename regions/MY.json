@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Johor",
         "zh_Hant_TW": "Johor",
         "zu": "Johor",
-        "zu_ZA": "Johor"
+        "zu_ZA": "Johor",
+        "sr@latin": "Džohor",
+        "tt@iqtelif": "Johor"
     },
     "02": {
         "af": "Kedah",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kedah",
         "zh_Hant_TW": "Kedah",
         "zu": "Kedah",
-        "zu_ZA": "Kedah"
+        "zu_ZA": "Kedah",
+        "sr@latin": "Kedah",
+        "tt@iqtelif": "Kedah"
     },
     "03": {
         "af": "Kelantan",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Kelantan",
         "zh_Hant_TW": "Kelantan",
         "zu": "Kelantan",
-        "zu_ZA": "Kelantan"
+        "zu_ZA": "Kelantan",
+        "sr@latin": "Kelantan",
+        "tt@iqtelif": "Kelantan"
     },
     "04": {
         "af": "Melaka",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Melaka",
         "zh_Hant_TW": "Melaka",
         "zu": "Melaka",
-        "zu_ZA": "Melaka"
+        "zu_ZA": "Melaka",
+        "sr@latin": "Melaka",
+        "tt@iqtelif": "Melaka"
     },
     "05": {
         "af": "Negeri Sembilan",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Negeri Sembilan",
         "zh_Hant_TW": "Negeri Sembilan",
         "zu": "Negeri Sembilan",
-        "zu_ZA": "Negeri Sembilan"
+        "zu_ZA": "Negeri Sembilan",
+        "sr@latin": "Negeri Sembilan",
+        "tt@iqtelif": "Negeri Sembilan"
     },
     "06": {
         "af": "Pahang",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Pahang",
         "zh_Hant_TW": "Pahang",
         "zu": "Pahang",
-        "zu_ZA": "Pahang"
+        "zu_ZA": "Pahang",
+        "sr@latin": "Pahang",
+        "tt@iqtelif": "Pahang"
     },
     "07": {
         "af": "Pulau Pinang",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Pulau Pinang",
         "zh_Hant_TW": "Pulau Pinang",
         "zu": "Pulau Pinang",
-        "zu_ZA": "Pulau Pinang"
+        "zu_ZA": "Pulau Pinang",
+        "sr@latin": "Pulau Pinang",
+        "tt@iqtelif": "Pulau Pinang"
     },
     "08": {
         "af": "Perak",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Perak",
         "zh_Hant_TW": "Perak",
         "zu": "Perak",
-        "zu_ZA": "Perak"
+        "zu_ZA": "Perak",
+        "sr@latin": "Perak",
+        "tt@iqtelif": "Perak"
     },
     "09": {
         "af": "Perlis",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Perlis",
         "zh_Hant_TW": "Perlis",
         "zu": "Perlis",
-        "zu_ZA": "Perlis"
+        "zu_ZA": "Perlis",
+        "sr@latin": "Perlis",
+        "tt@iqtelif": "Perlis"
     },
     "10": {
         "af": "Selangor",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Selangor",
         "zh_Hant_TW": "Selangor",
         "zu": "Selangor",
-        "zu_ZA": "Selangor"
+        "zu_ZA": "Selangor",
+        "sr@latin": "Selangor",
+        "tt@iqtelif": "Selangor"
     },
     "11": {
         "af": "Terengganu",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Terengganu",
         "zh_Hant_TW": "Terengganu",
         "zu": "Terengganu",
-        "zu_ZA": "Terengganu"
+        "zu_ZA": "Terengganu",
+        "sr@latin": "Terengganu",
+        "tt@iqtelif": "Terengganu"
     },
     "12": {
         "af": "Sabah",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Sabah",
         "zh_Hant_TW": "Sabah",
         "zu": "Sabah",
-        "zu_ZA": "Sabah"
+        "zu_ZA": "Sabah",
+        "sr@latin": "Saba",
+        "tt@iqtelif": "Sabah"
     },
     "13": {
         "af": "Sarawak",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Sarawak",
         "zh_Hant_TW": "Sarawak",
         "zu": "Sarawak",
-        "zu_ZA": "Sarawak"
+        "zu_ZA": "Sarawak",
+        "sr@latin": "Saravak",
+        "tt@iqtelif": "Sarawak"
     },
     "14": {
         "af": "Wilayah Persekutuan Kuala Lumpur",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Wilayah Persekutuan Kuala Lumpur",
         "zh_Hant_TW": "Wilayah Persekutuan Kuala Lumpur",
         "zu": "Wilayah Persekutuan Kuala Lumpur",
-        "zu_ZA": "Wilayah Persekutuan Kuala Lumpur"
+        "zu_ZA": "Wilayah Persekutuan Kuala Lumpur",
+        "sr@latin": "Wilayah Persekutuan Kuala Lumpur",
+        "tt@iqtelif": "Wilayah Persekutuan Kuala Lumpur"
     },
     "15": {
         "af": "Wilayah Persekutuan Labuan",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Wilayah Persekutuan Labuan",
         "zh_Hant_TW": "Wilayah Persekutuan Labuan",
         "zu": "Wilayah Persekutuan Labuan",
-        "zu_ZA": "Wilayah Persekutuan Labuan"
+        "zu_ZA": "Wilayah Persekutuan Labuan",
+        "sr@latin": "Wilayah Persekutuan Labuan",
+        "tt@iqtelif": "Wilayah Persekutuan Labuan"
     },
     "16": {
         "af": "Wilayah Persekutuan Putrajaya",
@@ -14125,6 +14155,8 @@
         "zh_Hant_MY": "Wilayah Persekutuan Putrajaya",
         "zh_Hant_TW": "Wilayah Persekutuan Putrajaya",
         "zu": "Wilayah Persekutuan Putrajaya",
-        "zu_ZA": "Wilayah Persekutuan Putrajaya"
+        "zu_ZA": "Wilayah Persekutuan Putrajaya",
+        "sr@latin": "Wilayah Persekutuan Putrajaya",
+        "tt@iqtelif": "Wilayah Persekutuan Putrajaya"
     }
 }

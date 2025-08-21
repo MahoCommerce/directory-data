@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Kosrae",
         "zh_Hant_TW": "Kosrae",
         "zu": "Kosrae",
-        "zu_ZA": "Kosrae"
+        "zu_ZA": "Kosrae",
+        "sr@latin": "Kosrae",
+        "tt@iqtelif": "Kosrae"
     },
     "PNI": {
         "af": "Pohnpei",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Pohnpei",
         "zh_Hant_TW": "Pohnpei",
         "zu": "Pohnpei",
-        "zu_ZA": "Pohnpei"
+        "zu_ZA": "Pohnpei",
+        "sr@latin": "Ponpej",
+        "tt@iqtelif": "Pohnpei"
     },
     "TRK": {
         "af": "Chuuk",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Chuuk",
         "zh_Hant_TW": "Chuuk",
         "zu": "Chuuk",
-        "zu_ZA": "Chuuk"
+        "zu_ZA": "Chuuk",
+        "sr@latin": "Čuuk",
+        "tt@iqtelif": "Chuuk"
     },
     "YAP": {
         "af": "Yap",
@@ -3529,6 +3535,8 @@
         "zh_Hant_MY": "Yap",
         "zh_Hant_TW": "Yap",
         "zu": "Yap",
-        "zu_ZA": "Yap"
+        "zu_ZA": "Yap",
+        "sr@latin": "Jap",
+        "tt@iqtelif": "Yap"
     }
 }

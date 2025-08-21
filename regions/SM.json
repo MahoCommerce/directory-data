@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Acquaviva",
         "zh_Hant_TW": "Acquaviva",
         "zu": "Acquaviva",
-        "zu_ZA": "Acquaviva"
+        "zu_ZA": "Acquaviva",
+        "sr@latin": "Akvaviva",
+        "tt@iqtelif": "Acquaviva"
     },
     "02": {
         "af": "Chiesanuova",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Chiesanuova",
         "zh_Hant_TW": "Chiesanuova",
         "zu": "Chiesanuova",
-        "zu_ZA": "Chiesanuova"
+        "zu_ZA": "Chiesanuova",
+        "sr@latin": "Kjezanuova",
+        "tt@iqtelif": "Chiesanuova"
     },
     "03": {
         "af": "Domagnano",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Domagnano",
         "zh_Hant_TW": "Domagnano",
         "zu": "Domagnano",
-        "zu_ZA": "Domagnano"
+        "zu_ZA": "Domagnano",
+        "sr@latin": "Domanjano",
+        "tt@iqtelif": "Domagnano"
     },
     "04": {
         "af": "Faetano",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Faetano",
         "zh_Hant_TW": "Faetano",
         "zu": "Faetano",
-        "zu_ZA": "Faetano"
+        "zu_ZA": "Faetano",
+        "sr@latin": "Faetano",
+        "tt@iqtelif": "Faetano"
     },
     "05": {
         "af": "Fiorentino",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Fiorentino",
         "zh_Hant_TW": "Fiorentino",
         "zu": "Fiorentino",
-        "zu_ZA": "Fiorentino"
+        "zu_ZA": "Fiorentino",
+        "sr@latin": "Fjorentino",
+        "tt@iqtelif": "Fiorentino"
     },
     "06": {
         "af": "Borgo Maggiore",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Borgo Maggiore",
         "zh_Hant_TW": "Borgo Maggiore",
         "zu": "Borgo Maggiore",
-        "zu_ZA": "Borgo Maggiore"
+        "zu_ZA": "Borgo Maggiore",
+        "sr@latin": "Borgo Mađore",
+        "tt@iqtelif": "Borgo Maggiore"
     },
     "07": {
         "af": "Città di San Marino",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Città di San Marino",
         "zh_Hant_TW": "Città di San Marino",
         "zu": "Città di San Marino",
-        "zu_ZA": "Città di San Marino"
+        "zu_ZA": "Città di San Marino",
+        "sr@latin": "Città di San Marino",
+        "tt@iqtelif": "Città di San Marino"
     },
     "08": {
         "af": "Montegiardino",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Montegiardino",
         "zh_Hant_TW": "Montegiardino",
         "zu": "Montegiardino",
-        "zu_ZA": "Montegiardino"
+        "zu_ZA": "Montegiardino",
+        "sr@latin": "Monteđardino",
+        "tt@iqtelif": "Montegiardino"
     },
     "09": {
         "af": "Serravalle",
@@ -7944,6 +7960,8 @@
         "zh_Hant_MY": "Serravalle",
         "zh_Hant_TW": "Serravalle",
         "zu": "Serravalle",
-        "zu_ZA": "Serravalle"
+        "zu_ZA": "Serravalle",
+        "sr@latin": "Seravale",
+        "tt@iqtelif": "Serravalle"
     }
 }

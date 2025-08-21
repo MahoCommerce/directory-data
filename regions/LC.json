@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Anse la Raye",
         "zh_Hant_TW": "Anse la Raye",
         "zu": "Anse la Raye",
-        "zu_ZA": "Anse la Raye"
+        "zu_ZA": "Anse la Raye",
+        "sr@latin": "Anse la Raye",
+        "tt@iqtelif": "Anse la Raye"
     },
     "02": {
         "af": "Castries",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Castries",
         "zh_Hant_TW": "Castries",
         "zu": "Castries",
-        "zu_ZA": "Castries"
+        "zu_ZA": "Castries",
+        "sr@latin": "Castries",
+        "tt@iqtelif": "Castries"
     },
     "03": {
         "af": "Choiseul",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Choiseul",
         "zh_Hant_TW": "Choiseul",
         "zu": "Choiseul",
-        "zu_ZA": "Choiseul"
+        "zu_ZA": "Choiseul",
+        "sr@latin": "Šuazel",
+        "tt@iqtelif": "Choiseul"
     },
     "05": {
         "af": "Dennery",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Dennery",
         "zh_Hant_TW": "Dennery",
         "zu": "Dennery",
-        "zu_ZA": "Dennery"
+        "zu_ZA": "Dennery",
+        "sr@latin": "Dennery",
+        "tt@iqtelif": "Dennery"
     },
     "06": {
         "af": "Gros Islet",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Gros Islet",
         "zh_Hant_TW": "Gros Islet",
         "zu": "Gros Islet",
-        "zu_ZA": "Gros Islet"
+        "zu_ZA": "Gros Islet",
+        "sr@latin": "Gros Islet",
+        "tt@iqtelif": "Gros Islet"
     },
     "07": {
         "af": "Laborie",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Laborie",
         "zh_Hant_TW": "Laborie",
         "zu": "Laborie",
-        "zu_ZA": "Laborie"
+        "zu_ZA": "Laborie",
+        "sr@latin": "Laborie",
+        "tt@iqtelif": "Laborie"
     },
     "08": {
         "af": "Micoud",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Micoud",
         "zh_Hant_TW": "Micoud",
         "zu": "Micoud",
-        "zu_ZA": "Micoud"
+        "zu_ZA": "Micoud",
+        "sr@latin": "Micoud",
+        "tt@iqtelif": "Micoud"
     },
     "10": {
         "af": "Soufrière",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Soufrière",
         "zh_Hant_TW": "Soufrière",
         "zu": "Soufrière",
-        "zu_ZA": "Soufrière"
+        "zu_ZA": "Soufrière",
+        "sr@latin": "Soufrière",
+        "tt@iqtelif": "Soufrière"
     },
     "11": {
         "af": "Vieux Fort",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Vieux Fort",
         "zh_Hant_TW": "Vieux Fort",
         "zu": "Vieux Fort",
-        "zu_ZA": "Vieux Fort"
+        "zu_ZA": "Vieux Fort",
+        "sr@latin": "Vieux Fort",
+        "tt@iqtelif": "Vieux Fort"
     },
     "12": {
         "af": "Canaries",
@@ -8827,6 +8845,8 @@
         "zh_Hant_MY": "Canaries",
         "zh_Hant_TW": "Canaries",
         "zu": "Canaries",
-        "zu_ZA": "Canaries"
+        "zu_ZA": "Canaries",
+        "sr@latin": "Canaries",
+        "tt@iqtelif": "Canaries"
     }
 }

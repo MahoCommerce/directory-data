@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Ouham",
         "zh_Hant_TW": "Ouham",
         "zu": "Ouham",
-        "zu_ZA": "Ouham"
+        "zu_ZA": "Ouham",
+        "sr@latin": "Ouam",
+        "tt@iqtelif": "Ouham"
     },
     "BB": {
         "af": "Bamingui-Bangoran",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Bamingui-Bangoran",
         "zh_Hant_TW": "Bamingui-Bangoran",
         "zu": "Bamingui-Bangoran",
-        "zu_ZA": "Bamingui-Bangoran"
+        "zu_ZA": "Bamingui-Bangoran",
+        "sr@latin": "Baminguj-Bangoran",
+        "tt@iqtelif": "Bamingui-Bangoran"
     },
     "BGF": {
         "af": "Bangui",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Bangui",
         "zh_Hant_TW": "Bangui",
         "zu": "Bangui",
-        "zu_ZA": "Bangui"
+        "zu_ZA": "Bangui",
+        "sr@latin": "Bangui",
+        "tt@iqtelif": "Bangui"
     },
     "BK": {
         "af": "Basse-Kotto",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Basse-Kotto",
         "zh_Hant_TW": "Basse-Kotto",
         "zu": "Basse-Kotto",
-        "zu_ZA": "Basse-Kotto"
+        "zu_ZA": "Basse-Kotto",
+        "sr@latin": "Donji Koto",
+        "tt@iqtelif": "Basse-Kotto"
     },
     "HK": {
         "af": "Haute-Kotto",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Haute-Kotto",
         "zh_Hant_TW": "Haute-Kotto",
         "zu": "Haute-Kotto",
-        "zu_ZA": "Haute-Kotto"
+        "zu_ZA": "Haute-Kotto",
+        "sr@latin": "Gornji Koto",
+        "tt@iqtelif": "Haute-Kotto"
     },
     "HM": {
         "af": "Haut-Mbomou",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Haut-Mbomou",
         "zh_Hant_TW": "Haut-Mbomou",
         "zu": "Haut-Mbomou",
-        "zu_ZA": "Haut-Mbomou"
+        "zu_ZA": "Haut-Mbomou",
+        "sr@latin": "Gornja Mbomu",
+        "tt@iqtelif": "Haut-Mbomou"
     },
     "HS": {
         "af": "Haute-Sangha \/ Mambéré-Kadéï",
@@ -6178,7 +6190,9 @@
         "zh_Hant_MY": "Haute-Sangha \/ Mambéré-Kadéï",
         "zh_Hant_TW": "Haute-Sangha \/ Mambéré-Kadéï",
         "zu": "Haute-Sangha \/ Mambéré-Kadéï",
-        "zu_ZA": "Haute-Sangha \/ Mambéré-Kadéï"
+        "zu_ZA": "Haute-Sangha \/ Mambéré-Kadéï",
+        "sr@latin": "Gornja Sanga \/ Mambere-Kadej",
+        "tt@iqtelif": "Haute-Sangha \/ Mambéré-Kadéï"
     },
     "KB": {
         "af": "Gribingui",
@@ -7061,7 +7075,9 @@
         "zh_Hant_MY": "Gribingui",
         "zh_Hant_TW": "Gribingui",
         "zu": "Gribingui",
-        "zu_ZA": "Gribingui"
+        "zu_ZA": "Gribingui",
+        "sr@latin": "Gribinguj",
+        "tt@iqtelif": "Gribingui"
     },
     "KG": {
         "af": "Kémo-Gribingui",
@@ -7944,7 +7960,9 @@
         "zh_Hant_MY": "Kémo-Gribingui",
         "zh_Hant_TW": "Kémo-Gribingui",
         "zu": "Kémo-Gribingui",
-        "zu_ZA": "Kémo-Gribingui"
+        "zu_ZA": "Kémo-Gribingui",
+        "sr@latin": "Kémo-Gribingui",
+        "tt@iqtelif": "Kémo-Gribingui"
     },
     "LB": {
         "af": "Lobaye",
@@ -8827,7 +8845,9 @@
         "zh_Hant_MY": "Lobaye",
         "zh_Hant_TW": "Lobaye",
         "zu": "Lobaye",
-        "zu_ZA": "Lobaye"
+        "zu_ZA": "Lobaye",
+        "sr@latin": "Lobaje",
+        "tt@iqtelif": "Lobaye"
     },
     "MB": {
         "af": "Mbomou",
@@ -9710,7 +9730,9 @@
         "zh_Hant_MY": "Mbomou",
         "zh_Hant_TW": "Mbomou",
         "zu": "Mbomou",
-        "zu_ZA": "Mbomou"
+        "zu_ZA": "Mbomou",
+        "sr@latin": "Mbomu",
+        "tt@iqtelif": "Mbomou"
     },
     "MP": {
         "af": "Ombella-Mpoko",
@@ -10593,7 +10615,9 @@
         "zh_Hant_MY": "Ombella-Mpoko",
         "zh_Hant_TW": "Ombella-Mpoko",
         "zu": "Ombella-Mpoko",
-        "zu_ZA": "Ombella-Mpoko"
+        "zu_ZA": "Ombella-Mpoko",
+        "sr@latin": "Ombella-Mpoko",
+        "tt@iqtelif": "Ombella-Mpoko"
     },
     "NM": {
         "af": "Nana-Mambéré",
@@ -11476,7 +11500,9 @@
         "zh_Hant_MY": "Nana-Mambéré",
         "zh_Hant_TW": "Nana-Mambéré",
         "zu": "Nana-Mambéré",
-        "zu_ZA": "Nana-Mambéré"
+        "zu_ZA": "Nana-Mambéré",
+        "sr@latin": "Nana Mambere",
+        "tt@iqtelif": "Nana-Mambéré"
     },
     "OP": {
         "af": "Ouham-Pendé",
@@ -12359,7 +12385,9 @@
         "zh_Hant_MY": "Ouham-Pendé",
         "zh_Hant_TW": "Ouham-Pendé",
         "zu": "Ouham-Pendé",
-        "zu_ZA": "Ouham-Pendé"
+        "zu_ZA": "Ouham-Pendé",
+        "sr@latin": "Ouam-Pende",
+        "tt@iqtelif": "Ouham-Pendé"
     },
     "SE": {
         "af": "Sangha",
@@ -13242,7 +13270,9 @@
         "zh_Hant_MY": "Sangha",
         "zh_Hant_TW": "Sangha",
         "zu": "Sangha",
-        "zu_ZA": "Sangha"
+        "zu_ZA": "Sangha",
+        "sr@latin": "Sanga",
+        "tt@iqtelif": "Sangha"
     },
     "UK": {
         "af": "Ouaka",
@@ -14125,7 +14155,9 @@
         "zh_Hant_MY": "Ouaka",
         "zh_Hant_TW": "Ouaka",
         "zu": "Ouaka",
-        "zu_ZA": "Ouaka"
+        "zu_ZA": "Ouaka",
+        "sr@latin": "Ouaka",
+        "tt@iqtelif": "Ouaka"
     },
     "VK": {
         "af": "Vakaga",
@@ -15008,6 +15040,8 @@
         "zh_Hant_MY": "Vakaga",
         "zh_Hant_TW": "Vakaga",
         "zu": "Vakaga",
-        "zu_ZA": "Vakaga"
+        "zu_ZA": "Vakaga",
+        "sr@latin": "Vakaga",
+        "tt@iqtelif": "Vakaga"
     }
 }

@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Balochistan",
         "zh_Hant_TW": "Balochistan",
         "zu": "Balochistan",
-        "zu_ZA": "Balochistan"
+        "zu_ZA": "Balochistan",
+        "sr@latin": "Baločistan",
+        "tt@iqtelif": "Balochistan"
     },
     "GB": {
         "af": "Gilgit-Baltistan",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Gilgit-Baltistan",
         "zh_Hant_TW": "Gilgit-Baltistan",
         "zu": "Gilgit-Baltistan",
-        "zu_ZA": "Gilgit-Baltistan"
+        "zu_ZA": "Gilgit-Baltistan",
+        "sr@latin": "Gilgit-Baltistan",
+        "tt@iqtelif": "Gilgit-Baltistan"
     },
     "IS": {
         "af": "Islamabad",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Islamabad",
         "zh_Hant_TW": "Islamabad",
         "zu": "Islamabad",
-        "zu_ZA": "Islamabad"
+        "zu_ZA": "Islamabad",
+        "sr@latin": "Islamabad",
+        "tt@iqtelif": "Islamabad"
     },
     "JK": {
         "af": "Azad Jammu and Kashmir",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Azad Jammu and Kashmir",
         "zh_Hant_TW": "Azad Jammu and Kashmir",
         "zu": "Azad Jammu and Kashmir",
-        "zu_ZA": "Azad Jammu and Kashmir"
+        "zu_ZA": "Azad Jammu and Kashmir",
+        "sr@latin": "Azad Jammu and Kashmir",
+        "tt@iqtelif": "Azad Jammu and Kashmir"
     },
     "KP": {
         "af": "Khyber Pakhtunkhwa",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Khyber Pakhtunkhwa",
         "zh_Hant_TW": "Khyber Pakhtunkhwa",
         "zu": "Khyber Pakhtunkhwa",
-        "zu_ZA": "Khyber Pakhtunkhwa"
+        "zu_ZA": "Khyber Pakhtunkhwa",
+        "sr@latin": "Khyber Pakhtunkhwa",
+        "tt@iqtelif": "Khyber Pakhtunkhwa"
     },
     "PB": {
         "af": "Punjab",
@@ -5295,7 +5305,9 @@
         "zh_Hant_MY": "Punjab",
         "zh_Hant_TW": "Punjab",
         "zu": "Punjab",
-        "zu_ZA": "Punjab"
+        "zu_ZA": "Punjab",
+        "sr@latin": "Pandžab",
+        "tt@iqtelif": "Punjab"
     },
     "SD": {
         "af": "Sindh",
@@ -6178,6 +6190,8 @@
         "zh_Hant_MY": "Sindh",
         "zh_Hant_TW": "Sindh",
         "zu": "Sindh",
-        "zu_ZA": "Sindh"
+        "zu_ZA": "Sindh",
+        "sr@latin": "Sind",
+        "tt@iqtelif": "Sindh"
     }
 }

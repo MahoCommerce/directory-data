@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Avannaata Kommunia",
         "zh_Hant_TW": "Avannaata Kommunia",
         "zu": "Avannaata Kommunia",
-        "zu_ZA": "Avannaata Kommunia"
+        "zu_ZA": "Avannaata Kommunia",
+        "sr@latin": "Avannaata Kommunia",
+        "tt@iqtelif": "Avannaata Kommunia"
     },
     "KU": {
         "af": "Kommune Kujalleq",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Kommune Kujalleq",
         "zh_Hant_TW": "Kommune Kujalleq",
         "zu": "Kommune Kujalleq",
-        "zu_ZA": "Kommune Kujalleq"
+        "zu_ZA": "Kommune Kujalleq",
+        "sr@latin": "Kommune Kujalleq",
+        "tt@iqtelif": "Kommune Kujalleq"
     },
     "QE": {
         "af": "Qeqqata Kommunia",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Qeqqata Kommunia",
         "zh_Hant_TW": "Qeqqata Kommunia",
         "zu": "Qeqqata Kommunia",
-        "zu_ZA": "Qeqqata Kommunia"
+        "zu_ZA": "Qeqqata Kommunia",
+        "sr@latin": "Qeqqata Kommunia",
+        "tt@iqtelif": "Qeqqata Kommunia"
     },
     "QT": {
         "af": "Kommune Qeqertalik",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Kommune Qeqertalik",
         "zh_Hant_TW": "Kommune Qeqertalik",
         "zu": "Kommune Qeqertalik",
-        "zu_ZA": "Kommune Qeqertalik"
+        "zu_ZA": "Kommune Qeqertalik",
+        "sr@latin": "Kommune Qeqertalik",
+        "tt@iqtelif": "Kommune Qeqertalik"
     },
     "SM": {
         "af": "Kommuneqarfik Sermersooq",
@@ -4412,6 +4420,8 @@
         "zh_Hant_MY": "Kommuneqarfik Sermersooq",
         "zh_Hant_TW": "Kommuneqarfik Sermersooq",
         "zu": "Kommuneqarfik Sermersooq",
-        "zu_ZA": "Kommuneqarfik Sermersooq"
+        "zu_ZA": "Kommuneqarfik Sermersooq",
+        "sr@latin": "Kommuneqarfik Sermersooq",
+        "tt@iqtelif": "Kommuneqarfik Sermersooq"
     }
 }

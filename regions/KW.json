@@ -880,7 +880,9 @@
         "zh_Hant_MY": "Al Aḩmadī",
         "zh_Hant_TW": "Al Aḩmadī",
         "zu": "Al Aḩmadī",
-        "zu_ZA": "Al Aḩmadī"
+        "zu_ZA": "Al Aḩmadī",
+        "sr@latin": "Al Aḩmadī",
+        "tt@iqtelif": "Al Aḩmadī"
     },
     "FA": {
         "af": "Al Farwānīyah",
@@ -1763,7 +1765,9 @@
         "zh_Hant_MY": "Al Farwānīyah",
         "zh_Hant_TW": "Al Farwānīyah",
         "zu": "Al Farwānīyah",
-        "zu_ZA": "Al Farwānīyah"
+        "zu_ZA": "Al Farwānīyah",
+        "sr@latin": "Al Farwānīyah",
+        "tt@iqtelif": "Al Farwānīyah"
     },
     "HA": {
         "af": "Ḩawallī",
@@ -2646,7 +2650,9 @@
         "zh_Hant_MY": "Ḩawallī",
         "zh_Hant_TW": "Ḩawallī",
         "zu": "Ḩawallī",
-        "zu_ZA": "Ḩawallī"
+        "zu_ZA": "Ḩawallī",
+        "sr@latin": "Ḩawallī",
+        "tt@iqtelif": "Ḩawallī"
     },
     "JA": {
         "af": "Al Jahrā’",
@@ -3529,7 +3535,9 @@
         "zh_Hant_MY": "Al Jahrā’",
         "zh_Hant_TW": "Al Jahrā’",
         "zu": "Al Jahrā’",
-        "zu_ZA": "Al Jahrā’"
+        "zu_ZA": "Al Jahrā’",
+        "sr@latin": "Al Jahrā’",
+        "tt@iqtelif": "Al Jahrā’"
     },
     "KU": {
         "af": "Al ‘Āşimah",
@@ -4412,7 +4420,9 @@
         "zh_Hant_MY": "Al ‘Āşimah",
         "zh_Hant_TW": "Al ‘Āşimah",
         "zu": "Al ‘Āşimah",
-        "zu_ZA": "Al ‘Āşimah"
+        "zu_ZA": "Al ‘Āşimah",
+        "sr@latin": "Al ‘Āşimah",
+        "tt@iqtelif": "Al ‘Āşimah"
     },
     "MU": {
         "af": "Mubārak al Kabīr",
@@ -5295,6 +5305,8 @@
         "zh_Hant_MY": "Mubārak al Kabīr",
         "zh_Hant_TW": "Mubārak al Kabīr",
         "zu": "Mubārak al Kabīr",
-        "zu_ZA": "Mubārak al Kabīr"
+        "zu_ZA": "Mubārak al Kabīr",
+        "sr@latin": "Mubarak al Kabir",
+        "tt@iqtelif": "Mubārak al Kabīr"
     }
 }

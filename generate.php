@@ -13,6 +13,22 @@ use Symfony\Component\Translation\Loader\MoFileLoader;
 $allIntlLocales = ResourceBundle::getLocales('');
 echo "Found " . count($allIntlLocales) . " locales from intl extension\n";
 
+// Also add locales from translation directories (like @latin variants)
+$translationBasePath = 'vendor/sokil/php-isocodes-db-i18n/messages';
+if (is_dir($translationBasePath)) {
+    $dirs = scandir($translationBasePath);
+    foreach ($dirs as $dir) {
+        if ($dir !== '.' && $dir !== '..' && is_dir($translationBasePath . '/' . $dir)) {
+            // Add special locales with @ suffix that aren't in intl
+            if (strpos($dir, '@') !== false && !in_array($dir, $allIntlLocales)) {
+                $allIntlLocales[] = $dir;
+            }
+        }
+    }
+}
+
+echo "Total locales to process (including @ variants): " . count($allIntlLocales) . "\n";
+
 $countriesData = [];
 
 // Process each intl locale
