@@ -1,0 +1,75 @@
+{
+    "country": {
+        "id": "data\/SR",
+        "key": "SR",
+        "name": "SURINAME",
+        "lang": "nl",
+        "languages": "nl",
+        "fmt": "%N%n%O%n%A%n%C%n%S",
+        "upper": "AS",
+        "sub_keys": "Brokopondo~Commewijne~Coronie~Marowijne~Nickerie~Para~Paramaribo~Saramacca~Sipaliwini~Wanica",
+        "sub_isoids": "BR~CM~CR~MA~NI~PR~PM~SA~SI~WA"
+    },
+    "subdivisions": {
+        "Brokopondo": {
+            "id": "data\/SR\/Brokopondo",
+            "key": "Brokopondo",
+            "lang": "nl",
+            "isoid": "BR"
+        },
+        "Commewijne": {
+            "id": "data\/SR\/Commewijne",
+            "key": "Commewijne",
+            "lang": "nl",
+            "isoid": "CM"
+        },
+        "Coronie": {
+            "id": "data\/SR\/Coronie",
+            "key": "Coronie",
+            "lang": "nl",
+            "isoid": "CR"
+        },
+        "Marowijne": {
+            "id": "data\/SR\/Marowijne",
+            "key": "Marowijne",
+            "lang": "nl",
+            "isoid": "MA"
+        },
+        "Nickerie": {
+            "id": "data\/SR\/Nickerie",
+            "key": "Nickerie",
+            "lang": "nl",
+            "isoid": "NI"
+        },
+        "Para": {
+            "id": "data\/SR\/Para",
+            "key": "Para",
+            "lang": "nl",
+            "isoid": "PR"
+        },
+        "Paramaribo": {
+            "id": "data\/SR\/Paramaribo",
+            "key": "Paramaribo",
+            "lang": "nl",
+            "isoid": "PM"
+        },
+        "Saramacca": {
+            "id": "data\/SR\/Saramacca",
+            "key": "Saramacca",
+            "lang": "nl",
+            "isoid": "SA"
+        },
+        "Sipaliwini": {
+            "id": "data\/SR\/Sipaliwini",
+            "key": "Sipaliwini",
+            "lang": "nl",
+            "isoid": "SI"
+        },
+        "Wanica": {
+            "id": "data\/SR\/Wanica",
+            "key": "Wanica",
+            "lang": "nl",
+            "isoid": "WA"
+        }
+    }
+}

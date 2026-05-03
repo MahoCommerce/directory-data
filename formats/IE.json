@@ -1,0 +1,176 @@
+{
+    "country": {
+        "id": "data\/IE",
+        "key": "IE",
+        "name": "IRELAND",
+        "lang": "en",
+        "languages": "en",
+        "fmt": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
+        "zip": "[\\dA-Z]{3} ?[\\dA-Z]{4}",
+        "zipex": "A65 F4E2",
+        "posturl": "https:\/\/finder.eircode.ie",
+        "zip_name_type": "eircode",
+        "state_name_type": "county",
+        "sublocality_name_type": "townland",
+        "sub_keys": "Co. Carlow~Co. Cavan~Co. Clare~Co. Cork~Co. Donegal~Co. Dublin~Co. Galway~Co. Kerry~Co. Kildare~Co. Kilkenny~Co. Laois~Co. Leitrim~Co. Limerick~Co. Longford~Co. Louth~Co. Mayo~Co. Meath~Co. Monaghan~Co. Offaly~Co. Roscommon~Co. Sligo~Co. Tipperary~Co. Waterford~Co. Westmeath~Co. Wexford~Co. Wicklow",
+        "sub_isoids": "CW~CN~CE~CO~DL~D~G~KY~KE~KK~LS~LM~LK~LD~LH~MO~MH~MN~OY~RN~SO~TA~WD~WH~WX~WW"
+    },
+    "subdivisions": {
+        "Co. Carlow": {
+            "id": "data\/IE\/Co. Carlow",
+            "key": "Co. Carlow",
+            "lang": "en",
+            "isoid": "CW"
+        },
+        "Co. Cavan": {
+            "id": "data\/IE\/Co. Cavan",
+            "key": "Co. Cavan",
+            "lang": "en",
+            "isoid": "CN"
+        },
+        "Co. Clare": {
+            "id": "data\/IE\/Co. Clare",
+            "key": "Co. Clare",
+            "lang": "en",
+            "isoid": "CE"
+        },
+        "Co. Cork": {
+            "id": "data\/IE\/Co. Cork",
+            "key": "Co. Cork",
+            "lang": "en",
+            "isoid": "CO"
+        },
+        "Co. Donegal": {
+            "id": "data\/IE\/Co. Donegal",
+            "key": "Co. Donegal",
+            "lang": "en",
+            "isoid": "DL"
+        },
+        "Co. Dublin": {
+            "id": "data\/IE\/Co. Dublin",
+            "key": "Co. Dublin",
+            "lang": "en",
+            "isoid": "D"
+        },
+        "Co. Galway": {
+            "id": "data\/IE\/Co. Galway",
+            "key": "Co. Galway",
+            "lang": "en",
+            "isoid": "G"
+        },
+        "Co. Kerry": {
+            "id": "data\/IE\/Co. Kerry",
+            "key": "Co. Kerry",
+            "lang": "en",
+            "isoid": "KY"
+        },
+        "Co. Kildare": {
+            "id": "data\/IE\/Co. Kildare",
+            "key": "Co. Kildare",
+            "lang": "en",
+            "isoid": "KE"
+        },
+        "Co. Kilkenny": {
+            "id": "data\/IE\/Co. Kilkenny",
+            "key": "Co. Kilkenny",
+            "lang": "en",
+            "isoid": "KK"
+        },
+        "Co. Laois": {
+            "id": "data\/IE\/Co. Laois",
+            "key": "Co. Laois",
+            "lang": "en",
+            "isoid": "LS"
+        },
+        "Co. Leitrim": {
+            "id": "data\/IE\/Co. Leitrim",
+            "key": "Co. Leitrim",
+            "lang": "en",
+            "isoid": "LM"
+        },
+        "Co. Limerick": {
+            "id": "data\/IE\/Co. Limerick",
+            "key": "Co. Limerick",
+            "lang": "en",
+            "isoid": "LK"
+        },
+        "Co. Longford": {
+            "id": "data\/IE\/Co. Longford",
+            "key": "Co. Longford",
+            "lang": "en",
+            "isoid": "LD"
+        },
+        "Co. Louth": {
+            "id": "data\/IE\/Co. Louth",
+            "key": "Co. Louth",
+            "lang": "en",
+            "isoid": "LH"
+        },
+        "Co. Mayo": {
+            "id": "data\/IE\/Co. Mayo",
+            "key": "Co. Mayo",
+            "lang": "en",
+            "isoid": "MO"
+        },
+        "Co. Meath": {
+            "id": "data\/IE\/Co. Meath",
+            "key": "Co. Meath",
+            "lang": "en",
+            "isoid": "MH"
+        },
+        "Co. Monaghan": {
+            "id": "data\/IE\/Co. Monaghan",
+            "key": "Co. Monaghan",
+            "lang": "en",
+            "isoid": "MN"
+        },
+        "Co. Offaly": {
+            "id": "data\/IE\/Co. Offaly",
+            "key": "Co. Offaly",
+            "lang": "en",
+            "isoid": "OY"
+        },
+        "Co. Roscommon": {
+            "id": "data\/IE\/Co. Roscommon",
+            "key": "Co. Roscommon",
+            "lang": "en",
+            "isoid": "RN"
+        },
+        "Co. Sligo": {
+            "id": "data\/IE\/Co. Sligo",
+            "key": "Co. Sligo",
+            "lang": "en",
+            "isoid": "SO"
+        },
+        "Co. Tipperary": {
+            "id": "data\/IE\/Co. Tipperary",
+            "key": "Co. Tipperary",
+            "lang": "en",
+            "isoid": "TA"
+        },
+        "Co. Waterford": {
+            "id": "data\/IE\/Co. Waterford",
+            "key": "Co. Waterford",
+            "lang": "en",
+            "isoid": "WD"
+        },
+        "Co. Westmeath": {
+            "id": "data\/IE\/Co. Westmeath",
+            "key": "Co. Westmeath",
+            "lang": "en",
+            "isoid": "WH"
+        },
+        "Co. Wexford": {
+            "id": "data\/IE\/Co. Wexford",
+            "key": "Co. Wexford",
+            "lang": "en",
+            "isoid": "WX"
+        },
+        "Co. Wicklow": {
+            "id": "data\/IE\/Co. Wicklow",
+            "key": "Co. Wicklow",
+            "lang": "en",
+            "isoid": "WW"
+        }
+    }
+}

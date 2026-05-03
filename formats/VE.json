@@ -1,0 +1,170 @@
+{
+    "country": {
+        "id": "data\/VE",
+        "key": "VE",
+        "name": "VENEZUELA",
+        "lang": "es",
+        "languages": "es",
+        "fmt": "%N%n%O%n%A%n%C %Z, %S",
+        "require": "ACS",
+        "upper": "CS",
+        "zip": "\\d{4}",
+        "zipex": "1010,3001,8011,1020",
+        "posturl": "http:\/\/postcode.vnpost.vn\/services\/search.aspx",
+        "state_name_type": "state",
+        "sub_keys": "Amazonas~Anzoátegui~Apure~Aragua~Barinas~Bolívar~Carabobo~Cojedes~Delta Amacuro~Dependencias Federales~Distrito Federal~Falcón~Guárico~Lara~Mérida~Miranda~Monagas~Nueva Esparta~Portuguesa~Sucre~Táchira~Trujillo~Vargas~Yaracuy~Zulia",
+        "sub_isoids": "Z~B~C~D~E~F~G~H~Y~W~A~I~J~K~L~M~N~O~P~R~S~T~X~U~V"
+    },
+    "subdivisions": {
+        "Amazonas": {
+            "id": "data\/VE\/Amazonas",
+            "key": "Amazonas",
+            "lang": "es",
+            "isoid": "Z"
+        },
+        "Anzoátegui": {
+            "id": "data\/VE\/Anzoátegui",
+            "key": "Anzoátegui",
+            "lang": "es",
+            "isoid": "B"
+        },
+        "Apure": {
+            "id": "data\/VE\/Apure",
+            "key": "Apure",
+            "lang": "es",
+            "isoid": "C"
+        },
+        "Aragua": {
+            "id": "data\/VE\/Aragua",
+            "key": "Aragua",
+            "lang": "es",
+            "isoid": "D"
+        },
+        "Barinas": {
+            "id": "data\/VE\/Barinas",
+            "key": "Barinas",
+            "lang": "es",
+            "isoid": "E"
+        },
+        "Bolívar": {
+            "id": "data\/VE\/Bolívar",
+            "key": "Bolívar",
+            "lang": "es",
+            "isoid": "F"
+        },
+        "Carabobo": {
+            "id": "data\/VE\/Carabobo",
+            "key": "Carabobo",
+            "lang": "es",
+            "isoid": "G"
+        },
+        "Cojedes": {
+            "id": "data\/VE\/Cojedes",
+            "key": "Cojedes",
+            "lang": "es",
+            "isoid": "H"
+        },
+        "Delta Amacuro": {
+            "id": "data\/VE\/Delta Amacuro",
+            "key": "Delta Amacuro",
+            "lang": "es",
+            "isoid": "Y"
+        },
+        "Dependencias Federales": {
+            "id": "data\/VE\/Dependencias Federales",
+            "key": "Dependencias Federales",
+            "lang": "es",
+            "isoid": "W"
+        },
+        "Distrito Federal": {
+            "id": "data\/VE\/Distrito Federal",
+            "key": "Distrito Federal",
+            "lang": "es",
+            "isoid": "A"
+        },
+        "Falcón": {
+            "id": "data\/VE\/Falcón",
+            "key": "Falcón",
+            "lang": "es",
+            "isoid": "I"
+        },
+        "Guárico": {
+            "id": "data\/VE\/Guárico",
+            "key": "Guárico",
+            "lang": "es",
+            "isoid": "J"
+        },
+        "Lara": {
+            "id": "data\/VE\/Lara",
+            "key": "Lara",
+            "lang": "es",
+            "isoid": "K"
+        },
+        "Miranda": {
+            "id": "data\/VE\/Miranda",
+            "key": "Miranda",
+            "lang": "es",
+            "isoid": "M"
+        },
+        "Monagas": {
+            "id": "data\/VE\/Monagas",
+            "key": "Monagas",
+            "lang": "es",
+            "isoid": "N"
+        },
+        "Mérida": {
+            "id": "data\/VE\/Mérida",
+            "key": "Mérida",
+            "lang": "es",
+            "isoid": "L"
+        },
+        "Nueva Esparta": {
+            "id": "data\/VE\/Nueva Esparta",
+            "key": "Nueva Esparta",
+            "lang": "es",
+            "isoid": "O"
+        },
+        "Portuguesa": {
+            "id": "data\/VE\/Portuguesa",
+            "key": "Portuguesa",
+            "lang": "es",
+            "isoid": "P"
+        },
+        "Sucre": {
+            "id": "data\/VE\/Sucre",
+            "key": "Sucre",
+            "lang": "es",
+            "isoid": "R"
+        },
+        "Trujillo": {
+            "id": "data\/VE\/Trujillo",
+            "key": "Trujillo",
+            "lang": "es",
+            "isoid": "T"
+        },
+        "Táchira": {
+            "id": "data\/VE\/Táchira",
+            "key": "Táchira",
+            "lang": "es",
+            "isoid": "S"
+        },
+        "Vargas": {
+            "id": "data\/VE\/Vargas",
+            "key": "Vargas",
+            "lang": "es",
+            "isoid": "X"
+        },
+        "Yaracuy": {
+            "id": "data\/VE\/Yaracuy",
+            "key": "Yaracuy",
+            "lang": "es",
+            "isoid": "U"
+        },
+        "Zulia": {
+            "id": "data\/VE\/Zulia",
+            "key": "Zulia",
+            "lang": "es",
+            "isoid": "V"
+        }
+    }
+}

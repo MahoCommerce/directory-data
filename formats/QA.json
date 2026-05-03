@@ -1,0 +1,9 @@
+{
+    "country": {
+        "id": "data\/QA",
+        "key": "QA",
+        "name": "QATAR",
+        "upper": "AC"
+    },
+    "subdivisions": []
+}

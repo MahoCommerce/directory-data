@@ -1,0 +1,143 @@
+{
+    "country": {
+        "id": "data\/BS",
+        "key": "BS",
+        "name": "BAHAMAS",
+        "lang": "en",
+        "languages": "en",
+        "fmt": "%N%n%O%n%A%n%C, %S",
+        "state_name_type": "island",
+        "sub_keys": "Abaco~Acklins~Andros~Berry Islands~Bimini~Cat Island~Crooked Island~Eleuthera~Exuma~Grand Bahama~Harbour Island~Inagua~Long Island~Mayaguana~N.P.~Ragged Island~Rum Cay~San Salvador~Spanish Wells",
+        "sub_names": "Abaco Islands~Acklins~Andros Island~Berry Islands~Bimini~Cat Island~Crooked Island~Eleuthera~Exuma and Cays~Grand Bahama~Harbour Island~Inagua~Long Island~Mayaguana~New Providence~Ragged Island~Rum Cay~San Salvador~Spanish Wells",
+        "sub_isoids": "~AK~~BY~BI~CI~~~EX~~HI~IN~LI~MG~~RI~RC~SS~SW"
+    },
+    "subdivisions": {
+        "Abaco": {
+            "id": "data\/BS\/Abaco",
+            "key": "Abaco",
+            "name": "Abaco Islands",
+            "lang": "en"
+        },
+        "Acklins": {
+            "id": "data\/BS\/Acklins",
+            "key": "Acklins",
+            "name": "Acklins",
+            "lang": "en",
+            "isoid": "AK"
+        },
+        "Andros": {
+            "id": "data\/BS\/Andros",
+            "key": "Andros",
+            "name": "Andros Island",
+            "lang": "en"
+        },
+        "Berry Islands": {
+            "id": "data\/BS\/Berry Islands",
+            "key": "Berry Islands",
+            "name": "Berry Islands",
+            "lang": "en",
+            "isoid": "BY"
+        },
+        "Bimini": {
+            "id": "data\/BS\/Bimini",
+            "key": "Bimini",
+            "name": "Bimini",
+            "lang": "en",
+            "isoid": "BI"
+        },
+        "Cat Island": {
+            "id": "data\/BS\/Cat Island",
+            "key": "Cat Island",
+            "name": "Cat Island",
+            "lang": "en",
+            "isoid": "CI"
+        },
+        "Crooked Island": {
+            "id": "data\/BS\/Crooked Island",
+            "key": "Crooked Island",
+            "name": "Crooked Island",
+            "lang": "en"
+        },
+        "Eleuthera": {
+            "id": "data\/BS\/Eleuthera",
+            "key": "Eleuthera",
+            "name": "Eleuthera",
+            "lang": "en"
+        },
+        "Exuma": {
+            "id": "data\/BS\/Exuma",
+            "key": "Exuma",
+            "name": "Exuma and Cays",
+            "lang": "en",
+            "isoid": "EX"
+        },
+        "Grand Bahama": {
+            "id": "data\/BS\/Grand Bahama",
+            "key": "Grand Bahama",
+            "name": "Grand Bahama",
+            "lang": "en"
+        },
+        "Harbour Island": {
+            "id": "data\/BS\/Harbour Island",
+            "key": "Harbour Island",
+            "name": "Harbour Island",
+            "lang": "en",
+            "isoid": "HI"
+        },
+        "Inagua": {
+            "id": "data\/BS\/Inagua",
+            "key": "Inagua",
+            "name": "Inagua",
+            "lang": "en",
+            "isoid": "IN"
+        },
+        "Long Island": {
+            "id": "data\/BS\/Long Island",
+            "key": "Long Island",
+            "name": "Long Island",
+            "lang": "en",
+            "isoid": "LI"
+        },
+        "Mayaguana": {
+            "id": "data\/BS\/Mayaguana",
+            "key": "Mayaguana",
+            "name": "Mayaguana",
+            "lang": "en",
+            "isoid": "MG"
+        },
+        "N.P.": {
+            "id": "data\/BS\/N.P.",
+            "key": "N.P.",
+            "name": "New Providence",
+            "lang": "en"
+        },
+        "Ragged Island": {
+            "id": "data\/BS\/Ragged Island",
+            "key": "Ragged Island",
+            "name": "Ragged Island",
+            "lang": "en",
+            "isoid": "RI"
+        },
+        "Rum Cay": {
+            "id": "data\/BS\/Rum Cay",
+            "key": "Rum Cay",
+            "name": "Rum Cay",
+            "lang": "en",
+            "isoid": "RC"
+        },
+        "San Salvador": {
+            "id": "data\/BS\/San Salvador",
+            "key": "San Salvador",
+            "name": "San Salvador",
+            "lang": "en",
+            "isoid": "SS"
+        },
+        "Spanish Wells": {
+            "id": "data\/BS\/Spanish Wells",
+            "key": "Spanish Wells",
+            "name": "Spanish Wells",
+            "lang": "en",
+            "isoid": "SW"
+        }
+    }
+}

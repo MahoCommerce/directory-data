@@ -1,0 +1,100 @@
+{
+    "country": {
+        "id": "data\/JM",
+        "key": "JM",
+        "name": "JAMAICA",
+        "lang": "en",
+        "languages": "en",
+        "fmt": "%N%n%O%n%A%n%C%n%S %X",
+        "require": "ACS",
+        "state_name_type": "parish",
+        "sub_keys": "Clarendon~Hanover~Kingston~Manchester~Portland~St. Andrew~St. Ann~St. Catherine~St. Elizabeth~St. James~St. Mary~St. Thomas~Trelawny~Westmoreland",
+        "sub_isoids": "13~09~01~12~04~02~06~14~11~08~05~03~07~10"
+    },
+    "subdivisions": {
+        "Clarendon": {
+            "id": "data\/JM\/Clarendon",
+            "key": "Clarendon",
+            "lang": "en",
+            "isoid": "13"
+        },
+        "Hanover": {
+            "id": "data\/JM\/Hanover",
+            "key": "Hanover",
+            "lang": "en",
+            "isoid": "09"
+        },
+        "Kingston": {
+            "id": "data\/JM\/Kingston",
+            "key": "Kingston",
+            "lang": "en",
+            "isoid": "01"
+        },
+        "Manchester": {
+            "id": "data\/JM\/Manchester",
+            "key": "Manchester",
+            "lang": "en",
+            "isoid": "12"
+        },
+        "Portland": {
+            "id": "data\/JM\/Portland",
+            "key": "Portland",
+            "lang": "en",
+            "isoid": "04"
+        },
+        "St. Andrew": {
+            "id": "data\/JM\/St. Andrew",
+            "key": "St. Andrew",
+            "lang": "en",
+            "isoid": "02"
+        },
+        "St. Ann": {
+            "id": "data\/JM\/St. Ann",
+            "key": "St. Ann",
+            "lang": "en",
+            "isoid": "06"
+        },
+        "St. Catherine": {
+            "id": "data\/JM\/St. Catherine",
+            "key": "St. Catherine",
+            "lang": "en",
+            "isoid": "14"
+        },
+        "St. Elizabeth": {
+            "id": "data\/JM\/St. Elizabeth",
+            "key": "St. Elizabeth",
+            "lang": "en",
+            "isoid": "11"
+        },
+        "St. James": {
+            "id": "data\/JM\/St. James",
+            "key": "St. James",
+            "lang": "en",
+            "isoid": "08"
+        },
+        "St. Mary": {
+            "id": "data\/JM\/St. Mary",
+            "key": "St. Mary",
+            "lang": "en",
+            "isoid": "05"
+        },
+        "St. Thomas": {
+            "id": "data\/JM\/St. Thomas",
+            "key": "St. Thomas",
+            "lang": "en",
+            "isoid": "03"
+        },
+        "Trelawny": {
+            "id": "data\/JM\/Trelawny",
+            "key": "Trelawny",
+            "lang": "en",
+            "isoid": "07"
+        },
+        "Westmoreland": {
+            "id": "data\/JM\/Westmoreland",
+            "key": "Westmoreland",
+            "lang": "en",
+            "isoid": "10"
+        }
+    }
+}

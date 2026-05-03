@@ -1,0 +1,69 @@
+{
+    "country": {
+        "id": "data\/TV",
+        "key": "TV",
+        "name": "TUVALU",
+        "lang": "tyv",
+        "languages": "tyv",
+        "fmt": "%N%n%O%n%A%n%C%n%S",
+        "upper": "ACS",
+        "state_name_type": "island",
+        "sub_keys": "Funafuti~Nanumanga~Nanumea~Niulakita~Niutao~Nui~Nukufetau~Nukulaelae~Vaitupu",
+        "sub_isoids": "FUN~NMG~NMA~~NIT~NUI~NKF~NKL~VAI"
+    },
+    "subdivisions": {
+        "Funafuti": {
+            "id": "data\/TV\/Funafuti",
+            "key": "Funafuti",
+            "lang": "tyv",
+            "isoid": "FUN"
+        },
+        "Nanumanga": {
+            "id": "data\/TV\/Nanumanga",
+            "key": "Nanumanga",
+            "lang": "tyv",
+            "isoid": "NMG"
+        },
+        "Nanumea": {
+            "id": "data\/TV\/Nanumea",
+            "key": "Nanumea",
+            "lang": "tyv",
+            "isoid": "NMA"
+        },
+        "Niulakita": {
+            "id": "data\/TV\/Niulakita",
+            "key": "Niulakita",
+            "lang": "tyv"
+        },
+        "Niutao": {
+            "id": "data\/TV\/Niutao",
+            "key": "Niutao",
+            "lang": "tyv",
+            "isoid": "NIT"
+        },
+        "Nui": {
+            "id": "data\/TV\/Nui",
+            "key": "Nui",
+            "lang": "tyv",
+            "isoid": "NUI"
+        },
+        "Nukufetau": {
+            "id": "data\/TV\/Nukufetau",
+            "key": "Nukufetau",
+            "lang": "tyv",
+            "isoid": "NKF"
+        },
+        "Nukulaelae": {
+            "id": "data\/TV\/Nukulaelae",
+            "key": "Nukulaelae",
+            "lang": "tyv",
+            "isoid": "NKL"
+        },
+        "Vaitupu": {
+            "id": "data\/TV\/Vaitupu",
+            "key": "Vaitupu",
+            "lang": "tyv",
+            "isoid": "VAI"
+        }
+    }
+}

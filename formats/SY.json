@@ -1,0 +1,9 @@
+{
+    "country": {
+        "id": "data\/SY",
+        "key": "SY",
+        "name": "SYRIA",
+        "locality_name_type": "district"
+    },
+    "subdivisions": []
+}
