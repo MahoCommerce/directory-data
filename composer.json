@@ -1,7 +1,7 @@
 {
     "name": "mahocommerce/directory-data",
-    "description": "Multilingual country and region JSON data",
-    "type": "project",
+    "description": "Multilingual country and region JSON data plus per-country address format metadata (postcode regex, required fields, format templates) for international e-commerce",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,16 +10,27 @@
         }
     ],
     "require": {
-        "php": ">=8.3",
+        "php": ">=8.3"
+    },
+    "require-dev": {
         "ext-intl": "*",
-        "sokil/php-isocodes": "^4.3",
+        "sokil/php-isocodes": "^4.4",
         "sokil/php-isocodes-db-i18n": "^4.0",
-        "symfony/translation": "^7.3"
+        "symfony/translation": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MahoCommerce\\DirectoryData\\": "src/"
+        }
     },
     "keywords": [
         "iso",
         "countries",
         "regions",
+        "address",
+        "postcode",
+        "address-validation",
+        "libaddressinput",
         "localization",
         "i18n",
         "translation",

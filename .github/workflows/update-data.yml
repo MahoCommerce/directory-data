@@ -1,15 +1,18 @@
-name: Update ISO Locale Data
+name: Update data and release
 
 on:
   schedule:
-    # Run every Sunday at 02:00 UTC
+    # Every Sunday at 02:00 UTC
     - cron: '0 2 * * 0'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-data:
+  update-and-release:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Generate token
         id: generate_token
@@ -18,63 +21,107 @@ jobs:
           app-id: ${{ secrets.SYNC_L10N_APP_ID }}
           private-key: ${{ secrets.SYNC_L10N_APP_PRIVATE_KEY }}
           owner: MahoCommerce
-      
+
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
           token: ${{ steps.generate_token.outputs.token }}
-      
+          fetch-depth: 0
+
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: 'latest'
           extensions: intl, mbstring, json
           coverage: none
-      
+
       - name: Install dependencies
-        run: composer install --no-dev --optimize-autoloader
-      
-      - name: Generate locale data
+        run: composer install --optimize-autoloader
+
+      - name: Generate countries + regions data
         run: php generate.php
-      
-      - name: Check for changes
+
+      - name: Generate libaddressinput formats data
+        run: php generate-formats.php
+
+      - name: Validate generated data
+        run: |
+          set -e
+          test -f countries.json
+          php -r '$d = json_decode(file_get_contents("countries.json"), true); if (!is_array($d) || count($d) < 240) { fwrite(STDERR, "countries.json invalid or too small\n"); exit(1); } if (empty($d["US"]["en"]) || empty($d["IT"]["en"])) { fwrite(STDERR, "countries.json missing canonical entries\n"); exit(1); }'
+          test -d regions
+          php -r '$f = glob("regions/*.json"); if (count($f) < 100) { fwrite(STDERR, "regions/ has <100 files\n"); exit(1); } foreach ($f as $p) { $d = json_decode(file_get_contents($p), true); if (!is_array($d)) { fwrite(STDERR, "$p not valid JSON\n"); exit(1); } }'
+          test -d formats
+          php -r '$f = glob("formats/*.json"); if (count($f) < 200) { fwrite(STDERR, "formats/ has <200 files\n"); exit(1); } foreach ($f as $p) { $d = json_decode(file_get_contents($p), true); if (!is_array($d) || empty($d["country"]["key"])) { fwrite(STDERR, "$p missing country.key\n"); exit(1); } }'
+          php -r '$d = json_decode(file_get_contents("formats/US.json"), true); if (empty($d["country"]["fmt"]) || empty($d["country"]["zip"])) { fwrite(STDERR, "US format missing fmt/zip\n"); exit(1); }'
+          php -r '$d = json_decode(file_get_contents("formats/IT.json"), true); if (empty($d["country"]["fmt"]) || empty($d["country"]["zip"])) { fwrite(STDERR, "IT format missing fmt/zip\n"); exit(1); }'
+          echo "Validation passed."
+
+      - name: Detect changes
         id: changes
         run: |
-          # Check both staged and unstaged changes
-          git add -A
+          git add -A countries.json regions/ formats/
           if git diff --cached --quiet; then
             echo "No changes detected"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "Changes detected"
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            # Get current date for branch name
-            echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-            # Show what changed for debugging
             echo "Files changed:"
             git diff --cached --name-status
           fi
-      
-      - name: Create Pull Request
+
+      - name: Compute next version tag
         if: steps.changes.outputs.has_changes == 'true'
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ steps.generate_token.outputs.token }}
-          commit-message: "Update ISO locale data - ${{ steps.changes.outputs.date }}"
-          title: "🌍 Update ISO locale data - ${{ steps.changes.outputs.date }}"
-          body: |
-            ## Automated ISO Locale Data Update
-            
-            This PR contains updated country and region locale data generated from the latest upstream sources.
-            
-            This update was automatically generated on ${{ steps.changes.outputs.date }}.
-          branch: "update-locale-data-${{ steps.changes.outputs.date }}"
-          delete-branch: true
-      
+        id: version
+        run: |
+          TODAY=$(date -u +'%Y%m%d')
+          LATEST=$(git tag --list '[0-9]*.[0-9]*.[0-9]*' --sort=-v:refname | head -n1)
+          if [ -z "$LATEST" ]; then
+            MAJOR=1
+            MINOR=0
+          else
+            MAJOR=$(echo "$LATEST" | cut -d. -f1)
+            MINOR=$(echo "$LATEST" | cut -d. -f2)
+          fi
+          NEW_TAG="${MAJOR}.${MINOR}.${TODAY}"
+          if git rev-parse "$NEW_TAG" >/dev/null 2>&1; then
+            COUNTER=1
+            while git rev-parse "${NEW_TAG}.${COUNTER}" >/dev/null 2>&1; do
+              COUNTER=$((COUNTER + 1))
+            done
+            NEW_TAG="${NEW_TAG}.${COUNTER}"
+          fi
+          echo "new_tag=$NEW_TAG" >> $GITHUB_OUTPUT
+          echo "Next tag: $NEW_TAG"
+
+      - name: Configure git identity
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "maho-data-bot"
+          git config user.email "bot@mahocommerce.com"
+
+      - name: Commit, tag, and push
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git commit -m "Update data — ${{ steps.version.outputs.new_tag }}"
+          git tag -a "${{ steps.version.outputs.new_tag }}" -m "Automated data snapshot ${{ steps.version.outputs.new_tag }}"
+          git push origin HEAD
+          git push origin "${{ steps.version.outputs.new_tag }}"
+
+      - name: Create GitHub release
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
+        run: |
+          gh release create "${{ steps.version.outputs.new_tag }}" \
+            --title "${{ steps.version.outputs.new_tag }}" \
+            --notes "Automated upstream data refresh. See commit diff for details."
+
       - name: Output result
         run: |
           if [ "${{ steps.changes.outputs.has_changes }}" == "true" ]; then
-            echo "✅ Pull request created with updated locale data"
+            echo "Released ${{ steps.version.outputs.new_tag }}"
           else
-            echo "ℹ️ No changes detected - data is up to date"
+            echo "No changes — nothing to release."
           fi

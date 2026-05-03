@@ -24,13 +24,26 @@ SOFTWARE.
 
 DATA ATTRIBUTION AND LICENSING
 
-The country, subdivision, and translation data used by this project is derived from:
+The MIT license above covers the repository's code (generators, the
+MahoCommerce\DirectoryData\Paths shim, and workflow definitions). The data
+files are derived from upstream sources with their own licenses, listed below.
+Downstream consumers redistributing any of these data files must preserve the
+relevant attribution.
 
-1. Debian's iso-codes project: https://salsa.debian.org/iso-codes-team/iso-codes
-   Licensed under LGPL-2.1+
+1. countries.json and regions/*.json
+   Derived from:
+   - Debian's iso-codes project: https://salsa.debian.org/iso-codes-team/iso-codes
+     Licensed under LGPL-2.1+
+   - PHP ISO Codes library (sokil/php-isocodes): https://github.com/sokil/php-isocodes
+     Licensed under MIT
+   - PHP ISO Codes Database (sokil/php-isocodes-db-i18n): https://github.com/sokil/php-isocodes-db-i18n
+     Licensed under MIT
 
-2. PHP ISO Codes library (sokil/php-isocodes): https://github.com/sokil/php-isocodes
-   Licensed under MIT
-
-3. PHP ISO Codes Database (sokil/php-isocodes-db-i18n): https://github.com/sokil/php-isocodes-db-i18n
-   Licensed under MIT
+2. formats/*.json
+   Derived from Google's libaddressinput Address Data Service:
+   https://github.com/google/libaddressinput
+   Source endpoint: https://chromium-i18n.appspot.com/ssl-aggregate-address/data/
+   Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+   Modifications: upstream "data/<CC>" / "data/<CC>/<SUB>" key structure is
+   flattened into a "country" / "subdivisions" split per file; all upstream
+   fields are preserved verbatim.
