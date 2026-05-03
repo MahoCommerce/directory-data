@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MahoCommerce\DirectoryData;
+namespace Maho\DirectoryData;
 
 /**
  * Resolves filesystem paths to the data files shipped by this package, regardless

@@ -55,10 +55,10 @@ composer require mahocommerce/directory-data
 
 ## Reading the Data
 
-Use `MahoCommerce\DirectoryData\Paths` to resolve file locations — never hardcode `vendor/mahocommerce/directory-data/...` since consumers may customize Composer's `vendor-dir`.
+Use `Maho\DirectoryData\Paths` to resolve file locations — never hardcode `vendor/mahocommerce/directory-data/...` since consumers may customize Composer's `vendor-dir`.
 
 ```php
-use MahoCommerce\DirectoryData\Paths;
+use Maho\DirectoryData\Paths;
 
 $countries = json_decode(file_get_contents(Paths::countriesFile()), true);
 $itRegions = json_decode(file_get_contents(Paths::regionsFile('IT')), true);

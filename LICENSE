@@ -25,7 +25,7 @@ SOFTWARE.
 DATA ATTRIBUTION AND LICENSING
 
 The MIT license above covers the repository's code (generators, the
-MahoCommerce\DirectoryData\Paths shim, and workflow definitions). The data
+Maho\DirectoryData\Paths shim, and workflow definitions). The data
 files are derived from upstream sources with their own licenses, listed below.
 Downstream consumers redistributing any of these data files must preserve the
 relevant attribution.
