@@ -1,6 +1,7 @@
 {
     "AN": {
         "en": "Al Anbār",
+        "ba": "Анбар",
         "hi": "अल अनबर",
         "hu": "Al-Anbár",
         "nl": "Al-Anbar",
@@ -11,6 +12,7 @@
     },
     "AR": {
         "en": "Arbīl",
+        "ba": "Эрбиль",
         "hi": "आर्बिल",
         "hu": "Erbíl",
         "nl": "Erbil",
@@ -21,6 +23,7 @@
     },
     "BA": {
         "en": "Al Başrah",
+        "ba": "Басра",
         "hi": "अल बसरा",
         "hu": "Bászra",
         "nl": "Al-Basrah",
@@ -31,6 +34,7 @@
     },
     "BB": {
         "en": "Bābil",
+        "ba": "Бабиль",
         "hi": "बाबिल",
         "hu": "Bábil (Babilónia)",
         "nl": "Babil",
@@ -41,6 +45,7 @@
     },
     "BG": {
         "en": "Baghdād",
+        "ba": "Багдад",
         "hi": "बगदाद",
         "hr": "Bagdad",
         "hu": "Bagdad",
@@ -52,6 +57,7 @@
     },
     "DA": {
         "en": "Dahūk",
+        "ba": "Дахук",
         "hi": "दहूक",
         "hu": "Dahúk",
         "nl": "Duhok",
@@ -62,6 +68,7 @@
     },
     "DI": {
         "en": "Diyālá",
+        "ba": "Дияла",
         "hi": "डियाला",
         "hu": "Dijála",
         "nl": "Diyala",
@@ -71,6 +78,7 @@
     },
     "DQ": {
         "en": "Dhī Qār",
+        "ba": "Ди-Кар",
         "hi": "धी क़ार",
         "hu": "Dhi Kár",
         "nl": "Dhi Qar",
@@ -81,6 +89,7 @@
     },
     "KA": {
         "en": "Karbalā’",
+        "ba": "Кербела",
         "ga": "Karbalā'",
         "hi": "कर्बला'",
         "hu": "Karbala",
@@ -92,6 +101,7 @@
     },
     "KI": {
         "en": "Kirkūk",
+        "ba": "Киркук",
         "hi": "किर्कुक",
         "hu": "Kirkuk",
         "nl": "Kirkuk",
@@ -102,6 +112,7 @@
     },
     "MA": {
         "en": "Maysān",
+        "ba": "Майсан",
         "hi": "मेसैन",
         "hu": "Mészán (Maysan)",
         "nl": "Maysan",
@@ -111,6 +122,7 @@
     },
     "MU": {
         "en": "Al Muthanná",
+        "ba": "Мутанна",
         "hi": "अल मुथन्ना",
         "hu": "Al-Muthanna",
         "nl": "Al-Muthanna",
@@ -121,6 +133,7 @@
     },
     "NA": {
         "en": "An Najaf",
+        "ba": "Эн-Наджаф",
         "hi": "एन नजफ़",
         "hu": "An-Nadzsaf",
         "ka": "ნაჯაფი",
@@ -132,6 +145,7 @@
     },
     "NI": {
         "en": "Nīnawá",
+        "ba": "Найнава",
         "hi": "निनावा",
         "hu": "Ninive",
         "nl": "Ninawa",
@@ -142,6 +156,7 @@
     },
     "QA": {
         "en": "Al Qādisīyah",
+        "ba": "Кадисия",
         "hi": "अल क़ादिसियाह",
         "hu": "Al-Kádiszíja",
         "nl": "Al-Qadisiyah",
@@ -152,6 +167,7 @@
     },
     "SD": {
         "en": "Şalāḩ ad Dīn",
+        "ba": "Салах-эд-Дин",
         "hi": "शालाअद दीन",
         "hu": "Szaláh ad-Dín",
         "nl": "Salah ad Din",
@@ -162,6 +178,7 @@
     },
     "SU": {
         "en": "As Sulaymānīyah",
+        "ba": "Сулеймания",
         "ga": "Mar Sulaymānīyah",
         "hi": "अस सुलैमानियाह",
         "hu": "Szulejmánijja",
@@ -173,6 +190,7 @@
     },
     "WA": {
         "en": "Wāsiţ",
+        "ba": "Васит",
         "hi": "वसित",
         "hu": "Wászit",
         "nl": "Wasit",

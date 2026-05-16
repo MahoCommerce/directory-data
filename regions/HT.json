@@ -1,6 +1,7 @@
 {
     "AR": {
         "en": "Artibonite",
+        "ba": "Артибонит",
         "be": "Артыбаніт",
         "hi": "आर्टिबोनाइट",
         "ja": "アルトヴィン",
@@ -12,6 +13,7 @@
     },
     "CE": {
         "en": "Centre",
+        "ba": "Үҙәк",
         "be": "Цэнтральная",
         "bg": "Център",
         "el": "Κέντρο",
@@ -28,10 +30,12 @@
         "sr": "Централно",
         "ta": "மையம்",
         "tr": "Merkez",
-        "uk": "Центральний департамент"
+        "uk": "Центральний департамент",
+        "zh_CN": "中部"
     },
     "GA": {
         "en": "Grande’Anse",
+        "ba": "Гранд-Анс",
         "ga": "Grande'Anse",
         "hi": "ग्रांडएन्से",
         "hu": "Grande'Anse",
@@ -42,6 +46,7 @@
     },
     "ND": {
         "en": "Nord",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "eo": "Nordo",
         "ga": "An Tuaisceart",
@@ -56,10 +61,12 @@
         "pl": "Północny \/ Nord \/ Północna",
         "sr": "Север",
         "uk": "Нор",
-        "vi": "Miền Bắc"
+        "vi": "Miền Bắc",
+        "zh_CN": "北部省"
     },
     "NE": {
         "en": "Nord-Est",
+        "ba": "Төньяҡ-Көнсығыш",
         "be": "Паўночна-Усходні",
         "eo": "Nord-Oriento",
         "ga": "Oirthuaisceart",
@@ -71,10 +78,12 @@
         "sr": "Североисток",
         "ta": "Nord-est",
         "uk": "Північно-східний департамент",
-        "vi": "Miền Đông Bắc"
+        "vi": "Miền Đông Bắc",
+        "zh_CN": "东北区"
     },
     "NI": {
         "en": "Nippes",
+        "ba": "Нип",
         "ga": "Bric-a-brac",
         "hi": "निप्प्स",
         "ta": "நிப்புகள்",
@@ -82,6 +91,7 @@
     },
     "NO": {
         "en": "Nord-Ouest",
+        "ba": "Төньяҡ-Көнбайыш",
         "be": "Паўночна-Заходні",
         "eo": "Nord-Okcidento",
         "ga": "Iarthuaisceart",
@@ -95,10 +105,12 @@
         "sr": "Северозапад",
         "ta": "Nord-ouest",
         "uk": "Північно-західний департамент",
-        "vi": "Miền Tây Bắc"
+        "vi": "Miền Tây Bắc",
+        "zh_CN": "西北区"
     },
     "OU": {
         "en": "Ouest",
+        "ba": "Көнбайыш",
         "ga": "An tIarthar",
         "hi": "ऑएस्ट",
         "hu": "Nyugati régió",
@@ -107,6 +119,7 @@
     },
     "SD": {
         "en": "Sud",
+        "ba": "Көньяҡ",
         "ga": "An Deisceart",
         "hi": "सूद",
         "hu": "Déli régió",
@@ -115,6 +128,7 @@
     },
     "SE": {
         "en": "Sud-Est",
+        "ba": "Көньяҡ-Көнсығыш",
         "ga": "Oirdheisceart",
         "hi": "सूड-स्था",
         "hu": "Délkeleti régió",

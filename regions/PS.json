@@ -1,6 +1,7 @@
 {
     "BTH": {
         "en": "Bethlehem",
+        "ba": "Вифлеем",
         "be": "Віфлеем",
         "da": "Betlehem",
         "eo": "Bet-Leĥemo",
@@ -21,6 +22,7 @@
     },
     "DEB": {
         "en": "Deir El Balah",
+        "ba": "Дейр-эль-Балах",
         "be": "Дыр-эль-Балях",
         "de": "Dair al-Balah",
         "hi": "दीर अल बलाह",
@@ -32,6 +34,7 @@
     },
     "GZA": {
         "en": "Gaza",
+        "ba": "Газа",
         "be": "Газа",
         "hi": "गाजा",
         "hu": "Gáza",
@@ -41,10 +44,12 @@
         "sr": "Газа",
         "ta": "காசா",
         "tr": "Gazze",
-        "uk": "Газа"
+        "uk": "Газа",
+        "zh_CN": "加扎省"
     },
     "HBN": {
         "en": "Hebron",
+        "ba": "Хеврон",
         "be": "Хеўрон",
         "fr": "Hébron",
         "hi": "हेब्रोन",
@@ -58,6 +63,7 @@
     },
     "JEM": {
         "en": "Jerusalem",
+        "ba": "Иерусалим",
         "be": "Іерусалім",
         "eo": "Jerusalemo",
         "fr": "Jérusalem",
@@ -80,6 +86,7 @@
     },
     "JEN": {
         "en": "Jenin",
+        "ba": "Дженин",
         "be": "Джанін",
         "de": "Dschenin",
         "fr": "Jénine",
@@ -94,6 +101,7 @@
     },
     "JRH": {
         "en": "Jericho and Al Aghwar",
+        "ba": "Иерихон һәм Әл-Агвар",
         "de": "Jericho und Al Aghwar",
         "eo": "Jeriĥo kaj Al Aghwar",
         "ga": "Jericho agus Al Aghwar",
@@ -107,6 +115,7 @@
     },
     "KYS": {
         "en": "Khan Yunis",
+        "ba": "Хан-Юнис",
         "be": "Хан-Юнэс",
         "de": "Chan Yunis",
         "ga": "Khan YunisGeneric",
@@ -120,6 +129,7 @@
     },
     "NBS": {
         "en": "Nablus",
+        "ba": "Наблус",
         "be": "Наблус",
         "hi": "नब्लस",
         "hu": "Náblusz",
@@ -131,6 +141,7 @@
     },
     "NGZ": {
         "en": "North Gaza",
+        "ba": "Төньяҡ Газа",
         "be": "Паўночная Газа",
         "de": "Nordgaza",
         "eo": "Norda Gazao",
@@ -153,6 +164,7 @@
     },
     "QQA": {
         "en": "Qalqilya",
+        "ba": "Калькилия",
         "be": "Калькілія",
         "hi": "क़ल्किल्या",
         "hu": "Qalkília",
@@ -164,6 +176,7 @@
     },
     "RBH": {
         "en": "Ramallah",
+        "ba": "Рамалла",
         "be": "Рамала",
         "hi": "रामल्लाह",
         "ka": "რამალა",
@@ -176,6 +189,7 @@
     },
     "RFH": {
         "en": "Rafah",
+        "ba": "Рафах",
         "be": "Рафіах",
         "hi": "रफ़ा",
         "ka": "რაფახი",
@@ -186,6 +200,7 @@
     },
     "SLT": {
         "en": "Salfit",
+        "ba": "Сальфит",
         "be": "Салфіт",
         "hi": "सालफ़िट",
         "hu": "Szalfít",
@@ -194,6 +209,7 @@
     },
     "TBS": {
         "en": "Tubas",
+        "ba": "Тубас",
         "be": "Тубас",
         "hi": "टुबास",
         "hu": "Tubasz",
@@ -205,6 +221,7 @@
     },
     "TKM": {
         "en": "Tulkarm",
+        "ba": "Тулькарм",
         "be": "Тулькарэм",
         "fr": "Tulkarem",
         "hi": "तुलकर्म",

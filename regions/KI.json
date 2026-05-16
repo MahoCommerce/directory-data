@@ -1,6 +1,7 @@
 {
     "G": {
         "en": "Gilbert Islands",
+        "ba": "Гилберт утрауҙары",
         "be": "Астравы Гілберта",
         "da": "Gilbertøerne",
         "de": "Gilbertinseln",
@@ -22,10 +23,13 @@
         "ta": "கில்பர்ட் தீவுகள்",
         "tr": "Gilbert Adaları",
         "uk": "Острови Гільберта",
-        "vi": "Quần Đảo Gilbert"
+        "vi": "Quần Đảo Gilbert",
+        "zh_CN": "吉尔伯特群岛",
+        "zh_TW": "吉伯特群島"
     },
     "L": {
         "en": "Line Islands",
+        "ba": "Лайн утрауҙары",
         "be": "Выспы Лайн",
         "da": "Line-øerne",
         "de": "Linieinseln",
@@ -45,10 +49,13 @@
         "ta": "வரி தீவுகள்",
         "tr": "Line Adaları",
         "uk": "Острови Лайн",
-        "vi": "Quần Đảo Line"
+        "vi": "Quần Đảo Line",
+        "zh_CN": "莱恩群岛",
+        "zh_TW": "萊恩群島"
     },
     "P": {
         "en": "Phoenix Islands",
+        "ba": "Феникс утрауҙары",
         "be": "Выспы Фенікс",
         "da": "Phoenix-øerne",
         "de": "Phoenixinseln",
@@ -70,6 +77,8 @@
         "ta": "பீனிக்ச் தீவுகள்",
         "tr": "Phoenix Adaları",
         "uk": "Острови Фенікс",
-        "vi": "Quần Đảo Phoenix"
+        "vi": "Quần Đảo Phoenix",
+        "zh_CN": "菲尼克斯群岛",
+        "zh_TW": "費尼克斯島"
     }
 }

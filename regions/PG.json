@@ -1,6 +1,7 @@
 {
     "CPK": {
         "en": "Chimbu",
+        "ba": "Чимбу",
         "be": "Чымбу",
         "hi": "चिम्बु",
         "it": "Simbu",
@@ -10,10 +11,12 @@
         "ro": "Simbu (Chimbu)",
         "sr": "Чимбу",
         "ta": "சிம்பு",
-        "uk": "Чімбу"
+        "uk": "Чімбу",
+        "zh_CN": "钦布省"
     },
     "CPM": {
         "en": "Central",
+        "ba": "Үҙәк",
         "be": "Цэнтральная акруга",
         "el": "Κεντρική",
         "eo": "Centro",
@@ -34,10 +37,12 @@
         "th": "ภาคกลาง",
         "tr": "Merkezi",
         "uk": "Центральний округ",
-        "vi": "Miền Trung"
+        "vi": "Miền Trung",
+        "zh_CN": "中部"
     },
     "EBR": {
         "en": "East New Britain",
+        "ba": "Көнсығыш Яңы Британия",
         "be": "Усходняя Новая Брытанія",
         "eo": "Orienta Nov-Britio",
         "fr": "Nouvelle-Bretagne orientale",
@@ -52,10 +57,12 @@
         "sr": "Источна Нова Британија",
         "ta": "கிழக்கு நியூ பிரிட்டன்",
         "uk": "Східна Нова Британія",
-        "vi": "Đông New Britain"
+        "vi": "Đông New Britain",
+        "zh_CN": "东新不列颠省"
     },
     "EHG": {
         "en": "Eastern Highlands",
+        "ba": "Көнсығыш Хайлендс",
         "be": "Усходняе Нагор'е",
         "eo": "Orientaj Altaĵoj",
         "fr": "Highlands orientaux",
@@ -67,20 +74,24 @@
         "lt": "Rytų Hailandas",
         "ta": "கிழக்கு ஐலேண்ட்ச்",
         "uk": "Східне Нагір’я",
-        "vi": "Vùng Đông Cao Nguyên"
+        "vi": "Vùng Đông Cao Nguyên",
+        "zh_CN": "东高地省"
     },
     "EPW": {
         "en": "Enga",
+        "ba": "Энга",
         "be": "Энга",
         "ga": "Ní hea",
         "hi": "एंगा",
         "ja": "エンガ",
         "sr": "Енга",
         "ta": "எங்கா",
-        "uk": "Енга"
+        "uk": "Енга",
+        "zh_CN": "恩加省"
     },
     "ESW": {
         "en": "East Sepik",
+        "ba": "Көнсығыш Сепик",
         "be": "Усходні Сепік",
         "fr": "Spik oriental",
         "ga": "Sepik Thoir",
@@ -93,10 +104,12 @@
         "sr": "Источни Сепик",
         "ta": "கிழக்கு செபிக்",
         "uk": "Східний Сепік",
-        "vi": "Đông Sepik"
+        "vi": "Đông Sepik",
+        "zh_CN": "东塞皮克省"
     },
     "GPK": {
         "en": "Gulf",
+        "ba": "Галф",
         "be": "Галф",
         "da": "Golf",
         "fr": "Golfe",
@@ -108,10 +121,12 @@
         "lt": "Įlanka",
         "sr": "Голф",
         "ta": "வளைகுடா",
-        "uk": "Затока"
+        "uk": "Затока",
+        "zh_CN": "海湾省"
     },
     "HLA": {
         "en": "Hela",
+        "ba": "Хела",
         "ga": "Leigheas",
         "hi": "हेला",
         "ta": "எலா",
@@ -119,12 +134,14 @@
     },
     "JWK": {
         "en": "Jiwaka",
+        "ba": "Дживака",
         "hi": "जीवका",
         "ta": "சிவாகா",
         "uk": "Дживака"
     },
     "MBA": {
         "en": "Milne Bay",
+        "ba": "Милн-Бей",
         "be": "Заліў Мілна",
         "eo": "Golfo Milne",
         "fr": "Baie de Milne",
@@ -137,20 +154,24 @@
         "sr": "Милне Беј",
         "ta": "மில்னே பே",
         "uk": "Затока Мілна",
-        "vi": "Vịnh Milne"
+        "vi": "Vịnh Milne",
+        "zh_CN": "米尔恩湾省"
     },
     "MPL": {
         "en": "Morobe",
+        "ba": "Моробе",
         "be": "Маробе",
         "hi": "मोरोबे",
         "ja": "モロベ",
         "lt": "Morobis",
         "sr": "Моробе",
         "ta": "மோரோப்",
-        "uk": "Моробе"
+        "uk": "Моробе",
+        "zh_CN": "莫雷贝省"
     },
     "MPM": {
         "en": "Madang",
+        "ba": "Маданг",
         "be": "Маданг",
         "hi": "मदांग",
         "ja": "マダン",
@@ -158,20 +179,24 @@
         "sr": "Маданг",
         "ta": "மதங்",
         "th": "มาดัง",
-        "uk": "Маданг"
+        "uk": "Маданг",
+        "zh_CN": "马当省"
     },
     "MRL": {
         "en": "Manus",
+        "ba": "Манус",
         "be": "Манус",
         "hi": "मानुस",
         "ja": "マヌス島",
         "lt": "Manusas",
         "sr": "Манус",
         "ta": "மனுச்",
-        "uk": "Манус"
+        "uk": "Манус",
+        "zh_CN": "马努斯省"
     },
     "NIK": {
         "en": "New Ireland",
+        "ba": "Яңы Ирландия",
         "be": "Новая Ірландыя",
         "eo": "Nov-Irlando",
         "fr": "Nouvelle-Irlande",
@@ -186,10 +211,12 @@
         "ta": "புதிய அயர்லாந்து",
         "th": "นิวไอร์แลนด์",
         "uk": "Нова Ірландія",
-        "vi": "Ireland Mới"
+        "vi": "Ireland Mới",
+        "zh_CN": "新爱尔兰省"
     },
     "NPP": {
         "en": "Northern",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "el": "Βόρεια",
         "eo": "Nordo",
@@ -209,10 +236,12 @@
         "th": "ภาคเหนือ",
         "tr": "Kuzey",
         "uk": "Північна",
-        "vi": "Miền Bắc"
+        "vi": "Miền Bắc",
+        "zh_CN": "北部区"
     },
     "SAN": {
         "en": "West Sepik",
+        "ba": "Көнбайыш Сепик",
         "ga": "Sepik Thiar",
         "hi": "पश्चिम सेपिक",
         "hr": "Zapadni Sepik",
@@ -223,6 +252,7 @@
     },
     "SHM": {
         "en": "Southern Highlands",
+        "ba": "Көньяҡ Хайлендс",
         "be": "Паўднёвае Нагор'е",
         "eo": "Sudaj Altaĵoj",
         "fr": "Highlands méridionaux",
@@ -234,10 +264,12 @@
         "lt": "Pietų Hailandas",
         "ta": "தெற்கு ஐலேண்ட்ச்",
         "uk": "Південне Нагір’я",
-        "vi": "Vùng Nam Cao Nguyên"
+        "vi": "Vùng Nam Cao Nguyên",
+        "zh_CN": "南高地省"
     },
     "WBK": {
         "en": "West New Britain",
+        "ba": "Көнбайыш Яңы Британия",
         "be": "Заходняя Новая Брытанія",
         "eo": "Okcidenta Nov-Britio",
         "fr": "Nouvelle-Bretagne occidentale",
@@ -252,10 +284,12 @@
         "sr": "Западна Нова Британија",
         "ta": "மேற்கு நியூ பிரிட்டன்",
         "uk": "Західна Нова Британія",
-        "vi": "Tây New Britain"
+        "vi": "Tây New Britain",
+        "zh_CN": "西新不列颠省"
     },
     "WHM": {
         "en": "Western Highlands",
+        "ba": "Көнбайыш Хайлендс",
         "be": "Заходняе Нагор'е",
         "eo": "Okcidentaj Altaĵoj",
         "fr": "Highlands occidentaux",
@@ -267,10 +301,12 @@
         "lt": "Vakarų Hailandas",
         "ta": "வெச்டர்ன் ஐலேண்ட்ச்",
         "uk": "Західне Нагір’я",
-        "vi": "Vùng Tây Cao Nguyên"
+        "vi": "Vùng Tây Cao Nguyên",
+        "zh_CN": "西高地省"
     },
     "WPD": {
         "en": "Western",
+        "ba": "Көнбайыш",
         "be": "Заходняя",
         "el": "Δυτική",
         "eo": "Okcidento",
@@ -290,6 +326,7 @@
         "th": "ภาคตะวันตก",
         "tr": "Batı",
         "uk": "Західна",
-        "vi": "Miền Tây"
+        "vi": "Miền Tây",
+        "zh_CN": "西部区"
     }
 }

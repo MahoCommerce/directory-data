@@ -1,6 +1,7 @@
 {
     "AN": {
         "en": "Annobon",
+        "ba": "Аннобон",
         "hi": "अन्नोबोन",
         "hu": "Annobón",
         "nl": "Annobón",
@@ -11,6 +12,7 @@
     },
     "BN": {
         "en": "Bioko Nord",
+        "ba": "Төньяҡ Биоко",
         "hi": "बायोको नॉर्ड",
         "hu": "Bioko északi része",
         "nl": "Bioko Norte",
@@ -21,6 +23,7 @@
     },
     "BS": {
         "en": "Bioko Sud",
+        "ba": "Көньяҡ Биоко",
         "ga": "Bioko Theas",
         "hi": "बायोको सूद",
         "hu": "Bioko Dél",
@@ -32,6 +35,7 @@
     },
     "CS": {
         "en": "Centro Sud",
+        "ba": "Үҙәк Көньяҡ",
         "eo": "Suda Centro",
         "ga": "Lár Theas",
         "hi": "सेंट्रो सूद",
@@ -44,6 +48,7 @@
     },
     "DJ": {
         "en": "Djibloho",
+        "ba": "Джиблохо",
         "ga": "DjiblohoGeneric",
         "hi": "जिब्लोहो",
         "ta": "டிசிப்லோஓ",
@@ -51,6 +56,7 @@
     },
     "KN": {
         "en": "Kié-Ntem",
+        "ba": "Ке-Нтем",
         "be": "Ке-Нтэм",
         "ga": "Kié-ntem",
         "hi": "के-न्तेम",
@@ -61,6 +67,7 @@
     },
     "LI": {
         "en": "Littoral",
+        "ba": "Литораль",
         "be": "Літараль",
         "eo": "Marbordo",
         "fr": "Litoral",
@@ -74,10 +81,12 @@
         "sc": "Litorale",
         "sr": "Литорал",
         "ta": "லிட்டோரல்",
-        "uk": "Прибережна провінція"
+        "uk": "Прибережна провінція",
+        "zh_CN": "滨海省"
     },
     "WN": {
         "en": "Wele-Nzas",
+        "ba": "Веле-Нзас",
         "be": "Веле-Нзас",
         "de": "Wele-Nzás",
         "fr": "Wele-Nzás",

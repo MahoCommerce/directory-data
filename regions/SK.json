@@ -1,6 +1,7 @@
 {
     "BC": {
         "en": "Banskobystrický kraj",
+        "ba": "Банска-Бистрица крайы",
         "be": "Банскабістрыцкі край",
         "da": "Banskobystricky kraj",
         "de": "Bezirk Banská Bystrica",
@@ -20,10 +21,12 @@
         "ta": "பான்ச்கோபிச்ட்ரிக் கிராச்",
         "th": "บันสกาบิสตรีตซา, แคว้น",
         "uk": "Банскобистріцький край",
-        "vi": "Miền Banskobystrický"
+        "vi": "Miền Banskobystrický",
+        "zh_CN": "班斯卡·比斯特理察州"
     },
     "BL": {
         "en": "Bratislavský kraj",
+        "ba": "Братислава крайы",
         "be": "Браціслаўскі край",
         "da": "Bratislavsky kraj",
         "de": "Preßburger Bezirk",
@@ -44,10 +47,12 @@
         "th": "บราทิสลาวา, แคว้น",
         "tr": "Bratislavsky kraj",
         "uk": "Братиславський край",
-        "vi": "Miền Bratislavský"
+        "vi": "Miền Bratislavský",
+        "zh_CN": "布拉迪斯拉发州"
     },
     "KI": {
         "en": "Košický kraj",
+        "ba": "Кошице крайы",
         "be": "Кошыцкі край",
         "da": "Kosicky kraj",
         "de": "Kaschauer Landschaftsverband",
@@ -68,10 +73,12 @@
         "th": "คอซีตเซ, แคว้น",
         "tr": "Kosicky kraj",
         "uk": "Кошицький край",
-        "vi": "Miền Košický"
+        "vi": "Miền Košický",
+        "zh_CN": "科希策州"
     },
     "NI": {
         "en": "Nitriansky kraj",
+        "ba": "Нитра крайы",
         "be": "Нітранскі край",
         "de": "Neutraer Landschaftsverband",
         "fr": "Nitra",
@@ -90,10 +97,12 @@
         "ta": "நைட்ரியன்ச்கி கிராச்",
         "th": "นีตรา, แคว้น",
         "uk": "Нітранський край",
-        "vi": "Miền Nitriansky"
+        "vi": "Miền Nitriansky",
+        "zh_CN": "尼特拉州"
     },
     "PV": {
         "en": "Prešovský kraj",
+        "ba": "Прешов крайы",
         "be": "Прэшаўскі край",
         "da": "Presovsky kraj",
         "de": "Eperieser Landschaftsverband",
@@ -114,10 +123,12 @@
         "th": "เปรชอฟ, แคว้น",
         "tr": "Presovsky kraj",
         "uk": "Пряшівський край",
-        "vi": "Miền Prešovský"
+        "vi": "Miền Prešovský",
+        "zh_CN": "普列索夫州"
     },
     "TA": {
         "en": "Trnavský kraj",
+        "ba": "Трнава крайы",
         "be": "Трнаўскі край",
         "da": "Trnavsky kraj",
         "de": "Tyrnauer Landschaftsverband",
@@ -138,10 +149,12 @@
         "th": "เตอร์นาวา, แคว้น",
         "tr": "Trnavsky kraj",
         "uk": "Трнавський край",
-        "vi": "Miền Trnavský"
+        "vi": "Miền Trnavský",
+        "zh_CN": "特尔纳瓦州"
     },
     "TC": {
         "en": "Trenčiansky kraj",
+        "ba": "Тренчин крайы",
         "be": "Трэнчынскі край",
         "da": "Trenciansky kraj",
         "de": "Trentschiner Landschaftsverband",
@@ -161,10 +174,12 @@
         "ta": "ட்ரென்னியன்ச்கி கிராச்",
         "th": "เทรนชีน, แคว้น",
         "uk": "Тренчинський край",
-        "vi": "Miền Trenčiansky"
+        "vi": "Miền Trenčiansky",
+        "zh_CN": "特伦钦州"
     },
     "ZI": {
         "en": "Žilinský kraj",
+        "ba": "Жилина крайы",
         "be": "Жылінскі край",
         "da": "Zilinsky kraj",
         "de": "Silleiner Landschaftsverband",
@@ -185,6 +200,7 @@
         "th": "ซีลีนา, แคว้น",
         "tr": "Zilinsky kraj",
         "uk": "Жилінський край",
-        "vi": "Miền Žilinský"
+        "vi": "Miền Žilinský",
+        "zh_CN": "日利纳州"
     }
 }

@@ -1,6 +1,7 @@
 {
     "VAN": {
         "en": "Antwerpen",
+        "ba": "Антверпен",
         "be": "Антверпен",
         "bg": "Антверпен",
         "cy": "Antwerp",
@@ -18,10 +19,12 @@
         "sr": "Антверпен",
         "ta": "ஆண்ட்வெர்பன்",
         "th": "อันท์เวอร์เพิน",
-        "uk": "Антверпен"
+        "uk": "Антверпен",
+        "zh_CN": "安特卫普省"
     },
     "VBR": {
         "en": "Vlaams-Brabant",
+        "ba": "Фламанд Брабанты",
         "be": "Фламандскі Брабант",
         "de": "Flämisch-Brabant",
         "eo": "Flandrio-Brabanto",
@@ -40,10 +43,13 @@
         "sl": "Flamski Brabant",
         "sr": "Вламс-Брабант",
         "ta": "Vlaams-prabant",
-        "uk": "Фламандський Брабант"
+        "uk": "Фламандський Брабант",
+        "wa": "Braibant flamind",
+        "zh_CN": "佛兰芒布拉班特省"
     },
     "VLI": {
         "en": "Limburg",
+        "ba": "Лимбург",
         "be": "Лімбург",
         "eo": "Limburgo",
         "fr": "Limourg",
@@ -58,10 +64,12 @@
         "sc": "Limburgu",
         "sr": "Лимбург",
         "ta": "லிம்பர்க்",
-        "uk": "Лімбург"
+        "uk": "Лімбург",
+        "zh_TW": "林堡"
     },
     "VOV": {
         "en": "Oost-Vlaanderen",
+        "ba": "Көнсығыш Фландрия",
         "be": "Усходняя Фландрыя",
         "da": "Østflandern",
         "de": "Ostflandern",
@@ -82,10 +90,13 @@
         "sr": "Источна Фландрија",
         "sv": "Östflandern",
         "ta": "Oost-vlaanderen",
-        "uk": "Східна Фландрія"
+        "uk": "Східна Фландрія",
+        "wa": "Flande Levantrece",
+        "zh_CN": "东佛兰德省"
     },
     "VWV": {
         "en": "West-Vlaanderen",
+        "ba": "Көнбайыш Фландрия",
         "be": "Заходняя Фландрыя",
         "da": "Vestflandern",
         "de": "Westflandern",
@@ -106,10 +117,13 @@
         "sr": "Западна Фландрија",
         "sv": "Västflandern",
         "ta": "மேற்கு-வ்லாண்டரென்",
-        "uk": "Західна Фландрія"
+        "uk": "Західна Фландрія",
+        "wa": "Flande Coûtchantrece",
+        "zh_CN": "西佛兰德省"
     },
     "WBR": {
         "en": "Brabant wallon",
+        "ba": "Валлон Брабанты",
         "be": "Валонскі Брабант",
         "cy": "Brabant Walonaidd",
         "de": "Wallonisch-Brabant",
@@ -132,6 +146,7 @@
     },
     "WHT": {
         "en": "Hainaut",
+        "ba": "Эно",
         "be": "Эно",
         "de": "Hennegau",
         "he": "אנו",
@@ -143,10 +158,14 @@
         "ru": "Эно",
         "sr": "Хенот",
         "ta": "ஐனாட்",
-        "uk": "Гайнаут"
+        "uk": "Гайнаут",
+        "wa": "Hinnot",
+        "zh_CN": "埃诺省",
+        "zh_TW": "海諾"
     },
     "WLG": {
         "en": "Liège",
+        "ba": "Льеж",
         "be": "Льеж",
         "bg": "Лиеж",
         "de": "Lüttich",
@@ -169,8 +188,10 @@
     },
     "WLX": {
         "en": "Luxembourg",
+        "ba": "Люксембург",
         "be": "Люксембург",
         "bg": "Люксембург",
+        "crh": "Lüksemburg",
         "cy": "Lwcsembwrg",
         "de": "Luxemburg",
         "el": "Λουξεμβούργο",
@@ -206,10 +227,13 @@
         "th": "ลักเซมเบิร์ก",
         "tr": "Lüksemburg",
         "uk": "Люксембург",
-        "vi": "Lúc-xăm-buac"
+        "vi": "Lúc-xăm-buac",
+        "zh_CN": "卢森堡",
+        "zh_TW": "盧森堡"
     },
     "WNA": {
         "en": "Namur",
+        "ba": "Намюр",
         "be": "Намюр",
         "he": "נאמור",
         "hi": "नामुर",
@@ -221,6 +245,9 @@
         "sr": "Намур",
         "ta": "நமூர்",
         "th": "นามูร์",
-        "uk": "Намюр"
+        "uk": "Намюр",
+        "wa": "Nameur",
+        "zh_CN": "那慕尔省",
+        "zh_TW": "南木爾"
     }
 }

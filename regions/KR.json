@@ -1,6 +1,7 @@
 {
     "11": {
         "en": "Seoul-teukbyeolsi",
+        "ba": "Сеул",
         "eo": "Seulo",
         "hi": "सियोल-तेउकब्योलसी",
         "hu": "Szöul különleges város",
@@ -14,6 +15,7 @@
     },
     "26": {
         "en": "Busan-gwangyeoksi",
+        "ba": "Пусан",
         "eo": "Pusano",
         "hi": "बुसान-ग्वांगयेओकसी",
         "hu": "Busan különleges város",
@@ -26,6 +28,7 @@
     },
     "27": {
         "en": "Daegu-gwangyeoksi",
+        "ba": "Тэгу",
         "eo": "Teguo",
         "hi": "डेगू-ग्वांगयेओकसी",
         "hu": "Tegu különleges város",
@@ -38,6 +41,7 @@
     },
     "28": {
         "en": "Incheon-gwangyeoksi",
+        "ba": "Инчхон",
         "eo": "Inĉono",
         "hi": "इंचियोन-ग्वांगयेओकसी",
         "hu": "Incshon különleges város",
@@ -49,6 +53,7 @@
     },
     "29": {
         "en": "Gwangju-gwangyeoksi",
+        "ba": "Кванджу",
         "hi": "ग्वांगजू-ग्वांगयेओकसी",
         "hu": "Gwangju különleges városi önkormányzat",
         "ko": "광주",
@@ -60,6 +65,7 @@
     },
     "30": {
         "en": "Daejeon-gwangyeoksi",
+        "ba": "Тэджон",
         "hi": "डेजॉन-ग्वांगयेओकसी",
         "hu": "Taejeon különleges város",
         "ko": "대전",
@@ -71,6 +77,7 @@
     },
     "31": {
         "en": "Ulsan-gwangyeoksi",
+        "ba": "Ульсан",
         "hi": "उल्सान-ग्वांगयेओकसी",
         "hu": "Ulszan különleges városi önkormányzat",
         "ko": "울산",
@@ -82,6 +89,7 @@
     },
     "41": {
         "en": "Gyeonggi-do",
+        "ba": "Кёнгидо",
         "hi": "गियॉन्गी-डो",
         "hu": "Gjonggi-do",
         "ka": "გიონგიდო",
@@ -94,6 +102,7 @@
     },
     "42": {
         "en": "Gangwon-teukbyeoljachido",
+        "ba": "Канвон-тхыкбёльчхачхидо",
         "hi": "गैंगवोन-तेउकब्योलजाचिदो",
         "hu": "Gangwon különleges önkormányzati tartomány",
         "ko": "강원도",
@@ -105,6 +114,7 @@
     },
     "43": {
         "en": "Chungcheongbuk-do",
+        "ba": "Төньяҡ Чхунчхон",
         "hi": "चुंगचेऑन्गबुक-डो",
         "ka": "ჩრდილოეთი ჩხუნჩხონი",
         "ko": "충청북도",
@@ -116,6 +126,7 @@
     },
     "44": {
         "en": "Chungcheongnam-do",
+        "ba": "Көньяҡ Чхунчхон",
         "hi": "चंगच्यॉन्गनाम-डो",
         "hu": "Csungcshongnam-do",
         "ka": "სამხრეთი ჩხუნჩხონი",
@@ -128,6 +139,7 @@
     },
     "45": {
         "en": "Jeollabuk-do",
+        "ba": "Төньяҡ Чолла",
         "hi": "जेओलाबक-डो",
         "hu": "Észak-Csholla tartomány",
         "ka": "ჩოლა-დო",
@@ -140,6 +152,7 @@
     },
     "46": {
         "en": "Jeollanam-do",
+        "ba": "Көньяҡ Чолла",
         "hi": "जेओलानम-डो",
         "hu": "Dél-Csolla tartomány",
         "ka": "ჩოლა-ნამდო",
@@ -152,6 +165,7 @@
     },
     "47": {
         "en": "Gyeongsangbuk-do",
+        "ba": "Төньяҡ Кёнсан",
         "hi": "ग्यांगसैग्बुक-डो",
         "hu": "Gjongszangbuk-do",
         "ka": "კენსან-პუკტო",
@@ -164,6 +178,7 @@
     },
     "48": {
         "en": "Gyeongsangnam-do",
+        "ba": "Көньяҡ Кёнсан",
         "hi": "ग्यांगसैग्नाम-डो",
         "hu": "Gjongszangnam-do",
         "ka": "კენსან-ნამდო",
@@ -176,6 +191,7 @@
     },
     "49": {
         "en": "Jeju-teukbyeoljachido",
+        "ba": "Чеджу-тхыкбёльчхачхидо",
         "hi": "जेजु-टुकबयोलजचिद्दों",
         "hu": "Csedzsu Különleges Önkormányzati Tartomány",
         "ko": "제주도",
@@ -187,6 +203,7 @@
     },
     "50": {
         "en": "Sejong",
+        "ba": "Седжон",
         "hi": "सेजोंग",
         "hu": "Szedzsong",
         "ko": "세종시",

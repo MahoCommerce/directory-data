@@ -1,6 +1,7 @@
 {
     "DC": {
         "en": "Central Darfur",
+        "ba": "Үҙәк Дарфур",
         "ga": "Darfur Láir",
         "hi": "सेंट्रल दारफुर",
         "hr": "Centralni Darfur",
@@ -13,6 +14,7 @@
     },
     "DE": {
         "en": "East Darfur",
+        "ba": "Көнсығыш Дарфур",
         "ga": "Darfur Thoir",
         "hi": "पूर्वी दारफुर",
         "hr": "Istočni Darfur",
@@ -25,6 +27,7 @@
     },
     "DN": {
         "en": "North Darfur",
+        "ba": "Төньяҡ Дарфур",
         "ga": "Darfur Thuaidh",
         "hi": "उत्तर दारफुर",
         "hr": "Sjeverni Darfur",
@@ -38,6 +41,7 @@
     },
     "DS": {
         "en": "South Darfur",
+        "ba": "Көньяҡ Дарфур",
         "ga": "Darfur Theas",
         "hi": "दक्षिण दारफुर",
         "hr": "Južni Darfur",
@@ -51,6 +55,7 @@
     },
     "DW": {
         "en": "West Darfur",
+        "ba": "Көнбайыш Дарфур",
         "ga": "Darfur Thiar",
         "hi": "पश्चिम दारफुर",
         "hr": "Zapadni Darfur",
@@ -64,6 +69,7 @@
     },
     "GD": {
         "en": "Gedaref",
+        "ba": "Гедареф",
         "hi": "गेदारेफ़",
         "nl": "Al-Qadarif",
         "pl": "Al-Kadarif",
@@ -73,6 +79,7 @@
     },
     "GK": {
         "en": "West Kordofan",
+        "ba": "Көнбайыш Кордофан",
         "ga": "Kordofan Thiar",
         "hi": "वेस्ट कोर्डोफन",
         "hr": "Zapadni Kordofan",
@@ -85,6 +92,7 @@
     },
     "GZ": {
         "en": "Gezira",
+        "ba": "Гезира",
         "hi": "गीज़िरा",
         "nl": "Al-Jazirah",
         "pl": "Al-Dżazira",
@@ -94,6 +102,7 @@
     },
     "KA": {
         "en": "Kassala",
+        "ba": "Кассала",
         "hi": "कसाला",
         "ka": "კასალა",
         "ta": "கசாலா",
@@ -101,6 +110,7 @@
     },
     "KH": {
         "en": "Khartoum",
+        "ba": "Хартум",
         "eo": "Kartumo",
         "ga": "KhartoumGeneric",
         "hi": "खार्तूम",
@@ -114,6 +124,7 @@
     },
     "KN": {
         "en": "North Kordofan",
+        "ba": "Төньяҡ Кордофан",
         "ga": "Kordofan Thuaidh",
         "hi": "उत्तर कोर्डोफन",
         "hr": "Sjeverni Kordofan",
@@ -126,6 +137,7 @@
     },
     "KS": {
         "en": "South Kordofan",
+        "ba": "Көньяҡ Кордофан",
         "ga": "Kordofan Theas",
         "hi": "दक्षिण कोर्डोफन",
         "hr": "Južni Kordofan",
@@ -138,6 +150,7 @@
     },
     "NB": {
         "en": "Blue Nile",
+        "ba": "Зәңгәр Нил",
         "eo": "Blua Nilo",
         "ga": "An Níl Ghorm",
         "hi": "नीली नील",
@@ -150,6 +163,7 @@
     },
     "NO": {
         "en": "Northern",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "el": "Βόρεια",
         "eo": "Nordo",
@@ -169,10 +183,12 @@
         "th": "ภาคเหนือ",
         "tr": "Kuzey",
         "uk": "Північна",
-        "vi": "Miền Bắc"
+        "vi": "Miền Bắc",
+        "zh_CN": "北部区"
     },
     "NR": {
         "en": "River Nile",
+        "ba": "Нил йылғаһы",
         "eo": "Rivero Nilo",
         "ga": "Abhainn na Níle",
         "hi": "नील नदी",
@@ -186,6 +202,7 @@
     },
     "NW": {
         "en": "White Nile",
+        "ba": "Аҡ Нил",
         "eo": "Blanka Nilo",
         "ga": "An Níl Bhán",
         "hi": "सफ़ेद नील",
@@ -199,6 +216,7 @@
     },
     "RS": {
         "en": "Red Sea",
+        "ba": "Ҡыҙыл диңгеҙ",
         "eo": "Ruĝa Maro",
         "ga": "An Mhuir Rua",
         "hi": "लाल सागर",
@@ -212,6 +230,7 @@
     },
     "SI": {
         "en": "Sennar",
+        "ba": "Сеннар",
         "hi": "सेन्नर",
         "hu": "Szenna",
         "ka": "სენარი",

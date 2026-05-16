@@ -1,6 +1,7 @@
 {
     "01": {
         "en": "Lefkosia",
+        "ba": "Лефкосия",
         "hi": "लेफ्कोसिया",
         "hu": "Nicosia",
         "nl": "Nicosia",
@@ -11,6 +12,7 @@
     },
     "02": {
         "en": "Lemesos",
+        "ba": "Лемесос",
         "hi": "लेमेसोस",
         "hu": "Limassol",
         "nl": "Limasol",
@@ -22,6 +24,7 @@
     },
     "03": {
         "en": "Larnaka",
+        "ba": "Ларнака",
         "ga": "Larnaca",
         "hi": "लार्नाका",
         "hu": "Lárnaka",
@@ -33,6 +36,7 @@
     },
     "04": {
         "en": "Ammochostos",
+        "ba": "Аммохостос",
         "hi": "एमोचोस्टोस",
         "hu": "Ammókhosztosz",
         "nl": "Famagusta",
@@ -43,6 +47,7 @@
     },
     "05": {
         "en": "Baf",
+        "ba": "Баф",
         "ga": "BAF",
         "hi": "बाफ",
         "nl": "Paphos; Pafos",
@@ -53,6 +58,7 @@
     },
     "06": {
         "en": "Girne",
+        "ba": "Гирне",
         "ga": "Kyrenia",
         "hi": "गिरने",
         "hu": "Kyrenia",

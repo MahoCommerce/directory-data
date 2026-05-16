@@ -1,6 +1,7 @@
 {
     "E": {
         "en": "Eastern",
+        "ba": "Көнсығыш",
         "be": "Усходняя",
         "el": "Ανατολική",
         "eo": "Oriento",
@@ -22,10 +23,12 @@
         "th": "ภาคตะวันออก",
         "tr": "Doğu",
         "uk": "Східна",
-        "vi": "Miền Đông"
+        "vi": "Miền Đông",
+        "zh_CN": "东部区"
     },
     "N": {
         "en": "Northern",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "el": "Βόρεια",
         "eo": "Nordo",
@@ -45,10 +48,12 @@
         "th": "ภาคเหนือ",
         "tr": "Kuzey",
         "uk": "Північна",
-        "vi": "Miền Bắc"
+        "vi": "Miền Bắc",
+        "zh_CN": "北部区"
     },
     "NW": {
         "en": "North Western",
+        "ba": "Төньяҡ-Көнбайыш",
         "eo": "Nord-Okcidento",
         "ga": "An tIarthuaisceart",
         "hi": "उत्तर पश्चिमी",
@@ -63,6 +68,7 @@
     },
     "S": {
         "en": "Southern",
+        "ba": "Көньяҡ",
         "be": "Паўднёвая акруга",
         "da": "Sydlige",
         "de": "Süd",

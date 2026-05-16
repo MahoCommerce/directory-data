@@ -1,6 +1,7 @@
 {
     "AK": {
         "en": "Aakkâr",
+        "ba": "Аккар",
         "be": "Аакар",
         "hi": "ऐक्कर",
         "it": "Akkar",
@@ -14,6 +15,7 @@
     },
     "AS": {
         "en": "Ash Shimāl",
+        "ba": "Төньяҡ Ливан",
         "eo": "Nordo",
         "hi": "ऐश शिमाल",
         "hu": "Észak-Ash",
@@ -25,6 +27,7 @@
     },
     "BA": {
         "en": "Bayrūt",
+        "ba": "Бейрут",
         "eo": "Bejruto",
         "hi": "बायरूट",
         "hu": "Bejrút",
@@ -36,6 +39,7 @@
     },
     "BH": {
         "en": "Baalbek-Hermel",
+        "ba": "Баальбек-Хермель",
         "be": "Баальбек-Хермель",
         "hi": "बाल्बेक-हेर्मेल",
         "ja": "バールベック",
@@ -46,6 +50,7 @@
     },
     "BI": {
         "en": "Al Biqā‘",
+        "ba": "Бекаа",
         "ga": "Al Biqā'",
         "hi": "अल बिका",
         "hu": "Al-Bikaáʿ",
@@ -57,6 +62,7 @@
     },
     "JA": {
         "en": "Al Janūb",
+        "ba": "Көньяҡ Ливан",
         "eo": "Sudo",
         "hi": "अल जानूब",
         "nl": "Zuid-Libanon",
@@ -67,6 +73,7 @@
     },
     "JL": {
         "en": "Jabal Lubnān",
+        "ba": "Таулы Ливан",
         "eo": "Monto Lebanono",
         "hi": "जबल लुब्नान",
         "hu": "Libanon-hegység",
@@ -78,6 +85,7 @@
     },
     "NA": {
         "en": "An Nabaţīyah",
+        "ba": "Эн-Набатия",
         "hi": "एन नबाशियह",
         "hu": "An-Nabatiyah",
         "nl": "Nabatiye",

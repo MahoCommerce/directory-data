@@ -1,6 +1,7 @@
 {
     "67": {
         "en": "Johnston Atoll",
+        "ba": "Джонстон атоллы",
         "be": "Атол Джонстан",
         "de": "Johnston-Atoll",
         "eo": "Atolo Johnston",
@@ -22,10 +23,12 @@
         "ta": "சான்ச்டன் அட்டோல்",
         "th": "จอห์นสตันอะทอลล์",
         "uk": "Атол Джонстон",
-        "vi": "Đảo Sân Hô Johnston"
+        "vi": "Đảo Sân Hô Johnston",
+        "zh_CN": "约翰斯顿岛"
     },
     "71": {
         "en": "Midway Islands",
+        "ba": "Мидуэй утрауҙары",
         "be": "Астравы Мідуэй",
         "da": "Midwayøerne",
         "de": "Midwayinseln",
@@ -57,10 +60,13 @@
         "th": "มิดเวย์, หมู่เกาะ",
         "tr": "Midway Adaları",
         "uk": "Острови Мідуей",
-        "vi": "Quần Đảo Midway"
+        "vi": "Quần Đảo Midway",
+        "zh_CN": "中途岛",
+        "zh_TW": "中途群島"
     },
     "76": {
         "en": "Navassa Island",
+        "ba": "Навасса утрауы",
         "be": "Востраў Наваса",
         "de": "Navassa-Insel",
         "eo": "Insulo Navassa",
@@ -80,10 +86,12 @@
         "ta": "நவாசா தீவு",
         "tr": "Navassa Adası",
         "uk": "Острів Навасса",
-        "vi": "Đảo Navassa"
+        "vi": "Đảo Navassa",
+        "zh_CN": "纳弗沙岛"
     },
     "79": {
         "en": "Wake Island",
+        "ba": "Уэйк утрауы",
         "be": "Востраў Уэйк",
         "de": "Wake",
         "el": "Νήσος Γουέικ",
@@ -115,10 +123,13 @@
         "th": "เวก, เกาะ",
         "tr": "Wake Adası",
         "uk": "Острів Вейк",
-        "vi": "Đảo Wake"
+        "vi": "Đảo Wake",
+        "zh_CN": "威克岛",
+        "zh_TW": "威克島"
     },
     "81": {
         "en": "Baker Island",
+        "ba": "Бейкер утрауы",
         "be": "Востраў Бэйкер",
         "de": "Baker-Insel",
         "eo": "Insulo Baker",
@@ -140,10 +151,12 @@
         "th": "เบเกอร์, เกาะ",
         "tr": "Baker Adası",
         "uk": "Острів Бейкер",
-        "vi": "Đảo Baker"
+        "vi": "Đảo Baker",
+        "zh_CN": "贝克岛"
     },
     "84": {
         "en": "Howland Island",
+        "ba": "Хауленд утрауы",
         "be": "Востраў Хаўленд",
         "de": "Howland-Insel",
         "eo": "Insulo Howland",
@@ -164,10 +177,12 @@
         "ta": "உவுலேண்ட் தீவு",
         "tr": "Howland Adası",
         "uk": "Острів Хауленд",
-        "vi": "Đảo Howland"
+        "vi": "Đảo Howland",
+        "zh_CN": "豪兰岛"
     },
     "86": {
         "en": "Jarvis Island",
+        "ba": "Джарвис утрауы",
         "be": "Востраў Джарвіс",
         "de": "Jarvis-Insel",
         "eo": "Insulo Jarvis",
@@ -188,10 +203,12 @@
         "ta": "சார்விச் தீவு",
         "tr": "Jarvis Adası",
         "uk": "Острів Джарвіс",
-        "vi": "Đảo Jarvis"
+        "vi": "Đảo Jarvis",
+        "zh_CN": "贾维斯岛"
     },
     "89": {
         "en": "Kingman Reef",
+        "ba": "Кингмен рифы",
         "be": "Рыф Кінгмен",
         "de": "Kingman-Riff",
         "eo": "Rifo Kingman",
@@ -210,10 +227,12 @@
         "ta": "கிங்மேன் ரீஃப்",
         "th": "คิงแมนรีฟ",
         "uk": "Ріф Кінгмен",
-        "vi": "Đá Ngầm Kingman"
+        "vi": "Đá Ngầm Kingman",
+        "zh_CN": "金曼礁"
     },
     "95": {
         "en": "Palmyra Atoll",
+        "ba": "Пальмира атоллы",
         "be": "Атол Пальміра",
         "de": "Palmyra-Atoll",
         "eo": "Atolo Palmyra",
@@ -232,6 +251,7 @@
         "sv": "Palmyraatollen",
         "ta": "பால்மிரா அட்டோல்",
         "uk": "Атол Пальміра",
-        "vi": "Đảo San Hô Palmyra"
+        "vi": "Đảo San Hô Palmyra",
+        "zh_CN": "巴尔米拉环礁"
     }
 }

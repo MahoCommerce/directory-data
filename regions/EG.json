@@ -1,6 +1,7 @@
 {
     "ALX": {
         "en": "Al Iskandarīyah",
+        "ba": "Әл-Искәндәриә",
         "be": "Александрыя",
         "da": "Al Iskandariyah",
         "fr": "Al Iskandariyah",
@@ -18,6 +19,7 @@
     },
     "ASN": {
         "en": "Aswān",
+        "ba": "Асуан",
         "be": "Асуан",
         "da": "Aswan",
         "fr": "Aswan",
@@ -39,6 +41,7 @@
     },
     "AST": {
         "en": "Asyūţ",
+        "ba": "Асьют",
         "hi": "अस्यूट",
         "hu": "Aszjút",
         "nl": "Assioet",
@@ -50,6 +53,7 @@
     },
     "BA": {
         "en": "Al Baḩr al Aḩmar",
+        "ba": "Ҡыҙыл диңгеҙ",
         "be": "Чырвонае мора",
         "de": "Al-Baḩr al-Aḩmar",
         "fr": "Mer Rouge",
@@ -68,6 +72,7 @@
     },
     "BH": {
         "en": "Al Buḩayrah",
+        "ba": "Бухейра",
         "hi": "अल बुयैराह",
         "hu": "Al-Buhaira",
         "nl": "Al Buhayrah",
@@ -79,6 +84,7 @@
     },
     "BNS": {
         "en": "Banī Suwayf",
+        "ba": "Бени-Суэйф",
         "be": "Бені-Суэйф",
         "da": "Bani Suwayf",
         "fr": "Bani Suwayf",
@@ -99,6 +105,7 @@
     },
     "C": {
         "en": "Al Qāhirah",
+        "ba": "Әл-Каһирә",
         "be": "Каір",
         "da": "Al Qahirah",
         "eo": "Kairo",
@@ -117,6 +124,7 @@
     },
     "DK": {
         "en": "Ad Daqahlīyah",
+        "ba": "Дакахлия",
         "be": "Дакахлія",
         "da": "Ad Daqahliyah",
         "fr": "Ad Daqahliyah",
@@ -135,6 +143,7 @@
     },
     "DT": {
         "en": "Dumyāţ",
+        "ba": "Думьят",
         "hi": "डुम्याश",
         "hu": "Dumyat",
         "nl": "Damietta",
@@ -144,6 +153,7 @@
     },
     "FYM": {
         "en": "Al Fayyūm",
+        "ba": "Эль-Файюм",
         "be": "Эль-Фаюм",
         "fr": "Al Fayyum",
         "he": "אל־פיום",
@@ -161,6 +171,7 @@
     },
     "GH": {
         "en": "Al Gharbīyah",
+        "ba": "Гарбия",
         "be": "Гарбія",
         "da": "Al Gharbiyah",
         "fr": "Al Gharbiyah",
@@ -180,6 +191,7 @@
     },
     "GZ": {
         "en": "Al Jīzah",
+        "ba": "Гиза",
         "be": "Гіза",
         "da": "Al Jizah",
         "fr": "Al Jizah",
@@ -198,6 +210,7 @@
     },
     "IS": {
         "en": "Al Ismā'īlīyah",
+        "ba": "Исмаилия",
         "hi": "अल इस्माइलियाह",
         "hu": "Iszmáilíja",
         "nl": "Ismaïlia",
@@ -208,6 +221,7 @@
     },
     "JS": {
         "en": "Janūb Sīnā'",
+        "ba": "Көньяҡ Синай",
         "be": "Паўднёвы Сінай",
         "da": "Janub Sina'",
         "fr": "Janub Sina",
@@ -224,6 +238,7 @@
     },
     "KB": {
         "en": "Al Qalyūbīyah",
+        "ba": "Кальюбия",
         "be": "Кальюбія",
         "da": "Al Qalyubiyah",
         "fr": "Al Qalyubiyah",
@@ -241,6 +256,7 @@
     },
     "KFS": {
         "en": "Kafr ash Shaykh",
+        "ba": "Кафр-эш-Шейх",
         "be": "Кафр-эш-Шэйх",
         "ga": "Kafr luaith-Shaykh",
         "he": "כפר א־שיח׳",
@@ -253,10 +269,12 @@
         "sc": "Kafr el Sheikh",
         "sr": "Шарм Ел Шеик",
         "ta": "காஃப்ர் ஆச் சேக்",
-        "uk": "Кафр-еш-Шейх"
+        "uk": "Кафр-еш-Шейх",
+        "zh_CN": "谢赫村"
     },
     "KN": {
         "en": "Qinā",
+        "ba": "Кена",
         "be": "Кена",
         "da": "Qina",
         "fr": "Qina",
@@ -276,6 +294,7 @@
     },
     "LX": {
         "en": "Al Uqşur",
+        "ba": "Луксор",
         "hi": "अल उक़सूर",
         "hu": "Al-Ukszur",
         "nl": "Luxor",
@@ -287,6 +306,7 @@
     },
     "MN": {
         "en": "Al Minyā",
+        "ba": "Эль-Минья",
         "be": "Эль-Мінья",
         "da": "Al Minya",
         "fr": "Al Minya",
@@ -305,6 +325,7 @@
     },
     "MNF": {
         "en": "Al Minūfīyah",
+        "ba": "Минуфия",
         "be": "Мінуфія",
         "da": "Al Minufiyah",
         "fr": "Al Minufiyah",
@@ -322,6 +343,7 @@
     },
     "MT": {
         "en": "Maţrūḩ",
+        "ba": "Матрух",
         "hi": "मातृह",
         "hu": "Matrúh",
         "nl": "Matruh",
@@ -332,6 +354,7 @@
     },
     "PTS": {
         "en": "Būr Sa‘īd",
+        "ba": "Порт-Саид",
         "ga": "Būr Sa'īd",
         "hi": "बूर सईद",
         "hu": "Port Szaíd",
@@ -344,6 +367,7 @@
     },
     "SHG": {
         "en": "Sūhāj",
+        "ba": "Сохаг",
         "be": "Сахаг",
         "da": "Suahj",
         "fr": "Suhaj",
@@ -363,6 +387,7 @@
     },
     "SHR": {
         "en": "Ash Sharqīyah",
+        "ba": "Эш-Шаркия",
         "be": "Шаркія",
         "da": "Ash Sharqiyah",
         "eo": "Oriento",
@@ -381,6 +406,7 @@
     },
     "SIN": {
         "en": "Shamāl Sīnā'",
+        "ba": "Төньяҡ Синай",
         "hi": "शामल सिना'",
         "hu": "Észak-Sínai",
         "nl": "Noord-Sinaï",
@@ -391,6 +417,7 @@
     },
     "SUZ": {
         "en": "As Suways",
+        "ba": "Суэц",
         "be": "Суэц",
         "ga": "Mar Suways",
         "he": "סואץ",
@@ -403,10 +430,12 @@
         "sc": "Suez",
         "sr": "Ас Сувас",
         "ta": "சுவ்வேச் என",
-        "uk": "Суец"
+        "uk": "Суец",
+        "zh_CN": "苏伊士"
     },
     "WAD": {
         "en": "Al Wādī al Jadīd",
+        "ba": "Яңы Үҙән",
         "be": "Новая Даліна",
         "da": "Al Wadi al Jadid",
         "fr": "Al Wadi al Jadid",

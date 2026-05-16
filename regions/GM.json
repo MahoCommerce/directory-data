@@ -1,6 +1,7 @@
 {
     "L": {
         "en": "Lower River",
+        "ba": "Түбәнге йылға",
         "be": "Ніжняя Рака",
         "eo": "Malsupra Rivero",
         "fr": "Rivière basse",
@@ -11,10 +12,12 @@
         "sr": "Лоувер Ривер",
         "ta": "கீழ் நதி",
         "uk": "Нижній Річковий",
-        "vi": "Sông Dưới"
+        "vi": "Sông Dưới",
+        "zh_CN": "下河区"
     },
     "M": {
         "en": "Central River",
+        "ba": "Үҙәк йылға",
         "be": "Цэнтральная Рака",
         "eo": "Centra Rivero",
         "fr": "Rivière haute",
@@ -25,10 +28,12 @@
         "sr": "Сентрал Ривер",
         "ta": "மத்திய நதி",
         "uk": "Центральний Річковий",
-        "vi": "Sông Trung"
+        "vi": "Sông Trung",
+        "zh_CN": "麦卡锡岛区"
     },
     "N": {
         "en": "North Bank",
+        "ba": "Төньяҡ Яр",
         "be": "Паўночны Бераг",
         "eo": "Norda Bordo",
         "fr": "Rive nord",
@@ -40,10 +45,12 @@
         "ta": "வடக்கு வங்கி",
         "tr": "Kuzey Kıyısı",
         "uk": "Північний Берег",
-        "vi": "Bờ Bắc"
+        "vi": "Bờ Bắc",
+        "zh_CN": "北岸区"
     },
     "U": {
         "en": "Upper River",
+        "ba": "Үрге йылға",
         "be": "Верхняя Рака",
         "eo": "Supra Rivero",
         "fr": "Rive haute",
@@ -53,10 +60,12 @@
         "sc": "Riu Artu",
         "ta": "மேல் நதி",
         "uk": "Верхній Річковий",
-        "vi": "Sông Trên"
+        "vi": "Sông Trên",
+        "zh_CN": "上河区"
     },
     "W": {
         "en": "Western",
+        "ba": "Көнбайыш",
         "be": "Заходняя",
         "el": "Δυτική",
         "eo": "Okcidento",
@@ -76,6 +85,7 @@
         "th": "ภาคตะวันตก",
         "tr": "Batı",
         "uk": "Західна",
-        "vi": "Miền Tây"
+        "vi": "Miền Tây",
+        "zh_CN": "西部区"
     }
 }

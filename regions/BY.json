@@ -1,6 +1,7 @@
 {
     "BR": {
         "en": "Bresckaja voblasć",
+        "ba": "Брест өлкәһе",
         "be": "Брэсцкая вобласць",
         "fr": "Voblast de Brest",
         "ga": "Limistéar an Iora",
@@ -17,6 +18,7 @@
     },
     "HO": {
         "en": "Gomel'skaja oblast'",
+        "ba": "Гомель өлкәһе",
         "be": "Гомельская вобласць",
         "ga": "Oblast Gomel'skaya'",
         "he": "מחוז הומל",
@@ -31,6 +33,7 @@
     },
     "HR": {
         "en": "Grodnenskaja oblast'",
+        "ba": "Гродно өлкәһе",
         "be": "Гродзенская вобласць",
         "ga": "Réigiún Grodno.\"",
         "he": "מחוז גרודנו",
@@ -45,6 +48,7 @@
     },
     "MA": {
         "en": "Mahilioŭskaja voblasć",
+        "ba": "Могилёв өлкәһе",
         "be": "Магілёўская вобласць",
         "de": "Mahiliou",
         "fr": "Voblast de Mahiliow",
@@ -63,6 +67,7 @@
     },
     "MI": {
         "en": "Minskaja oblast'",
+        "ba": "Минск өлкәһе",
         "be": "Мінская вобласць",
         "eo": "Provinco Minsko",
         "ga": "Réigiún Mhionsc.\"",
@@ -79,6 +84,7 @@
     },
     "VI": {
         "en": "Viciebskaja voblasć",
+        "ba": "Витебск өлкәһе",
         "be": "Віцебская вобласць",
         "de": "Brest",
         "fr": "Voblast de Vitebsk",

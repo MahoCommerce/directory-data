@@ -16,28 +16,27 @@ function stripIsoBrackets(string $name): string {
     return trim(preg_replace('/\s*\[[^\]]+\]\s*$/u', '', $name));
 }
 
-// Get all available locales dynamically using intl extension
-$allIntlLocales = ResourceBundle::getLocales('');
-echo "Found " . count($allIntlLocales) . " locales from intl extension\n";
-
-// Also add locales from translation directories (like @latin variants)
+// Source the locale list from the iso-codes translation directory rather than
+// ResourceBundle::getLocales(''), so output is reproducible across hosts. ICU's
+// locale enumeration varies by version (e.g. newer ICU surfaces `ba`/`nso`
+// where older ICU does not); the .mo files shipped in this composer package
+// are the authoritative source of translations.
 $translationBasePath = 'vendor/sokil/php-isocodes-db-i18n/messages';
-if (is_dir($translationBasePath)) {
-    $dirs = scandir($translationBasePath);
-    foreach ($dirs as $dir) {
-        if ($dir !== '.' && $dir !== '..' && is_dir($translationBasePath . '/' . $dir)) {
-            // Add special locales with @ suffix that aren't in intl
-            if (strpos($dir, '@') !== false && !in_array($dir, $allIntlLocales)) {
-                $allIntlLocales[] = $dir;
-            }
-        }
-    }
+if (!is_dir($translationBasePath)) {
+    echo "✗ Translation directory not found: $translationBasePath\n";
+    exit(1);
 }
 
-// Sort all locales alphabetically
+$allIntlLocales = [];
+foreach (scandir($translationBasePath) as $dir) {
+    if ($dir === '.' || $dir === '..') continue;
+    if (!is_dir($translationBasePath . '/' . $dir)) continue;
+    $allIntlLocales[] = $dir;
+}
+
 sort($allIntlLocales);
 
-echo "Total locales to process (including @ variants): " . count($allIntlLocales) . "\n";
+echo "Found " . count($allIntlLocales) . " locales in iso-codes translation directory\n";
 
 $countriesData = [];
 

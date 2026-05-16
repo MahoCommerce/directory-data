@@ -1,6 +1,7 @@
 {
     "BU": {
         "en": "Bulawayo",
+        "ba": "Булавайо",
         "be": "Булавая",
         "he": "בולוואיו",
         "hi": "बुलावायो",
@@ -10,10 +11,12 @@
         "sr": "Булавајо",
         "ta": "புலாவாயோ",
         "th": "บูลาวาโย",
-        "uk": "Булавайо"
+        "uk": "Булавайо",
+        "zh_CN": "布拉瓦约"
     },
     "HA": {
         "en": "Harare",
+        "ba": "Хараре",
         "be": "Харарэ",
         "bg": "Хараре",
         "eo": "Hararo",
@@ -25,10 +28,12 @@
         "sr": "Хараре",
         "ta": "உராரே",
         "th": "ฮาราเร",
-        "uk": "Хараре"
+        "uk": "Хараре",
+        "zh_CN": "哈拉雷"
     },
     "MA": {
         "en": "Manicaland",
+        "ba": "Маникаленд",
         "be": "Манікаленд",
         "he": "מניקלנד",
         "hi": "मैनिकालैंड",
@@ -37,10 +42,12 @@
         "lt": "Manikija",
         "sr": "Маникаленд",
         "ta": "மனிகலண்ட்",
-        "uk": "Манікаленд"
+        "uk": "Манікаленд",
+        "zh_CN": "马尼卡兰"
     },
     "MC": {
         "en": "Mashonaland Central",
+        "ba": "Үҙәк Машоналенд",
         "be": "Цэнтральны Машоналэнд",
         "da": "Mashonaland Centralt",
         "fr": "Mashonaland central",
@@ -55,10 +62,12 @@
         "pl": "Maszona Środkowa",
         "ta": "மசோனாலண்ட் சென்ட்ரல்",
         "uk": "Центр Машоналенду",
-        "vi": "Miền Trung Mashonaland"
+        "vi": "Miền Trung Mashonaland",
+        "zh_CN": "中马绍纳兰"
     },
     "ME": {
         "en": "Mashonaland East",
+        "ba": "Көнсығыш Машоналенд",
         "be": "Усходні Машоналэнд",
         "da": "Mashonaland Øst",
         "fr": "Mashonaland oriental",
@@ -73,10 +82,12 @@
         "pl": "Maszona Wschodnia",
         "ta": "மசோனாலண்ட் கிழக்கு",
         "uk": "Схід Машоналенду",
-        "vi": "Miền Đông Mashonaland"
+        "vi": "Miền Đông Mashonaland",
+        "zh_CN": "东马绍纳兰"
     },
     "MI": {
         "en": "Midlands",
+        "ba": "Мидлендс",
         "be": "Мідлэндс",
         "eo": "Mezlandoj",
         "ga": "Lár na Tíre",
@@ -90,10 +101,13 @@
         "ta": "மிட்லாண்ட்ச்",
         "th": "ภาคกลาง",
         "uk": "Мідлендс",
-        "vi": "Miền Trung"
+        "vi": "Miền Trung",
+        "zh_CN": "中部",
+        "zh_TW": "密德蘭斯"
     },
     "MN": {
         "en": "Matabeleland North",
+        "ba": "Төньяҡ Матабелеленд",
         "be": "Паўночны Матабэлелэнд",
         "da": "Matabeleland Nord",
         "fr": "Matabeleland septentrional",
@@ -108,10 +122,12 @@
         "pl": "Matabeleland Północny",
         "ta": "மேடபெல்லேண்ட் வடக்கு",
         "uk": "Північ Матабелеленду",
-        "vi": "Miền Bắc Matabeleland"
+        "vi": "Miền Bắc Matabeleland",
+        "zh_CN": "北马塔贝莱兰"
     },
     "MS": {
         "en": "Matabeleland South",
+        "ba": "Көньяҡ Матабелеленд",
         "be": "Паўднёвы Матабэлелэнд",
         "da": "Matabeleland Syd",
         "fr": "Matabeleland méridional",
@@ -127,10 +143,12 @@
         "ru": "Южный Матабелеленд",
         "ta": "மேடபெல்லேண்ட் தெற்கு",
         "uk": "Південь Матабелеленду",
-        "vi": "Miền Nam Matabeleland"
+        "vi": "Miền Nam Matabeleland",
+        "zh_CN": "南马塔贝莱兰"
     },
     "MV": {
         "en": "Masvingo",
+        "ba": "Масвинго",
         "be": "Масвінга",
         "he": "מסבינגו",
         "hi": "मास्विंगो",
@@ -141,10 +159,12 @@
         "sr": "Масвинго",
         "ta": "மாச்விங்கோ",
         "th": "มัสวิงโก",
-        "uk": "Масвінго"
+        "uk": "Масвінго",
+        "zh_CN": "马斯温戈"
     },
     "MW": {
         "en": "Mashonaland West",
+        "ba": "Көнбайыш Машоналенд",
         "be": "Заходні Машоналэнд",
         "da": "Mashonaland Vest",
         "fr": "Mashonaland occidental",
@@ -159,6 +179,7 @@
         "ru": "Западный Машоналенд",
         "ta": "மசோனாலண்ட் வெச்ட்",
         "uk": "Захід Машоналенду",
-        "vi": "Miền Tây Mashonaland"
+        "vi": "Miền Tây Mashonaland",
+        "zh_CN": "西马绍纳兰"
     }
 }
