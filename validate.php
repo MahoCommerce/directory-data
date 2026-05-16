@@ -49,6 +49,18 @@ foreach ($regionFiles as $path) {
         $errors[] = "$path is not valid JSON";
         continue;
     }
+    // Guard against iso-codes annotation leaks (see #5). Post-strip, no value
+    // should contain '['; if upstream introduces a new bracket pattern, fail here.
+    foreach ($data as $regionKey => $translations) {
+        if (!is_array($translations)) {
+            continue;
+        }
+        foreach ($translations as $locale => $name) {
+            if (is_string($name) && str_contains($name, '[')) {
+                $errors[] = "regions/$cc.json: $regionKey.$locale contains '[' — iso-codes annotation leak: " . json_encode($name);
+            }
+        }
+    }
     $count = count($data);
     if (!isset($expected[$cc])) {
         $errors[] = "regions/$cc.json: no entry in expected-counts.json (got $count). Add { \"min\": $count, \"max\": $count } intentionally.";

@@ -9,6 +9,13 @@ use Sokil\IsoCodes\TranslationDriver\SymfonyTranslationDriver;
 use Symfony\Component\Translation\Translator;
 use Symfony\Component\Translation\Loader\MoFileLoader;
 
+// Strip trailing iso-codes annotation brackets from a subdivision name.
+// Upstream encodes alt-script names and parent_code references as " [...]"
+// suffixes (e.g. "Wales [Cymru GB-CYM]", "Stockholms län [SE-01]"). See #5.
+function stripIsoBrackets(string $name): string {
+    return trim(preg_replace('/\s*\[[^\]]+\]\s*$/u', '', $name));
+}
+
 // Get all available locales dynamically using intl extension
 $allIntlLocales = ResourceBundle::getLocales('');
 echo "Found " . count($allIntlLocales) . " locales from intl extension\n";
@@ -306,7 +313,9 @@ try {
                 $regionsData[$countryCode][$regionCode] = [];
             }
             
-            $regionsData[$countryCode][$regionCode]['en'] = $subdivision->getLocalName() ?: $subdivision->getName();
+            $regionsData[$countryCode][$regionCode]['en'] = stripIsoBrackets(
+                $subdivision->getLocalName() ?: $subdivision->getName()
+            );
         }
     }
     echo "Processed subdivisions for en\n";
@@ -393,8 +402,11 @@ foreach ($allIntlLocales as $locale) {
             }
 
             $localizedName = $subdivision->getLocalName();
+            if ($localizedName) {
+                $localizedName = stripIsoBrackets($localizedName);
+            }
             $enName = $regionsData[$countryCode][$regionCode]['en'];
-            
+
             // Skip if translation is same as en (no point in storing duplicate)
             if (!$localizedName || $localizedName === $enName) {
                 continue;
