@@ -212,37 +212,36 @@ try {
         // Based on: UPU addressing standards, ISO 19160, e-commerce platforms (Magento/PrestaShop), and postal services
         // These are the administrative levels typically used for shipping/postal addresses
         $shippingTypes = [
-            // European countries - typically use provinces/regions for shipping
             'IT' => ['Province', 'Metropolitan city', 'Free municipal consortium', 'Decentralized regional entity', 'Autonomous province'],
-            'DE' => ['District', 'Urban district'], // Germany uses Kreise (districts) for postal codes
-            'FR' => ['Department'], // France uses departments
-            'ES' => ['Province'], // Spain uses provinces
-            'GB' => ['Country'], // UK uses constituent countries (England, Scotland, Wales, N.Ireland)
-            'NL' => ['Province'], // Netherlands uses provinces
-            'BE' => ['Province'], // Belgium uses provinces
-            'CH' => ['Canton'], // Switzerland uses cantons
-            'AT' => ['State'], // Austria uses states (Bundesländer)
-            'PL' => ['Voivodeship'], // Poland uses voivodeships
-            'SE' => ['County'], // Sweden uses counties
-            'DK' => ['Region'], // Denmark uses regions
-            'NO' => ['County'], // Norway uses counties
-            'FI' => ['Region'], // Finland uses regions
-            
-            // North America - typically use states/provinces
-            'US' => ['State'], // USA uses states for shipping
-            'CA' => ['Province', 'Territory'], // Canada uses provinces and territories
-            'MX' => ['State'], // Mexico uses states
-            
-            // Other major countries
-            'AU' => ['State', 'Territory'], // Australia uses states and territories
-            'IN' => ['State', 'Union territory'], // India uses states
-            'CN' => ['Province', 'Autonomous region', 'Municipality', 'Special administrative region'], // China
-            'JP' => ['Prefecture'], // Japan uses prefectures
-            'KR' => ['Province', 'Metropolitan city', 'Special city'], // South Korea
-            'BR' => ['State'], // Brazil uses states
-            'AR' => ['Province'], // Argentina uses provinces
-            'ZA' => ['Province'], // South Africa uses provinces
-            'RU' => ['Federal subject'], // Russia - complex but federal subjects are main level
+            'DE' => ['Land'],
+            'FR' => ['Department'],
+            'ES' => ['Province', 'Autonomous city in north africa'],
+            'GB' => ['Country'],
+            'IE' => ['County'],
+            'NL' => ['Province'],
+            'BE' => ['Province'],
+            'CH' => ['Canton'],
+            'AT' => ['State'],
+            'PL' => ['Voivodship'],
+            'SE' => ['County'],
+            'DK' => ['Region'],
+            'NO' => ['County', 'Arctic region'],
+            'FI' => ['Region'],
+
+            'US' => ['State', 'District', 'Outlying area'],
+            'CA' => ['Province', 'Territory'],
+            'MX' => ['State', 'Federal entity'],
+
+            'AU' => ['State', 'Territory'],
+            'IN' => ['State', 'Union territory'],
+            'CN' => ['Province', 'Autonomous region', 'Municipality', 'Special administrative region'],
+            'JP' => ['Prefecture'],
+            'KR' => ['Province', 'Metropolitan city', 'Special city', 'Special self-governing province', 'Special self-governing city'],
+            'BR' => ['State', 'Federal district'],
+            'AR' => ['Province', 'City'],
+            'ZA' => ['Province'],
+            'RU' => ['Republic', 'Administrative territory', 'Administrative region', 'Autonomous district', 'Autonomous city', 'Autonomous region'],
+            'BS' => ['District', 'Island'],
         ];
         
         if (isset($shippingTypes[$countryCode])) {
@@ -313,6 +312,45 @@ try {
     echo "Processed subdivisions for en\n";
 } catch (Exception $e) {
     echo "  ✗ Error processing en subdivisions: " . $e->getMessage() . "\n";
+}
+
+// Augment regions from libaddressinput (formats/) for entries that genuinely
+// don't exist in ISO 3166-2 but are real postal jurisdictions. Keep this list
+// tight — every entry is curated. Names come from formats/{CC}.json so we
+// follow upstream's English spelling; later translation passes will overlay
+// iso-codes' multilingual names for any entries that happen to match.
+$formatsAugmentations = [
+    'US' => ['AA', 'AE', 'AP'], // Military APO/FPO/DPO codes (Armed Forces Americas/Europe/Pacific)
+    'AU' => ['JBT'],            // Jervis Bay Territory (Commonwealth-administered, not in ISO 3166-2)
+];
+
+foreach ($formatsAugmentations as $cc => $keys) {
+    $formatsPath = "formats/$cc.json";
+    if (!is_file($formatsPath)) {
+        echo "  Warning: formats/$cc.json missing — skipping augmentation for $cc. Run generate-formats.php first.\n";
+        continue;
+    }
+    $formatsData = json_decode((string)file_get_contents($formatsPath), true);
+    $subKeys = explode('~', $formatsData['country']['sub_keys'] ?? '');
+    $subNames = explode('~', $formatsData['country']['sub_names'] ?? '');
+    foreach ($keys as $key) {
+        $idx = array_search($key, $subKeys, true);
+        if ($idx === false) {
+            echo "  Warning: $cc-$key not found in formats/$cc.json sub_keys — libaddressinput may have removed it.\n";
+            continue;
+        }
+        $name = $subNames[$idx] ?? '';
+        if ($name === '') {
+            echo "  Warning: $cc-$key has empty sub_name in formats/$cc.json — keeping the key in regions but no English name.\n";
+            $name = $key;
+        }
+        if (!isset($regionsData[$cc])) {
+            $regionsData[$cc] = [];
+        }
+        if (!isset($regionsData[$cc][$key])) {
+            $regionsData[$cc][$key] = ['en' => $name];
+        }
+    }
 }
 
 // Process all other locales for subdivisions

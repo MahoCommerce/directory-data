@@ -1,6 +1,7 @@
 {
     "L": {
         "en": "Leste",
+        "ba": "Лешти",
         "be": "Усходняя",
         "fr": "Est",
         "ga": "Oirthear",
@@ -15,6 +16,7 @@
     },
     "N": {
         "en": "Norte",
+        "ba": "Норти",
         "be": "Паўночная",
         "fr": "Nord",
         "ga": "An Tuaisceart",
@@ -30,6 +32,7 @@
     },
     "S": {
         "en": "Sul",
+        "ba": "Сул",
         "be": "Паўднёвая",
         "fr": "Sud",
         "ga": "Maidir le",

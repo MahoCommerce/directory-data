@@ -1,6 +1,7 @@
 {
     "ENG": {
         "en": "England",
+        "ba": "Англия",
         "cy": "Lloegr",
         "et": "Inglismaa",
         "ga": "Sasana",
@@ -16,6 +17,7 @@
     },
     "SCT": {
         "en": "Scotland",
+        "ba": "Шотландия",
         "de": "Schottland",
         "et": "Šotimaa",
         "ga": "Albain",
@@ -31,6 +33,7 @@
     },
     "WLS": {
         "en": "Wales [Cymru GB-CYM]",
+        "ba": "Уэльс [Кимру GB-CYM]",
         "cy": "Cymru",
         "ga": "An Bhreatain Bheag [An Bhreatain Bheag GB-ENG]",
         "hi": "वेल्स [साइमरू जीबी-सीवाईएम]",

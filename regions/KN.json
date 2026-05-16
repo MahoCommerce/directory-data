@@ -1,6 +1,7 @@
 {
     "01": {
         "en": "Christ Church Nichola Town",
+        "ba": "Крайст-Чёрч-Никола-Таун",
         "be": "Крыс Чарч Нікола Таўн",
         "ga": "Eaglais Chríost Baile Nichola",
         "hi": "क्राइस्ट चर्च निकोला टाउन",
@@ -10,6 +11,7 @@
     },
     "02": {
         "en": "Saint Anne Sandy Point",
+        "ba": "Сент-Энн-Сэнди-Пойнт",
         "be": "Сэнт Ан Сандзі Поінт",
         "da": "Sankt Anne Sandy Point",
         "ga": "Rinn Ghainimh Naomh Áine",
@@ -21,6 +23,7 @@
     },
     "03": {
         "en": "Saint George Basseterre",
+        "ba": "Сент-Джордж-Бастер",
         "be": "Сэнт Джордж Бастэр",
         "da": "Sankt George Basseterre",
         "ga": "Naomh Seoirse Basseterre",
@@ -33,6 +36,7 @@
     },
     "04": {
         "en": "Saint George Gingerland",
+        "ba": "Сент-Джордж-Джинджерленд",
         "be": "Сэнт Джордж Джынджэрлэнд",
         "da": "Sankt George Gingerland",
         "ga": "Naomh Seoirse Sinséar",
@@ -44,6 +48,7 @@
     },
     "05": {
         "en": "Saint James Windward",
+        "ba": "Сент-Джеймс-Уиндуорд",
         "be": "Сэнт Джэймс Віндворд",
         "da": "Sankt James Windward",
         "ga": "Naomh Séamas Windward",
@@ -55,6 +60,7 @@
     },
     "06": {
         "en": "Saint John Capisterre",
+        "ba": "Сент-Джон-Капистер",
         "be": "Сэнт Джон Капэстэр",
         "da": "Sankt John Capisterre",
         "ga": "Naomh Eoin Capisterre",
@@ -67,6 +73,7 @@
     },
     "07": {
         "en": "Saint John Figtree",
+        "ba": "Сент-Джон-Фигтри",
         "be": "Сэнт Джон Фігтры",
         "da": "Sankt John Figtree",
         "ga": "Naomh Eoin Figtree",
@@ -79,6 +86,7 @@
     },
     "08": {
         "en": "Saint Mary Cayon",
+        "ba": "Сент-Мэри-Кейон",
         "be": "Сэнт Мэры Каён",
         "da": "Sankt Mary Cayon",
         "ga": "Naomh Muire Cayon",
@@ -90,6 +98,7 @@
     },
     "09": {
         "en": "Saint Paul Capisterre",
+        "ba": "Сент-Пол-Капистер",
         "be": "Сэнт Пол Капэстэр",
         "da": "Sankt Paul Capisterre",
         "ga": "Naomh Pól Capisterre",
@@ -99,6 +108,7 @@
     },
     "10": {
         "en": "Saint Paul Charlestown",
+        "ba": "Сент-Пол-Чарлстаун",
         "be": "Сэнт Пол Чарльзтаўн",
         "da": "Sankt Paul Charlestown",
         "ga": "Naomh Pól Baile Chathail",
@@ -110,6 +120,7 @@
     },
     "11": {
         "en": "Saint Peter Basseterre",
+        "ba": "Сент-Питер-Бастер",
         "be": "Сэнт Пітэр Бастэр",
         "da": "Sankt Peter Basseterre",
         "ga": "Naomh Peadar Basseterre",
@@ -121,6 +132,7 @@
     },
     "12": {
         "en": "Saint Thomas Lowland",
+        "ba": "Сент-Томас-Лоуленд",
         "be": "Сэнт Томас Лоўлэнд",
         "da": "Sankt Thomas Lowland",
         "ga": "Naomh Tomás Ísealchríoch",
@@ -132,6 +144,7 @@
     },
     "13": {
         "en": "Saint Thomas Middle Island",
+        "ba": "Сент-Томас-Мидл-Айленд",
         "be": "Сэнт Томас Мідл Айлэнд",
         "da": "Sankt Thomas Midtø",
         "ga": "Naomh Tomás Meán-Oileán",
@@ -144,6 +157,7 @@
     },
     "15": {
         "en": "Trinity Palmetto Point",
+        "ba": "Тринити-Палметто-Пойнт",
         "be": "Трыніці Палмэта Пойнт",
         "ga": "Pointe Palmetto na Tríonóide",
         "hi": "ट्रिनिटी पाल्मेटो पॉइंट",

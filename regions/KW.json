@@ -1,6 +1,7 @@
 {
     "AH": {
         "en": "Al Aḩmadī",
+        "ba": "Әл-Әхмәди",
         "hi": "अल अहमदी",
         "hu": "Al Ahmadi",
         "nl": "Ahmadi",
@@ -11,6 +12,7 @@
     },
     "FA": {
         "en": "Al Farwānīyah",
+        "ba": "Әл-Фарвания",
         "be": "Аль-Фарванія",
         "hi": "अल फरवानियाह",
         "hu": "Al Farvánijja",
@@ -27,6 +29,7 @@
     },
     "HA": {
         "en": "Ḩawallī",
+        "ba": "Хавалли",
         "hi": "हवाली",
         "hu": "Havalli",
         "nl": "Hawalli",
@@ -37,6 +40,7 @@
     },
     "JA": {
         "en": "Al Jahrā’",
+        "ba": "Әл-Джахра",
         "ga": "Al Jahrā'",
         "hi": "अल जहरा'",
         "hu": "Al-Dzsahra",
@@ -48,6 +52,7 @@
     },
     "KU": {
         "en": "Al ‘Āşimah",
+        "ba": "Эль-Асима",
         "be": "Аль-Асыма",
         "ga": "Al 'Āshimah",
         "he": "הבירה",
@@ -61,6 +66,7 @@
     },
     "MU": {
         "en": "Mubārak al Kabīr",
+        "ba": "Мубарак-эль-Кабир",
         "be": "Мубарак Аль-Кабір",
         "de": "Mubarak al-Kabir",
         "ga": "Mubarak al Kabir",

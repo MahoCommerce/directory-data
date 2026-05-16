@@ -1,6 +1,7 @@
 {
     "AD": {
         "en": "Adygeja, Respublika",
+        "ba": "Адыгей Республикаһы",
         "hi": "अदिगेजा, रिपब्लिका",
         "hu": "Adigeföld, Köztársaság",
         "nl": "Adygeya, Republiek",
@@ -12,6 +13,7 @@
     },
     "AL": {
         "en": "Altaj, Respublika",
+        "ba": "Алтай Республикаһы",
         "eo": "Altajo, Respubliko",
         "hi": "अल्ताज, रिपब्लिका",
         "hu": "Altaji Köztársaság",
@@ -24,6 +26,7 @@
     },
     "ALT": {
         "en": "Altajskij kraj",
+        "ba": "Алтай крайы",
         "ga": "Altai Krai",
         "hi": "अल्ताजस्किज क्रज",
         "hu": "Altaji határterület",
@@ -36,6 +39,7 @@
     },
     "AMU": {
         "en": "Amurskaja oblast'",
+        "ba": "Амур өлкәһе",
         "eo": "Provinco Amururbo",
         "hi": "अमर्सकाया ओब्लास्ट'",
         "hu": "Amuri terület",
@@ -48,6 +52,7 @@
     },
     "ARK": {
         "en": "Arhangel'skaja oblast'",
+        "ba": "Архангельск өлкәһе",
         "eo": "Provinco Ĉefanĝelurbo",
         "hi": "अर्हांगेल'स्काजा ओब्लास्ट'",
         "hu": "Arhangelszki terület",
@@ -60,6 +65,7 @@
     },
     "AST": {
         "en": "Astrahanskaja oblast'",
+        "ba": "Әстерхан өлкәһе",
         "ga": "Oblast Astrahanskaja'",
         "hi": "एस्ट्राहांस्काजा ओब्लास्ट'",
         "hu": "Asztraháni terület",
@@ -72,6 +78,7 @@
     },
     "BA": {
         "en": "Bashkortostan, Respublika",
+        "ba": "Башҡортостан Республикаһы",
         "be": "Рэспубліка Башкартастан",
         "bg": "Башкортостан, Република",
         "da": "Basjkirien, Republikken",
@@ -99,6 +106,7 @@
     },
     "BEL": {
         "en": "Belgorodskaja oblast'",
+        "ba": "Белгород өлкәһе",
         "ga": "Oblast Belgorod\"",
         "hi": "बेलगोरोडस्काजा ओब्लास्ट'",
         "hu": "Belgorodi terület",
@@ -111,6 +119,7 @@
     },
     "BRY": {
         "en": "Brjanskaja oblast'",
+        "ba": "Брянск өлкәһе",
         "ga": "Oblast Bryansk\"",
         "hi": "ब्रांस्काजा ओब्लास्ट'",
         "hu": "Brjanszki terület",
@@ -123,6 +132,7 @@
     },
     "BU": {
         "en": "Burjatija, Respublika",
+        "ba": "Бүрәт Республикаһы",
         "eo": "Burjatio, Respubliko",
         "ga": "Buriatrics, Respublika",
         "hi": "बुर्जतिजा, रिपब्लिका",
@@ -136,6 +146,7 @@
     },
     "CE": {
         "en": "Chechenskaya Respublika",
+        "ba": "Чечен Республикаһы",
         "be": "Чачэнская Рэспубліка",
         "bg": "Чеченска Република",
         "cs": "Čečenská republika",
@@ -165,6 +176,7 @@
     },
     "CHE": {
         "en": "Chelyabinskaya oblast'",
+        "ba": "Силәбе өлкәһе",
         "be": "Чалябінская вобласць",
         "de": "Oblast Tscheljabinsk",
         "fi": "Tšeljabinskin alue",
@@ -189,6 +201,7 @@
     },
     "CHU": {
         "en": "Chukotskiy avtonomnyy okrug",
+        "ba": "Чукот автономиялы округы",
         "be": "Чукоцкая аўтаномная акруга",
         "de": "Autonomer Kreis Tschuktschen",
         "fi": "Tšukotkan autonominen piirikunta",
@@ -212,6 +225,7 @@
     },
     "CU": {
         "en": "Chuvashskaya Respublika",
+        "ba": "Сыуаш Республикаһы",
         "be": "Чувашская Рэспубліка",
         "da": "Tjuvasien, Republikken",
         "de": "Republik Tschuwaschien",
@@ -238,6 +252,7 @@
     },
     "DA": {
         "en": "Dagestan, Respublika",
+        "ba": "Дағстан Республикаһы",
         "be": "Рэспубліка Дагестан",
         "bg": "Дагестан, Република",
         "da": "Dagestan, Republikken",
@@ -266,6 +281,7 @@
     },
     "IN": {
         "en": "Ingushetiya, Respublika",
+        "ba": "Ингушетия Республикаһы",
         "ga": "Ingushetia, Poblacht na hIngushetia",
         "hi": "इंगुशेटिया, रिपब्लिका",
         "hu": "Ingusföld, Köztársaság",
@@ -278,6 +294,7 @@
     },
     "IRK": {
         "en": "Irkutskaja oblast'",
+        "ba": "Иркутск өлкәһе",
         "ga": "Réigiún Irkutsk.\"",
         "hi": "इरकुत्स्काया ओब्लास्ट'",
         "hu": "Irkutszki terület",
@@ -290,6 +307,7 @@
     },
     "IVA": {
         "en": "Ivanovskaja oblast'",
+        "ba": "Иваново өлкәһе",
         "ga": "Oblast Ivanovskaja'",
         "hi": "इवानोव्स्काया ओब्लास्ट'",
         "hu": "Ivanovói terület",
@@ -302,6 +320,7 @@
     },
     "KAM": {
         "en": "Kamchatskiy kray",
+        "ba": "Камчатка крайы",
         "be": "Камчацкі край",
         "bg": "Кения",
         "da": "Kamtjatka Kraj",
@@ -329,6 +348,7 @@
     },
     "KB": {
         "en": "Kabardino-Balkarskaja Respublika",
+        "ba": "Ҡабарҙы-Балҡар Республикаһы",
         "hi": "काबर्डिनो-बाल्करस्का रेस्पब्लिका",
         "hu": "Kabard- és Balkárföldi Köztársaság",
         "nl": "Kabardië-Balkarië, Republiek",
@@ -340,6 +360,7 @@
     },
     "KC": {
         "en": "Karachayevo-Cherkesskaya Respublika",
+        "ba": "Ҡарасай-Черкес Республикаһы",
         "be": "Карачаева-Чаркеская Рэспубліка",
         "da": "Karatjaj-Tjerkessien, Republikken",
         "de": "Republik Karatschai-Tscherkessien",
@@ -367,6 +388,7 @@
     },
     "KDA": {
         "en": "Krasnodarskij kraj",
+        "ba": "Краснодар крайы",
         "hi": "क्रास्नोडार्स्की क्रज",
         "hu": "Krasznodari határterület",
         "nl": "Krasnodar, Kraj",
@@ -378,6 +400,7 @@
     },
     "KEM": {
         "en": "Kemerovskaja oblast'",
+        "ba": "Кемерово өлкәһе",
         "ga": "Oblast Kemerovskaya\"",
         "hi": "केमेरोव्स्काया ओब्लास्ट'",
         "hu": "Kemerovói terület",
@@ -390,6 +413,7 @@
     },
     "KGD": {
         "en": "Kaliningradskaja oblast'",
+        "ba": "Калининград өлкәһе",
         "eo": "Provinco Kaliningrado",
         "ga": "Oblast Kaliningradskaya'",
         "hi": "कलिनिनग्रादस्काजा ओब्लास्ट'",
@@ -403,6 +427,7 @@
     },
     "KGN": {
         "en": "Kurganskaja oblast'",
+        "ba": "Ҡурған өлкәһе",
         "ga": "Oblast na gCoirdíneach.\"",
         "hi": "कुर्गान्स्काया ओब्लास्ट'",
         "hu": "Kurgani terület",
@@ -415,6 +440,7 @@
     },
     "KHA": {
         "en": "Habarovskij kraj",
+        "ba": "Хабаровск крайы",
         "hi": "हबरोवस्की क्रज",
         "hu": "Habarovszki határterület",
         "nl": "Chabarovsk, Kraj",
@@ -426,6 +452,7 @@
     },
     "KHM": {
         "en": "Hanty-Mansijskij avtonomnyj okrug",
+        "ba": "Ханты-Манси автономиялы округы",
         "ga": "Okrug Uathrialach Khanty-Mansi",
         "hi": "हंटी-मैनसिज्स्की एव्टोनोमनीज ऑक्रग",
         "hu": "Hanti-Manszijszki Autonóm körzet",
@@ -438,6 +465,7 @@
     },
     "KIR": {
         "en": "Kirovskaja oblast'",
+        "ba": "Киров өлкәһе",
         "ga": "Oblast Kirovskaya\"",
         "hi": "किरोव्स्काया ओब्लास्ट'",
         "hu": "Kirovi terület",
@@ -450,6 +478,7 @@
     },
     "KK": {
         "en": "Hakasija, Respublika",
+        "ba": "Хакасия Республикаһы",
         "ga": "Khakassia, Poblacht",
         "hi": "हाकासिजा, रिपब्लिका",
         "hu": "Hakaszföld, Köztársaság",
@@ -462,6 +491,7 @@
     },
     "KL": {
         "en": "Kalmykija, Respublika",
+        "ba": "Ҡалмыҡ Республикаһы",
         "eo": "Kalmukio, Respubliko",
         "ga": "Kalmykia, Poblacht",
         "hi": "कलमीकिजा, रिपब्लिका",
@@ -475,6 +505,7 @@
     },
     "KLU": {
         "en": "Kaluzhskaya oblast'",
+        "ba": "Калуга өлкәһе",
         "be": "Калужская вобласць",
         "de": "Oblast Kaluga",
         "fi": "Kalugan alue",
@@ -498,6 +529,7 @@
     },
     "KO": {
         "en": "Komi, Respublika",
+        "ba": "Коми Республикаһы",
         "be": "Рэспубліка Комі",
         "bg": "Коми, Република",
         "da": "Komi, Republikken",
@@ -526,6 +558,7 @@
     },
     "KOS": {
         "en": "Kostromskaja oblast'",
+        "ba": "Кострома өлкәһе",
         "ga": "Oblast Kostroma\"",
         "hi": "कोस्ट्रोम्स्काया ओब्लास्ट'",
         "hu": "Kostromai terület",
@@ -538,6 +571,7 @@
     },
     "KR": {
         "en": "Karelija, Respublika",
+        "ba": "Карелия Республикаһы",
         "eo": "Karelio, Respubliko",
         "ga": "Karelia, An Phoblacht",
         "hi": "करेलिजा, रिपब्लिका",
@@ -551,6 +585,7 @@
     },
     "KRS": {
         "en": "Kurskaja oblast'",
+        "ba": "Курск өлкәһе",
         "ga": "Réigiún na gCoirdíneach.\"",
         "hi": "कुर्सकाया ओब्लास्ट'",
         "hu": "Kurszki terület",
@@ -563,6 +598,7 @@
     },
     "KYA": {
         "en": "Krasnojarskij kraj",
+        "ba": "Красноярск крайы",
         "ga": "Krasnoyarsk Krai",
         "hi": "क्रास्नोजार्स्किज क्रज",
         "hu": "Krasznojarszki határterület",
@@ -575,6 +611,7 @@
     },
     "LEN": {
         "en": "Leningradskaja oblast'",
+        "ba": "Ленинград өлкәһе",
         "eo": "Provinco Leningrado",
         "ga": "Réigiún Leningrad.\"",
         "hi": "लेनिनग्रादस्काजा ओब्लास्ट'",
@@ -588,6 +625,7 @@
     },
     "LIP": {
         "en": "Lipeckaja oblast'",
+        "ba": "Липецк өлкәһе",
         "ga": "Oblast Lipetskaya'",
         "hi": "लिपेकाजा ओब्लास्ट'",
         "hu": "Lipecki terület",
@@ -600,6 +638,7 @@
     },
     "MAG": {
         "en": "Magadanskaja oblast'",
+        "ba": "Магадан өлкәһе",
         "ga": "\"Réigiún Magadan\"",
         "hi": "मगाडनस्काजा ओब्लास्ट'",
         "hu": "Magadani terület",
@@ -612,6 +651,7 @@
     },
     "ME": {
         "en": "Marij Èl, Respublika",
+        "ba": "Марий Эл Республикаһы",
         "hi": "मारिज इल, रिपब्लिका",
         "hu": "Mari El Köztársaság",
         "nl": "Mari El, Republiek",
@@ -623,6 +663,7 @@
     },
     "MO": {
         "en": "Mordovija, Respublika",
+        "ba": "Мордовия Республикаһы",
         "eo": "Mordvio, Respubliko",
         "hi": "मोर्दोविया, रिपब्लिका",
         "hu": "Mordvin Köztársaság",
@@ -635,6 +676,7 @@
     },
     "MOS": {
         "en": "Moskovskaja oblast'",
+        "ba": "Мәскәү өлкәһе",
         "eo": "Provinco Moskvo",
         "ga": "Réigiún Mhoscó.\"",
         "hi": "मोस्कोवस्काजा ओब्लास्ट",
@@ -646,8 +688,33 @@
         "ta": "மொச்கோவ்ச்காசா ஒப்லாச்ட்'",
         "uk": "Московська область"
     },
+    "MOW": {
+        "en": "Moskva",
+        "ba": "Мәскәү",
+        "be": "Масква",
+        "bg": "Москва",
+        "de": "Moskau",
+        "eo": "Moskvo",
+        "fi": "Moskova",
+        "fr": "Moscou",
+        "ga": "Moscó",
+        "hi": "मॉस्को",
+        "hu": "Moszkva",
+        "it": "Mosca",
+        "lt": "Maskva",
+        "nl": "Moskou",
+        "pl": "Moskwa",
+        "ro": "Orașul Moscova",
+        "ru": "Москва",
+        "sr": "Москва",
+        "ta": "மோச்க்வா",
+        "th": "มอสโก",
+        "tr": "Moskova",
+        "uk": "Москва"
+    },
     "MUR": {
         "en": "Murmanskaja oblast'",
+        "ba": "Мурманск өлкәһе",
         "ga": "Oblast Murmansk\"",
         "hi": "मुरमांस्काया ओब्लास्ट",
         "hu": "Murmanszki terület",
@@ -660,6 +727,7 @@
     },
     "NEN": {
         "en": "Neneckij avtonomnyj okrug",
+        "ba": "Ненец автономиялы округы",
         "ga": "Nenetsky Uathrialach Okrug",
         "hi": "नेकेकिज एव्टोनोम्नीज ऑक्रग",
         "hu": "Nyenyi Autonóm körzet",
@@ -672,6 +740,7 @@
     },
     "NGR": {
         "en": "Novgorodskaja oblast'",
+        "ba": "Новгород өлкәһе",
         "ga": "Oblast Novgorod\"",
         "hi": "नोवगोरोडस्काजा ओब्लास्ट'",
         "hu": "Novgorodi terület",
@@ -684,6 +753,7 @@
     },
     "NIZ": {
         "en": "Nizhegorodskaya oblast'",
+        "ba": "Түбәнге Новгород өлкәһе",
         "be": "Ніжагародская вобласць",
         "de": "Oblast Nischni Nowgorod",
         "fi": "Nižni Novgorodin alue",
@@ -708,6 +778,7 @@
     },
     "NVS": {
         "en": "Novosibirskaja oblast'",
+        "ba": "Новосибирск өлкәһе",
         "eo": "Provinco Novosiberio",
         "ga": "Oblast Novosibirsk\"",
         "hi": "नोवोसिबिर्स्का ओब्लास्ट'",
@@ -721,6 +792,7 @@
     },
     "OMS": {
         "en": "Omskaja oblast'",
+        "ba": "Омск өлкәһе",
         "ga": "\"Réigiún Omsk\"",
         "hi": "ओम्स्काया ओब्लास्ट'",
         "hu": "Omszki terület",
@@ -734,6 +806,7 @@
     },
     "ORE": {
         "en": "Orenburgskaja oblast'",
+        "ba": "Ырымбур өлкәһе",
         "ga": "\"Oblast Orenburg\"",
         "hi": "ऑरेनबर्गस्काजा ओब्लास्ट'",
         "hu": "Orenburgi terület",
@@ -747,6 +820,7 @@
     },
     "ORL": {
         "en": "Orlovskaja oblast'",
+        "ba": "Орёл өлкәһе",
         "ga": "Réigiún Oryol.\"",
         "hi": "ओर्लोव्स्काजा ओब्लास्ट'",
         "hu": "Oryoli terület",
@@ -759,6 +833,7 @@
     },
     "PER": {
         "en": "Permskij kraj",
+        "ba": "Пермь крайы",
         "eo": "Regiono Permio",
         "hi": "पर्मस्किज क्रज",
         "hu": "Permi határterület",
@@ -771,6 +846,7 @@
     },
     "PNZ": {
         "en": "Penzenskaja oblast'",
+        "ba": "Пенза өлкәһе",
         "ga": "Oblast Penzenskaya\"",
         "hi": "पेंज़ेंस्काया ओब्लास्ट'",
         "hu": "Penzai terület",
@@ -784,6 +860,7 @@
     },
     "PRI": {
         "en": "Primorskij kraj",
+        "ba": "Диңгеҙ буйы крайы",
         "hi": "प्राइमोर्स्किज क्रज",
         "hu": "Primorszki határterület",
         "nl": "Primorje, Kraj",
@@ -795,6 +872,7 @@
     },
     "PSK": {
         "en": "Pskovskaja oblast'",
+        "ba": "Псков өлкәһе",
         "ga": "Oblast Pskov\"",
         "hi": "पस्कोव्स्काया ओब्लास्ट'",
         "hu": "Pszkovi terület",
@@ -808,6 +886,7 @@
     },
     "ROS": {
         "en": "Rostovskaja oblast'",
+        "ba": "Ростов өлкәһе",
         "ga": "Oblast Rostov.\"",
         "hi": "रोस्तोव्स्काया ओब्लास्ट'",
         "hu": "Rosztovi terület",
@@ -821,6 +900,7 @@
     },
     "RYA": {
         "en": "Rjazanskaja oblast'",
+        "ba": "Рязань өлкәһе",
         "ga": "Oblast Ryazan\"",
         "hi": "रजज़ानस्काजा ओब्लास्ट'",
         "hu": "Rjazanyi terület",
@@ -834,6 +914,7 @@
     },
     "SA": {
         "en": "Saha, Respublika",
+        "ba": "Саха Республикаһы",
         "ga": "Saha, Poblacht",
         "hi": "साहा, रिपब्लिका",
         "hu": "Saha Köztársaság",
@@ -846,6 +927,7 @@
     },
     "SAK": {
         "en": "Sahalinskaja oblast'",
+        "ba": "Сахалин өлкәһе",
         "eo": "Provinco Saĥaleno",
         "ga": "Oblast Sakhalinskaya\"",
         "hi": "सहालिंस्काजा ओब्लास्ट'",
@@ -860,6 +942,7 @@
     },
     "SAM": {
         "en": "Samarskaja oblast'",
+        "ba": "Һамар өлкәһе",
         "eo": "Provinco Samaro",
         "hi": "समरसकाया ओब्लास्ट'",
         "hu": "Szamara megye",
@@ -873,6 +956,7 @@
     },
     "SAR": {
         "en": "Saratovskaja oblast'",
+        "ba": "Һарытау өлкәһе",
         "ga": "Saratovskaja oblast.\"",
         "hi": "सेराटोव्स्काया ओब्लास्ट'",
         "hu": "Szaratovi terület",
@@ -886,6 +970,7 @@
     },
     "SE": {
         "en": "Severnaja Osetija, Respublika",
+        "ba": "Төньяҡ Осетия Республикаһы",
         "ga": "An Oiséit Thuaidh, Poblacht na Seirbia",
         "hi": "सेवर्नाजा ओसेटिजा, रिपब्लिका",
         "hu": "Észak-Oszétia, Köztársaság",
@@ -898,6 +983,7 @@
     },
     "SMO": {
         "en": "Smolenskaja oblast'",
+        "ba": "Смоленск өлкәһе",
         "ga": "Réigiún Smolensk'",
         "hi": "स्मोलेंस्काजा ओब्लास्ट'",
         "hu": "Szmolenszki terület",
@@ -909,8 +995,37 @@
         "ta": "ச்மோலென்ச்காசா ஒப்லாச்ட்'",
         "uk": "Смоленська область"
     },
+    "SPE": {
+        "en": "Sankt-Peterburg",
+        "ba": "Санкт-Петербург",
+        "be": "Санкт-Пецярбург",
+        "bg": "Санкт Петербург",
+        "cs": "Petrohrad",
+        "da": "Sankt Petersborg",
+        "de": "Sankt Peterburg",
+        "eo": "Sankt-Peterburgo",
+        "fi": "Pietari",
+        "fr": "Saint-Pétersbourg",
+        "ga": "Cathair Pheadair",
+        "hi": "सैंक्ट-पीटरबर्ग",
+        "hu": "Szentpétervár",
+        "it": "San Pietroburgo",
+        "lt": "Sankt Peterburgas",
+        "nl": "Sint-Petersburg",
+        "pl": "Sankt Petersburg",
+        "ro": "Sankt Petersburg (Leningrad)",
+        "ru": "Санкт-Петербург",
+        "sk": "Petrohrad",
+        "sl": "Sankt Peterburg",
+        "sr": "Санкт Петерсбург",
+        "sv": "Sankt Petersburg",
+        "ta": "சாங்க்ட்-பீட்டர்பர்க்",
+        "th": "เซนต์ปีเตอร์สเบิร์ก",
+        "uk": "Санкт-Петербург"
+    },
     "STA": {
         "en": "Stavropol'skij kraj",
+        "ba": "Ставрополь крайы",
         "hi": "स्टावरोपोल'स्किज क्रज",
         "hu": "Sztavropoli határterület",
         "nl": "Stavropol, Kraj",
@@ -922,6 +1037,7 @@
     },
     "SVE": {
         "en": "Sverdlovskaja oblast'",
+        "ba": "Свердловск өлкәһе",
         "ga": "Oblast Sverdlovskaja'",
         "hi": "स्वेर्दलोव्स्काजा ओब्लास्ट'",
         "hu": "Szverdlovszki terület",
@@ -935,6 +1051,7 @@
     },
     "TA": {
         "en": "Tatarstan, Respublika",
+        "ba": "Татарстан Республикаһы",
         "be": "Рэспубліка Татарстан",
         "bg": "Татарстан, Република",
         "da": "Tatarstan, Republikken",
@@ -962,6 +1079,7 @@
     },
     "TAM": {
         "en": "Tambovskaja oblast'",
+        "ba": "Тамбов өлкәһе",
         "ga": "Oblast Tambov.\"",
         "hi": "तांबोव्स्काया ओब्लास्ट'",
         "hu": "Tambovi terület",
@@ -975,6 +1093,7 @@
     },
     "TOM": {
         "en": "Tomskaja oblast'",
+        "ba": "Томск өлкәһе",
         "ga": "Réigiún Tomsk.\"",
         "hi": "टॉम्स्काजा ओब्लास्ट'",
         "hu": "Tomszki terület",
@@ -988,6 +1107,7 @@
     },
     "TUL": {
         "en": "Tul'skaja oblast'",
+        "ba": "Тула өлкәһе",
         "hi": "तुल'स्काजा ओब्लास्ट'",
         "hu": "Tulai terület",
         "it": "Oblast' di Tula",
@@ -1000,6 +1120,7 @@
     },
     "TVE": {
         "en": "Tverskaja oblast'",
+        "ba": "Тверь өлкәһе",
         "ga": "Oblast Tver'",
         "hi": "टावर्स्काजा ओब्लास्ट'",
         "hu": "Tveri terület",
@@ -1013,6 +1134,7 @@
     },
     "TY": {
         "en": "Tyva, Respublika",
+        "ba": "Тыва Республикаһы",
         "hi": "टायवा, रिपब्लिका",
         "hu": "Tuva Köztársaság",
         "nl": "Toeva, Republiek",
@@ -1024,6 +1146,7 @@
     },
     "TYU": {
         "en": "Tjumenskaja oblast'",
+        "ba": "Төмән өлкәһе",
         "ga": "Oblast Tyumen\"",
         "hi": "त्जुमेंस्काजा ओब्लास्ट'",
         "hu": "Tyumenyi terület",
@@ -1037,6 +1160,7 @@
     },
     "UD": {
         "en": "Udmurtskaja Respublika",
+        "ba": "Удмурт Республикаһы",
         "eo": "Respubliko Udmurtio",
         "hi": "उदमुर्त्सकाया रिस्पब्लिका",
         "hu": "Udmurt Köztársaság",
@@ -1049,6 +1173,7 @@
     },
     "ULY": {
         "en": "Ul'janovskaja oblast'",
+        "ba": "Сембер өлкәһе",
         "hi": "उल'जानोवस्काजा ओब्लास्ट'",
         "hu": "Uljanovszki terület",
         "nl": "Oeljanovsk, Oblast",
@@ -1060,6 +1185,7 @@
     },
     "VGG": {
         "en": "Volgogradskaja oblast'",
+        "ba": "Волгоград өлкәһе",
         "eo": "Provinco Volgurbo",
         "ga": "Oblast Volgograd.\"",
         "hi": "वोल्गोग्राडस्काजा ओब्लास्ट'",
@@ -1074,6 +1200,7 @@
     },
     "VLA": {
         "en": "Vladimirskaja oblast'",
+        "ba": "Владимир өлкәһе",
         "eo": "Provinco Vladimiro",
         "hi": "व्लादिमीरस्काजा ओब्लास्ट'",
         "hu": "Vlagyimiri terület",
@@ -1087,6 +1214,7 @@
     },
     "VLG": {
         "en": "Vologodskaja oblast'",
+        "ba": "Вологда өлкәһе",
         "ga": "Oblast Vologda\"",
         "hi": "वोलोगोड्स्काया ओब्लास्ट'",
         "hu": "Vologdai terület",
@@ -1100,6 +1228,7 @@
     },
     "VOR": {
         "en": "Voronezhskaya oblast'",
+        "ba": "Воронеж өлкәһе",
         "be": "Варонежская вобласць",
         "de": "Oblast Woronesch",
         "fi": "Voronežin alue",
@@ -1124,6 +1253,7 @@
     },
     "YAN": {
         "en": "Jamalo-Neneckij avtonomnyj okrug",
+        "ba": "Ямал-Ненец автономиялы округы",
         "ga": "Yamalo-Nenets Uathrialach Okrug",
         "hi": "जमालो-नेनेकिज एव्टोनोमनीज ऑक्रग",
         "hu": "Jamalo-Nyenyec Autonóm körzet",
@@ -1136,6 +1266,7 @@
     },
     "YAR": {
         "en": "Jaroslavskaja oblast'",
+        "ba": "Ярославль өлкәһе",
         "ga": "Oblast Yaroslavskaya'",
         "hi": "जारोस्लावस्काजा ओब्लास्ट'",
         "hu": "Jaroszlavli terület",
@@ -1147,8 +1278,23 @@
         "ta": "சரோச்லாவ்ச்காசா ஒப்லாச்ட்'",
         "uk": "Ярославська область"
     },
+    "YEV": {
+        "en": "Evrejskaja avtonomnaja oblast'",
+        "ba": "Йәһүд автономиялы өлкәһе",
+        "eo": "Hebrea Aŭtonoma Provinco",
+        "ga": "Údarás Féinrialaitheach na nGiúdach\"",
+        "hi": "एवरेजस्का एव्टोनोम्नाजा ओब्लास्ट'",
+        "hu": "Zsidó Autonóm Terület",
+        "nl": "Joodse Autonome Oblast",
+        "pl": "Żydowski Obwód Autonomiczny",
+        "ro": "Autonomă Evreiască",
+        "ru": "Еврейская автономная область",
+        "ta": "எவ்ரெச்ச்காசா அவ்டோனோம்னாசா ஒப்லாச்ட்'",
+        "uk": "Єврейська автономна область"
+    },
     "ZAB": {
         "en": "Zabajkal'skij kraj",
+        "ba": "Байкал аръяғы крайы",
         "be": "Забайкальскі край",
         "de": "Region Transbaikalien",
         "fr": "Transbaïkalie",

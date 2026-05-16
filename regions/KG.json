@@ -1,6 +1,7 @@
 {
     "B": {
         "en": "Batken",
+        "ba": "Баткен",
         "be": "Баткенская вобласць",
         "he": "בטקן",
         "hi": "बैटकेन",
@@ -15,6 +16,7 @@
     },
     "C": {
         "en": "Chuyskaya oblast'",
+        "ba": "Чуй өлкәһе",
         "ga": "Oblast Chuyskaya'",
         "hi": "चुयस्काया ओब्लास्ट'",
         "hu": "Csuj terület",
@@ -26,6 +28,7 @@
     },
     "J": {
         "en": "Dzhalal-Abadskaya oblast'",
+        "ba": "Джалал-Абад өлкәһе",
         "ga": "Oblast Dzhalal-Abadskaya'",
         "hi": "दज़लाल-अबदस्काया ओब्लास्ट'",
         "hu": "Dzsalal-Abad terület",
@@ -37,6 +40,7 @@
     },
     "N": {
         "en": "Naryn",
+        "ba": "Нарын",
         "be": "Нарынская вобласць",
         "he": "נרין",
         "hi": "नरीन",
@@ -54,6 +58,7 @@
     },
     "O": {
         "en": "Osh",
+        "ba": "Ош",
         "be": "Оская вобласць",
         "de": "Osch",
         "eu": "Ox",
@@ -72,6 +77,7 @@
     },
     "T": {
         "en": "Talas",
+        "ba": "Талас",
         "be": "Талаская вобласць",
         "he": "טלס",
         "hi": "तलास",
@@ -86,6 +92,7 @@
     },
     "Y": {
         "en": "Issyk-Kul'skaja oblast'",
+        "ba": "Иссыҡ-Күл өлкәһе",
         "ga": "Oblast Issyk-Kul'skaya'",
         "hi": "इस्सिक-कुल'स्काजा ओब्लास्ट'",
         "hu": "Iszik-Köl terület",

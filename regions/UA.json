@@ -1,6 +1,7 @@
 {
     "05": {
         "en": "Vinnytska oblast",
+        "ba": "Винница өлкәһе",
         "hi": "विनित्स्का ओब्लास्ट",
         "hu": "Vinnyicai terület",
         "nl": "Vinnytsja, Provincie",
@@ -12,6 +13,7 @@
     },
     "07": {
         "en": "Volynska oblast",
+        "ba": "Волынь өлкәһе",
         "ga": "Oblast Volynska",
         "hi": "वोलिंस्का ओब्लास्ट",
         "hu": "Volinyi terület",
@@ -25,6 +27,7 @@
     },
     "09": {
         "en": "Luhanska oblast",
+        "ba": "Луганск өлкәһе",
         "ga": "Luhanska Oblast",
         "hi": "लुहांस्का ओब्लास्ट",
         "hu": "Luhanszk megye",
@@ -37,6 +40,7 @@
     },
     "12": {
         "en": "Dnipropetrovska oblast",
+        "ba": "Днепропетровск өлкәһе",
         "eo": "Provinco Dnepropetrurbo",
         "ga": "Dnipropetrovsk Oblast",
         "hi": "निप्रोपेत्रोव्स्का ओब्लास्ट",
@@ -49,6 +53,7 @@
     },
     "14": {
         "en": "Donetska oblast",
+        "ba": "Донецк өлкәһе",
         "ga": "Donetsk Oblast",
         "hi": "डोनेटस्का ओब्लास्ट",
         "hu": "Donyecki terület",
@@ -61,6 +66,7 @@
     },
     "18": {
         "en": "Zhytomyrska oblast",
+        "ba": "Житомир өлкәһе",
         "ga": "Réigiún Zhytomyr",
         "hi": "ज़ाइटोमिरस्का ओब्लास्ट",
         "hu": "Zsitomiri terület",
@@ -72,6 +78,7 @@
     },
     "21": {
         "en": "Zakarpatska oblast",
+        "ba": "Карпат аръяғы өлкәһе",
         "ga": "Réigiún transcarpathian",
         "hi": "ज़कारपत्स्का ओब्लास्ट",
         "hu": "Kárpátalja megye",
@@ -84,6 +91,7 @@
     },
     "23": {
         "en": "Zaporizka oblast",
+        "ba": "Запорожье өлкәһе",
         "ga": "Zaporizhzhia Oblast",
         "hi": "ज़ापोरिज़्का ओब्लास्ट",
         "hu": "Zaporizzsja megye",
@@ -96,6 +104,7 @@
     },
     "26": {
         "en": "Ivano-Frankivska oblast",
+        "ba": "Ивано-Франковск өлкәһе",
         "ga": "Oblast Ivano-Frankivska",
         "hi": "इवानो-फ्रैंकिव्स्का ओब्लास्ट",
         "hu": "Ivano-Frankivszki terület",
@@ -108,6 +117,7 @@
     },
     "32": {
         "en": "Kyivska oblast",
+        "ba": "Киев өлкәһе",
         "de": "Kyjiwska oblast",
         "eo": "Kievio",
         "ga": "Réigiún Kyiv",
@@ -122,6 +132,7 @@
     },
     "35": {
         "en": "Kirovohradska oblast",
+        "ba": "Кировоград өлкәһе",
         "ga": "Réigiún Kirovohrad",
         "hi": "किरोवोह्रदस्का ओब्लास्ट",
         "hu": "Kirovohradi terület",
@@ -134,6 +145,7 @@
     },
     "46": {
         "en": "Lvivska oblast",
+        "ba": "Львов өлкәһе",
         "eo": "Provinco Lvovio",
         "ga": "Oblast Lvivska",
         "hi": "लविव्स्का ओब्लास्ट",
@@ -146,6 +158,7 @@
     },
     "48": {
         "en": "Mykolaivska oblast",
+        "ba": "Николаев өлкәһе",
         "ga": "Oblast Mykolaivska",
         "hi": "मायकोलाइव्स्का ओब्लास्ट",
         "hu": "Mikolajivi terület",
@@ -157,6 +170,7 @@
     },
     "51": {
         "en": "Odeska oblast",
+        "ba": "Одесса өлкәһе",
         "eo": "Provinco Odeso",
         "ga": "Limistéar Odeska",
         "hi": "ओडेस्का ओब्लास्ट",
@@ -170,6 +184,7 @@
     },
     "53": {
         "en": "Poltavska oblast",
+        "ba": "Полтава өлкәһе",
         "ga": "Oblast Poltavska",
         "hi": "पोल्टावस्का ओब्लास्ट",
         "hu": "Poltavai terület",
@@ -183,6 +198,7 @@
     },
     "56": {
         "en": "Rivnenska oblast",
+        "ba": "Ровно өлкәһе",
         "ga": "Rivne Oblast",
         "hi": "रिव्नेंस्का ओब्लास्ट",
         "hu": "Rivne megye",
@@ -195,6 +211,7 @@
     },
     "59": {
         "en": "Sumska oblast",
+        "ba": "Сумы өлкәһе",
         "ga": "Ceantar Foraoise",
         "hi": "सुम्स्का ओब्लास्ट",
         "hu": "Szumy megye",
@@ -207,6 +224,7 @@
     },
     "61": {
         "en": "Ternopilska oblast",
+        "ba": "Тернополь өлкәһе",
         "ga": "Ternopil Oblast",
         "hi": "टर्नोपिल्स्का ओब्लास्ट",
         "hu": "Ternopili terület",
@@ -219,6 +237,7 @@
     },
     "63": {
         "en": "Kharkivska oblast",
+        "ba": "Харьков өлкәһе",
         "eo": "Ĥarkovio",
         "ga": "Oblast Kharkivska",
         "hi": "खार्किवस्का ओब्लास्ट",
@@ -232,6 +251,7 @@
     },
     "65": {
         "en": "Khersonska oblast",
+        "ba": "Херсон өлкәһе",
         "ga": "Kherson Oblast",
         "hi": "ख़ेरसोंस्का ओब्लास्ट",
         "hu": "Herszon megye",
@@ -244,6 +264,7 @@
     },
     "68": {
         "en": "Khmelnytska oblast",
+        "ba": "Хмельницкий өлкәһе",
         "ga": "Réigiún Khmelnyt",
         "hi": "खमेलनित्स्का ओब्लास्ट",
         "hu": "Hmelnyickiji terület",
@@ -256,6 +277,7 @@
     },
     "71": {
         "en": "Cherkaska oblast",
+        "ba": "Черкассы өлкәһе",
         "ga": "Cherkash Oblast",
         "hi": "चर्कास्का ओब्लास्ट",
         "hu": "Cserkaszi terület",
@@ -268,6 +290,7 @@
     },
     "74": {
         "en": "Chernihivska oblast",
+        "ba": "Чернигов өлкәһе",
         "ga": "Chernihiv Oblast",
         "hi": "चेर्निहाइव्स्का ओब्लास्ट",
         "hu": "Csernyihivi terület",
@@ -280,6 +303,7 @@
     },
     "77": {
         "en": "Chernivetska oblast",
+        "ba": "Черновцы өлкәһе",
         "ga": "Chernivet Oblast",
         "hi": "चेर्निवत्स्का ओब्लास्ट",
         "hu": "Csernyivci terület",

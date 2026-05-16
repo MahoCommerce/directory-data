@@ -1,6 +1,7 @@
 {
     "C": {
         "en": "Centrale",
+        "ba": "Үҙәк",
         "eo": "Centro",
         "ga": "Lárnach",
         "hi": "सेंट्रेल",
@@ -11,12 +12,14 @@
     },
     "K": {
         "en": "Kara",
+        "ba": "Кара",
         "hi": "कारा",
         "ta": "காரா",
         "uk": "Кара"
     },
     "M": {
         "en": "Maritime (Région)",
+        "ba": "Диңгеҙ буйы (Төбәк)",
         "eo": "Marbordo (Regiono)",
         "ga": "Muirí (réigiún)",
         "hi": "समुद्री (क्षेत्र)",
@@ -29,6 +32,7 @@
     },
     "P": {
         "en": "Plateaux",
+        "ba": "Плато",
         "be": "Плато",
         "eo": "Altebenaĵoj",
         "ga": "Tráidirí",
@@ -44,6 +48,7 @@
     },
     "S": {
         "en": "Savanes",
+        "ba": "Саван",
         "eo": "Savanoj",
         "hi": "सवानेस",
         "ta": "சவேன்ச்",

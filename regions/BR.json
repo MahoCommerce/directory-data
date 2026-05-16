@@ -1,6 +1,7 @@
 {
     "AC": {
         "en": "Acre",
+        "ba": "Акри",
         "be": "Акры",
         "eo": "Akro",
         "ga": "Acra",
@@ -16,6 +17,7 @@
     },
     "AL": {
         "en": "Alagoas",
+        "ba": "Алагоас",
         "be": "Алагоас",
         "hi": "अलागोस",
         "ja": "アラゴアス",
@@ -29,6 +31,7 @@
     },
     "AM": {
         "en": "Amazonas",
+        "ba": "Амазонас",
         "be": "Амазонас",
         "eo": "Amazonio",
         "fr": "Amazone",
@@ -44,6 +47,7 @@
     },
     "AP": {
         "en": "Amapá",
+        "ba": "Амапа",
         "be": "Амапа",
         "fr": "Amapa",
         "hi": "अमापा",
@@ -61,6 +65,7 @@
     },
     "BA": {
         "en": "Bahia",
+        "ba": "Баия",
         "be": "Баія",
         "eo": "Bahio",
         "hi": "बाहिया",
@@ -75,6 +80,7 @@
     },
     "CE": {
         "en": "Ceará",
+        "ba": "Сеара",
         "be": "Сеара",
         "fr": "Ceara",
         "hi": "सेअरा",
@@ -90,8 +96,32 @@
         "th": "เซอารา",
         "uk": "Сеара"
     },
+    "DF": {
+        "en": "Distrito Federal",
+        "ba": "Федераль округ",
+        "be": "Федэральная акруга",
+        "eo": "Federacia Distrikto",
+        "eu": "Barruti Federala",
+        "fr": "District fédéral",
+        "ga": "Ceantar Feidearálach",
+        "hi": "डिस्ट्रिटो फेडरल",
+        "hu": "Szövetségi Kerület",
+        "it": "Distretto Federale",
+        "ka": "ფედერალური ოლქი",
+        "lt": "Brazilijos federalinė teritorija",
+        "nl": "Federaal District",
+        "pl": "Dystrykt Federalny",
+        "ro": "Districtul federal",
+        "sc": "Distretu Federale",
+        "sr": "Федерални округ",
+        "ta": "டிச்ட்ரிட்டோ பெடரல்",
+        "th": "เฟเดอรัลดิสตริกต์",
+        "uk": "Федеральний округ",
+        "vi": "Vùng Liên Bang"
+    },
     "ES": {
         "en": "Espírito Santo",
+        "ba": "Эспириту-Санту",
         "be": "Эспірыту-Санту",
         "eo": "Spirito Sankta",
         "es": "Espíritu Santo",
@@ -113,6 +143,7 @@
     },
     "GO": {
         "en": "Goiás",
+        "ba": "Гояс",
         "be": "Гаяс",
         "fr": "Goias",
         "ga": "Goias",
@@ -131,6 +162,7 @@
     },
     "MA": {
         "en": "Maranhão",
+        "ba": "Мараньян",
         "be": "Мараньян",
         "es": "Marañón",
         "fr": "Maranhao",
@@ -150,6 +182,7 @@
     },
     "MG": {
         "en": "Minas Gerais",
+        "ba": "Минас-Жерайс",
         "be": "Мінас-Жэрайс",
         "eo": "Minoj Ĝeneralaj",
         "hi": "मिनस गेरैस",
@@ -164,6 +197,7 @@
     },
     "MS": {
         "en": "Mato Grosso do Sul",
+        "ba": "Мату-Гросу-ду-Сул",
         "be": "Мату-Гросу-ду-Сул",
         "hi": "माटो ग्रोसो दो सुल",
         "it": "Mato Grosso del Sud",
@@ -180,6 +214,7 @@
     },
     "MT": {
         "en": "Mato Grosso",
+        "ba": "Мату-Гросу",
         "be": "Мату-Гросу",
         "hi": "माटो ग्रोसो",
         "ja": "マトグロッソ",
@@ -193,6 +228,7 @@
     },
     "PA": {
         "en": "Pará",
+        "ba": "Пара",
         "be": "Пара",
         "fr": "Para",
         "ga": "Stop",
@@ -211,6 +247,7 @@
     },
     "PB": {
         "en": "Paraíba",
+        "ba": "Параиба",
         "be": "Параіба",
         "fr": "Paraiba",
         "ga": "Paraiba",
@@ -229,6 +266,7 @@
     },
     "PE": {
         "en": "Pernambuco",
+        "ba": "Пернамбуку",
         "be": "Пернамбуку",
         "eo": "Pernambuko",
         "fr": "Pernambouc",
@@ -244,6 +282,7 @@
     },
     "PI": {
         "en": "Piauí",
+        "ba": "Пиауи",
         "be": "Піяўі",
         "fr": "Piaui",
         "ga": "Piaui",
@@ -262,6 +301,7 @@
     },
     "PR": {
         "en": "Paraná",
+        "ba": "Парана",
         "be": "Парана",
         "fr": "Parana",
         "hi": "पराना",
@@ -280,6 +320,7 @@
     },
     "RJ": {
         "en": "Rio de Janeiro",
+        "ba": "Рио-де-Жанейро",
         "be": "Рыа-дэ-Жанэйра",
         "eo": "Rio-de-Ĵanejro",
         "hi": "रियो डी जनेरियो",
@@ -294,6 +335,7 @@
     },
     "RN": {
         "en": "Rio Grande do Norte",
+        "ba": "Риу-Гранди-ду-Норти",
         "be": "Рыу-Гранды-ду-Норты",
         "eo": "Riogrando de Nordo",
         "hi": "रियो ग्रांडे डो नॉर्ट",
@@ -310,6 +352,7 @@
     },
     "RO": {
         "en": "Rondônia",
+        "ba": "Рондония",
         "be": "Рандонія",
         "fr": "Rondonia",
         "hi": "रोन्डोनिया",
@@ -327,6 +370,7 @@
     },
     "RR": {
         "en": "Roraima",
+        "ba": "Рорайма",
         "be": "Рарайма",
         "hi": "रोराइमा",
         "ja": "ロライマ",
@@ -338,6 +382,7 @@
     },
     "RS": {
         "en": "Rio Grande do Sul",
+        "ba": "Риу-Гранди-ду-Сул",
         "be": "Рыу-Гранды-ду-Сул",
         "eo": "Riogrando de Sudo",
         "hi": "रियो ग्रांडे डो सुल",
@@ -354,6 +399,7 @@
     },
     "SC": {
         "en": "Santa Catarina",
+        "ba": "Санта-Катарина",
         "be": "Санта-Катарына",
         "eo": "Sankta Katerino",
         "fr": "Santa-Catarina",
@@ -369,6 +415,7 @@
     },
     "SE": {
         "en": "Sergipe",
+        "ba": "Сержипи",
         "be": "Сержыпі",
         "he": "סרז׳יפה",
         "hi": "सर्जिप",
@@ -383,6 +430,7 @@
     },
     "SP": {
         "en": "São Paulo",
+        "ba": "Сан-Паулу",
         "be": "Сан-Паўлу",
         "da": "Sao Paulo",
         "eo": "San-Paŭlo",
@@ -401,6 +449,7 @@
     },
     "TO": {
         "en": "Tocantins",
+        "ba": "Токантинс",
         "be": "Такантынс",
         "he": "טוקנטינס",
         "hi": "टोकेन्टिन्स",

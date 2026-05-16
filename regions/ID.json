@@ -1,6 +1,7 @@
 {
     "AC": {
         "en": "Aceh",
+        "ba": "Ачех",
         "be": "Ачэх",
         "ga": "AcehGeneric",
         "hi": "आचे",
@@ -13,6 +14,7 @@
     },
     "BA": {
         "en": "Bali",
+        "ba": "Бали",
         "be": "Балі",
         "eo": "Balio",
         "hi": "बाली",
@@ -26,6 +28,7 @@
     },
     "BB": {
         "en": "Kepulauan Bangka Belitung",
+        "ba": "Банка-Белитунг утрауҙары",
         "eo": "Insularo Banka-Belitung",
         "ga": "Oileáin Bangka Belitung",
         "hi": "केपुलाउअन बंगका बेलितुंग",
@@ -39,6 +42,7 @@
     },
     "BE": {
         "en": "Bengkulu",
+        "ba": "Бенкулу",
         "be": "Бенгкулу",
         "hi": "बेंग्कुलु",
         "ja": "ブンクル",
@@ -51,6 +55,7 @@
     },
     "BT": {
         "en": "Banten",
+        "ba": "Бантен",
         "be": "Бантэн",
         "hi": "बेंटेन",
         "ka": "ბანტენი",
@@ -62,6 +67,7 @@
     },
     "GO": {
         "en": "Gorontalo",
+        "ba": "Горонтало",
         "be": "Гарантала",
         "et": "gorontalo",
         "hi": "गोरोंतालो",
@@ -78,6 +84,7 @@
     },
     "JA": {
         "en": "Jambi",
+        "ba": "Джамби",
         "be": "Джамбі",
         "hi": "जाम्बी",
         "ja": "ジャンビ",
@@ -90,6 +97,7 @@
     },
     "JB": {
         "en": "Jawa Barat",
+        "ba": "Көнбайыш Ява",
         "be": "Заходняя Ява",
         "eo": "Okcidenta Javo",
         "fr": "Java-Ouest",
@@ -111,6 +119,7 @@
     },
     "JI": {
         "en": "Jawa Timur",
+        "ba": "Көнсығыш Ява",
         "be": "Усходняя Ява",
         "eo": "Orienta Javo",
         "fr": "Java-Est",
@@ -132,6 +141,7 @@
     },
     "JT": {
         "en": "Jawa Tengah",
+        "ba": "Үҙәк Ява",
         "be": "Цэнтральная Ява",
         "eo": "Centra Javo",
         "fr": "Java-Centre",
@@ -153,6 +163,7 @@
     },
     "JW": {
         "en": "Jawa",
+        "ba": "Ява",
         "be": "Ява",
         "de": "Java",
         "eo": "Javo",
@@ -174,6 +185,7 @@
     },
     "KA": {
         "en": "Kalimantan",
+        "ba": "Калимантан",
         "be": "Калімантан",
         "hi": "कालीमंतन",
         "ja": "カリマンタン",
@@ -187,6 +199,7 @@
     },
     "KB": {
         "en": "Kalimantan Barat",
+        "ba": "Көнбайыш Калимантан",
         "be": "Заходні Калімантан",
         "fr": "Kalimantan-Ouest",
         "ga": "Kalimantan Thiar",
@@ -206,6 +219,7 @@
     },
     "KI": {
         "en": "Kalimantan Timur",
+        "ba": "Көнсығыш Калимантан",
         "be": "Усходні Калімантан",
         "fr": "Kalimantan-Est",
         "ga": "Kalimantan Thoir",
@@ -225,6 +239,7 @@
     },
     "KR": {
         "en": "Kepulauan Riau",
+        "ba": "Риау утрауҙары",
         "be": "Астравы Рыау",
         "fr": "Îles Riau",
         "ga": "Oileáin Riau",
@@ -241,6 +256,7 @@
     },
     "KS": {
         "en": "Kalimantan Selatan",
+        "ba": "Көньяҡ Калимантан",
         "be": "Паўднёвы Калімантан",
         "fr": "Kalimantan-Sud",
         "ga": "Kalimantan Theas",
@@ -260,6 +276,7 @@
     },
     "KT": {
         "en": "Kalimantan Tengah",
+        "ba": "Үҙәк Калимантан",
         "be": "Цэнтральны Калімантан",
         "fr": "Kalimantan-Centre",
         "ga": "Kalimantan Láir",
@@ -279,6 +296,7 @@
     },
     "KU": {
         "en": "Kalimantan Utara",
+        "ba": "Төньяҡ Калимантан",
         "ga": "Kalimantan Thuaidh",
         "hi": "कालीमंतन उतरा",
         "hu": "Észak-Kalimantan",
@@ -290,6 +308,7 @@
     },
     "LA": {
         "en": "Lampung",
+        "ba": "Лампунг",
         "be": "Лампунг",
         "hi": "लैम्पुंग",
         "ja": "ランポン",
@@ -302,6 +321,7 @@
     },
     "MA": {
         "en": "Maluku",
+        "ba": "Малуку",
         "be": "Малуку",
         "de": "Molukken",
         "eo": "Molukoj",
@@ -320,6 +340,7 @@
     },
     "ML": {
         "en": "Maluku",
+        "ba": "Малуку",
         "be": "Малуку",
         "de": "Molukken",
         "eo": "Molukoj",
@@ -338,6 +359,7 @@
     },
     "MU": {
         "en": "Maluku Utara",
+        "ba": "Төньяҡ Малуку",
         "be": "Паўночнае Малуку",
         "eo": "Nordaj Molukoj",
         "fr": "Moluques-Nord",
@@ -358,6 +380,7 @@
     },
     "NB": {
         "en": "Nusa Tenggara Barat",
+        "ba": "Көнбайыш Кесе Зонд утрауҙары",
         "be": "Заходнія Малыя Зондскія астравы",
         "eo": "Okcidentaj Malgrandaj Sundaj Insuloj",
         "fr": "Îles de la Sonde occidentales",
@@ -378,6 +401,7 @@
     },
     "NT": {
         "en": "Nusa Tenggara Timur",
+        "ba": "Көнсығыш Кесе Зонд утрауҙары",
         "be": "Усходнія Малыя Зондскія астравы",
         "eo": "Orientaj Malgrandaj Sundaj Insuloj",
         "fr": "Îles de la Sonde orientales",
@@ -398,6 +422,7 @@
     },
     "NU": {
         "en": "Nusa Tenggara",
+        "ba": "Кесе Зонд утрауҙары",
         "be": "Малыя Зондскія астравы",
         "eo": "Malgrandaj Sundaj Insuloj",
         "hi": "नुसा तेंगारा",
@@ -412,6 +437,7 @@
     },
     "PA": {
         "en": "Papua",
+        "ba": "Папуа",
         "be": "Папуа",
         "eo": "Papuo",
         "hi": "पापुआ",
@@ -427,6 +453,7 @@
     },
     "PB": {
         "en": "Papua Barat",
+        "ba": "Көнбайыш Папуа",
         "be": "Заходняе Папуа",
         "eo": "Okcidenta Papuo",
         "ga": "Papua Thiar",
@@ -443,6 +470,7 @@
     },
     "PD": {
         "en": "Papua Barat Daya",
+        "ba": "Көньяҡ-Көнбайыш Папуа",
         "ga": "Papua Thiar Theas",
         "hi": "पापुआ बारात दया",
         "hu": "Dél-Nyugat-Pápua",
@@ -454,6 +482,7 @@
     },
     "PE": {
         "en": "Papua Pengunungan",
+        "ba": "Таулы Папуа",
         "ga": "Sléibhte Phapua",
         "hi": "पापुआ पेंगुनुंगन",
         "hu": "Pápua-hegyvidék",
@@ -464,6 +493,7 @@
     },
     "PP": {
         "en": "Papua",
+        "ba": "Папуа",
         "be": "Папуа",
         "eo": "Papuo",
         "hi": "पापुआ",
@@ -479,6 +509,7 @@
     },
     "PS": {
         "en": "Papua Selatan",
+        "ba": "Көньяҡ Папуа",
         "ga": "Papua Theas",
         "hi": "पापुआ सेलाटन",
         "hu": "Dél-Pápua",
@@ -490,6 +521,7 @@
     },
     "PT": {
         "en": "Papua Tengah",
+        "ba": "Үҙәк Папуа",
         "ga": "Papua Láir",
         "hi": "पापुआ तेंगाह",
         "hu": "Közép-Pápua",
@@ -501,6 +533,7 @@
     },
     "RI": {
         "en": "Riau",
+        "ba": "Риау",
         "be": "Рыау",
         "hi": "रिआउ",
         "ja": "リアウ",
@@ -511,6 +544,7 @@
     },
     "SA": {
         "en": "Sulawesi Utara",
+        "ba": "Төньяҡ Сулавеси",
         "be": "Паўночны Сулавесі",
         "eo": "Norda Sulaŭesio",
         "fr": "Sulawesi-Nord",
@@ -531,6 +565,7 @@
     },
     "SB": {
         "en": "Sumatera Barat",
+        "ba": "Көнбайыш Суматра",
         "eo": "Okcidenta Sumatro",
         "ga": "Sumatra Thiar",
         "hi": "सुमातेरा बारात",
@@ -543,6 +578,7 @@
     },
     "SG": {
         "en": "Sulawesi Tenggara",
+        "ba": "Көньяҡ-Көнсығыш Сулавеси",
         "be": "Паўднёва-Усходні Сулавесі",
         "eo": "Sudorienta Sulaŭesio",
         "fr": "Sulawesi du Sud-Est",
@@ -562,6 +598,7 @@
     },
     "SL": {
         "en": "Sulawesi",
+        "ba": "Сулавеси",
         "be": "Сулавесі",
         "eo": "Sulaŭesio",
         "fr": "Célèbes",
@@ -579,6 +616,7 @@
     },
     "SM": {
         "en": "Sumatera",
+        "ba": "Суматра",
         "be": "Суматра",
         "de": "Sumatra",
         "eo": "Sumatro",
@@ -601,6 +639,7 @@
     },
     "SN": {
         "en": "Sulawesi Selatan",
+        "ba": "Көньяҡ Сулавеси",
         "be": "Паўднёвы Сулавесі",
         "eo": "Suda Sulaŭesio",
         "fr": "Sulawesi-Sud",
@@ -622,6 +661,7 @@
     },
     "SR": {
         "en": "Sulawesi Barat",
+        "ba": "Көнбайыш Сулавеси",
         "be": "Заходні Сулавесі",
         "eo": "Okcidenta Sulaŭesio",
         "fr": "Sulawesi-Ouest",
@@ -643,6 +683,7 @@
     },
     "SS": {
         "en": "Sumatera Selatan",
+        "ba": "Көньяҡ Суматра",
         "eo": "Suda Sumatro",
         "ga": "Sumatra Theas",
         "hi": "सुमातेरा सेलाटन",
@@ -655,6 +696,7 @@
     },
     "ST": {
         "en": "Sulawesi Tengah",
+        "ba": "Үҙәк Сулавеси",
         "be": "Цэнтральны Сулавесі",
         "eo": "Centra Sulaŭesio",
         "fr": "Sulawesi-Centre",
@@ -675,6 +717,7 @@
     },
     "SU": {
         "en": "Sumatera Utara",
+        "ba": "Төньяҡ Суматра",
         "be": "Паўночная Суматра",
         "eo": "Norda Sumatro",
         "fr": "Sumatra-Nord",

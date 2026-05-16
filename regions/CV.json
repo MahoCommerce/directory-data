@@ -1,6 +1,7 @@
 {
     "BR": {
         "en": "Brava",
+        "ba": "Брава",
         "be": "Брава",
         "bg": "Брава",
         "eo": "Bravo",
@@ -13,6 +14,7 @@
     },
     "BV": {
         "en": "Boa Vista",
+        "ba": "Боа-Виста",
         "be": "Баавішта",
         "eo": "Bonvido",
         "hi": "बोआ विस्टा",
@@ -27,6 +29,7 @@
     },
     "CA": {
         "en": "Santa Catarina",
+        "ba": "Санта-Катарина",
         "be": "Санта-Катарына",
         "eo": "Sankta Katerino",
         "fr": "Santa-Catarina",
@@ -42,6 +45,7 @@
     },
     "CF": {
         "en": "Santa Catarina do Fogo",
+        "ba": "Санта-Катарина-ду-Фогу",
         "eo": "Sankta Katerino de Fajro",
         "hi": "सांता कैटरिना डो फ़ोगो",
         "ta": "சாண்டா கேடரினா டூ ஃபோகோ",
@@ -49,6 +53,7 @@
     },
     "CR": {
         "en": "Santa Cruz",
+        "ba": "Санта-Крус",
         "be": "Санта-Крус",
         "bg": "Санта Круз",
         "eo": "Sankta Kruco",
@@ -66,6 +71,7 @@
     },
     "MA": {
         "en": "Maio",
+        "ba": "Маю",
         "be": "Маю",
         "eo": "Majo",
         "ga": "Bealtaine",
@@ -78,6 +84,7 @@
     },
     "MO": {
         "en": "Mosteiros",
+        "ba": "Мостейрус",
         "be": "Мастэйрос",
         "eo": "Monaĥejoj",
         "ga": "Mainistreacha",
@@ -90,6 +97,7 @@
     },
     "PA": {
         "en": "Paul",
+        "ba": "Паул",
         "be": "Паул",
         "eo": "Paŭlo",
         "ga": "Pól",
@@ -100,6 +108,7 @@
     },
     "PN": {
         "en": "Porto Novo",
+        "ba": "Порту-Нову",
         "be": "Порта-Нова",
         "bg": "Порто Ново",
         "da": "Porto-Novo",
@@ -115,6 +124,7 @@
     },
     "PR": {
         "en": "Praia",
+        "ba": "Прая",
         "be": "Прая",
         "eo": "Prajo",
         "ga": "Trá",
@@ -129,6 +139,7 @@
     },
     "RB": {
         "en": "Ribeira Brava",
+        "ba": "Рибейра-Брава",
         "be": "Рыбейра-Брава",
         "eo": "Rivero Brava",
         "hi": "रिबेरा ब्रावा",
@@ -138,6 +149,7 @@
     },
     "RG": {
         "en": "Ribeira Grande",
+        "ba": "Рибейра-Гранди",
         "be": "Рыбейра-Грандэ",
         "eo": "Rivero Granda",
         "hi": "रिबेरा ग्रांडे",
@@ -147,6 +159,7 @@
     },
     "RS": {
         "en": "Ribeira Grande de Santiago",
+        "ba": "Рибейра-Гранди-де-Сантьягу",
         "be": "Рыбейра-Грандэ-дэ-Сант'ягу",
         "eo": "Rivero Granda de Santiago",
         "hi": "रिबेरा ग्रांडे डे सैंटियागो",
@@ -155,6 +168,7 @@
     },
     "SD": {
         "en": "São Domingos",
+        "ba": "Сан-Домингус",
         "be": "Сан-Дамінгас",
         "da": "Sao Domingos",
         "eo": "Sankt-Domingo",
@@ -169,6 +183,7 @@
     },
     "SF": {
         "en": "São Filipe",
+        "ba": "Сан-Филипе",
         "be": "Сан-Філіпэ",
         "da": "Sao Filipe",
         "eo": "Sankt-Filipo",
@@ -182,6 +197,7 @@
     },
     "SL": {
         "en": "Sal",
+        "ba": "Сал",
         "be": "Сал",
         "eo": "Salo",
         "ga": "An mbeidh",
@@ -194,6 +210,7 @@
     },
     "SM": {
         "en": "São Miguel",
+        "ba": "Сан-Мигел",
         "be": "Сан-Мігель",
         "da": "Sao Miguel",
         "eo": "Sankt-Miĥaelo",
@@ -205,6 +222,7 @@
     },
     "SO": {
         "en": "São Lourenço dos Órgãos",
+        "ba": "Сан-Лоренсу-дуз-Органс",
         "be": "Сан-Ларэнца-дос-Аргаас",
         "da": "Sao Lourenço dos Órgãos",
         "eo": "Sankt-Laŭrenco de la Orgenoj",
@@ -215,6 +233,7 @@
     },
     "SS": {
         "en": "São Salvador do Mundo",
+        "ba": "Сан-Салвадор-ду-Мунду",
         "be": "Сан-Сальвадор-дэ-Мунда",
         "da": "Sao Salvador do Mundo",
         "eo": "San-Salvador-de-Mondo",
@@ -226,6 +245,7 @@
     },
     "SV": {
         "en": "São Vicente",
+        "ba": "Сан-Висенти",
         "be": "Сан-Вісенці",
         "cs": "Svatý Vincent",
         "da": "Sao Vicente",
@@ -243,6 +263,7 @@
     },
     "TA": {
         "en": "Tarrafal",
+        "ba": "Таррафал",
         "be": "Таррафал",
         "hi": "टैराफल",
         "lt": "Tarafalis",
@@ -253,6 +274,7 @@
     },
     "TS": {
         "en": "Tarrafal de São Nicolau",
+        "ba": "Таррафал-де-Сан-Николау",
         "be": "Таррафал-дэ-Сан-Нікалаў",
         "da": "Tarrafal de Sao Nicolau",
         "hi": "टैराफाल डी साओ निकोलौ",

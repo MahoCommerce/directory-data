@@ -1,6 +1,7 @@
 {
     "AG": {
         "en": "Aargau",
+        "ba": "Аргау",
         "be": "Ааргау",
         "eu": "Argovia",
         "fr": "Argovie",
@@ -17,6 +18,7 @@
     },
     "AI": {
         "en": "Appenzell Innerrhoden",
+        "ba": "Аппенцелль-Иннерроден",
         "be": "Апенцэль-Інерродэн",
         "fr": "Appenzell Rhodes-Intérieures",
         "hi": "एपेंज़ेल इनरहोडेन",
@@ -33,6 +35,7 @@
     },
     "AR": {
         "en": "Appenzell Ausserrhoden",
+        "ba": "Аппенцелль-Аусерроден",
         "be": "Апенцэль-Аўсерродэн",
         "fr": "Appenzell Rhodes-Extérieures",
         "hi": "एपेंज़ेल ऑसेरहोडेन",
@@ -49,6 +52,7 @@
     },
     "BE": {
         "en": "Berne",
+        "ba": "Берн",
         "hi": "बर्न",
         "hu": "Bern",
         "nl": "Bern",
@@ -59,6 +63,7 @@
     },
     "BL": {
         "en": "Basel-Landschaft",
+        "ba": "Базель-Ланд",
         "be": "Базель-Ланд",
         "eo": "Bazelo-Kamparo",
         "eu": "Basilea Herrialdea",
@@ -81,6 +86,7 @@
     },
     "BS": {
         "en": "Basel-Stadt",
+        "ba": "Базель-Штадт",
         "be": "Базель-Штат",
         "eo": "Bazelo-Urbo",
         "eu": "Basilea Hiria",
@@ -105,6 +111,7 @@
     },
     "FR": {
         "en": "Fribourg",
+        "ba": "Фрибур",
         "hi": "फ्राइबर्ग",
         "pl": "Fryburg",
         "ta": "ஃப்ரிபோர்க்",
@@ -112,6 +119,7 @@
     },
     "GE": {
         "en": "Genève",
+        "ba": "Женева",
         "be": "Жэнева",
         "bg": "Женева",
         "cy": "Genefa",
@@ -140,6 +148,7 @@
     },
     "GL": {
         "en": "Glarus",
+        "ba": "Гларус",
         "be": "Гларус",
         "eu": "Glaris",
         "fr": "Glaris",
@@ -156,6 +165,7 @@
     },
     "GR": {
         "en": "Graubünden",
+        "ba": "Граубюнден",
         "be": "Граўбюндэн",
         "eo": "Grizono",
         "eu": "Grisonia",
@@ -175,6 +185,7 @@
     },
     "JU": {
         "en": "Jura",
+        "ba": "Юра",
         "be": "Юра",
         "eo": "Ĵuraso",
         "ga": "Dlí",
@@ -191,6 +202,7 @@
     },
     "LU": {
         "en": "Luzern",
+        "ba": "Люцерн",
         "be": "Люцэрн",
         "bg": "Люцерн",
         "eo": "Lucerno",
@@ -212,6 +224,7 @@
     },
     "NE": {
         "en": "Neuchâtel",
+        "ba": "Невшатель",
         "be": "Нёўшатэль",
         "de": "Neuenburg",
         "hi": "न्युचाटेल",
@@ -227,6 +240,7 @@
     },
     "NW": {
         "en": "Nidwalden",
+        "ba": "Нидвальден",
         "be": "Нідвальдэн",
         "fr": "Nidwald",
         "hi": "निडवाल्डेन",
@@ -243,6 +257,7 @@
     },
     "OW": {
         "en": "Obwalden",
+        "ba": "Обвальден",
         "be": "Обвальдэн",
         "fr": "Obwald",
         "hi": "ऑब्वाल्डेन",
@@ -260,6 +275,7 @@
     },
     "SG": {
         "en": "Sankt Gallen",
+        "ba": "Санкт-Галлен",
         "be": "Санкт-Гален",
         "eo": "Sankt-Galeno",
         "fr": "Saint-Gall",
@@ -278,6 +294,7 @@
     },
     "SH": {
         "en": "Schaffhausen",
+        "ba": "Шаффхаузен",
         "be": "Шафхаўзен",
         "fr": "Schaffhouse",
         "hi": "शैफ़हॉज़ेन",
@@ -295,6 +312,7 @@
     },
     "SO": {
         "en": "Solothurn",
+        "ba": "Золотурн",
         "be": "Залатурн",
         "fr": "Soleure",
         "hi": "सोलोथर्न",
@@ -312,6 +330,7 @@
     },
     "SZ": {
         "en": "Schwyz",
+        "ba": "Швиц",
         "be": "Швіц",
         "fr": "Schwytz",
         "hi": "श्विज़",
@@ -327,6 +346,7 @@
     },
     "TG": {
         "en": "Thurgau",
+        "ba": "Тургау",
         "be": "Тургаў",
         "eu": "Turgovia",
         "fr": "Thurgovie",
@@ -344,6 +364,7 @@
     },
     "TI": {
         "en": "Ticino",
+        "ba": "Тичино",
         "be": "Тычына",
         "de": "Tessin",
         "eo": "Tiĉino",
@@ -361,6 +382,7 @@
     },
     "UR": {
         "en": "Uri",
+        "ba": "Ури",
         "be": "Уры",
         "hi": "उरी",
         "ja": "ウーリ",
@@ -372,6 +394,7 @@
     },
     "VD": {
         "en": "Vaud",
+        "ba": "Во",
         "be": "Во",
         "de": "Waadt",
         "eo": "Vaŭdo",
@@ -387,6 +410,7 @@
     },
     "VS": {
         "en": "Valais",
+        "ba": "Вале",
         "be": "Вале",
         "de": "Wallis",
         "eo": "Valezo",
@@ -404,6 +428,7 @@
     },
     "ZG": {
         "en": "Zug",
+        "ba": "Цуг",
         "be": "Цуг",
         "fr": "Zoug",
         "ga": "Traein",
@@ -420,6 +445,7 @@
     },
     "ZH": {
         "en": "Zürich",
+        "ba": "Цюрих",
         "be": "Цюрых",
         "bg": "Цюрих",
         "eo": "Zuriko",

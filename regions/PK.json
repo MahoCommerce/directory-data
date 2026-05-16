@@ -1,6 +1,7 @@
 {
     "BA": {
         "en": "Balochistan",
+        "ba": "Белуджистан",
         "be": "Белуджыстан",
         "de": "Belutschistan",
         "fr": "Baloutchistan",
@@ -19,6 +20,7 @@
     },
     "KP": {
         "en": "Khyber Pakhtunkhwa",
+        "ba": "Хайбер-Пахтунхва",
         "be": "Хайбер-Пахтунхва",
         "eo": "Kajbario",
         "he": "ח׳ייבר פח׳טונח׳ווה",
@@ -31,6 +33,7 @@
     },
     "PB": {
         "en": "Punjab",
+        "ba": "Пенджаб",
         "be": "Пенджаб",
         "eo": "Panĝabio",
         "fr": "Penjab",
@@ -52,6 +55,7 @@
     },
     "SD": {
         "en": "Sindh",
+        "ba": "Синд",
         "be": "Сінд",
         "eo": "Sindo",
         "he": "סינד",

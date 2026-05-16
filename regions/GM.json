@@ -1,6 +1,7 @@
 {
     "L": {
         "en": "Lower River",
+        "ba": "Түбәнге йылға",
         "be": "Ніжняя Рака",
         "eo": "Malsupra Rivero",
         "fr": "Rivière basse",
@@ -15,6 +16,7 @@
     },
     "M": {
         "en": "Central River",
+        "ba": "Үҙәк йылға",
         "be": "Цэнтральная Рака",
         "eo": "Centra Rivero",
         "fr": "Rivière haute",
@@ -29,6 +31,7 @@
     },
     "N": {
         "en": "North Bank",
+        "ba": "Төньяҡ Яр",
         "be": "Паўночны Бераг",
         "eo": "Norda Bordo",
         "fr": "Rive nord",
@@ -44,6 +47,7 @@
     },
     "U": {
         "en": "Upper River",
+        "ba": "Үрге йылға",
         "be": "Верхняя Рака",
         "eo": "Supra Rivero",
         "fr": "Rive haute",
@@ -57,6 +61,7 @@
     },
     "W": {
         "en": "Western",
+        "ba": "Көнбайыш",
         "be": "Заходняя",
         "el": "Δυτική",
         "eo": "Okcidento",

@@ -1,6 +1,7 @@
 {
     "01": {
         "en": "Ain",
+        "ba": "Эн",
         "be": "Эн",
         "hi": "ऐन",
         "ka": "ენი",
@@ -12,6 +13,7 @@
     },
     "02": {
         "en": "Aisne",
+        "ba": "Эна",
         "be": "Эна",
         "hi": "ऐसने",
         "ka": "ესნი",
@@ -23,6 +25,7 @@
     },
     "03": {
         "en": "Allier",
+        "ba": "Алье",
         "be": "Алье",
         "ga": "Comhghuaillí",
         "hi": "एलियर",
@@ -37,6 +40,7 @@
     },
     "04": {
         "en": "Alpes-de-Haute-Provence",
+        "ba": "Үрге Прованс Альптары",
         "be": "Альпы Верхняга Праванса",
         "eo": "Alpoj de Supra Provenco",
         "hi": "आल्प्स-डी-हाउते-प्रोवेंस",
@@ -52,6 +56,7 @@
     },
     "05": {
         "en": "Hautes-Alpes",
+        "ba": "Үрге Альптар",
         "be": "Альпы Верхнія",
         "eo": "Supraj Alpoj",
         "hi": "हाउट्स-आल्प्स",
@@ -69,6 +74,7 @@
     },
     "06": {
         "en": "Alpes-Maritimes",
+        "ba": "Диңгеҙ буйы Альптары",
         "be": "Альпы Прыморскія",
         "eo": "Alpoj Maraj",
         "ga": "Alpes-Muirí",
@@ -86,6 +92,7 @@
     },
     "07": {
         "en": "Ardèche",
+        "ba": "Ардеш",
         "be": "Ардэш",
         "hi": "आर्डेचे",
         "ka": "არდეში",
@@ -100,6 +107,7 @@
     },
     "08": {
         "en": "Ardennes",
+        "ba": "Арденны",
         "be": "Ардэны",
         "cs": "Ardeny",
         "eo": "Ardenoj",
@@ -120,6 +128,7 @@
     },
     "09": {
         "en": "Ariège",
+        "ba": "Арьеж",
         "be": "Ар’еж",
         "hi": "एरीज",
         "ka": "არიეჟი",
@@ -134,6 +143,7 @@
     },
     "10": {
         "en": "Aube",
+        "ba": "Об",
         "be": "Об",
         "ga": "Breacadh an Lae",
         "hi": "ऑबे",
@@ -147,6 +157,7 @@
     },
     "11": {
         "en": "Aude",
+        "ba": "Од",
         "be": "Од",
         "ga": "AudeGeneric",
         "hi": "औड",
@@ -160,6 +171,7 @@
     },
     "12": {
         "en": "Aveyron",
+        "ba": "Аверон",
         "be": "Аверон",
         "hi": "एवेरॉन",
         "ka": "ავეირონი",
@@ -172,6 +184,7 @@
     },
     "13": {
         "en": "Bouches-du-Rhône",
+        "ba": "Буш-дю-Рон",
         "be": "Буш-дзю-Рон",
         "eo": "Buŝoj de Rodano",
         "hi": "बोशेस-ड्यू-रौन",
@@ -190,6 +203,7 @@
     },
     "14": {
         "en": "Calvados",
+        "ba": "Кальвадос",
         "be": "Кальвадос",
         "bg": "Калвадос",
         "hi": "कैल्वाडोस",
@@ -203,6 +217,7 @@
     },
     "15": {
         "en": "Cantal",
+        "ba": "Канталь",
         "be": "Канталь",
         "eo": "Kantalo",
         "hi": "कैंटल",
@@ -215,6 +230,7 @@
     },
     "16": {
         "en": "Charente",
+        "ba": "Шаранта",
         "be": "Шаранта",
         "hi": "शैरेंट",
         "ka": "შარანტი",
@@ -227,6 +243,7 @@
     },
     "17": {
         "en": "Charente-Maritime",
+        "ba": "Диңгеҙ буйы Шарантаһы",
         "be": "Шаранта Прыморская",
         "ga": "Charente-Muirí",
         "hi": "शैरेंट-समुद्री",
@@ -242,6 +259,7 @@
     },
     "18": {
         "en": "Cher",
+        "ba": "Шер",
         "be": "Шэр",
         "ga": "Daor",
         "hi": "चर",
@@ -255,6 +273,7 @@
     },
     "19": {
         "en": "Corrèze",
+        "ba": "Коррез",
         "be": "Карэз",
         "hi": "क्र्रेज़े",
         "ka": "კორეზი",
@@ -269,6 +288,7 @@
     },
     "20R": {
         "en": "Corse",
+        "ba": "Корсика",
         "be": "Корсіка",
         "de": "Korsika",
         "el": "Κορσική",
@@ -295,6 +315,7 @@
     },
     "21": {
         "en": "Côte-d'Or",
+        "ba": "Кот-д'Ор",
         "be": "Кот-д’Ор",
         "eo": "Bordo Ora",
         "hi": "कोटे-डी'ओर",
@@ -312,6 +333,7 @@
     },
     "22": {
         "en": "Côtes-d'Armor",
+        "ba": "Кот-д'Армор",
         "be": "Кот-д’Армор",
         "hi": "कोट्स-डी'आर्मर",
         "it": "Cotes-d'Armor",
@@ -328,6 +350,7 @@
     },
     "23": {
         "en": "Creuse",
+        "ba": "Крёз",
         "be": "Кроз",
         "hi": "क्रुसे",
         "ka": "კრესი",
@@ -340,6 +363,7 @@
     },
     "24": {
         "en": "Dordogne",
+        "ba": "Дордонь",
         "be": "Дардонь",
         "hi": "दॉरदॉग्ने",
         "it": "Dordogna",
@@ -354,6 +378,7 @@
     },
     "25": {
         "en": "Doubs",
+        "ba": "Ду",
         "be": "Ду",
         "hi": "डॉब्स",
         "ka": "დუ",
@@ -365,6 +390,7 @@
     },
     "26": {
         "en": "Drôme",
+        "ba": "Дром",
         "be": "Дром",
         "hi": "ड्रोमे",
         "it": "Drome",
@@ -379,6 +405,7 @@
     },
     "27": {
         "en": "Eure",
+        "ba": "Эр",
         "be": "Эр",
         "ga": "EureGeneric",
         "hi": "यूरे",
@@ -391,6 +418,7 @@
     },
     "28": {
         "en": "Eure-et-Loir",
+        "ba": "Эр һәм Луар",
         "be": "Эр і Луар",
         "hi": "यूरे-एट-लॉयर",
         "ka": "ერი და ლუარი",
@@ -405,6 +433,7 @@
     },
     "29": {
         "en": "Finistère",
+        "ba": "Финистер",
         "be": "Фіністэр",
         "eo": "Finistero",
         "hi": "फ़िनिस्टेयर",
@@ -420,6 +449,7 @@
     },
     "2A": {
         "en": "Corse-du-Sud",
+        "ba": "Көньяҡ Корсика",
         "be": "Корсіка Паўднёвая",
         "eo": "Korsiko Suda",
         "ga": "An Chorsaic Theas",
@@ -440,6 +470,7 @@
     },
     "2B": {
         "en": "Haute-Corse",
+        "ba": "Үрге Корсика",
         "be": "Корсіка Верхняя",
         "eo": "Supra Korsiko",
         "hi": "हाउत-कोर्स",
@@ -460,6 +491,7 @@
     },
     "30": {
         "en": "Gard",
+        "ba": "Гар",
         "be": "Гар",
         "hi": "गार्ड",
         "ka": "გარი",
@@ -471,6 +503,7 @@
     },
     "31": {
         "en": "Haute-Garonne",
+        "ba": "Үрге Гаронна",
         "be": "Гарона Верхняя",
         "eo": "Alta Garono",
         "hi": "हाउते-गैरोन",
@@ -488,6 +521,7 @@
     },
     "32": {
         "en": "Gers",
+        "ba": "Жер",
         "be": "Жэр",
         "hi": "गेर्स",
         "ka": "ჟერი",
@@ -499,6 +533,7 @@
     },
     "33": {
         "en": "Gironde",
+        "ba": "Жиронда",
         "be": "Жыронда",
         "hi": "गिरोंड",
         "it": "Gironda",
@@ -514,6 +549,7 @@
     },
     "34": {
         "en": "Hérault",
+        "ba": "Эро",
         "be": "Эро",
         "hi": "हेरॉल्ट",
         "ka": "ერო",
@@ -528,6 +564,7 @@
     },
     "35": {
         "en": "Ille-et-Vilaine",
+        "ba": "Иль һәм Вилен",
         "be": "Іль і Вілен",
         "hi": "इले-एट-विलैन",
         "lt": "Ilis ir Vilenas",
@@ -541,6 +578,7 @@
     },
     "36": {
         "en": "Indre",
+        "ba": "Эндр",
         "be": "Эндр",
         "eo": "Indro",
         "hi": "इंद्रे",
@@ -553,6 +591,7 @@
     },
     "37": {
         "en": "Indre-et-Loire",
+        "ba": "Эндр һәм Луара",
         "be": "Эндр і Луара",
         "eo": "Indro kaj Luaro",
         "hi": "इंदरे-ए-लॉयर",
@@ -569,6 +608,7 @@
     },
     "38": {
         "en": "Isère",
+        "ba": "Изер",
         "be": "Ізер",
         "hi": "इसेरे",
         "ka": "იზერი",
@@ -583,6 +623,7 @@
     },
     "39": {
         "en": "Jura",
+        "ba": "Юра",
         "be": "Юра",
         "eo": "Ĵuraso",
         "ga": "Dlí",
@@ -599,6 +640,7 @@
     },
     "40": {
         "en": "Landes",
+        "ba": "Ланды",
         "be": "Ланды",
         "ga": "Tír",
         "hi": "लैंडेस",
@@ -614,6 +656,7 @@
     },
     "41": {
         "en": "Loir-et-Cher",
+        "ba": "Луар һәм Шер",
         "be": "Луар і Шэр",
         "hi": "लोइर-एट-चेर",
         "lt": "Luara ir Šeras",
@@ -627,6 +670,7 @@
     },
     "42": {
         "en": "Loire",
+        "ba": "Луара",
         "be": "Луара",
         "eo": "Luaro",
         "hi": "लॉयर",
@@ -645,6 +689,7 @@
     },
     "43": {
         "en": "Haute-Loire",
+        "ba": "Үрге Луара",
         "be": "Луара Верхняя",
         "eo": "Alt-Luaro",
         "hi": "हाउते-लोयर",
@@ -663,6 +708,7 @@
     },
     "44": {
         "en": "Loire-Atlantique",
+        "ba": "Атлантик Луара",
         "be": "Луара Атлантычная",
         "eo": "Luaro Atlantika",
         "hi": "लॉयर-अटलांटिक",
@@ -680,6 +726,7 @@
     },
     "45": {
         "en": "Loiret",
+        "ba": "Луаре",
         "be": "Луарэ",
         "eo": "Luareto",
         "hi": "लोइरेट",
@@ -692,6 +739,7 @@
     },
     "46": {
         "en": "Lot",
+        "ba": "Ло",
         "be": "Лот",
         "ga": "Beart",
         "hi": "लॉट",
@@ -705,6 +753,7 @@
     },
     "47": {
         "en": "Lot-et-Garonne",
+        "ba": "Ло һәм Гаронна",
         "be": "Лот і Гарона",
         "hi": "लोट-एट-गेरोन",
         "lt": "Lo ir Garona",
@@ -719,6 +768,7 @@
     },
     "48": {
         "en": "Lozère",
+        "ba": "Лозер",
         "be": "Лазер",
         "hi": "लोज़ेरे",
         "ka": "ლოზერი",
@@ -734,6 +784,7 @@
     },
     "49": {
         "en": "Maine-et-Loire",
+        "ba": "Мен һәм Луара",
         "be": "Мен і Луара",
         "eo": "Majno kaj Luaro",
         "hi": "मेन-एट-लॉयर",
@@ -750,6 +801,7 @@
     },
     "50": {
         "en": "Manche",
+        "ba": "Манш",
         "be": "Манш",
         "eo": "Maniko",
         "ga": "An Fhrainc",
@@ -765,6 +817,7 @@
     },
     "51": {
         "en": "Marne",
+        "ba": "Марна",
         "be": "Марна",
         "eo": "Marno",
         "ga": "Marl",
@@ -782,6 +835,7 @@
     },
     "52": {
         "en": "Haute-Marne",
+        "ba": "Үрге Марна",
         "be": "Марна Верхняя",
         "eo": "Alta Marno",
         "hi": "हाउते-मार्ने",
@@ -799,6 +853,7 @@
     },
     "53": {
         "en": "Mayenne",
+        "ba": "Майенн",
         "be": "Маен",
         "hi": "म्येन",
         "ka": "მაიენი",
@@ -810,6 +865,7 @@
     },
     "54": {
         "en": "Meurthe-et-Moselle",
+        "ba": "Мёрт һәм Мозель",
         "be": "Мёрт і Мозель",
         "hi": "म्यूर्थ-ए-मोसेले",
         "lt": "Merta ir Mozelis",
@@ -824,6 +880,7 @@
     },
     "55": {
         "en": "Meuse",
+        "ba": "Мёз",
         "be": "Мёз",
         "eo": "Mozo",
         "hi": "मीयूज",
@@ -840,6 +897,7 @@
     },
     "56": {
         "en": "Morbihan",
+        "ba": "Морбиан",
         "be": "Марбіян",
         "hi": "मोरबीहान",
         "ka": "მორბიანი",
@@ -851,6 +909,7 @@
     },
     "57": {
         "en": "Moselle",
+        "ba": "Мозель",
         "be": "Мозель",
         "eo": "Mozelo",
         "hi": "मोसेले",
@@ -869,6 +928,7 @@
     },
     "58": {
         "en": "Nièvre",
+        "ba": "Ньевр",
         "be": "Ньеўр",
         "hi": "नीवरे",
         "ka": "ნიევრი",
@@ -883,6 +943,7 @@
     },
     "59": {
         "en": "Nord",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "eo": "Nordo",
         "ga": "An Tuaisceart",
@@ -901,6 +962,7 @@
     },
     "60": {
         "en": "Oise",
+        "ba": "Уаза",
         "be": "Уаза",
         "eo": "Uazo",
         "hi": "ओसे",
@@ -913,6 +975,7 @@
     },
     "61": {
         "en": "Orne",
+        "ba": "Орн",
         "be": "Орн",
         "hi": "ओर्ने",
         "ka": "ორნი",
@@ -924,6 +987,7 @@
     },
     "62": {
         "en": "Pas-de-Calais",
+        "ba": "Па-де-Кале",
         "be": "Па-дэ-Кале",
         "hi": "पास-डे-कलैस",
         "it": "Passo di Calais",
@@ -939,6 +1003,7 @@
     },
     "63": {
         "en": "Puy-de-Dôme",
+        "ba": "Пюи-де-Дом",
         "be": "Пюі-дэ-Дом",
         "hi": "पुय-डे-डोमे",
         "it": "Puy-de-Dome",
@@ -954,6 +1019,7 @@
     },
     "64": {
         "en": "Pyrénées-Atlantiques",
+        "ba": "Атлантик Пиренейҙар",
         "be": "Пірэнеі Атлантычныя",
         "eo": "Pireneoj Atlantikaj",
         "hi": "पाइरेनीस-अटलांटिक्स",
@@ -974,6 +1040,7 @@
     },
     "65": {
         "en": "Hautes-Pyrénées",
+        "ba": "Үрге Пиренейҙар",
         "be": "Пірэнеі Верхнія",
         "eo": "Supraj Pireneoj",
         "hi": "हाउट्स-पाइरेनीस",
@@ -992,6 +1059,7 @@
     },
     "66": {
         "en": "Pyrénées-Orientales",
+        "ba": "Көнсығыш Пиренейҙар",
         "be": "Пірэнеі Усходнія",
         "eo": "Pireneoj Orientaj",
         "hi": "पाइरेनीज़-ओरिएंटेल्स",
@@ -1011,6 +1079,7 @@
     },
     "67": {
         "en": "Bas-Rhin",
+        "ba": "Түбәнге Рейн",
         "be": "Рэйн Ніжні",
         "eo": "Malsupra Rejno",
         "hi": "बस-रिन",
@@ -1029,6 +1098,7 @@
     },
     "68": {
         "en": "Haut-Rhin",
+        "ba": "Үрге Рейн",
         "be": "Рэйн Верхні",
         "eo": "Supra Rejno",
         "hi": "हॉट-रहिं",
@@ -1047,6 +1117,7 @@
     },
     "69": {
         "en": "Rhône",
+        "ba": "Рона",
         "be": "Рона",
         "eo": "Rodano",
         "hi": "रौन",
@@ -1066,6 +1137,7 @@
     },
     "69M": {
         "en": "Métropole de Lyon",
+        "ba": "Лион Метрополияһы",
         "ga": "Cathair Lyon",
         "hi": "मेट्रोपोल दे ल्योन",
         "hu": "Lyon Metropolis",
@@ -1076,6 +1148,7 @@
     },
     "70": {
         "en": "Haute-Saône",
+        "ba": "Үрге Сона",
         "be": "Сона Верхняя",
         "eo": "Alt-Saono",
         "hi": "हाउते-सौने",
@@ -1094,6 +1167,7 @@
     },
     "71": {
         "en": "Saône-et-Loire",
+        "ba": "Сона һәм Луара",
         "be": "Сона і Луара",
         "eo": "Saono kaj luaro",
         "hi": "साओन-एट-लॉयर",
@@ -1112,6 +1186,7 @@
     },
     "72": {
         "en": "Sarthe",
+        "ba": "Сарта",
         "be": "Сарта",
         "hi": "सार्थे",
         "ka": "სარტა",
@@ -1123,6 +1198,7 @@
     },
     "73": {
         "en": "Savoie",
+        "ba": "Савойя",
         "be": "Савоя",
         "eo": "Savojo",
         "hi": "सावोई",
@@ -1140,6 +1216,7 @@
     },
     "74": {
         "en": "Haute-Savoie",
+        "ba": "Үрге Савойя",
         "be": "Савоя Верхняя",
         "eo": "Supra Savojo",
         "hi": "हाउते-सावोई",
@@ -1158,6 +1235,7 @@
     },
     "75C": {
         "en": "Paris",
+        "ba": "Париж",
         "be": "Парыж",
         "cs": "Paříž",
         "eo": "Parizo",
@@ -1183,6 +1261,7 @@
     },
     "76": {
         "en": "Seine-Maritime",
+        "ba": "Диңгеҙ буйы Сенаһы",
         "be": "Сена Прыморская",
         "eo": "Sejno Mara",
         "ga": "Seine-Muirí",
@@ -1200,6 +1279,7 @@
     },
     "77": {
         "en": "Seine-et-Marne",
+        "ba": "Сена һәм Марна",
         "be": "Сена і Марна",
         "eo": "Sejno kaj Marno",
         "hi": "सीन-ए-मार्ने",
@@ -1216,6 +1296,7 @@
     },
     "78": {
         "en": "Yvelines",
+        "ba": "Ивелин",
         "be": "Івелін",
         "hi": "वेलाइंस",
         "ka": "იველინი",
@@ -1227,6 +1308,7 @@
     },
     "79": {
         "en": "Deux-Sèvres",
+        "ba": "Дё-Севр",
         "be": "Дзё-Сеўр",
         "hi": "डेक्स-सेवर्स",
         "hu": "Két-Sèvres",
@@ -1242,6 +1324,7 @@
     },
     "80": {
         "en": "Somme",
+        "ba": "Сомма",
         "be": "Сома",
         "ga": "Suim",
         "hi": "सोम्मे",
@@ -1255,6 +1338,7 @@
     },
     "81": {
         "en": "Tarn",
+        "ba": "Тарн",
         "be": "Тарн",
         "eo": "Tarno",
         "ga": "Teamhair",
@@ -1268,6 +1352,7 @@
     },
     "82": {
         "en": "Tarn-et-Garonne",
+        "ba": "Тарн һәм Гаронна",
         "be": "Тарн і Гарона",
         "eo": "Tarno kaj Garono",
         "hi": "टार्न-एट-गेरोन",
@@ -1282,6 +1367,7 @@
     },
     "83": {
         "en": "Var",
+        "ba": "Вар",
         "be": "Вар",
         "eo": "Varo",
         "hi": "वर",
@@ -1293,6 +1379,7 @@
     },
     "84": {
         "en": "Vaucluse",
+        "ba": "Воклюз",
         "be": "Ваклюз",
         "hi": "वॉस्लूस",
         "ka": "ვოკლუზი",
@@ -1305,6 +1392,7 @@
     },
     "85": {
         "en": "Vendée",
+        "ba": "Вандея",
         "be": "Вандэя",
         "eo": "Vendeo",
         "hi": "वेंडी",
@@ -1323,6 +1411,7 @@
     },
     "86": {
         "en": "Vienne",
+        "ba": "Вьенна",
         "be": "В’ена",
         "eo": "Vieno",
         "ga": "Vín",
@@ -1339,6 +1428,7 @@
     },
     "87": {
         "en": "Haute-Vienne",
+        "ba": "Үрге Вьенна",
         "be": "В’ена Верхняя",
         "eo": "Alt-Viento",
         "hi": "हाउते-विएने",
@@ -1354,6 +1444,7 @@
     },
     "88": {
         "en": "Vosges",
+        "ba": "Вогезы",
         "be": "Вагезы",
         "hi": "वोस्गेस",
         "hu": "Vogézek",
@@ -1370,6 +1461,7 @@
     },
     "89": {
         "en": "Yonne",
+        "ba": "Йонна",
         "be": "Іона",
         "hi": "योन्ने",
         "ka": "იონა",
@@ -1381,6 +1473,7 @@
     },
     "90": {
         "en": "Territoire de Belfort",
+        "ba": "Бельфор Территорияһы",
         "be": "Тэрыторыя Бельфор",
         "eo": "Teritorio Belfuorto",
         "es": "Territorio de Belfort",
@@ -1400,6 +1493,7 @@
     },
     "91": {
         "en": "Essonne",
+        "ba": "Эсон",
         "be": "Эсон",
         "hi": "इस्सोने",
         "ka": "ესონი",
@@ -1411,6 +1505,7 @@
     },
     "92": {
         "en": "Hauts-de-Seine",
+        "ba": "О-де-Сен",
         "be": "О-дэ-Сен",
         "eo": "Altaĵoj de Sejno",
         "hi": "हाउत्स-दे-सीन",
@@ -1425,6 +1520,7 @@
     },
     "93": {
         "en": "Seine-Saint-Denis",
+        "ba": "Сен-Сен-Дени",
         "be": "Сен-Сен-Дэні",
         "da": "Seine-Sankt-Denis",
         "eo": "Sejno-Sankt-Denizo",
@@ -1439,6 +1535,7 @@
     },
     "94": {
         "en": "Val-de-Marne",
+        "ba": "Валь-де-Марн",
         "be": "Валь-дэ-Марн",
         "eo": "Valo de Marno",
         "hi": "वैल-डे-मार्ने",
@@ -1456,6 +1553,7 @@
     },
     "95": {
         "en": "Val-d'Oise",
+        "ba": "Валь-д'Уаз",
         "be": "Валь-д’Уаз",
         "eo": "Valo de Uazo",
         "fr": "Val-d’Oise",
@@ -1469,6 +1567,7 @@
     "971": {
         "en": "Guadeloupe",
         "az": "Quadelup",
+        "ba": "Гваделупа",
         "be": "Гвадэлупа",
         "bg": "Гваделупа",
         "bs": "Gvadalupe",
@@ -1501,6 +1600,7 @@
     },
     "974": {
         "en": "La Réunion",
+        "ba": "Реюньон",
         "be": "Рэюньён",
         "eo": "Reunio",
         "ga": "Réunion",
@@ -1519,6 +1619,7 @@
     },
     "976": {
         "en": "Mayotte",
+        "ba": "Майотта",
         "be": "Маёта",
         "el": "Μαγιότ",
         "eo": "Majoto",
@@ -1540,6 +1641,7 @@
     },
     "ARA": {
         "en": "Auvergne-Rhône-Alpes",
+        "ba": "Овернь — Рона — Альп",
         "be": "Авернь-Рона-Альпы",
         "eo": "Aŭvernjo-Rodano-Alpoj",
         "hi": "औवेर्गने-रौन-आल्प्स",
@@ -1555,6 +1657,7 @@
     },
     "BFC": {
         "en": "Bourgogne-Franche-Comté",
+        "ba": "Бургундия — Франш-Конте",
         "be": "Бургундыя-Франш-Кантэ",
         "eo": "Burgonjo-Franĉkonteo",
         "ga": "Burgúine-Franche-Comté",
@@ -1571,6 +1674,7 @@
     },
     "BL": {
         "en": "Saint-Barthélemy",
+        "ba": "Сен-Бартелеми",
         "be": "Сен-Бартэльмі",
         "da": "Sankt-Barthélemy",
         "eo": "Sankt-Bartolomeo",
@@ -1585,6 +1689,7 @@
     },
     "BRE": {
         "en": "Bretagne",
+        "ba": "Бретань",
         "be": "Брэтань",
         "cs": "Bretaň",
         "el": "Βρετάνη",
@@ -1608,6 +1713,7 @@
     },
     "CVL": {
         "en": "Centre-Val de Loire",
+        "ba": "Үҙәк — Луара үҙәне",
         "be": "Цэнтр-Даліна Луары",
         "eo": "Centro-Luarvalo",
         "ga": "Ionad-Val de Loire",
@@ -1622,6 +1728,7 @@
     },
     "GES": {
         "en": "Grand-Est",
+        "ba": "Гранд-Эст",
         "be": "Гранд-Эст",
         "eo": "Grand-Oriento",
         "fr": "Grand Est",
@@ -1636,6 +1743,7 @@
     },
     "HDF": {
         "en": "Hauts-de-France",
+        "ba": "О-де-Франс",
         "be": "О-дэ-Франс",
         "eo": "Altaĵoj-de-Francio",
         "hi": "हाउत्स-दे-फ्रांस",
@@ -1648,6 +1756,7 @@
     },
     "IDF": {
         "en": "Île-de-France",
+        "ba": "Иль-де-Франс",
         "be": "Іль-дэ-Франс",
         "de": "Île de France",
         "eo": "Insulo-de-Francio",
@@ -1667,6 +1776,7 @@
     },
     "MF": {
         "en": "Saint-Martin",
+        "ba": "Сен-Мартен",
         "be": "Сен-Мартэн",
         "da": "Sankt-Martin",
         "eo": "Sankt-Marteno",
@@ -1693,6 +1803,7 @@
         "asa": "Nouvelle-Aquitaine",
         "ast": "Nouvelle-Aquitaine",
         "az": "Nouvelle-Aquitaine",
+        "ba": "Яңы Аквитания",
         "bas": "Nouvelle-Aquitaine",
         "be": "Новая Аквітанія",
         "bem": "Nouvelle-Aquitaine",
@@ -1707,6 +1818,7 @@
         "br": "Nouvelle-Aquitaine",
         "brx": "Nouvelle-Aquitaine",
         "bs": "Nouvelle-Aquitaine",
+        "bua": "Nouvelle-Aquitaine",
         "ca": "Nouvelle-Aquitaine",
         "ccp": "Nouvelle-Aquitaine",
         "ce": "Nouvelle-Aquitaine",
@@ -1744,6 +1856,7 @@
         "fur": "Nouvelle-Aquitaine",
         "fy": "Nouvelle-Aquitaine",
         "ga": "Nouvelle-Aquitaine",
+        "gaa": "Nouvelle-Aquitaine",
         "gd": "Nouvelle-Aquitaine",
         "gl": "Nouvelle-Aquitaine",
         "gsw": "Nouvelle-Aquitaine",
@@ -1838,6 +1951,7 @@
         "nnh": "Nouvelle-Aquitaine",
         "no": "Nouvelle-Aquitaine",
         "nqo": "Nouvelle-Aquitaine",
+        "nso": "Nouvelle-Aquitaine",
         "nus": "Nouvelle-Aquitaine",
         "nyn": "Nouvelle-Aquitaine",
         "oc": "Nouvelle-Aquitaine",
@@ -1847,6 +1961,7 @@
         "pa": "Nouvelle-Aquitaine",
         "pcm": "Nouvelle-Aquitaine",
         "pl": "Nowa Akwitania",
+        "pms": "Nouvelle-Aquitaine",
         "prg": "Nouvelle-Aquitaine",
         "ps": "Nouvelle-Aquitaine",
         "pt": "Nouvelle-Aquitaine",
@@ -1865,12 +1980,14 @@
         "sat": "Nouvelle-Aquitaine",
         "sbp": "Nouvelle-Aquitaine",
         "sc": "Noa-Acuitània",
+        "scn": "Nouvelle-Aquitaine",
         "sd": "Nouvelle-Aquitaine",
         "se": "Nouvelle-Aquitaine",
         "seh": "Nouvelle-Aquitaine",
         "ses": "Nouvelle-Aquitaine",
         "sg": "Nouvelle-Aquitaine",
         "shi": "Nouvelle-Aquitaine",
+        "shn": "Nouvelle-Aquitaine",
         "si": "Nouvelle-Aquitaine",
         "sk": "Nouvelle-Aquitaine",
         "sl": "Nouvelle-Aquitaine",
@@ -1879,6 +1996,7 @@
         "so": "Nouvelle-Aquitaine",
         "sq": "Nouvelle-Aquitaine",
         "sr": "Nouvelle-Aquitaine",
+        "st": "Nouvelle-Aquitaine",
         "su": "Nouvelle-Aquitaine",
         "sv": "Nouvelle-Aquitaine",
         "sw": "Nouvelle-Aquitaine",
@@ -1891,11 +2009,13 @@
         "th": "Nouvelle-Aquitaine",
         "ti": "Nouvelle-Aquitaine",
         "tk": "Nouvelle-Aquitaine",
+        "tn": "Nouvelle-Aquitaine",
         "to": "Nouvelle-Aquitaine",
         "tok": "Nouvelle-Aquitaine",
         "tr": "Nouvelle-Aquitaine",
         "tt": "Nouvelle-Aquitaine",
         "twq": "Nouvelle-Aquitaine",
+        "tyv": "Nouvelle-Aquitaine",
         "tzm": "Nouvelle-Aquitaine",
         "ug": "Nouvelle-Aquitaine",
         "uk": "Нова Аквітанія",
@@ -1923,6 +2043,7 @@
     },
     "NOR": {
         "en": "Normandie",
+        "ba": "Нормандия",
         "be": "Нармандыя",
         "eo": "Normandio",
         "ga": "An Normainn",
@@ -1951,6 +2072,7 @@
         "asa": "Occitanie",
         "ast": "Occitanie",
         "az": "Occitanie",
+        "ba": "Окситания",
         "bas": "Occitanie",
         "be": "Аксітанія",
         "bem": "Occitanie",
@@ -1965,6 +2087,7 @@
         "br": "Occitanie",
         "brx": "Occitanie",
         "bs": "Occitanie",
+        "bua": "Occitanie",
         "ca": "Occitània",
         "ccp": "Occitanie",
         "ce": "Occitanie",
@@ -2001,6 +2124,7 @@
         "fur": "Occitanie",
         "fy": "Occitanie",
         "ga": "Occitanie",
+        "gaa": "Occitanie",
         "gd": "Occitanie",
         "gl": "Occitanie",
         "gsw": "Occitanie",
@@ -2094,6 +2218,7 @@
         "nnh": "Occitanie",
         "no": "Occitanie",
         "nqo": "Occitanie",
+        "nso": "Occitanie",
         "nus": "Occitanie",
         "nyn": "Occitanie",
         "oc": "Occitània",
@@ -2103,6 +2228,7 @@
         "pa": "Occitanie",
         "pcm": "Occitanie",
         "pl": "Oksytania",
+        "pms": "Occitanie",
         "prg": "Occitanie",
         "ps": "Occitanie",
         "pt": "Occitanie",
@@ -2120,12 +2246,14 @@
         "sat": "Occitanie",
         "sbp": "Occitanie",
         "sc": "Otzitània",
+        "scn": "Occitanie",
         "sd": "Occitanie",
         "se": "Occitanie",
         "seh": "Occitanie",
         "ses": "Occitanie",
         "sg": "Occitanie",
         "shi": "Occitanie",
+        "shn": "Occitanie",
         "si": "Occitanie",
         "sk": "Occitanie",
         "sl": "Occitanie",
@@ -2134,6 +2262,7 @@
         "so": "Occitanie",
         "sq": "Occitanie",
         "sr": "Occitanie",
+        "st": "Occitanie",
         "su": "Occitanie",
         "sv": "Occitanien",
         "sw": "Occitanie",
@@ -2146,11 +2275,13 @@
         "th": "Occitanie",
         "ti": "Occitanie",
         "tk": "Occitanie",
+        "tn": "Occitanie",
         "to": "Occitanie",
         "tok": "Occitanie",
         "tr": "Occitanie",
         "tt": "Occitanie",
         "twq": "Occitanie",
+        "tyv": "Occitanie",
         "tzm": "Occitanie",
         "ug": "Occitanie",
         "uk": "Окситанія",
@@ -2178,6 +2309,7 @@
     },
     "PAC": {
         "en": "Provence-Alpes-Côte-d’Azur",
+        "ba": "Прованс — Альп — Зәңгәрһыу Яр",
         "be": "Праванс-Альпы-Лазурны бераг",
         "ca": "Provença-Alpes-Côtes-d’Azur",
         "eo": "Provenco-Alpoj-Bordo Lazura",
@@ -2197,6 +2329,7 @@
     },
     "PDL": {
         "en": "Pays-de-la-Loire",
+        "ba": "Пеи-де-ла-Луар",
         "be": "Землі Луары",
         "eo": "Luarlando",
         "fr": "Pays de la Loire",
@@ -2214,6 +2347,7 @@
     },
     "PF": {
         "en": "Polynésie française",
+        "ba": "Француз Полинезияһы",
         "be": "Французская Палінезія",
         "bg": "Френска Полинезия",
         "de": "Französisch-Polynesien",
@@ -2241,6 +2375,7 @@
     },
     "PM": {
         "en": "Saint-Pierre-et-Miquelon",
+        "ba": "Сен-Пьер һәм Микелон",
         "be": "Сен-П’ер і Мікелон",
         "da": "Sankt-Pierre-et-Miquelon",
         "el": "Άγιος Πέτρος και Μικελόν",
@@ -2263,6 +2398,7 @@
     },
     "WF": {
         "en": "Wallis-et-Futuna",
+        "ba": "Уоллис һәм Футуна",
         "be": "Уоліс і Футуна",
         "he": "ואליס ופוטונה",
         "hi": "वालिस-एट-फ़्यूचूना",
