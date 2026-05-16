@@ -216,7 +216,7 @@ try {
             'DE' => ['Land'],
             'FR' => ['Department'],
             'ES' => ['Province', 'Autonomous city in north africa'],
-            'GB' => ['Country'],
+            'GB' => ['Country', 'Province'], // ENG/SCT/WLS are 'Country'; NIR is the sole 'Province'
             'IE' => ['County'],
             'NL' => ['Province'],
             'BE' => ['Province'],
@@ -331,6 +331,10 @@ foreach ($formatsAugmentations as $cc => $keys) {
         continue;
     }
     $formatsData = json_decode((string)file_get_contents($formatsPath), true);
+    if (!is_array($formatsData)) {
+        echo "  Warning: formats/$cc.json is not valid JSON — skipping augmentation for $cc.\n";
+        continue;
+    }
     $subKeys = explode('~', $formatsData['country']['sub_keys'] ?? '');
     $subNames = explode('~', $formatsData['country']['sub_names'] ?? '');
     foreach ($keys as $key) {

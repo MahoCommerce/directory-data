@@ -15,6 +15,23 @@
         "ta": "இங்கிலாந்து",
         "uk": "Англія"
     },
+    "NIR": {
+        "en": "Northern Ireland",
+        "ba": "Төньяҡ Ирландия",
+        "cy": "Gogledd Iwerddon",
+        "de": "Nordirland",
+        "et": "Põhja-Iirimaa",
+        "ga": "Tuaisceart Éireann",
+        "hi": "उत्तरी आयरलैंड",
+        "hr": "Sjeverna Irska",
+        "hu": "Észak-Írország",
+        "ka": "ჩრდილოეთ ირლანდია",
+        "nl": "Noord-Ierland",
+        "pl": "Irlandia Północna",
+        "ro": "Irlanda de Nord",
+        "ta": "வட அயர்லாந்து",
+        "uk": "Північна Ірландія"
+    },
     "SCT": {
         "en": "Scotland",
         "ba": "Шотландия",
