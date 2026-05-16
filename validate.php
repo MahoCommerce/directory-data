@@ -75,6 +75,31 @@ foreach ($expected as $cc => $_) {
     }
 }
 
+// regions/ — required keys for high-signal countries. Counts alone don't prove identity:
+// a refactor could produce the right count with the wrong entries. Pin the keys that
+// the PR's completeness goals depend on.
+$requiredKeys = [
+    'US' => ['AA', 'AE', 'AP', 'DC', 'PR', 'GU', 'VI', 'AS', 'MP', 'UM'],
+    'AU' => ['JBT'],
+    'GB' => ['ENG', 'SCT', 'WLS', 'NIR'],
+];
+foreach ($requiredKeys as $cc => $keys) {
+    $path = "regions/$cc.json";
+    if (!is_file($path)) {
+        $errors[] = "$path missing — required for key assertions";
+        continue;
+    }
+    $data = json_decode((string)file_get_contents($path), true);
+    if (!is_array($data)) {
+        continue; // already reported above
+    }
+    foreach ($keys as $key) {
+        if (!isset($data[$key])) {
+            $errors[] = "regions/$cc.json: missing required key '$key'";
+        }
+    }
+}
+
 // formats/
 $formatFiles = glob('formats/*.json') ?: [];
 if (count($formatFiles) < 200) {
