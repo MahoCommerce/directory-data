@@ -1,6 +1,6 @@
-# Directory Data — Multilingual Countries, Regions & Address Formats
+# Directory Data: Multilingual Countries, Regions & Address Formats
 
-A data package for international e-commerce: country/region names in 100+ locales plus per-country address format metadata (postcode regex, required fields, format templates) — all distributed as plain JSON, framework-agnostic.
+A data package for international e-commerce: country/region names in 100+ locales plus per-country address format metadata (postcode regex, required fields, format templates), all distributed as plain JSON, framework-agnostic.
 
 ## What This Provides
 
@@ -55,7 +55,7 @@ composer require mahocommerce/directory-data
 
 ## Reading the Data
 
-Use `Maho\DirectoryData\Paths` to resolve file locations — never hardcode `vendor/mahocommerce/directory-data/...` since consumers may customize Composer's `vendor-dir`.
+Use `Maho\DirectoryData\Paths` to resolve file locations; never hardcode `vendor/mahocommerce/directory-data/...` since consumers may customize Composer's `vendor-dir`.
 
 ```php
 use Maho\DirectoryData\Paths;
@@ -91,19 +91,19 @@ Both files carry subdivision data, with different purposes and coverage. Pick ba
 
 ### Beyond strict ISO 3166-2
 
-`regions/` is built primarily from iso-codes (ISO 3166-2 with 100+ locale translations) plus a small curated set of real postal jurisdictions ISO doesn't cover. The most notable case is **US**: `regions/US.json` includes the 50 states + `DC` + Outlying Areas (`PR`, `GU`, `VI`, `AS`, `MP`, `UM`) + military APO codes (`AA`, `AE`, `AP`). The military codes are sourced from libaddressinput; the territories come from broader iso-codes subdivision types. Note that `PR`/`GU`/`VI`/`AS`/`MP`/`UM` are also separately listed as ISO 3166-1 countries — the dual-listing matches libaddressinput's convention and lets merchants pick the model that fits their checkout flow.
+`regions/` is built primarily from iso-codes (ISO 3166-2 with 100+ locale translations) plus a small curated set of real postal jurisdictions ISO doesn't cover. The most notable case is **US**: `regions/US.json` includes the 50 states + `DC` + Outlying Areas (`PR`, `GU`, `VI`, `AS`, `MP`, `UM`) + military APO codes (`AA`, `AE`, `AP`). The military codes are sourced from libaddressinput; the territories come from broader iso-codes subdivision types. Note that `PR`/`GU`/`VI`/`AS`/`MP`/`UM` are also separately listed as ISO 3166-1 countries; the dual-listing matches libaddressinput's convention and lets merchants pick the model that fits their checkout flow.
 
 Similar augmentations exist for **AU** (Jervis Bay Territory), **NO** (Svalbard / Jan Mayen), **ES** (Ceuta / Melilla), **BR** (Brasília), **MX** (Ciudad de México), **AR** (CABA), **KR** (Jeju / Gangwon / Sejong), and **BS** (New Providence).
 
-**A note on UK addresses:** `regions/GB.json` lists the 4 UK Constituent Countries (England, Scotland, Wales, Northern Ireland). Real-world UK checkout flows don't actually use a region dropdown — Royal Mail routes by postcode alone, so most major platforms (Magento, WooCommerce, Shopify, BigCommerce, PrestaShop) ship no GB regions and treat county as an optional free-text field after a postcode lookup. The 4 entries here are provided as a minimal option for merchants who do want a dropdown; most won't need them. UK counties (~48 ceremonial or 200+ current administrative units) are deliberately not provided — there's no canonical merchant-facing list and the prevailing convention is to skip the dropdown entirely.
+**A note on UK addresses:** `regions/GB.json` lists the 4 UK Constituent Countries (England, Scotland, Wales, Northern Ireland). Real-world UK checkout flows don't actually use a region dropdown: Royal Mail routes by postcode alone, so most major platforms (Magento, WooCommerce, Shopify, BigCommerce, PrestaShop) ship no GB regions and treat county as an optional free-text field after a postcode lookup. The 4 entries here are provided as a minimal option for merchants who do want a dropdown; most won't need them. UK counties (~48 ceremonial or 200+ current administrative units) are deliberately not provided; there's no canonical merchant-facing list and the prevailing convention is to skip the dropdown entirely.
 
 ## Versioning
 
 Releases use the scheme **`1.0.YYYYMMDD`**:
 
-- **Patch** (`YYYYMMDD`) — daily snapshot date. New patch released only when upstream data actually changed.
-- **Minor** (`1.X.0`) — additive schema changes (new fields).
-- **Major** (`X.0.0`) — breaking schema changes (renames, removals, layout reorganization).
+- **Patch** (`YYYYMMDD`): daily snapshot date. New patch released only when upstream data actually changed.
+- **Minor** (`1.X.0`): additive schema changes (new fields).
+- **Major** (`X.0.0`): breaking schema changes (renames, removals, layout reorganization).
 
 Pin with `^1.0` to receive non-breaking updates automatically.
 
@@ -113,7 +113,7 @@ A weekly GitHub Action regenerates the data from upstream sources and, if anythi
 
 ## Data Attribution & Licensing
 
-Repository code is MIT. Data files carry their upstream licenses — see [LICENSE](LICENSE) for the full attribution table. Summary:
+Repository code is MIT. Data files carry their upstream licenses; see [LICENSE](LICENSE) for the full attribution table. Summary:
 
 | Files | Source | License |
 |---|---|---|
