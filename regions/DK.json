@@ -1,6 +1,7 @@
 {
     "81": {
         "en": "Nordjylland",
+        "ba": "Төньяҡ Ютландия",
         "be": "Паўночная Ютландыя",
         "eo": "Nordjutlando",
         "fr": "Jutland septentrional",
@@ -18,6 +19,7 @@
     },
     "82": {
         "en": "Midtjylland",
+        "ba": "Үҙәк Ютландия",
         "be": "Цэнтральная Ютландыя",
         "eo": "Mezjutlando",
         "fr": "Jutland central",
@@ -36,6 +38,7 @@
     },
     "83": {
         "en": "Syddanmark",
+        "ba": "Көньяҡ Дания",
         "be": "Паўднёвая Данія",
         "eo": "Suddanio",
         "fr": "Sud-Danemark",
@@ -53,6 +56,7 @@
     },
     "84": {
         "en": "Hovedstaden",
+        "ba": "Баш ҡала төбәге",
         "be": "Сталічная вобласць",
         "ga": "Caipiteal",
         "hi": "हॉवेडस्टेडेन",
@@ -69,6 +73,7 @@
     },
     "85": {
         "en": "Sjælland",
+        "ba": "Зеландия",
         "be": "Зеландыя",
         "ga": "An Nua-Shéalainn",
         "hi": "सजलैंड",

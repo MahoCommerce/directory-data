@@ -1,6 +1,7 @@
 {
     "03": {
         "en": "Oslo",
+        "ba": "Осло",
         "be": "Осла",
         "bg": "Осло",
         "fi": "Oslon lääni",
@@ -17,6 +18,7 @@
     },
     "11": {
         "en": "Rogaland",
+        "ba": "Ругаланн",
         "be": "Ругалан",
         "fi": "Rogalandin lääni",
         "hi": "रोगालैंड",
@@ -29,6 +31,7 @@
     },
     "15": {
         "en": "Møre og Romsdal",
+        "ba": "Мёре-ог-Ромсдал",
         "be": "Мёрэ-ог-Румсдал",
         "fi": "Møre ja Romsdalin lääni",
         "hi": "मोरे ओग रोम्सडेल",
@@ -41,6 +44,7 @@
     },
     "18": {
         "en": "Nordland",
+        "ba": "Нурланн",
         "be": "Нурлан",
         "eo": "Nordlando",
         "fi": "Nordlandin lääni",
@@ -53,8 +57,51 @@
         "ta": "நோர்ட்லேண்ட்",
         "uk": "Нурланд"
     },
+    "21": {
+        "en": "Svalbard (Arctic Region)",
+        "ba": "Свальбард (Арктика төбәге)",
+        "be": "Свальбард (арктычны рэгіён)",
+        "da": "Svalbard (Arktisk region)",
+        "de": "Svalbard (Arktische Region)",
+        "fr": "Svalbard (région arctique)",
+        "ga": "Svalbard (Réigiún Artach)",
+        "hi": "स्वालबार्ड (आर्कटिक क्षेत्र)",
+        "hr": "Svalbard (arktička regija)",
+        "hu": "Svalbard (Északi-sarkvidék)",
+        "is": "Svalbarði (heimsskautasvæði)",
+        "it": "Svalbard (regione artica)",
+        "nl": "Spitsbergen (Arctische regio); Svalbard (Arctische regio)",
+        "pl": "Svalbard (terytorium arktyczne)",
+        "ro": "Arhipelagul Svalbard (regiunea Arctică)",
+        "sr": "Свалбард (Артичка област)",
+        "sv": "Svalbard (Arktiska regionen)",
+        "ta": "ச்வால்பார்ட் (ஆர்க்டிக் பகுதி)",
+        "uk": "Шпіцберген (Арктичний регіон)"
+    },
+    "22": {
+        "en": "Jan Mayen (Arctic Region)",
+        "ba": "Ян-Майен (Арктика төбәге)",
+        "be": "Ян-Маен (арктычны рэгіён)",
+        "da": "Jan Mayen (Arktisk region)",
+        "de": "Jan Mayen (Arktische Region)",
+        "fr": "Jan Mayen (région arctique)",
+        "ga": "Jan Mayen (Réigiún Artach)",
+        "hi": "जान मायेन (आर्कटिक क्षेत्र)",
+        "hr": "Jan Mayen (arktička regija)",
+        "hu": "Jan Mayen (Északi-sarkvidéki régió)",
+        "is": "Jan Mayen (heimsskautasvæði)",
+        "it": "Jan Mayen (regione artica)",
+        "nl": "Jan Mayen (Arctische regio)",
+        "pl": "Jan Mayen (terytorium arktyczne)",
+        "ro": "Insula Jan Mayen (regiunea Arctică)",
+        "sr": "Јан Мајен (Арктичка област)",
+        "sv": "Jan Mayen (Arktiska regionen)",
+        "ta": "சான் மாயன் (ஆர்க்டிக் பகுதி)",
+        "uk": "Ян-Маєн (Арктичний регіон)"
+    },
     "30": {
         "en": "Viken",
+        "ba": "Викен",
         "ga": "Bá",
         "hi": "विकेन",
         "ka": "ვიკენი",
@@ -63,6 +110,7 @@
     },
     "34": {
         "en": "Innlandet",
+        "ba": "Иннландет",
         "ga": "Intíre",
         "hi": "अंतर्देशीय",
         "ka": "ინლანდეტი",
@@ -71,6 +119,7 @@
     },
     "38": {
         "en": "Vestfold og Telemark",
+        "ba": "Вестфолл-ог-Телемарк",
         "eo": "Vestfold kaj Telemarko",
         "ga": "Vestfold agus Telemark",
         "hi": "वेस्टफोल्ड ओग टेलीमार्क",
@@ -81,6 +130,7 @@
     },
     "42": {
         "en": "Agder",
+        "ba": "Агдер",
         "ga": "Coláiste",
         "hi": "एग्डर",
         "ka": "აგდერი",
@@ -88,6 +138,7 @@
     },
     "46": {
         "en": "Vestland",
+        "ba": "Вестланн",
         "eo": "Uestlando",
         "hi": "वेस्टलैंड",
         "ka": "ვესტლენდი",
@@ -96,6 +147,7 @@
     },
     "50": {
         "en": "Trööndelage",
+        "ba": "Трёнделаг",
         "hi": "ट्रॉन्डेलेज",
         "hu": "Trøndelag",
         "nl": "Trøndelag",
@@ -105,6 +157,7 @@
     },
     "54": {
         "en": "Romssa ja Finnmárkku",
+        "ba": "Тромс-ог-Финнмарк",
         "eo": "Troms kaj Finmarko",
         "ga": "Romssa agus Finnmárkku",
         "hi": "रोम्ससा और फिनमार्कु",

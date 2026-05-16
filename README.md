@@ -79,6 +79,24 @@ $name = $countries['IT']['it_IT']
     ?? $countries['IT']['en'];
 ```
 
+## When to Use `regions/` vs `formats/`
+
+Both files carry subdivision data, with different purposes and coverage. Pick based on what you're building:
+
+- **Subdivision dropdown / address-form picker** → `regions/<CC>.json`. Multilingual names. Includes real shipping destinations that aren't in strict ISO 3166-2 (e.g. US military APO codes, US territories, AU Jervis Bay Territory, NO Svalbard).
+- **Postcode validation, address-format template, required-field hints** → `formats/<CC>.json` `country` block. libaddressinput postal rules, mirrored verbatim.
+- **Subdivision-level postcode hints** (e.g. an Italian province's ZIP prefix) → `formats/<CC>.json` `subdivisions[<key>]`. libaddressinput's subdivision set; in some countries it's at a different administrative level from `regions/`. Join by key when you need both.
+
+`regions/` is the canonical list for *display*; `formats/`'s `subdivisions` map is the canonical source for *postal rules*. The two overlap intentionally.
+
+### Beyond strict ISO 3166-2
+
+`regions/` is built primarily from iso-codes (ISO 3166-2 with 100+ locale translations) plus a small curated set of real postal jurisdictions ISO doesn't cover. The most notable case is **US**: `regions/US.json` includes the 50 states + `DC` + Outlying Areas (`PR`, `GU`, `VI`, `AS`, `MP`, `UM`) + military APO codes (`AA`, `AE`, `AP`). The military codes are sourced from libaddressinput; the territories come from broader iso-codes subdivision types. Note that `PR`/`GU`/`VI`/`AS`/`MP`/`UM` are also separately listed as ISO 3166-1 countries — the dual-listing matches libaddressinput's convention and lets merchants pick the model that fits their checkout flow.
+
+Similar augmentations exist for **AU** (Jervis Bay Territory), **NO** (Svalbard / Jan Mayen), **ES** (Ceuta / Melilla), **BR** (Brasília), **MX** (Ciudad de México), **AR** (CABA), **KR** (Jeju / Gangwon / Sejong), and **BS** (New Providence).
+
+**A note on UK addresses:** `regions/GB.json` lists the 4 UK Constituent Countries (England, Scotland, Wales, Northern Ireland). Real-world UK checkout flows don't actually use a region dropdown — Royal Mail routes by postcode alone, so most major platforms (Magento, WooCommerce, Shopify, BigCommerce, PrestaShop) ship no GB regions and treat county as an optional free-text field after a postcode lookup. The 4 entries here are provided as a minimal option for merchants who do want a dropdown; most won't need them. UK counties (~48 ceremonial or 200+ current administrative units) are deliberately not provided — there's no canonical merchant-facing list and the prevailing convention is to skip the dropdown entirely.
+
 ## Versioning
 
 Releases use the scheme **`1.0.YYYYMMDD`**:

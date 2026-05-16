@@ -38,24 +38,14 @@ jobs:
       - name: Install dependencies
         run: composer install --optimize-autoloader
 
-      - name: Generate countries + regions data
-        run: php generate.php
-
       - name: Generate libaddressinput formats data
         run: php generate-formats.php
 
+      - name: Generate countries + regions data
+        run: php generate.php
+
       - name: Validate generated data
-        run: |
-          set -e
-          test -f countries.json
-          php -r '$d = json_decode(file_get_contents("countries.json"), true); if (!is_array($d) || count($d) < 240) { fwrite(STDERR, "countries.json invalid or too small\n"); exit(1); } if (empty($d["US"]["en"]) || empty($d["IT"]["en"])) { fwrite(STDERR, "countries.json missing canonical entries\n"); exit(1); }'
-          test -d regions
-          php -r '$f = glob("regions/*.json"); if (count($f) < 100) { fwrite(STDERR, "regions/ has <100 files\n"); exit(1); } foreach ($f as $p) { $d = json_decode(file_get_contents($p), true); if (!is_array($d)) { fwrite(STDERR, "$p not valid JSON\n"); exit(1); } }'
-          test -d formats
-          php -r '$f = glob("formats/*.json"); if (count($f) < 200) { fwrite(STDERR, "formats/ has <200 files\n"); exit(1); } foreach ($f as $p) { $d = json_decode(file_get_contents($p), true); if (!is_array($d) || empty($d["country"]["key"])) { fwrite(STDERR, "$p missing country.key\n"); exit(1); } }'
-          php -r '$d = json_decode(file_get_contents("formats/US.json"), true); if (empty($d["country"]["fmt"]) || empty($d["country"]["zip"])) { fwrite(STDERR, "US format missing fmt/zip\n"); exit(1); }'
-          php -r '$d = json_decode(file_get_contents("formats/IT.json"), true); if (empty($d["country"]["fmt"]) || empty($d["country"]["zip"])) { fwrite(STDERR, "IT format missing fmt/zip\n"); exit(1); }'
-          echo "Validation passed."
+        run: php validate.php
 
       - name: Detect changes
         id: changes

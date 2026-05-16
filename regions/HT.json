@@ -1,6 +1,7 @@
 {
     "AR": {
         "en": "Artibonite",
+        "ba": "Артибонит",
         "be": "Артыбаніт",
         "hi": "आर्टिबोनाइट",
         "ja": "アルトヴィン",
@@ -12,6 +13,7 @@
     },
     "CE": {
         "en": "Centre",
+        "ba": "Үҙәк",
         "be": "Цэнтральная",
         "bg": "Център",
         "el": "Κέντρο",
@@ -32,6 +34,7 @@
     },
     "GA": {
         "en": "Grande’Anse",
+        "ba": "Гранд-Анс",
         "ga": "Grande'Anse",
         "hi": "ग्रांडएन्से",
         "hu": "Grande'Anse",
@@ -42,6 +45,7 @@
     },
     "ND": {
         "en": "Nord",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "eo": "Nordo",
         "ga": "An Tuaisceart",
@@ -60,6 +64,7 @@
     },
     "NE": {
         "en": "Nord-Est",
+        "ba": "Төньяҡ-Көнсығыш",
         "be": "Паўночна-Усходні",
         "eo": "Nord-Oriento",
         "ga": "Oirthuaisceart",
@@ -75,6 +80,7 @@
     },
     "NI": {
         "en": "Nippes",
+        "ba": "Нип",
         "ga": "Bric-a-brac",
         "hi": "निप्प्स",
         "ta": "நிப்புகள்",
@@ -82,6 +88,7 @@
     },
     "NO": {
         "en": "Nord-Ouest",
+        "ba": "Төньяҡ-Көнбайыш",
         "be": "Паўночна-Заходні",
         "eo": "Nord-Okcidento",
         "ga": "Iarthuaisceart",
@@ -99,6 +106,7 @@
     },
     "OU": {
         "en": "Ouest",
+        "ba": "Көнбайыш",
         "ga": "An tIarthar",
         "hi": "ऑएस्ट",
         "hu": "Nyugati régió",
@@ -107,6 +115,7 @@
     },
     "SD": {
         "en": "Sud",
+        "ba": "Көньяҡ",
         "ga": "An Deisceart",
         "hi": "सूद",
         "hu": "Déli régió",
@@ -115,6 +124,7 @@
     },
     "SE": {
         "en": "Sud-Est",
+        "ba": "Көньяҡ-Көнсығыш",
         "ga": "Oirdheisceart",
         "hi": "सूड-स्था",
         "hu": "Délkeleti régió",

@@ -1,6 +1,7 @@
 {
     "BU": {
         "en": "Bulawayo",
+        "ba": "Булавайо",
         "be": "Булавая",
         "he": "בולוואיו",
         "hi": "बुलावायो",
@@ -14,6 +15,7 @@
     },
     "HA": {
         "en": "Harare",
+        "ba": "Хараре",
         "be": "Харарэ",
         "bg": "Хараре",
         "eo": "Hararo",
@@ -29,6 +31,7 @@
     },
     "MA": {
         "en": "Manicaland",
+        "ba": "Маникаленд",
         "be": "Манікаленд",
         "he": "מניקלנד",
         "hi": "मैनिकालैंड",
@@ -41,6 +44,7 @@
     },
     "MC": {
         "en": "Mashonaland Central",
+        "ba": "Үҙәк Машоналенд",
         "be": "Цэнтральны Машоналэнд",
         "da": "Mashonaland Centralt",
         "fr": "Mashonaland central",
@@ -59,6 +63,7 @@
     },
     "ME": {
         "en": "Mashonaland East",
+        "ba": "Көнсығыш Машоналенд",
         "be": "Усходні Машоналэнд",
         "da": "Mashonaland Øst",
         "fr": "Mashonaland oriental",
@@ -77,6 +82,7 @@
     },
     "MI": {
         "en": "Midlands",
+        "ba": "Мидлендс",
         "be": "Мідлэндс",
         "eo": "Mezlandoj",
         "ga": "Lár na Tíre",
@@ -94,6 +100,7 @@
     },
     "MN": {
         "en": "Matabeleland North",
+        "ba": "Төньяҡ Матабелеленд",
         "be": "Паўночны Матабэлелэнд",
         "da": "Matabeleland Nord",
         "fr": "Matabeleland septentrional",
@@ -112,6 +119,7 @@
     },
     "MS": {
         "en": "Matabeleland South",
+        "ba": "Көньяҡ Матабелеленд",
         "be": "Паўднёвы Матабэлелэнд",
         "da": "Matabeleland Syd",
         "fr": "Matabeleland méridional",
@@ -131,6 +139,7 @@
     },
     "MV": {
         "en": "Masvingo",
+        "ba": "Масвинго",
         "be": "Масвінга",
         "he": "מסבינגו",
         "hi": "मास्विंगो",
@@ -145,6 +154,7 @@
     },
     "MW": {
         "en": "Mashonaland West",
+        "ba": "Көнбайыш Машоналенд",
         "be": "Заходні Машоналэнд",
         "da": "Mashonaland Vest",
         "fr": "Mashonaland occidental",

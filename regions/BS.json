@@ -1,6 +1,7 @@
 {
     "AK": {
         "en": "Acklins",
+        "ba": "Аклинс",
         "be": "Аклінс",
         "hi": "ऍक्क्लिंस",
         "ja": "アクリンズ島",
@@ -11,6 +12,7 @@
     },
     "BI": {
         "en": "Bimini",
+        "ba": "Бимини",
         "be": "Біміні",
         "hi": "बिमिनी",
         "ru": "Бимини",
@@ -20,6 +22,7 @@
     },
     "BP": {
         "en": "Black Point",
+        "ba": "Блэк-Пойнт",
         "be": "Блэк-пойнт",
         "eo": "Nigra Punkto",
         "ga": "Pointe Dubh",
@@ -32,6 +35,7 @@
     },
     "BY": {
         "en": "Berry Islands",
+        "ba": "Берри утрауҙары",
         "be": "Астравы Бэры",
         "da": "Berry-øerne",
         "el": "Νησιά Μπέρι",
@@ -50,6 +54,7 @@
     },
     "CE": {
         "en": "Central Eleuthera",
+        "ba": "Үҙәк Эльютера",
         "be": "Центральная Эльютэра",
         "fr": "Eleuthera Central",
         "ga": "Eleuthera Láir",
@@ -66,6 +71,7 @@
     },
     "CI": {
         "en": "Cat Island",
+        "ba": "Кат утрауы",
         "be": "Востраў Кэт",
         "eo": "Katinsulo",
         "ga": "Oileán Cat",
@@ -82,6 +88,7 @@
     },
     "CK": {
         "en": "Crooked Island and Long Cay",
+        "ba": "Кривой утрауы һәм Лонг-Кей",
         "be": "Востраў Крукед і Лонг-Кей",
         "da": "Crookedø og Long Cay",
         "de": "Crooked Island und Long Cay",
@@ -101,6 +108,7 @@
     },
     "CO": {
         "en": "Central Abaco",
+        "ba": "Үҙәк Абако",
         "be": "Цэнтральны Абака",
         "fr": "Abaco Central",
         "ga": "Abaco Láir",
@@ -117,6 +125,7 @@
     },
     "CS": {
         "en": "Central Andros",
+        "ba": "Үҙәк Андрос",
         "be": "Цэнтральны Андрас",
         "fr": "Andros central",
         "ga": "Andros Láir",
@@ -133,6 +142,7 @@
     },
     "EG": {
         "en": "East Grand Bahama",
+        "ba": "Көнсығыш Оло Багама",
         "be": "Усходні Гранд-Багама",
         "eo": "Orienta Granda Bahamo",
         "fr": "Grand Bahama orientale",
@@ -149,6 +159,7 @@
     },
     "EX": {
         "en": "Exuma",
+        "ba": "Эксума",
         "be": "Эксума",
         "hi": "एक्जुमा",
         "sr": "Ексума",
@@ -157,6 +168,7 @@
     },
     "FP": {
         "en": "City of Freeport",
+        "ba": "Фрипорт ҡалаһы",
         "be": "Горад Фрыпорт",
         "cy": "Dinas Freeport",
         "da": "Byen Freeport",
@@ -176,6 +188,7 @@
     },
     "GC": {
         "en": "Grand Cay",
+        "ba": "Гранд-Кей",
         "be": "Гранд-Кей",
         "eo": "Granda Sablorifo",
         "ga": "Cay Mhór",
@@ -187,6 +200,7 @@
     },
     "HI": {
         "en": "Harbour Island",
+        "ba": "Харбор утрауы",
         "be": "Востраў Гарбар",
         "eo": "Haveninsulo",
         "eu": "Harbour uhartea",
@@ -202,6 +216,7 @@
     },
     "HT": {
         "en": "Hope Town",
+        "ba": "Хоуп-Таун",
         "be": "Гоўп-Таўн",
         "eo": "Esperurbo",
         "ga": "Baile Dóchais",
@@ -212,6 +227,7 @@
     },
     "IN": {
         "en": "Inagua",
+        "ba": "Инагуа",
         "be": "Інагуа",
         "hi": "इनागुआ",
         "ja": "イナグア島",
@@ -222,6 +238,7 @@
     },
     "LI": {
         "en": "Long Island",
+        "ba": "Лонг-Айленд",
         "be": "Лонг-Айлэнд",
         "bg": "Лонг Айлънд",
         "eo": "Longinsulo",
@@ -238,6 +255,7 @@
     },
     "MC": {
         "en": "Mangrove Cay",
+        "ba": "Мангров-Кей",
         "be": "Мангровэ-Кей",
         "eo": "Mangrova Sablorifo",
         "hi": "मैंग्रोव के",
@@ -248,6 +266,7 @@
     },
     "MG": {
         "en": "Mayaguana",
+        "ba": "Маягуана",
         "be": "Маягуана",
         "hi": "मायागयाना",
         "ja": "マヤグアナ島",
@@ -258,6 +277,7 @@
     },
     "MI": {
         "en": "Moore's Island",
+        "ba": "Мур утрауы",
         "be": "Востраў Мура",
         "da": "Moores ø",
         "el": "Νησί του Μουρ",
@@ -273,6 +293,7 @@
     },
     "NE": {
         "en": "North Eleuthera",
+        "ba": "Төньяҡ Эльютера",
         "be": "Паўночная Эльютэра",
         "fr": "Eleuthera septentrional",
         "ga": "Eleuthera Thuaidh",
@@ -289,6 +310,7 @@
     },
     "NO": {
         "en": "North Abaco",
+        "ba": "Төньяҡ Абако",
         "be": "Паўночны Абака",
         "fr": "Abaco septentrional",
         "ga": "Abaco Thuaidh",
@@ -303,8 +325,21 @@
         "uk": "Північний Абако",
         "vi": "Bắc Abaco"
     },
+    "NP": {
+        "en": "New Providence",
+        "ba": "Нью-Провиденс",
+        "be": "Нью-Провідэнс",
+        "eo": "Nov-Providenco",
+        "ga": "Providence Nua",
+        "hi": "नया प्रोविडेंस",
+        "hu": "Új-Providence",
+        "ru": "Нью-Провиденс",
+        "ta": "புதிய பிராவிடன்ச்",
+        "uk": "Нью-Провіденс"
+    },
     "NS": {
         "en": "North Andros",
+        "ba": "Төньяҡ Андрос",
         "be": "Паўночны Андрас",
         "fr": "Andros septentrional",
         "ga": "Andros Thuaidh",
@@ -321,6 +356,7 @@
     },
     "RC": {
         "en": "Rum Cay",
+        "ba": "Рам-Кей",
         "be": "Рум-Кей",
         "eo": "Ruma Saborifo",
         "hi": "रम के",
@@ -331,6 +367,7 @@
     },
     "RI": {
         "en": "Ragged Island",
+        "ba": "Рэггид-Айленд",
         "be": "Рэггед-Айлэнд",
         "da": "Ragged ø",
         "ga": "Oileán Ragged",
@@ -344,6 +381,7 @@
     },
     "SA": {
         "en": "South Andros",
+        "ba": "Көньяҡ Андрос",
         "be": "Паўднёвы Андрас",
         "fr": "Andros méridional",
         "ga": "Andros Theas",
@@ -360,6 +398,7 @@
     },
     "SE": {
         "en": "South Eleuthera",
+        "ba": "Көньяҡ Эльютера",
         "be": "Паўднёвая Эльютэра",
         "el": "Νότια Ελεύθερα",
         "fr": "Eleuthera méridional",
@@ -377,6 +416,7 @@
     },
     "SO": {
         "en": "South Abaco",
+        "ba": "Көньяҡ Абако",
         "be": "Паўднёвы Абака",
         "fr": "Abaco méridional",
         "ga": "Abaco Theas",
@@ -394,6 +434,7 @@
     },
     "SS": {
         "en": "San Salvador",
+        "ba": "Сан-Сальвадор",
         "be": "Сан-Сальвадор",
         "bg": "Сан Салвадор",
         "eo": "San-Salvadoro",
@@ -410,6 +451,7 @@
     },
     "SW": {
         "en": "Spanish Wells",
+        "ba": "Спэниш-Уэллс",
         "be": "Спаніш-Вэллс",
         "eo": "Hispanaj Putoj",
         "ga": "Toibreacha na Spáinne",
@@ -421,6 +463,7 @@
     },
     "WG": {
         "en": "West Grand Bahama",
+        "ba": "Көнбайыш Оло Багама",
         "be": "Заходні Гранд-Багама",
         "eo": "Okcidenta Granda Bahamo",
         "fr": "Grand Bahama occidentale",

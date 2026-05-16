@@ -1,6 +1,7 @@
 {
     "DA": {
         "en": "Ad Dawḩah",
+        "ba": "Эд-Доха",
         "eo": "Daŭho",
         "hi": "अड़ दावह",
         "hu": "Ad-Dauha",
@@ -12,6 +13,7 @@
     },
     "KH": {
         "en": "Al Khawr wa adh Dhakhīrah",
+        "ba": "Эль-Хаур һәм эз-Захира",
         "be": "Аль Хор",
         "ga": "Al-Khawar wa Adh Dhakhīrah",
         "hi": "अल खावर वा अध दखीराह",
@@ -23,6 +25,7 @@
     },
     "MS": {
         "en": "Ash Shamāl",
+        "ba": "Эш-Шамаль",
         "hi": "अश शामल",
         "hu": "Észak régió",
         "nl": "Ash Shamal",
@@ -33,6 +36,7 @@
     },
     "RA": {
         "en": "Ar Rayyān",
+        "ba": "Эр-Райян",
         "hi": "अर रेयान",
         "nl": "Ar Rayyan",
         "pl": "Ar-Rajjan",
@@ -42,6 +46,7 @@
     },
     "SH": {
         "en": "Ash Shīḩānīyah",
+        "ba": "Эш-Шихания",
         "hi": "अश शिदानियः",
         "hu": "As-Sahaniyah",
         "nl": "Al-Shahaniya",
@@ -52,6 +57,7 @@
     },
     "US": {
         "en": "Umm Şalāl",
+        "ba": "Умм-Салаль",
         "ga": "Um Şalal",
         "hi": "उम्म शालाल",
         "hu": "Umm Salal",
@@ -63,6 +69,7 @@
     },
     "WA": {
         "en": "Al Wakrah",
+        "ba": "Эль-Вакра",
         "be": "Аль Вакра",
         "de": "al-Wakra",
         "hi": "अल वकरा",
@@ -75,6 +82,7 @@
     },
     "ZA": {
         "en": "Az̧ Z̧a‘āyin",
+        "ba": "Эз-Заайин",
         "be": "Аз Зайн",
         "ga": "Az̧ Z̧a'āyin",
         "hi": "अज़्ज़ ज़ायैन",

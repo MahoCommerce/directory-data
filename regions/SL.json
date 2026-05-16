@@ -1,6 +1,7 @@
 {
     "E": {
         "en": "Eastern",
+        "ba": "Көнсығыш",
         "be": "Усходняя",
         "el": "Ανατολική",
         "eo": "Oriento",
@@ -26,6 +27,7 @@
     },
     "N": {
         "en": "Northern",
+        "ba": "Төньяҡ",
         "be": "Паўночная",
         "el": "Βόρεια",
         "eo": "Nordo",
@@ -49,6 +51,7 @@
     },
     "NW": {
         "en": "North Western",
+        "ba": "Төньяҡ-Көнбайыш",
         "eo": "Nord-Okcidento",
         "ga": "An tIarthuaisceart",
         "hi": "उत्तर पश्चिमी",
@@ -63,6 +66,7 @@
     },
     "S": {
         "en": "Southern",
+        "ba": "Көньяҡ",
         "be": "Паўднёвая акруга",
         "da": "Sydlige",
         "de": "Süd",

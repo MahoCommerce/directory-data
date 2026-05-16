@@ -1,6 +1,7 @@
 {
     "A": {
         "en": "Salta",
+        "ba": "Сальта",
         "be": "Сальта",
         "ga": "Salann",
         "he": "סלטה",
@@ -15,6 +16,7 @@
     },
     "B": {
         "en": "Buenos Aires",
+        "ba": "Буэнос-Айрес",
         "be": "Буэнас-Айрэс",
         "bg": "Буенос Айрес",
         "eo": "Bonaero",
@@ -30,8 +32,35 @@
         "th": "บัวโนสไอเรส",
         "uk": "Буенос-Айрес"
     },
+    "C": {
+        "en": "Ciudad Autónoma de Buenos Aires",
+        "ba": "Буэнос-Айрес автономиялы ҡалаһы",
+        "be": "Аўтаномны горад Буэнас-Айрэс",
+        "de": "Autonome Stadt Buenos Aires",
+        "eo": "Aŭtonoma Urbo Bonaero",
+        "et": "Buenos Aires",
+        "eu": "Buenos Airesko Hiri Autonomoa",
+        "fr": "Ville autonome de Buenos Aires",
+        "ga": "Cathair Fhéinrialaitheach Buenos Aires",
+        "hi": "स्यूदाद ऑटोनोमा डी ब्यूनस आयर्स",
+        "hu": "Buenos Aires Autonóm Város",
+        "it": "Città autonoma di Buenos Aires",
+        "nl": "Autonome Stad Buenos Aires",
+        "pl": "Autonomiczne Miasto Buenos Aires",
+        "ro": "Orașul Autonom Buenos Aires",
+        "ru": "Автономный город Буэнос-Айрес",
+        "sc": "Tzitade autònoma de Buenos Àires",
+        "sk": "Buenos Aires",
+        "sl": "Avtonomno mesto Buenos Aires",
+        "sr": "Аутономни град Буенос Аирес",
+        "ta": "சியுடாட் ஆட்டோனோமா டி புவெனச் அயர்ச்",
+        "th": "นครปกครองตนเองบัวโนสไอเรส",
+        "tr": "Buenos Aires Özerk Şehri",
+        "uk": "Автономне місто Буенос-Айрес"
+    },
     "D": {
         "en": "San Luis",
+        "ba": "Сан-Луис",
         "be": "Сан-Луіс",
         "eo": "Sankta Luiso",
         "he": "סן לואיס",
@@ -47,6 +76,7 @@
     },
     "E": {
         "en": "Entre Ríos",
+        "ba": "Энтре-Риос",
         "be": "Энтрэ-Рыас",
         "eo": "Interriverio",
         "fr": "Entre-Ríos",
@@ -59,6 +89,7 @@
     },
     "F": {
         "en": "La Rioja",
+        "ba": "Ла-Риоха",
         "be": "Рыёха",
         "he": "לה ריוחה",
         "hi": "ला रियोजा",
@@ -73,6 +104,7 @@
     },
     "G": {
         "en": "Santiago del Estero",
+        "ba": "Сантьяго-дель-Эстеро",
         "be": "Сант'яга-дэль-Эстэра",
         "eo": "Santiago de l' Estuaro",
         "he": "סנטיאגו דל אסטרו",
@@ -87,6 +119,7 @@
     },
     "H": {
         "en": "Chaco",
+        "ba": "Чако",
         "be": "Чака",
         "he": "צ׳אקו",
         "hi": "चाको",
@@ -100,6 +133,7 @@
     },
     "J": {
         "en": "San Juan",
+        "ba": "Сан-Хуан",
         "be": "Сан-Хуан",
         "eo": "Sankt-Johano",
         "he": "סן חואן",
@@ -115,6 +149,7 @@
     },
     "K": {
         "en": "Catamarca",
+        "ba": "Катамарка",
         "be": "Катамарка",
         "he": "קטמרקה",
         "hi": "कैटामार्का",
@@ -128,6 +163,7 @@
     },
     "L": {
         "en": "La Pampa",
+        "ba": "Ла-Пампа",
         "be": "Ла-Пампа",
         "bg": "Ла Пампа",
         "eo": "Pamparo",
@@ -142,6 +178,7 @@
     },
     "M": {
         "en": "Mendoza",
+        "ba": "Мендоса",
         "be": "Мендоса",
         "bg": "Мендоза",
         "he": "מנדוסה",
@@ -156,6 +193,7 @@
     },
     "N": {
         "en": "Misiones",
+        "ba": "Мисьонес",
         "be": "Місьёнес",
         "eo": "Misioj",
         "ga": "Misin",
@@ -170,6 +208,7 @@
     },
     "P": {
         "en": "Formosa",
+        "ba": "Формоса",
         "be": "Фармоса",
         "eo": "Formozo",
         "he": "פורמוסה",
@@ -185,6 +224,7 @@
     },
     "Q": {
         "en": "Neuquén",
+        "ba": "Неукен",
         "be": "Неўкен",
         "he": "נאוקן",
         "hi": "न्यूक्वेन",
@@ -195,6 +235,7 @@
     },
     "R": {
         "en": "Río Negro",
+        "ba": "Рио-Негро",
         "be": "Рыа-Негра",
         "bg": "Рио Негро",
         "da": "Rio Negro",
@@ -213,6 +254,7 @@
     },
     "S": {
         "en": "Santa Fe",
+        "ba": "Санта-Фе",
         "be": "Санта-Фэ",
         "bg": "Санта Фе",
         "eo": "Sankta Fido",
@@ -230,6 +272,7 @@
     },
     "T": {
         "en": "Tucumán",
+        "ba": "Тукуман",
         "be": "Тукуман",
         "ga": "Tucuman",
         "he": "טוקומן",
@@ -241,6 +284,7 @@
     },
     "U": {
         "en": "Chubut",
+        "ba": "Чубут",
         "be": "Чубут",
         "he": "צ׳ובוט",
         "hi": "चुबुत",
@@ -254,6 +298,7 @@
     },
     "V": {
         "en": "Tierra del Fuego",
+        "ba": "Утлы Ер",
         "be": "Вогненная Зямля",
         "eo": "Fajrolando",
         "et": "Tulemaa",
@@ -278,6 +323,7 @@
     },
     "W": {
         "en": "Corrientes",
+        "ba": "Корриентес",
         "be": "Карыентэс",
         "ga": "Sruthanna",
         "he": "קוריינטס",
@@ -294,6 +340,7 @@
     },
     "X": {
         "en": "Córdoba",
+        "ba": "Кордова",
         "be": "Кардоба",
         "da": "Cordoba",
         "el": "Κόρδοβα",
@@ -315,6 +362,7 @@
     },
     "Y": {
         "en": "Jujuy",
+        "ba": "Хухуй",
         "be": "Жужуй",
         "he": "חוחוי",
         "hi": "जुजुय",
@@ -328,6 +376,7 @@
     },
     "Z": {
         "en": "Santa Cruz",
+        "ba": "Санта-Крус",
         "be": "Санта-Крус",
         "bg": "Санта Круз",
         "eo": "Sankta Kruco",

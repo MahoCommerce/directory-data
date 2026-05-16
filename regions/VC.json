@@ -1,6 +1,7 @@
 {
     "01": {
         "en": "Charlotte",
+        "ba": "Шарлотта",
         "be": "Шарлота",
         "eo": "Ĉarloto",
         "he": "שארלוט",
@@ -13,6 +14,7 @@
     },
     "02": {
         "en": "Saint Andrew",
+        "ba": "Сент-Эндрю",
         "be": "Сент-Андру",
         "cy": "Sant Andrew",
         "da": "Sankt Andrew",
@@ -32,6 +34,7 @@
     },
     "03": {
         "en": "Saint David",
+        "ba": "Сент-Дэвид",
         "be": "Сент-Дэвід",
         "cs": "Svatý David",
         "da": "Sankt David",
@@ -48,6 +51,7 @@
     },
     "04": {
         "en": "Saint George",
+        "ba": "Сент-Джордж",
         "be": "Сент-Джордж",
         "cy": "San Siôr",
         "da": "Sankt George",
@@ -67,6 +71,7 @@
     },
     "05": {
         "en": "Saint Patrick",
+        "ba": "Сент-Патрик",
         "be": "Сент-Патрык",
         "cs": "Svatý Patrik",
         "da": "Sankt Patrick",
@@ -82,6 +87,7 @@
     },
     "06": {
         "en": "Grenadines",
+        "ba": "Гренадиндар",
         "be": "Грэнадзіны",
         "eo": "Grenadinoj",
         "ga": "Greanáidíní",

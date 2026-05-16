@@ -1,6 +1,7 @@
 {
     "00": {
         "en": "Markazī",
+        "ba": "Меркези",
         "be": "Маркязі",
         "fr": "Markazi",
         "hi": "मर्कज़ी",
@@ -18,6 +19,7 @@
     },
     "01": {
         "en": "Gīlān",
+        "ba": "Гилян",
         "be": "Гілян",
         "da": "Gilan",
         "fr": "Gilan",
@@ -37,6 +39,7 @@
     },
     "02": {
         "en": "Māzandarān",
+        "ba": "Мазендеран",
         "be": "Мазандаран",
         "fr": "Mazandaran",
         "hi": "माज़ंदरान",
@@ -54,6 +57,7 @@
     },
     "03": {
         "en": "Āz̄ārbāyjān-e Shārqī",
+        "ba": "Көнсығыш Әзербайжан",
         "hi": "अजरबैजान-ए शर्की",
         "hu": "Kelet-Azerbajdzsán",
         "nl": "Oost-Azerbeidzjan",
@@ -64,6 +68,7 @@
     },
     "04": {
         "en": "Āz̄ārbāyjān-e Ghārbī",
+        "ba": "Көнбайыш Әзербайжан",
         "hi": "अजरबयजान-ए ग़रबी",
         "hu": "Nyugat-Azerbajdzsán",
         "nl": "West-Azerbeidzjan",
@@ -74,6 +79,7 @@
     },
     "05": {
         "en": "Kermānshāh",
+        "ba": "Керманшах",
         "be": "Керманшах",
         "da": "Kermanshah",
         "de": "Kermānschāh",
@@ -96,6 +102,7 @@
     },
     "06": {
         "en": "Khūzestān",
+        "ba": "Хузестан",
         "be": "Хузестан",
         "da": "Khusistan",
         "de": "Chūzestān",
@@ -117,6 +124,7 @@
     },
     "07": {
         "en": "Fārs",
+        "ba": "Фарс",
         "be": "Фарс",
         "da": "Fars",
         "fr": "Fars",
@@ -137,6 +145,7 @@
     },
     "08": {
         "en": "Kermān",
+        "ba": "Керман",
         "be": "Керман",
         "da": "Kerman",
         "fr": "Kerman",
@@ -158,6 +167,7 @@
     },
     "09": {
         "en": "Khorāsān-e Raẕavī",
+        "ba": "Хөрәсән-Резави",
         "hi": "खुरासान-ए राववी",
         "hu": "Razavi Khoraszán",
         "nl": "Razavi-Khorasan",
@@ -168,6 +178,7 @@
     },
     "10": {
         "en": "Eşfahān",
+        "ba": "Исфахан",
         "be": "Ісфаган",
         "da": "Esfahan",
         "fr": "Ispahan",
@@ -188,6 +199,7 @@
     },
     "11": {
         "en": "Sīstān va Balūchestān",
+        "ba": "Систан һәм Белуджистан",
         "be": "Сыстан і Балучыстан",
         "de": "Sīstān und Belūtchistān",
         "fr": "Sistan-o-Balouchestan",
@@ -207,6 +219,7 @@
     },
     "12": {
         "en": "Kordestān",
+        "ba": "Курдистан",
         "be": "Курдыстан",
         "fr": "Kurdistan",
         "hi": "कुर्दिस्तान",
@@ -226,6 +239,7 @@
     },
     "13": {
         "en": "Hamadān",
+        "ba": "Хамадан",
         "be": "Хамадан",
         "da": "Hamadan",
         "fr": "Hamedan",
@@ -247,6 +261,7 @@
     },
     "14": {
         "en": "Chahār Maḩāl va Bakhtīārī",
+        "ba": "Чахармахал һәм Бахтиария",
         "hi": "चाहर मअल व बख्तियारी",
         "hu": "Chahár Mahál és Bahtijári",
         "nl": "Chahar Mahaal en Bakhtiari",
@@ -257,6 +272,7 @@
     },
     "15": {
         "en": "Lorestān",
+        "ba": "Лурестан",
         "be": "Лурэстан",
         "fr": "Lorestan",
         "hi": "लोरिस्तान",
@@ -276,6 +292,7 @@
     },
     "16": {
         "en": "Īlām",
+        "ba": "Илам",
         "be": "Ілам",
         "da": "Ilam",
         "fr": "Ilam",
@@ -294,6 +311,7 @@
     },
     "17": {
         "en": "Kohgīlūyeh va Bowyer Aḩmad",
+        "ba": "Кохгилуйе һәм Бойерахмед",
         "ga": "Kohgīlūyeh agus Bowyer Aḩmad",
         "hi": "कोहगिलुयेह और बाउयेर अहमद",
         "hu": "Kohgílúje és Búyer-Ahmad",
@@ -305,6 +323,7 @@
     },
     "18": {
         "en": "Būshehr",
+        "ba": "Бушир",
         "be": "Бушэр",
         "da": "Bushehr",
         "de": "Buschehr",
@@ -325,6 +344,7 @@
     },
     "19": {
         "en": "Zanjān",
+        "ba": "Зенджан",
         "be": "Занджан",
         "da": "Zanjan",
         "de": "Zandschān",
@@ -346,6 +366,7 @@
     },
     "20": {
         "en": "Semnān",
+        "ba": "Семнан",
         "be": "Сэмнан",
         "fr": "Semnan",
         "hi": "सेमनान",
@@ -366,6 +387,7 @@
     },
     "21": {
         "en": "Yazd",
+        "ba": "Йезд",
         "be": "Язд",
         "hi": "यज़्द",
         "hu": "Jazd",
@@ -379,6 +401,7 @@
     },
     "22": {
         "en": "Hormozgān",
+        "ba": "Хормозган",
         "be": "Хармазган",
         "da": "Hormozgan",
         "fr": "Hormozgan",
@@ -399,6 +422,7 @@
     },
     "23": {
         "en": "Tehrān",
+        "ba": "Тәһран",
         "be": "Тэгеран",
         "da": "Teheran",
         "de": "Teherān",
@@ -423,6 +447,7 @@
     },
     "24": {
         "en": "Ardabīl",
+        "ba": "Ардебиль",
         "be": "Ардэбіль",
         "da": "Ardabil",
         "fr": "Ardabil",
@@ -443,6 +468,7 @@
     },
     "25": {
         "en": "Qom",
+        "ba": "Кум",
         "be": "Кум",
         "ga": "QomGeneric",
         "hi": "कोम",
@@ -456,6 +482,7 @@
     },
     "26": {
         "en": "Qazvīn",
+        "ba": "Казвин",
         "be": "Казвін",
         "fr": "Qazvin",
         "hi": "क़ज़वीन",
@@ -475,6 +502,7 @@
     },
     "27": {
         "en": "Golestān",
+        "ba": "Голестан",
         "be": "Голестан",
         "da": "Golestan",
         "fr": "Golestan",
@@ -495,6 +523,7 @@
     },
     "28": {
         "en": "Khorāsān-e Shomālī",
+        "ba": "Төньяҡ Хөрәсән",
         "hi": "खुरासान-ए शोमाली",
         "hu": "Észak-Khorászán",
         "nl": "Noord-Khorasan",
@@ -505,6 +534,7 @@
     },
     "29": {
         "en": "Khorāsān-e Jonūbī",
+        "ba": "Көньяҡ Хөрәсән",
         "ga": "Jonūbī i Khorāsān",
         "hi": "खुरासान-ए जोनुबी",
         "hu": "Dél-Khorászán",
@@ -516,6 +546,7 @@
     },
     "30": {
         "en": "Alborz",
+        "ba": "Альборз",
         "hi": "अल्बोर्ज़",
         "ka": "ელბურსი",
         "nl": "Elboers; Elburz; Alborz",

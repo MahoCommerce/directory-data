@@ -1,6 +1,7 @@
 {
     "01": {
         "en": "Saint Andrew",
+        "ba": "Сент-Эндрю",
         "be": "Сент-Андру",
         "cy": "Sant Andrew",
         "da": "Sankt Andrew",
@@ -20,6 +21,7 @@
     },
     "02": {
         "en": "Saint David",
+        "ba": "Сент-Дэвид",
         "be": "Сент-Дэвід",
         "cs": "Svatý David",
         "da": "Sankt David",
@@ -36,6 +38,7 @@
     },
     "03": {
         "en": "Saint George",
+        "ba": "Сент-Джордж",
         "be": "Сент-Джордж",
         "cy": "San Siôr",
         "da": "Sankt George",
@@ -55,6 +58,7 @@
     },
     "04": {
         "en": "Saint John",
+        "ba": "Сент-Джон",
         "be": "Сент-Джон",
         "cy": "Sant Ioan",
         "da": "Sankt John",
@@ -74,6 +78,7 @@
     },
     "05": {
         "en": "Saint Mark",
+        "ba": "Сент-Марк",
         "be": "Сент-Марк",
         "da": "Sankt Mark",
         "el": "Άγιος Μάρκος",
@@ -88,6 +93,7 @@
     },
     "06": {
         "en": "Saint Patrick",
+        "ba": "Сент-Патрик",
         "be": "Сент-Патрык",
         "cs": "Svatý Patrik",
         "da": "Sankt Patrick",

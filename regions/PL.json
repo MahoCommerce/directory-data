@@ -1,6 +1,7 @@
 {
     "02": {
         "en": "Dolnośląskie",
+        "ba": "Түбәнге Силезия",
         "be": "Ніжнесілезскае ваяводства",
         "de": "Niederschlesien",
         "fr": "Basse-Silésie",
@@ -23,6 +24,7 @@
     },
     "04": {
         "en": "Kujawsko-Pomorskie",
+        "ba": "Куявия-Померания",
         "ga": "Kuyavian-Pomeranian Voivodeship",
         "hi": "कुजाव्स्को-पोमोर्स्की",
         "hu": "Kujávia-Pomeránia",
@@ -34,6 +36,7 @@
     },
     "06": {
         "en": "Lubelskie",
+        "ba": "Люблин",
         "be": "Люблінскае ваяводства",
         "de": "Lublin",
         "fr": "Lublin",
@@ -54,6 +57,7 @@
     },
     "08": {
         "en": "Lubuskie",
+        "ba": "Любуш",
         "be": "Любушскае ваяводства",
         "de": "Lebus",
         "fr": "Lubusz",
@@ -75,6 +79,7 @@
     },
     "10": {
         "en": "Łódzkie",
+        "ba": "Лодзь",
         "be": "Лодзьскае ваяводства",
         "de": "Łódz",
         "fr": "Łódź",
@@ -94,6 +99,7 @@
     },
     "12": {
         "en": "Małopolskie",
+        "ba": "Кесе Польша",
         "be": "Малапольскае ваяводства",
         "de": "Kleinpolen",
         "fr": "Petite-Pologne",
@@ -114,6 +120,7 @@
     },
     "14": {
         "en": "Mazowieckie",
+        "ba": "Мазовия",
         "be": "Мазавецкае ваяводства",
         "de": "Masowien",
         "fr": "Mazovie",
@@ -132,6 +139,7 @@
     },
     "16": {
         "en": "Opolskie",
+        "ba": "Ополе",
         "be": "Апольскае ваяводства",
         "de": "Oppeln",
         "fr": "Opole (Silésie centrale)",
@@ -152,6 +160,7 @@
     },
     "18": {
         "en": "Podkarpackie",
+        "ba": "Карпат аҫты",
         "be": "Падкарпацкае ваяводства",
         "de": "Karpatenvorland",
         "fr": "Basses-Carpates",
@@ -172,6 +181,7 @@
     },
     "20": {
         "en": "Podlaskie",
+        "ba": "Подлясье",
         "be": "Падляскае ваяводства",
         "de": "Podlachien",
         "fr": "Podlachie",
@@ -192,6 +202,7 @@
     },
     "22": {
         "en": "Pomorskie",
+        "ba": "Померания",
         "be": "Паморскае ваяводства",
         "de": "Pommern",
         "fr": "Poméranie",
@@ -211,6 +222,7 @@
     },
     "24": {
         "en": "Śląskie",
+        "ba": "Силезия",
         "be": "Сілезскае ваяводства",
         "de": "Schlesien",
         "fr": "Silésie (Haute-Silésie)",
@@ -230,6 +242,7 @@
     },
     "26": {
         "en": "Świętokrzyskie",
+        "ba": "Изге Тәре",
         "be": "Свентакшыскае ваяводства",
         "de": "Heiligkreuz",
         "fr": "Sainte-Croix",
@@ -249,6 +262,7 @@
     },
     "28": {
         "en": "Warmińsko-Mazurskie",
+        "ba": "Вармия-Мазурия",
         "ga": "Warmian-Masurian Voivodeship",
         "hi": "वर्मिंस्को-मज़ुर्स्की",
         "hu": "Varmia-mazúriai vajdaság",
@@ -260,6 +274,7 @@
     },
     "30": {
         "en": "Wielkopolskie",
+        "ba": "Бөйөк Польша",
         "be": "Велікапольскае ваяводства",
         "de": "Großpolen",
         "eo": "Granda Pollando",
@@ -280,6 +295,7 @@
     },
     "32": {
         "en": "Zachodniopomorskie",
+        "ba": "Көнбайыш Померания",
         "be": "Заходнепаморскае ваяводства",
         "de": "Westpommern",
         "fr": "Poméranie occidentale",
