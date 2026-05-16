@@ -1,7 +1,6 @@
 {
     "03": {
         "en": "Saint George",
-        "ba": "Сент-Джордж",
         "be": "Сент-Джордж",
         "cy": "San Siôr",
         "da": "Sankt George",
@@ -21,7 +20,6 @@
     },
     "04": {
         "en": "Saint John",
-        "ba": "Сент-Джон",
         "be": "Сент-Джон",
         "cy": "Sant Ioan",
         "da": "Sankt John",
@@ -41,7 +39,6 @@
     },
     "05": {
         "en": "Saint Mary",
-        "ba": "Сент-Мэри",
         "be": "Санта-Марыя",
         "cy": "Santes Fair",
         "da": "Sankt Mary",
@@ -61,7 +58,6 @@
     },
     "06": {
         "en": "Saint Paul",
-        "ba": "Сент-Пол",
         "be": "Сент-Пол",
         "cy": "Sant Paul",
         "da": "Sankt Paul",
@@ -81,7 +77,6 @@
     },
     "07": {
         "en": "Saint Peter",
-        "ba": "Сент-Питер",
         "be": "Сент-Пітэр",
         "cy": "Sant Pedr",
         "da": "Sankt Peter",
@@ -98,7 +93,6 @@
     },
     "08": {
         "en": "Saint Philip",
-        "ba": "Сент-Филип",
         "be": "Сент-Філіп",
         "cy": "Sant Philip",
         "da": "Sankt Philip",

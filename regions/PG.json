@@ -1,7 +1,6 @@
 {
     "CPK": {
         "en": "Chimbu",
-        "ba": "Чимбу",
         "be": "Чымбу",
         "hi": "चिम्बु",
         "it": "Simbu",
@@ -15,7 +14,6 @@
     },
     "CPM": {
         "en": "Central",
-        "ba": "Үҙәк",
         "be": "Цэнтральная акруга",
         "el": "Κεντρική",
         "eo": "Centro",
@@ -40,7 +38,6 @@
     },
     "EBR": {
         "en": "East New Britain",
-        "ba": "Көнсығыш Яңы Британия",
         "be": "Усходняя Новая Брытанія",
         "eo": "Orienta Nov-Britio",
         "fr": "Nouvelle-Bretagne orientale",
@@ -59,7 +56,6 @@
     },
     "EHG": {
         "en": "Eastern Highlands",
-        "ba": "Көнсығыш Хайлендс",
         "be": "Усходняе Нагор'е",
         "eo": "Orientaj Altaĵoj",
         "fr": "Highlands orientaux",
@@ -75,7 +71,6 @@
     },
     "EPW": {
         "en": "Enga",
-        "ba": "Энга",
         "be": "Энга",
         "ga": "Ní hea",
         "hi": "एंगा",
@@ -86,7 +81,6 @@
     },
     "ESW": {
         "en": "East Sepik",
-        "ba": "Көнсығыш Сепик",
         "be": "Усходні Сепік",
         "fr": "Spik oriental",
         "ga": "Sepik Thoir",
@@ -103,7 +97,6 @@
     },
     "GPK": {
         "en": "Gulf",
-        "ba": "Галф",
         "be": "Галф",
         "da": "Golf",
         "fr": "Golfe",
@@ -119,7 +112,6 @@
     },
     "HLA": {
         "en": "Hela",
-        "ba": "Хела",
         "ga": "Leigheas",
         "hi": "हेला",
         "ta": "எலா",
@@ -127,14 +119,12 @@
     },
     "JWK": {
         "en": "Jiwaka",
-        "ba": "Дживака",
         "hi": "जीवका",
         "ta": "சிவாகா",
         "uk": "Дживака"
     },
     "MBA": {
         "en": "Milne Bay",
-        "ba": "Милн-Бей",
         "be": "Заліў Мілна",
         "eo": "Golfo Milne",
         "fr": "Baie de Milne",
@@ -151,7 +141,6 @@
     },
     "MPL": {
         "en": "Morobe",
-        "ba": "Моробе",
         "be": "Маробе",
         "hi": "मोरोबे",
         "ja": "モロベ",
@@ -162,7 +151,6 @@
     },
     "MPM": {
         "en": "Madang",
-        "ba": "Маданг",
         "be": "Маданг",
         "hi": "मदांग",
         "ja": "マダン",
@@ -174,7 +162,6 @@
     },
     "MRL": {
         "en": "Manus",
-        "ba": "Манус",
         "be": "Манус",
         "hi": "मानुस",
         "ja": "マヌス島",
@@ -185,7 +172,6 @@
     },
     "NIK": {
         "en": "New Ireland",
-        "ba": "Яңы Ирландия",
         "be": "Новая Ірландыя",
         "eo": "Nov-Irlando",
         "fr": "Nouvelle-Irlande",
@@ -204,7 +190,6 @@
     },
     "NPP": {
         "en": "Northern",
-        "ba": "Төньяҡ",
         "be": "Паўночная",
         "el": "Βόρεια",
         "eo": "Nordo",
@@ -228,7 +213,6 @@
     },
     "SAN": {
         "en": "West Sepik",
-        "ba": "Көнбайыш Сепик",
         "ga": "Sepik Thiar",
         "hi": "पश्चिम सेपिक",
         "hr": "Zapadni Sepik",
@@ -239,7 +223,6 @@
     },
     "SHM": {
         "en": "Southern Highlands",
-        "ba": "Көньяҡ Хайлендс",
         "be": "Паўднёвае Нагор'е",
         "eo": "Sudaj Altaĵoj",
         "fr": "Highlands méridionaux",
@@ -255,7 +238,6 @@
     },
     "WBK": {
         "en": "West New Britain",
-        "ba": "Көнбайыш Яңы Британия",
         "be": "Заходняя Новая Брытанія",
         "eo": "Okcidenta Nov-Britio",
         "fr": "Nouvelle-Bretagne occidentale",
@@ -274,7 +256,6 @@
     },
     "WHM": {
         "en": "Western Highlands",
-        "ba": "Көнбайыш Хайлендс",
         "be": "Заходняе Нагор'е",
         "eo": "Okcidentaj Altaĵoj",
         "fr": "Highlands occidentaux",
@@ -290,7 +271,6 @@
     },
     "WPD": {
         "en": "Western",
-        "ba": "Көнбайыш",
         "be": "Заходняя",
         "el": "Δυτική",
         "eo": "Okcidento",

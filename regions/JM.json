@@ -1,7 +1,6 @@
 {
     "01": {
         "en": "Kingston",
-        "ba": "Кингстон",
         "be": "Кінгстан",
         "eo": "Kingstono",
         "hi": "किंग्स्टन",
@@ -15,7 +14,6 @@
     },
     "02": {
         "en": "Saint Andrew",
-        "ba": "Сент-Эндрю",
         "be": "Сент-Андру",
         "cy": "Sant Andrew",
         "da": "Sankt Andrew",
@@ -35,7 +33,6 @@
     },
     "03": {
         "en": "Saint Thomas",
-        "ba": "Сент-Томас",
         "be": "Сент-Томас",
         "cy": "Sant Thomas",
         "da": "Sankt Thomas",
@@ -55,7 +52,6 @@
     },
     "04": {
         "en": "Portland",
-        "ba": "Портленд",
         "be": "Портланд",
         "bg": "Портленд",
         "eo": "Portlando",
@@ -71,7 +67,6 @@
     },
     "05": {
         "en": "Saint Mary",
-        "ba": "Сент-Мэри",
         "be": "Санта-Марыя",
         "cy": "Santes Fair",
         "da": "Sankt Mary",
@@ -91,7 +86,6 @@
     },
     "06": {
         "en": "Saint Ann",
-        "ba": "Сент-Энн",
         "be": "Сент-Эн",
         "da": "Sankt Ann",
         "eo": "Sankt-Anno",
@@ -108,7 +102,6 @@
     },
     "07": {
         "en": "Trelawny",
-        "ba": "Трелони",
         "be": "Трэлані",
         "hi": "ट्रेलानी",
         "ja": "トリローニー",
@@ -118,7 +111,6 @@
     },
     "08": {
         "en": "Saint James",
-        "ba": "Сент-Джеймс",
         "be": "Сент-Джэймс",
         "cy": "Sant James",
         "da": "Sankt James",
@@ -139,7 +131,6 @@
     },
     "09": {
         "en": "Hanover",
-        "ba": "Хановер",
         "be": "Гановер",
         "bg": "Хановер",
         "eo": "Hanovro",
@@ -154,7 +145,6 @@
     },
     "10": {
         "en": "Westmoreland",
-        "ba": "Уэстморленд",
         "be": "Вестморлэнд",
         "hi": "वेस्टमोरलैंड",
         "ja": "ウェストモアランド",
@@ -166,7 +156,6 @@
     },
     "11": {
         "en": "Saint Elizabeth",
-        "ba": "Сент-Элизабет",
         "be": "Порт-Элізабет",
         "da": "Sankt Elizabeth",
         "eo": "Sankt-Elizabeto",
@@ -182,7 +171,6 @@
     },
     "12": {
         "en": "Manchester",
-        "ba": "Манчестер",
         "bg": "Манчестър",
         "cy": "Manceinion",
         "eo": "Manĉestro",
@@ -199,7 +187,6 @@
     },
     "13": {
         "en": "Clarendon",
-        "ba": "Кларендон",
         "be": "Кларэндон",
         "hi": "क्लेरेंडन",
         "ja": "クラレンドン",
@@ -211,7 +198,6 @@
     },
     "14": {
         "en": "Saint Catherine",
-        "ba": "Сент-Кэтрин",
         "be": "Сент-Катарына",
         "da": "Sankt Catherine",
         "eo": "Sankt-Katerino",

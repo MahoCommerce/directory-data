@@ -1,7 +1,6 @@
 {
     "AI": {
         "en": "Aisén del General Carlos Ibañez del Campo",
-        "ba": "Айсен-дель-Хенераль-Карлос-Ибаньес-дель-Кампо",
         "ga": "An Ginearál Carlos Ibañez del Campo's Aison",
         "hi": "ऐसेन डेल जनरल कार्लोस इबनेज़ डेल कैम्पो",
         "hu": "Aisén (Carlos Ibáñez del Campo tábornok után)",
@@ -14,7 +13,6 @@
     },
     "AN": {
         "en": "Antofagasta",
-        "ba": "Антофагаста",
         "be": "Антафагаста",
         "hi": "एंटोफ़गास्ता",
         "ja": "アントファガスタ",
@@ -27,7 +25,6 @@
     },
     "AP": {
         "en": "Arica y Parinacota",
-        "ba": "Арика-и-Паринакота",
         "be": "Арыка-і-Парынакота",
         "da": "Arica og Parinacota",
         "fr": "Arica et Parinacota",
@@ -44,7 +41,6 @@
     },
     "AR": {
         "en": "La Araucanía",
-        "ba": "Араукания",
         "ga": "An Araucanía",
         "hi": "ला अरौकानिया",
         "pl": "Araukania",
@@ -55,7 +51,6 @@
     },
     "AT": {
         "en": "Atacama",
-        "ba": "Атакама",
         "be": "Атакама",
         "hi": "अटाकामा",
         "ja": "アタカマ",
@@ -69,7 +64,6 @@
     },
     "BI": {
         "en": "Biobío",
-        "ba": "Био-Био",
         "hi": "बायोबियो",
         "ru": "Био-Био",
         "ta": "பயோபியோ",
@@ -77,7 +71,6 @@
     },
     "CO": {
         "en": "Coquimbo",
-        "ba": "Кокимбо",
         "be": "Какімба",
         "hi": "कोक्विंबो",
         "ja": "コキンボ",
@@ -91,7 +84,6 @@
     },
     "LI": {
         "en": "Libertador General Bernardo O'Higgins",
-        "ba": "Либертадор-Хенераль-Бернардо-О'Хиггинс",
         "be": "Лібертадор-Хенераль-Бернарда-О’Хігінс",
         "da": "O'Higgins",
         "eo": "Liberiganto Generalo Bernardo O’Higgins",
@@ -108,7 +100,6 @@
     },
     "LL": {
         "en": "Los Lagos",
-        "ba": "Лос-Лагос",
         "be": "Лос-Лагас",
         "eo": "La Lagoj",
         "ga": "Na Lochanna",
@@ -123,7 +114,6 @@
     },
     "LR": {
         "en": "Los Ríos",
-        "ba": "Лос-Риос",
         "be": "Лос-Рыяс",
         "da": "Los Rios",
         "eo": "La Riveroj",
@@ -140,7 +130,6 @@
     },
     "MA": {
         "en": "Magallanes",
-        "ba": "Магальянес",
         "eo": "Magelano",
         "ga": "Magellan",
         "hi": "मैगेलन",
@@ -151,7 +140,6 @@
     },
     "ML": {
         "en": "Maule",
-        "ba": "Мауле",
         "be": "Маўле",
         "hi": "मौले",
         "ja": "マウレ",
@@ -164,13 +152,11 @@
     },
     "NB": {
         "en": "Ñuble",
-        "ba": "Ньюбле",
         "hi": "नुब्ले",
         "uk": "Ньюбле"
     },
     "RM": {
         "en": "Región Metropolitana de Santiago",
-        "ba": "Сантьяго баш ҡала төбәге",
         "be": "Сталічны рэгіён Сант'яга",
         "da": "Santiago - hovedstadsregionen",
         "eo": "Metropola Regiono Santiago",
@@ -193,7 +179,6 @@
     },
     "TA": {
         "en": "Tarapacá",
-        "ba": "Тарапака",
         "be": "Тарапака",
         "da": "Tarapaca",
         "fr": "Tarapaca",
@@ -209,7 +194,6 @@
     },
     "VS": {
         "en": "Valparaíso",
-        "ba": "Вальпараисо",
         "be": "Вальпараіса",
         "da": "Valparaiso",
         "eo": "Valparaiso",

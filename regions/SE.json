@@ -1,7 +1,6 @@
 {
     "AB": {
         "en": "Stockholms län",
-        "ba": "Стокгольм лены",
         "eo": "Kantono Stokholmo",
         "ga": "Contae Stócólm",
         "hi": "स्टॉकहोम लैन",
@@ -13,7 +12,6 @@
     },
     "AC": {
         "en": "Västerbottens län",
-        "ba": "Вестерботтен лены",
         "ga": "Contae Västerbotten",
         "hi": "वैस्टरबॉटेंस लान",
         "hu": "Västerbotten megye",
@@ -24,7 +22,6 @@
     },
     "BD": {
         "en": "Norrbottens län",
-        "ba": "Норрботтен лены",
         "ga": "Contae Norrbotten",
         "hi": "नॉरबॉटेंस लान",
         "hu": "Norrbotten megye",
@@ -35,7 +32,6 @@
     },
     "C": {
         "en": "Uppsala län",
-        "ba": "Уппсала лены",
         "eo": "Kantono Upsalo",
         "ga": "Contae Uppsala",
         "hi": "उप्साला लान",
@@ -47,7 +43,6 @@
     },
     "D": {
         "en": "Södermanlands län",
-        "ba": "Сёдерманланд лены",
         "ga": "Contae Södermanland",
         "hi": "सॉडरमैनलैंड्स लान",
         "hu": "Södermanland megye",
@@ -58,7 +53,6 @@
     },
     "E": {
         "en": "Östergötlands län",
-        "ba": "Эстергётланд лены",
         "ga": "Contae Östergötland",
         "hi": "ऑस्टरगोटलैंड्स लैन",
         "hu": "Östergötland megye",
@@ -69,7 +63,6 @@
     },
     "F": {
         "en": "Jönköpings län",
-        "ba": "Йёнчёпинг лены",
         "ga": "Contae Jönköping",
         "hi": "जोन्कोपिंग्स लान",
         "hu": "Jönköping megye",
@@ -80,7 +73,6 @@
     },
     "G": {
         "en": "Kronobergs län",
-        "ba": "Крунуберг лены",
         "hi": "क्रोनोबर्ग्स लान",
         "hu": "Kronoberg megye",
         "pl": "Kronoberg",
@@ -90,7 +82,6 @@
     },
     "H": {
         "en": "Kalmar län",
-        "ba": "Кальмар лены",
         "ga": "Kalmer Lin",
         "hi": "काल्मार लैन",
         "hu": "Kalmar megye",
@@ -101,7 +92,6 @@
     },
     "I": {
         "en": "Gotlands län",
-        "ba": "Готланд лены",
         "eo": "Kantono Gotlando",
         "ga": "Contae Gotland",
         "hi": "गोटलैंड लैन",
@@ -113,7 +103,6 @@
     },
     "K": {
         "en": "Blekinge län",
-        "ba": "Блекинге лены",
         "hi": "ब्लेकिंज लान",
         "hu": "Blekinge megye",
         "pl": "Blekinge",
@@ -123,7 +112,6 @@
     },
     "M": {
         "en": "Skåne län",
-        "ba": "Сконе лены",
         "ga": "Contae Skåne",
         "hi": "स्केन लान",
         "hu": "Skåne megye",
@@ -134,7 +122,6 @@
     },
     "N": {
         "en": "Hallands län",
-        "ba": "Халланд лены",
         "hi": "हॉलैंड लैन",
         "hu": "Halland megye",
         "pl": "Halland",
@@ -144,7 +131,6 @@
     },
     "O": {
         "en": "Västra Götalands län",
-        "ba": "Вестра-Гёталанд лены",
         "ga": "Contae Västra Götaland",
         "hi": "वस्त्र गोटालैंड्स लान",
         "hu": "Västra Götaland megye",
@@ -155,7 +141,6 @@
     },
     "S": {
         "en": "Värmlands län",
-        "ba": "Вермланд лены",
         "ga": "Contae Värmland",
         "hi": "वर्मलैंड्स लान",
         "hu": "Värmlands megye",
@@ -166,7 +151,6 @@
     },
     "T": {
         "en": "Örebro län",
-        "ba": "Эребру лены",
         "ga": "Contae Örebro",
         "hi": "ऑरेब्रो लैन",
         "hu": "Örebro megye",
@@ -177,7 +161,6 @@
     },
     "U": {
         "en": "Västmanlands län",
-        "ba": "Вестманланд лены",
         "ga": "Contae Västmanland",
         "hi": "वेस्टमैनलैंड्स लैन",
         "hu": "Västmanland megye",
@@ -188,7 +171,6 @@
     },
     "W": {
         "en": "Dalarnas län",
-        "ba": "Даларна лены",
         "ga": "Contae Dalarna",
         "hi": "दलारनास लान",
         "hu": "Dalarna megye",
@@ -199,7 +181,6 @@
     },
     "X": {
         "en": "Gävleborgs län",
-        "ba": "Евлеборг лены",
         "ga": "Contae Gävleborg",
         "hi": "गैवलेबोर्ग लैन",
         "hu": "Gävleborg megye",
@@ -210,7 +191,6 @@
     },
     "Y": {
         "en": "Västernorrlands län",
-        "ba": "Вестерноррланд лены",
         "eo": "Kantono Uestnordlando",
         "ga": "Contae Västernorrland",
         "hi": "वैस्टर्नोरलैंड्स लैन",
@@ -222,7 +202,6 @@
     },
     "Z": {
         "en": "Jämtlands län",
-        "ba": "Емтланд лены",
         "ga": "Contae Jämtland",
         "hi": "जैमटलैंड्स लान",
         "hu": "Jämtland megye",

@@ -1,7 +1,6 @@
 {
     "01": {
         "en": "Central Singapore",
-        "ba": "Үҙәк Сингапур",
         "be": "Цэнтральны Сінгапур",
         "bg": "Централен Сингапур",
         "de": "Zentral Singapur",
@@ -24,7 +23,6 @@
     },
     "02": {
         "en": "North East",
-        "ba": "Төньяҡ-Көнсығыш",
         "be": "Паўночна-Усходні",
         "de": "Nordost",
         "eo": "Nord-Oriento",
@@ -47,7 +45,6 @@
     },
     "03": {
         "en": "North West",
-        "ba": "Төньяҡ-Көнбайыш",
         "be": "Паўночна-Заходні",
         "de": "Nordwest",
         "eo": "Nord-Okcidento",
@@ -70,7 +67,6 @@
     },
     "04": {
         "en": "South East",
-        "ba": "Көньяҡ-Көнсығыш",
         "be": "Паўднёва-Усходні",
         "de": "Südost",
         "eo": "Sud-Oriento",
@@ -93,7 +89,6 @@
     },
     "05": {
         "en": "South West",
-        "ba": "Көньяҡ-Көнбайыш",
         "be": "Паўднёва-Заходні",
         "de": "Südwest",
         "eo": "Sud-Okcidento",

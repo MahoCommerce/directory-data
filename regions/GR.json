@@ -1,7 +1,6 @@
 {
     "A": {
         "en": "Anatolikí Makedonía kai Thráki",
-        "ba": "Көнсығыш Македония һәм Фракия",
         "eo": "Orienta Makedonio kaj Trakio",
         "hi": "एनाटोलिक माकेडोनिया काई थ्राकी",
         "hu": "Kelet-Makedónia és Trákia",
@@ -13,7 +12,6 @@
     },
     "B": {
         "en": "Kentrikí Makedonía",
-        "ba": "Үҙәк Македония",
         "eo": "Centra Makedonio",
         "hi": "केंट्रीकी मकेडोनिया",
         "hu": "Közép-Makedónia",
@@ -25,7 +23,6 @@
     },
     "C": {
         "en": "Dytikí Makedonía",
-        "ba": "Көнбайыш Македония",
         "eo": "Okcidenta Makedonio",
         "hi": "डायटिकी मेकडोनिया",
         "hu": "Nyugat-Macedónia",
@@ -37,7 +34,6 @@
     },
     "D": {
         "en": "Ípeiros",
-        "ba": "Эпир",
         "eo": "Epiro",
         "ga": "Ipeiros",
         "hi": "इपिरोस",
@@ -49,7 +45,6 @@
     },
     "E": {
         "en": "Thessalía",
-        "ba": "Фессалия",
         "eo": "Tesalio",
         "hi": "थिस्सलिया",
         "hu": "Thesszália",
@@ -61,7 +56,6 @@
     },
     "F": {
         "en": "Ionía Nísia",
-        "ba": "Иония утрауҙары",
         "eo": "Ioniaj Insuloj",
         "ga": "Ionia Nisia",
         "hi": "इओनिया निसिया",
@@ -74,7 +68,6 @@
     },
     "G": {
         "en": "Dytikí Elláda",
-        "ba": "Көнбайыш Греция",
         "eo": "Okcidenta Grekio",
         "hi": "डायटिकी एलाडा",
         "hu": "Nyugat-Görögország",
@@ -86,7 +79,6 @@
     },
     "H": {
         "en": "Stereá Elláda",
-        "ba": "Үҙәк Греция",
         "eo": "Centra Grekio",
         "hi": "स्टेरिया एलाडा",
         "hu": "Közép-Görögország",
@@ -98,7 +90,6 @@
     },
     "I": {
         "en": "Attikí",
-        "ba": "Аттика",
         "eo": "Atiko",
         "hi": "अत्तिकी",
         "hu": "Attika",
@@ -111,7 +102,6 @@
     },
     "J": {
         "en": "Pelopónnisos",
-        "ba": "Пелопоннес",
         "eo": "Peloponezo",
         "ga": "Peloponnisos",
         "hi": "पेलोपोनिसोस",
@@ -126,7 +116,6 @@
     },
     "K": {
         "en": "Vóreio Aigaío",
-        "ba": "Төньяҡ Эгей утрауҙары",
         "eo": "Nordaj Egeaj Insuloj",
         "hi": "वोरेइओ एइगाइओ",
         "hu": "Északi-Égei-szigetek",
@@ -138,7 +127,6 @@
     },
     "L": {
         "en": "Nótio Aigaío",
-        "ba": "Көньяҡ Эгей утрауҙары",
         "eo": "Sudaj Egeaj Insuloj",
         "hi": "नोटियो आइगाइओ",
         "hu": "Észak-Égei-szigetek",
@@ -150,7 +138,6 @@
     },
     "M": {
         "en": "Kríti",
-        "ba": "Крит",
         "eo": "Kreto",
         "ga": "KrítiGeneric",
         "hi": "कृति",

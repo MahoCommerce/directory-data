@@ -1,7 +1,6 @@
 {
     "ENG": {
         "en": "England",
-        "ba": "Англия",
         "cy": "Lloegr",
         "et": "Inglismaa",
         "ga": "Sasana",
@@ -17,7 +16,6 @@
     },
     "NIR": {
         "en": "Northern Ireland",
-        "ba": "Төньяҡ Ирландия",
         "cy": "Gogledd Iwerddon",
         "de": "Nordirland",
         "et": "Põhja-Iirimaa",
@@ -34,7 +32,6 @@
     },
     "SCT": {
         "en": "Scotland",
-        "ba": "Шотландия",
         "de": "Schottland",
         "et": "Šotimaa",
         "ga": "Albain",
@@ -50,7 +47,6 @@
     },
     "WLS": {
         "en": "Wales",
-        "ba": "Уэльс",
         "cy": "Cymru",
         "ga": "An Bhreatain Bheag",
         "hi": "वेल्स",

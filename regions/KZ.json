@@ -1,7 +1,6 @@
 {
     "10": {
         "en": "Abajskaja oblast’",
-        "ba": "Абай өлкәһе",
         "ga": "Oblast Abayskaya\"",
         "hi": "अबजस्काजा ओब्लास्ट",
         "hu": "Abaj terület",
@@ -13,7 +12,6 @@
     },
     "11": {
         "en": "Akmolinskaja oblast'",
-        "ba": "Аҡмулла өлкәһе",
         "eo": "Regiono Akmola",
         "ga": "Oblast Akmolinskaya\"",
         "hi": "अकमोलिंस्काजा ओब्लास्ट",
@@ -27,7 +25,6 @@
     },
     "15": {
         "en": "Aktjubinskaja oblast'",
-        "ba": "Аҡтүбә өлкәһе",
         "eo": "Regiono Aktobe",
         "ga": "Oblast Aktyubinskaya\"",
         "hi": "एक्टजुबिंस्काजा ओब्लास्ट",
@@ -41,7 +38,6 @@
     },
     "19": {
         "en": "Almatinskaja oblast'",
-        "ba": "Алматы өлкәһе",
         "eo": "Regiono Almaty",
         "ga": "Almatinskaja oblast.\"",
         "hi": "अल्माटिंस्काया ओब्लास्ट",
@@ -55,7 +51,6 @@
     },
     "23": {
         "en": "Atyrauskaja oblast'",
-        "ba": "Атырау өлкәһе",
         "eo": "Regiono Atirau",
         "ga": "Oblast Atyrauskaja'",
         "hi": "अत्रौस्काजा ओब्लास्ट",
@@ -69,7 +64,6 @@
     },
     "27": {
         "en": "Batys Qazaqstan oblysy",
-        "ba": "Көнбайыш Ҡаҙағстан өлкәһе",
         "eo": "Regiono Okcident-Kazaĥio",
         "ga": "Batys Qazaqstan Oblast",
         "hi": "बतिस कज़ाकस्तान ओब्लिसी",
@@ -83,7 +77,6 @@
     },
     "31": {
         "en": "Zhambyl oblysy",
-        "ba": "Жамбыл өлкәһе",
         "be": "Жамбылская вобласць",
         "de": "Provinz Schambyl",
         "eo": "Regiono Ĵambil",
@@ -105,7 +98,6 @@
     },
     "33": {
         "en": "Zhetisū oblysy",
-        "ba": "Етеһыу өлкәһе",
         "hi": "ज़ेटिसो ओब्लीसी",
         "hu": "Zsetiszu megye",
         "nl": "Zhetisū, Provincie",
@@ -116,7 +108,6 @@
     },
     "35": {
         "en": "Karagandinskaja oblast'",
-        "ba": "Ҡарағанды өлкәһе",
         "eo": "Regiono Karagandi",
         "ga": "Oblast Karagandinskaya\"",
         "hi": "कारागांडिन्स्काया ओब्लास्ट",
@@ -130,7 +121,6 @@
     },
     "39": {
         "en": "Kostanajskaja oblast'",
-        "ba": "Ҡостанай өлкәһе",
         "eo": "Regiono Kostanaj",
         "ga": "\"Oblast Costanaya\"",
         "hi": "कोस्टानजस्काजा ओब्लास्ट",
@@ -144,7 +134,6 @@
     },
     "43": {
         "en": "Kyzylordinskaja oblast'",
-        "ba": "Ҡыҙылурҙа өлкәһе",
         "eo": "Regiono Kizilorda",
         "hi": "क्यज़िलोर्डिंस्काजा ओब्लास्ट",
         "hu": "Kizilordai terület",
@@ -157,7 +146,6 @@
     },
     "47": {
         "en": "Mangghystaū oblysy",
-        "ba": "Манғыстау өлкәһе",
         "be": "Мангістаўская вобласць",
         "de": "Provinz Mangghystaū",
         "eo": "Regiono Mangistau",
@@ -179,7 +167,6 @@
     },
     "55": {
         "en": "Pavlodar oblysy",
-        "ba": "Павлодар өлкәһе",
         "be": "Паўладарская вобласць",
         "de": "Provinz Pawlodar",
         "eo": "Regiono Paŭlodonaco",
@@ -203,7 +190,6 @@
     },
     "59": {
         "en": "Severo-Kazahstanskaja oblast'",
-        "ba": "Төньяҡ Ҡаҙағстан өлкәһе",
         "eo": "Regiono Nord-Kazaĥio",
         "ga": "Oblast na Casacstáine Thuaidh",
         "hi": "सेवेरो-कज़ाहस्तानस्काजा ओब्लास्ट",
@@ -217,7 +203,6 @@
     },
     "61": {
         "en": "Turkestankaya oblast'",
-        "ba": "Төркөстан өлкәһе",
         "eo": "Provinco Turkestano",
         "ga": "Oblast Turkestankaya.\"",
         "hi": "तुर्केस्तानकाया ओब्लास्ट",
@@ -230,7 +215,6 @@
     },
     "62": {
         "en": "Ulytauskaja oblast’",
-        "ba": "Олотау өлкәһе",
         "ga": "Ulytauskaja oblast'",
         "hi": "उल्टौस्काजा ओब्लास्ट",
         "hu": "Uljanovszki terület",
@@ -242,7 +226,6 @@
     },
     "63": {
         "en": "Shyghys Qazaqstan oblysy",
-        "ba": "Көнсығыш Ҡаҙағстан өлкәһе",
         "be": "Усходне-Казахстанская вобласць",
         "de": "Provinz Ostkasachstan",
         "eo": "Regiono Orient-Kazaĥio",

@@ -1,7 +1,6 @@
 {
     "AN": {
         "en": "Andaman and Nicobar Islands",
-        "ba": "Андаман һәм Никобар утрауҙары",
         "be": "Андаманскія і Нікабарскія астравы",
         "da": "Andaman og Nicobarøerne",
         "de": "Andamanen und Nikobaren",
@@ -30,7 +29,6 @@
     },
     "AP": {
         "en": "Andhra Pradesh",
-        "ba": "Андхра-Прадеш",
         "be": "Андхра-Прадэш",
         "hi": "आंध्र प्रदेश",
         "hu": "Ándhra Prades",
@@ -46,7 +44,6 @@
     },
     "AR": {
         "en": "Arunāchal Pradesh",
-        "ba": "Аруначал-Прадеш",
         "hi": "अरुणाचल प्रदेश",
         "hu": "Arunácsal Prades",
         "nl": "Arunachal Pradesh",
@@ -57,7 +54,6 @@
     },
     "AS": {
         "en": "Assam",
-        "ba": "Ассам",
         "be": "Асам",
         "hi": "असम",
         "hu": "Asszám",
@@ -74,7 +70,6 @@
     },
     "BR": {
         "en": "Bihār",
-        "ba": "Бихар",
         "hi": "बिहार",
         "hu": "Bihar",
         "nl": "Bihar",
@@ -85,7 +80,6 @@
     },
     "CG": {
         "en": "Chhattīsgarh",
-        "ba": "Чхаттисгарх",
         "hi": "छत्तीसगढ़",
         "hu": "Csatiszgarh",
         "nl": "Chhattisgarh",
@@ -96,7 +90,6 @@
     },
     "CH": {
         "en": "Chandīgarh",
-        "ba": "Чандигарх",
         "hi": "चंडीगढ़",
         "hu": "Csandígarh",
         "nl": "Chandigarh",
@@ -108,7 +101,6 @@
     },
     "DH": {
         "en": "Dādra and Nagar Haveli and Damān and Diu",
-        "ba": "Дадра һәм Нагар-Хавели һәм Даман һәм Диу",
         "de": "Dādra und Nagar Haveli und Damān und Diu",
         "ga": "Dādra agus Nagar Haveli agus Damān agus Diu",
         "hi": "दादरा और नगर हवेली और दमन और दीव",
@@ -121,7 +113,6 @@
     },
     "DL": {
         "en": "Delhi",
-        "ba": "Дели",
         "be": "Дэлі",
         "bg": "Делхи",
         "ga": "Deilí",
@@ -137,7 +128,6 @@
     },
     "GA": {
         "en": "Goa",
-        "ba": "Гоа",
         "be": "Гоа",
         "hi": "गोवा",
         "ja": "ゴア",
@@ -150,7 +140,6 @@
     },
     "GJ": {
         "en": "Gujarāt",
-        "ba": "Гуджарат",
         "hi": "गुजरात",
         "hu": "Gudzsarát",
         "it": "Gujarat",
@@ -163,7 +152,6 @@
     },
     "HP": {
         "en": "Himāchal Pradesh",
-        "ba": "Химачал-Прадеш",
         "hi": "हिमाचल प्रदेश",
         "hu": "Himachal Pradesh",
         "nl": "Himachal Pradesh",
@@ -175,7 +163,6 @@
     },
     "HR": {
         "en": "Haryāna",
-        "ba": "Харьяна",
         "hi": "हरयाणा",
         "hu": "Haryana",
         "nl": "Haryana",
@@ -187,7 +174,6 @@
     },
     "JH": {
         "en": "Jhārkhand",
-        "ba": "Джаркханд",
         "hi": "झारखंड",
         "hu": "Dzshárkhand",
         "nl": "Jharkhand",
@@ -197,7 +183,6 @@
     },
     "JK": {
         "en": "Jammu and Kashmīr",
-        "ba": "Джамму һәм Кашмир",
         "de": "Jammu und Kashmīr",
         "ga": "Jammu agus Kashmīr",
         "hi": "जम्मू और कश्मीर",
@@ -211,7 +196,6 @@
     },
     "KA": {
         "en": "Karnātaka",
-        "ba": "Карнатака",
         "hi": "कर्नाटक",
         "hu": "Karnátaka",
         "nl": "Karnataka",
@@ -223,7 +207,6 @@
     },
     "KL": {
         "en": "Kerala",
-        "ba": "Керала",
         "be": "Керала",
         "hi": "केरल",
         "ja": "ケーララ",
@@ -235,7 +218,6 @@
     },
     "LA": {
         "en": "Ladākh",
-        "ba": "Ладакх",
         "hi": "लद्दाख",
         "hu": "Ladakh",
         "nl": "Ladakh",
@@ -246,7 +228,6 @@
     },
     "LD": {
         "en": "Lakshadweep",
-        "ba": "Лакшадвип",
         "be": "Лакшадвіп",
         "hi": "लक्षद्वीप",
         "ja": "ラクシャドウィープ",
@@ -262,7 +243,6 @@
     },
     "MH": {
         "en": "Mahārāshtra",
-        "ba": "Махараштра",
         "hi": "महाराष्ट्र",
         "hu": "Maharashtra",
         "nl": "Maharashtra",
@@ -274,7 +254,6 @@
     },
     "ML": {
         "en": "Meghālaya",
-        "ba": "Мегхалая",
         "hi": "मेघालय",
         "hu": "Meghálaja",
         "nl": "Meghalaya",
@@ -286,7 +265,6 @@
     },
     "MN": {
         "en": "Manipur",
-        "ba": "Манипур",
         "be": "Маніпур",
         "hi": "मणिपुर",
         "ja": "マニプル",
@@ -300,7 +278,6 @@
     },
     "MP": {
         "en": "Madhya Pradesh",
-        "ba": "Мадхья-Прадеш",
         "be": "Мадх'я-Прадэш",
         "hi": "मध्य प्रदेश",
         "hu": "Madhja Prades",
@@ -316,7 +293,6 @@
     },
     "MZ": {
         "en": "Mizoram",
-        "ba": "Мизорам",
         "be": "Мізарам",
         "hi": "मिजोरम",
         "hu": "Mizorám",
@@ -331,7 +307,6 @@
     },
     "NL": {
         "en": "Nāgāland",
-        "ba": "Нагаланд",
         "hi": "नगालैंड",
         "hu": "Nágaföld",
         "nl": "Nagaland",
@@ -343,7 +318,6 @@
     },
     "OD": {
         "en": "Odisha",
-        "ba": "Одиша",
         "be": "Адзіша",
         "hi": "ओडिशा",
         "ka": "ოდიშა",
@@ -354,7 +328,6 @@
     },
     "PB": {
         "en": "Punjab",
-        "ba": "Пенджаб",
         "be": "Пенджаб",
         "eo": "Panĝabio",
         "fr": "Penjab",
@@ -376,7 +349,6 @@
     },
     "PY": {
         "en": "Puducherry",
-        "ba": "Пудучерри",
         "be": "Пандышэры",
         "fr": "Pondichéry",
         "hi": "पुदुचेरी",
@@ -387,7 +359,6 @@
     },
     "RJ": {
         "en": "Rājasthān",
-        "ba": "Раджастхан",
         "hi": "राजस्थान",
         "hu": "Rádzsasztán",
         "nl": "Rajasthan",
@@ -399,7 +370,6 @@
     },
     "SK": {
         "en": "Sikkim",
-        "ba": "Сикким",
         "be": "Сікім",
         "el": "Σίκιμ",
         "he": "סיקים",
@@ -418,7 +388,6 @@
     },
     "TN": {
         "en": "Tamil Nādu",
-        "ba": "Тамилнад",
         "hi": "तमिलनाडु",
         "hu": "Tamilnádu",
         "nl": "Tamil Nadu",
@@ -430,7 +399,6 @@
     },
     "TR": {
         "en": "Tripura",
-        "ba": "Трипура",
         "be": "Трыпура",
         "hi": "त्रिपुरा",
         "ja": "トリプラ",
@@ -443,7 +411,6 @@
     },
     "TS": {
         "en": "Telangāna",
-        "ba": "Телангана",
         "et": "Telangana",
         "hi": "तेलंगाना",
         "hu": "Telangana",
@@ -456,7 +423,6 @@
     },
     "UK": {
         "en": "Uttarākhand",
-        "ba": "Уттаракханд",
         "hi": "उत्तराखंड",
         "hu": "Uttarakhand",
         "nl": "Uttarakhand",
@@ -467,7 +433,6 @@
     },
     "UP": {
         "en": "Uttar Pradesh",
-        "ba": "Уттар-Прадеш",
         "be": "Утар-Прадэш",
         "hi": "उत्तर प्रदेश",
         "hu": "Uttar Prades",
@@ -483,7 +448,6 @@
     },
     "WB": {
         "en": "West Bengal",
-        "ba": "Көнбайыш Бенгал",
         "be": "Заходняя Бенгалія",
         "da": "Vestbengalen",
         "de": "Westbengalen",

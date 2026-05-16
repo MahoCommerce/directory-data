@@ -1,7 +1,6 @@
 {
     "AJ": {
         "en": "‘Ajlūn",
-        "ba": "Аджлун",
         "be": "Аджлюн",
         "de": "Adschlun",
         "eu": "Ajlun",
@@ -21,7 +20,6 @@
     },
     "AM": {
         "en": "Al ‘A̅şimah",
-        "ba": "Эль-Асима",
         "ga": "Al 'A̅shimah",
         "hi": "अल असीमा",
         "hu": "Al Aszima",
@@ -33,7 +31,6 @@
     },
     "AQ": {
         "en": "Al ‘Aqabah",
-        "ba": "Акаба",
         "be": "Акаба",
         "de": "Aqaba",
         "eu": "Aqaba",
@@ -56,7 +53,6 @@
     },
     "AT": {
         "en": "Aţ Ţafīlah",
-        "ba": "Эт-Тафила",
         "be": "Тафіла",
         "de": "At-Tafila",
         "eu": "Tafilah",
@@ -75,7 +71,6 @@
     },
     "AZ": {
         "en": "Az Zarqā’",
-        "ba": "Эз-Зарка",
         "ga": "Az Zarqā'",
         "hi": "अज़ ज़रक़ा'",
         "hu": "Az-Zarqāʾ",
@@ -87,7 +82,6 @@
     },
     "BA": {
         "en": "Al Balqā’",
-        "ba": "Эль-Балка",
         "ga": "Al Balqā'",
         "hi": "अल बलक़ा'",
         "hu": "Al Balka",
@@ -99,7 +93,6 @@
     },
     "IR": {
         "en": "Irbid",
-        "ba": "Ирбид",
         "be": "Ірбід",
         "ga": "IrbidGeneric",
         "he": "אירביד",
@@ -112,7 +105,6 @@
     },
     "JA": {
         "en": "Jarash",
-        "ba": "Джараш",
         "be": "Джараш",
         "de": "Dscharasch",
         "eu": "Jerax",
@@ -129,7 +121,6 @@
     },
     "KA": {
         "en": "Al Karak",
-        "ba": "Эль-Карак",
         "be": "Карак",
         "de": "Al-Karak",
         "eu": "Karak",
@@ -148,7 +139,6 @@
     },
     "MA": {
         "en": "Al Mafraq",
-        "ba": "Эль-Мафрак",
         "be": "Эль-Мафрак",
         "de": "Al-Mafraq",
         "eu": "Mafraq",
@@ -169,7 +159,6 @@
     },
     "MD": {
         "en": "Mādabā",
-        "ba": "Мадаба",
         "be": "Мадаба",
         "eu": "Madaba",
         "ga": "Sa mādaba",
@@ -190,7 +179,6 @@
     },
     "MN": {
         "en": "Ma‘ān",
-        "ba": "Маан",
         "be": "Маан",
         "de": "Ma'an",
         "eu": "Ma'an",

@@ -1,7 +1,6 @@
 {
     "03": {
         "en": "Oslo",
-        "ba": "Осло",
         "be": "Осла",
         "bg": "Осло",
         "fi": "Oslon lääni",
@@ -18,7 +17,6 @@
     },
     "11": {
         "en": "Rogaland",
-        "ba": "Ругаланн",
         "be": "Ругалан",
         "fi": "Rogalandin lääni",
         "hi": "रोगालैंड",
@@ -31,7 +29,6 @@
     },
     "15": {
         "en": "Møre og Romsdal",
-        "ba": "Мёре-ог-Ромсдал",
         "be": "Мёрэ-ог-Румсдал",
         "fi": "Møre ja Romsdalin lääni",
         "hi": "मोरे ओग रोम्सडेल",
@@ -44,7 +41,6 @@
     },
     "18": {
         "en": "Nordland",
-        "ba": "Нурланн",
         "be": "Нурлан",
         "eo": "Nordlando",
         "fi": "Nordlandin lääni",
@@ -59,7 +55,6 @@
     },
     "21": {
         "en": "Svalbard (Arctic Region)",
-        "ba": "Свальбард (Арктика төбәге)",
         "be": "Свальбард (арктычны рэгіён)",
         "da": "Svalbard (Arktisk region)",
         "de": "Svalbard (Arktische Region)",
@@ -80,7 +75,6 @@
     },
     "22": {
         "en": "Jan Mayen (Arctic Region)",
-        "ba": "Ян-Майен (Арктика төбәге)",
         "be": "Ян-Маен (арктычны рэгіён)",
         "da": "Jan Mayen (Arktisk region)",
         "de": "Jan Mayen (Arktische Region)",
@@ -101,7 +95,6 @@
     },
     "30": {
         "en": "Viken",
-        "ba": "Викен",
         "ga": "Bá",
         "hi": "विकेन",
         "ka": "ვიკენი",
@@ -110,7 +103,6 @@
     },
     "34": {
         "en": "Innlandet",
-        "ba": "Иннландет",
         "ga": "Intíre",
         "hi": "अंतर्देशीय",
         "ka": "ინლანდეტი",
@@ -119,7 +111,6 @@
     },
     "38": {
         "en": "Vestfold og Telemark",
-        "ba": "Вестфолл-ог-Телемарк",
         "eo": "Vestfold kaj Telemarko",
         "ga": "Vestfold agus Telemark",
         "hi": "वेस्टफोल्ड ओग टेलीमार्क",
@@ -130,7 +121,6 @@
     },
     "42": {
         "en": "Agder",
-        "ba": "Агдер",
         "ga": "Coláiste",
         "hi": "एग्डर",
         "ka": "აგდერი",
@@ -138,7 +128,6 @@
     },
     "46": {
         "en": "Vestland",
-        "ba": "Вестланн",
         "eo": "Uestlando",
         "hi": "वेस्टलैंड",
         "ka": "ვესტლენდი",
@@ -147,7 +136,6 @@
     },
     "50": {
         "en": "Trööndelage",
-        "ba": "Трёнделаг",
         "hi": "ट्रॉन्डेलेज",
         "hu": "Trøndelag",
         "nl": "Trøndelag",
@@ -157,7 +145,6 @@
     },
     "54": {
         "en": "Romssa ja Finnmárkku",
-        "ba": "Тромс-ог-Финнмарк",
         "eo": "Troms kaj Finmarko",
         "ga": "Romssa agus Finnmárkku",
         "hi": "रोम्ससा और फिनमार्कु",

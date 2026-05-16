@@ -1,7 +1,6 @@
 {
     "BB": {
         "en": "Brandenburg",
-        "ba": "Бранденбург",
         "be": "Брандэнбург",
         "bg": "Бранденбург",
         "eo": "Brandenburgio",
@@ -22,7 +21,6 @@
     },
     "BE": {
         "en": "Berlin",
-        "ba": "Берлин",
         "be": "Берлін",
         "bg": "Берлин",
         "cs": "Berlín",
@@ -45,7 +43,6 @@
     },
     "BW": {
         "en": "Baden-Württemberg",
-        "ba": "Баден-Вюртемберг",
         "be": "Бадэн-Вюртэмберг",
         "eo": "Badenio-Vurtembergo",
         "fr": "Bade-Wurtemberg",
@@ -72,7 +69,6 @@
         "asa": "Bayern",
         "ast": "Bayern",
         "az": "Bayern",
-        "ba": "Бавария",
         "bas": "Bayern",
         "be": "Баварыя",
         "bem": "Bayern",
@@ -87,7 +83,6 @@
         "br": "Bayern",
         "brx": "Bayern",
         "bs": "Bayern",
-        "bua": "Bayern",
         "ca": "Bayern",
         "ccp": "Bayern",
         "ce": "Bayern",
@@ -125,7 +120,6 @@
         "fur": "Bayern",
         "fy": "Bayern",
         "ga": "An Bhaváir",
-        "gaa": "Bayern",
         "gd": "Bayern",
         "gl": "Bayern",
         "gsw": "Bayern",
@@ -220,7 +214,6 @@
         "nnh": "Bayern",
         "no": "Bayern",
         "nqo": "Bayern",
-        "nso": "Bayern",
         "nus": "Bayern",
         "nyn": "Bayern",
         "oc": "Bayern",
@@ -230,7 +223,6 @@
         "pa": "Bayern",
         "pcm": "Bayern",
         "pl": "Bawaria",
-        "pms": "Bayern",
         "prg": "Bayern",
         "ps": "Bayern",
         "pt": "Bayern",
@@ -248,14 +240,12 @@
         "sat": "Bayern",
         "sbp": "Bayern",
         "sc": "Baviera",
-        "scn": "Bayern",
         "sd": "Bayern",
         "se": "Bayern",
         "seh": "Bayern",
         "ses": "Bayern",
         "sg": "Bayern",
         "shi": "Bayern",
-        "shn": "Bayern",
         "si": "Bayern",
         "sk": "Bavorsko",
         "sl": "Bavarska",
@@ -269,7 +259,6 @@
         "sr_Latn_ME": "Bayern",
         "sr_Latn_RS": "Bayern",
         "sr_Latn_XK": "Bayern",
-        "st": "Bayern",
         "su": "Bayern",
         "sv": "Bayern",
         "sw": "Bayern",
@@ -282,13 +271,11 @@
         "th": "ไบเอิร์น",
         "ti": "Bayern",
         "tk": "Bayern",
-        "tn": "Bayern",
         "to": "Bayern",
         "tok": "Bayern",
         "tr": "Bayern",
         "tt": "Bayern",
         "twq": "Bayern",
-        "tyv": "Bayern",
         "tzm": "Bayern",
         "ug": "Bayern",
         "uk": "Баварія",
@@ -316,7 +303,6 @@
     },
     "HB": {
         "en": "Bremen",
-        "ba": "Бремен",
         "be": "Брэмен",
         "bg": "Бремен",
         "eo": "Bremeno",
@@ -338,7 +324,6 @@
     },
     "HE": {
         "en": "Hessen",
-        "ba": "Гессен",
         "be": "Гесэн",
         "bg": "Хесен",
         "eo": "Hesio",
@@ -359,7 +344,6 @@
     },
     "HH": {
         "en": "Hamburg",
-        "ba": "Гамбург",
         "be": "Гамбург",
         "bg": "Хамбург",
         "da": "Hamborg",
@@ -378,7 +362,6 @@
     },
     "MV": {
         "en": "Mecklenburg-Vorpommern",
-        "ba": "Мекленбург-Алғы Померания",
         "be": "Мекленбург-Пярэдняя Памеранія",
         "eo": "Meklenburgio-Antaŭpomerio",
         "fr": "Mecklembourg-Poméranie occidentale",
@@ -401,7 +384,6 @@
     },
     "NI": {
         "en": "Niedersachsen",
-        "ba": "Түбәнге Саксония",
         "be": "Ніжняя Саксонія",
         "eo": "Malsupra Saksio",
         "fr": "Basse-Saxe",
@@ -426,7 +408,6 @@
     },
     "NW": {
         "en": "Nordrhein-Westfalen",
-        "ba": "Төньяҡ Рейн-Вестфалия",
         "be": "Паўночны Рэйн-Вестфалія",
         "eo": "Nord-Rejn-Vestfalio",
         "fr": "Rhénanie du Nord-Westfalie",
@@ -449,7 +430,6 @@
     },
     "RP": {
         "en": "Rheinland-Pfalz",
-        "ba": "Рейнланд-Пфальц",
         "be": "Рэйнланд-Пфальц",
         "eo": "Rejnlando-Palatinato",
         "fr": "Rhénanie-Palatinat",
@@ -472,7 +452,6 @@
     },
     "SH": {
         "en": "Schleswig-Holstein",
-        "ba": "Шлезвиг-Гольштейн",
         "be": "Шлезвіг-Гольштэйн",
         "da": "Slesvig-Holsten",
         "eo": "Ŝlesvig-Holstinio",
@@ -491,7 +470,6 @@
     },
     "SL": {
         "en": "Saarland",
-        "ba": "Саар",
         "be": "Саар",
         "eo": "Sarlando",
         "fr": "Sarre",
@@ -511,7 +489,6 @@
     },
     "SN": {
         "en": "Sachsen",
-        "ba": "Саксония",
         "be": "Саксонія",
         "eo": "Saksio",
         "fr": "Saxe",
@@ -533,7 +510,6 @@
     },
     "ST": {
         "en": "Sachsen-Anhalt",
-        "ba": "Саксония-Анхальт",
         "be": "Саксонія-Анхальт",
         "eo": "Saksio-Anhalto",
         "fr": "Saxe-Anhalt",
@@ -555,7 +531,6 @@
     },
     "TH": {
         "en": "Thüringen",
-        "ba": "Тюрингия",
         "be": "Цюрынгія",
         "eo": "Turingio",
         "fr": "Turinge",

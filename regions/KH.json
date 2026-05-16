@@ -1,7 +1,6 @@
 {
     "1": {
         "en": "Banteay Mean Choăy",
-        "ba": "Бантеаймеантьей",
         "ga": "Banteay Meán Choăy",
         "hi": "बंटेय मीन चॉय",
         "hu": "Banteay Mean Chey",
@@ -13,7 +12,6 @@
     },
     "2": {
         "en": "Baat Dambang",
-        "ba": "Баттамбанг",
         "hi": "बात दंबंग",
         "hu": "Battambang",
         "nl": "Battambang",
@@ -24,7 +22,6 @@
     },
     "3": {
         "en": "Kampong Chaam",
-        "ba": "Кампонгтям",
         "hi": "कम्पोंग चाम",
         "hu": "Kampong Cham",
         "nl": "Kampong Cham",
@@ -35,7 +32,6 @@
     },
     "4": {
         "en": "Kampong Chhnang",
-        "ba": "Кампонгчнанг",
         "be": "Кампангчгнанг",
         "ga": "Kampong ChhnangGeneric",
         "hi": "कम्पोंग छ्नांग",
@@ -47,7 +43,6 @@
     },
     "5": {
         "en": "Kampong Spueu",
-        "ba": "Кампонгспы",
         "ga": "Campa Spueu",
         "hi": "कम्पोंग स्पूउ",
         "hu": "Kampong Speu",
@@ -58,7 +53,6 @@
     },
     "6": {
         "en": "Kampong Thum",
-        "ba": "Кампонгтхом",
         "hi": "कम्पोंग थम",
         "pl": "Kâmpóng Thum",
         "ta": "கம்போங் தம்",
@@ -66,7 +60,6 @@
     },
     "7": {
         "en": "Kampot",
-        "ba": "Кампот",
         "be": "Кампот",
         "hi": "कम्पोत",
         "ja": "カンポット",
@@ -78,7 +71,6 @@
     },
     "8": {
         "en": "Kandaal",
-        "ba": "Кандаль",
         "ga": "Candling",
         "hi": "कंडाल",
         "nl": "Kandal",
@@ -89,7 +81,6 @@
     },
     "9": {
         "en": "Kaoh Kong",
-        "ba": "Кахконг",
         "ga": "Kaoh Cong",
         "hi": "काओह कोंग",
         "nl": "Koh Kong",
@@ -100,7 +91,6 @@
     },
     "10": {
         "en": "Kracheh",
-        "ba": "Кратьэх",
         "ga": "KrachehGeneric",
         "hi": "क्रचेह",
         "hu": "Kratie",
@@ -111,7 +101,6 @@
     },
     "11": {
         "en": "Mondol Kiri",
-        "ba": "Мондолькири",
         "be": "Мандалькіры",
         "de": "Mondulkiri",
         "he": "מונדולקירי",
@@ -128,7 +117,6 @@
     },
     "13": {
         "en": "Preah Vihear",
-        "ba": "Прэахвихеа",
         "be": "Прэагвігеа",
         "he": "פראה ויהר",
         "hi": "प्रीह विहार",
@@ -140,7 +128,6 @@
     },
     "14": {
         "en": "Prey Veaeng",
-        "ba": "Прейвэнг",
         "be": "Прэйвэнг",
         "de": "Prey Veng",
         "ga": "Veaeng Creiche",
@@ -158,7 +145,6 @@
     },
     "15": {
         "en": "Pousaat",
-        "ba": "Поусат",
         "be": "Пурсат",
         "de": "Pursat",
         "fr": "Pothisat",
@@ -177,7 +163,6 @@
     },
     "16": {
         "en": "Rotanak Kiri",
-        "ba": "Ратанакири",
         "be": "Ратанакіры",
         "de": "Ratanakkiri",
         "hi": "रोटानक किरी",
@@ -193,7 +178,6 @@
     },
     "17": {
         "en": "Siem Reab",
-        "ba": "Сиемреап",
         "be": "Сіемрэап",
         "de": "Siem Reap",
         "hi": "सिएम रीप",
@@ -207,7 +191,6 @@
     },
     "18": {
         "en": "Preah Sihanouk",
-        "ba": "Прэахсиханук",
         "hi": "प्रीह सिहानोक",
         "nl": "Sihanoukville, Stedelijk Gewest",
         "pl": "Preăh Seihânŭ",
@@ -217,7 +200,6 @@
     },
     "19": {
         "en": "Stoĕng Trêng",
-        "ba": "Стынгтраенг",
         "hi": "स्टोएन ट्रेंग",
         "hu": "Stung Treng",
         "nl": "Stoeng Treng",
@@ -228,7 +210,6 @@
     },
     "20": {
         "en": "Svaay Rieng",
-        "ba": "Свайриенг",
         "be": "Свайрыенг",
         "de": "Svay Rieng",
         "hi": "स्वे रिएंग",
@@ -246,7 +227,6 @@
     },
     "21": {
         "en": "Taakaev",
-        "ba": "Такео",
         "be": "Такеа",
         "de": "Takeo",
         "hi": "ताकायेव",
@@ -262,7 +242,6 @@
     },
     "22": {
         "en": "Otdar Mean Chey",
-        "ba": "Оддармеантьей",
         "be": "Одармэант'ей",
         "de": "Oddar Meancheay",
         "ga": "Otdar Meán Chey",
@@ -278,7 +257,6 @@
     },
     "23": {
         "en": "Kaeb",
-        "ba": "Каеп",
         "ga": "KaebGeneric",
         "hi": "काएब",
         "nl": "Keb; Kaeb",
@@ -289,7 +267,6 @@
     },
     "24": {
         "en": "Pailin",
-        "ba": "Пайлин",
         "hi": "पैलिन",
         "nl": "Pailin, Stedelijk Gewest",
         "pl": "Pailĭn",
@@ -298,7 +275,6 @@
     },
     "25": {
         "en": "Tbong Khmum",
-        "ba": "Тбонг-Кхмум",
         "hi": "त्बोंग ख्मम",
         "pl": "Tbong Khmŭm",
         "ta": "டிபோங் கமும்",

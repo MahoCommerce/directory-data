@@ -1,7 +1,6 @@
 {
     "BJ": {
         "en": "Janūb al Bāţinah",
-        "ba": "Көньяҡ Эль-Батина",
         "hi": "जनूब अल बशीना",
         "hu": "Dél-Batina",
         "nl": "Gouvernement Zuid Al Batinah",
@@ -12,7 +11,6 @@
     },
     "BS": {
         "en": "Shamāl al Bāţinah",
-        "ba": "Төньяҡ Эль-Батина",
         "hi": "शामल अल बशीना",
         "hu": "Észak-Batina",
         "nl": "Gouvernement Noord Al Batinah",
@@ -23,7 +21,6 @@
     },
     "BU": {
         "en": "Al Buraymī",
-        "ba": "Эль-Бурайми",
         "be": "Бурэймі",
         "de": "Al Buraimī",
         "hi": "अल बुरैमी",
@@ -38,7 +35,6 @@
     },
     "DA": {
         "en": "Ad Dākhilīyah",
-        "ba": "Эд-Дахилия",
         "ga": "ADākhilīyah",
         "hi": "अद दखिलिय",
         "hu": "Ad Dakhilíja",
@@ -50,7 +46,6 @@
     },
     "MA": {
         "en": "Masqaţ",
-        "ba": "Маскат",
         "be": "Маскат",
         "de": "Maskat",
         "eo": "Maskato",
@@ -67,7 +62,6 @@
     },
     "MU": {
         "en": "Musandam",
-        "ba": "Мусандам",
         "be": "Мусандам",
         "hi": "मुसंदम",
         "ja": "ムサンダム",
@@ -77,7 +71,6 @@
     },
     "SJ": {
         "en": "Janūb ash Sharqīyah",
-        "ba": "Көньяҡ Эш-Шаркия",
         "eo": "Sudoriento",
         "ga": "Janūb Ash Sharqīyah",
         "hi": "जनूब अश शरकियाह",
@@ -90,7 +83,6 @@
     },
     "SS": {
         "en": "Shamāl ash Sharqīyah",
-        "ba": "Төньяҡ Эш-Шаркия",
         "eo": "Nordoriento",
         "ga": "Shamāl Ash Sharqīyah",
         "hi": "शामल अश शरकियाह",
@@ -103,7 +95,6 @@
     },
     "WU": {
         "en": "Al Wusţá",
-        "ba": "Эль-Вуста",
         "be": "Цэнтральная мухафаза",
         "eu": "Al Wusta",
         "fr": "Al Wusta",
@@ -121,7 +112,6 @@
     },
     "ZA": {
         "en": "Az̧ Z̧āhirah",
-        "ba": "Эз-Захира",
         "be": "Захіра",
         "de": "Az̧ Z̧āhira",
         "hi": "अज़्ज़ ज़हिराह",
@@ -137,7 +127,6 @@
     },
     "ZU": {
         "en": "Z̧ufār",
-        "ba": "Дофар",
         "be": "Дафар",
         "de": "Dhofar",
         "hi": "ज़ुफ़र",

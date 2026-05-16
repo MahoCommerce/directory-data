@@ -1,7 +1,6 @@
 {
     "AH": {
         "en": "Anhui Sheng",
-        "ba": "Аньхой провинцияһы",
         "be": "Правінцыя Аньхой",
         "de": "Anhui",
         "eo": "Anhujo",
@@ -17,7 +16,6 @@
     },
     "BJ": {
         "en": "Beijing Shi",
-        "ba": "Пекин ҡалаһы",
         "be": "Пекін",
         "de": "Peking",
         "eo": "Pekino",
@@ -35,7 +33,6 @@
     },
     "CQ": {
         "en": "Chongqing Shi",
-        "ba": "Чунцин ҡалаһы",
         "be": "Чунцын",
         "de": "Chongqing",
         "eo": "Ĉongĉingo",
@@ -52,7 +49,6 @@
     },
     "FJ": {
         "en": "Fujian Sheng",
-        "ba": "Фуцзянь провинцияһы",
         "be": "Правінцыя Фуцзянь",
         "de": "Fujian",
         "eo": "Fuĝjano",
@@ -67,7 +63,6 @@
     },
     "GD": {
         "en": "Guangdong Sheng",
-        "ba": "Гуандун провинцияһы",
         "be": "Правінцыя Гуандун",
         "de": "Guangdong",
         "eo": "Gŭangdongo",
@@ -84,7 +79,6 @@
     },
     "GS": {
         "en": "Gansu Sheng",
-        "ba": "Ганьсу провинцияһы",
         "be": "Правінцыя Ганьсу",
         "de": "Gansu",
         "eo": "Gansuo",
@@ -101,7 +95,6 @@
     },
     "GX": {
         "en": "Guangxi Zhuangzu Zizhiqu",
-        "ba": "Гуанси-Чжуан автономиялы районы",
         "be": "Гуансі-Чжуанскі аўтаномны раён",
         "de": "Guangxi",
         "eo": "Aŭtonoma Regiono Gŭangŝjio",
@@ -117,7 +110,6 @@
     },
     "GZ": {
         "en": "Guizhou Sheng",
-        "ba": "Гуйчжоу провинцияһы",
         "be": "Правінцыя Гуйчжоу",
         "de": "Guizhou",
         "eo": "Gujĝoŭo",
@@ -133,7 +125,6 @@
     },
     "HA": {
         "en": "Henan Sheng",
-        "ba": "Хэнань провинцияһы",
         "be": "Правінцыя Хэнань",
         "de": "Henan",
         "eo": "Henano",
@@ -150,7 +141,6 @@
     },
     "HB": {
         "en": "Hubei Sheng",
-        "ba": "Хубэй провинцияһы",
         "be": "Правінцыя Хубэй",
         "de": "Hubei",
         "eo": "Hubejo",
@@ -167,7 +157,6 @@
     },
     "HE": {
         "en": "Hebei Sheng",
-        "ba": "Хэбэй провинцияһы",
         "be": "Правінцыя Хэбэй",
         "de": "Hebei",
         "eu": "Hebei",
@@ -183,7 +172,6 @@
     },
     "HI": {
         "en": "Hainan Sheng",
-        "ba": "Хайнань провинцияһы",
         "be": "Правінцыя Хайнань",
         "de": "Hainan",
         "eo": "Hajnano",
@@ -201,7 +189,6 @@
     },
     "HK": {
         "en": "Hong Kong SAR",
-        "ba": "Гонконг махсус административ районы",
         "eo": "Speciala Administra Regiono Honkongo",
         "ga": "Hong Cong SAR",
         "hi": "हांग कांग SAR",
@@ -215,7 +202,6 @@
     },
     "HL": {
         "en": "Heilongjiang Sheng",
-        "ba": "Хэйлунцзян провинцияһы",
         "be": "Правінцыя Хэйлунцзян",
         "de": "Heilongjiang",
         "eo": "Hejlongĝjango",
@@ -231,7 +217,6 @@
     },
     "HN": {
         "en": "Hunan Sheng",
-        "ba": "Хунань провинцияһы",
         "be": "Правінцыя Хунань",
         "de": "Hunan",
         "eo": "Hunano",
@@ -249,7 +234,6 @@
     },
     "JL": {
         "en": "Jilin Sheng",
-        "ba": "Гирин провинцияһы",
         "be": "Правінцыя Гірын",
         "de": "Jilin",
         "eo": "Ĝjilino",
@@ -266,7 +250,6 @@
     },
     "JS": {
         "en": "Jiangsu Sheng",
-        "ba": "Цзянсу провинцияһы",
         "be": "Правінцыя Цзянсу",
         "de": "Jiangsu",
         "eo": "Ĝjangsuo",
@@ -282,7 +265,6 @@
     },
     "JX": {
         "en": "Jiangxi Sheng",
-        "ba": "Цзянси провинцияһы",
         "be": "Правінцыя Цзянсі",
         "de": "Jiangxi",
         "eo": "Ĝjangŝjio",
@@ -298,7 +280,6 @@
     },
     "LN": {
         "en": "Liaoning Sheng",
-        "ba": "Ляонин провинцияһы",
         "be": "Правінцыя Ляанін",
         "de": "Liaoning",
         "eo": "Ljaŭningo",
@@ -313,7 +294,6 @@
     },
     "MO": {
         "en": "Macao SAR",
-        "ba": "Макао махсус административ районы",
         "eo": "Speciala Administra Regiono Makao",
         "hi": "मकाओ SAR",
         "hu": "Makaó Különleges Közigazgatási Terület",
@@ -326,7 +306,6 @@
     },
     "NM": {
         "en": "Nei Mongol Zizhiqu",
-        "ba": "Эске Монголия автономиялы районы",
         "be": "Аўтаномны раён Унутраная Манголія",
         "de": "Nei Mongol",
         "eo": "Interna Mongolio",
@@ -343,7 +322,6 @@
     },
     "NX": {
         "en": "Ningxia Huizu Zizhiqu",
-        "ba": "Нинся-Хуэй автономиялы районы",
         "hi": "निंगसिआ हुज़ू ज़िज़हिकु",
         "hu": "Ningxia Hui Autonóm Terület",
         "nl": "Autonome Hui Regio Ningxia",
@@ -354,7 +332,6 @@
     },
     "QH": {
         "en": "Qinghai Sheng",
-        "ba": "Цинхай провинцияһы",
         "be": "Правінцыя Цынхай",
         "de": "Qinghai",
         "eo": "Ĉinghajo",
@@ -370,7 +347,6 @@
     },
     "SC": {
         "en": "Sichuan Sheng",
-        "ba": "Сычуань провинцияһы",
         "be": "Правінцыя Сычуань",
         "de": "Sichuan",
         "eo": "Siĉŭano",
@@ -387,7 +363,6 @@
     },
     "SD": {
         "en": "Shandong Sheng",
-        "ba": "Шаньдун провинцияһы",
         "be": "Правінцыя Шаньдун",
         "de": "Shandong",
         "eo": "Ŝandongo",
@@ -402,7 +377,6 @@
     },
     "SH": {
         "en": "Shanghai Shi",
-        "ba": "Шанхай ҡалаһы",
         "be": "Шанхай",
         "de": "Shanghai",
         "eo": "Ŝanhajo",
@@ -420,7 +394,6 @@
     },
     "SN": {
         "en": "Shaanxi Sheng",
-        "ba": "Шэньси провинцияһы",
         "be": "Правінцыя Шэньсі",
         "de": "Shaanxi",
         "eo": "Ŝenŝjio",
@@ -435,7 +408,6 @@
     },
     "SX": {
         "en": "Shanxi Sheng",
-        "ba": "Шаньси провинцияһы",
         "be": "Правінцыя Шаньсі",
         "de": "Shanxi",
         "eo": "Ŝanŝjio",
@@ -451,7 +423,6 @@
     },
     "TJ": {
         "en": "Tianjin Shi",
-        "ba": "Тяньцзинь ҡалаһы",
         "be": "Цяньцзінь",
         "de": "Tianjin",
         "eo": "Tjanĝino",
@@ -466,7 +437,6 @@
     },
     "TW": {
         "en": "Taiwan Sheng",
-        "ba": "Тайвань провинцияһы",
         "eo": "Tajvano",
         "ga": "An Téaváin Sheng",
         "hi": "ताइवान शेंग",
@@ -479,7 +449,6 @@
     },
     "XJ": {
         "en": "Xinjiang Uygur Zizhiqu",
-        "ba": "Шыңжан-Уйғыр автономиялы районы",
         "be": "Сіньцзян-Уйгурскі аўтаномны раён",
         "de": "Xinjiang",
         "eo": "Ŝinĝjango",
@@ -495,7 +464,6 @@
     },
     "XZ": {
         "en": "Xizang Zizhiqu",
-        "ba": "Тибет автономиялы районы",
         "be": "Тыбецкі аўтаномны раён",
         "de": "Tibet",
         "eo": "Tibeto",
@@ -510,7 +478,6 @@
     },
     "YN": {
         "en": "Yunnan Sheng",
-        "ba": "Юньнань провинцияһы",
         "be": "Правінцыя Юньнань",
         "de": "Yunnan",
         "eo": "Junano",
@@ -526,7 +493,6 @@
     },
     "ZJ": {
         "en": "Zhejiang Sheng",
-        "ba": "Чжэцзян провинцияһы",
         "be": "Правінцыя Чжэцзян",
         "de": "Zhejiang",
         "eo": "Ĝeĝjango",

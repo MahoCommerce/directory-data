@@ -1,7 +1,6 @@
 {
     "CTT": {
         "en": "Couva-Tabaquite-Talparo",
-        "ba": "Кува-Табаките-Талпаро",
         "be": "Кува-Табакітэ-Тальпара",
         "hi": "कूवा-तबाकाइट-तलपारो",
         "nl": "Couva - Tabaquite - Talparo",
@@ -11,7 +10,6 @@
     },
     "DMN": {
         "en": "Diego Martin",
-        "ba": "Диего-Мартин",
         "be": "Дыега-Марцін",
         "eo": "Diego Marteno",
         "sr": "Диего Мартин",
@@ -20,7 +18,6 @@
     },
     "MRC": {
         "en": "Mayaro-Rio Claro",
-        "ba": "Майаро-Рио-Кларо",
         "hi": "मायरो-रियो क्लारो",
         "nl": "Rio Claro - Mayaro",
         "ta": "மயரோ-ரியோ கிளாரோ",
@@ -28,7 +25,6 @@
     },
     "PED": {
         "en": "Penal-Debe",
-        "ba": "Пенал-Дебе",
         "be": "Пенал-Дэбе",
         "ga": "Coiriúil-Must",
         "hi": "पेनल-डेबे",
@@ -39,7 +35,6 @@
     },
     "PRT": {
         "en": "Princes Town",
-        "ba": "Принсес-Таун",
         "be": "Прынсес-Таўн",
         "eo": "Princurbo",
         "ga": "Baile an Phrionsa",
@@ -50,7 +45,6 @@
     },
     "SGE": {
         "en": "Sangre Grande",
-        "ba": "Сангре-Гранде",
         "be": "Сангрэ-Грандэ",
         "eo": "Sango Granda",
         "he": "סנגרה גראנדה",
@@ -61,7 +55,6 @@
     },
     "SIP": {
         "en": "Siparia",
-        "ba": "Сипария",
         "be": "Сіпарыя",
         "he": "סיפאריה",
         "hi": "सिपरिया",
@@ -70,7 +63,6 @@
     },
     "SJL": {
         "en": "San Juan-Laventille",
-        "ba": "Сан-Хуан-Лавентиль",
         "be": "Сан-Хуан-Лавенціль",
         "hi": "सैन जुआन-लैवेंटिल",
         "nl": "San Juan - Laventille",
@@ -80,7 +72,6 @@
     },
     "TUP": {
         "en": "Tunapuna-Piarco",
-        "ba": "Тунапуна-Пиарко",
         "be": "Тунапуна-Піарка",
         "hi": "तुनापुना-पिआर्को",
         "hu": "Tunapuna–Piarco",

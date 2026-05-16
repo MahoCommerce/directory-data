@@ -1,7 +1,6 @@
 {
     "01": {
         "en": "Zagrebačka županija",
-        "ba": "Загреб жупанияһы",
         "be": "Заграбская жупанія",
         "de": "Gespanschaft Zagreb",
         "eo": "Kantono Zagrebo",
@@ -26,7 +25,6 @@
     },
     "02": {
         "en": "Krapinsko-zagorska županija",
-        "ba": "Крапин-Загорье жупанияһы",
         "be": "Крапінска-Загарская жупанія",
         "de": "Gespanschaft Krapina-Zagorje",
         "eo": "Kantono Krapina-Zagorje",
@@ -50,7 +48,6 @@
     },
     "03": {
         "en": "Sisačko-moslavačka županija",
-        "ba": "Сисак-Мославина жупанияһы",
         "be": "Сісацка-Маславінская жупанія",
         "de": "Gespanschaft Siska-Moslavina",
         "eo": "Kantono Sisak-Moslavina",
@@ -75,7 +72,6 @@
     },
     "04": {
         "en": "Karlovačka županija",
-        "ba": "Карловац жупанияһы",
         "be": "Карлавацкая жупанія",
         "de": "Gespanschaft Karlovac",
         "fr": "Karlovac",
@@ -100,7 +96,6 @@
     },
     "05": {
         "en": "Varaždinska županija",
-        "ba": "Вараждин жупанияһы",
         "be": "Вараждзінская жупанія",
         "de": "Gespanschaft Varaždin",
         "fr": "Varaždin",
@@ -124,7 +119,6 @@
     },
     "06": {
         "en": "Koprivničko-križevačka županija",
-        "ba": "Копривница-Крижевци жупанияһы",
         "be": "Капрыўніцка-Крыжэвацкая жупанія",
         "de": "Gespanschaft Koprivnica-Križevci",
         "fr": "Koprivnica-Križevci",
@@ -148,7 +142,6 @@
     },
     "07": {
         "en": "Bjelovarsko-bilogorska županija",
-        "ba": "Беловар-Билогора жупанияһы",
         "be": "Белаварска-Білагорская жупанія",
         "de": "Gespanschaft Bjelovar-Bilogora",
         "fr": "Bjelovar-Bilogora",
@@ -169,7 +162,6 @@
     },
     "08": {
         "en": "Primorsko-goranska županija",
-        "ba": "Приморье-Горски Котар жупанияһы",
         "be": "Прыморска-Горанская жупанія",
         "de": "Gespanschaft Primorje-Gorski",
         "fr": "Primorje-Gorski Kotar",
@@ -192,7 +184,6 @@
     },
     "09": {
         "en": "Ličko-senjska županija",
-        "ba": "Лика-Сень жупанияһы",
         "be": "Ліцка-Сеньская жупанія",
         "de": "Gespanschaft Lika-Senj",
         "fr": "Lika-Senj",
@@ -216,7 +207,6 @@
     },
     "10": {
         "en": "Virovitičko-podravska županija",
-        "ba": "Вировитица-Подравина жупанияһы",
         "be": "Віравіціцка-Падраўская жупанія",
         "de": "Gespanschaft Virovitica-Podravina",
         "fr": "Virovitica-Podravina",
@@ -240,7 +230,6 @@
     },
     "11": {
         "en": "Požeško-slavonska županija",
-        "ba": "Пожега-Славония жупанияһы",
         "be": "Пожэжска-Славонская жупанія",
         "de": "Gespanschaft Požega-Slawonien",
         "eo": "Kantono Požega-Slavonio",
@@ -264,7 +253,6 @@
     },
     "12": {
         "en": "Brodsko-posavska županija",
-        "ba": "Брод-Посавина жупанияһы",
         "be": "Бродска-Пасаўская жупанія",
         "de": "Gespanschaft Brod-Posavina",
         "eo": "Kantono Brod-Posavina",
@@ -288,7 +276,6 @@
     },
     "13": {
         "en": "Zadarska županija",
-        "ba": "Задар жупанияһы",
         "be": "Задарская жупанія",
         "de": "Gespanschaft Zadar",
         "eo": "Kantono Zadar",
@@ -312,7 +299,6 @@
     },
     "14": {
         "en": "Osječko-baranjska županija",
-        "ba": "Осиек-Баранья жупанияһы",
         "be": "Осіецка-Бараньская жупанія",
         "de": "Gespanschaft Osijek-Baranja",
         "fr": "Osijek-Baranja",
@@ -336,7 +322,6 @@
     },
     "15": {
         "en": "Šibensko-kninska županija",
-        "ba": "Шибеник-Книн жупанияһы",
         "be": "Шыбенска-Кнінская жупанія",
         "de": "Gespanschaft Šibenik-Knin",
         "fr": "Šibenik-Knin",
@@ -360,7 +345,6 @@
     },
     "16": {
         "en": "Vukovarsko-srijemska županija",
-        "ba": "Вуковар-Срем жупанияһы",
         "be": "Вукаварска-Срэмская жупанія",
         "de": "Gespanschaft Vukovar-Srijem",
         "fr": "Vukovar-Syrmie",
@@ -384,7 +368,6 @@
     },
     "17": {
         "en": "Splitsko-dalmatinska županija",
-        "ba": "Сплит-Далмация жупанияһы",
         "be": "Спліцка-Далмацінская жупанія",
         "de": "Gespanschaft Split-Dalmatien",
         "eo": "Kantono Splito-Dalmatio",
@@ -408,7 +391,6 @@
     },
     "18": {
         "en": "Istarska županija",
-        "ba": "Истрия жупанияһы",
         "be": "Істрыйская жупанія",
         "de": "Gespanschaft Istrien",
         "eo": "Kantono Istrio",
@@ -432,7 +414,6 @@
     },
     "19": {
         "en": "Dubrovačko-neretvanska županija",
-        "ba": "Дубровник-Неретва жупанияһы",
         "be": "Дуброўніцка-Нерэтванская жупанія",
         "de": "Gespanschaft Dubrovnik-Neretva",
         "fr": "Dubrovnik-Neretva",
@@ -456,7 +437,6 @@
     },
     "20": {
         "en": "Međimurska županija",
-        "ba": "Меджимурье жупанияһы",
         "be": "Меджымурская жупанія",
         "de": "Gespanschaft Međimurje",
         "fr": "Međimurje",

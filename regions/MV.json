@@ -1,7 +1,6 @@
 {
     "00": {
         "en": "South Ari Atoll",
-        "ba": "Көньяҡ Ари Атоллы",
         "ga": "Ari Atoll Theas",
         "hi": "दक्षिण अरी एटोल",
         "hr": "Južni Ari atol",
@@ -14,7 +13,6 @@
     },
     "02": {
         "en": "North Ari Atoll",
-        "ba": "Төньяҡ Ари Атоллы",
         "ga": "Ari Atoll Thuaidh",
         "hi": "उत्तर एरी एटोल",
         "hr": "Sjeverni Ari atol",
@@ -27,7 +25,6 @@
     },
     "03": {
         "en": "Faadhippolhu",
-        "ba": "Фаадхипполху",
         "hi": "फाधिप्पोलु",
         "hu": "Faadhippolhu atoll",
         "nl": "Faadhippolhu-atol",
@@ -37,7 +34,6 @@
     },
     "04": {
         "en": "Felidhu Atoll",
-        "ba": "Фелиду Атоллы",
         "hi": "फेलिधु एटोल",
         "hu": "Felidhu-atoll",
         "nl": "Felidhu-atol",
@@ -48,7 +44,6 @@
     },
     "05": {
         "en": "Hahdhunmathi",
-        "ba": "Хадхдхунматхи",
         "hi": "हहदुन्मति",
         "nl": "Haddhunmathi-atol",
         "pl": "Laamu",
@@ -58,7 +53,6 @@
     },
     "07": {
         "en": "North Thiladhunmathi",
-        "ba": "Төньяҡ Тиладхунматхи",
         "ga": "Tiladhunmathi Thuaidh",
         "hi": "उत्तर थिलाधुनमथि",
         "hu": "Észak-Thiladhunmathi",
@@ -70,7 +64,6 @@
     },
     "08": {
         "en": "Kolhumadulu",
-        "ba": "Колхумадулу",
         "hi": "कोल्हुमाडुलु",
         "nl": "Kolhumadulu-atol",
         "pl": "Thaa",
@@ -80,7 +73,6 @@
     },
     "12": {
         "en": "Mulaku Atoll",
-        "ba": "Мулаку Атоллы",
         "hi": "मुलकु एटोल",
         "hr": "Mulaku atol",
         "hu": "Mulaku-atoll",
@@ -92,7 +84,6 @@
     },
     "13": {
         "en": "North Maalhosmadulu",
-        "ba": "Төньяҡ Маалхосмадулу",
         "ga": "Maalhosmadulu Thuaidh",
         "hi": "उत्तर माल्होसमादुलु",
         "hu": "Észak-Maalhosmadulu",
@@ -104,7 +95,6 @@
     },
     "14": {
         "en": "North Nilandhe Atoll",
-        "ba": "Төньяҡ Ниландхе Атоллы",
         "ga": "Nilandhe Thuaidh Atoll",
         "hi": "उत्तरी निलान्धे एटोल",
         "hu": "Észak-Nilandhe-atoll",
@@ -116,7 +106,6 @@
     },
     "17": {
         "en": "South Nilandhe Atoll",
-        "ba": "Көньяҡ Ниландхе Атоллы",
         "ga": "Nilandhe Theas Atoll",
         "hi": "दक्षिण नीलान्धे एटोल",
         "hu": "Déli Nilandhe-atoll",
@@ -128,7 +117,6 @@
     },
     "20": {
         "en": "South Maalhosmadulu",
-        "ba": "Көньяҡ Маалхосмадулу",
         "ga": "Maalhosmadulu Theas",
         "hi": "दक्षिण माल्होसमादुलु",
         "hu": "Dél-Maalhosmadulu",
@@ -140,7 +128,6 @@
     },
     "23": {
         "en": "South Thiladhunmathi",
-        "ba": "Көньяҡ Тиладхунматхи",
         "ga": "Tiladhunmati Theas",
         "hi": "दक्षिण थिलाधुनमथि",
         "hu": "Dél-Thiladhunmathi",
@@ -152,7 +139,6 @@
     },
     "24": {
         "en": "North Miladhunmadulu",
-        "ba": "Төньяҡ Миладхунмадулу",
         "ga": "Miladhunmads Thuaidh",
         "hi": "उत्तर मिलाधुनमादुलु",
         "hu": "Észak-Miladhunmadulu",
@@ -164,7 +150,6 @@
     },
     "25": {
         "en": "South Miladhunmadulu",
-        "ba": "Көньяҡ Миладхунмадулу",
         "ga": "Saud Miladunmatulu",
         "hi": "दक्षिण मिलाधुनमादुलु",
         "hu": "Dél-Miladhunmadulu",
@@ -176,7 +161,6 @@
     },
     "26": {
         "en": "Male Atoll",
-        "ba": "Мале Атоллы",
         "ga": "Atoll Fireann",
         "hi": "माले एटोल",
         "hr": "Male atol",
@@ -189,7 +173,6 @@
     },
     "27": {
         "en": "North Huvadhu Atoll",
-        "ba": "Төньяҡ Хувадху Атоллы",
         "ga": "Huatu Thuaidh Atoll",
         "hi": "उत्तर हुवाधु एटोल",
         "hu": "Észak-Huvadhoo-atoll",
@@ -201,7 +184,6 @@
     },
     "28": {
         "en": "South Huvadhu Atoll",
-        "ba": "Көньяҡ Хувадху Атоллы",
         "ga": "Huatu Theas Atoll",
         "hi": "दक्षिण हुवधू एटोल",
         "hu": "Déli Huvadhu-atoll",
@@ -213,7 +195,6 @@
     },
     "29": {
         "en": "Fuvammulah",
-        "ba": "Фувамула",
         "hi": "फुवम्मुल्लाह",
         "ro": "Atolul Gnaviyani",
         "ta": "ஃபுவாமுலா",

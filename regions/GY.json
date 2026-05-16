@@ -1,7 +1,6 @@
 {
     "BA": {
         "en": "Barima-Waini",
-        "ba": "Барима-Уайни",
         "be": "Барыма-Вайні",
         "hi": "बरिमा-वैनी",
         "ja": "バリマワイニ",
@@ -13,7 +12,6 @@
     },
     "CU": {
         "en": "Cuyuni-Mazaruni",
-        "ba": "Куюни-Мазаруни",
         "be": "Каюні-Мазаруні",
         "hi": "कूयुनि मज़ारूनी",
         "ja": "クユニマザルニ",
@@ -26,7 +24,6 @@
     },
     "DE": {
         "en": "Demerara-Mahaica",
-        "ba": "Демерара-Махайка",
         "be": "Дэмерара-Махайка",
         "hi": "डेमेरर-महैक",
         "ja": "デメララマハイカ",
@@ -38,7 +35,6 @@
     },
     "EB": {
         "en": "East Berbice-Corentyne",
-        "ba": "Көнсығыш Бербис-Корентайн",
         "be": "Усходні Бербіс-Корэнціна",
         "da": "Øst Berbice-Corentyne",
         "fr": "Berbice Oriental-Courantyne",
@@ -58,7 +54,6 @@
     },
     "ES": {
         "en": "Essequibo Islands-West Demerara",
-        "ba": "Эссекибо утрауҙары-Көнбайыш Демерара",
         "be": "Астравы Эсекіба-Заходні Дэмерара",
         "da": "Essequiboøerne-Vestdemerara",
         "fr": "Îles d'Essequibo-Demerara occidental",
@@ -78,7 +73,6 @@
     },
     "MA": {
         "en": "Mahaica-Berbice",
-        "ba": "Махайка-Бербис",
         "be": "Махайка-Бербіс",
         "hi": "महाइका-बार्बिक",
         "ja": "マハイカバービーズ",
@@ -89,7 +83,6 @@
     },
     "PM": {
         "en": "Pomeroon-Supenaam",
-        "ba": "Померун-Супенаам",
         "be": "Памерун-Супенаам",
         "hi": "पोमेरून-सुपेनाम",
         "ja": "ポメルーンスペナーム",
@@ -101,7 +94,6 @@
     },
     "PT": {
         "en": "Potaro-Siparuni",
-        "ba": "Потаро-Сипаруни",
         "be": "Патара-Сіпаруні",
         "ga": "Potaro-Sipar",
         "hi": "पोतरो-सिपारुनि",
@@ -113,7 +105,6 @@
     },
     "UD": {
         "en": "Upper Demerara-Berbice",
-        "ba": "Үрге Демерара-Бербис",
         "be": "Верхні Дэмерара-Бербіс",
         "da": "Øvre Demerara-Berbice",
         "fr": "Haut-Demerara-Berbice",
@@ -133,7 +124,6 @@
     },
     "UT": {
         "en": "Upper Takutu-Upper Essequibo",
-        "ba": "Үрге Такуту-Үрге Эссекибо",
         "be": "Верхні Такуту-Верхні Эсекіба",
         "da": "Øvre Takutu-Upper Essequibo",
         "fr": "Haut-Takutu-Haut-Essequibo",

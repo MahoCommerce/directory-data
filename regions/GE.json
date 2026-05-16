@@ -1,7 +1,6 @@
 {
     "GU": {
         "en": "Guria",
-        "ba": "Гурия",
         "be": "Гурыя",
         "de": "Gurien",
         "hi": "गुरिया",
@@ -16,7 +15,6 @@
     },
     "IM": {
         "en": "Imereti",
-        "ba": "Имеретия",
         "hi": "इमेरेती",
         "ka": "იმერეთი",
         "pl": "Imeretia",
@@ -26,7 +24,6 @@
     },
     "KA": {
         "en": "K'akheti",
-        "ba": "Кахетия",
         "ga": "K'akhetiGeneric",
         "hi": "काखेती",
         "hu": "Kakheti",
@@ -36,7 +33,6 @@
     },
     "KK": {
         "en": "Kvemo Kartli",
-        "ba": "Квемо-Картли",
         "ga": "Kvemo KartliGeneric",
         "hi": "क्वेमो कार्तली",
         "hu": "Alsó-Kartli",
@@ -48,7 +44,6 @@
     },
     "MM": {
         "en": "Mtskheta-Mtianeti",
-        "ba": "Мцхета-Мтианети",
         "hi": "म्टस्खेटा-म्तियाणेती",
         "hu": "Mcheta-Mtianeti",
         "ka": "მცხეთა-მთიანეთი",
@@ -59,7 +54,6 @@
     },
     "RL": {
         "en": "Rach'a-Lechkhumi-Kvemo Svaneti",
-        "ba": "Рача-Лечхуми һәм Түбәнге Сванетия",
         "hi": "राचा-लेचखुमी-क्वेमो स्वनेती",
         "hu": "Racha-Lechkhumi és Kvemo Szvanétia",
         "nl": "Ratsja-Letsjchoemi en Kvemo Svaneti",
@@ -69,7 +63,6 @@
     },
     "SJ": {
         "en": "Samtskhe-Javakheti",
-        "ba": "Самцхе-Джавахети",
         "ga": "Samatskhe-Jawakheti",
         "hi": "समत्शे-जावखेती",
         "hu": "Szamtshe-Dzsavakheti",
@@ -82,7 +75,6 @@
     },
     "SK": {
         "en": "Shida Kartli",
-        "ba": "Шида-Картли",
         "hi": "शिदा कार्तली",
         "hu": "Sida-Kartli",
         "ka": "შიდა ქართლი",
@@ -94,7 +86,6 @@
     },
     "SZ": {
         "en": "Samegrelo-Zemo Svaneti",
-        "ba": "Самегрело-Земо Сванети",
         "hi": "सेमग्रेलो-ज़ेमो स्वनेती",
         "hu": "Szamegrelo-Felső-Szvanétia",
         "ka": "სამეგრელო-ზემო სვანეთი",

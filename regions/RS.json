@@ -1,7 +1,6 @@
 {
     "01": {
         "en": "Severnobački okrug",
-        "ba": "Төньяҡ Бачка округы",
         "be": "Паўночна-Бацкая акруга",
         "de": "Bezirk Severna Bačka",
         "fr": "Bačka septentrionale",
@@ -20,7 +19,6 @@
     },
     "02": {
         "en": "Srednjebanatski okrug",
-        "ba": "Урта Банат округы",
         "be": "Сярэдне-Банацкая акруга",
         "de": "Bezirk Srednji Banat",
         "fr": "Banatčka méridionale",
@@ -38,7 +36,6 @@
     },
     "03": {
         "en": "Severnobanatski okrug",
-        "ba": "Төньяҡ Банат округы",
         "be": "Паўночна-Банацкая акруга",
         "de": "Bezirk Severni Banat",
         "fr": "Banatčka septentrionale",
@@ -57,7 +54,6 @@
     },
     "04": {
         "en": "Južnobanatski okrug",
-        "ba": "Көньяҡ Банат округы",
         "be": "Паўднёва-Банацкая акруга",
         "de": "Bezirk Južni Bačka",
         "fr": "Južnobanat",
@@ -75,7 +71,6 @@
     },
     "05": {
         "en": "Zapadnobački okrug",
-        "ba": "Көнбайыш Бачка округы",
         "be": "Заходне-Бацкая акруга",
         "de": "Bezirk Zapadna Bačka",
         "fr": "Bačka occidentale",
@@ -94,7 +89,6 @@
     },
     "06": {
         "en": "Južnobački okrug",
-        "ba": "Көньяҡ Бачка округы",
         "be": "Паўднёва-Бацкая акруга",
         "de": "Bezirk Južna Bačka",
         "fr": "Južnobač",
@@ -112,7 +106,6 @@
     },
     "07": {
         "en": "Sremski okrug",
-        "ba": "Срем округы",
         "be": "Срэмская акруга",
         "de": "Bezirk Srem",
         "fr": "Srem",
@@ -131,7 +124,6 @@
     },
     "08": {
         "en": "Mačvanski okrug",
-        "ba": "Мачва округы",
         "be": "Мачванская акруга",
         "de": "Bezirk Mačvan",
         "fr": "Mačvan",
@@ -149,7 +141,6 @@
     },
     "09": {
         "en": "Kolubarski okrug",
-        "ba": "Колубара округы",
         "be": "Калубарская акруга",
         "de": "Bezirk Kolubara",
         "fr": "Kolubara",
@@ -167,7 +158,6 @@
     },
     "10": {
         "en": "Podunavski okrug",
-        "ba": "Подунай округы",
         "be": "Падунайская акруга",
         "de": "Bezirk Podunavlje",
         "fr": "Podunavlje",
@@ -185,7 +175,6 @@
     },
     "11": {
         "en": "Braničevski okrug",
-        "ba": "Браничево округы",
         "be": "Бранічэўская акруга",
         "de": "Bezirk Braničevo",
         "fr": "Braničevo",
@@ -204,7 +193,6 @@
     },
     "12": {
         "en": "Šumadijski okrug",
-        "ba": "Шумадия округы",
         "be": "Шумадзійская акруга",
         "de": "Bezirk Šumadija",
         "fr": "Šumadija",
@@ -220,7 +208,6 @@
     },
     "13": {
         "en": "Pomoravski okrug",
-        "ba": "Поморавье округы",
         "be": "Памараўская акруга",
         "de": "Bezirk Pomoravlje",
         "fr": "Pomoravlje",
@@ -238,7 +225,6 @@
     },
     "14": {
         "en": "Borski okrug",
-        "ba": "Бор округы",
         "be": "Борская акруга",
         "de": "Bezirk Bor",
         "fr": "Bor",
@@ -255,7 +241,6 @@
     },
     "15": {
         "en": "Zaječarski okrug",
-        "ba": "Заечар округы",
         "be": "Заечарская акруга",
         "de": "Bezirk Zaječar",
         "fr": "Zaječar",
@@ -273,7 +258,6 @@
     },
     "16": {
         "en": "Zlatiborski okrug",
-        "ba": "Златибор округы",
         "be": "Златыборская акруга",
         "de": "Bezirk Zlatibor",
         "fr": "Zlatibor",
@@ -291,7 +275,6 @@
     },
     "17": {
         "en": "Moravički okrug",
-        "ba": "Моравица округы",
         "be": "Маравіцкая акруга",
         "de": "Bezirk Moraviča",
         "fr": "Moraviča",
@@ -309,7 +292,6 @@
     },
     "18": {
         "en": "Raški okrug",
-        "ba": "Рашка округы",
         "be": "Рашская акруга",
         "de": "Bezirk Raška",
         "fr": "Raška",
@@ -327,7 +309,6 @@
     },
     "19": {
         "en": "Rasinski okrug",
-        "ba": "Расина округы",
         "be": "Расінская акруга",
         "de": "Bezirk Rasina",
         "fr": "Rasina",
@@ -345,7 +326,6 @@
     },
     "20": {
         "en": "Nišavski okrug",
-        "ba": "Нишава округы",
         "be": "Нішаўская акруга",
         "de": "Bezirk Nišava",
         "fr": "Nišava",
@@ -362,7 +342,6 @@
     },
     "21": {
         "en": "Toplički okrug",
-        "ba": "Топлич округы",
         "be": "Топліцкая акруга",
         "de": "Bezirk Toplica",
         "fr": "Topliča",
@@ -380,7 +359,6 @@
     },
     "22": {
         "en": "Pirotski okrug",
-        "ba": "Пирот округы",
         "be": "Пірацкая акруга",
         "de": "Bezirk Pirot",
         "fr": "Pirot",
@@ -398,7 +376,6 @@
     },
     "23": {
         "en": "Jablanički okrug",
-        "ba": "Ябланица округы",
         "be": "Ябланіцкая акруга",
         "de": "Bezirk Jablaniča",
         "fr": "Jablaniča",
@@ -416,7 +393,6 @@
     },
     "24": {
         "en": "Pčinjski okrug",
-        "ba": "Пчиня округы",
         "be": "Пчыньская акруга",
         "de": "Bezirk Pčinja",
         "fr": "Pčinja",
@@ -433,7 +409,6 @@
     },
     "25": {
         "en": "Kosovski okrug",
-        "ba": "Косово округы",
         "be": "Косаўская акруга",
         "de": "Bezirk Kosovo",
         "fr": "Kosovo",
@@ -451,7 +426,6 @@
     },
     "26": {
         "en": "Pećki okrug",
-        "ba": "Печ округы",
         "be": "Печская акруга",
         "de": "Bezirk Peć",
         "fr": "Peć",
@@ -469,7 +443,6 @@
     },
     "27": {
         "en": "Prizrenski okrug",
-        "ba": "Призрен округы",
         "be": "Прызранская акруга",
         "de": "Bezirk Prizren",
         "fr": "Prizren",
@@ -488,7 +461,6 @@
     },
     "28": {
         "en": "Kosovsko-Mitrovački okrug",
-        "ba": "Косово-Митровица округы",
         "be": "Косаўска-Мітровіцкая акруга",
         "de": "Bezirk Kosovska Mitrovica",
         "fr": "Kosovo Mitroviča",
@@ -506,7 +478,6 @@
     },
     "29": {
         "en": "Kosovsko-Pomoravski okrug",
-        "ba": "Косово-Поморавье округы",
         "be": "Косаўска-Памараўская акруга",
         "de": "Bezirk Kosovo-Pomoravlje",
         "fr": "Kosovo-Pomoravlje",

@@ -1,7 +1,6 @@
 {
     "BN": {
         "en": "Northern Bahr el Ghazal",
-        "ba": "Төньяҡ Бахр-эль-Газаль",
         "eo": "Norda Rivero de Gazeloj",
         "fr": "Bahr el Ghazal du Nord",
         "ga": "Tuaisceart Bahr el Ghazal",
@@ -18,7 +17,6 @@
     },
     "BW": {
         "en": "Western Bahr el Ghazal",
-        "ba": "Көнбайыш Бахр-эль-Газаль",
         "eo": "Okcidenta Rivero de Gazeloj",
         "fr": "Bahr el Gazal occidental",
         "ga": "Iarthar Bahr el Ghazal",
@@ -35,7 +33,6 @@
     },
     "EC": {
         "en": "Central Equatoria",
-        "ba": "Үҙәк Экватория",
         "be": "Цэнтральная Экваторыя",
         "eo": "Centra Ekvatorio",
         "fr": "Équateur central",
@@ -53,7 +50,6 @@
     },
     "EE": {
         "en": "Eastern Equatoria",
-        "ba": "Көнсығыш Экватория",
         "be": "Усходняя Экваторыя",
         "eo": "Orienta Ekvatorio",
         "fr": "Équateur Oriental",
@@ -71,7 +67,6 @@
     },
     "EW": {
         "en": "Western Equatoria",
-        "ba": "Көнбайыш Экватория",
         "be": "Заходняя Экваторыя",
         "eo": "Okcidenta Ekvatorio",
         "fr": "Équateur occidental",
@@ -89,7 +84,6 @@
     },
     "JG": {
         "en": "Jonglei",
-        "ba": "Джонглий",
         "be": "Джонглій",
         "de": "Dschunqali",
         "he": "ג׳ונגליי",
@@ -100,7 +94,6 @@
     },
     "LK": {
         "en": "Lakes",
-        "ba": "Күлдәр",
         "be": "Азёрны",
         "eo": "Lagoj",
         "fr": "Lacs",
@@ -116,7 +109,6 @@
     },
     "NU": {
         "en": "Upper Nile",
-        "ba": "Үрге Нил",
         "be": "Верхні Ніл",
         "eo": "Supra Nilo",
         "fr": "Haut-Nil",
@@ -136,7 +128,6 @@
     },
     "UY": {
         "en": "Unity",
-        "ba": "Юнити",
         "be": "Юніці",
         "eo": "Unueco",
         "fr": "Unité",
@@ -153,7 +144,6 @@
     },
     "WR": {
         "en": "Warrap",
-        "ba": "Варрап",
         "be": "Вараб",
         "he": "ואראפ",
         "hi": "वार्रैप",

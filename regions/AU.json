@@ -1,7 +1,6 @@
 {
     "ACT": {
         "en": "Australian Capital Territory",
-        "ba": "Австралия баш ҡала территорияһы",
         "be": "Аўстралійская сталічная тэрыторыя",
         "cy": "Tiriogaeth Prifddinas Awstralia",
         "da": "Austalsk hovedstadsområde",
@@ -37,7 +36,6 @@
     },
     "NSW": {
         "en": "New South Wales",
-        "ba": "Яңы Көньяҡ Уэльс",
         "be": "Новы Паўднёвы Уэльс",
         "bg": "Нов Южен Уелс",
         "cy": "De Cymru Newydd",
@@ -70,7 +68,6 @@
     },
     "NT": {
         "en": "Northern Territory",
-        "ba": "Төньяҡ Территория",
         "be": "Паўночная тэрыторыя",
         "bg": "Северна територия",
         "cy": "Tiriogaeth y Gogledd",
@@ -106,7 +103,6 @@
     },
     "QLD": {
         "en": "Queensland",
-        "ba": "Квинсленд",
         "be": "Квінслэнд",
         "bg": "Куинсланд",
         "eo": "Kvinslando",
@@ -123,7 +119,6 @@
     },
     "SA": {
         "en": "South Australia",
-        "ba": "Көньяҡ Австралия",
         "be": "Паўднёвая Аўстралія",
         "bg": "Южна Австралия",
         "cy": "De Awstralia",
@@ -160,7 +155,6 @@
     },
     "TAS": {
         "en": "Tasmania",
-        "ba": "Тасмания",
         "be": "Тасманія",
         "bg": "Тасмания",
         "da": "Tasmanien",
@@ -191,7 +185,6 @@
     },
     "VIC": {
         "en": "Victoria",
-        "ba": "Виктория",
         "be": "Вікторыя",
         "bg": "Виктория",
         "el": "Βικτωρία",
@@ -213,7 +206,6 @@
     },
     "WA": {
         "en": "Western Australia",
-        "ba": "Көнбайыш Австралия",
         "be": "Заходняя Аўстралія",
         "bg": "Западна Австралия",
         "cy": "Gorllewin Awstralia",

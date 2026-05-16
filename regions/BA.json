@@ -1,7 +1,6 @@
 {
     "BIH": {
         "en": "Federacija Bosne i Hercegovine",
-        "ba": "Босния һәм Герцеговина Федерацияһы",
         "be": "Федэрацыя Босніі і Герцагавіны",
         "cy": "Bosnia-Hertsegofina",
         "de": "Föderation Bosnien und Herzegowina",
@@ -31,7 +30,6 @@
     },
     "SRP": {
         "en": "Republika Srpska",
-        "ba": "Серб Республикаһы",
         "be": "Рэспубліка Сербская",
         "bg": "Република Сръбска",
         "de": "Serbische Republik",

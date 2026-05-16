@@ -1,7 +1,6 @@
 {
     "02": {
         "en": "P'yǒngan-namdo",
-        "ba": "Көньяҡ Пхёнан",
         "hi": "प्योंगन-नामदो",
         "hu": "Dél-Pjongan tartomány",
         "ko": "평안남도",
@@ -13,7 +12,6 @@
     },
     "03": {
         "en": "P'yǒngan-bukto",
-        "ba": "Төньяҡ Пхёнан",
         "hi": "प्योंगन-बक्तो",
         "hu": "Észak-Pjongan tartomány",
         "ko": "평안북도",
@@ -25,7 +23,6 @@
     },
     "04": {
         "en": "Chagang-do",
-        "ba": "Чагандо",
         "be": "Чагандо",
         "hi": "चैगांग-डो",
         "hu": "Csagang tartomány",
@@ -44,7 +41,6 @@
     },
     "05": {
         "en": "Hwanghae-namdo",
-        "ba": "Көньяҡ Хванхэ",
         "be": "Хванхэ-Намдо",
         "fr": "Hwanghae méridional",
         "ga": "Hwanghe-Namdo",
@@ -62,7 +58,6 @@
     },
     "06": {
         "en": "Hwanghae-bukto",
-        "ba": "Төньяҡ Хванхэ",
         "be": "Хванхэ-Пукто",
         "de": "Hwanghae-pukto",
         "fr": "Hwanghae septentrional",
@@ -79,7 +74,6 @@
     },
     "07": {
         "en": "Kangweonto",
-        "ba": "Канвондо",
         "hi": "कांगवेन्तो",
         "hu": "Kangvon tartományra",
         "ko": "강원도",
@@ -91,7 +85,6 @@
     },
     "08": {
         "en": "Hamgyǒng-namdo",
-        "ba": "Көньяҡ Хамгён",
         "hi": "हाम्ग्योंग-नामदो",
         "hu": "Dél-Hamgjong tartomány",
         "ko": "함경남도",
@@ -103,7 +96,6 @@
     },
     "09": {
         "en": "Hamgyǒng-bukto",
-        "ba": "Төньяҡ Хамгён",
         "hi": "हाम्ग्यंग-बक्तो",
         "hu": "Észak-Hamgjong tartomány",
         "ko": "함경북도",
@@ -115,7 +107,6 @@
     },
     "10": {
         "en": "Ryanggang-do",
-        "ba": "Янгандо",
         "hi": "रयांगगांग-डो",
         "hu": "Rjanggang tartomány",
         "ka": "იანგან-დო",

@@ -1,7 +1,6 @@
 {
     "01": {
         "en": "Christ Church",
-        "ba": "Крайст-Чёрч",
         "be": "Крайст-Чорч",
         "eo": "Krist-Kirko",
         "ga": "Eaglais Chríost",
@@ -17,7 +16,6 @@
     },
     "02": {
         "en": "Saint Andrew",
-        "ba": "Сент-Эндрю",
         "be": "Сент-Андру",
         "cy": "Sant Andrew",
         "da": "Sankt Andrew",
@@ -37,7 +35,6 @@
     },
     "03": {
         "en": "Saint George",
-        "ba": "Сент-Джордж",
         "be": "Сент-Джордж",
         "cy": "San Siôr",
         "da": "Sankt George",
@@ -57,7 +54,6 @@
     },
     "04": {
         "en": "Saint James",
-        "ba": "Сент-Джеймс",
         "be": "Сент-Джэймс",
         "cy": "Sant James",
         "da": "Sankt James",
@@ -78,7 +74,6 @@
     },
     "05": {
         "en": "Saint John",
-        "ba": "Сент-Джон",
         "be": "Сент-Джон",
         "cy": "Sant Ioan",
         "da": "Sankt John",
@@ -98,7 +93,6 @@
     },
     "06": {
         "en": "Saint Joseph",
-        "ba": "Сент-Джозеф",
         "be": "Сент-Джозэф",
         "cy": "Sant Joseph",
         "da": "Sankt Joseph",
@@ -118,7 +112,6 @@
     },
     "07": {
         "en": "Saint Lucy",
-        "ba": "Сент-Люси",
         "be": "Сент-Люсі",
         "cy": "Santes Lucy",
         "da": "Sankt Lucy",
@@ -137,7 +130,6 @@
     },
     "08": {
         "en": "Saint Michael",
-        "ba": "Сент-Майкл",
         "be": "Сент-Мішэль",
         "cy": "Sant Michael",
         "da": "Sankt Michael",
@@ -156,7 +148,6 @@
     },
     "09": {
         "en": "Saint Peter",
-        "ba": "Сент-Питер",
         "be": "Сент-Пітэр",
         "cy": "Sant Pedr",
         "da": "Sankt Peter",
@@ -173,7 +164,6 @@
     },
     "10": {
         "en": "Saint Philip",
-        "ba": "Сент-Филип",
         "be": "Сент-Філіп",
         "cy": "Sant Philip",
         "da": "Sankt Philip",
@@ -190,7 +180,6 @@
     },
     "11": {
         "en": "Saint Thomas",
-        "ba": "Сент-Томас",
         "be": "Сент-Томас",
         "cy": "Sant Thomas",
         "da": "Sankt Thomas",

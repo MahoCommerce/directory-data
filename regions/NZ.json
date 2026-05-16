@@ -1,7 +1,6 @@
 {
     "AUK": {
         "en": "Auckland",
-        "ba": "Окленд",
         "be": "Окленд",
         "eo": "Aŭklando",
         "hi": "ऑकलैंड",
@@ -15,7 +14,6 @@
     },
     "BOP": {
         "en": "Bay of Plenty",
-        "ba": "Бей-оф-Пленти",
         "be": "Бей-оф-Пленты",
         "eo": "Golfo de Abundo",
         "fr": "Baie de Plenty",
@@ -32,7 +30,6 @@
     },
     "CAN": {
         "en": "Canterbury",
-        "ba": "Кентербери",
         "be": "Кентэрберы",
         "hi": "कैंटरबरी",
         "ja": "カンタベリー",
@@ -45,7 +42,6 @@
     },
     "GIS": {
         "en": "Gisborne",
-        "ba": "Гисборн",
         "hi": "गिस्बोर्न",
         "ka": "გისბორნი",
         "ta": "கிச்போர்ன்",
@@ -53,7 +49,6 @@
     },
     "HKB": {
         "en": "Hawke's Bay",
-        "ba": "Хокс-Бей",
         "be": "Хокс-Бей",
         "eo": "Golfo de Hawke",
         "fr": "Baie de Hawke",
@@ -67,7 +62,6 @@
     },
     "MBH": {
         "en": "Marlborough",
-        "ba": "Марлборо",
         "ga": "Maoilbhríde",
         "hi": "मार्लबोरो",
         "ka": "მარლბორო",
@@ -76,7 +70,6 @@
     },
     "MWT": {
         "en": "Manawatū-Whanganui",
-        "ba": "Манавату-Уангануи",
         "ga": "Croí-go-Broadway",
         "hi": "मनावातु-व्हांगानुई",
         "nl": "Manawatu-Wanganui",
@@ -86,7 +79,6 @@
     },
     "NSN": {
         "en": "Nelson",
-        "ba": "Нельсон",
         "hi": "नेल्सन",
         "ka": "ნელსონი",
         "ta": "நெல்சன்",
@@ -94,7 +86,6 @@
     },
     "NTL": {
         "en": "Northland",
-        "ba": "Нортленд",
         "be": "Нортленд",
         "eo": "Nordlando",
         "fr": "Pays du Nord",
@@ -113,7 +104,6 @@
     },
     "OTA": {
         "en": "Otago",
-        "ba": "Отаго",
         "be": "Атага",
         "hi": "ओटागो",
         "ja": "オターゴ",
@@ -125,7 +115,6 @@
     },
     "STL": {
         "en": "Southland",
-        "ba": "Саутленд",
         "be": "Саўтленд",
         "eo": "Sudlando",
         "fr": "Pays du Sud",
@@ -144,7 +133,6 @@
     },
     "TAS": {
         "en": "Tasman",
-        "ba": "Тасман",
         "hi": "तस्मान",
         "hu": "Tasmánia",
         "ka": "ტასმანია",
@@ -153,7 +141,6 @@
     },
     "TKI": {
         "en": "Taranaki",
-        "ba": "Таранаки",
         "be": "Таранакі",
         "hi": "टैरानाकी",
         "ka": "ტარანაკი",
@@ -163,7 +150,6 @@
     },
     "WGN": {
         "en": "Greater Wellington",
-        "ba": "Оло Веллингтон",
         "ga": "Mórcheantar Wellington",
         "hi": "ग्रेटर वेलिंगटन",
         "hu": "Nagy-Wellington régió",
@@ -175,7 +161,6 @@
     },
     "WKO": {
         "en": "Waikato",
-        "ba": "Уаикато",
         "be": "Вайката",
         "hi": "विकटो",
         "ja": "ワイカト",
@@ -186,7 +171,6 @@
     },
     "WTC": {
         "en": "West Coast",
-        "ba": "Уэст-Кост",
         "be": "Заходняе Узбярэжжа",
         "eo": "Okcidenta Marbordo",
         "fr": "Côte occidentale",

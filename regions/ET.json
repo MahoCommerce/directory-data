@@ -1,7 +1,6 @@
 {
     "AF": {
         "en": "Afar",
-        "ba": "Афар",
         "bg": "Афар",
         "eo": "Afaro",
         "hi": "अफ़ार",
@@ -12,7 +11,6 @@
     },
     "AM": {
         "en": "Amara",
-        "ba": "Амхара",
         "ga": "Searbh",
         "hi": "अमारा",
         "nl": "Amhara",
@@ -24,7 +22,6 @@
     },
     "BE": {
         "en": "Benshangul-Gumaz",
-        "ba": "Бенишангул-Гумуз",
         "hi": "बेनिशांगुल-गुमुज़",
         "hu": "Bensangul-Gumuz",
         "nl": "Benishangul-Gumuz",
@@ -36,7 +33,6 @@
     },
     "GA": {
         "en": "Gambela Peoples",
-        "ba": "Гамбела",
         "ga": "Pobail Gambela",
         "hi": "गम्बेला पीपल्स",
         "hu": "Gambela Népek",
@@ -48,7 +44,6 @@
     },
     "HA": {
         "en": "Harari People",
-        "ba": "Харари",
         "ga": "Daoine Harari",
         "hi": "हरारी लोग",
         "hu": "Harari nép",
@@ -60,7 +55,6 @@
     },
     "OR": {
         "en": "Oromia",
-        "ba": "Оромия",
         "hi": "ओरोमिया",
         "ru": "Оромия",
         "ta": "ஒரோமியா",
@@ -68,14 +62,12 @@
     },
     "SI": {
         "en": "Sidama",
-        "ba": "Сидама",
         "hi": "सिदामा",
         "ta": "சிடாமா",
         "uk": "Сідама"
     },
     "SN": {
         "en": "Southern Nations, Nationalities and Peoples",
-        "ba": "Көньяҡ милләттәр, халыҡтар һәм халыҡтар төбәге",
         "de": "Southern Nations, Nationalities und Peoples",
         "eo": "Sudaj Nacioj, Gentoj kaj Popoloj",
         "ga": "Náisiúin an Deiscirt, Náisiúntachtaí agus Pobail",
@@ -89,7 +81,6 @@
     },
     "SO": {
         "en": "Somali",
-        "ba": "Сомали",
         "ga": "An tSomáil",
         "hi": "सोमाली",
         "hu": "Szomália",
@@ -99,7 +90,6 @@
     },
     "SW": {
         "en": "Southwest Ethiopia Peoples",
-        "ba": "Көньяҡ-Көнбайыш Эфиопия халыҡтары",
         "ga": "Pobail Iardheisceart na hAetóipe",
         "hi": "दक्षिण पश्चिम इथियोपिया लोग",
         "hu": "Dél-nyugat-etiópiai Népek",
@@ -111,7 +101,6 @@
     },
     "TI": {
         "en": "Tigrai",
-        "ba": "Тыграй",
         "ga": "Tíogair",
         "hi": "तिगराई",
         "hu": "Tigré",

@@ -1,7 +1,6 @@
 {
     "VAN": {
         "en": "Antwerpen",
-        "ba": "Антверпен",
         "be": "Антверпен",
         "bg": "Антверпен",
         "cy": "Antwerp",
@@ -23,7 +22,6 @@
     },
     "VBR": {
         "en": "Vlaams-Brabant",
-        "ba": "Фламанд Брабанты",
         "be": "Фламандскі Брабант",
         "de": "Flämisch-Brabant",
         "eo": "Flandrio-Brabanto",
@@ -46,7 +44,6 @@
     },
     "VLI": {
         "en": "Limburg",
-        "ba": "Лимбург",
         "be": "Лімбург",
         "eo": "Limburgo",
         "fr": "Limourg",
@@ -65,7 +62,6 @@
     },
     "VOV": {
         "en": "Oost-Vlaanderen",
-        "ba": "Көнсығыш Фландрия",
         "be": "Усходняя Фландрыя",
         "da": "Østflandern",
         "de": "Ostflandern",
@@ -90,7 +86,6 @@
     },
     "VWV": {
         "en": "West-Vlaanderen",
-        "ba": "Көнбайыш Фландрия",
         "be": "Заходняя Фландрыя",
         "da": "Vestflandern",
         "de": "Westflandern",
@@ -115,7 +110,6 @@
     },
     "WBR": {
         "en": "Brabant wallon",
-        "ba": "Валлон Брабанты",
         "be": "Валонскі Брабант",
         "cy": "Brabant Walonaidd",
         "de": "Wallonisch-Brabant",
@@ -138,7 +132,6 @@
     },
     "WHT": {
         "en": "Hainaut",
-        "ba": "Эно",
         "be": "Эно",
         "de": "Hennegau",
         "he": "אנו",
@@ -154,7 +147,6 @@
     },
     "WLG": {
         "en": "Liège",
-        "ba": "Льеж",
         "be": "Льеж",
         "bg": "Лиеж",
         "de": "Lüttich",
@@ -177,7 +169,6 @@
     },
     "WLX": {
         "en": "Luxembourg",
-        "ba": "Люксембург",
         "be": "Люксембург",
         "bg": "Люксембург",
         "cy": "Lwcsembwrg",
@@ -219,7 +210,6 @@
     },
     "WNA": {
         "en": "Namur",
-        "ba": "Намюр",
         "be": "Намюр",
         "he": "נאמור",
         "hi": "नामुर",
