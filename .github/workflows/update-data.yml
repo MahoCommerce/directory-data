@@ -23,7 +23,7 @@ jobs:
           owner: MahoCommerce
 
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           token: ${{ steps.generate_token.outputs.token }}
           fetch-depth: 0
