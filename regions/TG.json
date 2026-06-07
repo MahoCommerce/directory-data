@@ -6,6 +6,7 @@
         "ga": "Lárnach",
         "hi": "सेंट्रेल",
         "hu": "Közép-afrikai Köztársaság",
+        "lo": "ພາກກາງ",
         "ro": "Regiunea Centrale",
         "ta": "மைய",
         "uk": "Сентрале"
@@ -14,6 +15,7 @@
         "en": "Kara",
         "ba": "Кара",
         "hi": "कारा",
+        "lo": "ຄາຣາ",
         "ta": "காரா",
         "uk": "Кара"
     },
@@ -24,6 +26,7 @@
         "ga": "Muirí (réigiún)",
         "hi": "समुद्री (क्षेत्र)",
         "hu": "Tengerentúli (Régió)",
+        "lo": "ມາຣິທິມ",
         "nl": "Maritime",
         "pl": "Maritime",
         "ro": "Regiunea Maritime",
@@ -40,6 +43,7 @@
         "hu": "Fennsíkok",
         "it": "Altopiani (Congo)",
         "ja": "プラトー",
+        "lo": "ພລາໂຕ",
         "lt": "Plynaukštė",
         "sc": "Artipranos",
         "sr": "Плато",
@@ -51,6 +55,7 @@
         "ba": "Саван",
         "eo": "Savanoj",
         "hi": "सवानेस",
+        "lo": "ຊາວານ",
         "ta": "சவேன்ச்",
         "uk": "Саван"
     }

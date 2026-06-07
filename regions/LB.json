@@ -1,17 +1,10 @@
 {
     "AK": {
-        "en": "Aakkâr",
-        "ba": "Аккар",
-        "be": "Аакар",
-        "hi": "ऐक्कर",
-        "it": "Akkar",
-        "nl": "Akkar",
-        "pl": "Akkar",
-        "ro": "Akkar",
-        "sr": "Акар",
-        "ta": "Akkâர்",
-        "tr": "Aakkar",
-        "uk": "Ааккар"
+        "en": "‘Akkār",
+        "ga": "‘Akkar",
+        "lo": "ອັກກາ",
+        "ro": "Guvernoratul Akkar",
+        "uk": "Аккар"
     },
     "AS": {
         "en": "Ash Shimāl",
@@ -19,9 +12,10 @@
         "eo": "Nordo",
         "hi": "ऐश शिमाल",
         "hu": "Észak-Ash",
+        "lo": "ອັດ ຊິມານ",
         "nl": "Noord-Libanon",
         "pl": "Dystrykt Północny",
-        "ro": "Libanul de Nord",
+        "ro": "Guvernoratul Libanul de Nord",
         "ta": "ஆச் சிம்ல்",
         "uk": "Аш-Шималь"
     },
@@ -31,22 +25,19 @@
         "eo": "Bejruto",
         "hi": "बायरूट",
         "hu": "Bejrút",
+        "lo": "ເບຣຸດ",
         "nl": "Beiroet",
         "pl": "Bejrut",
-        "ro": "Beirut",
+        "ro": "Guvernoratul Beirut",
         "ta": "பேரட்",
         "uk": "Бейрут"
     },
     "BH": {
-        "en": "Baalbek-Hermel",
-        "ba": "Баальбек-Хермель",
-        "be": "Баальбек-Хермель",
-        "hi": "बाल्बेक-हेर्मेल",
-        "ja": "バールベック",
-        "pl": "Baalbek-Al-Hirmil",
-        "sr": "Балбек-Хермел",
-        "ta": "பால்பெக்-எர்மல்",
-        "uk": "Баальбек-Хермель"
+        "en": "B‘alabak-Al Hirmil",
+        "ga": "Leanaí-Al Hirmil",
+        "lo": "ບາລະບັກ-ອັນ ເຮີມິລ",
+        "ro": "Guvernoratul Baalbek-Hermel",
+        "uk": "Баальбек-аль-Хірміл"
     },
     "BI": {
         "en": "Al Biqā‘",
@@ -54,9 +45,10 @@
         "ga": "Al Biqā'",
         "hi": "अल बिका",
         "hu": "Al-Bikaáʿ",
+        "lo": "ອັນ ບິກາ",
         "nl": "Bekavallei",
         "pl": "Bekaa",
-        "ro": "Beqaa",
+        "ro": "Guvernoratul Beqaa",
         "ta": "அல் பிகே ‘",
         "uk": "Ель-Біка"
     },
@@ -65,9 +57,10 @@
         "ba": "Көньяҡ Ливан",
         "eo": "Sudo",
         "hi": "अल जानूब",
+        "lo": "ອັນ ຈານູບ",
         "nl": "Zuid-Libanon",
         "pl": "Dystrykt Południowy",
-        "ro": "Libanul de Sud",
+        "ro": "Guvernoratul Libanul de Sud",
         "ta": "அல் சானப்",
         "uk": "Південний Ліван"
     },
@@ -77,9 +70,10 @@
         "eo": "Monto Lebanono",
         "hi": "जबल लुब्नान",
         "hu": "Libanon-hegység",
+        "lo": "ຈາບານ ລູບນານ",
         "nl": "Libanongebergte",
         "pl": "Góry Liban",
-        "ro": "Munții Liban",
+        "ro": "Guvernoratul Munții Liban",
         "ta": "சபல் லுபன்",
         "uk": "Гора Ліван"
     },
@@ -88,9 +82,10 @@
         "ba": "Эн-Набатия",
         "hi": "एन नबाशियह",
         "hu": "An-Nabatiyah",
+        "lo": "ອັນ ນາບາຕິຢາ",
         "nl": "Nabatiye",
         "pl": "An-Nabatijja",
-        "ro": "Nabatiye",
+        "ro": "Guvernoratul Nabatiye",
         "ta": "ஒரு நபாசாயா",
         "uk": "Набатія"
     }

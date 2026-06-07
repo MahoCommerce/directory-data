@@ -4,6 +4,7 @@
         "ba": "Мба",
         "ga": "Triúr",
         "hi": "बा",
+        "lo": "ບາ",
         "ta": "பி.ஏ.",
         "uk": "Ба"
     },
@@ -11,6 +12,7 @@
         "en": "Bua",
         "ba": "Мбуа",
         "hi": "बुआ",
+        "lo": "ບົວ",
         "ta": "புவா",
         "uk": "Буа"
     },
@@ -18,6 +20,7 @@
         "en": "Cakaudrove",
         "ba": "Такаундрове",
         "hi": "काकाउड्रोव",
+        "lo": "ກາກອດໂຣຟ",
         "ta": "காகாட்ரோவ்",
         "uk": "Какаудрове"
     },
@@ -26,6 +29,7 @@
         "ba": "Кандаву",
         "ga": "KadavuGeneric",
         "hi": "कदवु",
+        "lo": "ກາດາວູ",
         "ta": "கடவ்",
         "uk": "Кадаву"
     },
@@ -33,6 +37,7 @@
         "en": "Lau",
         "ba": "Лау",
         "hi": "लाउ",
+        "lo": "ເລົາ",
         "ta": "லாவ்",
         "uk": "Лау"
     },
@@ -40,6 +45,7 @@
         "en": "Lomaiviti",
         "ba": "Ломаивичи",
         "hi": "लोमैविति",
+        "lo": "ໂລໄມວິຕິ",
         "ta": "லோமிவிட்டி",
         "uk": "Ломаівіті"
     },
@@ -47,6 +53,7 @@
         "en": "Macuata",
         "ba": "Матуата",
         "hi": "मैकुआटा",
+        "lo": "ມາກົວຕາ",
         "ta": "மாகுவாட்டா",
         "uk": "Макуата"
     },
@@ -57,6 +64,7 @@
         "ga": "Nadroga agus Navosa",
         "hi": "नाद्रोगा और नवोसा",
         "hu": "Nadroga és Navosa",
+        "lo": "ນາໂດຣກາ ແລະ ນາໂວຊາ",
         "nl": "Nadroga-Navosa",
         "pl": "Nadroga-Navosa",
         "ro": "Nadroga și Navosa",
@@ -67,6 +75,7 @@
         "en": "Naitasiri",
         "ba": "Найтасири",
         "hi": "नैतासिरी",
+        "lo": "ໄນຕາຊິຣິ",
         "ta": "நைதாசிரி",
         "uk": "Найтасірі"
     },
@@ -74,6 +83,7 @@
         "en": "Namosi",
         "ba": "Намоси",
         "hi": "नमोसी",
+        "lo": "ນາໂມຊິ",
         "ta": "நமோசி",
         "uk": "Намосі"
     },
@@ -81,6 +91,7 @@
         "en": "Ra",
         "ba": "Ра",
         "hi": "रा",
+        "lo": "ຣາ",
         "ta": "ஆர்.ஏ.",
         "uk": "Ра"
     },
@@ -88,12 +99,14 @@
         "en": "Rewa",
         "ba": "Рева",
         "hi": "रीवा",
+        "lo": "ເຣວາ",
         "uk": "Рева"
     },
     "13": {
         "en": "Serua",
         "ba": "Серуа",
         "hi": "सेरूआ",
+        "lo": "ເຊຣົວ",
         "ta": "சேருவா",
         "uk": "Серуа"
     },
@@ -101,6 +114,7 @@
         "en": "Tailevu",
         "ba": "Тайлеву",
         "hi": "तैलीवु",
+        "lo": "ໄຕເລວູ",
         "ta": "டெய்லேவ்",
         "uk": "Тайлеву"
     },
@@ -118,6 +132,7 @@
         "it": "Centrale",
         "ja": "セントラル",
         "ka": "ცენტრალური",
+        "lo": "ພາກກາງ",
         "lt": "Centrinis rajonas",
         "pl": "Centralny \/ Centralna",
         "ro": "Districtul Central",
@@ -144,6 +159,7 @@
         "is": "Austur",
         "it": "Orientale",
         "ka": "აღმოსავლეთი",
+        "lo": "ພາກຕາເວັນອອກ",
         "lt": "Rytinis Fidžio padalinys",
         "nl": "Oost",
         "pl": "Dystrykt Wschodni \/ Region Wschodni \/ Prowincja Wschodnia",
@@ -170,6 +186,7 @@
         "is": "Norður",
         "it": "Settentrionale",
         "ka": "ჩრდილო",
+        "lo": "ພາກເໜືອ",
         "lt": "Šiaurinis Fidžio padalinys",
         "pl": "Dystrykt Północny \/ Region Północny \/ Prowincja Północna",
         "ro": "Nordică",
@@ -195,6 +212,7 @@
         "is": "Vestur",
         "it": "Occidentale",
         "ka": "დასავლური",
+        "lo": "ພາກຕາເວັນຕົກ",
         "lt": "Vakarinis Fidžio padalinys",
         "pl": "Dystrykt Zachodni \/ Region Zachodni \/ Western Division \/ Prowincja Zachodnia",
         "ro": "Occidentală",

@@ -3,6 +3,7 @@
         "en": "Anjouan",
         "ba": "Анжуан",
         "hi": "ऐंजुआन",
+        "lo": "ອັນຈູອັນ",
         "ro": "Insula Anjouan",
         "ta": "அஞ்சோவன்",
         "uk": "Анжуан"
@@ -10,9 +11,12 @@
     "G": {
         "en": "Grande Comore",
         "ba": "Гранд-Комор",
+        "ca": "Gran Comore",
         "ga": "Comoros Mór",
         "hi": "ग्रांडे कोमोर",
         "hu": "Nagy-Komoró",
+        "ka": "ნგაზიჯა",
+        "lo": "ແກຣນ ໂຄໂມ",
         "pl": "Wielki Komor",
         "ro": "Insula Grande Comore",
         "ta": "கிராண்டே கோமோர்",
@@ -22,6 +26,7 @@
         "en": "Mohéli",
         "ba": "Мохели",
         "hi": "मोहेली",
+        "lo": "ໂມເຮລີ",
         "ro": "Insula Mohéli",
         "ta": "மொஎலி",
         "uk": "Мохелі"

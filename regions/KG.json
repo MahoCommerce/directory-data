@@ -7,6 +7,7 @@
         "hi": "बैटकेन",
         "ja": "バトケン",
         "ka": "ბატკენი",
+        "lo": "ບັດເກນ",
         "lt": "Batkeno sritis",
         "nl": "Batken, Provincie",
         "pl": "obwód batkeński",
@@ -16,27 +17,16 @@
         "zh_CN": "巴特肯州"
     },
     "C": {
-        "en": "Chuyskaya oblast'",
-        "ba": "Чуй өлкәһе",
-        "ga": "Oblast Chuyskaya'",
-        "hi": "चुयस्काया ओब्लास्ट'",
-        "hu": "Csuj terület",
-        "nl": "Tsjoej, Provincie",
-        "pl": "obwód czujski",
+        "en": "Chüy",
+        "ga": "Chuy",
+        "lo": "ຈຸຍ",
         "ro": "Ciui",
-        "ta": "சூயிச்கயா ஒப்லாச்ட்'",
         "uk": "Чуйська область"
     },
     "J": {
-        "en": "Dzhalal-Abadskaya oblast'",
-        "ba": "Джалал-Абад өлкәһе",
-        "ga": "Oblast Dzhalal-Abadskaya'",
-        "hi": "दज़लाल-अबदस्काया ओब्लास्ट'",
-        "hu": "Dzsalal-Abad terület",
-        "nl": "Dzjalal-Abad, Provincie",
-        "pl": "obwód dżalalabadzki",
-        "ro": "Jalal-Abad",
-        "ta": "டசாலால்-அபட்ச்கயா ஒப்லாச்ட்'",
+        "en": "Jalal-Abad",
+        "lo": "ຈາລາລ-ອາບັດ",
+        "ro": "Jalal-Abad (Jalalabad)",
         "uk": "Джалал-Абадська область"
     },
     "N": {
@@ -48,6 +38,7 @@
         "hu": "Narin",
         "ja": "ナルイン",
         "ka": "ნარინი",
+        "lo": "ນາຣິນ",
         "lt": "Naryno sritis",
         "nl": "Naryn, Provincie",
         "pl": "obwód naryński",
@@ -68,6 +59,7 @@
         "hi": "ओश",
         "ja": "オシ",
         "ka": "ოში",
+        "lo": "ອອດຊ",
         "lt": "Ošo sritis",
         "nl": "Oš, Provincie",
         "pl": "obwód oszyński",
@@ -86,6 +78,7 @@
         "hi": "तलास",
         "ja": "タラス",
         "ka": "ტალასი",
+        "lo": "ຕາລັດ",
         "lt": "Talaso sritis",
         "nl": "Talas, Provincie",
         "pl": "obwód tałaski",
@@ -95,15 +88,9 @@
         "zh_CN": "塔拉斯州"
     },
     "Y": {
-        "en": "Issyk-Kul'skaja oblast'",
-        "ba": "Иссыҡ-Күл өлкәһе",
-        "ga": "Oblast Issyk-Kul'skaya'",
-        "hi": "इस्सिक-कुल'स्काजा ओब्लास्ट'",
-        "hu": "Iszik-Köl terület",
-        "nl": "Ysykköl, Provincie",
-        "pl": "obwód issykkulski",
+        "en": "Ysyk-Köl",
+        "lo": "ອິສຊິກ-ໂຄລ",
         "ro": "Issâk-Kul",
-        "ta": "உசிக்-குல்ச்காசா ஒப்லாச்ட்'",
         "uk": "Іссик-Кульська область"
     }
 }

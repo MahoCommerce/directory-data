@@ -8,6 +8,7 @@
         "he": "אנסבה",
         "hi": "अंसबा",
         "it": "Regione dell'Anseba",
+        "lo": "ອັນຊາບາ",
         "nl": "Anseba",
         "pl": "Anseba",
         "ro": "Anseba",
@@ -16,16 +17,11 @@
         "uk": "Ансеба"
     },
     "DK": {
-        "en": "Debubawi K’eyyĭḥ Baḥri",
-        "ba": "Дэбуб-Кэй-Бахри",
-        "ga": "Debubawi K'eyyĭḥ Baḥri",
-        "hi": "देबुबावी केयेयि बबरी",
-        "hu": "Dél-öböl régió",
-        "nl": "Debubawi Keyih Bahri",
-        "pl": "Region Południowy Morza Czerwonego",
-        "ro": "Debubawi Keyih Bahri",
-        "ta": "Debubawi k’eyyĭ baḥri",
-        "uk": "Південна Червоного Моря"
+        "en": "Janūbī al Baḩrī al Aḩmar",
+        "ga": "Muir Rua Theas",
+        "lo": "ຈານູບີ ອັນ ບາຣີ ອັນ ອາມາ",
+        "ro": "Debubawi Keyih Bahri (Marea Roșie de Sud)",
+        "uk": "Дженупі аль-Бахрі аль-Ахмар"
     },
     "DU": {
         "en": "Al Janūbī",
@@ -34,6 +30,7 @@
         "he": "הדרום",
         "hi": "अल जनुबी",
         "it": "Regione del Sud",
+        "lo": "ອັນ ຈານູບີ",
         "nl": "Debub",
         "pl": "Region Południowy",
         "ro": "Debub (Sudică)",
@@ -44,13 +41,10 @@
         "uk": "Південна"
     },
     "GB": {
-        "en": "Gash-Barka",
-        "ba": "Гаш-Барка",
-        "hi": "ग़श-बर्क",
-        "pl": "Gasz-Barka",
-        "ru": "Гаш-Барка",
-        "ta": "காச்-பார்கா",
-        "uk": "Гаш-Барка"
+        "en": "Qāsh-Barkah",
+        "lo": "ກາສ-ບາກະ",
+        "ro": "Gash-Barka",
+        "uk": "Каш-Барка"
     },
     "MA": {
         "en": "Al Awsaţ",
@@ -59,6 +53,7 @@
         "he": "המרכז",
         "hi": "अल औसत",
         "it": "Regione centrale",
+        "lo": "ອັນ ອາວຊັດ",
         "nl": "Maekel",
         "pl": "Region Centralny",
         "ro": "Maekel (Centrală)",
@@ -68,14 +63,10 @@
         "uk": "Східна"
     },
     "SK": {
-        "en": "Semienawi K’eyyĭḥ Baḥri",
-        "ba": "Сэмиэн-Кэй-Бахри",
-        "ga": "Semienawi K'eyyĭḥ Baḥri",
-        "hi": "सेमियेनावी केयेयि बबरी",
-        "hu": "Észak-Vörös-tenger régió",
-        "nl": "Semenawi Keyih Bahri",
-        "pl": "Region Północny Morza Czerwonego",
-        "ta": "செமியெனாவி k’eyyĭ baḥri",
-        "uk": "Північна Червоного Моря"
+        "en": "Shimālī al Baḩrī al Aḩmar",
+        "ga": "Muir Thuaidh Muir Rua",
+        "lo": "ຊິມາລີ ອັນ ບາຣີ ອັນ ອາມາ",
+        "ro": "Semien-Keih-Bahri",
+        "uk": "Шімалі аль-Бахрі аль-Ахмар"
     }
 }
