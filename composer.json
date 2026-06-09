@@ -38,5 +38,10 @@
         "maho",
         "mahocommerce",
         "ecommerce"
-    ]
+    ],
+    "config": {
+        "platform": {
+            "php": "8.3"
+        }
+    }
 }
