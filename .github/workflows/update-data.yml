@@ -16,20 +16,20 @@ jobs:
     steps:
       - name: Generate token
         id: generate_token
-        uses: actions/create-github-app-token@v3
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
         with:
           app-id: ${{ secrets.SYNC_L10N_APP_ID }}
           private-key: ${{ secrets.SYNC_L10N_APP_PRIVATE_KEY }}
           owner: MahoCommerce
 
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           token: ${{ steps.generate_token.outputs.token }}
           fetch-depth: 0
 
       - name: Setup PHP
-        uses: shivammathur/setup-php@2.37.1
+        uses: shivammathur/setup-php@7c071dfe9dc99bdf297fa79cb49ea005b9fcadbc # 2.37.1
         with:
           php-version: 'latest'
           extensions: intl, mbstring, json
