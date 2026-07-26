@@ -7,9 +7,9 @@
         "languages": "ko",
         "fmt": "%Z%n%S%n%C%n%A%n%O%n%N",
         "lfmt": "%N%n%O%n%A%n%C%n%S, %Z",
-        "sub_keys": "강원도~라선 특별시~량강도~자강도~평안 남도~평안 북도~평양 직할시~함경 남도~함경 북도~황해남도~황해북도",
-        "sub_lnames": "Kangwon~Rason~Ryanggang~Chagang~South Pyongan~North Pyongan~Pyongyang~South Hamgyong~North Hamgyong~South Hwanghae~North Hwanghae",
-        "sub_isoids": "07~13~10~04~02~03~01~08~09~05~06"
+        "sub_keys": "강원도~개성시~남포시~라선 특별시~량강도~자강도~평안 남도~평안 북도~평양 직할시~함경 남도~함경 북도~황해남도~황해북도",
+        "sub_lnames": "Kangwon~Kaesong~Nampo~Rason~Ryanggang~Chagang~South Pyongan~North Pyongan~Pyongyang~South Hamgyong~North Hamgyong~South Hwanghae~North Hwanghae",
+        "sub_isoids": "07~15~14~13~10~04~02~03~01~08~09~05~06"
     },
     "subdivisions": {
         "강원도": {
@@ -18,6 +18,20 @@
             "lang": "ko",
             "lname": "Kangwon",
             "isoid": "07"
+        },
+        "개성시": {
+            "id": "data\/KP\/개성시",
+            "key": "개성시",
+            "lang": "ko",
+            "lname": "Kaesong",
+            "isoid": "15"
+        },
+        "남포시": {
+            "id": "data\/KP\/남포시",
+            "key": "남포시",
+            "lang": "ko",
+            "lname": "Nampo",
+            "isoid": "14"
         },
         "라선 특별시": {
             "id": "data\/KP\/라선 특별시",

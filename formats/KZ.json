@@ -3,9 +3,295 @@
         "id": "data\/KZ",
         "key": "KZ",
         "name": "KAZAKHSTAN",
+        "lang": "kk",
+        "languages": "kk~ru",
         "fmt": "%Z%n%S%n%C%n%A%n%O%n%N",
         "zip": "\\d{6}",
-        "zipex": "040900,050012"
+        "zipex": "040900,050012",
+        "sub_keys": "Абай облысы~Ақмола облысы~Ақтөбе облысы~Алматы~Алматы облысы~Астана~Атырау облысы~Батыс Қазақстан облысы~Жамбыл облысы~Жетісу облысы~Қарағанды облысы~Қостанай облысы~Қызылорда облысы~Маңғыстау облысы~Павлодар облысы~Солтүстік Қазақстан облысы~Түркістан облысы~Ұлытау облысы~Шығыс Қазақстан облысы~Шымкент",
+        "sub_lnames": "Abai Region~Akmola Region~Aktobe Region~Almaty~Almaty Region~Astana~Atyrau Region~West Kazakhstan Region~Jambyl Region~Jetisu Region~Karaganda Region~Kostanay Region~Kyzylorda Region~Mangystau Region~Pavlodar Region~North Kazakhstan Region~Turkistan Region~Ulytau Region~East Kazakhstan Region~Shymkent",
+        "sub_isoids": "10~11~15~75~19~71~23~27~31~33~35~39~43~47~55~59~61~62~63~79"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Абай облысы": {
+            "id": "data\/KZ\/Абай облысы",
+            "key": "Абай облысы",
+            "lang": "kk",
+            "lname": "Abai Region",
+            "isoid": "10"
+        },
+        "Абайская область--ru": {
+            "id": "data\/KZ\/Абайская область--ru",
+            "key": "Абайская область",
+            "lang": "ru",
+            "lname": "Abai Region",
+            "isoid": "10"
+        },
+        "Акмолинская область--ru": {
+            "id": "data\/KZ\/Акмолинская область--ru",
+            "key": "Акмолинская область",
+            "lang": "ru",
+            "lname": "Akmola Region",
+            "isoid": "11"
+        },
+        "Актюбинская область--ru": {
+            "id": "data\/KZ\/Актюбинская область--ru",
+            "key": "Актюбинская область",
+            "lang": "ru",
+            "lname": "Aktobe Region",
+            "isoid": "15"
+        },
+        "Алматинская область--ru": {
+            "id": "data\/KZ\/Алматинская область--ru",
+            "key": "Алматинская область",
+            "lang": "ru",
+            "lname": "Almaty Region",
+            "isoid": "19"
+        },
+        "Алматы": {
+            "id": "data\/KZ\/Алматы",
+            "key": "Алматы",
+            "lang": "kk",
+            "lname": "Almaty",
+            "isoid": "75"
+        },
+        "Алматы облысы": {
+            "id": "data\/KZ\/Алматы облысы",
+            "key": "Алматы облысы",
+            "lang": "kk",
+            "lname": "Almaty Region",
+            "isoid": "19"
+        },
+        "Алматы--ru": {
+            "id": "data\/KZ\/Алматы--ru",
+            "key": "Алматы",
+            "lang": "ru",
+            "lname": "Almaty",
+            "isoid": "75"
+        },
+        "Астана": {
+            "id": "data\/KZ\/Астана",
+            "key": "Астана",
+            "lang": "kk",
+            "lname": "Astana",
+            "isoid": "71"
+        },
+        "Астана--ru": {
+            "id": "data\/KZ\/Астана--ru",
+            "key": "Астана",
+            "lang": "ru",
+            "lname": "Astana",
+            "isoid": "71"
+        },
+        "Атырау облысы": {
+            "id": "data\/KZ\/Атырау облысы",
+            "key": "Атырау облысы",
+            "lang": "kk",
+            "lname": "Atyrau Region",
+            "isoid": "23"
+        },
+        "Атырауская область--ru": {
+            "id": "data\/KZ\/Атырауская область--ru",
+            "key": "Атырауская область",
+            "lang": "ru",
+            "lname": "Atyrau Region",
+            "isoid": "23"
+        },
+        "Ақмола облысы": {
+            "id": "data\/KZ\/Ақмола облысы",
+            "key": "Ақмола облысы",
+            "lang": "kk",
+            "lname": "Akmola Region",
+            "isoid": "11"
+        },
+        "Ақтөбе облысы": {
+            "id": "data\/KZ\/Ақтөбе облысы",
+            "key": "Ақтөбе облысы",
+            "lang": "kk",
+            "lname": "Aktobe Region",
+            "isoid": "15"
+        },
+        "Батыс Қазақстан облысы": {
+            "id": "data\/KZ\/Батыс Қазақстан облысы",
+            "key": "Батыс Қазақстан облысы",
+            "lang": "kk",
+            "lname": "West Kazakhstan Region",
+            "isoid": "27"
+        },
+        "Восточно-Казахстанская область--ru": {
+            "id": "data\/KZ\/Восточно-Казахстанская область--ru",
+            "key": "Восточно-Казахстанская область",
+            "lang": "ru",
+            "lname": "East Kazakhstan Region",
+            "isoid": "63"
+        },
+        "Жамбыл облысы": {
+            "id": "data\/KZ\/Жамбыл облысы",
+            "key": "Жамбыл облысы",
+            "lang": "kk",
+            "lname": "Jambyl Region",
+            "isoid": "31"
+        },
+        "Жамбылская область--ru": {
+            "id": "data\/KZ\/Жамбылская область--ru",
+            "key": "Жамбылская область",
+            "lang": "ru",
+            "lname": "Jambyl Region",
+            "isoid": "31"
+        },
+        "Жетысуская область--ru": {
+            "id": "data\/KZ\/Жетысуская область--ru",
+            "key": "Жетысуская область",
+            "lang": "ru",
+            "lname": "Jetisu Region",
+            "isoid": "33"
+        },
+        "Жетісу облысы": {
+            "id": "data\/KZ\/Жетісу облысы",
+            "key": "Жетісу облысы",
+            "lang": "kk",
+            "lname": "Jetisu Region",
+            "isoid": "33"
+        },
+        "Западно-Казахстанская область--ru": {
+            "id": "data\/KZ\/Западно-Казахстанская область--ru",
+            "key": "Западно-Казахстанская область",
+            "lang": "ru",
+            "lname": "West Kazakhstan Region",
+            "isoid": "27"
+        },
+        "Карагандинская область--ru": {
+            "id": "data\/KZ\/Карагандинская область--ru",
+            "key": "Карагандинская область",
+            "lang": "ru",
+            "lname": "Karaganda Region",
+            "isoid": "35"
+        },
+        "Костанайская область--ru": {
+            "id": "data\/KZ\/Костанайская область--ru",
+            "key": "Костанайская область",
+            "lang": "ru",
+            "lname": "Kostanay Region",
+            "isoid": "39"
+        },
+        "Кызылординская область--ru": {
+            "id": "data\/KZ\/Кызылординская область--ru",
+            "key": "Кызылординская область",
+            "lang": "ru",
+            "lname": "Kyzylorda Region",
+            "isoid": "43"
+        },
+        "Мангистауская область--ru": {
+            "id": "data\/KZ\/Мангистауская область--ru",
+            "key": "Мангистауская область",
+            "lang": "ru",
+            "lname": "Mangystau Region",
+            "isoid": "47"
+        },
+        "Маңғыстау облысы": {
+            "id": "data\/KZ\/Маңғыстау облысы",
+            "key": "Маңғыстау облысы",
+            "lang": "kk",
+            "lname": "Mangystau Region",
+            "isoid": "47"
+        },
+        "Павлодар облысы": {
+            "id": "data\/KZ\/Павлодар облысы",
+            "key": "Павлодар облысы",
+            "lang": "kk",
+            "lname": "Pavlodar Region",
+            "isoid": "55"
+        },
+        "Павлодарская область--ru": {
+            "id": "data\/KZ\/Павлодарская область--ru",
+            "key": "Павлодарская область",
+            "lang": "ru",
+            "lname": "Pavlodar Region",
+            "isoid": "55"
+        },
+        "Северо-Казахстанская область--ru": {
+            "id": "data\/KZ\/Северо-Казахстанская область--ru",
+            "key": "Северо-Казахстанская область",
+            "lang": "ru",
+            "lname": "North Kazakhstan Region",
+            "isoid": "59"
+        },
+        "Солтүстік Қазақстан облысы": {
+            "id": "data\/KZ\/Солтүстік Қазақстан облысы",
+            "key": "Солтүстік Қазақстан облысы",
+            "lang": "kk",
+            "lname": "North Kazakhstan Region",
+            "isoid": "59"
+        },
+        "Түркістан облысы": {
+            "id": "data\/KZ\/Түркістан облысы",
+            "key": "Түркістан облысы",
+            "lang": "kk",
+            "lname": "Turkistan Region",
+            "isoid": "61"
+        },
+        "Улытауская область--ru": {
+            "id": "data\/KZ\/Улытауская область--ru",
+            "key": "Улытауская область",
+            "lang": "ru",
+            "lname": "Ulytau Region",
+            "isoid": "62"
+        },
+        "Шымкент": {
+            "id": "data\/KZ\/Шымкент",
+            "key": "Шымкент",
+            "lang": "kk",
+            "lname": "Shymkent",
+            "isoid": "79"
+        },
+        "Шымкент--ru": {
+            "id": "data\/KZ\/Шымкент--ru",
+            "key": "Шымкент",
+            "lang": "ru",
+            "lname": "Shymkent",
+            "isoid": "79"
+        },
+        "Шығыс Қазақстан облысы": {
+            "id": "data\/KZ\/Шығыс Қазақстан облысы",
+            "key": "Шығыс Қазақстан облысы",
+            "lang": "kk",
+            "lname": "East Kazakhstan Region",
+            "isoid": "63"
+        },
+        "Южно-Казахстанская область--ru": {
+            "id": "data\/KZ\/Южно-Казахстанская область--ru",
+            "key": "Южно-Казахстанская область",
+            "lang": "ru",
+            "lname": "Turkistan Region",
+            "isoid": "61"
+        },
+        "Қарағанды облысы": {
+            "id": "data\/KZ\/Қарағанды облысы",
+            "key": "Қарағанды облысы",
+            "lang": "kk",
+            "lname": "Karaganda Region",
+            "isoid": "35"
+        },
+        "Қостанай облысы": {
+            "id": "data\/KZ\/Қостанай облысы",
+            "key": "Қостанай облысы",
+            "lang": "kk",
+            "lname": "Kostanay Region",
+            "isoid": "39"
+        },
+        "Қызылорда облысы": {
+            "id": "data\/KZ\/Қызылорда облысы",
+            "key": "Қызылорда облысы",
+            "lang": "kk",
+            "lname": "Kyzylorda Region",
+            "isoid": "43"
+        },
+        "Ұлытау облысы": {
+            "id": "data\/KZ\/Ұлытау облысы",
+            "key": "Ұлытау облысы",
+            "lang": "kk",
+            "lname": "Ulytau Region",
+            "isoid": "62"
+        }
+    }
 }

@@ -7,7 +7,7 @@
         "languages": "es",
         "fmt": "%N%n%O%n%A%n%Z %C%n%S",
         "upper": "ACZ",
-        "zip": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?",
+        "zip": "[A-HJ-NP-Z]\\d{4}[A-Z]{3}",
         "zipex": "C1070AAM,C1000WAM,B1000TBU,X5187XAB",
         "posturl": "http:\/\/www.correoargentino.com.ar\/formularios\/cpa",
         "sub_keys": "Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán",

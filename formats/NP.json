@@ -6,7 +6,7 @@
         "fmt": "%N%n%O%n%A%n%C %Z",
         "zip": "\\d{5}",
         "zipex": "44601",
-        "posturl": "http:\/\/www.gpo.gov.np\/Home\/Postalcode"
+        "posturl": "https:\/\/gpo.gov.np\/pages\/postal-code-1259614658\/"
     },
     "subdivisions": []
 }

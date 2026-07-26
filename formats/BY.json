@@ -3,10 +3,114 @@
         "id": "data\/BY",
         "key": "BY",
         "name": "BELARUS",
+        "lang": "be",
+        "languages": "be~ru",
         "fmt": "%O%n%N%n%A%n%Z, %C%n%S",
         "zip": "\\d{6}",
         "zipex": "223016,225860,220050",
-        "posturl": "http:\/\/ex.belpost.by\/addressbook\/"
+        "posturl": "http:\/\/ex.belpost.by\/addressbook\/",
+        "sub_keys": "Брэсцкая вобласць~Віцебская вобласць~Гомельская вобласць~горад Мінск~Гродзенская вобласць~Магілёўская вобласць~Мінская вобласць",
+        "sub_lnames": "Bresckaja voblasć~Viciebskaja voblasć~Homieĺskaja voblasć~Horad Minsk~Hrodzienskaja voblasć~Mahilioŭskaja voblasć~Minskaja voblasć",
+        "sub_isoids": "BR~VI~HO~HM~HR~MA~MI"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Брестская область--ru": {
+            "id": "data\/BY\/Брестская область--ru",
+            "key": "Брестская область",
+            "lang": "ru",
+            "lname": "Bresckaja voblasć",
+            "isoid": "BR"
+        },
+        "Брэсцкая вобласць": {
+            "id": "data\/BY\/Брэсцкая вобласць",
+            "key": "Брэсцкая вобласць",
+            "lang": "be",
+            "lname": "Bresckaja voblasć",
+            "isoid": "BR"
+        },
+        "Витебская область--ru": {
+            "id": "data\/BY\/Витебская область--ru",
+            "key": "Витебская область",
+            "lang": "ru",
+            "lname": "Viciebskaja voblasć",
+            "isoid": "VI"
+        },
+        "Віцебская вобласць": {
+            "id": "data\/BY\/Віцебская вобласць",
+            "key": "Віцебская вобласць",
+            "lang": "be",
+            "lname": "Viciebskaja voblasć",
+            "isoid": "VI"
+        },
+        "Гомельская вобласць": {
+            "id": "data\/BY\/Гомельская вобласць",
+            "key": "Гомельская вобласць",
+            "lang": "be",
+            "lname": "Homieĺskaja voblasć",
+            "isoid": "HO"
+        },
+        "Гомельская область--ru": {
+            "id": "data\/BY\/Гомельская область--ru",
+            "key": "Гомельская область",
+            "lang": "ru",
+            "lname": "Homieĺskaja voblasć",
+            "isoid": "HO"
+        },
+        "Гродзенская вобласць": {
+            "id": "data\/BY\/Гродзенская вобласць",
+            "key": "Гродзенская вобласць",
+            "lang": "be",
+            "lname": "Hrodzienskaja voblasć",
+            "isoid": "HR"
+        },
+        "Гродненская область--ru": {
+            "id": "data\/BY\/Гродненская область--ru",
+            "key": "Гродненская область",
+            "lang": "ru",
+            "lname": "Hrodzienskaja voblasć",
+            "isoid": "HR"
+        },
+        "Магілёўская вобласць": {
+            "id": "data\/BY\/Магілёўская вобласць",
+            "key": "Магілёўская вобласць",
+            "lang": "be",
+            "lname": "Mahilioŭskaja voblasć",
+            "isoid": "MA"
+        },
+        "Минская область--ru": {
+            "id": "data\/BY\/Минская область--ru",
+            "key": "Минская область",
+            "lang": "ru",
+            "lname": "Minskaja voblasć",
+            "isoid": "MI"
+        },
+        "Могилёвская область--ru": {
+            "id": "data\/BY\/Могилёвская область--ru",
+            "key": "Могилёвская область",
+            "lang": "ru",
+            "lname": "Mahilioŭskaja voblasć",
+            "isoid": "MA"
+        },
+        "Мінская вобласць": {
+            "id": "data\/BY\/Мінская вобласць",
+            "key": "Мінская вобласць",
+            "lang": "be",
+            "lname": "Minskaja voblasć",
+            "isoid": "MI"
+        },
+        "горад Мінск": {
+            "id": "data\/BY\/горад Мінск",
+            "key": "горад Мінск",
+            "lang": "be",
+            "lname": "Horad Minsk",
+            "isoid": "HM"
+        },
+        "город Минск--ru": {
+            "id": "data\/BY\/город Минск--ru",
+            "key": "город Минск",
+            "lang": "ru",
+            "lname": "Horad Minsk",
+            "isoid": "HM"
+        }
+    }
 }

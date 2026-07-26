@@ -3,11 +3,150 @@
         "id": "data\/IQ",
         "key": "IQ",
         "name": "IRAQ",
+        "lang": "ar",
+        "languages": "ar",
         "fmt": "%O%n%N%n%A%n%C, %S%n%Z",
         "require": "ACS",
         "upper": "CS",
         "zip": "\\d{5}",
-        "zipex": "31001"
+        "zipex": "31001",
+        "sub_keys": "أربيل~إقليم كوردستان~الانبار~البصرة~السليمانية~القادسية~المثنى~النجف~بابل~بغداد~دهوك~ديالى~ذي قار~صلاح الدين~كربلاء~كركوك~ميسان~نينوى~واسط",
+        "sub_lnames": "Erbil~Kurdistan Region~Al Anbar~Basra~Sulaymaniyah~Al-Qādisiyyah~Al Muthanna~Najaf~Babylon~Baghdad~Duhok~Diyala~Dhi Qar~Saladin~Karbala~Kirkuk~Maysan~Nineveh~Wasit",
+        "sub_isoids": "AR~KR~AN~BA~SU~QA~MU~NA~BB~BG~DA~DI~DQ~SD~KA~KI~MA~NI~WA"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "أربيل": {
+            "id": "data\/IQ\/أربيل",
+            "key": "أربيل",
+            "lang": "ar",
+            "lname": "Erbil",
+            "isoid": "AR"
+        },
+        "إقليم كوردستان": {
+            "id": "data\/IQ\/إقليم كوردستان",
+            "key": "إقليم كوردستان",
+            "lang": "ar",
+            "lname": "Kurdistan Region",
+            "isoid": "KR"
+        },
+        "الانبار": {
+            "id": "data\/IQ\/الانبار",
+            "key": "الانبار",
+            "lang": "ar",
+            "lname": "Al Anbar",
+            "isoid": "AN"
+        },
+        "البصرة": {
+            "id": "data\/IQ\/البصرة",
+            "key": "البصرة",
+            "lang": "ar",
+            "lname": "Basra",
+            "isoid": "BA"
+        },
+        "السليمانية": {
+            "id": "data\/IQ\/السليمانية",
+            "key": "السليمانية",
+            "lang": "ar",
+            "lname": "Sulaymaniyah",
+            "isoid": "SU"
+        },
+        "القادسية": {
+            "id": "data\/IQ\/القادسية",
+            "key": "القادسية",
+            "lang": "ar",
+            "lname": "Al-Qādisiyyah",
+            "isoid": "QA"
+        },
+        "المثنى": {
+            "id": "data\/IQ\/المثنى",
+            "key": "المثنى",
+            "lang": "ar",
+            "lname": "Al Muthanna",
+            "isoid": "MU"
+        },
+        "النجف": {
+            "id": "data\/IQ\/النجف",
+            "key": "النجف",
+            "lang": "ar",
+            "lname": "Najaf",
+            "isoid": "NA"
+        },
+        "بابل": {
+            "id": "data\/IQ\/بابل",
+            "key": "بابل",
+            "lang": "ar",
+            "lname": "Babylon",
+            "isoid": "BB"
+        },
+        "بغداد": {
+            "id": "data\/IQ\/بغداد",
+            "key": "بغداد",
+            "lang": "ar",
+            "lname": "Baghdad",
+            "isoid": "BG"
+        },
+        "دهوك": {
+            "id": "data\/IQ\/دهوك",
+            "key": "دهوك",
+            "lang": "ar",
+            "lname": "Duhok",
+            "isoid": "DA"
+        },
+        "ديالى": {
+            "id": "data\/IQ\/ديالى",
+            "key": "ديالى",
+            "lang": "ar",
+            "lname": "Diyala",
+            "isoid": "DI"
+        },
+        "ذي قار": {
+            "id": "data\/IQ\/ذي قار",
+            "key": "ذي قار",
+            "lang": "ar",
+            "lname": "Dhi Qar",
+            "isoid": "DQ"
+        },
+        "صلاح الدين": {
+            "id": "data\/IQ\/صلاح الدين",
+            "key": "صلاح الدين",
+            "lang": "ar",
+            "lname": "Saladin",
+            "isoid": "SD"
+        },
+        "كربلاء": {
+            "id": "data\/IQ\/كربلاء",
+            "key": "كربلاء",
+            "lang": "ar",
+            "lname": "Karbala",
+            "isoid": "KA"
+        },
+        "كركوك": {
+            "id": "data\/IQ\/كركوك",
+            "key": "كركوك",
+            "lang": "ar",
+            "lname": "Kirkuk",
+            "isoid": "KI"
+        },
+        "ميسان": {
+            "id": "data\/IQ\/ميسان",
+            "key": "ميسان",
+            "lang": "ar",
+            "lname": "Maysan",
+            "isoid": "MA"
+        },
+        "نينوى": {
+            "id": "data\/IQ\/نينوى",
+            "key": "نينوى",
+            "lang": "ar",
+            "lname": "Nineveh",
+            "isoid": "NI"
+        },
+        "واسط": {
+            "id": "data\/IQ\/واسط",
+            "key": "واسط",
+            "lang": "ar",
+            "lname": "Wasit",
+            "isoid": "WA"
+        }
+    }
 }

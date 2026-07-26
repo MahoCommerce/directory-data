@@ -3,8 +3,97 @@
         "id": "data\/PA",
         "key": "PA",
         "name": "PANAMA (REP.)",
+        "lang": "es",
+        "languages": "es",
         "fmt": "%N%n%O%n%A%n%C%n%S",
-        "upper": "CS"
+        "upper": "CS",
+        "sub_keys": "Bocas del Toro~Chiriquí~Coclé~Colón~Darién~Emberá~Guna Yala~Herrera~Los Santos~Naso Tjër Di~Ngäbe-Buglé~Panamá~Panamá Oeste~Veraguas",
+        "sub_isoids": "1~4~2~3~5~EM~KY~6~7~NT~NB~8~10~9"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Bocas del Toro": {
+            "id": "data\/PA\/Bocas del Toro",
+            "key": "Bocas del Toro",
+            "lang": "es",
+            "isoid": "1"
+        },
+        "Chiriquí": {
+            "id": "data\/PA\/Chiriquí",
+            "key": "Chiriquí",
+            "lang": "es",
+            "isoid": "4"
+        },
+        "Coclé": {
+            "id": "data\/PA\/Coclé",
+            "key": "Coclé",
+            "lang": "es",
+            "isoid": "2"
+        },
+        "Colón": {
+            "id": "data\/PA\/Colón",
+            "key": "Colón",
+            "lang": "es",
+            "isoid": "3"
+        },
+        "Darién": {
+            "id": "data\/PA\/Darién",
+            "key": "Darién",
+            "lang": "es",
+            "isoid": "5"
+        },
+        "Emberá": {
+            "id": "data\/PA\/Emberá",
+            "key": "Emberá",
+            "lang": "es",
+            "isoid": "EM"
+        },
+        "Guna Yala": {
+            "id": "data\/PA\/Guna Yala",
+            "key": "Guna Yala",
+            "lang": "es",
+            "isoid": "KY"
+        },
+        "Herrera": {
+            "id": "data\/PA\/Herrera",
+            "key": "Herrera",
+            "lang": "es",
+            "isoid": "6"
+        },
+        "Los Santos": {
+            "id": "data\/PA\/Los Santos",
+            "key": "Los Santos",
+            "lang": "es",
+            "isoid": "7"
+        },
+        "Naso Tjër Di": {
+            "id": "data\/PA\/Naso Tjër Di",
+            "key": "Naso Tjër Di",
+            "lang": "es",
+            "isoid": "NT"
+        },
+        "Ngäbe-Buglé": {
+            "id": "data\/PA\/Ngäbe-Buglé",
+            "key": "Ngäbe-Buglé",
+            "lang": "es",
+            "isoid": "NB"
+        },
+        "Panamá": {
+            "id": "data\/PA\/Panamá",
+            "key": "Panamá",
+            "lang": "es",
+            "isoid": "8"
+        },
+        "Panamá Oeste": {
+            "id": "data\/PA\/Panamá Oeste",
+            "key": "Panamá Oeste",
+            "lang": "es",
+            "isoid": "10"
+        },
+        "Veraguas": {
+            "id": "data\/PA\/Veraguas",
+            "key": "Veraguas",
+            "lang": "es",
+            "isoid": "9"
+        }
+    }
 }

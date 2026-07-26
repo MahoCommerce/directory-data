@@ -3,11 +3,124 @@
         "id": "data\/HN",
         "key": "HN",
         "name": "HONDURAS",
+        "lang": "es",
+        "languages": "es",
         "fmt": "%N%n%O%n%A%n%C, %S%n%Z",
         "require": "ACS",
         "zip": "\\d{5}",
         "zipex": "31301",
-        "state_name_type": "department"
+        "state_name_type": "department",
+        "sub_keys": "Atlántida~Choluteca~Colón~Comayagua~Copán~Cortés~El Paraíso~Francisco Morazán~Gracias a Dios~Intibucá~Islas de la Bahía~La Paz~Lempira~Ocotepeque~Olancho~Santa Bárbara~Valle~Yoro",
+        "sub_isoids": "AT~CH~CL~CM~CP~CR~EP~FM~GD~IN~IB~LP~LE~OC~OL~SB~VA~YO"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Atlántida": {
+            "id": "data\/HN\/Atlántida",
+            "key": "Atlántida",
+            "lang": "es",
+            "isoid": "AT"
+        },
+        "Choluteca": {
+            "id": "data\/HN\/Choluteca",
+            "key": "Choluteca",
+            "lang": "es",
+            "isoid": "CH"
+        },
+        "Colón": {
+            "id": "data\/HN\/Colón",
+            "key": "Colón",
+            "lang": "es",
+            "isoid": "CL"
+        },
+        "Comayagua": {
+            "id": "data\/HN\/Comayagua",
+            "key": "Comayagua",
+            "lang": "es",
+            "isoid": "CM"
+        },
+        "Copán": {
+            "id": "data\/HN\/Copán",
+            "key": "Copán",
+            "lang": "es",
+            "isoid": "CP"
+        },
+        "Cortés": {
+            "id": "data\/HN\/Cortés",
+            "key": "Cortés",
+            "lang": "es",
+            "isoid": "CR"
+        },
+        "El Paraíso": {
+            "id": "data\/HN\/El Paraíso",
+            "key": "El Paraíso",
+            "lang": "es",
+            "isoid": "EP"
+        },
+        "Francisco Morazán": {
+            "id": "data\/HN\/Francisco Morazán",
+            "key": "Francisco Morazán",
+            "lang": "es",
+            "isoid": "FM"
+        },
+        "Gracias a Dios": {
+            "id": "data\/HN\/Gracias a Dios",
+            "key": "Gracias a Dios",
+            "lang": "es",
+            "isoid": "GD"
+        },
+        "Intibucá": {
+            "id": "data\/HN\/Intibucá",
+            "key": "Intibucá",
+            "lang": "es",
+            "isoid": "IN"
+        },
+        "Islas de la Bahía": {
+            "id": "data\/HN\/Islas de la Bahía",
+            "key": "Islas de la Bahía",
+            "lang": "es",
+            "isoid": "IB"
+        },
+        "La Paz": {
+            "id": "data\/HN\/La Paz",
+            "key": "La Paz",
+            "lang": "es",
+            "isoid": "LP"
+        },
+        "Lempira": {
+            "id": "data\/HN\/Lempira",
+            "key": "Lempira",
+            "lang": "es",
+            "isoid": "LE"
+        },
+        "Ocotepeque": {
+            "id": "data\/HN\/Ocotepeque",
+            "key": "Ocotepeque",
+            "lang": "es",
+            "isoid": "OC"
+        },
+        "Olancho": {
+            "id": "data\/HN\/Olancho",
+            "key": "Olancho",
+            "lang": "es",
+            "isoid": "OL"
+        },
+        "Santa Bárbara": {
+            "id": "data\/HN\/Santa Bárbara",
+            "key": "Santa Bárbara",
+            "lang": "es",
+            "isoid": "SB"
+        },
+        "Valle": {
+            "id": "data\/HN\/Valle",
+            "key": "Valle",
+            "lang": "es",
+            "isoid": "VA"
+        },
+        "Yoro": {
+            "id": "data\/HN\/Yoro",
+            "key": "Yoro",
+            "lang": "es",
+            "isoid": "YO"
+        }
+    }
 }

@@ -3,10 +3,411 @@
         "id": "data\/PG",
         "key": "PG",
         "name": "PAPUA NEW GUINEA",
+        "lang": "tpi",
+        "languages": "tpi~en~ho",
         "fmt": "%N%n%O%n%A%n%C %Z %S",
         "require": "ACS",
         "zip": "\\d{3}",
-        "zipex": "111"
+        "zipex": "111",
+        "sub_keys": "Bougainville~Central Provins~Enga Provins~Gulf Provins~Hela Provins~Is Niu Briten Provins~Is Sepik Provins~Isten Hailans Provins~Jiwaka Provins~Madang Provins~Manus Provins~Milen Be Provins~Morobe Provins~Nesenel Kapitol Distrik~Niu Ailan Provins~Oro Provins~Sandaun Provins~Sauten Hailans Provins~Simbu Provins~Wes Niu Briten Provins~Western Hailans Provins~Western Provins",
+        "sub_isoids": "NSB~CPM~EPW~GPK~HLA~EBR~ESW~EHG~JWK~MPM~MRL~MBA~MPL~NCD~NIK~NPP~SAN~SHM~CPK~WBK~WHM~WPD"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Bougainville": {
+            "id": "data\/PG\/Bougainville",
+            "key": "Bougainville",
+            "lang": "tpi",
+            "isoid": "NSB"
+        },
+        "Bougainville--en": {
+            "id": "data\/PG\/Bougainville--en",
+            "key": "Bougainville",
+            "lang": "en",
+            "isoid": "NSB"
+        },
+        "Bougainville--ho": {
+            "id": "data\/PG\/Bougainville--ho",
+            "key": "Bougainville",
+            "lang": "ho",
+            "isoid": "NSB"
+        },
+        "Central Province--en": {
+            "id": "data\/PG\/Central Province--en",
+            "key": "Central Province",
+            "lang": "en",
+            "isoid": "CPM"
+        },
+        "Central Province--ho": {
+            "id": "data\/PG\/Central Province--ho",
+            "key": "Central Province",
+            "lang": "ho",
+            "isoid": "CPM"
+        },
+        "Central Provins": {
+            "id": "data\/PG\/Central Provins",
+            "key": "Central Provins",
+            "lang": "tpi",
+            "isoid": "CPM"
+        },
+        "Chimbu Province--en": {
+            "id": "data\/PG\/Chimbu Province--en",
+            "key": "Chimbu Province",
+            "lang": "en",
+            "isoid": "CPK"
+        },
+        "Chimbu Province--ho": {
+            "id": "data\/PG\/Chimbu Province--ho",
+            "key": "Chimbu Province",
+            "lang": "ho",
+            "isoid": "CPK"
+        },
+        "East New Britain Province--en": {
+            "id": "data\/PG\/East New Britain Province--en",
+            "key": "East New Britain Province",
+            "lang": "en",
+            "isoid": "EBR"
+        },
+        "East New Britain Province--ho": {
+            "id": "data\/PG\/East New Britain Province--ho",
+            "key": "East New Britain Province",
+            "lang": "ho",
+            "isoid": "EBR"
+        },
+        "East Sepik Province--en": {
+            "id": "data\/PG\/East Sepik Province--en",
+            "key": "East Sepik Province",
+            "lang": "en",
+            "isoid": "ESW"
+        },
+        "East Sepik Province--ho": {
+            "id": "data\/PG\/East Sepik Province--ho",
+            "key": "East Sepik Province",
+            "lang": "ho",
+            "isoid": "ESW"
+        },
+        "Eastern Highlands Province--en": {
+            "id": "data\/PG\/Eastern Highlands Province--en",
+            "key": "Eastern Highlands Province",
+            "lang": "en",
+            "isoid": "EHG"
+        },
+        "Eastern Highlands Province--ho": {
+            "id": "data\/PG\/Eastern Highlands Province--ho",
+            "key": "Eastern Highlands Province",
+            "lang": "ho",
+            "isoid": "EHG"
+        },
+        "Enga Province--en": {
+            "id": "data\/PG\/Enga Province--en",
+            "key": "Enga Province",
+            "lang": "en",
+            "isoid": "EPW"
+        },
+        "Enga Province--ho": {
+            "id": "data\/PG\/Enga Province--ho",
+            "key": "Enga Province",
+            "lang": "ho",
+            "isoid": "EPW"
+        },
+        "Enga Provins": {
+            "id": "data\/PG\/Enga Provins",
+            "key": "Enga Provins",
+            "lang": "tpi",
+            "isoid": "EPW"
+        },
+        "Gulf Province--en": {
+            "id": "data\/PG\/Gulf Province--en",
+            "key": "Gulf Province",
+            "lang": "en",
+            "isoid": "GPK"
+        },
+        "Gulf Province--ho": {
+            "id": "data\/PG\/Gulf Province--ho",
+            "key": "Gulf Province",
+            "lang": "ho",
+            "isoid": "GPK"
+        },
+        "Gulf Provins": {
+            "id": "data\/PG\/Gulf Provins",
+            "key": "Gulf Provins",
+            "lang": "tpi",
+            "isoid": "GPK"
+        },
+        "Hela Province--en": {
+            "id": "data\/PG\/Hela Province--en",
+            "key": "Hela Province",
+            "lang": "en",
+            "isoid": "HLA"
+        },
+        "Hela Province--ho": {
+            "id": "data\/PG\/Hela Province--ho",
+            "key": "Hela Province",
+            "lang": "ho",
+            "isoid": "HLA"
+        },
+        "Hela Provins": {
+            "id": "data\/PG\/Hela Provins",
+            "key": "Hela Provins",
+            "lang": "tpi",
+            "isoid": "HLA"
+        },
+        "Is Niu Briten Provins": {
+            "id": "data\/PG\/Is Niu Briten Provins",
+            "key": "Is Niu Briten Provins",
+            "lang": "tpi",
+            "isoid": "EBR"
+        },
+        "Is Sepik Provins": {
+            "id": "data\/PG\/Is Sepik Provins",
+            "key": "Is Sepik Provins",
+            "lang": "tpi",
+            "isoid": "ESW"
+        },
+        "Isten Hailans Provins": {
+            "id": "data\/PG\/Isten Hailans Provins",
+            "key": "Isten Hailans Provins",
+            "lang": "tpi",
+            "isoid": "EHG"
+        },
+        "Jiwaka Province--en": {
+            "id": "data\/PG\/Jiwaka Province--en",
+            "key": "Jiwaka Province",
+            "lang": "en",
+            "isoid": "JWK"
+        },
+        "Jiwaka Province--ho": {
+            "id": "data\/PG\/Jiwaka Province--ho",
+            "key": "Jiwaka Province",
+            "lang": "ho",
+            "isoid": "JWK"
+        },
+        "Jiwaka Provins": {
+            "id": "data\/PG\/Jiwaka Provins",
+            "key": "Jiwaka Provins",
+            "lang": "tpi",
+            "isoid": "JWK"
+        },
+        "Madang Province--en": {
+            "id": "data\/PG\/Madang Province--en",
+            "key": "Madang Province",
+            "lang": "en",
+            "isoid": "MPM"
+        },
+        "Madang Province--ho": {
+            "id": "data\/PG\/Madang Province--ho",
+            "key": "Madang Province",
+            "lang": "ho",
+            "isoid": "MPM"
+        },
+        "Madang Provins": {
+            "id": "data\/PG\/Madang Provins",
+            "key": "Madang Provins",
+            "lang": "tpi",
+            "isoid": "MPM"
+        },
+        "Manus Province--en": {
+            "id": "data\/PG\/Manus Province--en",
+            "key": "Manus Province",
+            "lang": "en",
+            "isoid": "MRL"
+        },
+        "Manus Province--ho": {
+            "id": "data\/PG\/Manus Province--ho",
+            "key": "Manus Province",
+            "lang": "ho",
+            "isoid": "MRL"
+        },
+        "Manus Provins": {
+            "id": "data\/PG\/Manus Provins",
+            "key": "Manus Provins",
+            "lang": "tpi",
+            "isoid": "MRL"
+        },
+        "Milen Be Provins": {
+            "id": "data\/PG\/Milen Be Provins",
+            "key": "Milen Be Provins",
+            "lang": "tpi",
+            "isoid": "MBA"
+        },
+        "Milne Bay Province--en": {
+            "id": "data\/PG\/Milne Bay Province--en",
+            "key": "Milne Bay Province",
+            "lang": "en",
+            "isoid": "MBA"
+        },
+        "Milne Bay Province--ho": {
+            "id": "data\/PG\/Milne Bay Province--ho",
+            "key": "Milne Bay Province",
+            "lang": "ho",
+            "isoid": "MBA"
+        },
+        "Morobe Province--en": {
+            "id": "data\/PG\/Morobe Province--en",
+            "key": "Morobe Province",
+            "lang": "en",
+            "isoid": "MPL"
+        },
+        "Morobe Province--ho": {
+            "id": "data\/PG\/Morobe Province--ho",
+            "key": "Morobe Province",
+            "lang": "ho",
+            "isoid": "MPL"
+        },
+        "Morobe Provins": {
+            "id": "data\/PG\/Morobe Provins",
+            "key": "Morobe Provins",
+            "lang": "tpi",
+            "isoid": "MPL"
+        },
+        "National Capital District--en": {
+            "id": "data\/PG\/National Capital District--en",
+            "key": "National Capital District",
+            "lang": "en",
+            "isoid": "NCD"
+        },
+        "National Capital District--ho": {
+            "id": "data\/PG\/National Capital District--ho",
+            "key": "National Capital District",
+            "lang": "ho",
+            "isoid": "NCD"
+        },
+        "Nesenel Kapitol Distrik": {
+            "id": "data\/PG\/Nesenel Kapitol Distrik",
+            "key": "Nesenel Kapitol Distrik",
+            "lang": "tpi",
+            "isoid": "NCD"
+        },
+        "New Ireland Province--en": {
+            "id": "data\/PG\/New Ireland Province--en",
+            "key": "New Ireland Province",
+            "lang": "en",
+            "isoid": "NIK"
+        },
+        "New Ireland Province--ho": {
+            "id": "data\/PG\/New Ireland Province--ho",
+            "key": "New Ireland Province",
+            "lang": "ho",
+            "isoid": "NIK"
+        },
+        "Niu Ailan Provins": {
+            "id": "data\/PG\/Niu Ailan Provins",
+            "key": "Niu Ailan Provins",
+            "lang": "tpi",
+            "isoid": "NIK"
+        },
+        "Northern Province--en": {
+            "id": "data\/PG\/Northern Province--en",
+            "key": "Northern Province",
+            "lang": "en",
+            "isoid": "NPP"
+        },
+        "Northern Province--ho": {
+            "id": "data\/PG\/Northern Province--ho",
+            "key": "Northern Province",
+            "lang": "ho",
+            "isoid": "NPP"
+        },
+        "Oro Provins": {
+            "id": "data\/PG\/Oro Provins",
+            "key": "Oro Provins",
+            "lang": "tpi",
+            "isoid": "NPP"
+        },
+        "Sandaun Province--en": {
+            "id": "data\/PG\/Sandaun Province--en",
+            "key": "Sandaun Province",
+            "lang": "en",
+            "isoid": "SAN"
+        },
+        "Sandaun Province--ho": {
+            "id": "data\/PG\/Sandaun Province--ho",
+            "key": "Sandaun Province",
+            "lang": "ho",
+            "isoid": "SAN"
+        },
+        "Sandaun Provins": {
+            "id": "data\/PG\/Sandaun Provins",
+            "key": "Sandaun Provins",
+            "lang": "tpi",
+            "isoid": "SAN"
+        },
+        "Sauten Hailans Provins": {
+            "id": "data\/PG\/Sauten Hailans Provins",
+            "key": "Sauten Hailans Provins",
+            "lang": "tpi",
+            "isoid": "SHM"
+        },
+        "Simbu Provins": {
+            "id": "data\/PG\/Simbu Provins",
+            "key": "Simbu Provins",
+            "lang": "tpi",
+            "isoid": "CPK"
+        },
+        "Southern Highlands Province--en": {
+            "id": "data\/PG\/Southern Highlands Province--en",
+            "key": "Southern Highlands Province",
+            "lang": "en",
+            "isoid": "SHM"
+        },
+        "Southern Highlands Province--ho": {
+            "id": "data\/PG\/Southern Highlands Province--ho",
+            "key": "Southern Highlands Province",
+            "lang": "ho",
+            "isoid": "SHM"
+        },
+        "Wes Niu Briten Provins": {
+            "id": "data\/PG\/Wes Niu Briten Provins",
+            "key": "Wes Niu Briten Provins",
+            "lang": "tpi",
+            "isoid": "WBK"
+        },
+        "West New Britain Province--en": {
+            "id": "data\/PG\/West New Britain Province--en",
+            "key": "West New Britain Province",
+            "lang": "en",
+            "isoid": "WBK"
+        },
+        "West New Britain Province--ho": {
+            "id": "data\/PG\/West New Britain Province--ho",
+            "key": "West New Britain Province",
+            "lang": "ho",
+            "isoid": "WBK"
+        },
+        "Western Hailans Provins": {
+            "id": "data\/PG\/Western Hailans Provins",
+            "key": "Western Hailans Provins",
+            "lang": "tpi",
+            "isoid": "WHM"
+        },
+        "Western Highlands Province--en": {
+            "id": "data\/PG\/Western Highlands Province--en",
+            "key": "Western Highlands Province",
+            "lang": "en",
+            "isoid": "WHM"
+        },
+        "Western Highlands Province--ho": {
+            "id": "data\/PG\/Western Highlands Province--ho",
+            "key": "Western Highlands Province",
+            "lang": "ho",
+            "isoid": "WHM"
+        },
+        "Western Province--en": {
+            "id": "data\/PG\/Western Province--en",
+            "key": "Western Province",
+            "lang": "en",
+            "isoid": "WPD"
+        },
+        "Western Province--ho": {
+            "id": "data\/PG\/Western Province--ho",
+            "key": "Western Province",
+            "lang": "ho",
+            "isoid": "WPD"
+        },
+        "Western Provins": {
+            "id": "data\/PG\/Western Provins",
+            "key": "Western Provins",
+            "lang": "tpi",
+            "isoid": "WPD"
+        }
+    }
 }

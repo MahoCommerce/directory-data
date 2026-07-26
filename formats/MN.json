@@ -3,10 +3,170 @@
         "id": "data\/MN",
         "key": "MN",
         "name": "MONGOLIA",
+        "lang": "mn",
+        "languages": "mn",
         "fmt": "%N%n%O%n%A%n%C%n%S %Z",
         "zip": "\\d{5}",
         "zipex": "65030,65270",
-        "posturl": "http:\/\/www.zipcode.mn\/"
+        "posturl": "http:\/\/www.zipcode.mn\/",
+        "sub_keys": "Архангай~Баян-Өлгий~Баянхонгор~Булган~Говь-Алтай~Говьсүмбэр~Дархан-Уул~Дорноговь~Дорнод~Дундговь~Завхан~Орхон~Өвөрхангай~Өмнөговь~Сүхбаатар~Сэлэнгэ~Төв~Увс~Улаанбаатар~Ховд~Хөвсгөл~Хэнтий",
+        "sub_lnames": "Arkhangai~Bayan-Ölgii~Bayankhongor~Bulgan~Govi-Altai~Govisümber~Darkhan-Uul~Dornogovi~Dornod~Dundgovi~Zavkhan~Orkhon~Ovorkhangai~Ömnögovi~Sükhbaatar~Selenge~Töv~Uvs~Ulaanbaatar~Khovd~Khovsgol~Khentii",
+        "sub_isoids": "073~071~069~067~065~064~037~063~061~059~057~035~055~053~051~049~047~046~1~043~041~039"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Архангай": {
+            "id": "data\/MN\/Архангай",
+            "key": "Архангай",
+            "lang": "mn",
+            "lname": "Arkhangai",
+            "isoid": "073"
+        },
+        "Баян-Өлгий": {
+            "id": "data\/MN\/Баян-Өлгий",
+            "key": "Баян-Өлгий",
+            "lang": "mn",
+            "lname": "Bayan-Ölgii",
+            "isoid": "071"
+        },
+        "Баянхонгор": {
+            "id": "data\/MN\/Баянхонгор",
+            "key": "Баянхонгор",
+            "lang": "mn",
+            "lname": "Bayankhongor",
+            "isoid": "069"
+        },
+        "Булган": {
+            "id": "data\/MN\/Булган",
+            "key": "Булган",
+            "lang": "mn",
+            "lname": "Bulgan",
+            "isoid": "067"
+        },
+        "Говь-Алтай": {
+            "id": "data\/MN\/Говь-Алтай",
+            "key": "Говь-Алтай",
+            "lang": "mn",
+            "lname": "Govi-Altai",
+            "isoid": "065"
+        },
+        "Говьсүмбэр": {
+            "id": "data\/MN\/Говьсүмбэр",
+            "key": "Говьсүмбэр",
+            "lang": "mn",
+            "lname": "Govisümber",
+            "isoid": "064"
+        },
+        "Дархан-Уул": {
+            "id": "data\/MN\/Дархан-Уул",
+            "key": "Дархан-Уул",
+            "lang": "mn",
+            "lname": "Darkhan-Uul",
+            "isoid": "037"
+        },
+        "Дорноговь": {
+            "id": "data\/MN\/Дорноговь",
+            "key": "Дорноговь",
+            "lang": "mn",
+            "lname": "Dornogovi",
+            "isoid": "063"
+        },
+        "Дорнод": {
+            "id": "data\/MN\/Дорнод",
+            "key": "Дорнод",
+            "lang": "mn",
+            "lname": "Dornod",
+            "isoid": "061"
+        },
+        "Дундговь": {
+            "id": "data\/MN\/Дундговь",
+            "key": "Дундговь",
+            "lang": "mn",
+            "lname": "Dundgovi",
+            "isoid": "059"
+        },
+        "Завхан": {
+            "id": "data\/MN\/Завхан",
+            "key": "Завхан",
+            "lang": "mn",
+            "lname": "Zavkhan",
+            "isoid": "057"
+        },
+        "Орхон": {
+            "id": "data\/MN\/Орхон",
+            "key": "Орхон",
+            "lang": "mn",
+            "lname": "Orkhon",
+            "isoid": "035"
+        },
+        "Сэлэнгэ": {
+            "id": "data\/MN\/Сэлэнгэ",
+            "key": "Сэлэнгэ",
+            "lang": "mn",
+            "lname": "Selenge",
+            "isoid": "049"
+        },
+        "Сүхбаатар": {
+            "id": "data\/MN\/Сүхбаатар",
+            "key": "Сүхбаатар",
+            "lang": "mn",
+            "lname": "Sükhbaatar",
+            "isoid": "051"
+        },
+        "Төв": {
+            "id": "data\/MN\/Төв",
+            "key": "Төв",
+            "lang": "mn",
+            "lname": "Töv",
+            "isoid": "047"
+        },
+        "Увс": {
+            "id": "data\/MN\/Увс",
+            "key": "Увс",
+            "lang": "mn",
+            "lname": "Uvs",
+            "isoid": "046"
+        },
+        "Улаанбаатар": {
+            "id": "data\/MN\/Улаанбаатар",
+            "key": "Улаанбаатар",
+            "lang": "mn",
+            "lname": "Ulaanbaatar",
+            "isoid": "1"
+        },
+        "Ховд": {
+            "id": "data\/MN\/Ховд",
+            "key": "Ховд",
+            "lang": "mn",
+            "lname": "Khovd",
+            "isoid": "043"
+        },
+        "Хэнтий": {
+            "id": "data\/MN\/Хэнтий",
+            "key": "Хэнтий",
+            "lang": "mn",
+            "lname": "Khentii",
+            "isoid": "039"
+        },
+        "Хөвсгөл": {
+            "id": "data\/MN\/Хөвсгөл",
+            "key": "Хөвсгөл",
+            "lang": "mn",
+            "lname": "Khovsgol",
+            "isoid": "041"
+        },
+        "Өвөрхангай": {
+            "id": "data\/MN\/Өвөрхангай",
+            "key": "Өвөрхангай",
+            "lang": "mn",
+            "lname": "Ovorkhangai",
+            "isoid": "055"
+        },
+        "Өмнөговь": {
+            "id": "data\/MN\/Өмнөговь",
+            "key": "Өмнөговь",
+            "lang": "mn",
+            "lname": "Ömnögovi",
+            "isoid": "053"
+        }
+    }
 }

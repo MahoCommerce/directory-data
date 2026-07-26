@@ -3,11 +3,58 @@
         "id": "data\/CR",
         "key": "CR",
         "name": "COSTA RICA",
+        "lang": "es",
+        "languages": "es",
         "fmt": "%N%n%O%n%A%n%S, %C%n%Z",
         "require": "ACS",
         "zip": "\\d{4,5}|\\d{3}-\\d{4}",
         "zipex": "1000,2010,1001",
-        "posturl": "https:\/\/correos.go.cr\/codigo-postal\/"
+        "posturl": "https:\/\/correos.go.cr\/codigo-postal\/",
+        "sub_keys": "Alajuela~Cartago~Guanacaste~Heredia~Limón~Puntarenas~San José",
+        "sub_isoids": "A~C~G~H~L~P~SJ"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Alajuela": {
+            "id": "data\/CR\/Alajuela",
+            "key": "Alajuela",
+            "lang": "es",
+            "isoid": "A"
+        },
+        "Cartago": {
+            "id": "data\/CR\/Cartago",
+            "key": "Cartago",
+            "lang": "es",
+            "isoid": "C"
+        },
+        "Guanacaste": {
+            "id": "data\/CR\/Guanacaste",
+            "key": "Guanacaste",
+            "lang": "es",
+            "isoid": "G"
+        },
+        "Heredia": {
+            "id": "data\/CR\/Heredia",
+            "key": "Heredia",
+            "lang": "es",
+            "isoid": "H"
+        },
+        "Limón": {
+            "id": "data\/CR\/Limón",
+            "key": "Limón",
+            "lang": "es",
+            "isoid": "L"
+        },
+        "Puntarenas": {
+            "id": "data\/CR\/Puntarenas",
+            "key": "Puntarenas",
+            "lang": "es",
+            "isoid": "P"
+        },
+        "San José": {
+            "id": "data\/CR\/San José",
+            "key": "San José",
+            "lang": "es",
+            "isoid": "SJ"
+        }
+    }
 }

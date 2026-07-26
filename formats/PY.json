@@ -4,8 +4,8 @@
         "key": "PY",
         "name": "PARAGUAY",
         "fmt": "%N%n%O%n%A%n%Z %C",
-        "zip": "\\d{4}",
-        "zipex": "1536,1538,1209"
+        "zip": "\\d{6}",
+        "zipex": "001001,051103,110407"
     },
     "subdivisions": []
 }

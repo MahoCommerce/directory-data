@@ -2,7 +2,10 @@
     "country": {
         "id": "data\/TT",
         "key": "TT",
-        "name": "TRINIDAD AND TOBAGO"
+        "name": "TRINIDAD AND TOBAGO",
+        "fmt": "%N%n%O%n%A%n%C%n%Z",
+        "zip": "\\d{6}",
+        "zipex": "500234"
     },
     "subdivisions": []
 }

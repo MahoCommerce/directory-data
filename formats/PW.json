@@ -3,6 +3,8 @@
         "id": "data\/PW",
         "key": "PW",
         "name": "PALAU",
+        "lang": "pau",
+        "languages": "pau~en",
         "fmt": "%N%n%O%n%A%n%C %S %Z",
         "require": "ACSZ",
         "upper": "ACNOS",
@@ -10,7 +12,202 @@
         "zipex": "96940",
         "posturl": "http:\/\/zip4.usps.com\/zip4\/welcome.jsp",
         "zip_name_type": "zip",
-        "state_name_type": "state"
+        "state_name_type": "state",
+        "sub_keys": "Aimeliik~Airai~Angaur~Hatohobei~Kayangel~Koror~Melekeok~Ngaraard~Ngarchelong~Ngardmau~Ngaremlengui~Ngatpang~Ngchesar~Ngiwal~Peleliu~Sonsorol",
+        "sub_isoids": "002~004~010~050~100~150~212~214~218~222~227~224~226~228~350~370"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Aimeliik": {
+            "id": "data\/PW\/Aimeliik",
+            "key": "Aimeliik",
+            "lang": "pau",
+            "isoid": "002"
+        },
+        "Aimeliik--en": {
+            "id": "data\/PW\/Aimeliik--en",
+            "key": "Aimeliik",
+            "lang": "en",
+            "isoid": "002"
+        },
+        "Airai": {
+            "id": "data\/PW\/Airai",
+            "key": "Airai",
+            "lang": "pau",
+            "isoid": "004"
+        },
+        "Airai--en": {
+            "id": "data\/PW\/Airai--en",
+            "key": "Airai",
+            "lang": "en",
+            "isoid": "004"
+        },
+        "Angaur": {
+            "id": "data\/PW\/Angaur",
+            "key": "Angaur",
+            "lang": "pau",
+            "isoid": "010"
+        },
+        "Angaur--en": {
+            "id": "data\/PW\/Angaur--en",
+            "key": "Angaur",
+            "lang": "en",
+            "isoid": "010"
+        },
+        "Hatohobei": {
+            "id": "data\/PW\/Hatohobei",
+            "key": "Hatohobei",
+            "lang": "pau",
+            "isoid": "050"
+        },
+        "Hatohobei--en": {
+            "id": "data\/PW\/Hatohobei--en",
+            "key": "Hatohobei",
+            "lang": "en",
+            "isoid": "050"
+        },
+        "Kayangel": {
+            "id": "data\/PW\/Kayangel",
+            "key": "Kayangel",
+            "lang": "pau",
+            "isoid": "100"
+        },
+        "Kayangel--en": {
+            "id": "data\/PW\/Kayangel--en",
+            "key": "Kayangel",
+            "lang": "en",
+            "isoid": "100"
+        },
+        "Koror": {
+            "id": "data\/PW\/Koror",
+            "key": "Koror",
+            "lang": "pau",
+            "isoid": "150"
+        },
+        "Koror--en": {
+            "id": "data\/PW\/Koror--en",
+            "key": "Koror",
+            "lang": "en",
+            "isoid": "150"
+        },
+        "Melekeok": {
+            "id": "data\/PW\/Melekeok",
+            "key": "Melekeok",
+            "lang": "pau",
+            "isoid": "212"
+        },
+        "Melekeok--en": {
+            "id": "data\/PW\/Melekeok--en",
+            "key": "Melekeok",
+            "lang": "en",
+            "isoid": "212"
+        },
+        "Ngaraard": {
+            "id": "data\/PW\/Ngaraard",
+            "key": "Ngaraard",
+            "lang": "pau",
+            "isoid": "214"
+        },
+        "Ngaraard--en": {
+            "id": "data\/PW\/Ngaraard--en",
+            "key": "Ngaraard",
+            "lang": "en",
+            "isoid": "214"
+        },
+        "Ngarchelong": {
+            "id": "data\/PW\/Ngarchelong",
+            "key": "Ngarchelong",
+            "lang": "pau",
+            "isoid": "218"
+        },
+        "Ngarchelong--en": {
+            "id": "data\/PW\/Ngarchelong--en",
+            "key": "Ngarchelong",
+            "lang": "en",
+            "isoid": "218"
+        },
+        "Ngardmau": {
+            "id": "data\/PW\/Ngardmau",
+            "key": "Ngardmau",
+            "lang": "pau",
+            "isoid": "222"
+        },
+        "Ngardmau--en": {
+            "id": "data\/PW\/Ngardmau--en",
+            "key": "Ngardmau",
+            "lang": "en",
+            "isoid": "222"
+        },
+        "Ngaremlengui": {
+            "id": "data\/PW\/Ngaremlengui",
+            "key": "Ngaremlengui",
+            "lang": "pau",
+            "isoid": "227"
+        },
+        "Ngaremlengui--en": {
+            "id": "data\/PW\/Ngaremlengui--en",
+            "key": "Ngaremlengui",
+            "lang": "en",
+            "isoid": "227"
+        },
+        "Ngatpang": {
+            "id": "data\/PW\/Ngatpang",
+            "key": "Ngatpang",
+            "lang": "pau",
+            "isoid": "224"
+        },
+        "Ngatpang--en": {
+            "id": "data\/PW\/Ngatpang--en",
+            "key": "Ngatpang",
+            "lang": "en",
+            "isoid": "224"
+        },
+        "Ngchesar": {
+            "id": "data\/PW\/Ngchesar",
+            "key": "Ngchesar",
+            "lang": "pau",
+            "isoid": "226"
+        },
+        "Ngchesar--en": {
+            "id": "data\/PW\/Ngchesar--en",
+            "key": "Ngchesar",
+            "lang": "en",
+            "isoid": "226"
+        },
+        "Ngiwal": {
+            "id": "data\/PW\/Ngiwal",
+            "key": "Ngiwal",
+            "lang": "pau",
+            "isoid": "228"
+        },
+        "Ngiwal--en": {
+            "id": "data\/PW\/Ngiwal--en",
+            "key": "Ngiwal",
+            "lang": "en",
+            "isoid": "228"
+        },
+        "Peleliu": {
+            "id": "data\/PW\/Peleliu",
+            "key": "Peleliu",
+            "lang": "pau",
+            "isoid": "350"
+        },
+        "Peleliu--en": {
+            "id": "data\/PW\/Peleliu--en",
+            "key": "Peleliu",
+            "lang": "en",
+            "isoid": "350"
+        },
+        "Sonsorol": {
+            "id": "data\/PW\/Sonsorol",
+            "key": "Sonsorol",
+            "lang": "pau",
+            "isoid": "370"
+        },
+        "Sonsorol--en": {
+            "id": "data\/PW\/Sonsorol--en",
+            "key": "Sonsorol",
+            "lang": "en",
+            "isoid": "370"
+        }
+    }
 }

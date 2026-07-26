@@ -3,6 +3,8 @@
         "id": "data\/FM",
         "key": "FM",
         "name": "MICRONESIA (Federated State of)",
+        "lang": "en",
+        "languages": "en",
         "fmt": "%N%n%O%n%A%n%C %S %Z",
         "require": "ACSZ",
         "upper": "ACNOS",
@@ -10,7 +12,34 @@
         "zipex": "96941,96944",
         "posturl": "http:\/\/zip4.usps.com\/zip4\/welcome.jsp",
         "zip_name_type": "zip",
-        "state_name_type": "state"
+        "state_name_type": "state",
+        "sub_keys": "Chuuk~Kosrae~Pohnpei~Yap",
+        "sub_isoids": "TRK~KSA~PNI~YAP"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Chuuk": {
+            "id": "data\/FM\/Chuuk",
+            "key": "Chuuk",
+            "lang": "en",
+            "isoid": "TRK"
+        },
+        "Kosrae": {
+            "id": "data\/FM\/Kosrae",
+            "key": "Kosrae",
+            "lang": "en",
+            "isoid": "KSA"
+        },
+        "Pohnpei": {
+            "id": "data\/FM\/Pohnpei",
+            "key": "Pohnpei",
+            "lang": "en",
+            "isoid": "PNI"
+        },
+        "Yap": {
+            "id": "data\/FM\/Yap",
+            "key": "Yap",
+            "lang": "en",
+            "isoid": "YAP"
+        }
+    }
 }

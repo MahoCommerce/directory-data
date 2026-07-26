@@ -3,12 +3,269 @@
         "id": "data\/RO",
         "key": "RO",
         "name": "ROMANIA",
+        "lang": "ro",
+        "languages": "ro",
         "fmt": "%N%n%O%n%A%n%Z %S %C",
         "require": "ACZ",
         "upper": "AC",
         "zip": "\\d{6}",
         "zipex": "060274,061357,200716",
-        "posturl": "http:\/\/www.posta-romana.ro\/zip_codes"
+        "posturl": "http:\/\/www.posta-romana.ro\/zip_codes",
+        "sub_keys": "Alba~Arad~Argeș~Bacău~Bihor~Bistrița-Năsăud~Botoșani~Brașov~Brăila~București~Buzău~Caraș-Severin~Călărași~Cluj~Constanța~Covasna~Dâmbovița~Dolj~Galați~Giurgiu~Gorj~Harghita~Hunedoara~Ialomița~Iași~Ilfov~Maramureș~Mehedinți~Mureș~Neamț~Olt~Prahova~Satu Mare~Sălaj~Sibiu~Suceava~Teleorman~Timiș~Tulcea~Vaslui~Vâlcea~Vrancea",
+        "sub_isoids": "AB~AR~AG~BC~BH~BN~BT~BV~BR~B~BZ~CS~CL~CJ~CT~CV~DB~DJ~GL~GR~GJ~HR~HD~IL~IS~IF~MM~MH~MS~NT~OT~PH~SM~SJ~SB~SV~TR~TM~TL~VS~VL~VN"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Alba": {
+            "id": "data\/RO\/Alba",
+            "key": "Alba",
+            "lang": "ro",
+            "isoid": "AB"
+        },
+        "Arad": {
+            "id": "data\/RO\/Arad",
+            "key": "Arad",
+            "lang": "ro",
+            "isoid": "AR"
+        },
+        "Argeș": {
+            "id": "data\/RO\/Argeș",
+            "key": "Argeș",
+            "lang": "ro",
+            "isoid": "AG"
+        },
+        "Bacău": {
+            "id": "data\/RO\/Bacău",
+            "key": "Bacău",
+            "lang": "ro",
+            "isoid": "BC"
+        },
+        "Bihor": {
+            "id": "data\/RO\/Bihor",
+            "key": "Bihor",
+            "lang": "ro",
+            "isoid": "BH"
+        },
+        "Bistrița-Năsăud": {
+            "id": "data\/RO\/Bistrița-Năsăud",
+            "key": "Bistrița-Năsăud",
+            "lang": "ro",
+            "isoid": "BN"
+        },
+        "Botoșani": {
+            "id": "data\/RO\/Botoșani",
+            "key": "Botoșani",
+            "lang": "ro",
+            "isoid": "BT"
+        },
+        "Brașov": {
+            "id": "data\/RO\/Brașov",
+            "key": "Brașov",
+            "lang": "ro",
+            "isoid": "BV"
+        },
+        "Brăila": {
+            "id": "data\/RO\/Brăila",
+            "key": "Brăila",
+            "lang": "ro",
+            "isoid": "BR"
+        },
+        "București": {
+            "id": "data\/RO\/București",
+            "key": "București",
+            "lang": "ro",
+            "isoid": "B"
+        },
+        "Buzău": {
+            "id": "data\/RO\/Buzău",
+            "key": "Buzău",
+            "lang": "ro",
+            "isoid": "BZ"
+        },
+        "Caraș-Severin": {
+            "id": "data\/RO\/Caraș-Severin",
+            "key": "Caraș-Severin",
+            "lang": "ro",
+            "isoid": "CS"
+        },
+        "Cluj": {
+            "id": "data\/RO\/Cluj",
+            "key": "Cluj",
+            "lang": "ro",
+            "isoid": "CJ"
+        },
+        "Constanța": {
+            "id": "data\/RO\/Constanța",
+            "key": "Constanța",
+            "lang": "ro",
+            "isoid": "CT"
+        },
+        "Covasna": {
+            "id": "data\/RO\/Covasna",
+            "key": "Covasna",
+            "lang": "ro",
+            "isoid": "CV"
+        },
+        "Călărași": {
+            "id": "data\/RO\/Călărași",
+            "key": "Călărași",
+            "lang": "ro",
+            "isoid": "CL"
+        },
+        "Dolj": {
+            "id": "data\/RO\/Dolj",
+            "key": "Dolj",
+            "lang": "ro",
+            "isoid": "DJ"
+        },
+        "Dâmbovița": {
+            "id": "data\/RO\/Dâmbovița",
+            "key": "Dâmbovița",
+            "lang": "ro",
+            "isoid": "DB"
+        },
+        "Galați": {
+            "id": "data\/RO\/Galați",
+            "key": "Galați",
+            "lang": "ro",
+            "isoid": "GL"
+        },
+        "Giurgiu": {
+            "id": "data\/RO\/Giurgiu",
+            "key": "Giurgiu",
+            "lang": "ro",
+            "isoid": "GR"
+        },
+        "Gorj": {
+            "id": "data\/RO\/Gorj",
+            "key": "Gorj",
+            "lang": "ro",
+            "isoid": "GJ"
+        },
+        "Harghita": {
+            "id": "data\/RO\/Harghita",
+            "key": "Harghita",
+            "lang": "ro",
+            "isoid": "HR"
+        },
+        "Hunedoara": {
+            "id": "data\/RO\/Hunedoara",
+            "key": "Hunedoara",
+            "lang": "ro",
+            "isoid": "HD"
+        },
+        "Ialomița": {
+            "id": "data\/RO\/Ialomița",
+            "key": "Ialomița",
+            "lang": "ro",
+            "isoid": "IL"
+        },
+        "Iași": {
+            "id": "data\/RO\/Iași",
+            "key": "Iași",
+            "lang": "ro",
+            "isoid": "IS"
+        },
+        "Ilfov": {
+            "id": "data\/RO\/Ilfov",
+            "key": "Ilfov",
+            "lang": "ro",
+            "isoid": "IF"
+        },
+        "Maramureș": {
+            "id": "data\/RO\/Maramureș",
+            "key": "Maramureș",
+            "lang": "ro",
+            "isoid": "MM"
+        },
+        "Mehedinți": {
+            "id": "data\/RO\/Mehedinți",
+            "key": "Mehedinți",
+            "lang": "ro",
+            "isoid": "MH"
+        },
+        "Mureș": {
+            "id": "data\/RO\/Mureș",
+            "key": "Mureș",
+            "lang": "ro",
+            "isoid": "MS"
+        },
+        "Neamț": {
+            "id": "data\/RO\/Neamț",
+            "key": "Neamț",
+            "lang": "ro",
+            "isoid": "NT"
+        },
+        "Olt": {
+            "id": "data\/RO\/Olt",
+            "key": "Olt",
+            "lang": "ro",
+            "isoid": "OT"
+        },
+        "Prahova": {
+            "id": "data\/RO\/Prahova",
+            "key": "Prahova",
+            "lang": "ro",
+            "isoid": "PH"
+        },
+        "Satu Mare": {
+            "id": "data\/RO\/Satu Mare",
+            "key": "Satu Mare",
+            "lang": "ro",
+            "isoid": "SM"
+        },
+        "Sibiu": {
+            "id": "data\/RO\/Sibiu",
+            "key": "Sibiu",
+            "lang": "ro",
+            "isoid": "SB"
+        },
+        "Suceava": {
+            "id": "data\/RO\/Suceava",
+            "key": "Suceava",
+            "lang": "ro",
+            "isoid": "SV"
+        },
+        "Sălaj": {
+            "id": "data\/RO\/Sălaj",
+            "key": "Sălaj",
+            "lang": "ro",
+            "isoid": "SJ"
+        },
+        "Teleorman": {
+            "id": "data\/RO\/Teleorman",
+            "key": "Teleorman",
+            "lang": "ro",
+            "isoid": "TR"
+        },
+        "Timiș": {
+            "id": "data\/RO\/Timiș",
+            "key": "Timiș",
+            "lang": "ro",
+            "isoid": "TM"
+        },
+        "Tulcea": {
+            "id": "data\/RO\/Tulcea",
+            "key": "Tulcea",
+            "lang": "ro",
+            "isoid": "TL"
+        },
+        "Vaslui": {
+            "id": "data\/RO\/Vaslui",
+            "key": "Vaslui",
+            "lang": "ro",
+            "isoid": "VS"
+        },
+        "Vrancea": {
+            "id": "data\/RO\/Vrancea",
+            "key": "Vrancea",
+            "lang": "ro",
+            "isoid": "VN"
+        },
+        "Vâlcea": {
+            "id": "data\/RO\/Vâlcea",
+            "key": "Vâlcea",
+            "lang": "ro",
+            "isoid": "VL"
+        }
+    }
 }

@@ -565,7 +565,7 @@
             "isoid": "48",
             "sub_keys": "거제시~거창군~고성군~김해시~남해군~밀양시~사천시~산청군~양산시~의령군~진주시~창녕군~창원시~통영시~하동군~함안군~함양군~합천군",
             "sub_lnames": "Geoje-si~Geochang-gun~Goseong-gun~Gimhae-si~Namhae-gun~Miryang-si~Sacheon-si~Sancheong-gun~Yangsan-si~Uiryeong-gun~Jinju-si~Changnyeong-gun~Changwon-si~Tongyeong-si~Hadong-gun~Haman-gun~Hamyang-gun~Hapcheon-gun",
-            "sub_zips": "53[23]~501~529~5(?:0[89]|10)~524~504~525~522~50[56]~521~52[6-8]~503~51[2-7]~53[01]~523~520~500~502",
+            "sub_zips": "53[23]~501~529~5(?:0[89]|10)~524~504~525~522~50[56]~521~52[6-8]~503~51[1-7]~53[01]~523~520~500~502",
             "sub_mores": "false~false~false~false~false~false~false~false~false~false~false~false~true~false~false~false~false~false"
         },
         "경상남도\/거제시": {
@@ -657,7 +657,7 @@
             "key": "창원시",
             "lang": "ko",
             "lname": "Changwon-si",
-            "zip": "51[2-7]",
+            "zip": "51[1-7]",
             "sub_keys": "마산합포구~마산회원구~성산구~의창구~진해구",
             "sub_lnames": "Masanhappo-gu~Masanhoewon-gu~Seongsan-gu~Uichang-gu~Jinhae-gu",
             "sub_zips": "51[237]~51[23]~51[457]~51[1-4]~51[5-7]"
@@ -741,10 +741,10 @@
             "zip": "(?:3[6-9]|40)\\d{2}",
             "zipex": "38540",
             "isoid": "47",
-            "sub_keys": "경산시~경주시~고령군~구미시~군위군~김천시~문경시~봉화군~상주시~성주군~안동시~영덕군~영양군~영주시~영천시~예천군~울릉군~울진군~의성군~청도군~청송군~칠곡군~포항시",
-            "sub_lnames": "Gyeongsan-si~Gyeongju-si~Goryeong-gun~Gumi-si~Gunwi-gun~Gimcheon-si~Mungyeong-si~Bonghwa-gun~Sangju-si~Seongju-gun~Andong-si~Yeongdeok-gun~Yeongyang-gun~Yeongju-si~Yeongcheon-si~Yecheon-gun~Ulleung-gun~Uljin-gun~Uiseong-gun~Cheongdo-gun~Cheongsong-gun~Chilgok-gun~Pohang-si",
-            "sub_zips": "38[4-6]~38[0-2]~401~39[1-4]~390~39[56]~3(?:69|70)~362~37[12]~400~36[67]~364~365~36[01]~38[89]~368~402~363~373~383~374~39[89]~37[5-9]",
-            "sub_mores": "false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~true"
+            "sub_keys": "경산시~경주시~고령군~구미시~김천시~문경시~봉화군~상주시~성주군~안동시~영덕군~영양군~영주시~영천시~예천군~울릉군~울진군~의성군~청도군~청송군~칠곡군~포항시",
+            "sub_lnames": "Gyeongsan-si~Gyeongju-si~Goryeong-gun~Gumi-si~Gimcheon-si~Mungyeong-si~Bonghwa-gun~Sangju-si~Seongju-gun~Andong-si~Yeongdeok-gun~Yeongyang-gun~Yeongju-si~Yeongcheon-si~Yecheon-gun~Ulleung-gun~Uljin-gun~Uiseong-gun~Cheongdo-gun~Cheongsong-gun~Chilgok-gun~Pohang-si",
+            "sub_zips": "38[4-6]~38[0-2]~401~39[1-4]~39[56]~3(?:69|70)~362~37[12]~400~36[67]~364~365~36[01]~38[89]~368~402~363~373~383~374~39[89]~37[5-9]",
+            "sub_mores": "false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~false~true"
         },
         "경상북도\/경산시": {
             "id": "data\/KR\/경상북도\/경산시",
@@ -773,13 +773,6 @@
             "lang": "ko",
             "lname": "Gumi-si",
             "zip": "39[1-4]"
-        },
-        "경상북도\/군위군": {
-            "id": "data\/KR\/경상북도\/군위군",
-            "key": "군위군",
-            "lang": "ko",
-            "lname": "Gunwi-gun",
-            "zip": "390"
         },
         "경상북도\/김천시": {
             "id": "data\/KR\/경상북도\/김천시",
@@ -981,9 +974,16 @@
             "zip": "4[123]\\d{2}",
             "zipex": "42456",
             "isoid": "27",
-            "sub_keys": "남구~달서구~달성군~동구~북구~서구~수성구~중구",
-            "sub_lnames": "Nam-gu~Dalseo-gu~Dalseong-gun~Dong-gu~Buk-gu~Seo-gu~Suseong-gu~Jung-gu",
-            "sub_zips": "42[45]~42[678]~4(?:29|30)~41[0-2]~41[45]~41[78]~42[0-2]~419"
+            "sub_keys": "군위군~남구~달서구~달성군~동구~북구~서구~수성구~중구",
+            "sub_lnames": "Gunwi-gun~Nam-gu~Dalseo-gu~Dalseong-gun~Dong-gu~Buk-gu~Seo-gu~Suseong-gu~Jung-gu",
+            "sub_zips": "431~42[45]~42[678]~4(?:29|30)~41[0-2]~41[45]~41[78]~42[0-2]~419"
+        },
+        "대구광역시\/군위군": {
+            "id": "data\/KR\/대구광역시\/군위군",
+            "key": "군위군",
+            "lang": "ko",
+            "lname": "Gunwi-gun",
+            "zip": "431"
         },
         "대구광역시\/남구": {
             "id": "data\/KR\/대구광역시\/남구",
@@ -1411,8 +1411,8 @@
             "zip": "30[01]\\d",
             "zipex": "30065",
             "isoid": "50",
-            "sub_keys": "고운동~금남면~다정동~대평동~도담동~보람동~부강면~새롬동~소담동~소정면~아름동~연기면~연동면~연서면~장군면~전동면~전의면~조치원읍~종촌동~한솔동",
-            "sub_lnames": "Goun-dong~Geumnam-myeon~Dajeong-dong~Daepyeong-dong~Dodam-dong~Boram-dong~Bugang-myeon~Saerom-dong~Sodam-dong~Sojeong-myeon~Areum-dong~Yeongi-myeon~Yeondong-myeon~Yeonseo-myeon~Janggun-myeon~Jeondong-myeon~Jeonui-myeon~Jochiwon-eup~Jongchon-dong~Hansol-dong"
+            "sub_keys": "고운동~금남면~나성동~다정동~대평동~도담동~반곡동~보람동~부강면~산울동~새롬동~소담동~소정면~아름동~어진동~연기면~연동면~연서면~장군면~전동면~전의면~조치원읍~종촌동~한솔동~해밀동",
+            "sub_lnames": "Goun-dong~Geumnam-myeon~Naseong-dong~Dajeong-dong~Daepyeong-dong~Dodam-dong~Bangok-dong~Boram-dong~Bugang-myeon~Sanul-dong~Saerom-dong~Sodam-dong~Sojeong-myeon~Areum-dong~Eojin-dong~Yeongi-myeon~Yeondong-myeon~Yeonseo-myeon~Janggun-myeon~Jeondong-myeon~Jeonui-myeon~Jochiwon-eup~Jongchon-dong~Hansol-dong~Haemil-dong"
         },
         "세종특별자치시\/고운동": {
             "id": "data\/KR\/세종특별자치시\/고운동",
@@ -1425,6 +1425,12 @@
             "key": "금남면",
             "lang": "ko",
             "lname": "Geumnam-myeon"
+        },
+        "세종특별자치시\/나성동": {
+            "id": "data\/KR\/세종특별자치시\/나성동",
+            "key": "나성동",
+            "lang": "ko",
+            "lname": "Naseong-dong"
         },
         "세종특별자치시\/다정동": {
             "id": "data\/KR\/세종특별자치시\/다정동",
@@ -1444,6 +1450,12 @@
             "lang": "ko",
             "lname": "Dodam-dong"
         },
+        "세종특별자치시\/반곡동": {
+            "id": "data\/KR\/세종특별자치시\/반곡동",
+            "key": "반곡동",
+            "lang": "ko",
+            "lname": "Bangok-dong"
+        },
         "세종특별자치시\/보람동": {
             "id": "data\/KR\/세종특별자치시\/보람동",
             "key": "보람동",
@@ -1455,6 +1467,12 @@
             "key": "부강면",
             "lang": "ko",
             "lname": "Bugang-myeon"
+        },
+        "세종특별자치시\/산울동": {
+            "id": "data\/KR\/세종특별자치시\/산울동",
+            "key": "산울동",
+            "lang": "ko",
+            "lname": "Sanul-dong"
         },
         "세종특별자치시\/새롬동": {
             "id": "data\/KR\/세종특별자치시\/새롬동",
@@ -1479,6 +1497,12 @@
             "key": "아름동",
             "lang": "ko",
             "lname": "Areum-dong"
+        },
+        "세종특별자치시\/어진동": {
+            "id": "data\/KR\/세종특별자치시\/어진동",
+            "key": "어진동",
+            "lang": "ko",
+            "lname": "Eojin-dong"
         },
         "세종특별자치시\/연기면": {
             "id": "data\/KR\/세종특별자치시\/연기면",
@@ -1533,6 +1557,12 @@
             "key": "한솔동",
             "lang": "ko",
             "lname": "Hansol-dong"
+        },
+        "세종특별자치시\/해밀동": {
+            "id": "data\/KR\/세종특별자치시\/해밀동",
+            "key": "해밀동",
+            "lang": "ko",
+            "lname": "Haemil-dong"
         },
         "울산광역시": {
             "id": "data\/KR\/울산광역시",
@@ -1591,9 +1621,9 @@
             "zip": "2[1-3]\\d{2}",
             "zipex": "23024",
             "isoid": "28",
-            "sub_keys": "강화군~계양구~남구~남동구~동구~부평구~서구~연수구~옹진군~중구",
-            "sub_lnames": "Ganghwa-gun~Gyeyang-gu~Nam-gu~Namdong-gu~Dong-gu~Bupyeong-gu~Seo-gu~Yeonsu-gu~Ongjin-gun~Jung-gu",
-            "sub_zips": "230~21[01]~22[12]~21[5-7]~225~21[34]~22[6-8]~2(?:19|20)~231~22[34]"
+            "sub_keys": "강화군~계양구~남동구~동구~미추홀구~부평구~서구~연수구~옹진군~중구",
+            "sub_lnames": "Ganghwa-gun~Gyeyang-gu~Namdong-gu~Dong-gu~Michuhol-gu~Bupyeong-gu~Seo-gu~Yeonsu-gu~Ongjin-gun~Jung-gu",
+            "sub_zips": "230~21[01]~21[5-7]~225~22[12]~21[34]~22[6-8]~2(?:19|20)~231~22[34]"
         },
         "인천광역시\/강화군": {
             "id": "data\/KR\/인천광역시\/강화군",
@@ -1609,13 +1639,6 @@
             "lname": "Gyeyang-gu",
             "zip": "21[01]"
         },
-        "인천광역시\/남구": {
-            "id": "data\/KR\/인천광역시\/남구",
-            "key": "남구",
-            "lang": "ko",
-            "lname": "Nam-gu",
-            "zip": "22[12]"
-        },
         "인천광역시\/남동구": {
             "id": "data\/KR\/인천광역시\/남동구",
             "key": "남동구",
@@ -1629,6 +1652,13 @@
             "lang": "ko",
             "lname": "Dong-gu",
             "zip": "225"
+        },
+        "인천광역시\/미추홀구": {
+            "id": "data\/KR\/인천광역시\/미추홀구",
+            "key": "미추홀구",
+            "lang": "ko",
+            "lname": "Michuhol-gu",
+            "zip": "22[12]"
         },
         "인천광역시\/부평구": {
             "id": "data\/KR\/인천광역시\/부평구",
@@ -1931,14 +1961,14 @@
             "zip": "5(?:4[89]|5[01])",
             "sub_keys": "덕진구~완산구",
             "sub_lnames": "Deokjin-gu~Wansan-gu",
-            "sub_zips": "5(?:4[89]|50)~5(?:4[89]|5[01])"
+            "sub_zips": "5(?:4[89]|5[01])~5(?:4[89]|5[01])"
         },
         "전라북도\/전주시\/덕진구": {
             "id": "data\/KR\/전라북도\/전주시\/덕진구",
             "key": "덕진구",
             "lang": "ko",
             "lname": "Deokjin-gu",
-            "zip": "5(?:4[89]|50)"
+            "zip": "5(?:4[89]|5[01])"
         },
         "전라북도\/전주시\/완산구": {
             "id": "data\/KR\/전라북도\/전주시\/완산구",

@@ -3,10 +3,81 @@
         "id": "data\/BB",
         "key": "BB",
         "name": "BARBADOS",
+        "lang": "en",
+        "languages": "en",
         "fmt": "%N%n%O%n%A%n%C, %S %Z",
         "zip": "BB\\d{5}",
         "zipex": "BB23026,BB22025",
-        "state_name_type": "parish"
+        "state_name_type": "parish",
+        "sub_keys": "Christ Church~Saint Andrew~Saint George~Saint James~Saint John~Saint Joseph~Saint Lucy~Saint Michael~Saint Peter~Saint Philip~Saint Thomas",
+        "sub_isoids": "01~02~03~04~05~06~07~08~09~10~11"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Christ Church": {
+            "id": "data\/BB\/Christ Church",
+            "key": "Christ Church",
+            "lang": "en",
+            "isoid": "01"
+        },
+        "Saint Andrew": {
+            "id": "data\/BB\/Saint Andrew",
+            "key": "Saint Andrew",
+            "lang": "en",
+            "isoid": "02"
+        },
+        "Saint George": {
+            "id": "data\/BB\/Saint George",
+            "key": "Saint George",
+            "lang": "en",
+            "isoid": "03"
+        },
+        "Saint James": {
+            "id": "data\/BB\/Saint James",
+            "key": "Saint James",
+            "lang": "en",
+            "isoid": "04"
+        },
+        "Saint John": {
+            "id": "data\/BB\/Saint John",
+            "key": "Saint John",
+            "lang": "en",
+            "isoid": "05"
+        },
+        "Saint Joseph": {
+            "id": "data\/BB\/Saint Joseph",
+            "key": "Saint Joseph",
+            "lang": "en",
+            "isoid": "06"
+        },
+        "Saint Lucy": {
+            "id": "data\/BB\/Saint Lucy",
+            "key": "Saint Lucy",
+            "lang": "en",
+            "isoid": "07"
+        },
+        "Saint Michael": {
+            "id": "data\/BB\/Saint Michael",
+            "key": "Saint Michael",
+            "lang": "en",
+            "isoid": "08"
+        },
+        "Saint Peter": {
+            "id": "data\/BB\/Saint Peter",
+            "key": "Saint Peter",
+            "lang": "en",
+            "isoid": "09"
+        },
+        "Saint Philip": {
+            "id": "data\/BB\/Saint Philip",
+            "key": "Saint Philip",
+            "lang": "en",
+            "isoid": "10"
+        },
+        "Saint Thomas": {
+            "id": "data\/BB\/Saint Thomas",
+            "key": "Saint Thomas",
+            "lang": "en",
+            "isoid": "11"
+        }
+    }
 }

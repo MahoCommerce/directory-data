@@ -3,11 +3,106 @@
         "id": "data\/EE",
         "key": "EE",
         "name": "ESTONIA",
+        "lang": "et",
+        "languages": "et",
         "fmt": "%N%n%O%n%A%n%Z %C %S",
         "require": "ACZ",
         "zip": "\\d{5}",
         "zipex": "69501,11212",
-        "posturl": "https:\/\/www.omniva.ee\/era\/sihtnumbrite_otsing"
+        "posturl": "https:\/\/www.omniva.ee\/era\/sihtnumbrite_otsing",
+        "sub_keys": "Harjumaa~Hiiumaa~Ida-Virumaa~Jõgevamaa~Järvamaa~Lääne-Virumaa~Läänemaa~Põlvamaa~Pärnumaa~Raplamaa~Saaremaa~Tartumaa~Valgamaa~Viljandimaa~Võrumaa",
+        "sub_isoids": "37~39~45~50~52~60~56~64~68~71~74~79~81~84~87"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Harjumaa": {
+            "id": "data\/EE\/Harjumaa",
+            "key": "Harjumaa",
+            "lang": "et",
+            "isoid": "37"
+        },
+        "Hiiumaa": {
+            "id": "data\/EE\/Hiiumaa",
+            "key": "Hiiumaa",
+            "lang": "et",
+            "isoid": "39"
+        },
+        "Ida-Virumaa": {
+            "id": "data\/EE\/Ida-Virumaa",
+            "key": "Ida-Virumaa",
+            "lang": "et",
+            "isoid": "45"
+        },
+        "Järvamaa": {
+            "id": "data\/EE\/Järvamaa",
+            "key": "Järvamaa",
+            "lang": "et",
+            "isoid": "52"
+        },
+        "Jõgevamaa": {
+            "id": "data\/EE\/Jõgevamaa",
+            "key": "Jõgevamaa",
+            "lang": "et",
+            "isoid": "50"
+        },
+        "Lääne-Virumaa": {
+            "id": "data\/EE\/Lääne-Virumaa",
+            "key": "Lääne-Virumaa",
+            "lang": "et",
+            "isoid": "60"
+        },
+        "Läänemaa": {
+            "id": "data\/EE\/Läänemaa",
+            "key": "Läänemaa",
+            "lang": "et",
+            "isoid": "56"
+        },
+        "Pärnumaa": {
+            "id": "data\/EE\/Pärnumaa",
+            "key": "Pärnumaa",
+            "lang": "et",
+            "isoid": "68"
+        },
+        "Põlvamaa": {
+            "id": "data\/EE\/Põlvamaa",
+            "key": "Põlvamaa",
+            "lang": "et",
+            "isoid": "64"
+        },
+        "Raplamaa": {
+            "id": "data\/EE\/Raplamaa",
+            "key": "Raplamaa",
+            "lang": "et",
+            "isoid": "71"
+        },
+        "Saaremaa": {
+            "id": "data\/EE\/Saaremaa",
+            "key": "Saaremaa",
+            "lang": "et",
+            "isoid": "74"
+        },
+        "Tartumaa": {
+            "id": "data\/EE\/Tartumaa",
+            "key": "Tartumaa",
+            "lang": "et",
+            "isoid": "79"
+        },
+        "Valgamaa": {
+            "id": "data\/EE\/Valgamaa",
+            "key": "Valgamaa",
+            "lang": "et",
+            "isoid": "81"
+        },
+        "Viljandimaa": {
+            "id": "data\/EE\/Viljandimaa",
+            "key": "Viljandimaa",
+            "lang": "et",
+            "isoid": "84"
+        },
+        "Võrumaa": {
+            "id": "data\/EE\/Võrumaa",
+            "key": "Võrumaa",
+            "lang": "et",
+            "isoid": "87"
+        }
+    }
 }

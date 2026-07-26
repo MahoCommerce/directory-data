@@ -7,7 +7,7 @@
         "require": "ACZ",
         "zip": "\\d{4}",
         "zipex": "4000,1000",
-        "posturl": "http:\/\/www.post.be\/site\/nl\/residential\/customerservice\/search\/postal_codes.html"
+        "posturl": "https:\/\/www.bpost.be\/nl\/postcodevalidatie-tool"
     },
     "subdivisions": []
 }

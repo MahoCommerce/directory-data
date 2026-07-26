@@ -3,11 +3,198 @@
         "id": "data\/UZ",
         "key": "UZ",
         "name": "UZBEKISTAN",
+        "lang": "uz",
+        "languages": "uz~ru",
         "fmt": "%N%n%O%n%A%n%Z %C%n%S",
         "upper": "CS",
         "zip": "\\d{6}",
         "zipex": "702100,700000",
-        "posturl": "http:\/\/www.pochta.uz\/ru\/uslugi\/indexsearch.html"
+        "posturl": "https:\/\/uz.post\/ru\/mening-pochta-indeksim",
+        "sub_keys": "Andijon Viloyati~Buxoro Viloyati~Farg'ona Viloyati~Jizzax Viloyati~Namangan Viloyati~Navoiy Viloyati~Qashqadaryo Viloyati~Qoraqalpog’iston Respublikasi~Samarqand Viloyati~Sirdaryo Viloyati~Surxondaryo Viloyati~Toshkent~Toshkent Viloyati~Xorazm Viloyati",
+        "sub_isoids": "AN~BU~FA~JI~NG~NW~QA~QR~SA~SI~SU~TK~TO~XO"
     },
-    "subdivisions": []
+    "subdivisions": {
+        "Andijon Viloyati": {
+            "id": "data\/UZ\/Andijon Viloyati",
+            "key": "Andijon Viloyati",
+            "lang": "uz",
+            "isoid": "AN"
+        },
+        "Buxoro Viloyati": {
+            "id": "data\/UZ\/Buxoro Viloyati",
+            "key": "Buxoro Viloyati",
+            "lang": "uz",
+            "isoid": "BU"
+        },
+        "Farg'ona Viloyati": {
+            "id": "data\/UZ\/Farg'ona Viloyati",
+            "key": "Farg'ona Viloyati",
+            "lang": "uz",
+            "isoid": "FA"
+        },
+        "Jizzax Viloyati": {
+            "id": "data\/UZ\/Jizzax Viloyati",
+            "key": "Jizzax Viloyati",
+            "lang": "uz",
+            "isoid": "JI"
+        },
+        "Namangan Viloyati": {
+            "id": "data\/UZ\/Namangan Viloyati",
+            "key": "Namangan Viloyati",
+            "lang": "uz",
+            "isoid": "NG"
+        },
+        "Navoiy Viloyati": {
+            "id": "data\/UZ\/Navoiy Viloyati",
+            "key": "Navoiy Viloyati",
+            "lang": "uz",
+            "isoid": "NW"
+        },
+        "Qashqadaryo Viloyati": {
+            "id": "data\/UZ\/Qashqadaryo Viloyati",
+            "key": "Qashqadaryo Viloyati",
+            "lang": "uz",
+            "isoid": "QA"
+        },
+        "Qoraqalpog’iston Respublikasi": {
+            "id": "data\/UZ\/Qoraqalpog’iston Respublikasi",
+            "key": "Qoraqalpog’iston Respublikasi",
+            "lang": "uz",
+            "isoid": "QR"
+        },
+        "Samarqand Viloyati": {
+            "id": "data\/UZ\/Samarqand Viloyati",
+            "key": "Samarqand Viloyati",
+            "lang": "uz",
+            "isoid": "SA"
+        },
+        "Sirdaryo Viloyati": {
+            "id": "data\/UZ\/Sirdaryo Viloyati",
+            "key": "Sirdaryo Viloyati",
+            "lang": "uz",
+            "isoid": "SI"
+        },
+        "Surxondaryo Viloyati": {
+            "id": "data\/UZ\/Surxondaryo Viloyati",
+            "key": "Surxondaryo Viloyati",
+            "lang": "uz",
+            "isoid": "SU"
+        },
+        "Toshkent": {
+            "id": "data\/UZ\/Toshkent",
+            "key": "Toshkent",
+            "lang": "uz",
+            "isoid": "TK"
+        },
+        "Toshkent Viloyati": {
+            "id": "data\/UZ\/Toshkent Viloyati",
+            "key": "Toshkent Viloyati",
+            "lang": "uz",
+            "isoid": "TO"
+        },
+        "Xorazm Viloyati": {
+            "id": "data\/UZ\/Xorazm Viloyati",
+            "key": "Xorazm Viloyati",
+            "lang": "uz",
+            "isoid": "XO"
+        },
+        "Андижанская область--ru": {
+            "id": "data\/UZ\/Андижанская область--ru",
+            "key": "Андижанская область",
+            "lang": "ru",
+            "lname": "Andijon Viloyati",
+            "isoid": "AN"
+        },
+        "Бухара--ru": {
+            "id": "data\/UZ\/Бухара--ru",
+            "key": "Бухара",
+            "lang": "ru",
+            "lname": "Buxoro Viloyati",
+            "isoid": "BU"
+        },
+        "Джизакская область--ru": {
+            "id": "data\/UZ\/Джизакская область--ru",
+            "key": "Джизакская область",
+            "lang": "ru",
+            "lname": "Jizzax Viloyati",
+            "isoid": "JI"
+        },
+        "Каракалпакија--ru": {
+            "id": "data\/UZ\/Каракалпакија--ru",
+            "key": "Каракалпакија",
+            "lang": "ru",
+            "lname": "Qoraqalpog’iston Respublikasi",
+            "isoid": "QR"
+        },
+        "Кашкадарья--ru": {
+            "id": "data\/UZ\/Кашкадарья--ru",
+            "key": "Кашкадарья",
+            "lang": "ru",
+            "lname": "Qashqadaryo Viloyati",
+            "isoid": "QA"
+        },
+        "Навоийская область--ru": {
+            "id": "data\/UZ\/Навоийская область--ru",
+            "key": "Навоийская область",
+            "lang": "ru",
+            "lname": "Navoiy Viloyati",
+            "isoid": "NW"
+        },
+        "Наманганская область--ru": {
+            "id": "data\/UZ\/Наманганская область--ru",
+            "key": "Наманганская область",
+            "lang": "ru",
+            "lname": "Namangan Viloyati",
+            "isoid": "NG"
+        },
+        "Самаркандская область--ru": {
+            "id": "data\/UZ\/Самаркандская область--ru",
+            "key": "Самаркандская область",
+            "lang": "ru",
+            "lname": "Samarqand Viloyati",
+            "isoid": "SA"
+        },
+        "Сирдарјо--ru": {
+            "id": "data\/UZ\/Сирдарјо--ru",
+            "key": "Сирдарјо",
+            "lang": "ru",
+            "lname": "Sirdaryo Viloyati",
+            "isoid": "SI"
+        },
+        "Сурхандарья--ru": {
+            "id": "data\/UZ\/Сурхандарья--ru",
+            "key": "Сурхандарья",
+            "lang": "ru",
+            "lname": "Surxondaryo Viloyati",
+            "isoid": "SU"
+        },
+        "Ташкентская область--ru": {
+            "id": "data\/UZ\/Ташкентская область--ru",
+            "key": "Ташкентская область",
+            "lang": "ru",
+            "lname": "Toshkent Viloyati",
+            "isoid": "TO"
+        },
+        "Ташкентская--ru": {
+            "id": "data\/UZ\/Ташкентская--ru",
+            "key": "Ташкентская",
+            "lang": "ru",
+            "lname": "Toshkent",
+            "isoid": "TK"
+        },
+        "Фергана облусу--ru": {
+            "id": "data\/UZ\/Фергана облусу--ru",
+            "key": "Фергана облусу",
+            "lang": "ru",
+            "lname": "Farg'ona Viloyati",
+            "isoid": "FA"
+        },
+        "Хорезмская область--ru": {
+            "id": "data\/UZ\/Хорезмская область--ru",
+            "key": "Хорезмская область",
+            "lang": "ru",
+            "lname": "Xorazm Viloyati",
+            "isoid": "XO"
+        }
+    }
 }

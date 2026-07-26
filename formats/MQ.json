@@ -8,7 +8,7 @@
         "upper": "ACX",
         "zip": "9[78]2\\d{2}",
         "zipex": "97220",
-        "posturl": "http:\/\/www.laposte.fr\/Particulier\/Utiliser-nos-outils-pratiques\/Outils-et-documents\/Trouvez-un-code-postal"
+        "posturl": "https:\/\/www.laposte.fr\/outils\/trouver-un-code-postal"
     },
     "subdivisions": []
 }
