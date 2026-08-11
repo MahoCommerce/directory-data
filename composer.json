@@ -16,7 +16,9 @@
         "ext-intl": "*",
         "sokil/php-isocodes": "^4.4",
         "sokil/php-isocodes-db-i18n": "^4.0",
-        "symfony/translation": "^7.4"
+        "symfony/translation": "^7.4",
+        "friendsofphp/php-cs-fixer": "*",
+        "rector/rector": "*"
     },
     "autoload": {
         "psr-4": {
