@@ -105,7 +105,7 @@ foreach ($countries as $cc) {
 
     $json = json_encode($payload, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     if ($json === false) {
-        echo "FAILED (json_encode: " . json_last_error_msg() . ")\n";
+        echo 'FAILED (json_encode: ' . json_last_error_msg() . ")\n";
         $errors[$cc] = 'json_encode failed';
         continue;
     }

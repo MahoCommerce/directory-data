@@ -12,7 +12,8 @@ use Symfony\Component\Translation\Loader\MoFileLoader;
 // Strip trailing iso-codes annotation brackets from a subdivision name.
 // Upstream encodes alt-script names and parent_code references as " [...]"
 // suffixes (e.g. "Wales [Cymru GB-CYM]", "Stockholms län [SE-01]"). See #5.
-function stripIsoBrackets(string $name): string {
+function stripIsoBrackets(string $name): string
+{
     return trim(preg_replace('/\s*\[[^\]]+\]\s*$/u', '', $name));
 }
 
@@ -29,33 +30,37 @@ if (!is_dir($translationBasePath)) {
 
 $allIntlLocales = [];
 foreach (scandir($translationBasePath) as $dir) {
-    if ($dir === '.' || $dir === '..') continue;
-    if (!is_dir($translationBasePath . '/' . $dir)) continue;
+    if ($dir === '.' || $dir === '..') {
+        continue;
+    }
+    if (!is_dir($translationBasePath . '/' . $dir)) {
+        continue;
+    }
     $allIntlLocales[] = $dir;
 }
 
 sort($allIntlLocales);
 
-echo "Found " . count($allIntlLocales) . " locales in iso-codes translation directory\n";
+echo 'Found ' . count($allIntlLocales) . " locales in iso-codes translation directory\n";
 
 $countriesData = [];
 
 // First, process en to establish the base names
 echo "Processing base locale: en\n";
 try {
-    $translationDriver = new SymfonyTranslationDriver(null);
+    $translationDriver = new SymfonyTranslationDriver();
     $translationDriver->setLocale('en');
     $factory = new IsoCodesFactory(null, $translationDriver);
     $countries = $factory->getCountries();
-    
+
     foreach ($countries as $country) {
         $alpha2 = $country->getAlpha2();
         $countriesData[$alpha2] = [];
         $countriesData[$alpha2]['en'] = $country->getLocalName() ?: $country->getName();
     }
-    echo "Processed " . count($countriesData) . " countries for en\n";
+    echo 'Processed ' . count($countriesData) . " countries for en\n";
 } catch (Exception $e) {
-    echo "  ✗ Error processing en: " . $e->getMessage() . "\n";
+    echo '  ✗ Error processing en: ' . $e->getMessage() . "\n";
     exit(1);
 }
 
@@ -64,46 +69,46 @@ foreach ($allIntlLocales as $locale) {
     if ($locale === 'en') {
         continue; // Skip, already processed
     }
-    
+
     // Skip locales with @ suffix (script variants like sr@latin, tt@iqtelif)
-    if (strpos($locale, '@') !== false) {
+    if (str_contains($locale, '@')) {
         continue;
     }
-    
+
     echo "Processing locale: $locale\n";
-    
+
     try {
         // Create translation driver (no cache directory)
-        $translationDriver = new SymfonyTranslationDriver(null);
-        
+        $translationDriver = new SymfonyTranslationDriver();
+
         // Set the locale - Symfony will handle fallback automatically
         $translationDriver->setLocale($locale);
-        
+
         // Create ISO codes factory with the translation driver
         $factory = new IsoCodesFactory(null, $translationDriver);
         $countries = $factory->getCountries();
-        
+
         // Get all countries and their translations
         foreach ($countries as $country) {
             $alpha2 = $country->getAlpha2();
-            
+
             // Skip if country not in our base data
             if (!isset($countriesData[$alpha2])) {
                 continue;
             }
-            
+
             // Get the localized name
             $localizedName = $country->getLocalName();
             $enName = $countriesData[$alpha2]['en'];
-            
+
             // Skip if translation is same as en (no point in storing duplicate)
             if (!$localizedName || $localizedName === $enName) {
                 continue;
             }
-            
+
             // Check if this is a variant locale (e.g., de_AT, de_CH)
             $languageCode = strstr($locale, '_', true); // Get language part (e.g., 'de' from 'de_AT')
-            
+
             // If it's a variant locale, check if base language already exists with same translation
             if ($languageCode && isset($countriesData[$alpha2][$languageCode])) {
                 // Skip if the variant has the same translation as the base language
@@ -111,10 +116,10 @@ foreach ($allIntlLocales as $locale) {
                     continue; // Skip this variant
                 }
             }
-            
+
             $countriesData[$alpha2][$locale] = $localizedName;
         }
-        
+
     } catch (Exception $e) {
         echo "  ✗ Error processing locale $locale: " . $e->getMessage() . "\n";
         continue;
@@ -128,13 +133,13 @@ ksort($countriesData);
 $jsonOutput = json_encode($countriesData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 
 if ($jsonOutput === false) {
-    echo "Error encoding JSON: " . json_last_error_msg() . "\n";
+    echo 'Error encoding JSON: ' . json_last_error_msg() . "\n";
     exit(1);
 }
 
 file_put_contents('countries.json', $jsonOutput);
 
-echo "Generated countries.json with " . count($countriesData) . " countries\n";
+echo 'Generated countries.json with ' . count($countriesData) . " countries\n";
 
 // Generate regions
 echo "\nGenerating regions...\n";
@@ -151,11 +156,11 @@ $regionsData = [];
 // First, process en subdivisions to establish the base names
 echo "Processing base subdivisions for locale: en\n";
 try {
-    $translationDriver = new SymfonyTranslationDriver(null);
+    $translationDriver = new SymfonyTranslationDriver();
     $translationDriver->setLocale('en');
     $factory = new IsoCodesFactory(null, $translationDriver);
     $subdivisions = $factory->getSubdivisions();
-    
+
     // Define type hierarchy from most general to most specific (based on Maho's approach)
     $typeHierarchy = [
         // Most general
@@ -171,10 +176,10 @@ try {
         'Commune', 'Parish', 'Borough',
         // Most specific
     ];
-    
+
     // Create a map of type to hierarchy level
     $typeScore = array_flip($typeHierarchy);
-    
+
     // Group subdivisions by country and analyze types
     $subdivisionsByCountry = [];
     foreach ($subdivisions as $subdivision) {
@@ -187,7 +192,7 @@ try {
         }
         $subdivisionsByCountry[$countryCode][] = $subdivision;
     }
-    
+
     // For each country, select the most appropriate subdivision level
     foreach ($subdivisionsByCountry as $countryCode => $countrySubdivisions) {
         // Count subdivisions by type
@@ -199,21 +204,21 @@ try {
             }
             $typeCounts[$type]++;
         }
-        
+
         // Find the most specific type with significant coverage (>10 subdivisions or >40% of total)
         $totalCount = count($countrySubdivisions);
         $selectedTypes = [];
-        
+
         // Sort types by specificity (highest score first)
         $scoredTypes = [];
         foreach ($typeCounts as $type => $count) {
-            $score = isset($typeScore[$type]) ? $typeScore[$type] : 999;
+            $score = $typeScore[$type] ?? 999;
             $scoredTypes[] = ['type' => $type, 'count' => $count, 'score' => $score];
         }
-        usort($scoredTypes, function($a, $b) {
+        usort($scoredTypes, function ($a, $b) {
             return $b['score'] - $a['score']; // Higher score = more specific
         });
-        
+
         // Define shipping-relevant subdivision types by country
         // Based on: UPU addressing standards, ISO 19160, e-commerce platforms (Magento/PrestaShop), and postal services
         // These are the administrative levels typically used for shipping/postal addresses
@@ -249,7 +254,7 @@ try {
             'RU' => ['Republic', 'Administrative territory', 'Administrative region', 'Autonomous district', 'Autonomous city', 'Autonomous region'],
             'BS' => ['District', 'Island'],
         ];
-        
+
         if (isset($shippingTypes[$countryCode])) {
             // Use predefined shipping-relevant types for this country
             $allowedTypes = $shippingTypes[$countryCode];
@@ -264,7 +269,7 @@ try {
                 echo "  Note: $countryCode has additional types: " . implode(', ', $unexpectedTypes) . "\n";
             }
         }
-        
+
         // If no predefined types found, fall back to smart selection
         if (empty($selectedTypes)) {
             echo "  Unknown country $countryCode - types available: " . implode(', ', array_keys($typeCounts)) . "\n";
@@ -272,15 +277,15 @@ try {
             // Skip very general (regions/states with <20 subdivisions) and very specific (municipalities)
             $skipGeneral = ['Region', 'Autonomous region', 'Country', 'Nation'];
             $skipSpecific = ['Municipality', 'City', 'Commune', 'Parish', 'Borough', 'Town'];
-            
+
             foreach ($scoredTypes as $typeInfo) {
-                if (!in_array($typeInfo['type'], $skipGeneral) && 
+                if (!in_array($typeInfo['type'], $skipGeneral) &&
                     !in_array($typeInfo['type'], $skipSpecific) &&
                     $typeInfo['count'] >= 3) {
                     $selectedTypes[] = $typeInfo['type'];
                 }
             }
-            
+
             // If still nothing, take the most common type
             if (empty($selectedTypes)) {
                 $maxCount = max($typeCounts);
@@ -292,34 +297,34 @@ try {
                 }
             }
         }
-        
+
         // Process subdivisions of selected types
         foreach ($countrySubdivisions as $subdivision) {
             if (!in_array($subdivision->getType(), $selectedTypes)) {
                 continue;
             }
-            
+
             $code = $subdivision->getCode();
             $regionCode = substr($code, 3); // After the hyphen
-            
+
             // Initialize country regions if not exists
             if (!isset($regionsData[$countryCode])) {
                 $regionsData[$countryCode] = [];
             }
-            
+
             // Initialize region entry if not exists
             if (!isset($regionsData[$countryCode][$regionCode])) {
                 $regionsData[$countryCode][$regionCode] = [];
             }
-            
+
             $regionsData[$countryCode][$regionCode]['en'] = stripIsoBrackets(
-                $subdivision->getLocalName() ?: $subdivision->getName()
+                $subdivision->getLocalName() ?: $subdivision->getName(),
             );
         }
     }
     echo "Processed subdivisions for en\n";
 } catch (Exception $e) {
-    echo "  ✗ Error processing en subdivisions: " . $e->getMessage() . "\n";
+    echo '  ✗ Error processing en subdivisions: ' . $e->getMessage() . "\n";
 }
 
 // Augment regions from libaddressinput (formats/) for entries that genuinely
@@ -338,7 +343,7 @@ foreach ($formatsAugmentations as $cc => $keys) {
         echo "  Warning: formats/$cc.json missing — skipping augmentation for $cc. Run generate-formats.php first.\n";
         continue;
     }
-    $formatsData = json_decode((string)file_get_contents($formatsPath), true);
+    $formatsData = json_decode((string) file_get_contents($formatsPath), true);
     if (!is_array($formatsData)) {
         echo "  Warning: formats/$cc.json is not valid JSON — skipping augmentation for $cc.\n";
         continue;
@@ -370,31 +375,31 @@ foreach ($allIntlLocales as $locale) {
     if ($locale === 'en') {
         continue; // Skip, already processed
     }
-    
+
     // Skip locales with @ suffix (script variants like sr@latin, tt@iqtelif)
-    if (strpos($locale, '@') !== false) {
+    if (str_contains($locale, '@')) {
         continue;
     }
-    
+
     echo "Processing subdivisions for locale: $locale\n";
-    
+
     try {
         // Create translation driver (no cache directory)
-        $translationDriver = new SymfonyTranslationDriver(null);
-        
+        $translationDriver = new SymfonyTranslationDriver();
+
         // Set the locale - Symfony will handle fallback automatically
         $translationDriver->setLocale($locale);
-        
+
         // Create ISO codes factory with the translation driver
         $factory = new IsoCodesFactory(null, $translationDriver);
         $subdivisions = $factory->getSubdivisions();
-        
+
         // Get all subdivisions and their translations
         foreach ($subdivisions as $subdivision) {
             $code = $subdivision->getCode();
             $countryCode = substr($code, 0, 2); // First 2 characters are country code
             $regionCode = substr($code, 3); // After the hyphen
-            
+
             // Skip if region not in our base data
             if (!isset($regionsData[$countryCode][$regionCode])) {
                 continue;
@@ -410,10 +415,10 @@ foreach ($allIntlLocales as $locale) {
             if (!$localizedName || $localizedName === $enName) {
                 continue;
             }
-            
+
             // Check if this is a variant locale (e.g., de_AT, de_CH)
             $languageCode = strstr($locale, '_', true); // Get language part (e.g., 'de' from 'de_AT')
-            
+
             // If it's a variant locale, check if base language already exists with same translation
             if ($languageCode && isset($regionsData[$countryCode][$regionCode][$languageCode])) {
                 // Skip if the variant has the same translation as the base language
@@ -421,10 +426,10 @@ foreach ($allIntlLocales as $locale) {
                     continue; // Skip this variant
                 }
             }
-            
+
             $regionsData[$countryCode][$regionCode][$locale] = $localizedName;
         }
-        
+
     } catch (Exception $e) {
         echo "  ✗ Error processing subdivisions for locale $locale: " . $e->getMessage() . "\n";
         continue;
@@ -435,14 +440,14 @@ foreach ($allIntlLocales as $locale) {
 foreach ($regionsData as $countryCode => $regions) {
     // Sort regions by code
     ksort($regions);
-    
+
     $regionJsonOutput = json_encode($regions, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
-    
+
     if ($regionJsonOutput === false) {
         echo "Error encoding JSON for country $countryCode: " . json_last_error_msg() . "\n";
         continue;
     }
-    
+
     file_put_contents("regions/$countryCode.json", $regionJsonOutput);
     echo "Generated regions/$countryCode.json with " . count($regions) . " regions\n";
 }
