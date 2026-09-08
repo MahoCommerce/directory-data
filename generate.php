@@ -187,9 +187,7 @@ try {
         if (!in_array($countryCode, $processedCountries)) {
             continue;
         }
-        if (!isset($subdivisionsByCountry[$countryCode])) {
-            $subdivisionsByCountry[$countryCode] = [];
-        }
+        $subdivisionsByCountry[$countryCode] ??= [];
         $subdivisionsByCountry[$countryCode][] = $subdivision;
     }
 
@@ -199,9 +197,7 @@ try {
         $typeCounts = [];
         foreach ($countrySubdivisions as $subdivision) {
             $type = $subdivision->getType();
-            if (!isset($typeCounts[$type])) {
-                $typeCounts[$type] = 0;
-            }
+            $typeCounts[$type] ??= 0;
             $typeCounts[$type]++;
         }
 
@@ -308,14 +304,10 @@ try {
             $regionCode = substr($code, 3); // After the hyphen
 
             // Initialize country regions if not exists
-            if (!isset($regionsData[$countryCode])) {
-                $regionsData[$countryCode] = [];
-            }
+            $regionsData[$countryCode] ??= [];
 
             // Initialize region entry if not exists
-            if (!isset($regionsData[$countryCode][$regionCode])) {
-                $regionsData[$countryCode][$regionCode] = [];
-            }
+            $regionsData[$countryCode][$regionCode] ??= [];
 
             $regionsData[$countryCode][$regionCode]['en'] = stripIsoBrackets(
                 $subdivision->getLocalName() ?: $subdivision->getName(),
@@ -361,12 +353,8 @@ foreach ($formatsAugmentations as $cc => $keys) {
             echo "  Warning: $cc-$key has empty sub_name in formats/$cc.json — keeping the key in regions but no English name.\n";
             $name = $key;
         }
-        if (!isset($regionsData[$cc])) {
-            $regionsData[$cc] = [];
-        }
-        if (!isset($regionsData[$cc][$key])) {
-            $regionsData[$cc][$key] = ['en' => $name];
-        }
+        $regionsData[$cc] ??= [];
+        $regionsData[$cc][$key] ??= ['en' => $name];
     }
 }
 
