@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=8.3"
+        "php": ">=8.5"
     },
     "require-dev": {
         "ext-intl": "*",
@@ -43,7 +43,7 @@
     ],
     "config": {
         "platform": {
-            "php": "8.3"
+            "php": "8.5"
         }
     }
 }
