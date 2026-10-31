@@ -15,7 +15,7 @@ A small PHP shim `Maho\DirectoryData\Paths` (in `src/`) lets consumers locate th
 ## Commands
 
 ```bash
-composer install              # one-time, requires PHP >=8.3 with ext-intl
+composer install              # one-time, requires PHP >=8.5.1 with ext-intl
 php generate-formats.php      # regenerates formats/*.json from libaddressinput (network) — run first
 php generate.php              # regenerates countries.json + regions/*.json (reads formats/ for augmentations)
 php validate.php              # asserts output is well-formed and counts match expected-counts.json
