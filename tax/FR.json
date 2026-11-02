@@ -1,0 +1,65 @@
+{
+    "standard": 20,
+    "reduced": [
+        {
+            "rate": 10,
+            "categories": [
+                "accommodation",
+                "agricultural_production",
+                "broadcasting_services",
+                "cultural_events",
+                "housing_provision",
+                "pharmaceutical_products",
+                "private_dwellings",
+                "restaurant",
+                "supply_water",
+                "transport_passengers",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 5.5,
+            "categories": [
+                "antiques",
+                "cultural_events",
+                "domestic_care",
+                "foodstuffs",
+                "housing_provision",
+                "loan_libraries",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "private_dwellings",
+                "solar_panels",
+                "sporting_events",
+                "street_cleaning",
+                "supply_heating"
+            ]
+        },
+        {
+            "rate": 2.1,
+            "categories": [
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "medical_care"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "outside_tax_area": {
+        "971*": "Guadeloupe",
+        "972*": "Martinique",
+        "973*": "Guyane",
+        "974*": "La Réunion",
+        "976*": "Mayotte"
+    },
+    "same_tax_area": [
+        "MC"
+    ],
+    "source": "tedb"
+}

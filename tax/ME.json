@@ -1,0 +1,15 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 15,
+            "categories": []
+        },
+        {
+            "rate": 7,
+            "categories": []
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

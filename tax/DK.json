@@ -1,0 +1,18 @@
+{
+    "standard": 25,
+    "reduced": [
+        {
+            "rate": 0,
+            "categories": [
+                "cultural_events",
+                "social_wellbeing",
+                "sporting_events",
+                "transport_passengers",
+                "undertakers_services",
+                "writers_services"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

@@ -1,0 +1,111 @@
+{
+    "standard": 5,
+    "reduced": [
+        {
+            "rate": 0,
+            "categories": [
+                "foodstuffs",
+                "medical_equipment",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": false,
+    "regions": {
+        "AB": [
+            {
+                "name": "GST",
+                "rate": 5
+            }
+        ],
+        "BC": [
+            {
+                "name": "GST",
+                "rate": 5
+            },
+            {
+                "name": "PST",
+                "rate": 7
+            }
+        ],
+        "MB": [
+            {
+                "name": "GST",
+                "rate": 5
+            },
+            {
+                "name": "RST",
+                "rate": 7
+            }
+        ],
+        "NB": [
+            {
+                "name": "HST",
+                "rate": 15
+            }
+        ],
+        "NL": [
+            {
+                "name": "HST",
+                "rate": 15
+            }
+        ],
+        "NS": [
+            {
+                "name": "HST",
+                "rate": 14
+            }
+        ],
+        "NT": [
+            {
+                "name": "GST",
+                "rate": 5
+            }
+        ],
+        "NU": [
+            {
+                "name": "GST",
+                "rate": 5
+            }
+        ],
+        "ON": [
+            {
+                "name": "HST",
+                "rate": 13
+            }
+        ],
+        "PE": [
+            {
+                "name": "HST",
+                "rate": 15
+            }
+        ],
+        "QC": [
+            {
+                "name": "GST",
+                "rate": 5
+            },
+            {
+                "name": "QST",
+                "rate": 9.975
+            }
+        ],
+        "SK": [
+            {
+                "name": "GST",
+                "rate": 5
+            },
+            {
+                "name": "PST",
+                "rate": 6
+            }
+        ],
+        "YT": [
+            {
+                "name": "GST",
+                "rate": 5
+            }
+        ]
+    },
+    "source": "manual"
+}

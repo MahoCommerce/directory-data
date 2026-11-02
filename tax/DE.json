@@ -1,0 +1,42 @@
+{
+    "standard": 19,
+    "reduced": [
+        {
+            "rate": 7,
+            "categories": [
+                "accommodation",
+                "cultural_events",
+                "foodstuffs",
+                "impressions",
+                "loan_libraries",
+                "medical_care",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "pictures",
+                "plant",
+                "postage",
+                "sculptures",
+                "social_wellbeing",
+                "supply_water",
+                "transport_passengers",
+                "writers_services",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "broadcasting_services",
+                "supply_electricity"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "outside_tax_area": {
+        "27498": "Helgoland",
+        "78266": "Büsingen am Hochrhein"
+    },
+    "source": "tedb"
+}

@@ -1,0 +1,17 @@
+{
+    "standard": 20,
+    "reduced": [
+        {
+            "rate": 10,
+            "categories": [
+                "foodstuffs"
+            ]
+        },
+        {
+            "rate": 1,
+            "categories": []
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

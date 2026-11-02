@@ -1,0 +1,36 @@
+{
+    "standard": 27,
+    "reduced": [
+        {
+            "rate": 18,
+            "categories": [
+                "cultural_events",
+                "foodstuffs"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "accommodation",
+                "antiques",
+                "broadcasting_services",
+                "foodstuffs",
+                "housing_provision",
+                "loan_libraries",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "restaurant",
+                "transport_passengers",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "newspapers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

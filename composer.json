@@ -1,6 +1,6 @@
 {
     "name": "mahocommerce/directory-data",
-    "description": "Multilingual country and region JSON data plus per-country address format metadata (postcode regex, required fields, format templates) for international e-commerce",
+    "description": "Multilingual country and region JSON data, per-country address format metadata (postcode regex, required fields, format templates) and sales tax rates for international e-commerce",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -36,6 +36,8 @@
         "localization",
         "i18n",
         "translation",
+        "vat",
+        "tax",
         "multilingual",
         "maho",
         "mahocommerce",

@@ -130,6 +130,62 @@ foreach (['US', 'IT'] as $cc) {
     }
 }
 
+// tax/
+$taxFiles = glob('tax/*.json') ?: [];
+if (count($taxFiles) < 44) {
+    $errors[] = 'tax/ has fewer than 44 files (got ' . count($taxFiles) . ')';
+}
+$isRate = static fn(mixed $rate): bool => (is_int($rate) || is_float($rate)) && $rate >= 0 && $rate <= 30;
+foreach ($taxFiles as $path) {
+    $data = json_decode((string) file_get_contents($path), true);
+    $standard = $data['standard'] ?? null;
+    if (!$isRate($standard) || ($standard < 5 && empty($data['regions']))) {
+        $errors[] = "$path: standard rate missing, or outside [5, 30] without regions";
+        continue;
+    }
+    if (!is_bool($data['prices_include_tax'] ?? null)) {
+        $errors[] = "$path: prices_include_tax must be true or false";
+    }
+    if (!isset($data['reduced']) || !is_array($data['reduced'])) {
+        $errors[] = "$path: reduced must be a list";
+        continue;
+    }
+    $previous = $standard ?: 100;
+    foreach ($data['reduced'] as $reduced) {
+        $rate = $reduced['rate'] ?? null;
+        if (!$isRate($rate) || $rate >= $previous) {
+            $errors[] = "$path: reduced rates must be numbers below the standard rate, from the highest to the lowest";
+            break;
+        }
+        if (!isset($reduced['categories']) || !is_array($reduced['categories'])) {
+            $errors[] = "$path: rate $rate has no categories list";
+        }
+        $previous = $rate;
+    }
+    foreach ($data['regions'] ?? [] as $region => $taxes) {
+        foreach (is_array($taxes) ? $taxes : [null] as $tax) {
+            if (!is_string($tax['name'] ?? null) || !$isRate($tax['rate'] ?? null)) {
+                $errors[] = "$path: region $region needs a list of taxes with a name and a rate";
+                break;
+            }
+        }
+    }
+    foreach (array_keys($data['outside_tax_area'] ?? []) as $postcode) {
+        if (!preg_match('/^[0-9A-Z]+\*?$/', (string) $postcode)) {
+            $errors[] = "$path: outside_tax_area postcode '$postcode' must be digits or letters with an optional trailing *";
+        }
+    }
+}
+foreach (['IT' => 22, 'DE' => 19, 'GB' => 20, 'CH' => 8.1, 'AU' => 10, 'CA' => 5] as $cc => $rate) {
+    $data = is_file("tax/$cc.json") ? json_decode((string) file_get_contents("tax/$cc.json"), true) : null;
+    if (($data['standard'] ?? null) != $rate) {
+        $errors[] = "tax/$cc.json: standard rate is not $rate. Update this check if the law changed.";
+    }
+}
+if (count(json_decode((string) @file_get_contents('tax/US.json'), true)['regions'] ?? []) !== 51) {
+    $errors[] = 'tax/US.json: needs the 50 states and DC';
+}
+
 if ($errors) {
     fwrite(STDERR, "Validation failed:\n");
     foreach ($errors as $e) {
@@ -138,4 +194,4 @@ if ($errors) {
     exit(1);
 }
 
-echo 'Validation passed (' . count($regionFiles) . ' regions, ' . count($formatFiles) . " formats).\n";
+echo 'Validation passed (' . count($regionFiles) . ' regions, ' . count($formatFiles) . ' formats, ' . count($taxFiles) . " tax files).\n";

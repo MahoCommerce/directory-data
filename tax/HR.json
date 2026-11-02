@@ -1,0 +1,39 @@
+{
+    "standard": 25,
+    "reduced": [
+        {
+            "rate": 13,
+            "categories": [
+                "accommodation",
+                "children_car_seats",
+                "newspapers",
+                "pharmaceutical_products",
+                "restaurant",
+                "street_cleaning",
+                "supply_electricity",
+                "supply_water",
+                "undertakers_services",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "agricultural_production",
+                "cultural_events",
+                "foodstuffs",
+                "loan_libraries",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "sporting_events",
+                "supply_gas",
+                "supply_heating",
+                "wood_article98"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

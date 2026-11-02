@@ -47,3 +47,14 @@ relevant attribution.
    Modifications: upstream "data/<CC>" / "data/<CC>/<SUB>" key structure is
    flattened into a "country" / "subdivisions" split per file; all upstream
    fields are preserved verbatim.
+
+3. tax/*.json
+   EU member states: derived from TEDB, the Taxes in Europe Database of the
+   European Commission: https://ec.europa.eu/taxation_customs/tedb/
+   © European Union. Reuse is authorised under the Commission reuse policy
+   (Commission Decision 2011/833/EU), provided that the source is acknowledged.
+   Retrieved through the vatcomply API (https://www.vatcomply.com), MIT.
+   Modifications: rates are grouped by rate with their TEDB category
+   identifiers; regional rates are left out; postcodes of territories outside
+   the tax area are added by hand.
+   Other countries: compiled by hand by the Maho contributors, MIT.

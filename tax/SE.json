@@ -1,0 +1,36 @@
+{
+    "standard": 25,
+    "reduced": [
+        {
+            "rate": 12,
+            "categories": [
+                "100_years_old",
+                "accommodation",
+                "clothing_repair",
+                "impressions",
+                "pictures",
+                "postage",
+                "restaurant",
+                "sculpture_casts",
+                "sculptures",
+                "shoes_repair",
+                "tapestries",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 6,
+            "categories": [
+                "cultural_events",
+                "foodstuffs",
+                "loan_libraries",
+                "medical_equipment",
+                "sporting_events",
+                "transport_passengers",
+                "writers_services"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

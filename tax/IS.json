@@ -1,0 +1,19 @@
+{
+    "standard": 24,
+    "reduced": [
+        {
+            "rate": 11,
+            "categories": [
+                "accommodation",
+                "books",
+                "foodstuffs",
+                "newspapers",
+                "supply_electricity",
+                "supply_heating",
+                "transport_passengers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

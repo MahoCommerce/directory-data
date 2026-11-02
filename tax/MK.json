@@ -1,0 +1,22 @@
+{
+    "standard": 18,
+    "reduced": [
+        {
+            "rate": 10,
+            "categories": [
+                "restaurant"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "accommodation",
+                "books",
+                "foodstuffs",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

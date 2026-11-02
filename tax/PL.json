@@ -1,0 +1,54 @@
+{
+    "standard": 23,
+    "reduced": [
+        {
+            "rate": 8,
+            "categories": [
+                "100_years_old",
+                "accommodation",
+                "agricultural_production",
+                "broadcasting_services",
+                "clothing_repair",
+                "cultural_events",
+                "foodstuffs",
+                "hairdressing",
+                "housing_provision",
+                "impressions",
+                "loan_libraries",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "photographs",
+                "pictures",
+                "postage",
+                "private_dwellings",
+                "restaurant",
+                "sculpture_casts",
+                "sculptures",
+                "shoes_repair",
+                "sporting_events",
+                "street_cleaning",
+                "supply_water",
+                "tapestries",
+                "temporary_exemption_rate",
+                "transport_passengers",
+                "undertakers_services",
+                "writers_services",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "children_car_seats",
+                "foodstuffs",
+                "loan_libraries",
+                "periodicals",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

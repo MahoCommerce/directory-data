@@ -1,0 +1,62 @@
+{
+    "standard": 24,
+    "reduced": [
+        {
+            "rate": 13,
+            "categories": [
+                "100_years_old",
+                "accommodation",
+                "agricultural_equipment",
+                "agricultural_production",
+                "children_car_seats",
+                "cultural_events",
+                "domestic_care",
+                "foodstuffs",
+                "impressions",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "pictures",
+                "postage",
+                "restaurant",
+                "sculpture_casts",
+                "social_wellbeing",
+                "sporting_events",
+                "supply_water",
+                "transport_passengers",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 6,
+            "categories": [
+                "agricultural_production",
+                "cultural_events",
+                "foodstuffs",
+                "loan_libraries",
+                "medical_care",
+                "medical_equipment",
+                "newspapers",
+                "pharmaceutical_products",
+                "supply_electricity",
+                "supply_gas"
+            ]
+        },
+        {
+            "rate": 4,
+            "categories": [
+                "non_owned_residency_renovation"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "outside_tax_area": {
+        "63086": "Mount Athos"
+    },
+    "source": "tedb"
+}

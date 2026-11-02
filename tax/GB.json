@@ -1,0 +1,30 @@
+{
+    "standard": 20,
+    "reduced": [
+        {
+            "rate": 5,
+            "categories": [
+                "children_car_seats",
+                "supply_electricity",
+                "supply_gas"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "books",
+                "child_wear",
+                "foodstuffs",
+                "medical_equipment",
+                "newspapers",
+                "pharmaceutical_products",
+                "sanitary_products"
+            ]
+        }
+    ],
+    "same_tax_area": [
+        "IM"
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

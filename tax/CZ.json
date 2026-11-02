@@ -1,0 +1,38 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 12,
+            "categories": [
+                "accommodation",
+                "children_car_seats",
+                "cultural_events",
+                "domestic_care",
+                "foodstuffs",
+                "housing_provision",
+                "medical_care",
+                "medical_equipment",
+                "periodicals",
+                "pharmaceutical_products",
+                "plant",
+                "private_dwellings",
+                "restaurant",
+                "social_wellbeing",
+                "sporting_events",
+                "supply_heating",
+                "supply_water",
+                "transport_passengers",
+                "undertakers_services"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "loan_libraries",
+                "transport_passengers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

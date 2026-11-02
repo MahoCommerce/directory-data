@@ -1,0 +1,45 @@
+{
+    "standard": 23,
+    "reduced": [
+        {
+            "rate": 13,
+            "categories": [
+                "foodstuffs",
+                "fossil_fuel",
+                "new_parking_rate",
+                "restaurant",
+                "supply_water"
+            ]
+        },
+        {
+            "rate": 6,
+            "categories": [
+                "accommodation",
+                "agricultural_production",
+                "ceramics",
+                "domestic_care",
+                "enamels",
+                "foodstuffs",
+                "housing_provision",
+                "impressions",
+                "loan_libraries",
+                "medical_care",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "photographs",
+                "pictures",
+                "private_dwellings",
+                "sculpture_casts",
+                "sculptures",
+                "street_cleaning",
+                "supply_water",
+                "sustainable_energy",
+                "tapestries",
+                "temporary_exemption_rate",
+                "transport_passengers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

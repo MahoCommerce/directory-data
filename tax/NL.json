@@ -1,0 +1,36 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 9,
+            "categories": [
+                "accommodation",
+                "antiques",
+                "clothing_repair",
+                "cultural_events",
+                "foodstuffs",
+                "hairdressing",
+                "loan_libraries",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "plant",
+                "private_dwellings",
+                "restaurant",
+                "shoes_repair",
+                "sporting_events",
+                "supply_water",
+                "transport_passengers",
+                "window_cleaning",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "solar_panels"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

@@ -1,0 +1,22 @@
+{
+    "standard": 24,
+    "reduced": [
+        {
+            "rate": 13,
+            "categories": [
+                "accommodation"
+            ]
+        },
+        {
+            "rate": 9,
+            "categories": [
+                "loan_libraries",
+                "medical_equipment",
+                "newspapers",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

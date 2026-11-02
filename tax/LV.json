@@ -1,0 +1,37 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 12,
+            "categories": [
+                "accommodation",
+                "foodstuffs",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "supply_heating",
+                "transport_passengers",
+                "wood_article98"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "loan_libraries",
+                "newspapers",
+                "periodicals"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "cultural_events",
+                "medical_care",
+                "social_wellbeing",
+                "sporting_events",
+                "writers_services"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

@@ -1,0 +1,56 @@
+{
+    "standard": 22,
+    "reduced": [
+        {
+            "rate": 10,
+            "categories": [
+                "accommodation",
+                "agricultural_production",
+                "cultural_events",
+                "foodstuffs",
+                "fossil_fuel",
+                "housing_provision",
+                "pharmaceutical_products",
+                "private_dwellings",
+                "restaurant",
+                "street_cleaning",
+                "supply_electricity",
+                "supply_gas",
+                "supply_heating",
+                "supply_water",
+                "transport_passengers",
+                "wood",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "antiques",
+                "foodstuffs",
+                "live_equines",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "social_wellbeing",
+                "sporting_events",
+                "transport_passengers"
+            ]
+        },
+        {
+            "rate": 4,
+            "categories": [
+                "chemical_fertilisers",
+                "exemption_superreduced",
+                "foodstuffs",
+                "loan_libraries",
+                "medical_equipment",
+                "temporary_exemption_rate"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "outside_tax_area": {
+        "23041": "Livigno"
+    },
+    "source": "tedb"
+}

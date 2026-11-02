@@ -1,0 +1,27 @@
+{
+    "standard": 8.1,
+    "reduced": [
+        {
+            "rate": 3.8,
+            "categories": [
+                "accommodation"
+            ]
+        },
+        {
+            "rate": 2.6,
+            "categories": [
+                "books",
+                "foodstuffs",
+                "newspapers",
+                "pharmaceutical_products",
+                "plant",
+                "sanitary_products"
+            ]
+        }
+    ],
+    "same_tax_area": [
+        "CH"
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

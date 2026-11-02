@@ -1,0 +1,25 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 12,
+            "categories": [
+                "accommodation",
+                "cultural_events",
+                "transport_passengers"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "loan_libraries",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

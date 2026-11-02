@@ -1,0 +1,29 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 11,
+            "categories": [
+                "accommodation",
+                "agricultural_production",
+                "cultural_events",
+                "foodstuffs",
+                "housing_provision",
+                "loan_libraries",
+                "pharmaceutical_products",
+                "restaurant",
+                "supply_water",
+                "sustainable_energy",
+                "wood_article98"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "medical_equipment"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

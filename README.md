@@ -1,6 +1,6 @@
-# Directory Data: Multilingual Countries, Regions & Address Formats
+# Directory Data: Multilingual Countries, Regions, Address Formats & Tax Rates
 
-A data package for international e-commerce: country/region names in 100+ locales plus per-country address format metadata (postcode regex, required fields, format templates), all distributed as plain JSON, framework-agnostic.
+A data package for international e-commerce: country/region names in 100+ locales, per-country address format metadata (postcode regex, required fields, format templates) and the sales tax rates of 44 countries, all distributed as plain JSON, framework-agnostic.
 
 ## What This Provides
 
@@ -47,6 +47,32 @@ Per-country address format metadata sourced from Google's libaddressinput:
 
 Field semantics follow the [libaddressinput conventions](https://github.com/google/libaddressinput/wiki/AddressValidationMetadata): `fmt` uses `%N` (name), `%O` (organization), `%A` (street), `%Z` (postcode), `%C` (city), `%S` (subdivision), `%n` (newline); `require` lists required field codes; `upper` lists fields that should be uppercased.
 
+### `tax/{CC}.json`
+The sales tax rates of 44 countries: the 27 EU member states, 13 other European countries, the United States, Canada, Australia and New Zealand. Each rate lists the goods categories that it applies to:
+```json
+{
+  "standard": 22,
+  "reduced": [
+    { "rate": 10, "categories": ["foodstuffs", "pharmaceutical_products", "..."] },
+    { "rate": 4, "categories": ["foodstuffs", "loan_libraries", "medical_equipment", "..."] }
+  ],
+  "prices_include_tax": true,
+  "outside_tax_area": { "23041": "Livigno" },
+  "source": "tedb"
+}
+```
+
+- `reduced` holds every rate below the standard rate, 0% included, from the highest to the lowest.
+- `categories` are the category identifiers of TEDB, the Taxes in Europe Database of the European Commission (`loan_libraries` is books). One category can appear at more than one rate: a country can tax part of its food at 4% and the rest at 10%. Read the categories as hints, not as a full list of goods.
+- `prices_include_tax` says whether consumer prices in the country include the tax.
+- `regions` (Canada, the United States) lists the taxes of each region code. They replace `standard` in that region, and a store adds them up: Quebec has GST 5% and QST 9.975%.
+- `home_region_only` (the United States) says that a store charges the tax of its own region only, until it has nexus in another state. The rates are the lowest rate of each state: the state rate plus the local rate that applies in the whole state, such as 7.25% in California. City and county rates are not included.
+- `outside_tax_area` lists postcodes (`*` is a wildcard) where the tax of the country does not apply, such as the Canary Islands.
+- `same_tax_area` lists other countries where the tax of the country applies, such as Monaco for France.
+- `source` is `tedb` for EU member states, which TEDB keeps current, and `manual` for the other countries.
+
+Rates of a region inside the EU (Corsica, Madeira, the Azores) are not in the files. Check the rates with a tax adviser before you charge them.
+
 ## Installation
 
 ```bash
@@ -63,6 +89,7 @@ use Maho\DirectoryData\Paths;
 $countries = json_decode(file_get_contents(Paths::countriesFile()), true);
 $itRegions = json_decode(file_get_contents(Paths::regionsFile('IT')), true);
 $itFormat  = json_decode(file_get_contents(Paths::formatsFile('IT')), true);
+$itTax     = json_decode(file_get_contents(Paths::taxFile('IT')), true);
 ```
 
 ### Translation Lookup (countries.json + regions/*.json)
@@ -119,5 +146,7 @@ Repository code is MIT. Data files carry their upstream licenses; see [LICENSE](
 |---|---|---|
 | `countries.json`, `regions/*.json` | [Debian iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes) via [sokil/php-isocodes](https://github.com/sokil/php-isocodes) | LGPL-2.1+ / MIT |
 | `formats/*.json` | [Google libaddressinput](https://github.com/google/libaddressinput) (via `chromium-i18n.appspot.com`) | CC-BY 4.0 |
+| `tax/*.json`, EU member states | [TEDB](https://ec.europa.eu/taxation_customs/tedb/) of the European Commission, via [vatcomply](https://www.vatcomply.com) | © European Union, reuse with acknowledgement (Decision 2011/833/EU) |
+| `tax/*.json`, other countries | Hand-kept in `tax-manual.json` | MIT |
 
 Redistributors of the `formats/*.json` files must preserve attribution to Google's libaddressinput per CC-BY 4.0.

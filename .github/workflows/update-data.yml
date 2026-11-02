@@ -44,13 +44,16 @@ jobs:
       - name: Generate countries + regions data
         run: php generate.php
 
+      - name: Generate tax data
+        run: php generate-tax.php
+
       - name: Validate generated data
         run: php validate.php
 
       - name: Detect changes
         id: changes
         run: |
-          git add -A countries.json regions/ formats/
+          git add -A countries.json regions/ formats/ tax/
           if git diff --cached --quiet; then
             echo "No changes detected"
             echo "has_changes=false" >> $GITHUB_OUTPUT

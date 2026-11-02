@@ -2,6 +2,8 @@
 # distribution. Consumers only need the data files + the Paths shim.
 generate.php          export-ignore
 generate-formats.php  export-ignore
+generate-tax.php      export-ignore
+tax-manual.json       export-ignore
 validate.php          export-ignore
 expected-counts.json  export-ignore
 composer.lock         export-ignore

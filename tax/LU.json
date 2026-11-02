@@ -1,0 +1,77 @@
+{
+    "standard": 17,
+    "reduced": [
+        {
+            "rate": 14,
+            "categories": [
+                "cleaning_product",
+                "credit_management",
+                "fossil_fuel",
+                "fuel_mineral_oil",
+                "heat_cooling_steam",
+                "new_parking_rate",
+                "printed_advertising_material",
+                "security_management",
+                "wine_fresh_grape"
+            ]
+        },
+        {
+            "rate": 8,
+            "categories": [
+                "agricultural_production",
+                "antiques",
+                "bicycles_electric",
+                "bicycles_rental",
+                "chemical_pesticides_environment",
+                "clothing_repair",
+                "fossil_fuel",
+                "hairdressing",
+                "household",
+                "plant",
+                "shoes_repair",
+                "supply_electricity",
+                "supply_gas",
+                "supply_heating",
+                "temporary_exemption_rate",
+                "window_cleaning",
+                "wood",
+                "wood_article98"
+            ]
+        },
+        {
+            "rate": 3,
+            "categories": [
+                "certain_agricultural_input",
+                "certain_broadcasting_services",
+                "chemical_fertilisers",
+                "child_wear",
+                "event_access",
+                "exemption_superreduced",
+                "food_service",
+                "foodstuffs",
+                "funeral",
+                "holiday_accommodation",
+                "loan_libraries",
+                "medical_equipment",
+                "non_owned_residency_renovation",
+                "pharmaceutical_products",
+                "residential_renovation",
+                "royalties",
+                "solar_panels",
+                "sporting_facility_access",
+                "supply_water",
+                "transport_passengers",
+                "waste_treatment",
+                "waste_treatment_refusal"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "transport_passengers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

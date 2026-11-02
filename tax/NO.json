@@ -1,0 +1,21 @@
+{
+    "standard": 25,
+    "reduced": [
+        {
+            "rate": 15,
+            "categories": [
+                "foodstuffs"
+            ]
+        },
+        {
+            "rate": 12,
+            "categories": [
+                "accommodation",
+                "cultural_events",
+                "transport_passengers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

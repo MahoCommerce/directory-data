@@ -1,0 +1,31 @@
+{
+    "standard": 23,
+    "reduced": [
+        {
+            "rate": 19,
+            "categories": [
+                "foodstuffs",
+                "restaurant",
+                "supply_electricity"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "accommodation",
+                "admission_sporting_events",
+                "cultural_events",
+                "foodstuffs",
+                "housing_provision",
+                "medical_equipment",
+                "newspapers",
+                "pharmaceutical_products",
+                "restaurant",
+                "social_wellbeing",
+                "sporting_events"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

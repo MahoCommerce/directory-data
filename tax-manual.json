@@ -1,0 +1,701 @@
+{
+    "EU": {
+        "DE": {
+            "outside_tax_area": {
+                "27498": "Helgoland",
+                "78266": "Büsingen am Hochrhein"
+            }
+        },
+        "ES": {
+            "outside_tax_area": {
+                "35*": "Las Palmas (Canary Islands)",
+                "38*": "Santa Cruz de Tenerife (Canary Islands)",
+                "51*": "Ceuta",
+                "52*": "Melilla"
+            }
+        },
+        "FR": {
+            "outside_tax_area": {
+                "971*": "Guadeloupe",
+                "972*": "Martinique",
+                "973*": "Guyane",
+                "974*": "La Réunion",
+                "976*": "Mayotte"
+            },
+            "same_tax_area": [
+                "MC"
+            ]
+        },
+        "GR": {
+            "outside_tax_area": {
+                "63086": "Mount Athos"
+            }
+        },
+        "IT": {
+            "outside_tax_area": {
+                "23041": "Livigno"
+            }
+        }
+    },
+    "OTHER": {
+        "AL": {
+            "standard": 20,
+            "reduced": [
+                {
+                    "rate": 10,
+                    "categories": []
+                },
+                {
+                    "rate": 6,
+                    "categories": []
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "AU": {
+            "standard": 10,
+            "reduced": [
+                {
+                    "rate": 0,
+                    "categories": [
+                        "foodstuffs",
+                        "medical_equipment",
+                        "pharmaceutical_products"
+                    ]
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "BA": {
+            "standard": 17,
+            "reduced": [],
+            "prices_include_tax": true
+        },
+        "CA": {
+            "standard": 5,
+            "reduced": [
+                {
+                    "rate": 0,
+                    "categories": [
+                        "foodstuffs",
+                        "medical_equipment",
+                        "pharmaceutical_products"
+                    ]
+                }
+            ],
+            "prices_include_tax": false,
+            "regions": {
+                "AB": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    }
+                ],
+                "BC": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    },
+                    {
+                        "name": "PST",
+                        "rate": 7
+                    }
+                ],
+                "MB": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    },
+                    {
+                        "name": "RST",
+                        "rate": 7
+                    }
+                ],
+                "NB": [
+                    {
+                        "name": "HST",
+                        "rate": 15
+                    }
+                ],
+                "NL": [
+                    {
+                        "name": "HST",
+                        "rate": 15
+                    }
+                ],
+                "NS": [
+                    {
+                        "name": "HST",
+                        "rate": 14
+                    }
+                ],
+                "NT": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    }
+                ],
+                "NU": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    }
+                ],
+                "ON": [
+                    {
+                        "name": "HST",
+                        "rate": 13
+                    }
+                ],
+                "PE": [
+                    {
+                        "name": "HST",
+                        "rate": 15
+                    }
+                ],
+                "QC": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    },
+                    {
+                        "name": "QST",
+                        "rate": 9.975
+                    }
+                ],
+                "SK": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    },
+                    {
+                        "name": "PST",
+                        "rate": 6
+                    }
+                ],
+                "YT": [
+                    {
+                        "name": "GST",
+                        "rate": 5
+                    }
+                ]
+            }
+        },
+        "CH": {
+            "standard": 8.1,
+            "reduced": [
+                {
+                    "rate": 3.8,
+                    "categories": [
+                        "accommodation"
+                    ]
+                },
+                {
+                    "rate": 2.6,
+                    "categories": [
+                        "books",
+                        "foodstuffs",
+                        "newspapers",
+                        "pharmaceutical_products",
+                        "plant",
+                        "sanitary_products"
+                    ]
+                }
+            ],
+            "same_tax_area": [
+                "LI"
+            ],
+            "prices_include_tax": true
+        },
+        "GB": {
+            "standard": 20,
+            "reduced": [
+                {
+                    "rate": 5,
+                    "categories": [
+                        "children_car_seats",
+                        "supply_electricity",
+                        "supply_gas"
+                    ]
+                },
+                {
+                    "rate": 0,
+                    "categories": [
+                        "books",
+                        "child_wear",
+                        "foodstuffs",
+                        "medical_equipment",
+                        "newspapers",
+                        "pharmaceutical_products",
+                        "sanitary_products"
+                    ]
+                }
+            ],
+            "same_tax_area": [
+                "IM"
+            ],
+            "prices_include_tax": true
+        },
+        "IS": {
+            "standard": 24,
+            "reduced": [
+                {
+                    "rate": 11,
+                    "categories": [
+                        "accommodation",
+                        "books",
+                        "foodstuffs",
+                        "newspapers",
+                        "supply_electricity",
+                        "supply_heating",
+                        "transport_passengers"
+                    ]
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "LI": {
+            "standard": 8.1,
+            "reduced": [
+                {
+                    "rate": 3.8,
+                    "categories": [
+                        "accommodation"
+                    ]
+                },
+                {
+                    "rate": 2.6,
+                    "categories": [
+                        "books",
+                        "foodstuffs",
+                        "newspapers",
+                        "pharmaceutical_products",
+                        "plant",
+                        "sanitary_products"
+                    ]
+                }
+            ],
+            "same_tax_area": [
+                "CH"
+            ],
+            "prices_include_tax": true
+        },
+        "MD": {
+            "standard": 20,
+            "reduced": [
+                {
+                    "rate": 12,
+                    "categories": []
+                },
+                {
+                    "rate": 8,
+                    "categories": [
+                        "foodstuffs",
+                        "restaurant"
+                    ]
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "ME": {
+            "standard": 21,
+            "reduced": [
+                {
+                    "rate": 15,
+                    "categories": []
+                },
+                {
+                    "rate": 7,
+                    "categories": []
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "MK": {
+            "standard": 18,
+            "reduced": [
+                {
+                    "rate": 10,
+                    "categories": [
+                        "restaurant"
+                    ]
+                },
+                {
+                    "rate": 5,
+                    "categories": [
+                        "accommodation",
+                        "books",
+                        "foodstuffs",
+                        "pharmaceutical_products"
+                    ]
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "NO": {
+            "standard": 25,
+            "reduced": [
+                {
+                    "rate": 15,
+                    "categories": [
+                        "foodstuffs"
+                    ]
+                },
+                {
+                    "rate": 12,
+                    "categories": [
+                        "accommodation",
+                        "cultural_events",
+                        "transport_passengers"
+                    ]
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "NZ": {
+            "standard": 15,
+            "reduced": [],
+            "prices_include_tax": true
+        },
+        "RS": {
+            "standard": 20,
+            "reduced": [],
+            "prices_include_tax": true
+        },
+        "TR": {
+            "standard": 20,
+            "reduced": [
+                {
+                    "rate": 10,
+                    "categories": [
+                        "foodstuffs"
+                    ]
+                },
+                {
+                    "rate": 1,
+                    "categories": []
+                }
+            ],
+            "prices_include_tax": true
+        },
+        "UA": {
+            "standard": 20,
+            "reduced": [],
+            "prices_include_tax": true
+        },
+        "US": {
+            "standard": 0,
+            "reduced": [],
+            "prices_include_tax": false,
+            "home_region_only": true,
+            "regions": {
+                "AL": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4
+                    }
+                ],
+                "AK": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 0
+                    }
+                ],
+                "AZ": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5.6
+                    }
+                ],
+                "AR": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.5
+                    }
+                ],
+                "CA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 7.25
+                    }
+                ],
+                "CO": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 2.9
+                    }
+                ],
+                "CT": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.35
+                    }
+                ],
+                "DE": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 0
+                    }
+                ],
+                "DC": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "FL": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "GA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4
+                    }
+                ],
+                "HI": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4
+                    }
+                ],
+                "ID": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "IL": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.25
+                    }
+                ],
+                "IN": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 7
+                    }
+                ],
+                "IA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "KS": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.5
+                    }
+                ],
+                "KY": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "LA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5
+                    }
+                ],
+                "ME": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5.5
+                    }
+                ],
+                "MD": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "MA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.25
+                    }
+                ],
+                "MI": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "MN": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.875
+                    }
+                ],
+                "MS": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 7
+                    }
+                ],
+                "MO": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4.225
+                    }
+                ],
+                "MT": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 0
+                    }
+                ],
+                "NE": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5.5
+                    }
+                ],
+                "NV": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.85
+                    }
+                ],
+                "NH": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 0
+                    }
+                ],
+                "NJ": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.625
+                    }
+                ],
+                "NM": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4.875
+                    }
+                ],
+                "NY": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4
+                    }
+                ],
+                "NC": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4.75
+                    }
+                ],
+                "ND": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5
+                    }
+                ],
+                "OH": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5.75
+                    }
+                ],
+                "OK": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4.5
+                    }
+                ],
+                "OR": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 0
+                    }
+                ],
+                "PA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "RI": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 7
+                    }
+                ],
+                "SC": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "SD": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4.2
+                    }
+                ],
+                "TN": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 7
+                    }
+                ],
+                "TX": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.25
+                    }
+                ],
+                "UT": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.1
+                    }
+                ],
+                "VT": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "VA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5.3
+                    }
+                ],
+                "WA": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6.5
+                    }
+                ],
+                "WV": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 6
+                    }
+                ],
+                "WI": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 5
+                    }
+                ],
+                "WY": [
+                    {
+                        "name": "Sales Tax",
+                        "rate": 4
+                    }
+                ]
+            }
+        }
+    }
+}

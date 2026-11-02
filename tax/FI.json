@@ -1,0 +1,35 @@
+{
+    "standard": 25.5,
+    "reduced": [
+        {
+            "rate": 13.5,
+            "categories": [
+                "accommodation",
+                "broadcasting_services",
+                "cultural_events",
+                "foodstuffs",
+                "impressions",
+                "loan_libraries",
+                "pharmaceutical_products",
+                "photographs",
+                "pictures",
+                "restaurant",
+                "sculpture_casts",
+                "sculptures",
+                "sporting_events",
+                "tapestries",
+                "transport_passengers",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 10,
+            "categories": [
+                "newspapers",
+                "periodicals"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

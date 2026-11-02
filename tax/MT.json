@@ -1,0 +1,60 @@
+{
+    "standard": 18,
+    "reduced": [
+        {
+            "rate": 12,
+            "categories": [
+                "body_care_services",
+                "credit_management",
+                "hiring_short_period",
+                "security_management"
+            ]
+        },
+        {
+            "rate": 7,
+            "categories": [
+                "accommodation"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "100_years_old",
+                "ceramics",
+                "clothing_repair",
+                "cultural_events",
+                "domestic_care",
+                "enamels",
+                "foodstuffs",
+                "impressions",
+                "loan_libraries",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "photographs",
+                "pictures",
+                "postage",
+                "sculpture_casts",
+                "sculptures",
+                "shoes_repair",
+                "tapestries",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "broadcasting_services",
+                "foodstuffs",
+                "medical_care",
+                "pharmaceutical_products",
+                "social_wellbeing",
+                "supply_water",
+                "transport_passengers"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

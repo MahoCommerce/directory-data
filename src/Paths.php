@@ -40,4 +40,14 @@ final class Paths
     {
         return self::formatsDir() . '/' . strtoupper($countryCode) . '.json';
     }
+
+    public static function taxDir(): string
+    {
+        return self::root() . '/tax';
+    }
+
+    public static function taxFile(string $countryCode): string
+    {
+        return self::taxDir() . '/' . strtoupper($countryCode) . '.json';
+    }
 }

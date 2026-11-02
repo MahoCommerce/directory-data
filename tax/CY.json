@@ -1,0 +1,58 @@
+{
+    "standard": 19,
+    "reduced": [
+        {
+            "rate": 9,
+            "categories": [
+                "accommodation",
+                "restaurant",
+                "transport_passengers"
+            ]
+        },
+        {
+            "rate": 5,
+            "categories": [
+                "100_years_old",
+                "agricultural_production",
+                "children_car_seats",
+                "cultural_events",
+                "foodstuffs",
+                "hairdressing",
+                "housing_provision",
+                "medical_care",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "sporting_events",
+                "street_cleaning",
+                "supply_water",
+                "transport_passengers",
+                "undertakers_services",
+                "writers_services",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 3,
+            "categories": [
+                "books",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "theatre_performances",
+                "waste_treatment",
+                "waste_treatment_refusal"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "cultural_events",
+                "private_dwellings",
+                "social_wellbeing",
+                "undertakers_services"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

@@ -1,0 +1,15 @@
+{
+    "standard": 10,
+    "reduced": [
+        {
+            "rate": 0,
+            "categories": [
+                "foodstuffs",
+                "medical_equipment",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "manual"
+}

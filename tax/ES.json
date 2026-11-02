@@ -1,0 +1,49 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 10,
+            "categories": [
+                "100_years_old",
+                "accommodation",
+                "agricultural_production",
+                "ceramics",
+                "cultural_events",
+                "enamels",
+                "foodstuffs",
+                "impressions",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "photographs",
+                "pictures",
+                "postage",
+                "private_dwellings",
+                "restaurant",
+                "sculpture_casts",
+                "sculptures",
+                "social_wellbeing",
+                "sporting_events",
+                "street_cleaning",
+                "supply_water",
+                "sustainable_energy",
+                "tapestries",
+                "transport_passengers",
+                "zoological"
+            ]
+        },
+        {
+            "rate": 4,
+            "categories": [
+                "exemption_superreduced"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "outside_tax_area": {
+        "35*": "Las Palmas (Canary Islands)",
+        "38*": "Santa Cruz de Tenerife (Canary Islands)",
+        "51*": "Ceuta",
+        "52*": "Melilla"
+    },
+    "source": "tedb"
+}

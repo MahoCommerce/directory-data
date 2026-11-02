@@ -1,0 +1,315 @@
+{
+    "standard": 0,
+    "reduced": [],
+    "prices_include_tax": false,
+    "home_region_only": true,
+    "regions": {
+        "AL": [
+            {
+                "name": "Sales Tax",
+                "rate": 4
+            }
+        ],
+        "AK": [
+            {
+                "name": "Sales Tax",
+                "rate": 0
+            }
+        ],
+        "AZ": [
+            {
+                "name": "Sales Tax",
+                "rate": 5.6
+            }
+        ],
+        "AR": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.5
+            }
+        ],
+        "CA": [
+            {
+                "name": "Sales Tax",
+                "rate": 7.25
+            }
+        ],
+        "CO": [
+            {
+                "name": "Sales Tax",
+                "rate": 2.9
+            }
+        ],
+        "CT": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.35
+            }
+        ],
+        "DE": [
+            {
+                "name": "Sales Tax",
+                "rate": 0
+            }
+        ],
+        "DC": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "FL": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "GA": [
+            {
+                "name": "Sales Tax",
+                "rate": 4
+            }
+        ],
+        "HI": [
+            {
+                "name": "Sales Tax",
+                "rate": 4
+            }
+        ],
+        "ID": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "IL": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.25
+            }
+        ],
+        "IN": [
+            {
+                "name": "Sales Tax",
+                "rate": 7
+            }
+        ],
+        "IA": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "KS": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.5
+            }
+        ],
+        "KY": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "LA": [
+            {
+                "name": "Sales Tax",
+                "rate": 5
+            }
+        ],
+        "ME": [
+            {
+                "name": "Sales Tax",
+                "rate": 5.5
+            }
+        ],
+        "MD": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "MA": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.25
+            }
+        ],
+        "MI": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "MN": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.875
+            }
+        ],
+        "MS": [
+            {
+                "name": "Sales Tax",
+                "rate": 7
+            }
+        ],
+        "MO": [
+            {
+                "name": "Sales Tax",
+                "rate": 4.225
+            }
+        ],
+        "MT": [
+            {
+                "name": "Sales Tax",
+                "rate": 0
+            }
+        ],
+        "NE": [
+            {
+                "name": "Sales Tax",
+                "rate": 5.5
+            }
+        ],
+        "NV": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.85
+            }
+        ],
+        "NH": [
+            {
+                "name": "Sales Tax",
+                "rate": 0
+            }
+        ],
+        "NJ": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.625
+            }
+        ],
+        "NM": [
+            {
+                "name": "Sales Tax",
+                "rate": 4.875
+            }
+        ],
+        "NY": [
+            {
+                "name": "Sales Tax",
+                "rate": 4
+            }
+        ],
+        "NC": [
+            {
+                "name": "Sales Tax",
+                "rate": 4.75
+            }
+        ],
+        "ND": [
+            {
+                "name": "Sales Tax",
+                "rate": 5
+            }
+        ],
+        "OH": [
+            {
+                "name": "Sales Tax",
+                "rate": 5.75
+            }
+        ],
+        "OK": [
+            {
+                "name": "Sales Tax",
+                "rate": 4.5
+            }
+        ],
+        "OR": [
+            {
+                "name": "Sales Tax",
+                "rate": 0
+            }
+        ],
+        "PA": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "RI": [
+            {
+                "name": "Sales Tax",
+                "rate": 7
+            }
+        ],
+        "SC": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "SD": [
+            {
+                "name": "Sales Tax",
+                "rate": 4.2
+            }
+        ],
+        "TN": [
+            {
+                "name": "Sales Tax",
+                "rate": 7
+            }
+        ],
+        "TX": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.25
+            }
+        ],
+        "UT": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.1
+            }
+        ],
+        "VT": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "VA": [
+            {
+                "name": "Sales Tax",
+                "rate": 5.3
+            }
+        ],
+        "WA": [
+            {
+                "name": "Sales Tax",
+                "rate": 6.5
+            }
+        ],
+        "WV": [
+            {
+                "name": "Sales Tax",
+                "rate": 6
+            }
+        ],
+        "WI": [
+            {
+                "name": "Sales Tax",
+                "rate": 5
+            }
+        ],
+        "WY": [
+            {
+                "name": "Sales Tax",
+                "rate": 4
+            }
+        ]
+    },
+    "source": "manual"
+}

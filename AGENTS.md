@@ -4,11 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Purpose
 
-This repo is both a **data publication pipeline** and a **distributable Composer library**. It produces three artifacts consumed by other projects (notably MahoCommerce):
+This repo is both a **data publication pipeline** and a **distributable Composer library**. It produces four artifacts consumed by other projects (notably MahoCommerce):
 
 - `countries.json` — 249 ISO 3166-1 countries with multilingual names
 - `regions/{CC}.json` — one file per country with shipping-relevant administrative subdivisions, multilingual
 - `formats/{CC}.json` — per-country address format metadata (postcode regex, required fields, format templates) mirrored from Google's libaddressinput
+- `tax/{CC}.json` — the sales tax rates of 44 countries, with the goods categories of each rate. EU data comes from the Commission's TEDB through the vatcomply API, the rest from the hand-kept `tax-manual.json`
 
 A small PHP shim `Maho\DirectoryData\Paths` (in `src/`) lets consumers locate these data files without hardcoding `vendor/mahocommerce/directory-data/...` paths.
 
@@ -18,6 +19,7 @@ A small PHP shim `Maho\DirectoryData\Paths` (in `src/`) lets consumers locate th
 composer install              # one-time, requires PHP >=8.5.1 with ext-intl
 php generate-formats.php      # regenerates formats/*.json from libaddressinput (network) — run first
 php generate.php              # regenerates countries.json + regions/*.json (reads formats/ for augmentations)
+php generate-tax.php          # regenerates tax/*.json from TEDB (network, one request) and tax-manual.json
 php validate.php              # asserts output is well-formed and counts match expected-counts.json
 ```
 
@@ -87,13 +89,20 @@ The only PHP code shipped to consumers. Pure path resolution (no IO, no caching)
 - `countries.json`: `{ "<alpha-2>": { "<locale>": "<name>", ... } }`, sorted by alpha-2.
 - `regions/<alpha-2>.json`: `{ "<subdivision-suffix>": { "<locale>": "<name>", ... } }`, sorted by suffix. The suffix is the part after the hyphen in the ISO 3166-2 code (e.g. `IT-TO` → key `TO`).
 - `formats/<alpha-2>.json`: `{ "country": {...}, "subdivisions": { "<key>": {...}, ... } }`, subdivisions sorted by key.
+- `tax/<alpha-2>.json`: `{ "standard": 22, "reduced": [{ "rate": 10, "categories": [...] }, ...], "prices_include_tax": true, "regions": {...}, "home_region_only": true, "outside_tax_area": {...}, "same_tax_area": [...], "source": "tedb"|"manual" }`. Reduced rates go from the highest to the lowest, categories sorted. The README describes each key.
+
+### `generate-tax.php` (TEDB mirror plus hand-kept data)
+
+One request to `https://api.vatcomply.com/vat_rates`, which mirrors TEDB, the Taxes in Europe Database of the European Commission. The member states keep TEDB current, so a weekly run picks up a rate change. For each member state the generator keeps the standard rate and groups the TEDB categories by rate. It drops the `region` category, because its rates apply only in a region (Corsica, Madeira, Jungholz). It maps TEDB's `EL` to `GR`.
+
+`tax-manual.json` has two parts. `EU` adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes. `OTHER` holds the full data of the other 17 countries, which no open dataset covers with categories: 13 in Europe, plus the United States, Canada, Australia and New Zealand. Edit `tax-manual.json` by hand when a law changes, with the source in the pull request. Use TEDB category names; `sanitary_products` is the one extra key.
 
 ## Releases & versioning
 
 This repo uses **automated releases** — every weekly upstream-data update produces a new tagged release.
 
 - Versioning: `1.0.YYYYMMDD` (patch = snapshot date). Manually bump minor for additive schema changes, major for breaking.
-- The workflow `.github/workflows/update-data.yml` runs both generators, validates output via `validate.php`, commits to `main`, tags, and creates a GitHub release. Packagist auto-pulls via webhook.
+- The workflow `.github/workflows/update-data.yml` runs the three generators, validates output via `validate.php`, commits to `main`, tags, and creates a GitHub release. Packagist auto-pulls via webhook.
 - **`validate.php` is load-bearing.** It enforces minimum file counts, presence of canonical entries (US, IT) with required fields, and per-country region-count bounds via `expected-counts.json`. If you change the data shape, update the validation in lockstep — otherwise a regression silently ships to every Maho merchant on `composer update`.
 
 ### `expected-counts.json` — region-count manifest
@@ -102,7 +111,7 @@ A `{cc: {min, max}}` map. Bounds start strict (`min == max == current count`). A
 
 ## Distribution (`.gitattributes`)
 
-`generate.php`, `generate-formats.php`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
+`generate.php`, `generate-formats.php`, `generate-tax.php`, `tax-manual.json`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
 
 ## When making changes
 

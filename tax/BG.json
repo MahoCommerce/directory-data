@@ -1,0 +1,16 @@
+{
+    "standard": 20,
+    "reduced": [
+        {
+            "rate": 9,
+            "categories": [
+                "accommodation",
+                "foodstuffs",
+                "loan_libraries",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}

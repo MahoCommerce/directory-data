@@ -1,0 +1,61 @@
+{
+    "standard": 21,
+    "reduced": [
+        {
+            "rate": 12,
+            "categories": [
+                "accommodation",
+                "foodstuffs",
+                "housing_provision",
+                "new_parking_rate",
+                "restaurant"
+            ]
+        },
+        {
+            "rate": 6,
+            "categories": [
+                "agricultural_production",
+                "antiques",
+                "bicycles_rental",
+                "clothing_repair",
+                "construction",
+                "cultural_events",
+                "foodstuffs",
+                "housing_provision",
+                "loan_libraries",
+                "medical_equipment",
+                "pharmaceutical_products",
+                "plant",
+                "private_dwellings",
+                "renovation",
+                "shoes_repair",
+                "social_wellbeing",
+                "sporting_events",
+                "supply_electricity",
+                "supply_gas",
+                "supply_heating",
+                "supply_water",
+                "sustainable_energy",
+                "transport_passengers",
+                "undertakers_services",
+                "wood_article98",
+                "writers_services"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "cultural_events",
+                "foodstuffs",
+                "loan_libraries",
+                "medical_care",
+                "pharmaceutical_products",
+                "sporting_events",
+                "transport_passengers",
+                "writers_services"
+            ]
+        }
+    ],
+    "prices_include_tax": true,
+    "source": "tedb"
+}
