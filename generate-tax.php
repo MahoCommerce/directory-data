@@ -47,8 +47,11 @@ const COUNTRY_CODE_MAP = ['EL' => 'GR'];
 
 const IGNORED_CATEGORIES = ['region'];
 
-/** The feed must list this many member states, or the generator changes no file. */
-const EU_MEMBER_STATES = 27;
+/** The feed must list exactly these member states, or the generator changes no file. */
+const EU_MEMBER_STATES = [
+    'AT', 'BE', 'BG', 'CY', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GR', 'HR', 'HU',
+    'IE', 'IT', 'LT', 'LU', 'LV', 'MT', 'NL', 'PL', 'PT', 'RO', 'SE', 'SI', 'SK',
+];
 
 /** What TEDB does not have: the postcodes outside the tax area, and the countries inside it. */
 const TERRITORIES = [
@@ -237,10 +240,9 @@ function correctCategories(string $countryCode, array $rateCategories): array
     return $rateCategories;
 }
 
-function writeCountry(string $countryCode, array $data): void
+function encodeCountry(array $data): string
 {
-    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRESERVE_ZERO_FRACTION);
-    file_put_contents(OUTPUT_DIR . "/$countryCode.json", $json . "\n");
+    return json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRESERVE_ZERO_FRACTION | JSON_THROW_ON_ERROR) . "\n";
 }
 
 echo "Fetching EU VAT rates from vatcomply (TEDB)...\n";
@@ -255,8 +257,11 @@ foreach ($tedb as $country) {
         continue;
     }
     $countryCode = COUNTRY_CODE_MAP[$country['country_code'] ?? ''] ?? (string) ($country['country_code'] ?? '');
-    if (!preg_match('/^[A-Z]{2}$/', $countryCode)) {
-        throw new RuntimeException("The feed has an invalid country code: \"$countryCode\".");
+    if (!in_array($countryCode, EU_MEMBER_STATES, true)) {
+        throw new RuntimeException("The feed has an unknown member state: \"$countryCode\". No file was changed.");
+    }
+    if (isset($records[$countryCode])) {
+        throw new RuntimeException("The feed has $countryCode twice. No file was changed.");
     }
     if (!is_numeric($country['standard_rate'] ?? null)) {
         throw new RuntimeException("The feed has no standard rate for $countryCode.");
@@ -269,10 +274,11 @@ foreach ($tedb as $country) {
     ];
     $data += TERRITORIES[$countryCode] ?? [];
     $data['source'] = 'tedb';
-    $records[$countryCode] = $data;
+    $records[$countryCode] = encodeCountry($data);
 }
-if (count($records) !== EU_MEMBER_STATES) {
-    throw new RuntimeException('The feed has ' . count($records) . ' member states, not ' . EU_MEMBER_STATES . '. No file was changed.');
+$missing = array_diff(EU_MEMBER_STATES, array_keys($records));
+if ($missing !== []) {
+    throw new RuntimeException('The feed has no data for ' . implode(', ', $missing) . '. No file was changed.');
 }
 
 $manualCodes = [];
@@ -294,7 +300,7 @@ foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
         unlink($path);
     }
 }
-foreach ($records as $countryCode => $data) {
-    writeCountry($countryCode, $data);
+foreach ($records as $countryCode => $json) {
+    file_put_contents(OUTPUT_DIR . "/$countryCode.json", $json);
 }
 echo 'Wrote ' . count($records) . ' EU files to tax/, kept ' . count($manualCodes) . " hand-kept files\n";
