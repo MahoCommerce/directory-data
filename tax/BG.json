@@ -5,9 +5,9 @@
             "rate": 9,
             "categories": [
                 "accommodation",
-                "foodstuffs",
                 "loan_libraries",
-                "pharmaceutical_products"
+                "newspapers",
+                "periodicals"
             ]
         }
     ],

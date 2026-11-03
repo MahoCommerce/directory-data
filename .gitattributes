@@ -12,4 +12,4 @@ composer.lock         export-ignore
 .rector.php           export-ignore
 .github/              export-ignore
 .idea/                export-ignore
-CLAUDE.md             export-ignore
+AGENTS.md             export-ignore

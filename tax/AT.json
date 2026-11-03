@@ -28,6 +28,7 @@
                 "loan_libraries",
                 "newspapers",
                 "periodicals",
+                "pharmaceutical_products",
                 "restaurant",
                 "shoes_repair",
                 "social_wellbeing",
@@ -44,9 +45,7 @@
         {
             "rate": 0,
             "categories": [
-                "foodstuffs",
-                "pharmaceutical_products",
-                "solar_panels",
+                "sanitary_products",
                 "transport_passengers"
             ]
         }

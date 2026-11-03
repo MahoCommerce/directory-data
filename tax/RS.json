@@ -1,6 +1,26 @@
 {
     "standard": 20,
-    "reduced": [],
+    "reduced": [
+        {
+            "rate": 10,
+            "categories": [
+                "accommodation",
+                "agricultural_production",
+                "books",
+                "cultural_events",
+                "foodstuffs",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "supply_gas",
+                "supply_heating",
+                "supply_water",
+                "transport_passengers",
+                "wood"
+            ]
+        }
+    ],
     "prices_include_tax": true,
     "source": "manual"
 }

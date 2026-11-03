@@ -2,14 +2,22 @@
     "standard": 20,
     "reduced": [
         {
-            "rate": 12,
-            "categories": []
-        },
-        {
             "rate": 8,
             "categories": [
+                "accommodation",
                 "foodstuffs",
-                "restaurant"
+                "pharmaceutical_products",
+                "restaurant",
+                "sanitary_products",
+                "supply_gas"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "supply_electricity",
+                "supply_heating",
+                "supply_water"
             ]
         }
     ],

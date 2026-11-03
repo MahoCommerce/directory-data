@@ -95,9 +95,11 @@ The only PHP code shipped to consumers. Pure path resolution (no IO, no caching)
 
 One request to `https://api.vatcomply.com/vat_rates`, which mirrors TEDB, the Taxes in Europe Database of the European Commission. The member states keep TEDB current, so a weekly run picks up a rate change. For each member state the generator keeps the standard rate and groups the TEDB categories by rate. It drops the `region` category, because its rates apply only in a region (Corsica, Madeira, Jungholz). It maps TEDB's `EL` to `GR`.
 
-The `TERRITORIES` constant of the generator adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes.
+The feed is not always right: it misses goods at a rate, or keeps a rate that ended. The `CORRECTIONS` constant replaces the rates of a category in one country, with the source of each fix in a comment. An empty list removes the category. When the feed matches a correction, the generator prints a notice: delete the correction then.
 
-The files of the other 17 countries have `"source": "manual"`: 13 in Europe, plus the United States, Canada, Australia and New Zealand. No open dataset covers them with categories, so they are kept by hand and the generator does not touch them. Edit the file in `tax/` directly when a law changes, with the source in the pull request. Use TEDB category names; `sanitary_products` is the one extra key.
+The `TERRITORIES` constant adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes.
+
+The files of the other 17 countries have `"source": "manual"`: 13 in Europe, plus the United States, Canada, Australia and New Zealand. No open dataset covers them with categories, so they are kept by hand and the generator does not touch them. Edit the file in `tax/` directly when a law changes, with the source in the pull request. Use TEDB category names; `sanitary_products` and `livestock` are the extra keys.
 
 ## Releases & versioning
 
@@ -113,7 +115,7 @@ A `{cc: {min, max}}` map. Bounds start strict (`min == max == current count`). A
 
 ## Distribution (`.gitattributes`)
 
-`generate.php`, `generate-formats.php`, `generate-tax.php`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
+`generate.php`, `generate-formats.php`, `generate-tax.php`, `.github/`, `composer.lock`, `AGENTS.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
 
 ## When making changes
 

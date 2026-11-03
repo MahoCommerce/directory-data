@@ -4,12 +4,24 @@
         {
             "rate": 10,
             "categories": [
-                "foodstuffs"
+                "accommodation",
+                "pharmaceutical_products",
+                "restaurant"
             ]
         },
         {
             "rate": 1,
-            "categories": []
+            "categories": [
+                "foodstuffs"
+            ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "books",
+                "newspapers",
+                "periodicals"
+            ]
         }
     ],
     "prices_include_tax": true,

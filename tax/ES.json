@@ -34,7 +34,12 @@
         {
             "rate": 4,
             "categories": [
-                "exemption_superreduced"
+                "foodstuffs",
+                "loan_libraries",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "sanitary_products"
             ]
         }
     ],

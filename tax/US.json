@@ -67,13 +67,13 @@
         "GA": [
             {
                 "name": "Sales Tax",
-                "rate": 4
+                "rate": 6
             }
         ],
         "HI": [
             {
                 "name": "Sales Tax",
-                "rate": 4
+                "rate": 4.5
             }
         ],
         "ID": [
@@ -157,7 +157,7 @@
         "MO": [
             {
                 "name": "Sales Tax",
-                "rate": 4.225
+                "rate": 5.225
             }
         ],
         "MT": [
@@ -193,19 +193,19 @@
         "NM": [
             {
                 "name": "Sales Tax",
-                "rate": 4.875
+                "rate": 5.25
             }
         ],
         "NY": [
             {
                 "name": "Sales Tax",
-                "rate": 4
+                "rate": 7
             }
         ],
         "NC": [
             {
                 "name": "Sales Tax",
-                "rate": 4.75
+                "rate": 6.75
             }
         ],
         "ND": [
@@ -217,7 +217,7 @@
         "OH": [
             {
                 "name": "Sales Tax",
-                "rate": 5.75
+                "rate": 6.5
             }
         ],
         "OK": [
@@ -259,7 +259,7 @@
         "TN": [
             {
                 "name": "Sales Tax",
-                "rate": 7
+                "rate": 8.5
             }
         ],
         "TX": [
@@ -289,7 +289,7 @@
         "WA": [
             {
                 "name": "Sales Tax",
-                "rate": 6.5
+                "rate": 7.6
             }
         ],
         "WV": [

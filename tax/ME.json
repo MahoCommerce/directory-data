@@ -3,11 +3,27 @@
     "reduced": [
         {
             "rate": 15,
-            "categories": []
+            "categories": [
+                "accommodation",
+                "books",
+                "cultural_events",
+                "hairdressing",
+                "restaurant",
+                "solar_panels"
+            ]
         },
         {
             "rate": 7,
-            "categories": []
+            "categories": [
+                "foodstuffs",
+                "medical_equipment",
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products",
+                "sanitary_products",
+                "supply_water",
+                "transport_passengers"
+            ]
         }
     ],
     "prices_include_tax": true,

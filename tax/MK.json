@@ -4,6 +4,7 @@
         {
             "rate": 10,
             "categories": [
+                "foodstuffs",
                 "restaurant"
             ]
         },
@@ -12,8 +13,15 @@
             "categories": [
                 "accommodation",
                 "books",
+                "children_car_seats",
                 "foodstuffs",
-                "pharmaceutical_products"
+                "medical_equipment",
+                "newspapers",
+                "pharmaceutical_products",
+                "sanitary_products",
+                "supply_heating",
+                "supply_water",
+                "transport_passengers"
             ]
         }
     ],

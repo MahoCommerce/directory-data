@@ -50,6 +50,7 @@
     ],
     "prices_include_tax": true,
     "outside_tax_area": {
+        "22061": "Campione d'Italia",
         "23041": "Livigno"
     },
     "source": "tedb"

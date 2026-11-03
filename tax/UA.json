@@ -1,6 +1,22 @@
 {
     "standard": 20,
-    "reduced": [],
+    "reduced": [
+        {
+            "rate": 14,
+            "categories": [
+                "agricultural_production"
+            ]
+        },
+        {
+            "rate": 7,
+            "categories": [
+                "accommodation",
+                "cultural_events",
+                "medical_equipment",
+                "pharmaceutical_products"
+            ]
+        }
+    ],
     "prices_include_tax": true,
     "source": "manual"
 }

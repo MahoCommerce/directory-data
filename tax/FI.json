@@ -31,5 +31,8 @@
         }
     ],
     "prices_include_tax": true,
+    "outside_tax_area": {
+        "22*": "Åland"
+    },
     "source": "tedb"
 }

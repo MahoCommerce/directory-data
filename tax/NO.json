@@ -14,8 +14,19 @@
                 "cultural_events",
                 "transport_passengers"
             ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "books",
+                "newspapers"
+            ]
         }
     ],
     "prices_include_tax": true,
+    "outside_tax_area": {
+        "917*": "Svalbard",
+        "8099": "Jan Mayen"
+    },
     "source": "manual"
 }

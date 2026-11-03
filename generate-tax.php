@@ -8,6 +8,7 @@
  * The member states keep TEDB up to date. TEDB data is © European Union, reused under the Commission
  * reuse policy (Decision 2011/833/EU). See LICENSE for attribution.
  *
+ * CORRECTIONS fixes the rates of a category where the feed is wrong or out of date.
  * TERRITORIES adds the postcodes outside the tax area and the countries inside it, which TEDB does not have.
  *
  * The files of the other countries have "source": "manual". They are kept by hand, and this script leaves them alone.
@@ -72,6 +73,11 @@ const TERRITORIES = [
         ],
         'same_tax_area' => ['MC'],
     ],
+    'FI' => [
+        'outside_tax_area' => [
+            '22*' => 'Åland',
+        ],
+    ],
     'GR' => [
         'outside_tax_area' => [
             '63086' => 'Mount Athos',
@@ -79,8 +85,63 @@ const TERRITORIES = [
     ],
     'IT' => [
         'outside_tax_area' => [
+            '22061' => "Campione d'Italia",
             '23041' => 'Livigno',
         ],
+    ],
+];
+
+/**
+ * Rates of a TEDB category that the feed has wrong, with the source of each fix. An empty list removes the category.
+ * The generator prints a notice when the feed matches a correction: delete the correction then.
+ *
+ * @var array<string, array<string, list<float|int>>>
+ */
+const CORRECTIONS = [
+    // UStG § 10 Anlage 1 Z 34: medicines 10%. § 6 Abs. 1 Z 5b: contraceptives and menstrual products 0% since 2026-01-01.
+    // The 0% for food is for donations only. The 0% for photovoltaic modules ended on 2025-12-31 (§ 28 Abs. 62).
+    'AT' => [
+        'pharmaceutical_products' => [10],
+        'sanitary_products' => [0],
+        'foodstuffs' => [4.9, 10, 13],
+        'solar_panels' => [],
+    ],
+    // ZDDS Art. 66a: 9% for books, newspapers, periodicals, baby food and baby diapers. Other food and medicines are at 20%.
+    'BG' => [
+        'foodstuffs' => [],
+        'pharmaceutical_products' => [],
+        'newspapers' => [9],
+        'periodicals' => [9],
+    ],
+    // AEAT Manual IVA 2026: 4% for basic food, books, newspapers, human medicines and menstrual products.
+    'ES' => [
+        'exemption_superreduced' => [],
+        'foodstuffs' => [4, 10],
+        'loan_libraries' => [4],
+        'newspapers' => [4],
+        'periodicals' => [4],
+        'pharmaceutical_products' => [4, 10],
+        'sanitary_products' => [4],
+    ],
+    // Revenue: clothing and shoe repairs 13.5%, children's clothing and footwear 0%, livestock 4.8%.
+    'IE' => [
+        'clothing_repair' => [13.5],
+        'shoes_repair' => [13.5],
+        'child_wear' => [0],
+        'livestock' => [4.8],
+    ],
+    // Belastingdienst: short-stay accommodation 21% since 2026-01-01.
+    'NL' => [
+        'accommodation' => [],
+    ],
+    // Annex 10: 5% for menstrual products and diapers. Medicines are at 8%.
+    'PL' => [
+        'pharmaceutical_products' => [8],
+        'sanitary_products' => [5],
+    ],
+    // FURS: the 9.5% covers minor repairs of bicycles only. The sale and the rental of bicycles are at 22%.
+    'SI' => [
+        'bicycles_rental' => [],
     ],
 ];
 
@@ -150,6 +211,29 @@ function reducedRates(array $rateCategories, float|int $standard): array
     return $reduced;
 }
 
+/**
+ * @param array<string, list<float|int>> $rateCategories
+ * @return array<string, list<float|int>>
+ */
+function correctCategories(string $countryCode, array $rateCategories): array
+{
+    foreach (CORRECTIONS[$countryCode] ?? [] as $category => $rates) {
+        $feed = array_map(normalizeRate(...), $rateCategories[$category] ?? []);
+        $fixed = array_map(normalizeRate(...), $rates);
+        sort($feed);
+        sort($fixed);
+        if ($feed === $fixed) {
+            echo "  Notice: the feed now matches the correction of $category in $countryCode. Delete the correction.\n";
+        }
+        if ($rates === []) {
+            unset($rateCategories[$category]);
+        } else {
+            $rateCategories[$category] = $rates;
+        }
+    }
+    return $rateCategories;
+}
+
 function writeCountry(string $countryCode, array $data): void
 {
     $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRESERVE_ZERO_FRACTION);
@@ -184,7 +268,7 @@ foreach ($tedb as $country) {
     $standard = normalizeRate($country['standard_rate']);
     $data = [
         'standard' => $standard,
-        'reduced' => reducedRates($country['rate_categories'] ?? [], $standard),
+        'reduced' => reducedRates(correctCategories($countryCode, $country['rate_categories'] ?? []), $standard),
         'prices_include_tax' => true,
     ];
     $data += TERRITORIES[$countryCode] ?? [];

@@ -8,6 +8,7 @@
                 "accommodation",
                 "agricultural_production",
                 "ceramics",
+                "clothing_repair",
                 "cultural_events",
                 "enamels",
                 "housing_provision",
@@ -19,6 +20,7 @@
                 "private_dwellings",
                 "sculpture_casts",
                 "sculptures",
+                "shoes_repair",
                 "street_cleaning",
                 "tapestries",
                 "window_cleaning"
@@ -34,15 +36,20 @@
             ]
         },
         {
+            "rate": 4.8,
+            "categories": [
+                "livestock"
+            ]
+        },
+        {
             "rate": 0,
             "categories": [
-                "clothing_repair",
+                "child_wear",
                 "foodstuffs",
                 "loan_libraries",
                 "medical_care",
                 "medical_equipment",
                 "pharmaceutical_products",
-                "shoes_repair",
                 "solar_panels"
             ]
         }

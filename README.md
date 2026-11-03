@@ -62,11 +62,12 @@ The sales tax rates of 44 countries: the 27 EU member states, 13 other European 
 }
 ```
 
-- `reduced` holds every rate below the standard rate, 0% included, from the highest to the lowest.
-- `categories` are the category identifiers of TEDB, the Taxes in Europe Database of the European Commission (`loan_libraries` is books). One category can appear at more than one rate: a country can tax part of its food at 4% and the rest at 10%. Read the categories as hints, not as a full list of goods.
+- `reduced` holds every rate below the standard rate, 0% included, from the highest to the lowest. The rates are those of a sale to a consumer inside the country. The 0% of exports and of sales to businesses in other EU countries is not in the files.
+- A 0% rate can also be an exemption, such as the medical and cultural services of Latvia. The consumer pays no tax in both cases. The difference is in the input tax of the seller, which these files do not cover.
+- `categories` are the category identifiers of TEDB, the Taxes in Europe Database of the European Commission (books are `loan_libraries` in most countries and `books` in some). One category can appear at more than one rate: a country can tax part of its food at 4% and the rest at 10%. Read the categories as hints, not as a full list of goods.
 - `prices_include_tax` says whether consumer prices in the country include the tax.
 - `regions` (Canada, the United States) lists the taxes of each region code. They replace `standard` in that region, and a store adds them up: Quebec has GST 5% and QST 9.975%.
-- `home_region_only` (the United States) says that a store charges the tax of its own region only, until it has nexus in another state. The rates are the lowest rate of each state: the state rate plus the local rate that applies in the whole state, such as 7.25% in California. City and county rates are not included.
+- `home_region_only` (the United States) gives the default scope for a new store: the tax of its own region only. It does not decide nexus. A store that sells into other states can have nexus there without an office, from its sales alone, and this package has no nexus thresholds. The rates are the lowest rate of each state: the state rate plus the local rate that applies in the whole state, such as 7.25% in California. City and county rates are not included.
 - `outside_tax_area` lists postcodes (`*` is a wildcard) where the tax of the country does not apply, such as the Canary Islands.
 - `same_tax_area` lists other countries where the tax of the country applies, such as Monaco for France.
 - `source` is `tedb` for EU member states, which TEDB keeps current, and `manual` for the other countries.

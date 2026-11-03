@@ -3,11 +3,17 @@
     "reduced": [
         {
             "rate": 10,
-            "categories": []
+            "categories": [
+                "agricultural_production",
+                "chemical_fertilisers"
+            ]
         },
         {
             "rate": 6,
-            "categories": []
+            "categories": [
+                "accommodation",
+                "books"
+            ]
         }
     ],
     "prices_include_tax": true,
