@@ -46,10 +46,8 @@
             "rate": 0,
             "categories": [
                 "cultural_events",
-                "foodstuffs",
-                "loan_libraries",
                 "medical_care",
-                "pharmaceutical_products",
+                "newspapers",
                 "sporting_events",
                 "transport_passengers",
                 "writers_services"

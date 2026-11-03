@@ -112,12 +112,28 @@ const CORRECTIONS = [
         'foodstuffs' => [4.9, 10, 13],
         'solar_panels' => [],
     ],
+    // TEDB comments: the 0% covers breast milk, human organs and blood, and library loans only. Newspapers are at 0%.
+    'BE' => [
+        'foodstuffs' => [6, 12],
+        'pharmaceutical_products' => [6],
+        'loan_libraries' => [6],
+        'newspapers' => [0],
+    ],
     // ZDDS Art. 66a: 9% for books, newspapers, periodicals, baby food and baby diapers. Other food and medicines are at 20%.
     'BG' => [
         'foodstuffs' => [],
         'pharmaceutical_products' => [],
         'newspapers' => [9],
         'periodicals' => [9],
+    ],
+    // UStG § 12 Abs. 3: 0% for solar modules and their installation on homes, up to 30 kWp. Electricity is at 19%.
+    'DE' => [
+        'supply_electricity' => [],
+        'solar_panels' => [0],
+    ],
+    // TEDB comments: the 0% covers COVID-19 vaccines only.
+    'GR' => [
+        'pharmaceutical_products' => [6, 13],
     ],
     // AEAT Manual IVA 2026: 4% for basic food, books, newspapers, human medicines and menstrual products.
     'ES' => [
@@ -151,6 +167,9 @@ const CORRECTIONS = [
     ],
 ];
 
+/**
+ * Fetch $url and decode its JSON. Retry MAX_RETRIES times, then throw.
+ */
 function httpGetJson(string $url): array
 {
     $lastError = '';
@@ -181,6 +200,9 @@ function httpGetJson(string $url): array
     throw new RuntimeException("Giving up on $url after " . MAX_RETRIES . " attempts: $lastError");
 }
 
+/**
+ * Round $rate to two decimals. Return an int when the rate has no decimals, so that 22.0 is written as 22.
+ */
 function normalizeRate(float|int $rate): float|int
 {
     $rate = round((float) $rate, 2);
@@ -188,6 +210,8 @@ function normalizeRate(float|int $rate): float|int
 }
 
 /**
+ * Group the categories by rate, and keep the rates below $standard, from the highest to the lowest.
+ *
  * @param array<string, list<float|int>> $rateCategories TEDB category => rates
  * @return list<array{rate: float|int, categories: list<string>}>
  */
@@ -218,6 +242,8 @@ function reducedRates(array $rateCategories, float|int $standard): array
 }
 
 /**
+ * Apply the CORRECTIONS of $countryCode to the categories of the feed.
+ *
  * @param array<string, list<float|int>> $rateCategories
  * @return array<string, list<float|int>>
  */
@@ -240,6 +266,9 @@ function correctCategories(string $countryCode, array $rateCategories): array
     return $rateCategories;
 }
 
+/**
+ * Encode the record of one country as the content of its JSON file. Throw when the data cannot be encoded.
+ */
 function encodeCountry(array $data): string
 {
     return json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRESERVE_ZERO_FRACTION | JSON_THROW_ON_ERROR) . "\n";
