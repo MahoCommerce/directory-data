@@ -8,7 +8,7 @@
  * The member states keep TEDB up to date. TEDB data is © European Union, reused under the Commission
  * reuse policy (Decision 2011/833/EU). See LICENSE for attribution.
  *
- * tax-territories.json adds the postcodes outside the tax area and the countries inside it, which TEDB does not have.
+ * TERRITORIES adds the postcodes outside the tax area and the countries inside it, which TEDB does not have.
  *
  * The files of the other countries have "source": "manual". They are kept by hand, and this script leaves them alone.
  *
@@ -37,7 +37,6 @@
 declare(strict_types=1);
 
 const VATCOMPLY_URL = 'https://api.vatcomply.com/vat_rates';
-const TERRITORIES_FILE = __DIR__ . '/tax-territories.json';
 const OUTPUT_DIR = __DIR__ . '/tax';
 const MAX_RETRIES = 3;
 const RETRY_BACKOFF_SEC = 2;
@@ -46,6 +45,44 @@ const RETRY_BACKOFF_SEC = 2;
 const COUNTRY_CODE_MAP = ['EL' => 'GR'];
 
 const IGNORED_CATEGORIES = ['region'];
+
+/** What TEDB does not have: the postcodes outside the tax area, and the countries inside it. */
+const TERRITORIES = [
+    'DE' => [
+        'outside_tax_area' => [
+            '27498' => 'Helgoland',
+            '78266' => 'Büsingen am Hochrhein',
+        ],
+    ],
+    'ES' => [
+        'outside_tax_area' => [
+            '35*' => 'Las Palmas (Canary Islands)',
+            '38*' => 'Santa Cruz de Tenerife (Canary Islands)',
+            '51*' => 'Ceuta',
+            '52*' => 'Melilla',
+        ],
+    ],
+    'FR' => [
+        'outside_tax_area' => [
+            '971*' => 'Guadeloupe',
+            '972*' => 'Martinique',
+            '973*' => 'Guyane',
+            '974*' => 'La Réunion',
+            '976*' => 'Mayotte',
+        ],
+        'same_tax_area' => ['MC'],
+    ],
+    'GR' => [
+        'outside_tax_area' => [
+            '63086' => 'Mount Athos',
+        ],
+    ],
+    'IT' => [
+        'outside_tax_area' => [
+            '23041' => 'Livigno',
+        ],
+    ],
+];
 
 function httpGetJson(string $url): array
 {
@@ -119,8 +156,6 @@ function writeCountry(string $countryCode, array $data): void
     file_put_contents(OUTPUT_DIR . "/$countryCode.json", $json . "\n");
 }
 
-$territories = json_decode((string) file_get_contents(TERRITORIES_FILE), true, flags: JSON_THROW_ON_ERROR);
-
 echo "Fetching EU VAT rates from vatcomply (TEDB)...\n";
 $tedb = httpGetJson(VATCOMPLY_URL);
 
@@ -152,7 +187,7 @@ foreach ($tedb as $country) {
         'reduced' => reducedRates($country['rate_categories'] ?? [], $standard),
         'prices_include_tax' => true,
     ];
-    $data += $territories[$countryCode] ?? [];
+    $data += TERRITORIES[$countryCode] ?? [];
     $data['source'] = 'tedb';
     writeCountry($countryCode, $data);
     $written++;

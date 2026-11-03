@@ -3,7 +3,6 @@
 generate.php          export-ignore
 generate-formats.php  export-ignore
 generate-tax.php      export-ignore
-tax-territories.json  export-ignore
 validate.php          export-ignore
 expected-counts.json  export-ignore
 composer.lock         export-ignore

@@ -19,7 +19,7 @@ A small PHP shim `Maho\DirectoryData\Paths` (in `src/`) lets consumers locate th
 composer install              # one-time, requires PHP >=8.5.1 with ext-intl
 php generate-formats.php      # regenerates formats/*.json from libaddressinput (network) — run first
 php generate.php              # regenerates countries.json + regions/*.json (reads formats/ for augmentations)
-php generate-tax.php          # regenerates the EU files in tax/ from TEDB (network, one request) and tax-territories.json
+php generate-tax.php          # regenerates the EU files in tax/ from TEDB (network, one request)
 php validate.php              # asserts output is well-formed and counts match expected-counts.json
 ```
 
@@ -95,7 +95,7 @@ The only PHP code shipped to consumers. Pure path resolution (no IO, no caching)
 
 One request to `https://api.vatcomply.com/vat_rates`, which mirrors TEDB, the Taxes in Europe Database of the European Commission. The member states keep TEDB current, so a weekly run picks up a rate change. For each member state the generator keeps the standard rate and groups the TEDB categories by rate. It drops the `region` category, because its rates apply only in a region (Corsica, Madeira, Jungholz). It maps TEDB's `EL` to `GR`.
 
-`tax-territories.json` adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes.
+The `TERRITORIES` constant of the generator adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes.
 
 The files of the other 17 countries have `"source": "manual"`: 13 in Europe, plus the United States, Canada, Australia and New Zealand. No open dataset covers them with categories, so they are kept by hand and the generator does not touch them. Edit the file in `tax/` directly when a law changes, with the source in the pull request. Use TEDB category names; `sanitary_products` is the one extra key.
 
@@ -113,7 +113,7 @@ A `{cc: {min, max}}` map. Bounds start strict (`min == max == current count`). A
 
 ## Distribution (`.gitattributes`)
 
-`generate.php`, `generate-formats.php`, `generate-tax.php`, `tax-territories.json`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
+`generate.php`, `generate-formats.php`, `generate-tax.php`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
 
 ## When making changes
 
