@@ -294,13 +294,21 @@ foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
     $manualCodes[$countryCode] = true;
 }
 
+foreach ($records as $countryCode => $json) {
+    if (file_put_contents(OUTPUT_DIR . "/$countryCode.json.tmp", $json) !== strlen($json)) {
+        array_map(unlink(...), glob(OUTPUT_DIR . '/*.json.tmp') ?: []);
+        throw new RuntimeException("Could not write tax/$countryCode.json.tmp. No file was changed.");
+    }
+}
+foreach (array_keys($records) as $countryCode) {
+    if (!rename(OUTPUT_DIR . "/$countryCode.json.tmp", OUTPUT_DIR . "/$countryCode.json")) {
+        throw new RuntimeException("Could not replace tax/$countryCode.json.");
+    }
+}
 foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
     $countryCode = basename($path, '.json');
     if (!isset($manualCodes[$countryCode]) && !isset($records[$countryCode])) {
         unlink($path);
     }
-}
-foreach ($records as $countryCode => $json) {
-    file_put_contents(OUTPUT_DIR . "/$countryCode.json", $json);
 }
 echo 'Wrote ' . count($records) . ' EU files to tax/, kept ' . count($manualCodes) . " hand-kept files\n";
