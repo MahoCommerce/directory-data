@@ -147,6 +147,6 @@ Repository code is MIT. Data files carry their upstream licenses; see [LICENSE](
 | `countries.json`, `regions/*.json` | [Debian iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes) via [sokil/php-isocodes](https://github.com/sokil/php-isocodes) | LGPL-2.1+ / MIT |
 | `formats/*.json` | [Google libaddressinput](https://github.com/google/libaddressinput) (via `chromium-i18n.appspot.com`) | CC-BY 4.0 |
 | `tax/*.json`, EU member states | [TEDB](https://ec.europa.eu/taxation_customs/tedb/) of the European Commission, via [vatcomply](https://www.vatcomply.com) | © European Union, reuse with acknowledgement (Decision 2011/833/EU) |
-| `tax/*.json`, other countries | Hand-kept in `tax-manual.json` | MIT |
+| `tax/*.json`, other countries | Kept by hand | MIT |
 
 Redistributors of the `formats/*.json` files must preserve attribution to Google's libaddressinput per CC-BY 4.0.

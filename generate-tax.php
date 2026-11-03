@@ -1,14 +1,16 @@
 <?php
 
 /**
- * Writes the tax rates of each country into tax/<CC>.json.
+ * Writes the tax rates of each EU member state into tax/<CC>.json.
  *
  * EU member states: the rates and the goods categories come from TEDB, the Taxes in Europe Database of
  * the European Commission, through the vatcomply API (https://www.vatcomply.com, MIT), which mirrors it.
  * The member states keep TEDB up to date. TEDB data is © European Union, reused under the Commission
  * reuse policy (Decision 2011/833/EU). See LICENSE for attribution.
  *
- * Other countries, and the territories of EU countries: tax-manual.json, kept by hand.
+ * tax-territories.json adds the postcodes outside the tax area and the countries inside it, which TEDB does not have.
+ *
+ * The files of the other countries have "source": "manual". They are kept by hand, and this script leaves them alone.
  *
  * Output shape per file:
  * {
@@ -35,7 +37,7 @@
 declare(strict_types=1);
 
 const VATCOMPLY_URL = 'https://api.vatcomply.com/vat_rates';
-const MANUAL_FILE = __DIR__ . '/tax-manual.json';
+const TERRITORIES_FILE = __DIR__ . '/tax-territories.json';
 const OUTPUT_DIR = __DIR__ . '/tax';
 const MAX_RETRIES = 3;
 const RETRY_BACKOFF_SEC = 2;
@@ -117,7 +119,7 @@ function writeCountry(string $countryCode, array $data): void
     file_put_contents(OUTPUT_DIR . "/$countryCode.json", $json . "\n");
 }
 
-$manual = json_decode((string) file_get_contents(MANUAL_FILE), true, flags: JSON_THROW_ON_ERROR);
+$territories = json_decode((string) file_get_contents(TERRITORIES_FILE), true, flags: JSON_THROW_ON_ERROR);
 
 echo "Fetching EU VAT rates from vatcomply (TEDB)...\n";
 $tedb = httpGetJson(VATCOMPLY_URL);
@@ -125,8 +127,14 @@ $tedb = httpGetJson(VATCOMPLY_URL);
 if (!is_dir(OUTPUT_DIR)) {
     mkdir(OUTPUT_DIR, 0o755, true);
 }
-foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $stale) {
-    unlink($stale);
+$manualCodes = [];
+foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
+    $source = json_decode((string) file_get_contents($path), true)['source'] ?? null;
+    if ($source === 'tedb') {
+        unlink($path);
+    } else {
+        $manualCodes[basename($path, '.json')] = true;
+    }
 }
 
 $written = 0;
@@ -135,23 +143,18 @@ foreach ($tedb as $country) {
         continue;
     }
     $countryCode = COUNTRY_CODE_MAP[$country['country_code']] ?? $country['country_code'];
+    if (isset($manualCodes[$countryCode])) {
+        throw new RuntimeException("tax/$countryCode.json is kept by hand, but TEDB has $countryCode. Delete the file.");
+    }
     $standard = normalizeRate($country['standard_rate']);
     $data = [
         'standard' => $standard,
         'reduced' => reducedRates($country['rate_categories'] ?? [], $standard),
         'prices_include_tax' => true,
     ];
-    $data += $manual['EU'][$countryCode] ?? [];
+    $data += $territories[$countryCode] ?? [];
     $data['source'] = 'tedb';
     writeCountry($countryCode, $data);
     $written++;
 }
-echo "  $written EU countries\n";
-
-foreach ($manual['OTHER'] as $countryCode => $data) {
-    $data['source'] = 'manual';
-    writeCountry($countryCode, $data);
-    $written++;
-}
-echo '  ' . count($manual['OTHER']) . " other countries\n";
-echo "Wrote $written files to tax/\n";
+echo "Wrote $written EU files to tax/, kept " . count($manualCodes) . " hand-kept files\n";

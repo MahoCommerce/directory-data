@@ -9,7 +9,7 @@ This repo is both a **data publication pipeline** and a **distributable Composer
 - `countries.json` — 249 ISO 3166-1 countries with multilingual names
 - `regions/{CC}.json` — one file per country with shipping-relevant administrative subdivisions, multilingual
 - `formats/{CC}.json` — per-country address format metadata (postcode regex, required fields, format templates) mirrored from Google's libaddressinput
-- `tax/{CC}.json` — the sales tax rates of 44 countries, with the goods categories of each rate. EU data comes from the Commission's TEDB through the vatcomply API, the rest from the hand-kept `tax-manual.json`
+- `tax/{CC}.json` — the sales tax rates of 44 countries, with the goods categories of each rate. EU files are generated from the Commission's TEDB through the vatcomply API. The other 17 files are kept by hand
 
 A small PHP shim `Maho\DirectoryData\Paths` (in `src/`) lets consumers locate these data files without hardcoding `vendor/mahocommerce/directory-data/...` paths.
 
@@ -19,7 +19,7 @@ A small PHP shim `Maho\DirectoryData\Paths` (in `src/`) lets consumers locate th
 composer install              # one-time, requires PHP >=8.5.1 with ext-intl
 php generate-formats.php      # regenerates formats/*.json from libaddressinput (network) — run first
 php generate.php              # regenerates countries.json + regions/*.json (reads formats/ for augmentations)
-php generate-tax.php          # regenerates tax/*.json from TEDB (network, one request) and tax-manual.json
+php generate-tax.php          # regenerates the EU files in tax/ from TEDB (network, one request) and tax-territories.json
 php validate.php              # asserts output is well-formed and counts match expected-counts.json
 ```
 
@@ -91,11 +91,13 @@ The only PHP code shipped to consumers. Pure path resolution (no IO, no caching)
 - `formats/<alpha-2>.json`: `{ "country": {...}, "subdivisions": { "<key>": {...}, ... } }`, subdivisions sorted by key.
 - `tax/<alpha-2>.json`: `{ "standard": 22, "reduced": [{ "rate": 10, "categories": [...] }, ...], "prices_include_tax": true, "regions": {...}, "home_region_only": true, "outside_tax_area": {...}, "same_tax_area": [...], "source": "tedb"|"manual" }`. Reduced rates go from the highest to the lowest, categories sorted. The README describes each key.
 
-### `generate-tax.php` (TEDB mirror plus hand-kept data)
+### `generate-tax.php` (TEDB mirror) and the hand-kept tax files
 
 One request to `https://api.vatcomply.com/vat_rates`, which mirrors TEDB, the Taxes in Europe Database of the European Commission. The member states keep TEDB current, so a weekly run picks up a rate change. For each member state the generator keeps the standard rate and groups the TEDB categories by rate. It drops the `region` category, because its rates apply only in a region (Corsica, Madeira, Jungholz). It maps TEDB's `EL` to `GR`.
 
-`tax-manual.json` has two parts. `EU` adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes. `OTHER` holds the full data of the other 17 countries, which no open dataset covers with categories: 13 in Europe, plus the United States, Canada, Australia and New Zealand. Edit `tax-manual.json` by hand when a law changes, with the source in the pull request. Use TEDB category names; `sanitary_products` is the one extra key.
+`tax-territories.json` adds `outside_tax_area` and `same_tax_area` to member states, because TEDB has no postcodes.
+
+The files of the other 17 countries have `"source": "manual"`: 13 in Europe, plus the United States, Canada, Australia and New Zealand. No open dataset covers them with categories, so they are kept by hand and the generator does not touch them. Edit the file in `tax/` directly when a law changes, with the source in the pull request. Use TEDB category names; `sanitary_products` is the one extra key.
 
 ## Releases & versioning
 
@@ -111,11 +113,11 @@ A `{cc: {min, max}}` map. Bounds start strict (`min == max == current count`). A
 
 ## Distribution (`.gitattributes`)
 
-`generate.php`, `generate-formats.php`, `generate-tax.php`, `tax-manual.json`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
+`generate.php`, `generate-formats.php`, `generate-tax.php`, `tax-territories.json`, `.github/`, `composer.lock`, `CLAUDE.md`, etc. are marked `export-ignore` so they don't ship in the Packagist tarball. Consumers only get data + `src/Paths.php` + `composer.json` + `LICENSE` + `README.md`. When adding new generator-only / dev-only files, remember to extend `.gitattributes`.
 
 ## When making changes
 
-- Edits should almost always be to the generator scripts. The JSON outputs are generated artifacts — don't hand-edit them; regenerate. The exception is if you want to confirm a diff before committing the script change.
+- Edits should almost always be to the generator scripts. The JSON outputs are generated artifacts — don't hand-edit them; regenerate. The tax files with `"source": "manual"` are the exception: they are kept by hand. The exception is if you want to confirm a diff before committing the script change.
 - After modifying a generator, run it locally and review `git diff` to verify the change is what you intended and didn't unintentionally drop entries elsewhere.
 - The README's translation-lookup fallback contract (`locale → language → en`) is load-bearing for consumers. Any change to dedup logic must preserve it.
 - If you add a new data artifact: extend `Paths.php`, extend the validation step in the workflow, extend `.gitattributes` if there are new dev-only files, and document the new file in README.
