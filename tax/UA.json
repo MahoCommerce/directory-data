@@ -15,6 +15,14 @@
                 "medical_equipment",
                 "pharmaceutical_products"
             ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "books",
+                "newspapers",
+                "periodicals"
+            ]
         }
     ],
     "prices_include_tax": true,

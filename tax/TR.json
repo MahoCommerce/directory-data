@@ -5,6 +5,7 @@
             "rate": 10,
             "categories": [
                 "accommodation",
+                "foodstuffs",
                 "pharmaceutical_products",
                 "restaurant"
             ]

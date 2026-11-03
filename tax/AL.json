@@ -14,6 +14,14 @@
                 "accommodation",
                 "books"
             ]
+        },
+        {
+            "rate": 0,
+            "categories": [
+                "newspapers",
+                "periodicals",
+                "pharmaceutical_products"
+            ]
         }
     ],
     "prices_include_tax": true,

@@ -47,6 +47,9 @@ const COUNTRY_CODE_MAP = ['EL' => 'GR'];
 
 const IGNORED_CATEGORIES = ['region'];
 
+/** The feed must list this many member states, or the generator changes no file. */
+const EU_MEMBER_STATES = 27;
+
 /** What TEDB does not have: the postcodes outside the tax area, and the countries inside it. */
 const TERRITORIES = [
     'DE' => [
@@ -246,24 +249,17 @@ $tedb = httpGetJson(VATCOMPLY_URL);
 if (!is_dir(OUTPUT_DIR)) {
     mkdir(OUTPUT_DIR, 0o755, true);
 }
-$manualCodes = [];
-foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
-    $source = json_decode((string) file_get_contents($path), true)['source'] ?? null;
-    if ($source === 'tedb') {
-        unlink($path);
-    } else {
-        $manualCodes[basename($path, '.json')] = true;
-    }
-}
-
-$written = 0;
+$records = [];
 foreach ($tedb as $country) {
     if (empty($country['member_state'])) {
         continue;
     }
-    $countryCode = COUNTRY_CODE_MAP[$country['country_code']] ?? $country['country_code'];
-    if (isset($manualCodes[$countryCode])) {
-        throw new RuntimeException("tax/$countryCode.json is kept by hand, but TEDB has $countryCode. Delete the file.");
+    $countryCode = COUNTRY_CODE_MAP[$country['country_code'] ?? ''] ?? (string) ($country['country_code'] ?? '');
+    if (!preg_match('/^[A-Z]{2}$/', $countryCode)) {
+        throw new RuntimeException("The feed has an invalid country code: \"$countryCode\".");
+    }
+    if (!is_numeric($country['standard_rate'] ?? null)) {
+        throw new RuntimeException("The feed has no standard rate for $countryCode.");
     }
     $standard = normalizeRate($country['standard_rate']);
     $data = [
@@ -273,7 +269,32 @@ foreach ($tedb as $country) {
     ];
     $data += TERRITORIES[$countryCode] ?? [];
     $data['source'] = 'tedb';
-    writeCountry($countryCode, $data);
-    $written++;
+    $records[$countryCode] = $data;
 }
-echo "Wrote $written EU files to tax/, kept " . count($manualCodes) . " hand-kept files\n";
+if (count($records) !== EU_MEMBER_STATES) {
+    throw new RuntimeException('The feed has ' . count($records) . ' member states, not ' . EU_MEMBER_STATES . '. No file was changed.');
+}
+
+$manualCodes = [];
+foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
+    $countryCode = basename($path, '.json');
+    $source = json_decode((string) file_get_contents($path), true)['source'] ?? null;
+    if ($source === 'tedb') {
+        continue;
+    }
+    if (isset($records[$countryCode])) {
+        throw new RuntimeException("tax/$countryCode.json is kept by hand, but TEDB has $countryCode. Delete the file.");
+    }
+    $manualCodes[$countryCode] = true;
+}
+
+foreach (glob(OUTPUT_DIR . '/*.json') ?: [] as $path) {
+    $countryCode = basename($path, '.json');
+    if (!isset($manualCodes[$countryCode]) && !isset($records[$countryCode])) {
+        unlink($path);
+    }
+}
+foreach ($records as $countryCode => $data) {
+    writeCountry($countryCode, $data);
+}
+echo 'Wrote ' . count($records) . ' EU files to tax/, kept ' . count($manualCodes) . " hand-kept files\n";
