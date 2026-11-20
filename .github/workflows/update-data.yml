@@ -115,3 +115,36 @@ jobs:
           else
             echo "No changes — nothing to release."
           fi
+
+  # Nobody noticed four failed weekly runs in a row (Oct–Nov 2026). On failure,
+  # open an issue (or comment on the open one), so watchers get a notification.
+  # On the next success, close it. Uses GITHUB_TOKEN, not the app token, so it
+  # still works when the token step is what failed.
+  report-status:
+    needs: update-and-release
+    if: always() && (needs.update-and-release.result == 'failure' || needs.update-and-release.result == 'success')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      TITLE: Weekly data update failed
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      RESULT: ${{ needs.update-and-release.result }}
+    steps:
+      - name: Open, update, or close the failure issue
+        run: |
+          ISSUE=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number,title \
+            --jq "map(select(.title == \"$TITLE\")) | .[0].number // empty")
+          if [ "$RESULT" = "failure" ]; then
+            if [ -n "$ISSUE" ]; then
+              gh issue comment "$ISSUE" --body "The run failed again: $RUN_URL"
+            else
+              gh issue create --title "$TITLE" --label bug --body "The \"Update data and release\" workflow failed: $RUN_URL
+
+          No new data release ships until this is fixed. This issue closes automatically after the next successful run."
+            fi
+          elif [ -n "$ISSUE" ]; then
+            gh issue close "$ISSUE" --comment "The workflow passed again: $RUN_URL"
+          fi
