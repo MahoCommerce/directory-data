@@ -12,9 +12,10 @@ use Symfony\Component\Translation\Loader\MoFileLoader;
 // Strip trailing iso-codes annotation brackets from a subdivision name.
 // Upstream encodes alt-script names and parent_code references as " [...]"
 // suffixes (e.g. "Wales [Cymru GB-CYM]", "Stockholms län [SE-01]"). See #5.
+// A translation can also end with a bare opening bracket ("Gran Comora[").
 function stripIsoBrackets(string $name): string
 {
-    return trim(preg_replace('/\s*\[[^\]]+\]\s*$/u', '', $name));
+    return trim(preg_replace('/\s*\[(?:[^\]]+\])?\s*$/u', '', $name));
 }
 
 // Source the locale list from the iso-codes translation directory rather than

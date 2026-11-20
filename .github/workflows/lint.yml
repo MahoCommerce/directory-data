@@ -25,3 +25,8 @@ jobs:
 
             - name: Rector
               run: php vendor/bin/rector --dry-run
+
+            - name: Validate generated country and region data
+              run: |
+                  php generate.php
+                  php validate.php
