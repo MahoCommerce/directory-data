@@ -18,7 +18,8 @@
         "sokil/php-isocodes-db-i18n": "^4.0",
         "symfony/translation": "^7.4 || ^8.0",
         "friendsofphp/php-cs-fixer": "*",
-        "rector/rector": "*"
+        "rector/rector": "*",
+        "pestphp/pest": "^5"
     },
     "autoload": {
         "psr-4": {
@@ -46,7 +47,8 @@
             "php": "8.5.1"
         },
         "allow-plugins": {
-            "php-http/discovery": false
+            "php-http/discovery": false,
+            "pestphp/pest-plugin": true
         }
     }
 }
