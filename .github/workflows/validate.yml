@@ -1,0 +1,29 @@
+name: Validate data
+
+# Runs the generator and validator on the committed address formats, so a
+# dependency update that breaks the data fails before the scheduled release.
+# This lives outside lint.yml because infrastructure manages that file.
+on:
+    push:
+        branches: [main]
+    pull_request:
+    workflow_dispatch:
+
+jobs:
+    validate:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+            - uses: shivammathur/setup-php@eb7c497e18156a6bbabfef1d3a82760b9eda3962  # 2.40.0
+              with:
+                  php-version: '8.5'
+
+            - name: Install dependencies
+              run: composer install --no-interaction --no-progress
+
+            - name: Validate generated country and region data
+              run: |
+                  php generate.php
+                  php validate.php
