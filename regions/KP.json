@@ -1,32 +1,44 @@
 {
     "02": {
         "en": "Phyeongannamto",
+        "es": "Provincia Phyeongannamto",
+        "km": "ព្យុងអាងណាំតូ",
         "lo": "ພຽງອັນນຳໂດ",
         "ro": "Pyongan de Sud",
+        "ta": "பியோங்கன்னம்டோ",
         "uk": "Пхьонан-намдо"
     },
     "03": {
         "en": "Phyeonganpukto",
+        "km": "ព្យុងអាងប៊ុកតូ",
         "lo": "ພຽງອັນບຸກໂດ",
         "ro": "Pyongan de Nord",
+        "ta": "பியோங்கன்புக்டோ",
         "uk": "Пхьонан-пукто"
     },
     "04": {
         "en": "Jakangto",
+        "es": "Provincia de Chagang",
+        "km": "ចាកាំងតូ",
         "lo": "ຈາກັງໂດ",
         "ro": "Chagang",
+        "ta": "சகாங்டோ",
         "uk": "Чаган-до"
     },
     "05": {
         "en": "Hwanghainamto",
+        "km": "ហ្វាំងហៃណាំតូ",
         "lo": "ຮວາງແຮນຳໂດ",
         "ro": "Hwanghae de Sud",
+        "ta": "சுவாங்கைனம்டோ",
         "uk": "Хвангай-намдо"
     },
     "06": {
         "en": "Hwanghaipukto",
+        "km": "ហ្វាំងហៃប៊ុកតូ",
         "lo": "ຮວາງແຮບຸກໂດ",
         "ro": "Hwanghae de Nord",
+        "ta": "சுவாங்ஐபுக்தோ",
         "uk": "Хвангай-пукто"
     },
     "07": {
@@ -34,6 +46,7 @@
         "ba": "Канвондо",
         "hi": "कांगवेन्तो",
         "hu": "Kangvon tartományra",
+        "km": "កាំងវ៉ុនតូ",
         "ko": "강원도",
         "lo": "ກັງວອນໂດ",
         "nl": "Kangwŏn-do",
@@ -45,21 +58,27 @@
     "08": {
         "en": "Hamkyeongnamto",
         "ga": "Hamgyeongnamto",
+        "km": "ហាំក្យុងណាំតូ",
         "lo": "ຮຳກຽງນຳໂດ",
         "ro": "Hamgyong de Sud",
+        "ta": "அம்கியோங்னம்டோ",
         "uk": "Хамкьйон-намдо"
     },
     "09": {
         "en": "Hamkyeongpukto",
+        "km": "ហាំក្យុងប៊ុកតូ",
         "lo": "ຮຳກຽງບຸກໂດ",
         "ro": "Hamgyong de Nord",
+        "ta": "அம்கியோங்புக்டோ",
         "uk": "Хамкьйон-пукто"
     },
     "10": {
         "en": "Ryangkangto",
         "ga": "Ryanggangto",
+        "km": "យ៉ាំងកាំងតូ",
         "lo": "ຣຽງກັງໂດ",
         "ro": "Ryanggang",
+        "ta": "யாங்காங்டோ",
         "uk": "Янгандо"
     }
 }

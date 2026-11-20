@@ -14,13 +14,13 @@
         "posturl": "http:\/\/www.epost.go.kr\/search\/zipcode\/search5.jsp",
         "state_name_type": "do_si",
         "sublocality_name_type": "district",
-        "sub_keys": "강원도~경기도~경상남도~경상북도~광주광역시~대구광역시~대전광역시~부산광역시~서울특별시~세종특별자치시~울산광역시~인천광역시~전라남도~전라북도~제주특별자치도~충청남도~충청북도",
-        "sub_names": "강원~경기~경남~경북~광주~대구~대전~부산~서울~세종~울산~인천~전남~전북~제주~충남~충북",
-        "sub_lnames": "Gangwon-do~Gyeonggi-do~Gyeongsangnam-do~Gyeongsangbuk-do~Gwangju~Daegu~Daejeon~Busan~Seoul~Sejong~Ulsan~Incheon~Jeollanam-do~Jeollabuk-do~Jeju-do~Chungcheongnam-do~Chungcheongbuk-do",
-        "sub_zips": "2[456]\\d{2}~1[0-8]\\d{2}~5[0-3]\\d{2}~(?:3[6-9]|40)\\d{2}~6[12]\\d{2}~4[123]\\d{2}~3[45]\\d{2}~4[6-9]\\d{2}~0[1-8]\\d{2}~30[01]\\d~4[45]\\d{2}~2[1-3]\\d{2}~5[7-9]\\d{2}~5[4-6]\\d{2}~63[0-356]\\d~3[1-3]\\d{2}~2[789]\\d{2}",
-        "sub_zipexs": "25627~12410~53286~38540~62394~42456~34316~46706~06321~30065~44782~23024~59222~56445~63563~32832~28006",
-        "sub_isoids": "42~41~48~47~29~27~30~26~11~50~31~28~46~45~49~44~43",
-        "sub_mores": "true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true"
+        "sub_keys": "강원도~경기도~경상남도~경상북도~대구광역시~대전광역시~부산광역시~서울특별시~세종특별자치시~울산광역시~인천광역시~전남광주통합특별시~전라북도~제주특별자치도~충청남도~충청북도",
+        "sub_names": "강원~경기~경남~경북~대구~대전~부산~서울~세종~울산~인천~전남광주~전북~제주~충남~충북",
+        "sub_lnames": "Gangwon-do~Gyeonggi-do~Gyeongsangnam-do~Gyeongsangbuk-do~Daegu~Daejeon~Busan~Seoul~Sejong~Ulsan~Incheon~Jeonnam-Gwangju~Jeollabuk-do~Jeju-do~Chungcheongnam-do~Chungcheongbuk-do",
+        "sub_zips": "2[456]\\d{2}~1[0-8]\\d{2}~5[0-3]\\d{2}~(?:3[6-9]|40)\\d{2}~4[123]\\d{2}~3[45]\\d{2}~4[6-9]\\d{2}~0[1-8]\\d{2}~30[01]\\d~4[45]\\d{2}~2[1-3]\\d{2}~5[7-9]\\d{2}|6[0-2]\\d{2}~5[4-6]\\d{2}~63[0-356]\\d~3[1-3]\\d{2}~2[789]\\d{2}",
+        "sub_zipexs": "25627~12410~53286~38540~42456~34316~46706~06321~30065~44782~23024~59222~56445~63563~32832~28006",
+        "sub_isoids": "42~41~48~47~27~30~26~11~50~31~28~~45~49~44~43",
+        "sub_mores": "true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true"
     },
     "subdivisions": {
         "강원도": {
@@ -917,54 +917,6 @@
             "lname": "Buk-gu",
             "zip": "37[5-79]"
         },
-        "광주광역시": {
-            "id": "data\/KR\/광주광역시",
-            "key": "광주광역시",
-            "name": "광주",
-            "lang": "ko",
-            "lname": "Gwangju",
-            "zip": "6[12]\\d{2}",
-            "zipex": "62394",
-            "isoid": "29",
-            "sub_keys": "광산구~남구~동구~북구~서구",
-            "sub_lnames": "Gwangsan-gu~Nam-gu~Dong-gu~Buk-gu~Seo-gu",
-            "sub_zips": "62[2-4]~61[67]~61[45]~61[0-2]~6(?:19|20)"
-        },
-        "광주광역시\/광산구": {
-            "id": "data\/KR\/광주광역시\/광산구",
-            "key": "광산구",
-            "lang": "ko",
-            "lname": "Gwangsan-gu",
-            "zip": "62[2-4]"
-        },
-        "광주광역시\/남구": {
-            "id": "data\/KR\/광주광역시\/남구",
-            "key": "남구",
-            "lang": "ko",
-            "lname": "Nam-gu",
-            "zip": "61[67]"
-        },
-        "광주광역시\/동구": {
-            "id": "data\/KR\/광주광역시\/동구",
-            "key": "동구",
-            "lang": "ko",
-            "lname": "Dong-gu",
-            "zip": "61[45]"
-        },
-        "광주광역시\/북구": {
-            "id": "data\/KR\/광주광역시\/북구",
-            "key": "북구",
-            "lang": "ko",
-            "lname": "Buk-gu",
-            "zip": "61[0-2]"
-        },
-        "광주광역시\/서구": {
-            "id": "data\/KR\/광주광역시\/서구",
-            "key": "서구",
-            "lang": "ko",
-            "lname": "Seo-gu",
-            "zip": "6(?:19|20)"
-        },
         "대구광역시": {
             "id": "data\/KR\/대구광역시",
             "key": "대구광역시",
@@ -1621,9 +1573,9 @@
             "zip": "2[1-3]\\d{2}",
             "zipex": "23024",
             "isoid": "28",
-            "sub_keys": "강화군~계양구~남동구~동구~미추홀구~부평구~서구~연수구~옹진군~중구",
-            "sub_lnames": "Ganghwa-gun~Gyeyang-gu~Namdong-gu~Dong-gu~Michuhol-gu~Bupyeong-gu~Seo-gu~Yeonsu-gu~Ongjin-gun~Jung-gu",
-            "sub_zips": "230~21[01]~21[5-7]~225~22[12]~21[34]~22[6-8]~2(?:19|20)~231~22[34]"
+            "sub_keys": "강화군~검단구~계양구~남동구~미추홀구~부평구~서해구~연수구~영종구~옹진군~제물포구",
+            "sub_lnames": "Ganghwa-gun~Geomdan-gu~Gyeyang-gu~Namdong-gu~Michuhol-gu~Bupyeong-gu~Seohae-gu~Yeonsu-gu~Yeongjong-gu~Ongjin-gun~Jemulpo-gu",
+            "sub_zips": "230~22[6-8]|23[45]~21[01]~21[5-7]~22[12]~21[34]~22[6-9]~2(?:19|20)~22[34]|23[23]~231~22[3-5]"
         },
         "인천광역시\/강화군": {
             "id": "data\/KR\/인천광역시\/강화군",
@@ -1631,6 +1583,13 @@
             "lang": "ko",
             "lname": "Ganghwa-gun",
             "zip": "230"
+        },
+        "인천광역시\/검단구": {
+            "id": "data\/KR\/인천광역시\/검단구",
+            "key": "검단구",
+            "lang": "ko",
+            "lname": "Geomdan-gu",
+            "zip": "22[6-8]|23[45]"
         },
         "인천광역시\/계양구": {
             "id": "data\/KR\/인천광역시\/계양구",
@@ -1646,13 +1605,6 @@
             "lname": "Namdong-gu",
             "zip": "21[5-7]"
         },
-        "인천광역시\/동구": {
-            "id": "data\/KR\/인천광역시\/동구",
-            "key": "동구",
-            "lang": "ko",
-            "lname": "Dong-gu",
-            "zip": "225"
-        },
         "인천광역시\/미추홀구": {
             "id": "data\/KR\/인천광역시\/미추홀구",
             "key": "미추홀구",
@@ -1667,12 +1619,12 @@
             "lname": "Bupyeong-gu",
             "zip": "21[34]"
         },
-        "인천광역시\/서구": {
-            "id": "data\/KR\/인천광역시\/서구",
-            "key": "서구",
+        "인천광역시\/서해구": {
+            "id": "data\/KR\/인천광역시\/서해구",
+            "key": "서해구",
             "lang": "ko",
-            "lname": "Seo-gu",
-            "zip": "22[6-8]"
+            "lname": "Seohae-gu",
+            "zip": "22[6-9]"
         },
         "인천광역시\/연수구": {
             "id": "data\/KR\/인천광역시\/연수구",
@@ -1681,6 +1633,13 @@
             "lname": "Yeonsu-gu",
             "zip": "2(?:19|20)"
         },
+        "인천광역시\/영종구": {
+            "id": "data\/KR\/인천광역시\/영종구",
+            "key": "영종구",
+            "lang": "ko",
+            "lname": "Yeongjong-gu",
+            "zip": "22[34]|23[23]"
+        },
         "인천광역시\/옹진군": {
             "id": "data\/KR\/인천광역시\/옹진군",
             "key": "옹진군",
@@ -1688,175 +1647,209 @@
             "lname": "Ongjin-gun",
             "zip": "231"
         },
-        "인천광역시\/중구": {
-            "id": "data\/KR\/인천광역시\/중구",
-            "key": "중구",
+        "인천광역시\/제물포구": {
+            "id": "data\/KR\/인천광역시\/제물포구",
+            "key": "제물포구",
             "lang": "ko",
-            "lname": "Jung-gu",
-            "zip": "22[34]"
+            "lname": "Jemulpo-gu",
+            "zip": "22[3-5]"
         },
-        "전라남도": {
-            "id": "data\/KR\/전라남도",
-            "key": "전라남도",
-            "name": "전남",
+        "전남광주통합특별시": {
+            "id": "data\/KR\/전남광주통합특별시",
+            "key": "전남광주통합특별시",
+            "name": "전남광주",
             "lang": "ko",
-            "lname": "Jeollanam-do",
-            "zip": "5[7-9]\\d{2}",
+            "lname": "Jeonnam-Gwangju",
+            "zip": "5[7-9]\\d{2}|6[0-2]\\d{2}",
             "zipex": "59222",
-            "isoid": "46",
-            "sub_keys": "강진군~고흥군~곡성군~광양시~구례군~나주시~담양군~목포시~무안군~보성군~순천시~신안군~여수시~영광군~영암군~완도군~장성군~장흥군~진도군~함평군~해남군~화순군",
-            "sub_lnames": "Gangjin-gun~Goheung-gun~Gokseong-gun~Gwangyang-si~Gurye-gun~Naju-si~Damyang-gun~Mokpo-si~Muan-gun~Boseong-gun~Suncheon-si~Sinan-gun~Yeosu-si~Yeonggwang-gun~Yeongam-gun~Wando-gun~Jangseong-gun~Jangheung-gun~Jindo-gun~Hampyeong-gun~Haenam-gun~Hwasun-gun",
-            "sub_zips": "592~595~575~57[78]~576~58[23]~573~58[67]~585~594~5(?:79|80)~588~59[67]~570~584~591~572~593~589~571~590~581"
+            "sub_keys": "강진군~고흥군~곡성군~광산구~광양시~구례군~나주시~남구~담양군~동구~목포시~무안군~보성군~북구~서구~순천시~신안군~여수시~영광군~영암군~완도군~장성군~장흥군~진도군~함평군~해남군~화순군",
+            "sub_lnames": "Gangjin-gun~Goheung-gun~Gokseong-gun~Gwangsan-gu~Gwangyang-si~Gurye-gun~Naju-si~Nam-gu~Damyang-gun~Dong-gu~Mokpo-si~Muan-gun~Boseong-gun~Buk-gu~Seo-gu~Suncheon-si~Sinan-gun~Yeosu-si~Yeonggwang-gun~Yeongam-gun~Wando-gun~Jangseong-gun~Jangheung-gun~Jindo-gun~Hampyeong-gun~Haenam-gun~Hwasun-gun",
+            "sub_zips": "592~595~575~62[2-4]~57[78]~576~58[23]~61[67]~573~61[45]~58[67]~585~594~61[0-2]~6(?:19|20)~5(?:79|80)~588~59[67]~570~584~591~572~593~589~571~590~581"
         },
-        "전라남도\/강진군": {
-            "id": "data\/KR\/전라남도\/강진군",
+        "전남광주통합특별시\/강진군": {
+            "id": "data\/KR\/전남광주통합특별시\/강진군",
             "key": "강진군",
             "lang": "ko",
             "lname": "Gangjin-gun",
             "zip": "592"
         },
-        "전라남도\/고흥군": {
-            "id": "data\/KR\/전라남도\/고흥군",
+        "전남광주통합특별시\/고흥군": {
+            "id": "data\/KR\/전남광주통합특별시\/고흥군",
             "key": "고흥군",
             "lang": "ko",
             "lname": "Goheung-gun",
             "zip": "595"
         },
-        "전라남도\/곡성군": {
-            "id": "data\/KR\/전라남도\/곡성군",
+        "전남광주통합특별시\/곡성군": {
+            "id": "data\/KR\/전남광주통합특별시\/곡성군",
             "key": "곡성군",
             "lang": "ko",
             "lname": "Gokseong-gun",
             "zip": "575"
         },
-        "전라남도\/광양시": {
-            "id": "data\/KR\/전라남도\/광양시",
+        "전남광주통합특별시\/광산구": {
+            "id": "data\/KR\/전남광주통합특별시\/광산구",
+            "key": "광산구",
+            "lang": "ko",
+            "lname": "Gwangsan-gu",
+            "zip": "62[2-4]"
+        },
+        "전남광주통합특별시\/광양시": {
+            "id": "data\/KR\/전남광주통합특별시\/광양시",
             "key": "광양시",
             "lang": "ko",
             "lname": "Gwangyang-si",
             "zip": "57[78]"
         },
-        "전라남도\/구례군": {
-            "id": "data\/KR\/전라남도\/구례군",
+        "전남광주통합특별시\/구례군": {
+            "id": "data\/KR\/전남광주통합특별시\/구례군",
             "key": "구례군",
             "lang": "ko",
             "lname": "Gurye-gun",
             "zip": "576"
         },
-        "전라남도\/나주시": {
-            "id": "data\/KR\/전라남도\/나주시",
+        "전남광주통합특별시\/나주시": {
+            "id": "data\/KR\/전남광주통합특별시\/나주시",
             "key": "나주시",
             "lang": "ko",
             "lname": "Naju-si",
             "zip": "58[23]"
         },
-        "전라남도\/담양군": {
-            "id": "data\/KR\/전라남도\/담양군",
+        "전남광주통합특별시\/남구": {
+            "id": "data\/KR\/전남광주통합특별시\/남구",
+            "key": "남구",
+            "lang": "ko",
+            "lname": "Nam-gu",
+            "zip": "61[67]"
+        },
+        "전남광주통합특별시\/담양군": {
+            "id": "data\/KR\/전남광주통합특별시\/담양군",
             "key": "담양군",
             "lang": "ko",
             "lname": "Damyang-gun",
             "zip": "573"
         },
-        "전라남도\/목포시": {
-            "id": "data\/KR\/전라남도\/목포시",
+        "전남광주통합특별시\/동구": {
+            "id": "data\/KR\/전남광주통합특별시\/동구",
+            "key": "동구",
+            "lang": "ko",
+            "lname": "Dong-gu",
+            "zip": "61[45]"
+        },
+        "전남광주통합특별시\/목포시": {
+            "id": "data\/KR\/전남광주통합특별시\/목포시",
             "key": "목포시",
             "lang": "ko",
             "lname": "Mokpo-si",
             "zip": "58[67]"
         },
-        "전라남도\/무안군": {
-            "id": "data\/KR\/전라남도\/무안군",
+        "전남광주통합특별시\/무안군": {
+            "id": "data\/KR\/전남광주통합특별시\/무안군",
             "key": "무안군",
             "lang": "ko",
             "lname": "Muan-gun",
             "zip": "585"
         },
-        "전라남도\/보성군": {
-            "id": "data\/KR\/전라남도\/보성군",
+        "전남광주통합특별시\/보성군": {
+            "id": "data\/KR\/전남광주통합특별시\/보성군",
             "key": "보성군",
             "lang": "ko",
             "lname": "Boseong-gun",
             "zip": "594"
         },
-        "전라남도\/순천시": {
-            "id": "data\/KR\/전라남도\/순천시",
+        "전남광주통합특별시\/북구": {
+            "id": "data\/KR\/전남광주통합특별시\/북구",
+            "key": "북구",
+            "lang": "ko",
+            "lname": "Buk-gu",
+            "zip": "61[0-2]"
+        },
+        "전남광주통합특별시\/서구": {
+            "id": "data\/KR\/전남광주통합특별시\/서구",
+            "key": "서구",
+            "lang": "ko",
+            "lname": "Seo-gu",
+            "zip": "6(?:19|20)"
+        },
+        "전남광주통합특별시\/순천시": {
+            "id": "data\/KR\/전남광주통합특별시\/순천시",
             "key": "순천시",
             "lang": "ko",
             "lname": "Suncheon-si",
             "zip": "5(?:79|80)"
         },
-        "전라남도\/신안군": {
-            "id": "data\/KR\/전라남도\/신안군",
+        "전남광주통합특별시\/신안군": {
+            "id": "data\/KR\/전남광주통합특별시\/신안군",
             "key": "신안군",
             "lang": "ko",
             "lname": "Sinan-gun",
             "zip": "588"
         },
-        "전라남도\/여수시": {
-            "id": "data\/KR\/전라남도\/여수시",
+        "전남광주통합특별시\/여수시": {
+            "id": "data\/KR\/전남광주통합특별시\/여수시",
             "key": "여수시",
             "lang": "ko",
             "lname": "Yeosu-si",
             "zip": "59[67]"
         },
-        "전라남도\/영광군": {
-            "id": "data\/KR\/전라남도\/영광군",
+        "전남광주통합특별시\/영광군": {
+            "id": "data\/KR\/전남광주통합특별시\/영광군",
             "key": "영광군",
             "lang": "ko",
             "lname": "Yeonggwang-gun",
             "zip": "570"
         },
-        "전라남도\/영암군": {
-            "id": "data\/KR\/전라남도\/영암군",
+        "전남광주통합특별시\/영암군": {
+            "id": "data\/KR\/전남광주통합특별시\/영암군",
             "key": "영암군",
             "lang": "ko",
             "lname": "Yeongam-gun",
             "zip": "584"
         },
-        "전라남도\/완도군": {
-            "id": "data\/KR\/전라남도\/완도군",
+        "전남광주통합특별시\/완도군": {
+            "id": "data\/KR\/전남광주통합특별시\/완도군",
             "key": "완도군",
             "lang": "ko",
             "lname": "Wando-gun",
             "zip": "591"
         },
-        "전라남도\/장성군": {
-            "id": "data\/KR\/전라남도\/장성군",
+        "전남광주통합특별시\/장성군": {
+            "id": "data\/KR\/전남광주통합특별시\/장성군",
             "key": "장성군",
             "lang": "ko",
             "lname": "Jangseong-gun",
             "zip": "572"
         },
-        "전라남도\/장흥군": {
-            "id": "data\/KR\/전라남도\/장흥군",
+        "전남광주통합특별시\/장흥군": {
+            "id": "data\/KR\/전남광주통합특별시\/장흥군",
             "key": "장흥군",
             "lang": "ko",
             "lname": "Jangheung-gun",
             "zip": "593"
         },
-        "전라남도\/진도군": {
-            "id": "data\/KR\/전라남도\/진도군",
+        "전남광주통합특별시\/진도군": {
+            "id": "data\/KR\/전남광주통합특별시\/진도군",
             "key": "진도군",
             "lang": "ko",
             "lname": "Jindo-gun",
             "zip": "589"
         },
-        "전라남도\/함평군": {
-            "id": "data\/KR\/전라남도\/함평군",
+        "전남광주통합특별시\/함평군": {
+            "id": "data\/KR\/전남광주통합특별시\/함평군",
             "key": "함평군",
             "lang": "ko",
             "lname": "Hampyeong-gun",
             "zip": "571"
         },
-        "전라남도\/해남군": {
-            "id": "data\/KR\/전라남도\/해남군",
+        "전남광주통합특별시\/해남군": {
+            "id": "data\/KR\/전남광주통합특별시\/해남군",
             "key": "해남군",
             "lang": "ko",
             "lname": "Haenam-gun",
             "zip": "590"
         },
-        "전라남도\/화순군": {
-            "id": "data\/KR\/전라남도\/화순군",
+        "전남광주통합특별시\/화순군": {
+            "id": "data\/KR\/전남광주통합특별시\/화순군",
             "key": "화순군",
             "lang": "ko",
             "lname": "Hwasun-gun",

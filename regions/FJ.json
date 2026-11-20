@@ -4,6 +4,7 @@
         "ba": "Мба",
         "ga": "Triúr",
         "hi": "बा",
+        "km": "បា",
         "lo": "ບາ",
         "ta": "பி.ஏ.",
         "uk": "Ба"
@@ -12,6 +13,7 @@
         "en": "Bua",
         "ba": "Мбуа",
         "hi": "बुआ",
+        "km": "ប៊ួ",
         "lo": "ບົວ",
         "ta": "புவா",
         "uk": "Буа"
@@ -20,6 +22,7 @@
         "en": "Cakaudrove",
         "ba": "Такаундрове",
         "hi": "काकाउड्रोव",
+        "km": "កាកៅឌ្រូវ",
         "lo": "ກາກອດໂຣຟ",
         "ta": "காகாட்ரோவ்",
         "uk": "Какаудрове"
@@ -29,6 +32,7 @@
         "ba": "Кандаву",
         "ga": "KadavuGeneric",
         "hi": "कदवु",
+        "km": "កាដាវូ",
         "lo": "ກາດາວູ",
         "ta": "கடவ்",
         "uk": "Кадаву"
@@ -37,6 +41,7 @@
         "en": "Lau",
         "ba": "Лау",
         "hi": "लाउ",
+        "km": "ឡៅ",
         "lo": "ເລົາ",
         "ta": "லாவ்",
         "uk": "Лау"
@@ -45,6 +50,7 @@
         "en": "Lomaiviti",
         "ba": "Ломаивичи",
         "hi": "लोमैविति",
+        "km": "ឡូម៉ៃវីទី",
         "lo": "ໂລໄມວິຕິ",
         "ta": "லோமிவிட்டி",
         "uk": "Ломаівіті"
@@ -53,6 +59,7 @@
         "en": "Macuata",
         "ba": "Матуата",
         "hi": "मैकुआटा",
+        "km": "ម៉ាកួអាតា",
         "lo": "ມາກົວຕາ",
         "ta": "மாகுவாட்டா",
         "uk": "Макуата"
@@ -61,9 +68,11 @@
         "en": "Nadroga and Navosa",
         "ba": "Нандронга һәм Навоса",
         "de": "Nadroga und Navosa",
+        "es": "Nadroga y Navosa",
         "ga": "Nadroga agus Navosa",
         "hi": "नाद्रोगा और नवोसा",
         "hu": "Nadroga és Navosa",
+        "km": "ណាឌ្រូហ្កា និងណាវ៉ូសា",
         "lo": "ນາໂດຣກາ ແລະ ນາໂວຊາ",
         "nl": "Nadroga-Navosa",
         "pl": "Nadroga-Navosa",
@@ -75,6 +84,7 @@
         "en": "Naitasiri",
         "ba": "Найтасири",
         "hi": "नैतासिरी",
+        "km": "ណៃតាស៊ីរី",
         "lo": "ໄນຕາຊິຣິ",
         "ta": "நைதாசிரி",
         "uk": "Найтасірі"
@@ -83,6 +93,7 @@
         "en": "Namosi",
         "ba": "Намоси",
         "hi": "नमोसी",
+        "km": "ណាម៉ូស៊ី",
         "lo": "ນາໂມຊິ",
         "ta": "நமோசி",
         "uk": "Намосі"
@@ -91,6 +102,7 @@
         "en": "Ra",
         "ba": "Ра",
         "hi": "रा",
+        "km": "រ៉ា",
         "lo": "ຣາ",
         "ta": "ஆர்.ஏ.",
         "uk": "Ра"
@@ -99,6 +111,7 @@
         "en": "Rewa",
         "ba": "Рева",
         "hi": "रीवा",
+        "km": "រ៉េវ៉ា",
         "lo": "ເຣວາ",
         "uk": "Рева"
     },
@@ -106,6 +119,7 @@
         "en": "Serua",
         "ba": "Серуа",
         "hi": "सेरूआ",
+        "km": "សេរ៉ួ",
         "lo": "ເຊຣົວ",
         "ta": "சேருவா",
         "uk": "Серуа"
@@ -114,6 +128,7 @@
         "en": "Tailevu",
         "ba": "Тайлеву",
         "hi": "तैलीवु",
+        "km": "តៃលេវូ",
         "lo": "ໄຕເລວູ",
         "ta": "டெய்லேவ்",
         "uk": "Тайлеву"
@@ -132,6 +147,7 @@
         "it": "Centrale",
         "ja": "セントラル",
         "ka": "ცენტრალური",
+        "km": "កណ្តាល",
         "lo": "ພາກກາງ",
         "lt": "Centrinis rajonas",
         "pl": "Centralny \/ Centralna",
@@ -151,6 +167,7 @@
         "be": "Усходняя",
         "el": "Ανατολική",
         "eo": "Oriento",
+        "es": "Oriental",
         "fr": "Est",
         "ga": "Oirthearach",
         "hi": "पूर्वी",
@@ -159,6 +176,7 @@
         "is": "Austur",
         "it": "Orientale",
         "ka": "აღმოსავლეთი",
+        "km": "ខាងកើត",
         "lo": "ພາກຕາເວັນອອກ",
         "lt": "Rytinis Fidžio padalinys",
         "nl": "Oost",
@@ -179,6 +197,7 @@
         "be": "Паўночная",
         "el": "Βόρεια",
         "eo": "Nordo",
+        "es": "Septentrional",
         "fr": "Nord",
         "ga": "Tuaisceartach",
         "hi": "उत्तरी",
@@ -186,6 +205,7 @@
         "is": "Norður",
         "it": "Settentrionale",
         "ka": "ჩრდილო",
+        "km": "ខាងជើង",
         "lo": "ພາກເໜືອ",
         "lt": "Šiaurinis Fidžio padalinys",
         "pl": "Dystrykt Północny \/ Region Północny \/ Prowincja Północna",
@@ -205,6 +225,7 @@
         "be": "Заходняя",
         "el": "Δυτική",
         "eo": "Okcidento",
+        "es": "Occidental",
         "fr": "Ouest",
         "ga": "An tIarthar",
         "hi": "पश्चिमी",
@@ -212,6 +233,7 @@
         "is": "Vestur",
         "it": "Occidentale",
         "ka": "დასავლური",
+        "km": "ខាងលិច",
         "lo": "ພາກຕາເວັນຕົກ",
         "lt": "Vakarinis Fidžio padalinys",
         "pl": "Dystrykt Zachodni \/ Region Zachodni \/ Western Division \/ Prowincja Zachodnia",

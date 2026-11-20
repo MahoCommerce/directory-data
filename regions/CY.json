@@ -2,8 +2,10 @@
     "01": {
         "en": "Lefkosia",
         "ba": "Лефкосия",
+        "es": "Nicosia",
         "hi": "लेफ्कोसिया",
         "hu": "Nicosia",
+        "km": "លេហ្វកូស៊ីយ៉ា",
         "lo": "ເລັບໂກເຊຍ",
         "nl": "Nicosia",
         "pl": "Nikozja",
@@ -17,6 +19,7 @@
         "ca": "Limassol",
         "hi": "लेमेसोस",
         "hu": "Limassol",
+        "km": "លេម៉េសូស",
         "lo": "ເລເມໂຊສ",
         "nl": "Limasol",
         "pl": "Limassol",
@@ -28,9 +31,11 @@
     "03": {
         "en": "Larnaka",
         "ba": "Ларнака",
+        "es": "Lárnaca",
         "ga": "Larnaca",
         "hi": "लार्नाका",
         "hu": "Lárnaka",
+        "km": "ឡារណាកា",
         "lo": "ລານາຄາ",
         "nl": "Larnaca",
         "ro": "Larnaca",
@@ -44,6 +49,7 @@
         "ca": "Famagusta",
         "hi": "एमोचोस्टोस",
         "hu": "Ammókhosztosz",
+        "km": "អាម៉ូឆូស្តូស",
         "lo": "ອຳໂມໂຄສທອສ",
         "nl": "Famagusta",
         "pl": "Famagusta",
@@ -54,14 +60,18 @@
     "05": {
         "en": "Pafos",
         "ga": "Paphos",
+        "km": "ប៉ាហ្វូស",
         "lo": "ປາຟອສ",
         "ro": "Paphos",
+        "ta": "பாத்தோச்",
         "uk": "Пафос"
     },
     "06": {
         "en": "Keryneia",
         "ga": "Círéinia",
+        "km": "កេរីនេយ៉ា",
         "lo": "ເຄີຣິເນຍ",
+        "ta": "கைரேனியா",
         "uk": "Керінея"
     }
 }

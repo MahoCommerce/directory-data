@@ -20701,10 +20701,10 @@
             "lang": "zh",
             "lname": "Hangzhou Shi",
             "zipex": "310026",
-            "sub_keys": "滨江区~淳安县~富阳市~拱墅区~建德市~江干区~临安市~上城区~桐庐县~西湖区~下城区~萧山区~余杭区",
-            "sub_names": "滨江区~淳安县~富阳市~拱墅区~建德市~江干区~临安市~上城区~桐庐县~西湖区~下城区~萧山区~余杭区",
-            "sub_lnames": "Binjiang Qu~Chun'an Xian~Fuyang Shi~Gongshu Qu~Jiande Shi~Jianggan Qu~Lin'an Shi~Shangcheng Qu~Tonglu Xian~Xihu Qu~Xiacheng Qu~Xiaoshan Qu~Yuhang Qu",
-            "sub_zipexs": "310051~311700~311400~310011~311600~310002~311300~311500~311500~310013~310006~311200~311000"
+            "sub_keys": "滨江区~淳安县~富阳市~拱墅区~建德市~江干区~临安市~临平区~上城区~桐庐县~西湖区~下城区~萧山区~余杭区",
+            "sub_names": "滨江区~淳安县~富阳市~拱墅区~建德市~江干区~临安市~临平区~上城区~桐庐县~西湖区~下城区~萧山区~余杭区",
+            "sub_lnames": "Binjiang Qu~Chun'an Xian~Fuyang Shi~Gongshu Qu~Jiande Shi~Jianggan Qu~Lin'an Shi~Linping Qu~Shangcheng Qu~Tonglu Xian~Xihu Qu~Xiacheng Qu~Xiaoshan Qu~Yuhang Qu",
+            "sub_zipexs": "310051~311700~311400~310011~311600~310002~311300~311100~311500~311500~310013~310006~311200~311000"
         },
         "浙江省\/杭州市\/上城区": {
             "id": "data\/CN\/浙江省\/杭州市\/上城区",
@@ -20729,6 +20729,14 @@
             "lang": "zh",
             "lname": "Lin'an Shi",
             "zipex": "311300"
+        },
+        "浙江省\/杭州市\/临平区": {
+            "id": "data\/CN\/浙江省\/杭州市\/临平区",
+            "key": "临平区",
+            "name": "临平区",
+            "lang": "zh",
+            "lname": "Linping Qu",
+            "zipex": "311100"
         },
         "浙江省\/杭州市\/余杭区": {
             "id": "data\/CN\/浙江省\/杭州市\/余杭区",

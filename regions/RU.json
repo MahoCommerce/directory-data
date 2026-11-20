@@ -2,43 +2,55 @@
     "AD": {
         "en": "Adygeya, Respublika",
         "ga": "Poblacht na hAidgea",
+        "km": "សាធារណរដ្ឋអាឌីហ្គេយ៉ា",
         "lo": "ສາທາລະນະລັດ ອາດີເກຍ",
         "ro": "Republica Adîgheia (Adîgă)",
+        "ta": "அடிகேயா, பெலாரசு குடியரசு",
         "uk": "Республіка Адигея"
     },
     "AL": {
         "en": "Altay, Respublika",
         "ga": "Poblacht Altai",
+        "km": "សាធារណរដ្ឋអាតៃ",
         "lo": "ສາທາລະນະລັດ ອັນໄຕ",
         "ro": "Republica Altai",
+        "ta": "அல்தாய், ரெச்பப்லிகா",
         "uk": "Республіка Алтай"
     },
     "ALT": {
         "en": "Altayskiy kray",
         "ga": "Altai Krai",
+        "km": "ខេត្តអាតៃ",
         "lo": "ເຂດ ອັນໄຕ",
         "ro": "Ținutul Altai",
+        "ta": "அல்தாய் பகுதி",
         "uk": "Алтайський край"
     },
     "AMU": {
         "en": "Amurskaya oblast'",
         "ga": "Oblast Amur",
+        "km": "ខេត្តអាមួរ",
         "lo": "ແຂວງ ອາມູ",
         "ro": "Regiunea Amur",
+        "ta": "அமுர்ச்கயா ஒப்லாச்ட்'",
         "uk": "Амурська область"
     },
     "ARK": {
         "en": "Arkhangel'skaya oblast'",
         "ga": "Cúige Arkhangelsk",
+        "km": "ខេត្តអាខាំងហ្គែល",
         "lo": "ແຂວງ ອາຄັນເກລ",
         "ro": "Regiunea Arhanghelsk",
+        "ta": "அர்க்உாங்கல்ச்காயா ஒப்லாச்ட்'",
         "uk": "Архангельська область"
     },
     "AST": {
         "en": "Astrakhanskaya oblast'",
         "ga": "Réigiún Astrakhan",
+        "km": "ខេត្តអាស្ត្រាខាន",
         "lo": "ແຂວງ ອັສຕຣາຄານ",
         "ro": "Regiunea Astrahan",
+        "ta": "அச்ட்ராகான் பகுதி",
         "uk": "Астраханська область"
     },
     "BA": {
@@ -54,6 +66,7 @@
         "hi": "बश्कोर्तोस्तान, रिपब्लिका",
         "hu": "Baskíria, Köztársaság",
         "it": "Repubblica del Baskortostan",
+        "km": "សាធារណរដ្ឋបាស្កកូស្តាន",
         "lo": "ສາທາລະນະລັດ ບັຊກໍໂຕສະຖານ",
         "lt": "Baškirija, Respublika",
         "nl": "Basjkirostan, Republiek",
@@ -73,22 +86,28 @@
     "BEL": {
         "en": "Belgorodskaya oblast'",
         "ga": "Oblast Belgorod",
+        "km": "ខេត្តបែលហ្គោរ៉ូដ",
         "lo": "ແຂວງ ເບລໂກຣອດ",
         "ro": "Regiunea Belgorod",
+        "ta": "பெல்கோரோட்ச்காயா பகுதி",
         "uk": "Білгородська область"
     },
     "BRY": {
         "en": "Bryanskaya oblast'",
         "ga": "Oblast Bryansk",
+        "km": "ខេត្តប្រៀនស្ក",
         "lo": "ແຂວງ ບຣາຍັນ",
         "ro": "Regiunea Breansk",
+        "ta": "பிரையன்ஸ்காயா பகுதி",
         "uk": "Брянська область"
     },
     "BU": {
         "en": "Buryatiya, Respublika",
         "ga": "Poblacht na Buryatiya",
+        "km": "សាធារណរដ្ឋប៊ូរីយ៉ាទីយ៉ា",
         "lo": "ສາທາລະນະລັດ ບູເຣຍເຕຍ",
         "ro": "Republica Bureatia",
+        "ta": "புரியாத்தியா, ரெச்பப்லிகா",
         "uk": "Республіка Бурятія"
     },
     "CE": {
@@ -106,6 +125,7 @@
         "hu": "Csecsen Köztársaság",
         "it": "Repubblica Cecena",
         "ja": "チェチェン共和国",
+        "km": "សាធារណរដ្ឋឆេឆិន",
         "lo": "ສາທາລະນະລັດ ເຊເຊນ",
         "lt": "Čečėnijos Respublika",
         "nl": "Tsjetsjenië, Republiek",
@@ -128,12 +148,14 @@
         "ba": "Силәбе өлкәһе",
         "be": "Чалябінская вобласць",
         "de": "Oblast Tscheljabinsk",
+        "es": "Región de Cheliábinsk",
         "fi": "Tšeljabinskin alue",
         "fr": "Tchéliabinsk",
         "ga": "Oblast Chelyabinskaya'",
         "hi": "चेल्याबिंस्काया ओब्लास्ट'",
         "hu": "Cseljabinszki terület",
         "it": "Oblast' di Celjabinsk",
+        "km": "ខេត្តឆេលីយ៉ាប៊ីនស្ក",
         "lo": "ແຂວງ ເຊລຍາບິນ",
         "lt": "Čeliabinsko sritis",
         "nl": "Tsjeljabinsk, Oblast",
@@ -154,12 +176,14 @@
         "ba": "Чукот автономиялы округы",
         "be": "Чукоцкая аўтаномная акруга",
         "de": "Autonomer Kreis Tschuktschen",
+        "es": "Distrito Autónomo de Chukotka",
         "fi": "Tšukotkan autonominen piirikunta",
         "fr": "Tchoukotka",
         "ga": "Okrug Uathrialach Chukotsk",
         "hi": "चुकोटस्की एव्टोनोम्नी ऑक्रग",
         "hu": "Csukcsföldi Autonóm körzet",
         "it": "Okrug autonomo di Chukotka",
+        "km": "ស្រុកស្វយ័តឈូកូត",
         "lo": "ເຂດປົກຄອງຕົນເອງ ຊູກົດ",
         "lt": "Čiukčių autonominė apygarda",
         "nl": "Tsjoekotka, Autonoom District",
@@ -188,6 +212,7 @@
         "hi": "चुवाश्स्काया रिपब्लिका",
         "hu": "Csuvas Köztársaság",
         "it": "Chuvashsk",
+        "km": "សាធារណរដ្ឋឈូវ៉ាស",
         "lo": "ສາທາລະນະລັດ ຊູວາຊ",
         "lt": "Čiuvašijos Respublika",
         "nl": "Tsjoevasjië, Republiek",
@@ -219,6 +244,7 @@
         "hu": "Dagesztán, Köztársaság",
         "it": "Daghestan",
         "ja": "ダゲスタン共和国",
+        "km": "សាធារណរដ្ឋដាហ្គេស្តាន",
         "lo": "ສາທາລະນະລັດ ດາເກສະຖານ",
         "lt": "Dagestanas, Respublika",
         "nl": "Dagestan, Republiek",
@@ -242,6 +268,7 @@
         "ga": "Ingushetia, Poblacht na hIngushetia",
         "hi": "इंगुशेटिया, रिपब्लिका",
         "hu": "Ingusföld, Köztársaság",
+        "km": "សាធារណរដ្ឋអ៊ីងហ្គូសេទីយ៉ា",
         "lo": "ສາທາລະນະລັດ ອິນກູເຊເຕຍ",
         "nl": "Ingoesjetië, Republiek",
         "pl": "Republika Inguszetii",
@@ -253,15 +280,19 @@
     "IRK": {
         "en": "Irkutskaya oblast'",
         "ga": "Oblast Irkutsk",
+        "km": "ខេត្តអៀរគុតស្ក",
         "lo": "ແຂວງ ເອກຸບ",
         "ro": "Regiunea Irkutsk",
+        "ta": "இர்குட்ச்கயா ஒப்லாச்ட்'",
         "uk": "Іркутська область"
     },
     "IVA": {
         "en": "Ivanovskaya oblast'",
         "ga": "Oblast Ivanovo",
+        "km": "ខេត្តអ៊ីវ៉ាណូវ៉ូ",
         "lo": "ແຂວງ ອິວາໂນໂວ",
         "ro": "Regiunea Ivanovo",
+        "ta": "இவனோவ்ச்கயா ஒப்லாச்ட்'",
         "uk": "Іванівська область"
     },
     "KAM": {
@@ -278,6 +309,7 @@
         "hu": "Kamcsatkai határterület",
         "it": "Krai di Kamchatka",
         "ja": "カムチャツカ",
+        "km": "ខេត្តកាំឆាតកា",
         "lo": "ເຂດ ຄຳຊັດກາ",
         "lt": "Kamčiatkos kraštas",
         "nl": "Kamtsjatka, Kraj",
@@ -296,8 +328,10 @@
     "KB": {
         "en": "Kabardino-Balkarskaya Respublika",
         "ga": "Poblacht Chabardín-Balcárach",
+        "km": "សាធារណរដ្ឋកាបាឌីណូ-បាល់កា",
         "lo": "ສາທາລະນະລັດ ກາບາດິໂນ-ບັລກາ",
         "ro": "Republica Kabardino-Balkaria",
+        "ta": "கபார்டினோ-பால்கர்ச்காயா ரெச்பப்லிகா",
         "uk": "Кабардино-Балкарська Республіка"
     },
     "KC": {
@@ -313,6 +347,7 @@
         "hu": "Karacsáj-Cserkesz Köztársaság",
         "it": "Karacaj-Circassia",
         "ja": "カラチャイチェルケス共和国",
+        "km": "សាធារណរដ្ឋការ៉ាឆាយ៉េវ៉ូ-ឆែរកែស",
         "lo": "ສາທາລະນະລັດ ກາຣາເຊ-ເຊີເກສ",
         "lt": "Karačiajų Čerkesijos Respublika",
         "nl": "Karatsjaj-Tsjerkessië, Republiek",
@@ -332,64 +367,83 @@
     "KDA": {
         "en": "Krasnodarskiy kray",
         "ga": "Krasnodar Krai",
+        "km": "ខេត្តក្រាស្នូដា",
         "lo": "ເຂດ ຄຣັສໂນດາ",
         "ro": "Ținutul Krasnodar",
+        "ta": "கிராச்னோடர் பகுதி",
         "uk": "Краснодарський край"
     },
     "KEM": {
         "en": "Kemerovskaya oblast'",
         "ga": "Cúige Kemerovo",
+        "km": "ខេត្តកេមេរ៉ូវ៉ូ",
         "lo": "ແຂວງ ເຄເມໂຣໂວ",
         "ro": "Regiunea Kemerovo",
+        "ta": "கெமரோவோ பகுதி",
         "uk": "Кемеровська область"
     },
     "KGD": {
         "en": "Kaliningradskaya oblast'",
         "ga": "Oblast Kaliningrad",
+        "km": "ខេត្តកាលីនីនហ្ក្រាដ",
         "lo": "ແຂວງ ຄາລິນິນກຣາດ",
         "ro": "Regiunea Kaliningrad",
+        "ta": "கலினின்கிராட் பகுதி",
         "uk": "Калінінградська область"
     },
     "KGN": {
         "en": "Kurganskaya oblast'",
         "ga": "Cúige Kurgan",
+        "km": "ខេត្តគួរហ្កាន",
         "lo": "ແຂວງ ຄູກັນ",
         "ro": "Regiunea Kurgan",
+        "ta": "குர்கன் பகுதி",
         "uk": "Курганська область"
     },
     "KHA": {
         "en": "Khabarovskiy kray",
         "ga": "Krai Khabarovsk",
+        "km": "ខេត្តខាបារ៉ូវស្ក",
         "lo": "ເຂດ ຄາບາຣອຟ",
         "ro": "Ținutul Habarovsk",
+        "ta": "கபரோவ்ச்க் பகுதி",
         "uk": "Хабаровський край"
     },
     "KHM": {
         "en": "Khanty-Mansiyskiy avtonomnyy okrug",
+        "es": "Distrito autónomo de Khanty-Mansiysk",
         "ga": "Okrug Uathrialach Khanty-Mansi",
+        "km": "ស្រុកស្វយ័តខាន់ទី-ម៉ានស៊ី",
         "lo": "ເຂດປົກຄອງຕົນເອງ ຄັນຕີ-ມັນຊີ",
         "ro": "Districtul autonom Hantî-Mansi",
+        "ta": "Khanty-Mansiysk தன்னாட்சி Okrug",
         "uk": "Ханти-Мансійський автономний округ"
     },
     "KIR": {
         "en": "Kirovskaya oblast'",
         "ga": "Cúige Kirov",
+        "km": "ខេត្តគីរ៉ូវ៉ូ",
         "lo": "ແຂວງ ຄິຣອຟ",
         "ro": "Regiunea Kirov",
+        "ta": "கிரோவ் பகுதி",
         "uk": "Кіровська область"
     },
     "KK": {
         "en": "Khakasiya, Respublika",
         "ga": "Poblacht Chacáisia",
+        "km": "សាធារណរដ្ឋកាកាស៊ីយ៉ា",
         "lo": "ສາທາລະນະລັດ ຄາກາເຊຍ",
         "ro": "Republica Hakasia",
+        "ta": "ககாசியா, குடியரசு",
         "uk": "Республіка Хакасія"
     },
     "KL": {
         "en": "Kalmykiya, Respublika",
         "ga": "Poblacht Kalmykia",
+        "km": "សាធារណរដ្ឋកាល់មីគីយ៉ា",
         "lo": "ສາທາລະນະລັດ ຄາລມິກເກຍ",
         "ro": "Republica Kalmîkia",
+        "ta": "கல்மிகியா, குடியரசு",
         "uk": "Республіка Калмикія"
     },
     "KLU": {
@@ -397,12 +451,14 @@
         "ba": "Калуга өлкәһе",
         "be": "Калужская вобласць",
         "de": "Oblast Kaluga",
+        "es": "Óblast de Kaluga",
         "fi": "Kalugan alue",
         "fr": "Kalouga",
         "ga": "Oblast Kaluzhskaya.\"",
         "hi": "कलुज़्स्काया ओब्लास्ट'",
         "hu": "Kalugai terület",
         "it": "Oblast' di Kaluga",
+        "km": "ខេត្តកាលូហ្កា",
         "lo": "ແຂວງ ກາລູກາ",
         "lt": "Kalugos sritis",
         "nl": "Kaloega, Oblast",
@@ -432,6 +488,7 @@
         "hu": "Komi Köztársaság",
         "it": "Repubblica dei Komi",
         "ja": "コミ共和国",
+        "km": "សាធារណរដ្ឋកូមី",
         "lo": "ສາທາລະນະລັດ ໂຄມິ",
         "lt": "Komija, Respublika",
         "nl": "Komi, Republiek",
@@ -452,71 +509,91 @@
     "KOS": {
         "en": "Kostromskaya oblast'",
         "ga": "Réigiún Kostroma",
+        "km": "ខេត្តកូស្ត្រូម៉ា",
         "lo": "ແຂວງ ຄອສໂຕຣມາ",
         "ro": "Regiunea Kostroma",
+        "ta": "கோச்ட்ரோமா ஒப்லாச்ட்'",
         "uk": "Костромська область"
     },
     "KR": {
         "en": "Kareliya, Respublika",
         "ga": "Poblacht na Cairéile",
+        "km": "សាធារណរដ្ឋការ៉េលីយ៉ា",
         "lo": "ສາທາລະນະລັດ ຄາຣີເລຍ",
         "ro": "Republica Carelia",
+        "ta": "கரேலியா குடியரசு",
         "uk": "Республіка Карелія"
     },
     "KRS": {
         "en": "Kurskaya oblast'",
         "ga": "Cúige Kursk",
+        "km": "ខេត្តគួរស្ក",
         "lo": "ແຂວງ ຄູສ",
         "ro": "Regiunea Kursk",
+        "ta": "குர்ச்க் பகுதி",
         "uk": "Курська область"
     },
     "KYA": {
         "en": "Krasnoyarskiy kray",
         "ga": "Krasnoyarsk Krai",
+        "km": "ខេត្តក្រាស្នូយ៉ាក",
         "lo": "ເຂດ ຄຣັສໂນຢາ",
         "ro": "Ținutul Krasnodar",
+        "ta": "கிராச்நோயார்ச்க் பகுதி",
         "uk": "Краснодарський край"
     },
     "LEN": {
         "en": "Leningradskaya oblast'",
         "ga": "Cúige Leningrad",
+        "km": "ខេត្តលេនីនហ្ក្រាដ",
         "lo": "ແຂວງ ເລນິນກຣາດ",
         "ro": "Regiunea Leningrad",
+        "ta": "லெனின்கிராட் பகுதி",
         "uk": "Ленінградська область"
     },
     "LIP": {
         "en": "Lipetskaya oblast'",
         "ga": "Oblast Lipetsk",
+        "km": "ខេត្តលីប៉ិច",
         "lo": "ແຂວງ ລິເປດ",
         "ro": "Regiunea Lipețk",
+        "ta": "லிபெட்ச்க் பகுதி",
         "uk": "Ліпецька область"
     },
     "MAG": {
         "en": "Magadanskaya oblast'",
         "ga": "Cúige Magadan",
+        "km": "ខេត្តម៉ាហ្កាដាន",
         "lo": "ແຂວງ ມາກາດານ",
         "ro": "Regiunea Magadan",
+        "ta": "மகடன் பகுதி",
         "uk": "Магаданська область"
     },
     "ME": {
         "en": "Mariy El, Respublika",
         "ga": "Mari El, Poblacht",
+        "km": "សាធារណរដ្ឋម៉ារី អែល",
         "lo": "ສາທາລະນະລັດ ມາຣີ ເອລ",
         "ro": "Republica Mari El",
+        "ta": "மாரி எல், குடியரசு",
         "uk": "Республіка Марій Ел"
     },
     "MO": {
         "en": "Mordoviya, Respublika",
         "ga": "Poblacht na Mordóive",
+        "km": "សាធារណរដ្ឋម៉រដូវីយ៉ា",
         "lo": "ສາທາລະນະລັດ ມໍໂດເວຍ",
         "ro": "Republica Mordovia",
+        "ta": "மொர்டோவியா, குடியரசு",
         "uk": "Республіка Мордовія"
     },
     "MOS": {
         "en": "Moskovskaya oblast'",
         "ga": "Réigiún Moscó",
+        "km": "ខេត្តម៉ូស្កូ",
         "lo": "ແຂວງ ມົສກູ",
         "ro": "Regiunea Moscova",
+        "ta": "மாச்கோ பகுதி",
         "uk": "Московська область"
     },
     "MOW": {
@@ -532,6 +609,7 @@
         "hi": "मॉस्को",
         "hu": "Moszkva",
         "it": "Mosca",
+        "km": "ម៉ូស្កូ",
         "lo": "ມົສກູ",
         "lt": "Maskva",
         "nl": "Moskou",
@@ -549,22 +627,29 @@
     "MUR": {
         "en": "Murmanskaya oblast'",
         "ga": "Cúige Murmansk",
+        "km": "ខេត្តមួរម៉ានស្ក",
         "lo": "ແຂວງ ມູມັນ",
         "ro": "Regiunea Murmansk",
+        "ta": "மர்மன்ச்க் பகுதி",
         "uk": "Мурманська область"
     },
     "NEN": {
         "en": "Nenetskiy avtonomnyy okrug",
+        "es": "Distrito Autónomo Nenets",
         "ga": "Okrug Uathrialach Nenets",
+        "km": "ស្រុកស្វយ័តណេណិត",
         "lo": "ເຂດປົກຄອງຕົນເອງ ເນເນັດ",
         "ro": "Districtul autonom Neneția",
+        "ta": "நெனெட்ச் தன்னாட்சி ஓக்ரக்",
         "uk": "Ненецький автономний округ"
     },
     "NGR": {
         "en": "Novgorodskaya oblast'",
         "ga": "Cúige Novgorod",
+        "km": "ខេត្តណូវហ្គោរ៉ូដ",
         "lo": "ແຂວງ ນອບໂກຣອດ",
         "ro": "Regiunea Novgorod",
+        "ta": "நோவ்கோரோட் பகுதி",
         "uk": "Новгородська область"
     },
     "NIZ": {
@@ -578,6 +663,7 @@
         "hi": "निज़ेगोरोडस्काया ओब्लास्ट'",
         "hu": "Nyizsnyij Novgorod megye",
         "it": "Oblast' di Nižnij Novgorod",
+        "km": "ខេត្តនីសនី ណូវហ្គោរ៉ូដ",
         "lo": "ແຂວງ ນິຊນີນອບໂກຣອດ",
         "lt": "Žemutinio Naugardo sritis",
         "nl": "Nizjni Novgorod, Oblast",
@@ -597,71 +683,91 @@
     "NVS": {
         "en": "Novosibirskaya oblast'",
         "ga": "Cúige Novosibirsk",
+        "km": "ខេត្តណូវ៉ូស៊ីប៊ីរស្ក",
         "lo": "ແຂວງ ໂນໂວຊີບີສ",
         "ro": "Regiunea Novosibirsk",
+        "ta": "நோவோசிபிர்ச்க் பகுதி",
         "uk": "Новосибірська область"
     },
     "OMS": {
         "en": "Omskaya oblast'",
         "ga": "Cúige Omsk",
+        "km": "ខេត្តអូមស្ក",
         "lo": "ແຂວງ ອອມ",
         "ro": "Regiunea Omsk",
+        "ta": "ஓம்ச்க் பகுதி",
         "uk": "Омська область"
     },
     "ORE": {
         "en": "Orenburgskaya oblast'",
         "ga": "Réigiún Orenburg",
+        "km": "ខេត្តអូរិនប៊ឺរ",
         "lo": "ແຂວງ ໂອເຣນເບີກ",
         "ro": "Regiunea Orenburg",
+        "ta": "ஓரன்பர்க் பகுதி",
         "uk": "Оренбурзька область"
     },
     "ORL": {
         "en": "Orlovskaya oblast'",
         "ga": "Oblast Oryol",
+        "km": "ខេត្តអរលូវ",
         "lo": "ແຂວງ ອໍລອຟ",
         "ro": "Regiunea Oriol (Oriov)",
+        "ta": "ஓரியோல் பகுதி",
         "uk": "Орловська область"
     },
     "PER": {
         "en": "Permskiy kray",
         "ga": "Perm Krai",
+        "km": "ខេត្តពែរម",
         "lo": "ເຂດ ເປີມ",
         "ro": "Ținutul Perm",
+        "ta": "பெர்ம் பகுதி",
         "uk": "Пермський край"
     },
     "PNZ": {
         "en": "Penzenskaya oblast'",
         "ga": "Oblast Penza",
+        "km": "ខេត្តប៉ិនសា",
         "lo": "ແຂວງ ເປນຊາ",
         "ro": "Regiunea Penza",
+        "ta": "பென்சா பகுதி",
         "uk": "Пензенська область"
     },
     "PRI": {
         "en": "Primorskiy kray",
         "ga": "Krai Primorsky",
+        "km": "ខេត្តព្រីម៉រស្កី",
         "lo": "ເຂດ ປຣິມໍສະກີ",
         "ro": "Ținutul Primorie",
+        "ta": "பிரிமோர்ச்கி க்ராய்",
         "uk": "Приморський край"
     },
     "PSK": {
         "en": "Pskovskaya oblast'",
         "ga": "Oblast Pskov",
+        "km": "ខេត្តបស្កូវ",
         "lo": "ແຂວງ ປາສະຄອຟ",
         "ro": "Regiunea Pskov",
+        "ta": "பிச்கோவ் பகுதி",
         "uk": "Псковська область"
     },
     "ROS": {
         "en": "Rostovskaya oblast'",
         "ga": "Oblast Rostov",
+        "km": "ខេត្តរ៉ូស្តូវ",
         "lo": "ແຂວງ ຣອສຕອຟ",
         "ro": "Regiunea Rostov",
+        "ta": "ரோச்டோவ் பகுதி",
         "uk": "Ростовська область"
     },
     "RYA": {
         "en": "Ryazanskaya oblast'",
         "ga": "Oblast Ryazan",
+        "km": "ខេត្តរ៉ាសាន",
         "lo": "ແຂວງ ຣີອາຊານ",
         "ro": "Regiunea Reazan",
+        "ta": "ரியாசான் பகுதி",
         "uk": "Рязанська область"
     },
     "SA": {
@@ -670,6 +776,7 @@
         "ga": "Saha, Poblacht",
         "hi": "साहा, रिपब्लिका",
         "hu": "Saha Köztársaság",
+        "km": "សាធារណរដ្ឋសាកា",
         "lo": "ສາທາລະນະລັດ ຊາກາ (ຢາກູເຕຍ)",
         "nl": "Jakoetië; Sacha, Republiek",
         "pl": "Republika Sacha",
@@ -681,36 +788,46 @@
     "SAK": {
         "en": "Sakhalinskaya oblast'",
         "ga": "Oblast Sakhalin",
+        "km": "ខេត្តសាកាឡីន",
         "lo": "ແຂວງ ຊາຄາລິນ",
         "ro": "Regiunea Sahalin",
+        "ta": "சகலின் பகுதி",
         "uk": "Сахалінська область"
     },
     "SAM": {
         "en": "Samarskaya oblast'",
         "ga": "Cúige Samara",
+        "km": "ខេត្តសាម៉ារ៉ា",
         "lo": "ແຂວງ ຊາມາຣາ",
         "ro": "Regiunea Samara",
+        "ta": "சமாரா பகுதி",
         "uk": "Самарська область"
     },
     "SAR": {
         "en": "Saratovskaya oblast'",
         "ga": "Oblast Saratov",
+        "km": "ខេត្តសារ៉ាតូវ",
         "lo": "ແຂວງ ຊາຣາຕອຟ",
         "ro": "Regiunea Saratov",
+        "ta": "சரடோவ் பகுதி",
         "uk": "Саратовська область"
     },
     "SE": {
         "en": "Severnaya Osetiya, Respublika",
         "ga": "Poblacht na hOiséite Thuaidh",
+        "km": "សាធារណរដ្ឋអូសេទីយ៉ាខាងជើង",
         "lo": "ສາທາລະນະລັດ ອອດເຊເຕຍເໜືອ",
         "ro": "Republica Osetia de Nord",
+        "ta": "வடக்கு ஒசேசியா, குடியரசு",
         "uk": "Республіка Північна Осетія"
     },
     "SMO": {
         "en": "Smolenskaya oblast'",
         "ga": "Réigiún Smolensk",
+        "km": "ខេត្តស្មូឡិនស្ក",
         "lo": "ແຂວງ ສະໂມເລນ",
         "ro": "Regiunea Smolensk",
+        "ta": "ச்மோலென்ச்க் பகுதி",
         "uk": "Смоленська область"
     },
     "SPE": {
@@ -722,12 +839,14 @@
         "da": "Sankt Petersborg",
         "de": "Sankt Peterburg",
         "eo": "Sankt-Peterburgo",
+        "es": "San Petersburgo",
         "fi": "Pietari",
         "fr": "Saint-Pétersbourg",
         "ga": "Cathair Pheadair",
         "hi": "सैंक्ट-पीटरबर्ग",
         "hu": "Szentpétervár",
         "it": "San Pietroburgo",
+        "km": "សាំងពេត័រប៊ឺរ",
         "lo": "ເຊນ ປີເຕີສະເບີກ",
         "lt": "Sankt Peterburgas",
         "nl": "Sint-Petersburg",
@@ -746,15 +865,19 @@
     "STA": {
         "en": "Stavropol'skiy kray",
         "ga": "Krai Stavropol",
+        "km": "ខេត្តស្តាវ្រូប៉ូល",
         "lo": "ເຂດ ສະຕາໂຣໂປລ",
         "ro": "Ținutul Stavropol",
+        "ta": "ச்டாவ்ரோபோல் பகுதி",
         "uk": "Ставропольський край"
     },
     "SVE": {
         "en": "Sverdlovskaya oblast'",
         "ga": "Oblast Sverdlovsk",
+        "km": "ខេត្តស្វែរដ្លូវ",
         "lo": "ແຂວງ ສະເວີດລອຟ",
         "ro": "Regiunea Sverdlovsk",
+        "ta": "Sverdlovsk பகுதி",
         "uk": "Свердловська область"
     },
     "TA": {
@@ -770,6 +893,7 @@
         "hi": "तातारस्तान, रिपब्लिका",
         "hu": "Tatár Köztársaság",
         "it": "Repubblica del Tatarstan",
+        "km": "សាធារណរដ្ឋតាតារស្តាន",
         "lo": "ສາທາລະນະລັດ ຕາຕາສະຖານ",
         "lt": "Tatarstanas, Respublika",
         "nl": "Tatarije, Republiek; Tatarstan, Republiek",
@@ -790,29 +914,37 @@
     "TAM": {
         "en": "Tambovskaya oblast'",
         "ga": "Oblast Tambov",
+        "km": "ខេត្តតាំបូវ",
         "lo": "ແຂວງ ທຳບອຟ",
         "ro": "Regiunea Tambov",
+        "ta": "தம்போவ் பகுதி",
         "uk": "Тамбовська область"
     },
     "TOM": {
         "en": "Tomskaya oblast'",
         "ga": "Cúige Tomsk",
+        "km": "ខេត្តតូមស្ក",
         "lo": "ແຂວງ ທອມ",
         "ro": "Regiunea Tomsk",
+        "ta": "டாம்ச்க் பகுதி",
         "uk": "Томська область"
     },
     "TUL": {
         "en": "Tul'skaya oblast'",
         "ga": "Oblast Tula",
+        "km": "ខេត្តទូឡា",
         "lo": "ແຂວງ ຕູລາ",
         "ro": "Regiunea Tula",
+        "ta": "துலா பகுதி",
         "uk": "Тульська область"
     },
     "TVE": {
         "en": "Tverskaya oblast'",
         "ga": "Oblast Tver",
+        "km": "ខេត្តត្វែរ",
         "lo": "ແຂວງ ເວ",
         "ro": "Regiunea Tver",
+        "ta": "ட்வெர் பகுதி",
         "uk": "Тверська область"
     },
     "TY": {
@@ -820,6 +952,7 @@
         "ba": "Тыва Республикаһы",
         "hi": "टायवा, रिपब्लिका",
         "hu": "Tuva Köztársaság",
+        "km": "សាធារណរដ្ឋទីវ៉ា",
         "lo": "ສາທາລະນະລັດ ຕູວາ",
         "nl": "Toeva, Republiek",
         "pl": "Republika Tuwy",
@@ -831,43 +964,55 @@
     "TYU": {
         "en": "Tyumenskaya oblast'",
         "ga": "Oblast Tyumen",
+        "km": "ខេត្តត្យូមិន",
         "lo": "ແຂວງ ຕູເມນ",
         "ro": "Regiunea Tiumen",
+        "ta": "டியூமன் பகுதி",
         "uk": "Тюменська область"
     },
     "UD": {
         "en": "Udmurtskaya Respublika",
         "ga": "Poblacht Udmurt",
+        "km": "សាធារណរដ្ឋអ៊ូដមួត",
         "lo": "ສາທາລະນະລັດ ອຸດມູດ",
         "ro": "Republica Udmurtia",
+        "ta": "உட்மர்ட் குடியரசு",
         "uk": "Удмуртська Республіка"
     },
     "ULY": {
         "en": "Ul'yanovskaya oblast'",
         "ga": "Oblast Ulyanovsk",
+        "km": "ខេត្តអ៊ូលីយ៉ាណូវ",
         "lo": "ແຂວງ ອູລຍານອຟ",
         "ro": "Regiunea Ulianovsk",
+        "ta": "Ulyanovsk பகுதி",
         "uk": "Ульянівська область"
     },
     "VGG": {
         "en": "Volgogradskaya oblast'",
         "ga": "Oblast Volgograd",
+        "km": "ខេត្តវ៉ុលហ្គោហ្ក្រាដ",
         "lo": "ແຂວງ ໂວລໂກກຣາດ",
         "ro": "Regiunea Volgograd",
+        "ta": "வோல்கோகிராட் பகுதி",
         "uk": "Волгоградська область"
     },
     "VLA": {
         "en": "Vladimirskaya oblast'",
         "ga": "Cúige Vladimir",
+        "km": "ខេត្តវ្លាឌីមៀរ",
         "lo": "ແຂວງ ວລາດິເມຍ",
         "ro": "Regiunea Vladimir",
+        "ta": "விளாடிமிர் பகுதி",
         "uk": "Владимирська область"
     },
     "VLG": {
         "en": "Vologodskaya oblast'",
         "ga": "Oblast Vologda",
+        "km": "ខេត្តវ៉ូឡូហ្កាដា",
         "lo": "ແຂວງ ໂວລອກດາ",
         "ro": "Regiunea Vologda",
+        "ta": "வோலோக்டா பகுதி",
         "uk": "Вологодська область"
     },
     "VOR": {
@@ -881,6 +1026,7 @@
         "hi": "वोरोनिश्स्काया ओब्लास्ट'",
         "hu": "Voronyezsi terület",
         "it": "Oblast' di Voronež",
+        "km": "ខេត្តវ៉ូរ៉ូណេស",
         "lo": "ແຂວງ ໂວໂຣເນສ",
         "lt": "Voronežo sritis",
         "nl": "Voronezj, Oblast",
@@ -899,30 +1045,39 @@
     },
     "YAN": {
         "en": "Yamalo-Nenetskiy avtonomnyy okrug",
+        "es": "Distrito autónomo de Yamalo-Nenets",
         "ga": "Okrug Uathrialach Yamalo-Nenets",
+        "km": "ស្រុកស្វយ័តយ៉ាម៉ាឡូ-ណេណិត",
         "lo": "ເຂດປົກຄອງຕົນເອງ ຢາມາໂລ-ເນເນັດ",
         "ro": "Districtul autonom Iamalia-Neneția",
+        "ta": "யமலோ-நேனெட்ச் தன்னாட்சி ஓக்ரக்",
         "uk": "Ямало-Ненецький автономний округ"
     },
     "YAR": {
         "en": "Yaroslavskaya oblast'",
         "ga": "Cúige Yaroslavl",
+        "km": "ខេត្តយ៉ារ៉ូស្លាវ",
         "lo": "ແຂວງ ຢາໂຣສະລາຟ",
         "ro": "Regiunea Iaroslavl",
+        "ta": "யாரோச்லாவ்ல் பகுதி",
         "uk": "Ярославська область"
     },
     "YEV": {
         "en": "Yevreyskaya avtonomnaya oblast'",
         "ga": "Oblast Uathrialach Giúdach",
+        "km": "ខេត្តស្វយ័តយ៉េវ្រី",
         "lo": "ແຂວງປົກຄອງຕົນເອງຢິວ",
         "ro": "Regiunea Autonomă Evreiască",
+        "ta": "யூத தன்னாட்சிப் பகுதி",
         "uk": "Єврейська автономна область"
     },
     "ZAB": {
         "en": "Zabaykal'skiy kray",
         "ga": "Críoch Transbaikal",
+        "km": "ខេត្តសាបៃកាល",
         "lo": "ເຂດ ຊາໄບຄາລ",
         "ro": "Ținutul Transbaikal",
+        "ta": "டிரான்ச்பைக்கல் பகுதி",
         "uk": "Забайкальський край"
     }
 }

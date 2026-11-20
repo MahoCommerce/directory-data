@@ -4,10 +4,12 @@
         "ba": "Ансэба",
         "be": "Ансеба",
         "de": "Anseba",
+        "es": "Sahaba",
         "ga": "Ansaba",
         "he": "אנסבה",
         "hi": "अंसबा",
         "it": "Regione dell'Anseba",
+        "km": "អាន់សាបា",
         "lo": "ອັນຊາບາ",
         "nl": "Anseba",
         "pl": "Anseba",
@@ -18,18 +20,23 @@
     },
     "DK": {
         "en": "Janūbī al Baḩrī al Aḩmar",
+        "es": "Mar Rojo del Sur",
         "ga": "Muir Rua Theas",
+        "km": "សមុទ្រក្រហមខាងត្បូង",
         "lo": "ຈານູບີ ອັນ ບາຣີ ອັນ ອາມາ",
         "ro": "Debubawi Keyih Bahri (Marea Roșie de Sud)",
+        "ta": "சானுபி அல் பக்ரி அல் ஆமர்",
         "uk": "Дженупі аль-Бахрі аль-Ахмар"
     },
     "DU": {
         "en": "Al Janūbī",
         "ba": "Көньяҡ",
         "be": "Паўднёвы рэгіён",
+        "es": "Debub",
         "he": "הדרום",
         "hi": "अल जनुबी",
         "it": "Regione del Sud",
+        "km": "ខាងត្បូង",
         "lo": "ອັນ ຈານູບີ",
         "nl": "Debub",
         "pl": "Region Południowy",
@@ -42,17 +49,22 @@
     },
     "GB": {
         "en": "Qāsh-Barkah",
+        "es": "Gash-Barka",
+        "km": "កាស-បាកា",
         "lo": "ກາສ-ບາກະ",
         "ro": "Gash-Barka",
+        "ta": "காச்-பார்கா",
         "uk": "Каш-Барка"
     },
     "MA": {
         "en": "Al Awsaţ",
         "ba": "Үҙәк",
         "be": "Цэнтральны рэгіён",
+        "es": "Maekel",
         "he": "המרכז",
         "hi": "अल औसत",
         "it": "Regione centrale",
+        "km": "កណ្តាល",
         "lo": "ອັນ ອາວຊັດ",
         "nl": "Maekel",
         "pl": "Region Centralny",
@@ -64,9 +76,12 @@
     },
     "SK": {
         "en": "Shimālī al Baḩrī al Aḩmar",
+        "es": "Mar Rojo del Norte",
         "ga": "Muir Thuaidh Muir Rua",
+        "km": "សមុទ្រក្រហមខាងជើង",
         "lo": "ຊິມາລີ ອັນ ບາຣີ ອັນ ອາມາ",
         "ro": "Semien-Keih-Bahri",
+        "ta": "சிமாலி பக்ரி அல் ஆமர்",
         "uk": "Шімалі аль-Бахрі аль-Ахмар"
     }
 }
