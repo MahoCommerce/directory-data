@@ -9,13 +9,20 @@ use Sokil\IsoCodes\TranslationDriver\SymfonyTranslationDriver;
 use Symfony\Component\Translation\Translator;
 use Symfony\Component\Translation\Loader\MoFileLoader;
 
-// Strip trailing iso-codes annotation brackets from a subdivision name.
+// Strip iso-codes annotation brackets from a country or subdivision name.
 // Upstream encodes alt-script names and parent_code references as " [...]"
 // suffixes (e.g. "Wales [Cymru GB-CYM]", "Stockholms län [SE-01]"). See #5.
-// A translation can also end with a bare opening bracket ("Gran Comora[").
+// Translators sometimes misplace them ("An [Tighina] Bender") or leave a
+// stray bracket ("Gran Comora["). A bracket is never part of a place name,
+// so remove every bracketed group, then every leftover bracket character.
+// Only plain spaces next to a bracket are collapsed: some translations use
+// intentional non-breaking spaces ("St. Kitts") that must survive.
 function stripIsoBrackets(string $name): string
 {
-    return trim(preg_replace('/\s*\[(?:[^\]]+\])?\s*$/u', '', $name));
+    $name = preg_replace('/ *\[[^\[\]]*\] */u', ' ', $name);
+    $name = preg_replace('/ *[\[\]] */u', ' ', $name);
+
+    return trim($name);
 }
 
 // Source the locale list from the iso-codes translation directory rather than
@@ -57,7 +64,7 @@ try {
     foreach ($countries as $country) {
         $alpha2 = $country->getAlpha2();
         $countriesData[$alpha2] = [];
-        $countriesData[$alpha2]['en'] = $country->getLocalName() ?: $country->getName();
+        $countriesData[$alpha2]['en'] = stripIsoBrackets($country->getLocalName() ?: $country->getName());
     }
     echo 'Processed ' . count($countriesData) . " countries for en\n";
 } catch (Exception $e) {
@@ -100,6 +107,9 @@ foreach ($allIntlLocales as $locale) {
 
             // Get the localized name
             $localizedName = $country->getLocalName();
+            if ($localizedName) {
+                $localizedName = stripIsoBrackets($localizedName);
+            }
             $enName = $countriesData[$alpha2]['en'];
 
             // Skip if translation is same as en (no point in storing duplicate)
